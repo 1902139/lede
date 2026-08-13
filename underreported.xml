@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Lede — underreported</title>
@@ -6,7 +7,7 @@
   <atom:link href="https://1902139.github.io/lede/underreported.xml" rel="self" type="application/rss+xml"/>
   <description>Stories whose coverage is concentrated outside corporate and billionaire-owned media.</description>
   <language>en</language>
-  <lastBuildDate>Thu, 13 Aug 2026 21:58:03 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 22:05:51 +0000</lastBuildDate>
   <item>
     <title>Israeli forces order families to evacuate homes in Qusra</title>
     <link>https://1902139.github.io/lede/#s/80605df7d5</link>
@@ -16,20 +17,12 @@
     <description>Drop Site is a reader-funded, independent news outlet. Without your support, we can&amp;#8217;t operate. Please consider becoming a paid subscriber or making a 501(c)(3) tax-deductible donation today . Subscribe now Israeli settlers continue their raids on the Palestinian village of Taybeh in the occupied West Bank despite the Israeli army declaring the area a 'closed military zone,' on August 10, 2026. Photo by Issam Rimawi/Anadolu via Getty Images. TAYBEH, Occupied West Bank*&amp;#8212;On Sunday, the Israeli military declared the Palestinian village of Taybeh in the occupied West Bank a closed military zone, claiming the order was aimed to prevent escalating attacks by marauding Israeli settlers. It ostensibly bars Israelis and foreigners from entering the area. But residents of the village and the surrounding area told Drop Site News that the military order is designed to further isolate…&lt;br&gt;&lt;br&gt;Covered by 1 worker-owned, 2 nonprofit, 3 public.&lt;br&gt;Sources: Al Jazeera English, BBC News, Deutsche Welle, Drop Site News, PBS NewsHour, The Guardian</description>
   </item>
   <item>
-    <title>DR Congo Ebola outbreak spreads to a sixth province</title>
-    <link>https://1902139.github.io/lede/#s/f25c055768</link>
-    <guid isPermaLink="false">lede-f25c055768</guid>
-    <pubDate>Thu, 13 Aug 2026 19:17:49 +0000</pubDate>
-    <category>Health</category>
-    <description>Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago. The current outbreak has killed more than 2,100 people out of more than 4,500 cases, according to the latest government figures released on Tuesday. At the same point in the 2014-16 outbreak in west Africa, the previous most deadly outbreak, 755 cases had been recorded, according to WHO data. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 2 nonprofit, 2 public.&lt;br&gt;Sources: Al Jazeera English, BBC News, CBS News, PBS NewsHour, The Guardian</description>
-  </item>
-  <item>
     <title>Romania shuts nuclear plant, Hungary dams dry Danube River</title>
     <link>https://1902139.github.io/lede/#s/28da9d32b1</link>
     <guid isPermaLink="false">lede-28da9d32b1</guid>
     <pubDate>Thu, 13 Aug 2026 21:21:00 +0000</pubDate>
     <category>Climate &amp; Energy</category>
-    <description>Australian ultrarunner Mina Guli has run thousands of miles around the world to witness the water crisis on the ground and campaign for solutions. By Maya McDaniel Mina Guli had run more than 25 miles when she saw the plume of smoke towering over the Utah desert. The Australian ultrarunner was preparing to run another 25 miles in the morning, but watching the nearby wildfire grow made it impossible to relax and rest up for the next day’s mileage.&lt;br&gt;&lt;br&gt;Covered by 2 nonprofit, 2 public.&lt;br&gt;Sources: BBC News, Deutsche Welle, Inside Climate News, PBS NewsHour</description>
+    <description>Australian ultrarunner Mina Guli has run thousands of miles around the world to witness the water crisis on the ground and campaign for solutions. By Maya McDaniel Mina Guli had run more than 25 miles when she saw the plume of smoke towering over the Utah desert. The Australian ultrarunner was preparing to run another 25 miles in the morning, but watching the nearby wildfire grow made it impossible to relax and rest up for the next day’s mileage.&lt;br&gt;&lt;br&gt;Covered by 2 nonprofit, 3 public.&lt;br&gt;Sources: BBC News, Deutsche Welle, Inside Climate News, PBS NewsHour</description>
   </item>
   <item>
     <title>Russian plot to kill Ukrainian American thwarted in Warsaw, says Polish PM</title>
@@ -38,6 +31,14 @@
     <pubDate>Thu, 13 Aug 2026 19:32:39 +0000</pubDate>
     <category>Justice &amp; Policing</category>
     <description>Donald Tusk says it is first time ‘someone on the order of Russia’ has sought to attack US citizen in Nato country A Russian plan to kill a Ukrainian American citizen in Warsaw was thwarted by Poland before it could be carried out, the Polish prime minister has said. Donald Tusk said it was the first time that “someone on the order of Russia” had sought to attack a US citizen on the territory of another Nato country. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 2 nonprofit, 2 public.&lt;br&gt;Sources: Al Jazeera English, France 24, PBS NewsHour, The Guardian</description>
+  </item>
+  <item>
+    <title>DR Congo Ebola outbreak spreads to a sixth province</title>
+    <link>https://1902139.github.io/lede/#s/f25c055768</link>
+    <guid isPermaLink="false">lede-f25c055768</guid>
+    <pubDate>Thu, 13 Aug 2026 19:17:49 +0000</pubDate>
+    <category>Health</category>
+    <description>Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago. The current outbreak has killed more than 2,100 people out of more than 4,500 cases, according to the latest government figures released on Tuesday. At the same point in the 2014-16 outbreak in west Africa, the previous most deadly outbreak, 755 cases had been recorded, according to WHO data. Continue reading...&lt;br&gt;&lt;br&gt;Covered by 1 corporate, 2 nonprofit, 1 public.&lt;br&gt;Sources: Al Jazeera English, CBS News, PBS NewsHour, The Guardian</description>
   </item>
   <item>
     <title>Oklahoma and Tennessee each execute one man in two of three US executions scheduled on same day</title>

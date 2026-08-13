@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-13T21:58:03.248312+00:00",
+ "generated": "2026-08-13T22:05:51.534970+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -7,40 +7,86 @@
   {
    "id": "71fb8fbda7",
    "topic": "Politics",
-   "summary": "The Kennedy Center board voted Thursday to again add President Trump's name to the John F. Kennedy Center for the Performing Arts, two anonymous sources told Axios. Why it matters: The move challenges a federal judge's ruling back in May that only Congress could change the name of the performing arts venue, and that Trump's name must be removed . That process was completed in June. U.S. District Judge Christopher Cooper concluded that the board had \"overstepped its statutory bounds by unilaterally renaming\" the center after the president. The administration has appealed the ruling. Zoom in: Thursday's vote won't make Trump's name part of the complex. Instead, an inscription will go below the Kennedy Center sign that reads \"Restored and Renovated by President Donald J. Trump,\" and the physical site will be renamed \"the President Donald J. Trump Plaza.\" The decision is likely meant to\u2026",
-   "summaryFrom": "axios",
+   "summary": "A person walks past scaffolding and a large protective tarp covering the facade of the John F. Kennedy Center for the Performing Arts, guarded by two security guards, in Washington, D.C., on August 13, 2026. \u2014Brendan Smialowski\u2014AFP/Getty Images The Kennedy Center board on Thursday voted to put President Donald Trump\u2019s name back on the building\u2019s facade, setting the stage to test a judge\u2019s order from May that mandated its removal. The board, made up of mostly Trump loyalists , voted 20-3 to change the name of the building to \u201cThe John F. Kennedy Center for the Performing Arts Restored and Renovated by President Donald J. Trump\u201d while naming the center\u2019s grounds \u201cPresident Donald J. Trump Plaza,\u201d according to attendees of Thursday\u2019s meeting who spoke to multiple media outlets. The board also once again voted to close the performing arts center for up to two years for renovations.\u2026",
+   "summaryFrom": "time",
    "emphasis": {
-    "bigCount": 11,
-    "indieCount": 6,
+    "bigCount": 14,
+    "indieCount": 7,
     "big": [
      "thursday",
-     "inscribe",
-     "inscription",
+     "person",
      "john",
-     "resolution",
-     "ordered"
+     "restored",
+     "renovated",
+     "inscribe"
     ],
     "indie": [
      "shut",
-     "closure"
+     "closure",
+     "texas"
     ]
    },
    "absent": [
     "coop"
    ],
    "headline": "Trump-led board reportedly votes again to close Kennedy Center for renovations \u2013 live",
-   "updated": "2026-08-13T21:44:23+00:00",
-   "outletCount": 17,
+   "updated": "2026-08-13T22:02:14+00:00",
+   "outletCount": 20,
    "counts": {
-    "corp": 6,
-    "nonprofit": 4,
-    "pub": 2,
-    "family": 5
+    "family": 7,
+    "corp": 7,
+    "nonprofit": 5,
+    "pub": 2
    },
-   "newsCount": 17,
+   "newsCount": 21,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "time",
+     "title": "Kennedy Center Board Votes to Put Trump's Name Back on the Building, Testing Judge's Order",
+     "url": "https://time.com/article/2026/08/13/kennedy-center-trump-name-board-vote-judge-order/",
+     "author": "Connor Greene",
+     "kind": "news",
+     "published": "2026-08-13T22:02:14+00:00",
+     "summary": "A person walks past scaffolding and a large protective tarp covering the facade of the John F. Kennedy Center for the Performing Arts, guarded by two security guards, in Washington, D.C., on August 13, 2026. \u2014Brendan Smialowski\u2014AFP/Getty Images The Kennedy Center board on Thursday voted to put President Donald Trump\u2019s name back on the building\u2019s facade, setting the stage to test a judge\u2019s order from May that mandated its removal. The board, made up of mostly Trump loyalists , voted 20-3 to change the name of the building to \u201cThe John F. Kennedy Center for the Performing Arts Restored and Renovated by President Donald J. Trump\u201d while naming the center\u2019s grounds \u201cPresident Donald J. Trump Plaza,\u201d according to attendees of Thursday\u2019s meeting who spoke to multiple media outlets. The board also once again voted to close the performing arts center for up to two years for renovations. Operations are set to shift to the REACH, another building on the campus, while they are completed. \u201cThis morning\u2019s decision to close the Center and the surprise agenda item to put Donald Trump\u2019s name back on the building was more of the same,\u201d Democratic Rep. Joyce Beatty of Ohio, an ex-officio board member"
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Kennedy Center board votes to restore Trump's name on building",
+     "url": "https://www.cbsnews.com/news/kennedy-center-board-votes-trump-name-joyce-beatty/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T22:00:48+00:00",
+     "summary": "The Kennedy Center's board of trustees voted to add President Trump's name to the facade of the performing arts center, more than two months after a judge ordered its removal, according to a Democrat who sits on the center's board."
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Trump&#039;s Name to Stay on Kennedy Center: How Loophole Will Be Challenged",
+     "url": "https://www.newsweek.com/kennedy-center-closure-vote-name-change-donald-trump-12320510",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T22:00:37+00:00",
+     "summary": "The Kennedy Center board has proposed a new way to put President Donald Trump\u2019s name back on the building."
+    },
+    {
+     "outlet": "nypost",
+     "title": "Kennedy Center board creates \u2018Trump Plaza\u2019 and plans to add prez\u2019s name back to building",
+     "url": "https://nypost.com/2026/08/13/us-news/kennedy-center-board-creates-trump-plaza-and-plans-to-add-prezs-name-back-to-building/",
+     "author": "Steven Nelson",
+     "kind": "news",
+     "published": "2026-08-13T22:00:02+00:00",
+     "summary": "In a twist, the board's latest plan calls for additional wording: \"Restored and Renovated by President Donald J. Trump.\u201d"
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump-led board reportedly votes again to close Kennedy Center for renovations \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/aug/13/karoline-leavitt-white-house-primaries-trump-politics-latest-updates",
+     "author": "Robert Mackey (now); Shrai Popat, Lucy Campbell and Mabel Banfield-Nwachi (earlier)",
+     "kind": "news",
+     "published": "2026-08-13T21:47:17+00:00",
+     "summary": "In May, a judge issued a temporary block on Trump\u2019s demand to close the arts institution for renovations after the board \u2013 mostly handpicked by the president \u2013 voted unanimously in favor Sign up for the Breaking News US email Donald Trump\u2019s executive order on vaccines does not change the US recommendations for the shots \u2013 but experts say it does create confusion and doubt about vaccines, which will lead to more illness and possibly deaths among children and will make it harder for families and pediatricians to protect them. The executive order was an attempt to reinstate sweeping changes to the vaccine schedule made earlier this year by Robert F Kennedy Jr, secretary of the US Department of Health and Human Services and a longtime vaccine opponent \u2013 changes that were later halted by a federal judge. Continue reading..."
+    },
     {
      "outlet": "abcnews",
      "title": "Kennedy Center board votes to close for renovations and add Trump's name: Rep. Beatty",
@@ -58,15 +104,6 @@
      "kind": "news",
      "published": "2026-08-13T21:36:42+00:00",
      "summary": "The Kennedy Center board voted Thursday to again add President Trump's name to the John F. Kennedy Center for the Performing Arts, two anonymous sources told Axios. Why it matters: The move challenges a federal judge's ruling back in May that only Congress could change the name of the performing arts venue, and that Trump's name must be removed . That process was completed in June. U.S. District Judge Christopher Cooper concluded that the board had \"overstepped its statutory bounds by unilaterally renaming\" the center after the president. The administration has appealed the ruling. Zoom in: Thursday's vote won't make Trump's name part of the complex. Instead, an inscription will go below the Kennedy Center sign that reads \"Restored and Renovated by President Donald J. Trump,\" and the physical site will be renamed \"the President Donald J. Trump Plaza.\" The decision is likely meant to circumvent both the judge's ruling and a federal law that oversees the Kennedy Center, which reads in part, \"no additional memorials or plaques in the nature of memorials shall be designated or installed in the public areas.\" \"This latest development is a transparent effort to circumvent the Court's rul"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump-led board reportedly votes again to close Kennedy Center for renovations \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/aug/13/karoline-leavitt-white-house-primaries-trump-politics-latest-updates",
-     "author": "Robert Mackey (now); Shrai Popat, Lucy Campbell and Mabel Banfield-Nwachi (earlier)",
-     "kind": "news",
-     "published": "2026-08-13T21:36:16+00:00",
-     "summary": "In May, a judge issued a temporary block on Trump\u2019s demand to close the arts institution for renovations after the board \u2013 mostly handpicked by the president \u2013 voted unanimously in favor Sign up for the Breaking News US email Donald Trump\u2019s executive order on vaccines does not change the US recommendations for the shots \u2013 but experts say it does create confusion and doubt about vaccines, which will lead to more illness and possibly deaths among children and will make it harder for families and pediatricians to protect them. The executive order was an attempt to reinstate sweeping changes to the vaccine schedule made earlier this year by Robert F Kennedy Jr, secretary of the US Department of Health and Human Services and a longtime vaccine opponent \u2013 changes that were later halted by a federal judge. Continue reading..."
     },
     {
      "outlet": "aljazeera",
@@ -103,15 +140,6 @@
      "kind": "news",
      "published": "2026-08-13T20:20:38+00:00",
      "summary": "A federal judge ruled in May that the Kennedy Center had an \u201cobligation to both maintain and operate a premiere arts venue\u201d and a \u201csolemn duty to memorialize a fallen president.\u201d"
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Kennedy Center board votes to restore Trump's name on building",
-     "url": "https://www.cbsnews.com/news/kennedy-center-board-votes-trump-name-joyce-beatty/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T20:17:00+00:00",
-     "summary": "The Kennedy Center's board of trustees voted to add President Trump's name to the facade of the performing arts center, more than two months after a judge ordered its removal, according to a Democrat who sits on the center's board."
     },
     {
      "outlet": "thehill",
@@ -187,6 +215,15 @@
     },
     {
      "outlet": "texastribune",
+     "title": "Migrant kids are often being held in a South Texas detention center five times longer than a court order allows",
+     "url": "https://feeds.texastribune.org/link/16799/17415949/texas-immigration-ice-detention-children-dilley",
+     "author": "Uriel J. Garc\u00eda, Alex Nguyen, Colleen DeGuzman, and Alex Ford",
+     "kind": "news",
+     "published": "2026-08-12T10:00:00+00:00",
+     "summary": "The nation\u2019s only detention center for families is routinely holding children beyond the 20-day limit, including an Iranian-born \u201caverage American kid\u201d who\u2019s been locked up for 123 days and counting."
+    },
+    {
+     "outlet": "texastribune",
      "title": "Texas fights court ruling requiring that defendants get quicker access to psychiatric hospitals",
      "url": "https://feeds.texastribune.org/link/16799/17414652/texas-state-hospital-bed-mental-health-trial-competency",
      "author": "By Katlyn Ma",
@@ -197,7 +234,7 @@
    ]
   },
   {
-   "id": "021e043d2a",
+   "id": "467bd47da8",
    "topic": "Health",
    "summary": "Defense secretary said conditions on aircraft carrier deployed in support of Iran war have been \u2018completely misrepresented\u2019 The US defense secretary, Pete Hegseth, insisted a wave of reports describing deteriorating conditions and mental health struggles onboard the aircraft carrier USS Abraham Lincoln \u201ccompletely misrepresented\u201d the situation, pushing back against growing congressional pressure over the ship\u2019s record-breaking, nearly nine-month deployment. \u201cWe make sure every ship, every crew, every captain has everything we can provide them at every single moment,\u201d Hegseth told reporters during a visit to Panama, adding that \u201csome deployments are longer than others\u201d and praising sailors enduring \u201chigh seas\u201d and \u201caustere conditions with less port calls\u201d. Continue reading...",
    "summaryFrom": "guardian",
@@ -213,30 +250,39 @@
      "demand"
     ],
     "indie": [
-     "secretary",
-     "pete",
-     "completely",
      "hegseth",
      "defense",
-     "misrepresented"
+     "misrepresented",
+     "pete",
+     "secretary",
+     "completely"
     ]
    },
    "absent": [
     "coop"
    ],
-   "headline": "Pete Hegseth dismisses reports of deteriorating conditions on USS Abraham Lincoln",
-   "updated": "2026-08-13T21:32:15+00:00",
+   "headline": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+   "updated": "2026-08-13T22:02:54+00:00",
    "outletCount": 10,
    "counts": {
+    "pub": 3,
     "corp": 5,
     "nonprofit": 1,
-    "pub": 3,
     "family": 1
    },
    "newsCount": 10,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+     "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T22:02:54+00:00",
+     "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+    },
     {
      "outlet": "thehill",
      "title": "New aircraft carrier going to Middle East amid questions over conditions on USS Abraham Lincoln",
@@ -263,15 +309,6 @@
      "kind": "news",
      "published": "2026-08-13T20:06:25+00:00",
      "summary": "Defense secretary said conditions on aircraft carrier deployed in support of Iran war have been \u2018completely misrepresented\u2019 The US defense secretary, Pete Hegseth, insisted a wave of reports describing deteriorating conditions and mental health struggles onboard the aircraft carrier USS Abraham Lincoln \u201ccompletely misrepresented\u201d the situation, pushing back against growing congressional pressure over the ship\u2019s record-breaking, nearly nine-month deployment. \u201cWe make sure every ship, every crew, every captain has everything we can provide them at every single moment,\u201d Hegseth told reporters during a visit to Panama, adding that \u201csome deployments are longer than others\u201d and praising sailors enduring \u201chigh seas\u201d and \u201caustere conditions with less port calls\u201d. Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-     "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T20:01:30+00:00",
-     "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
     },
     {
      "outlet": "dw",
@@ -455,8 +492,8 @@
     "indieCount": 4,
     "big": [
      "homeland",
-     "security",
      "shocks",
+     "security",
      "agent"
     ],
     "indie": [
@@ -703,10 +740,10 @@
     "indie": [
      "richard",
      "violation",
-     "ongoing",
      "stearns",
+     "ongoing",
      "rights",
-     "court"
+     "gaza"
     ]
    },
    "absent": [
@@ -799,13 +836,13 @@
     "bigCount": 3,
     "indieCount": 4,
     "big": [
-     "court",
-     "filed"
+     "filed",
+     "court"
     ],
     "indie": [
      "president's",
-     "monetize",
-     "announced"
+     "announced",
+     "monetize"
     ]
    },
    "absent": [
@@ -968,75 +1005,6 @@
    ]
   },
   {
-   "id": "f25c055768",
-   "topic": "Health",
-   "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago. The current outbreak has killed more than 2,100 people out of more than 4,500 cases, according to the latest government figures released on Tuesday. At the same point in the 2014-16 outbreak in west Africa, the previous most deadly outbreak, 755 cases had been recorded, according to WHO data. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop"
-   ],
-   "headline": "DR Congo Ebola outbreak spreads to a sixth province",
-   "updated": "2026-08-13T19:17:49+00:00",
-   "outletCount": 5,
-   "counts": {
-    "corp": 1,
-    "pub": 2,
-    "nonprofit": 2
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Ebola outbreak in Congo could be deadliest ever, global health chief warns",
-     "url": "https://www.cbsnews.com/video/global-health-chief-warns-ebola-outbreak-in-congo-could-be-deadliest-ever/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T19:17:49+00:00",
-     "summary": "Dr. Tedros Adhanom Ghebreyesus, the head of the World Health Organization, is warning that the Ebola outbreak in Congo could be the deadliest ever. CBS News' Ramy Inoncencio reports."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "DR Congo Ebola outbreak spreads to a sixth province",
-     "url": "https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T17:18:01+00:00",
-     "summary": "Ebola outbreak has killed 2,128 people out of around 4,566 recorded cases in the DRC, according to government figures."
-    },
-    {
-     "outlet": "guardian",
-     "title": "DRC\u2019s fast-growing Ebola outbreak spreads to sixth province",
-     "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-     "author": "Rachel Savage and agencies",
-     "kind": "news",
-     "published": "2026-08-13T15:17:13+00:00",
-     "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago. The current outbreak has killed more than 2,100 people out of more than 4,500 cases, according to the latest government figures released on Tuesday. At the same point in the 2014-16 outbreak in west Africa, the previous most deadly outbreak, 755 cases had been recorded, according to WHO data. Continue reading..."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says",
-     "url": "https://www.pbs.org/newshour/world/ebola-outbreak-has-spread-to-new-province-in-congo-the-head-of-africa-cdc-says",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-13T14:27:33+00:00",
-     "summary": "Congo's Ebola outbreak has spread to a sixth province, after a death was recorded in the previously unaffected Bas-Uele province, Africa CDC Director-General Jean Kaseya said Thursday."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-     "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T01:31:21+00:00",
-     "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases."
-    }
-   ]
-  },
-  {
    "id": "50b18ce1a8",
    "topic": "Other",
    "summary": "Democratic Wisconsin gubernatorial candidate Francesca Hong speaks to reporters after voting in the primary election on August 11, 2026, in Madison, Wisconsin. | Scott Olson/Getty Images It turns out there is a limit to how far left Democrats are willing to go with a crucial swing state on the line.&nbsp; Francesca Hong ran up against that wall on Tuesday, falling short in her race against Milwaukee County Executive David Crowley for the Democratic gubernatorial nomination in Wisconsin.&nbsp; He\u2019ll go up against Rep. Tom Tiffany, a Republican backed by President Donald Trump and closely associated with his MAGA movement, setting up a major contrast in a state where elections are often decided by paper-thin margins. Had Hong won, she would have had a chance to become the first democratic socialist governor in any state in US history. And Hong was the story of the election for most of the\u2026",
@@ -1106,66 +1074,6 @@
    ]
   },
   {
-   "id": "a5446ebb54",
-   "topic": "Politics",
-   "summary": "House Democrats went into the vote on the Stop Insider Trading Act last month groaning that it was all a big Republican set-up. Now they're fuming that the trap has been sprung. Why it matters: A well-funded Republican group is blanketing the airwaves lauding GOP lawmakers in key swing districts \u2014 including some with reputations for prolific stock trading \u2014 as champions on the issue. \"Corrupt congressmen treat the House floor like a trading floor. Thankfully, Congressman Rob Bresnahan voted to stop it,\" says one of the ads . Issue advocacy group Choose Freedom Inc. has put a whopping $9 million into running the spots across nearly 20 congressional districts, according to ad tracking firm AdImpact. Catch up quick: The House voted 232 to 198 in July to pass the Stop Insider Trading Act , which would ban members of Congress and their families from purchasing individual stocks. The bill\u2026",
-   "summaryFrom": "axios",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "\"It is despicable\": House Democrats rage over Republican stock trading \"set-up\"",
-   "updated": "2026-08-13T21:51:56+00:00",
-   "outletCount": 4,
-   "counts": {
-    "corp": 2,
-    "family": 2
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "axios",
-     "title": "\"It is despicable\": House Democrats rage over Republican stock trading \"set-up\"",
-     "url": "https://www.axios.com/2026/08/13/republicans-insider-congress-stock-trading-ads",
-     "author": "Andrew Solender",
-     "kind": "news",
-     "published": "2026-08-13T21:51:56+00:00",
-     "summary": "House Democrats went into the vote on the Stop Insider Trading Act last month groaning that it was all a big Republican set-up. Now they're fuming that the trap has been sprung. Why it matters: A well-funded Republican group is blanketing the airwaves lauding GOP lawmakers in key swing districts \u2014 including some with reputations for prolific stock trading \u2014 as champions on the issue. \"Corrupt congressmen treat the House floor like a trading floor. Thankfully, Congressman Rob Bresnahan voted to stop it,\" says one of the ads . Issue advocacy group Choose Freedom Inc. has put a whopping $9 million into running the spots across nearly 20 congressional districts, according to ad tracking firm AdImpact. Catch up quick: The House voted 232 to 198 in July to pass the Stop Insider Trading Act , which would ban members of Congress and their families from purchasing individual stocks. The bill only applies to the legislative branch, however, and has carveouts for holding onto and selling pre-owned stocks, and buying pooled investment vehicles such as mutual funds and ETFs. The bill \"allows members to still own stock and doesn't include the president or cabinet,\" Rep. Debbie Dingell (D-Mich.),"
-    },
-    {
-     "outlet": "forbes",
-     "title": "Democrats Demand Answers On Trump\u2019s \u2018Unprecedented\u2019 Stock Trading Volume",
-     "url": "https://www.forbes.com/sites/saradorn/2026/08/13/democrats-demand-answers-on-trumps-unprecedented-stock-trading-volume/",
-     "author": "Sara Dorn, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-13T17:25:21+00:00",
-     "summary": "\u201cThe American people deserve to know that the President is not using his office to increase the value of his stock portfolios, rather than working to bring down the cost of groceries,\u201d they wrote."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Trump Hit With Bombshell Demand Over Staggering Stock Trades",
-     "url": "https://www.thedailybeast.com/trump-hit-with-bombshell-demand-over-staggering-stock-trades/",
-     "author": "Martha McHardy",
-     "kind": "news",
-     "published": "2026-08-13T16:18:27+00:00",
-     "summary": "Reuters President Donald Trump is facing new demands from two top Democrats to explain a staggering volume of stock trades made in his name while he has been in the White House. Sen. Elizabeth Warren and Rep. Robert Garcia sent Trump a 17-page letter Wednesday, first reported by CNBC , questioning more than 21,000 trades in 2025 and another 3,500 during the first three months of 2026. The transactions generated more than $2.2 billion in revenue last year, according to the New York Times. Read more at The Daily Beast."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "House Republican urges new Trump AG Blanche to shut down Biden-era NYC heroin injection sites",
-     "url": "https://www.foxnews.com/politics/house-republican-urges-new-trump-ag-blanche-shut-down-biden-era-nyc-heroin-injection-sites",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T14:53:06+00:00",
-     "summary": "Rep. Nicole Malliotakis, R-N.Y., slammed Biden administration-funded heroin injection sites in New York City in an interview with Fox News Digital. At the heart of Malliotakis' complaints are two Overdose Prevention Centers (OPCs) in Manhattan \u2014 one in East Harlem and the other in Washington Heights \u2014 that, until recently, funneled federal funds to \"supervised consumption services,\" including the supervised use of illicit drugs such as heroin, a Schedule I controlled substance. \"People literally go there like it's a community center, hang out, and shoot up drugs. It's signaling to drug dealers where their clients are located and attracting a criminal element in and around the facility,\" Malliotakis told Fox News Digital. \"We don't want to see this spread throughout the City of New York or the rest of the country, which is why it's critical for the Department of Justice to step in now to stop these illegally operating heroin injection centers \u2014 to make an example of what's taking place in New York City so other municipalities throughout the country don't think about opening them,\" she continued. EX-EMPLOYEE OF TAXPAYER-FUNDED NONPROFIT CAUGHT SELLING FENTANYL NEAR LA PARK: DOCS Mall"
-    }
-   ]
-  },
-  {
    "id": "8d8860f340",
    "topic": "Health",
    "summary": "A surrogate mother gave birth to a baby against its biological parents' wishes after fleeing to Texas with help from state Attorney General Ken Paxton. Surrogate mother McKenna West fled to Texas after her baby was diagnosed with hypoplastic left heart syndrome around the time West was 20 weeks pregnant. The diagnosis allegedly prompted the baby's birth parents to ask West to have an abortion , Paxton's office wrote in a news release Tuesday. After West went to Texas, Paxton intervened, formally notifying UT Southwestern Medical Center and Children\u2019s Medical Center of Dallas of their legal obligations to provide the baby with \"medically necessary, life-saving care upon birth,\" his office wrote . DEM GOV MAURA HEALEY SIGNS SWEEPING MASSACHUSETTS BILL ALLOWING ABORTIONS UP TO BIRTH \"The court has made the right decision in immediately acting to protect baby Gabriel\u2019s life and ensure he\u2026",
@@ -1177,9 +1085,9 @@
      "abortion",
      "weeks",
      "diagnosed",
-     "defect",
+     "syndrome",
      "left",
-     "syndrome"
+     "hypoplastic"
     ],
     "indie": []
    },
@@ -1261,10 +1169,10 @@
    "updated": "2026-08-13T21:21:00+00:00",
    "outletCount": 4,
    "counts": {
-    "pub": 2,
+    "pub": 3,
     "nonprofit": 2
    },
-   "newsCount": 4,
+   "newsCount": 5,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
@@ -1303,6 +1211,15 @@
      "kind": "news",
      "published": "2026-08-13T09:00:00+00:00",
      "summary": "Australian ultrarunner Mina Guli has run thousands of miles around the world to witness the water crisis on the ground and campaign for solutions. By Maya McDaniel Mina Guli had run more than 25 miles when she saw the plume of smoke towering over the Utah desert. The Australian ultrarunner was preparing to run another 25 miles in the morning, but watching the nearby wildfire grow made it impossible to relax and rest up for the next day\u2019s mileage."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
+     "url": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T11:28:05+00:00",
+     "summary": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies."
     }
    ]
   },
@@ -1363,6 +1280,66 @@
      "kind": "news",
      "published": "2026-08-13T14:46:15+00:00",
      "summary": "Polish Prime Minister Donald Tusk said it marks the first time Russia sought to attack an American citizen in another NATO country."
+    }
+   ]
+  },
+  {
+   "id": "f25c055768",
+   "topic": "Health",
+   "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago. The current outbreak has killed more than 2,100 people out of more than 4,500 cases, according to the latest government figures released on Tuesday. At the same point in the 2014-16 outbreak in west Africa, the previous most deadly outbreak, 755 cases had been recorded, according to WHO data. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "DR Congo Ebola outbreak spreads to a sixth province",
+   "updated": "2026-08-13T19:17:49+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 1,
+    "pub": 1,
+    "nonprofit": 2
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Ebola outbreak in Congo could be deadliest ever, global health chief warns",
+     "url": "https://www.cbsnews.com/video/global-health-chief-warns-ebola-outbreak-in-congo-could-be-deadliest-ever/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T19:17:49+00:00",
+     "summary": "Dr. Tedros Adhanom Ghebreyesus, the head of the World Health Organization, is warning that the Ebola outbreak in Congo could be the deadliest ever. CBS News' Ramy Inoncencio reports."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "DR Congo Ebola outbreak spreads to a sixth province",
+     "url": "https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T17:18:01+00:00",
+     "summary": "Ebola outbreak has killed 2,128 people out of around 4,566 recorded cases in the DRC, according to government figures."
+    },
+    {
+     "outlet": "guardian",
+     "title": "DRC\u2019s fast-growing Ebola outbreak spreads to sixth province",
+     "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+     "author": "Rachel Savage and agencies",
+     "kind": "news",
+     "published": "2026-08-13T15:17:13+00:00",
+     "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago. The current outbreak has killed more than 2,100 people out of more than 4,500 cases, according to the latest government figures released on Tuesday. At the same point in the 2014-16 outbreak in west Africa, the previous most deadly outbreak, 755 cases had been recorded, according to WHO data. Continue reading..."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says",
+     "url": "https://www.pbs.org/newshour/world/ebola-outbreak-has-spread-to-new-province-in-congo-the-head-of-africa-cdc-says",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-13T14:27:33+00:00",
+     "summary": "Congo's Ebola outbreak has spread to a sixth province, after a death was recorded in the previously unaffected Bas-Uele province, Africa CDC Director-General Jean Kaseya said Thursday."
     }
    ]
   },
@@ -1435,9 +1412,9 @@
     "bigCount": 2,
     "indieCount": 3,
     "big": [
-     "president",
      "funding",
-     "donald"
+     "donald",
+     "president"
     ],
     "indie": [
      "rights"
@@ -1636,8 +1613,8 @@
     "indieCount": 2,
     "big": [],
     "indie": [
-     "nbsp",
-     "milwaukee"
+     "milwaukee",
+     "nbsp"
     ]
    },
    "absent": [
@@ -1806,7 +1783,58 @@
    ]
   },
   {
-   "id": "8da26ae32d",
+   "id": "a5446ebb54",
+   "topic": "Politics",
+   "summary": "House Democrats went into the vote on the Stop Insider Trading Act last month groaning that it was all a big Republican set-up. Now they're fuming that the trap has been sprung. Why it matters: A well-funded Republican group is blanketing the airwaves lauding GOP lawmakers in key swing districts \u2014 including some with reputations for prolific stock trading \u2014 as champions on the issue. \"Corrupt congressmen treat the House floor like a trading floor. Thankfully, Congressman Rob Bresnahan voted to stop it,\" says one of the ads . Issue advocacy group Choose Freedom Inc. has put a whopping $9 million into running the spots across nearly 20 congressional districts, according to ad tracking firm AdImpact. Catch up quick: The House voted 232 to 198 in July to pass the Stop Insider Trading Act , which would ban members of Congress and their families from purchasing individual stocks. The bill\u2026",
+   "summaryFrom": "axios",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "\"It is despicable\": House Democrats rage over Republican stock trading \"set-up\"",
+   "updated": "2026-08-13T21:51:56+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 2,
+    "family": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "axios",
+     "title": "\"It is despicable\": House Democrats rage over Republican stock trading \"set-up\"",
+     "url": "https://www.axios.com/2026/08/13/republicans-insider-congress-stock-trading-ads",
+     "author": "Andrew Solender",
+     "kind": "news",
+     "published": "2026-08-13T21:51:56+00:00",
+     "summary": "House Democrats went into the vote on the Stop Insider Trading Act last month groaning that it was all a big Republican set-up. Now they're fuming that the trap has been sprung. Why it matters: A well-funded Republican group is blanketing the airwaves lauding GOP lawmakers in key swing districts \u2014 including some with reputations for prolific stock trading \u2014 as champions on the issue. \"Corrupt congressmen treat the House floor like a trading floor. Thankfully, Congressman Rob Bresnahan voted to stop it,\" says one of the ads . Issue advocacy group Choose Freedom Inc. has put a whopping $9 million into running the spots across nearly 20 congressional districts, according to ad tracking firm AdImpact. Catch up quick: The House voted 232 to 198 in July to pass the Stop Insider Trading Act , which would ban members of Congress and their families from purchasing individual stocks. The bill only applies to the legislative branch, however, and has carveouts for holding onto and selling pre-owned stocks, and buying pooled investment vehicles such as mutual funds and ETFs. The bill \"allows members to still own stock and doesn't include the president or cabinet,\" Rep. Debbie Dingell (D-Mich.),"
+    },
+    {
+     "outlet": "forbes",
+     "title": "Democrats Demand Answers On Trump\u2019s \u2018Unprecedented\u2019 Stock Trading Volume",
+     "url": "https://www.forbes.com/sites/saradorn/2026/08/13/democrats-demand-answers-on-trumps-unprecedented-stock-trading-volume/",
+     "author": "Sara Dorn, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-13T17:25:21+00:00",
+     "summary": "\u201cThe American people deserve to know that the President is not using his office to increase the value of his stock portfolios, rather than working to bring down the cost of groceries,\u201d they wrote."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Trump Hit With Bombshell Demand Over Staggering Stock Trades",
+     "url": "https://www.thedailybeast.com/trump-hit-with-bombshell-demand-over-staggering-stock-trades/",
+     "author": "Martha McHardy",
+     "kind": "news",
+     "published": "2026-08-13T16:18:27+00:00",
+     "summary": "Reuters President Donald Trump is facing new demands from two top Democrats to explain a staggering volume of stock trades made in his name while he has been in the White House. Sen. Elizabeth Warren and Rep. Robert Garcia sent Trump a 17-page letter Wednesday, first reported by CNBC , questioning more than 21,000 trades in 2025 and another 3,500 during the first three months of 2026. The transactions generated more than $2.2 billion in revenue last year, according to the New York Times. Read more at The Daily Beast."
+    }
+   ]
+  },
+  {
+   "id": "0514579a57",
    "topic": "Justice & Policing",
    "summary": "A federal appeals court on Thursday sidestepped major questions on whether President Trump lawfully invoked the Alien Enemies Act last year to conduct swift deportations, finding a key challenge moot. The case had boomeranged from the Supreme Court after Trump began deportations under the rarely used law in the early months of his administration\u2019s immigration crackdown. The jurists on...",
    "summaryFrom": "thehill",
@@ -1816,8 +1844,8 @@
     "nonprofit",
     "pub"
    ],
-   "headline": "Appeals Court Sidesteps Key Question Over Trump\u2019s Use of Wartime Law",
-   "updated": "2026-08-13T21:49:22+00:00",
+   "headline": "Appeals Court Sidesteps Key Question Over Trump\u2019s Use of Alien Enemies Act",
+   "updated": "2026-08-13T21:49:23+00:00",
    "outletCount": 3,
    "counts": {
     "family": 1,
@@ -1829,11 +1857,11 @@
    "articles": [
     {
      "outlet": "nyt",
-     "title": "Appeals Court Sidesteps Key Question Over Trump\u2019s Use of Wartime Law",
+     "title": "Appeals Court Sidesteps Key Question Over Trump\u2019s Use of Alien Enemies Act",
      "url": "https://www.nytimes.com/2026/08/13/us/politics/alien-enemies-act-trump-appeals-court.html",
      "author": "Alan Feuer",
      "kind": "news",
-     "published": "2026-08-13T21:49:22+00:00",
+     "published": "2026-08-13T21:49:23+00:00",
      "summary": "President Trump issued a proclamation in March 2025 drawing on the sweeping powers of the Alien Enemies Act to deport people accused of being members of a Venezuelan gang."
     },
     {
@@ -1866,9 +1894,9 @@
    ]
   },
   {
-   "id": "71e6200159",
+   "id": "10d47e9a82",
    "topic": "Politics",
-   "summary": "WASHINGTON \u2014 The World War II Memorial on the National Mall was vandalized Thursday, along with a fountain that was found overflowing with bubbles, the latest incident in which prominent monuments have been targeted in the nation's capital . U.S. Park Police were on the scene and blocked off the area. \"Clean hands, dirty money,\" letters in bright pink spray paint read. WHO IS DAVID HEARN? US OLYMPIAN WHO DENIES VANDALIZING REFLECTING POOL AFTER VIRAL ARREST The Department of the Interior called the vandalism an \"utter disgrace.\" \"The vandalism that occurred is an utter disgrace and will not be tolerated,\" an agency spokesperson told Fox News Digital. \"Our U.S. Park Police are on the scene and the investigation is ongoing. The public should know we will find the person responsible for this disgusting act.\" The agency noted that the memorial honors the armed forces and the more than\u2026",
+   "summary": "Rep. Nicole Malliotakis, R-N.Y., slammed Biden administration-funded heroin injection sites in New York City in an interview with Fox News Digital. At the heart of Malliotakis' complaints are two Overdose Prevention Centers (OPCs) in Manhattan \u2014 one in East Harlem and the other in Washington Heights \u2014 that, until recently, funneled federal funds to \"supervised consumption services,\" including the supervised use of illicit drugs such as heroin, a Schedule I controlled substance. \"People literally go there like it's a community center, hang out, and shoot up drugs. It's signaling to drug dealers where their clients are located and attracting a criminal element in and around the facility,\" Malliotakis told Fox News Digital. \"We don't want to see this spread throughout the City of New York or the rest of the country, which is why it's critical for the Department of Justice to step in now to\u2026",
    "summaryFrom": "foxnews",
    "emphasis": null,
    "absent": [
@@ -1876,7 +1904,58 @@
     "nonprofit",
     "pub"
    ],
-   "headline": "World War II Memorial on National Mall vandalized with pink spray paint, fountain overflowing with bubbles",
+   "headline": "Trump cancels Biden-era bid to speed power line construction",
+   "updated": "2026-08-13T21:41:09+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "Trump cancels Biden-era bid to speed power line construction",
+     "url": "https://thehill.com/policy/energy-environment/6028881-energy-dept-scraps-transmission-corridors/",
+     "author": "Rachel Frazin",
+     "kind": "news",
+     "published": "2026-08-13T21:41:09+00:00",
+     "summary": "The Trump administration is canceling a Biden-era effort to speed up power line construction in parts of Pennsylvania, Colorado, New Mexico, Oklahoma, Nebraska and the Dakotas. The Energy Department announced this week that it would not move forward with designating three areas as National Interest Electric Transmission Corridors, a move that could get them federal..."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "House Republican urges new Trump AG Blanche to shut down Biden-era NYC heroin injection sites",
+     "url": "https://www.foxnews.com/politics/house-republican-urges-new-trump-ag-blanche-shut-down-biden-era-nyc-heroin-injection-sites",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T14:53:06+00:00",
+     "summary": "Rep. Nicole Malliotakis, R-N.Y., slammed Biden administration-funded heroin injection sites in New York City in an interview with Fox News Digital. At the heart of Malliotakis' complaints are two Overdose Prevention Centers (OPCs) in Manhattan \u2014 one in East Harlem and the other in Washington Heights \u2014 that, until recently, funneled federal funds to \"supervised consumption services,\" including the supervised use of illicit drugs such as heroin, a Schedule I controlled substance. \"People literally go there like it's a community center, hang out, and shoot up drugs. It's signaling to drug dealers where their clients are located and attracting a criminal element in and around the facility,\" Malliotakis told Fox News Digital. \"We don't want to see this spread throughout the City of New York or the rest of the country, which is why it's critical for the Department of Justice to step in now to stop these illegally operating heroin injection centers \u2014 to make an example of what's taking place in New York City so other municipalities throughout the country don't think about opening them,\" she continued. EX-EMPLOYEE OF TAXPAYER-FUNDED NONPROFIT CAUGHT SELLING FENTANYL NEAR LA PARK: DOCS Mall"
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Liz Mair: Trump Holds The Power To Republican Victories In November But Does He Have The Will?",
+     "url": "https://www.dailywire.com/news/liz-mair-trump-holds-the-power-to-republican-victories-in-november-but-does-he-have-the-will",
+     "author": "Liz Mair",
+     "kind": "opinion",
+     "published": "2026-08-13T04:00:36+00:00",
+     "summary": "With less than three months until the 2026 midterm elections, the GOP appears to be flailing. Some of this is to be expected: Voter backlash against the party that controls the White House is the norm in the midterms; Donald Trump demonstrated in both 2016 and 2024 that while he can turn out enough votes to win a presidential election, a chunk of voters who back him also sour on him relatively fast once he\u2019s actually in office. Still, one additional worry is the GOP\u2019s poor approval ratings on the economy, and voters shifting trust to Democrats on this key issue. It has a lot of conservatives, moderate Republicans, and right-libertarians asking what can be done to eke out victories and prevent a DSA-infused Democratic Party from taking the House, and potentially also the Senate, in November. Ultimately, while success will be exceedingly tough to manage, there are a few things Republicans could be doing right now to right the ship \u2014 or at least stop the bleeding. Let\u2019s start with policy. While few voters actually vote on it, they certainly respond to its effects. But what can have an almost immediate impact? The good news is that there are boatloads of executive actions the Trump adm"
+    }
+   ]
+  },
+  {
+   "id": "16a5e83386",
+   "topic": "Politics",
+   "summary": "WASHINGTON \u2014 The World War II Memorial on the National Mall was vandalized Thursday, and a fountain was found overflowing with bubbles, the latest incident in which prominent monuments have been targeted in the nation's capital . U.S. Park Police were on site and blocked off the area. \"Clean hands, dirty money,\" letters in bright pink spray paint said. WHO IS DAVID HEARN? US OLYMPIAN WHO DENIES VANDALIZING REFLECTING POOL AFTER VIRAL ARREST \"The vandalism that occurred is an utter disgrace and will not be tolerated,\" a Department of the Interior spokesperson told Fox News Digital. \"Our U.S. Park Police are on the scene, and the investigation is ongoing. The public should know we will find the person responsible for this disgusting act.\" The agency noted that the memorial honors the armed forces and the more than 400,000 Americans who died fighting in World War II. WATCH: TRUMP REVEALS\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "World War II Memorial on National Mall vandalized with pink spray paint; fountain overflowing with bubbles",
    "updated": "2026-08-13T21:34:10+00:00",
    "outletCount": 3,
    "counts": {
@@ -1889,12 +1968,12 @@
    "articles": [
     {
      "outlet": "foxnews",
-     "title": "World War II Memorial on National Mall vandalized with pink spray paint, fountain overflowing with bubbles",
+     "title": "World War II Memorial on National Mall vandalized with pink spray paint; fountain overflowing with bubbles",
      "url": "https://www.foxnews.com/politics/world-war-ii-memorial-national-mall-vandalized-pink-spray-paint-fountain-overflowing-bubbles",
      "author": null,
      "kind": "news",
      "published": "2026-08-13T21:34:10+00:00",
-     "summary": "WASHINGTON \u2014 The World War II Memorial on the National Mall was vandalized Thursday, along with a fountain that was found overflowing with bubbles, the latest incident in which prominent monuments have been targeted in the nation's capital . U.S. Park Police were on the scene and blocked off the area. \"Clean hands, dirty money,\" letters in bright pink spray paint read. WHO IS DAVID HEARN? US OLYMPIAN WHO DENIES VANDALIZING REFLECTING POOL AFTER VIRAL ARREST The Department of the Interior called the vandalism an \"utter disgrace.\" \"The vandalism that occurred is an utter disgrace and will not be tolerated,\" an agency spokesperson told Fox News Digital. \"Our U.S. Park Police are on the scene and the investigation is ongoing. The public should know we will find the person responsible for this disgusting act.\" The agency noted that the memorial honors the armed forces and the more than 400,000 Americans who died fighting in World War II. WATCH: TRUMP REVEALS FLASHY NEW COLOR FOR NATIONAL MALL'S REFLECTING POOL MAKEOVER An Army veteran who arrived at the memorial told Fox News Digital she was looking forward to seeing it and was \"offended\" by the act of vandalism. \"It just makes me absol"
+     "summary": "WASHINGTON \u2014 The World War II Memorial on the National Mall was vandalized Thursday, and a fountain was found overflowing with bubbles, the latest incident in which prominent monuments have been targeted in the nation's capital . U.S. Park Police were on site and blocked off the area. \"Clean hands, dirty money,\" letters in bright pink spray paint said. WHO IS DAVID HEARN? US OLYMPIAN WHO DENIES VANDALIZING REFLECTING POOL AFTER VIRAL ARREST \"The vandalism that occurred is an utter disgrace and will not be tolerated,\" a Department of the Interior spokesperson told Fox News Digital. \"Our U.S. Park Police are on the scene, and the investigation is ongoing. The public should know we will find the person responsible for this disgusting act.\" The agency noted that the memorial honors the armed forces and the more than 400,000 Americans who died fighting in World War II. WATCH: TRUMP REVEALS FLASHY NEW COLOR FOR NATIONAL MALL'S REFLECTING POOL MAKEOVER An Army veteran who arrived at the memorial told Fox News Digital she was looking forward to seeing it and was \"offended\" by the act of vandalism. \"It just makes me absolutely irate,\" Debra Mortensen said. \"I was offended because people fou"
     },
     {
      "outlet": "newsweek",
@@ -1913,6 +1992,57 @@
      "kind": "opinion",
      "published": "2026-08-13T10:03:08+00:00",
      "summary": "WASHINGTON, D.C. \u2014 Vice President JD Vance&#8217;s Fraud Task Force is referring a number of hospitals and clinics to the Justice Department and the HHS Inspector General for possible violations of federal law. Those hospitals have billed millions of dollars in insurance claims for puberty blockers for children, according to a new Department of Health and Human Services (HHS) report. Now the Trump administration is investigating. HHS released &#8220;Wolves in White Coats: How Doctors and Hospitals Pushed and Profited from the Fraud of &#8216;Gender Medicine'&#8221; on Thursday morning. The report examines insurance coding, financial incentives, and the &#8220;provision&#8221; of transgender medical procedures for minors, including puberty blockers, cross-sex hormones, and surgeries. It&#8217;s the first time in history that HHS examined the financial incentives behind the pediatric gender medicine industry that has exploded over the last decade, leaving many young people mentally and physically harmed in its wake. Over 225 hospitals and health systems established pediatric gender programs across the country, the report found. Between 2015 and 2025, there were approximately $50 mill"
+    }
+   ]
+  },
+  {
+   "id": "bded1e04e4",
+   "topic": "World",
+   "summary": "After the Taliban retook power in Afghanistan on August 15, 2021, Berlin promised to bring all the Afghan local staff members to Germany. But people are still waiting to leave in Pakistan and Afghanistan.",
+   "summaryFrom": "dw",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Afghanistan five years of Taliban rule: Has Germany kept its promises?",
+   "updated": "2026-08-13T21:21:57+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "pub": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "Female Afghans Erased From Public Life in Five Years of Taliban Rule",
+     "url": "https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html",
+     "author": "Ephrat Livni",
+     "kind": "news",
+     "published": "2026-08-13T21:21:57+00:00",
+     "summary": "Decrees restricting women\u2019s rights to study, work, travel and act independently now threaten to damage Afghanistan permanently, experts say."
+    },
+    {
+     "outlet": "forbes",
+     "title": "This Afghan Lawyer Is Trying To Hold The Taliban Accountable Five Years After Chaotic US Withdrawal",
+     "url": "https://www.forbes.com/sites/forbestv/2026/08/13/this-afghan-lawyer-is-trying-to-hold-the-taliban-accountable-five-years-after-chaotic-us-withdrawal/",
+     "author": "Brittany Lewis, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-13T20:58:14+00:00",
+     "summary": "This month marks five years since the United States\u2019 chaotic withdrawal from Afghanistan, and this weekend marks half a decade since the Taliban\u2019s return to power."
+    },
+    {
+     "outlet": "dw",
+     "title": "Afghanistan five years of Taliban rule: Has Germany kept its promises?",
+     "url": "https://www.dw.com/en/afghanistan-five-years-of-taliban-rule-has-germany-kept-its-promises/a-78319745?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-11T12:03:00+00:00",
+     "summary": "After the Taliban retook power in Afghanistan on August 15, 2021, Berlin promised to bring all the Afghan local staff members to Germany. But people are still waiting to leave in Pakistan and Afghanistan."
     }
    ]
   },
@@ -1977,12 +2107,12 @@
     "indieCount": 2,
     "big": [
      "female",
-     "prisoners",
-     "women's"
+     "women's",
+     "prisoners"
     ],
     "indie": [
-     "kids",
-     "nbsp"
+     "nbsp",
+     "kids"
     ]
    },
    "absent": [
@@ -2003,7 +2133,7 @@
    "articles": [
     {
      "outlet": "thehill",
-     "title": "DOJ alleges California prisons failed to protect women prisoners from sexual abuse by staff",
+     "title": "DOJ alleges California prisons failed to protect female prisoners from sexual abuse by staff",
      "url": "https://thehill.com/homenews/administration/6028473-doj-california-prisons-staff-sexual-abuse/",
      "author": "Ryan Mancini",
      "kind": "news",
@@ -2601,6 +2731,57 @@
    ]
   },
   {
+   "id": "aa4ba441ad",
+   "topic": "World",
+   "summary": "Former Chinese Premier Zhu Rongji, a leading architect of the country\u2019s economic rise, has died aged 97. Zhu\u2019s signal accomplishment was steering China into the World Trade Organization in 2001, after laying the groundwork with a host of reforms: overhauling the tax system , commercializing state banks, and smashing the \u201ciron ricebowl\u201d of guaranteed employment by shuttering hundreds of loss-making state enterprises. Up to 30 million workers lost their jobs. Yet Zhu also privatized the housing stock, instantly creating an urban middle class. The US assumed that Zhu\u2019s policies were just the start of a promised Chinese economic opening. In fact, they represented the high point of reform ; gigantic state enterprises now dominate the economy, and prospects for foreign investors are narrowing. \u2014 Andy Browne",
+   "summaryFrom": "semafor",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
+   "updated": "2026-08-12T22:29:15+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "pub": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "semafor",
+     "title": "China's economic reformer Zhu Rongji dies at 97",
+     "url": "https://www.semafor.com/article/08/12/2026/chinas-economic-reformer-zhu-rongji-dies-at-97",
+     "author": "Andy Browne",
+     "kind": "news",
+     "published": "2026-08-12T22:29:15+00:00",
+     "summary": "Former Chinese Premier Zhu Rongji, a leading architect of the country\u2019s economic rise, has died aged 97. Zhu\u2019s signal accomplishment was steering China into the World Trade Organization in 2001, after laying the groundwork with a host of reforms: overhauling the tax system , commercializing state banks, and smashing the \u201ciron ricebowl\u201d of guaranteed employment by shuttering hundreds of loss-making state enterprises. Up to 30 million workers lost their jobs. Yet Zhu also privatized the housing stock, instantly creating an urban middle class. The US assumed that Zhu\u2019s policies were just the start of a promised Chinese economic opening. In fact, they represented the high point of reform ; gigantic state enterprises now dominate the economy, and prospects for foreign investors are narrowing. \u2014 Andy Browne"
+    },
+    {
+     "outlet": "bbc",
+     "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
+     "url": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T12:10:45+00:00",
+     "summary": "The former premier brought China into the WTO and championed reforms that fuelled growth."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Zhu Rongji, China premier crucial to economic transformation, dies at 97",
+     "url": "https://www.washingtonpost.com/obituaries/2026/08/12/zhu-rongji-former-china-premier-dies-97/",
+     "author": "Simon Denyer",
+     "kind": "news",
+     "published": "2026-08-12T10:44:17+00:00",
+     "summary": "He negotiated China\u2019s entry into the World Trade Organization and pushed through reforms that breathed new life into China\u2019s state-directed economy."
+    }
+   ]
+  },
+  {
    "id": "da3c39147a",
    "topic": "Justice & Policing",
    "summary": "Former Southern Poverty Law Center chief financial officer Heidi Beirich was arrested in California and charged in the Justice Department\u2019s case alleging that the organization secretly used donor money to pay informants inside white supremacist groups, CNN exclusively reported Wednesday. The post CNN: Former Southern Poverty Law Center Executive Heidi Beirich Arrested on Fraud Charges appeared first on Breitbart .",
@@ -2772,7 +2953,49 @@
    ]
   },
   {
-   "id": "3901758a0a",
+   "id": "f404252916",
+   "topic": "Culture & Sport",
+   "summary": "After years of working toward the league, many first-year players have used that money on long-awaited purchases and priorities like a new car, a house or an opportunity to take care of their parents.",
+   "summaryFrom": "abcnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "How To Watch NFL Network for Free Without Cable",
+   "updated": "2026-08-13T22:00:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "How To Watch NFL Network for Free Without Cable",
+     "url": "https://decider.com/article/how-to-watch-stream-nfl-network-for-free/",
+     "author": "mliss1578",
+     "kind": "news",
+     "published": "2026-08-13T22:00:00+00:00",
+     "summary": "The regular season begins on Wednesday, September 9, when the Seahawks host the Patriots!"
+    },
+    {
+     "outlet": "abcnews",
+     "title": "WATCH:  How NFL rookies are spending their first paychecks",
+     "url": "https://abcnews.com/video/135592889/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T22:31:55+00:00",
+     "summary": "After years of working toward the league, many first-year players have used that money on long-awaited purchases and priorities like a new car, a house or an opportunity to take care of their parents."
+    }
+   ]
+  },
+  {
+   "id": "1967c410d1",
    "topic": "Other",
    "summary": "New York City lawmakers approved a series of measures that will allow restaurants to erect outdoor dining shelters during the winter months.",
    "summaryFrom": "nypost",
@@ -2796,7 +3019,7 @@
     {
      "outlet": "hellgate",
      "title": "NYC Council Finally Catches Up to Real Cities With Year-Round Outdoor Dining",
-     "url": "https://hellgatenyc.com/nyc-council-finally-catches-up-to-real-cities-with-year-round-outdoor-dining/",
+     "url": "https://hellgatenyc.com/nyc-council-year-round-outdoor-dining/",
      "author": "Alisha Allison",
      "kind": "news",
      "published": "2026-08-13T21:56:18+00:00",
@@ -2978,48 +3201,6 @@
      "kind": "news",
      "published": "2026-08-13T14:10:35+00:00",
      "summary": "A Massachusetts teenager used a laptop and knife to beat his mother and brother to death, hours after using ChatGPT to search \u201cfor theoretical ideas or fantasy stories regarding the killing of his family,\u201d prosecutors said Thursday."
-    }
-   ]
-  },
-  {
-   "id": "bded1e04e4",
-   "topic": "World",
-   "summary": "After the Taliban retook power in Afghanistan on August 15, 2021, Berlin promised to bring all the Afghan local staff members to Germany. But people are still waiting to leave in Pakistan and Afghanistan.",
-   "summaryFrom": "dw",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Afghanistan five years of Taliban rule: Has Germany kept its promises?",
-   "updated": "2026-08-13T21:21:57+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Female Afghans Erased From Public Life in Five Years of Taliban Rule",
-     "url": "https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html",
-     "author": "Ephrat Livni",
-     "kind": "news",
-     "published": "2026-08-13T21:21:57+00:00",
-     "summary": "Decrees restricting women\u2019s rights to study, work, travel and act independently now threaten to damage Afghanistan permanently, experts say."
-    },
-    {
-     "outlet": "dw",
-     "title": "Afghanistan five years of Taliban rule: Has Germany kept its promises?",
-     "url": "https://www.dw.com/en/afghanistan-five-years-of-taliban-rule-has-germany-kept-its-promises/a-78319745?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-11T12:03:00+00:00",
-     "summary": "After the Taliban retook power in Afghanistan on August 15, 2021, Berlin promised to bring all the Afghan local staff members to Germany. But people are still waiting to leave in Pakistan and Afghanistan."
     }
    ]
   },
@@ -3533,132 +3714,6 @@
      "kind": "news",
      "published": "2026-08-13T18:12:20+00:00",
      "summary": "Mario Anzuoni/REUTERS Selena Gomez and her mother, Mandy Teefey, have been accused of deceiving investors into contributing over $1 million to their failing company. Wondermind SRS 44 LLC and Bespoke Wondermind LLC have filed lawsuits against the pop star\u2019s company, Wondermind Global, according to lawsuit filings obtained by TMZ . The mental health startup, founded in 2021, was started by Gomez, her mother, and former business partner Daniella Pierson, all of whom are being sued by the companies. The lawsuits claim that the business leaders deceived investors into making $1 million in investments by inadequately representing the infrastructure, leadership, and necessary resources, and that the money invested was \u201cfunding the collapse.\u201d A 2025 article by The Cut further claims that the company failed to make payments to vendors and employees on time. On the company\u2019s alleged failures, Teefey said, \u201cIt\u2019s unfortunate that a few disgruntled employees with an ax to grind can spread lies about me and distort the truth. Even more disappointing that the media is willing to amplify their lies.\u201d Read it at TMZ Read more at The Daily Beast."
-    }
-   ]
-  },
-  {
-   "id": "7374b58bdb",
-   "topic": "Business & Economy",
-   "summary": "Liz\u2019s view There\u2019s always money in the sports team. Mark Walter controls a vast financial empire and is under federal investigation for undisclosed related-party transactions between its interlocking parts. Unwinding those transactions will require him to raise billions of dollars. Most people in that situation would look to sell their most digestible assets, things like loans that Wall Street buys and sells before lunch, and Walter is doing a bit of that . But the first asset to trade was the Los Angeles Lakers, which Walter is selling to Bob Iger, the former Disney CEO and Los Angeles noble, and Josh Kushner, the venture capitalist who is seemingly everywhere these days . The deal came together in three days, Iger said , but if this is a firesale it sure doesn\u2019t look like one: $12.5 billion for a team that Walter bought for less than a year ago for $10 billion. That he found the cash\u2026",
-   "summaryFrom": "semafor",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Inside the increasing values of sports franchises amid the Lakers $12.5 billion sale",
-   "updated": "2026-08-13T19:29:48+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Inside the increasing values of sports franchises amid the Lakers $12.5 billion sale",
-     "url": "https://www.cbsnews.com/video/inside-the-increasing-values-of-sports-franchises-amid-the-lakers-125-billion-sale/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T19:29:48+00:00",
-     "summary": "News broke on Wednesday that the Los Angeles Lakers will be sold to Bob Iger and Josh Kushner for $12.5 billion. Mike Vorkunov, national NBA and basketball business reporter for the Athletic, joins CBS News to discuss."
-    },
-    {
-     "outlet": "semafor",
-     "title": "What the LA Lakers \u2018firesale\u2019 says about sports investing",
-     "url": "https://www.semafor.com/article/08/13/2026/what-the-la-lakers-firesale-says-about-sports-investing",
-     "author": "Liz Hoffman",
-     "kind": "news",
-     "published": "2026-08-13T16:54:07+00:00",
-     "summary": "Liz\u2019s view There\u2019s always money in the sports team. Mark Walter controls a vast financial empire and is under federal investigation for undisclosed related-party transactions between its interlocking parts. Unwinding those transactions will require him to raise billions of dollars. Most people in that situation would look to sell their most digestible assets, things like loans that Wall Street buys and sells before lunch, and Walter is doing a bit of that . But the first asset to trade was the Los Angeles Lakers, which Walter is selling to Bob Iger, the former Disney CEO and Los Angeles noble, and Josh Kushner, the venture capitalist who is seemingly everywhere these days . The deal came together in three days, Iger said , but if this is a firesale it sure doesn\u2019t look like one: $12.5 billion for a team that Walter bought for less than a year ago for $10 billion. That he found the cash he needs in an illiquid asset (a professional sports team) with a limited pool of buyers (billionaires), and not in his vast pile of loans and financial instruments that Wall Street firms would happily absorb, points to a bigger change unfolding in the financial frenzy around sports these days. Fred "
-    }
-   ]
-  },
-  {
-   "id": "572030c935",
-   "topic": "Tech",
-   "summary": "Denise Dresser is leaving her role as OpenAI's chief revenue officer. Bloomberg/Getty Images Denise Dresser is leaving her role as chief revenue officer at OpenAI after eight months. It's the latest in a batch of executive shake-ups at OpenAI as it positions for an IPO. Dali Rajic, the former chief operating officer of Wiz, will replace Dresser. OpenAI's executive shake-up continues. The company announced Thursday that it is replacing its chief revenue officer, Denise Dresser, after only eight months in the role. Dali Rajic, formerly the chief operating officer of Wiz, is taking over the role with the monumental task of preparing OpenAI for its initial public offering, expected next year. Dresser's departure joins a wave of change inside OpenAI's upper ranks. On Tuesday, former chief operating officer Brad Lightcap said he'd be leaving the company \u2014 Dresser had been given parts of\u2026",
-   "summaryFrom": "businessinsider",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "OpenAI is losing its second executive this week",
-   "updated": "2026-08-13T19:28:39+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "theverge",
-     "title": "OpenAI is losing its second executive this week",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-     "author": "Jay Peters",
-     "kind": "news",
-     "published": "2026-08-13T19:28:39+00:00",
-     "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn . Dali Rajic, president and COO of Wiz, will be taking over the CRO role, OpenAI says . Dresser's departure is just the latest in a string of major exits. Earlier this week, special projects lead and former COO Brad Lightcap announced he would be leaving . (Dresser had taken over some of Lightcap's work when he moved to the special projects role.) Former AGI chief Fidji Simo and former CMO \u2026 Read the full story at The Verge."
-    },
-    {
-     "outlet": "businessinsider",
-     "title": "OpenAI shake-up continues with second major departure of the week",
-     "url": "https://www.businessinsider.com/denise-dresser-exits-openai-dali-rajic-steps-in-as-cro-2026-8",
-     "author": "Stephen Council (scouncil@businessinsider.com)",
-     "kind": "news",
-     "published": "2026-08-13T17:49:48+00:00",
-     "summary": "Denise Dresser is leaving her role as OpenAI's chief revenue officer. Bloomberg/Getty Images Denise Dresser is leaving her role as chief revenue officer at OpenAI after eight months. It's the latest in a batch of executive shake-ups at OpenAI as it positions for an IPO. Dali Rajic, the former chief operating officer of Wiz, will replace Dresser. OpenAI's executive shake-up continues. The company announced Thursday that it is replacing its chief revenue officer, Denise Dresser, after only eight months in the role. Dali Rajic, formerly the chief operating officer of Wiz, is taking over the role with the monumental task of preparing OpenAI for its initial public offering, expected next year. Dresser's departure joins a wave of change inside OpenAI's upper ranks. On Tuesday, former chief operating officer Brad Lightcap said he'd be leaving the company \u2014 Dresser had been given parts of Lightcap's former remit as recently as April. In July, OpenAI lost Johannes Heidecke, its head of safety systems, and Joshua Achiam, its chief futurist. Fidji Simo, its CEO of applications, moved into an advisory role due to health reasons. The dramatic upheaval comes at a crucial juncture for OpenAI. Thi"
-    }
-   ]
-  },
-  {
-   "id": "5feb6f0c3b",
-   "topic": "Health",
-   "summary": "Authorities in Colombia continue to struggle to meet the needs of the tens of thousands estimated to have been injured, displaced, or otherwise affected by the devastating 7.4-magnitude earthquake this week, telling local media on Thursday that hospitals near the epicenter are totally overwhelmed and city streets are in a state of \"total chaos. The post Colombia: Hospitals Overwhelmed in Earthquake Epicenter, 93 Percent of State &#8216;Gravely Damaged&#8217; appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Colombia earthquake: Hospitals adapt to save lives amid widespread damage",
-   "updated": "2026-08-13T19:23:35+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Colombia earthquake: Hospitals adapt to save lives amid widespread damage",
-     "url": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-hospitals-adapt-to-save-lives-amid-widespread-damage?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T19:23:35+00:00",
-     "summary": "Earthquake damages Cali&#039;s hospitals, forcing medical staff to prioritize critical patients as rescue teams work nonstop."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Colombia: Hospitals Overwhelmed in Earthquake Epicenter, 93 Percent of State 'Gravely Damaged'",
-     "url": "https://www.breitbart.com/latin-america/2026/08/13/colombia-hospitals-overwhelmed-in-earthquake-epicenter-93-percent-of-state-gravely-damaged/",
-     "author": "Frances Martel",
-     "kind": "news",
-     "published": "2026-08-13T18:37:20+00:00",
-     "summary": "Authorities in Colombia continue to struggle to meet the needs of the tens of thousands estimated to have been injured, displaced, or otherwise affected by the devastating 7.4-magnitude earthquake this week, telling local media on Thursday that hospitals near the epicenter are totally overwhelmed and city streets are in a state of \"total chaos. The post Colombia: Hospitals Overwhelmed in Earthquake Epicenter, 93 Percent of State &#8216;Gravely Damaged&#8217; appeared first on Breitbart ."
     }
    ]
   }
