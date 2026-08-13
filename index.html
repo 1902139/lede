@@ -67,6 +67,7 @@
     :root:not([data-theme="light"]) .type-news { background: #16304d; color: #9ec5f4; }
     :root:not([data-theme="light"]) .type-opinion { background: #2e2338; color: #c9aee4; }
     :root:not([data-theme="light"]) .chip.alert { color: #f0b283; background: #2e2117; border-color: #4a3520; }
+    :root:not([data-theme="light"]) .chip.split { color: #9ec5f4; background: #16304d; border-color: #1c5cab; }
     :root:not([data-theme="light"]) .missing-box { background: #241f14; border-color: #423821; }
     :root:not([data-theme="light"]) .a-flag,
     :root:not([data-theme="light"]) .pol.unclear,
@@ -182,7 +183,12 @@
   .subscribe { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 10px; font-size: 13px; color: var(--ink-2); }
   .subscribe a { font-weight: 600; }
 
-  .emph { background: var(--page); border: 1px solid var(--grid); border-radius: 10px; padding: 14px 16px; margin-top: 16px; }
+  .emph { background: var(--surface); border: 1px solid var(--ring); border-left: 4px solid var(--own-corp);
+    border-radius: 10px; padding: 16px 18px; margin-top: 18px; }
+  .emph h4 { font-size: 14px !important; text-transform: none !important; letter-spacing: -0.1px !important;
+    color: var(--ink) !important; font-weight: 700; margin-bottom: 12px !important; }
+  .chip.split { color: #1c5cab; background: #e9f1fb; border-color: #cde2fb; }
+  :root[data-theme="dark"] .chip.split { color: #9ec5f4; background: #16304d; border-color: #1c5cab; }
   .emph h4, .absent-box h4 { font-size: 12px; text-transform: uppercase; letter-spacing: 0.5px; color: var(--muted); margin-bottom: 10px; }
   .emph-row { display: flex; gap: 14px; align-items: baseline; padding: 7px 0; border-top: 1px solid var(--grid); flex-wrap: wrap; }
   .emph-row:first-of-type { border-top: none; }
@@ -190,7 +196,7 @@
   .emph-who .lbl { white-space: nowrap; }
   .emph-who .n { font-weight: 500; color: var(--muted); white-space: nowrap; margin-left: 2px; }
   .emph-words { display: flex; flex-wrap: wrap; gap: 6px; }
-  .word { font-size: 13px; font-weight: 600; background: var(--surface); border: 1px solid var(--grid); border-radius: 6px; padding: 2px 9px; }
+  .word { font-size: 13.5px; font-weight: 600; background: var(--surface); border: 1px solid var(--grid); border-radius: 6px; padding: 2px 9px; }
   .emph-foot { font-size: 11.5px; color: var(--muted); margin-top: 9px; }
   .absent-box { background: var(--page); border: 1px solid var(--grid); border-radius: 10px; padding: 14px 16px; margin-top: 12px; }
   .absent-row { display: flex; align-items: center; gap: 7px; font-size: 13.5px; color: var(--ink-2); padding: 3px 0; }
@@ -347,7 +353,7 @@ const SOURCE_LABELS = {
   "documents": "Documents / filings"
 };
 
-const STATE = { q: "", cls: null, topic: null };
+const STATE = { q: "", cls: null, topic: null, split: false };
 
 /* ---------- theme ---------- */
 function currentTheme() {
@@ -375,11 +381,11 @@ function emphasisHTML(st) {
       <span class="emph-who">${dotKeys.map(ownDot).join("")}<span class="lbl">${label}</span><span class="n">${n} articles</span></span>
       <span class="emph-words">${words.map(w => `<span class="word">${esc(w)}</span>`).join("")}</span>
     </div>`;
-  return `<div class="emph"><h4>What the headlines emphasise</h4>
+  return `<div class="emph"><h4>What each side emphasises</h4>
     ${row("Corporate &amp; billionaire", ["corp","family"], e.bigCount, e.big)}
     ${row("Everyone else", ["coop","nonprofit","pub"], e.indieCount, e.indie)}
-    <div class="emph-foot">Words appearing in two or more of one group's headlines and none of the other's.
-      This is word counting, not a claim about intent — read the articles and judge for yourself.</div></div>`;
+    <div class="emph-foot">Words that appear in two or more of one group's headlines or summaries, and in none of
+      the other's. This is word counting, not a claim about intent — read the articles and judge for yourself.</div></div>`;
 }
 
 function absentHTML(st) {
@@ -501,6 +507,7 @@ function recordHTML(o) {
 }
 
 function matches(st) {
+  if (STATE.split && !st.emphasis) return false;
   if (STATE.cls && !(st.counts[STATE.cls] > 0)) return false;
   if (STATE.topic && (st.topic || "Other") !== STATE.topic) return false;
   if (STATE.q) {
@@ -519,6 +526,7 @@ function filterBar() {
       <input id="q" type="search" autocomplete="off" placeholder="Search headlines and outlets…"
         oninput="onSearch(this.value)"></div>
     ${ORDER.map(k => `<button class="fchip" data-cls="${k}" onclick="toggleCls('${k}')">${ownDot(k)}${OWN_TYPES[k].label}</button>`).join("")}
+    <button class="fchip" id="split-btn" data-split="1" onclick="toggleSplit()">⇄ Framing differs</button>
     <button class="fchip" id="clear-btn" style="display:none" onclick="clearFilters()">Clear</button>
   </div>`;
 }
@@ -527,9 +535,10 @@ function filterBar() {
    is typing is what sent the cursor back to the start of the line. */
 function onSearch(v) { STATE.q = v; refreshChips(); renderResults(); }
 function toggleCls(k) { STATE.cls = STATE.cls === k ? null : k; refreshChips(); renderResults(); }
+function toggleSplit() { STATE.split = !STATE.split; refreshChips(); renderResults(); }
 function toggleTopic(t) { STATE.topic = (STATE.topic === t || !t) ? null : t; refreshChips(); renderResults(); }
 function clearFilters() {
-  STATE.q = ""; STATE.cls = null; STATE.topic = null;
+  STATE.q = ""; STATE.cls = null; STATE.topic = null; STATE.split = false;
   const box = document.getElementById("q");
   if (box) box.value = "";
   refreshChips(); renderResults();
@@ -539,8 +548,10 @@ function refreshChips() {
     b.classList.toggle("on", b.dataset.cls === STATE.cls));
   document.querySelectorAll(".tchip[data-topic]").forEach(b =>
     b.classList.toggle("on", (b.dataset.topic || "") === (STATE.topic || "")));
+  const sp = document.getElementById("split-btn");
+  if (sp) sp.classList.toggle("on", !!STATE.split);
   const c = document.getElementById("clear-btn");
-  if (c) c.style.display = (STATE.q || STATE.cls || STATE.topic) ? "" : "none";
+  if (c) c.style.display = (STATE.q || STATE.cls || STATE.topic || STATE.split) ? "" : "none";
 }
 
 function authorRec(name, outlet) {
@@ -592,6 +603,7 @@ function ownLegendAll() {
 function chipRow(s) {
   let c = `<span class="chip">${s.newsCount} news · ${s.opinionCount} opinion</span>`;
   if (s.underreported) c += `<span class="chip alert">⚠ thin corporate coverage</span>`;
+  if (s.emphasis) c += `<span class="chip split">⇄ sides word it differently</span>`;
   return `<div class="chip-row">${c}</div>`;
 }
 
@@ -624,11 +636,11 @@ function renderResults() {
   const shown = STORIES.filter(matches);
   const multi = shown.filter(s => s.outletCount >= 2);
   const single = shown.filter(s => s.outletCount === 1).slice(0, 12);
-  const filtering = STATE.q || STATE.cls || STATE.topic;
+  const filtering = STATE.q || STATE.cls || STATE.topic || STATE.split;
   const el = document.getElementById("feed-results");
   if (!el) return;
   el.innerHTML = `
-    ${filtering ? `<div class="result-note">${multi.length + single.length} of ${STORIES.length} stories${STATE.cls ? ` with ${OWN_TYPES[STATE.cls].label.toLowerCase()} coverage` : ""}${STATE.topic ? ` in ${esc(STATE.topic)}` : ""}${STATE.q ? ` matching “${esc(STATE.q)}”` : ""}</div>` : ""}
+    ${filtering ? `<div class="result-note">${multi.length + single.length} of ${STORIES.length} stories${STATE.cls ? ` with ${OWN_TYPES[STATE.cls].label.toLowerCase()} coverage` : ""}${STATE.topic ? ` in ${esc(STATE.topic)}` : ""}${STATE.split ? ` where the two sides word it differently` : ""}${STATE.q ? ` matching “${esc(STATE.q)}”` : ""}</div>` : ""}
     ${multi.length ? multi.map(storyCard).join("") : (filtering ? "" : `<div class="empty">No multi-outlet stories in the current window.</div>`)}
     ${single.length ? `<h2 class="view-title" style="margin-top:26px">${multi.length ? "More from single outlets" : "From single outlets"}</h2>` + single.map(storyCard).join("") : ""}
     ${(!multi.length && !single.length) ? `<div class="empty">Nothing matches that.<br><br><button class="fchip" onclick="clearFilters()">Clear filters</button></div>` : ""}`;

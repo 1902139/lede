@@ -167,8 +167,12 @@ def fetch_all(outlets, fixtures=None):
                     when = entry_time(e)
                     if (now - when).total_seconds() > WINDOW_HOURS * 3600:
                         continue
-                    summary = re.sub(r"<[^>]+>", " ", e.get("summary", "") or "")
-                    summary = re.sub(r"\s+", " ", summary).strip()[:500]
+                    raw_sum = e.get("summary", "") or ""
+                    for c in (e.get("content") or []):
+                        if isinstance(c, dict) and len(c.get("value", "")) > len(raw_sum):
+                            raw_sum = c["value"]
+                    summary = re.sub(r"<[^>]+>", " ", raw_sum)
+                    summary = re.sub(r"\s+", " ", summary).strip()[:1200]
                     articles.append({
                         "outlet": key,
                         "title": title,
@@ -221,7 +225,8 @@ def emphasis(arts, outlets):
     big, indie = [], []
     for a in arts:
         t = outlets[a["outlet"]]["type"]
-        (big if t in ("corp", "family") else indie).append(a["title"])
+        text = a["title"] + " " + (a.get("summary") or "")[:400]
+        (big if t in ("corp", "family") else indie).append(text)
     if len(big) < 2 or len(indie) < 2:
         return None
 
@@ -258,12 +263,12 @@ def shape(clusters, outlets):
         lead = next((a for a in arts if outlets[a["outlet"]]["type"] in ("nonprofit", "pub")), arts[0])
         sid = hashlib.md5((lead["title"] + lead["url"]).encode()).hexdigest()[:10]
         topic_src = " ".join(a["title"] for a in arts)
-        src = next((a for a in arts if a.get("summary")
-                    and len(a["summary"]) > 60), None)
+        cands = [a for a in arts if a.get("summary") and len(a["summary"]) > 60]
+        src = max(cands, key=lambda a: len(a["summary"])) if cands else None
         summary = src["summary"] if src else None
         summary_from = src["outlet"] if src else None
-        if summary and len(summary) > 420:
-            summary = summary[:420].rsplit(" ", 1)[0] + "…"
+        if summary and len(summary) > 900:
+            summary = summary[:900].rsplit(" ", 1)[0] + "…"
         absent = [k for k in ("corp", "family", "coop", "nonprofit", "pub")
                   if not counts.get(k)]
         stories.append({
