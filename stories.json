@@ -1,22 +1,22 @@
 {
- "generated": "2026-08-13T07:37:43.075412+00:00",
+ "generated": "2026-08-13T07:52:01.051359+00:00",
  "storyCount": 60,
- "feedsOk": 66,
+ "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
   {
    "id": "e1c23a27ae",
    "headline": "Leavitt to leave as White House press secretary",
    "updated": "2026-08-13T04:58:49+00:00",
-   "outletCount": 13,
+   "outletCount": 16,
    "counts": {
     "pub": 3,
     "nonprofit": 3,
-    "family": 6,
-    "corp": 1
+    "family": 8,
+    "corp": 4
    },
-   "newsCount": 12,
-   "opinionCount": 1,
+   "newsCount": 18,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
@@ -110,6 +110,51 @@
      "summary": "Karoline Leavitt, the youngest-ever White House press secretary, announced that she is leaving the role to spend more time with her family."
     },
     {
+     "outlet": "breitbart",
+     "title": "Karoline Leavitt Leaving White House, No Replacement Named",
+     "url": "https://www.breitbart.com/politics/2026/08/12/karoline-leavitt-leaving-white-house-no-replacement-named/",
+     "author": "Nick Gilbertson",
+     "kind": "news",
+     "published": "2026-08-12T20:20:20+00:00",
+     "summary": "White House press secretary Karoline Leavitt is departing the Trump administration at the end of August, and a replacement has not yet been named. The post Karoline Leavitt Leaving White House, No Replacement Named appeared first on Breitbart ."
+    },
+    {
+     "outlet": "axios",
+     "title": "Karoline Leavitt stepping down as White House press secretary",
+     "url": "https://www.axios.com/2026/08/12/trump-karoline-leavitt-white-house-press",
+     "author": "Avery Lotz",
+     "kind": "news",
+     "published": "2026-08-12T20:10:29+00:00",
+     "summary": "Karoline Leavitt will be stepping down from her role as White House press secretary at the end of the month, President Trump announced Wednesday in a Truth Social post. The big picture: Leavitt is leaving to spend more time with her family, the president said. A member of Trump's team who followed him from his presidential campaign to the White House, she's been a fiercely loyal face of the White House. Driving the news: Trump said in the surprise post that Leavitt will become one of his top out"
+    },
+    {
+     "outlet": "forbes",
+     "title": "Karoline Leavitt Stepping Down As White House Press Secretary To Focus On Children",
+     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/12/karoline-leavitt-stepping-down-as-white-house-press-secretary-to-focus-on-children/",
+     "author": "Antonio Peque\u00f1o IV, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-12T20:10:05+00:00",
+     "summary": "Leavitt returned from maternity leave in June following the birth of her second child."
+    },
+    {
+     "outlet": "npr",
+     "title": "White House press secretary leaving",
+     "url": "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
+     "author": "Deepa Shivaram",
+     "kind": "news",
+     "published": "2026-08-12T20:05:54+00:00",
+     "summary": "Karoline Leavitt will continue to be an outside adviser, Trump said"
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Karoline Leavitt to step down as White House press secretary at end of August",
+     "url": "https://www.nbcnews.com/now/video/karoline-leavitt-to-step-down-as-white-house-press-secretary-at-end-of-august-268202053931",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T20:04:10+00:00",
+     "summary": "President Donald Trump announced that White House press secretary Karoline Leavitt will be stepping down from her role at the end of August. NBC News' Monica Alba reports on the announcement and Leavitt's time in the role."
+    },
+    {
      "outlet": "foxnews",
      "title": "Trump says Karoline Leavitt will leave White House press secretary role, become outside advisor",
      "url": "https://www.foxnews.com/politics/trump-says-karoline-leavitt-leave-white-house-press-secretary-role-become-outside-advisor",
@@ -128,13 +173,13 @@
      "summary": "White House Press Secretary Karoline Leavitt will depart her role later this month, a move that will deprive President Donald Trump of his top spokesperson less than three months until the November midterm elections."
     },
     {
-     "outlet": "reason",
-     "title": "Trump Administration Claims Executive Privilege Over White House Conversations With Private Advisers",
-     "url": "https://reason.com/2026/08/12/trump-administration-claims-executive-privilege-over-white-house-conversations-with-private-advisers/",
-     "author": "C.J. Ciaramella",
-     "kind": "opinion",
-     "published": "2026-08-12T19:16:44+00:00",
-     "summary": "Trump on phone"
+     "outlet": "axios",
+     "title": "Trump's new White House counsel could soon face a subpoena fight",
+     "url": "https://www.axios.com/2026/08/10/will-scharf-white-house-counsel-midterms",
+     "author": "Andrew Pantazi",
+     "kind": "news",
+     "published": "2026-08-10T11:50:23+00:00",
+     "summary": "White House staff secretary Will Scharf will take over as White House counsel on Sept. 1, President Trump announced Sunday. Why it matters: Scharf begins his job just two months before the midterms, when a possible Democratic House could put him at the center of fights over subpoenas, testimony and executive privilege. The big picture: Scharf is the latest of Trump's former personal lawyers to land a powerful legal job in the administration. Todd Blanche, another former Trump lawyer, was confirm"
     }
    ]
   },
@@ -390,189 +435,100 @@
    ]
   },
   {
-   "id": "aec1ab3f9f",
-   "headline": "US: Karoline Leavitt to step down as Trump's spokesperson",
-   "updated": "2026-08-13T07:15:00+00:00",
-   "outletCount": 7,
+   "id": "ecdbbb3311",
+   "headline": "Media groups sue Trump over paid access to public social media posts",
+   "updated": "2026-08-12T23:23:00+00:00",
+   "outletCount": 8,
    "counts": {
-    "pub": 1,
-    "family": 4,
-    "corp": 3,
-    "nonprofit": 1
+    "pub": 2,
+    "corp": 1,
+    "family": 2,
+    "nonprofit": 4
    },
    "newsCount": 9,
    "opinionCount": 0,
-   "underreported": false,
+   "underreported": true,
    "articles": [
     {
-     "outlet": "dw",
-     "title": "US: Karoline Leavitt to step down as Trump's spokesperson",
-     "url": "https://www.dw.com/en/us-karoline-leavitt-to-step-down-as-trump-s-spokesperson/a-78345847?maca=en-rss-en-all-1573-rdf",
+     "outlet": "aljazeera",
+     "title": "Media groups sue Trump over paid access to public social media posts",
+     "url": "https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-13T07:15:00+00:00",
-     "summary": "White House press secretary Karoline Leavitt is to leave her job at the end of the month, President Donald Trump says. Leavitt, 28, is the youngest-ever person to have held the position."
+     "published": "2026-08-12T23:23:00+00:00",
+     "summary": "Lawsuit claims Trump profits unfairly by charging up to $100,000 monthly for exclusive access to presidential posts."
     },
     {
-     "outlet": "breitbart",
-     "title": "JD Vance Reacts to Karoline Leavitt\u2019s Exit: \u2018We\u2019re Sad to See Her Go\u2019",
-     "url": "https://www.breitbart.com/politics/2026/08/12/jd-vance-reacts-to-karoline-leavitts-exit-were-sad-to-see-her-go/",
-     "author": "Mariane Angela",
+     "outlet": "abcnews",
+     "title": "'Profoundly corrupt': Trump sued over selling early access to Truth Social posts",
+     "url": "https://abcnews.com/Politics/profoundly-corrupt-trump-sued-federal-court-selling-early/story?id=135591214",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-13T02:20:22+00:00",
-     "summary": "Vice President JD Vance praised White House press secretary Karoline Leavitt after she announced she was stepping down. The post JD Vance Reacts to Karoline Leavitt\u2019s Exit: \u2018We\u2019re Sad to See Her Go\u2019 appeared first on Breitbart ."
+     "published": "2026-08-12T21:31:58+00:00",
+     "summary": "Free press groups say selling access to Trump's posts is &quot;unconstitutional.&quot;"
     },
     {
-     "outlet": "time",
-     "title": "Karoline Leavitt to Step Down as White House Press Secretary",
-     "url": "https://time.com/article/2026/08/12/Karoline-Leavitt-to-step-down-white-house-press-secretary-Donald-Trump/",
-     "author": "Philip Wang",
+     "outlet": "nyt",
+     "title": "Trump Is Sued Over Plan to Sell Early Access to His Truth Social Posts",
+     "url": "https://www.nytimes.com/2026/08/12/us/politics/trump-truth-social-lawsuit.html",
+     "author": "Matthew Goldstein",
      "kind": "news",
-     "published": "2026-08-12T20:22:21+00:00",
-     "summary": "Trump said Leavitt will depart to spend more time with her family."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Karoline Leavitt Leaving White House, No Replacement Named",
-     "url": "https://www.breitbart.com/politics/2026/08/12/karoline-leavitt-leaving-white-house-no-replacement-named/",
-     "author": "Nick Gilbertson",
-     "kind": "news",
-     "published": "2026-08-12T20:20:20+00:00",
-     "summary": "White House press secretary Karoline Leavitt is departing the Trump administration at the end of August, and a replacement has not yet been named. The post Karoline Leavitt Leaving White House, No Replacement Named appeared first on Breitbart ."
-    },
-    {
-     "outlet": "axios",
-     "title": "Karoline Leavitt stepping down as White House press secretary",
-     "url": "https://www.axios.com/2026/08/12/trump-karoline-leavitt-white-house-press",
-     "author": "Avery Lotz",
-     "kind": "news",
-     "published": "2026-08-12T20:10:29+00:00",
-     "summary": "Karoline Leavitt will be stepping down from her role as White House press secretary at the end of the month, President Trump announced Wednesday in a Truth Social post. The big picture: Leavitt is leaving to spend more time with her family, the president said. A member of Trump's team who followed him from his presidential campaign to the White House, she's been a fiercely loyal face of the White House. Driving the news: Trump said in the surprise post that Leavitt will become one of his top out"
-    },
-    {
-     "outlet": "forbes",
-     "title": "Karoline Leavitt Stepping Down As White House Press Secretary To Focus On Children",
-     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/12/karoline-leavitt-stepping-down-as-white-house-press-secretary-to-focus-on-children/",
-     "author": "Antonio Peque\u00f1o IV, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-12T20:10:05+00:00",
-     "summary": "Leavitt returned from maternity leave in June following the birth of her second child."
+     "published": "2026-08-12T20:37:45+00:00",
+     "summary": "The lawsuit filed in federal court said President Trump \u201cstands to gain financially by giving \u2018market-moving\u2019 government information to those who are willing and able to pay his personal company.\u201d"
     },
     {
      "outlet": "npr",
-     "title": "White House press secretary leaving",
-     "url": "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
-     "author": "Deepa Shivaram",
+     "title": "Trump sued over service selling faster access to Truth Social posts",
+     "url": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
+     "author": "Bobby Allyn",
      "kind": "news",
-     "published": "2026-08-12T20:05:54+00:00",
-     "summary": "Karoline Leavitt will continue to be an outside adviser, Trump said"
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Karoline Leavitt to step down as White House press secretary at end of August",
-     "url": "https://www.nbcnews.com/now/video/karoline-leavitt-to-step-down-as-white-house-press-secretary-at-end-of-august-268202053931",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T20:04:10+00:00",
-     "summary": "President Donald Trump announced that White House press secretary Karoline Leavitt will be stepping down from her role at the end of August. NBC News' Monica Alba reports on the announcement and Leavitt's time in the role."
-    },
-    {
-     "outlet": "axios",
-     "title": "Trump's new White House counsel could soon face a subpoena fight",
-     "url": "https://www.axios.com/2026/08/10/will-scharf-white-house-counsel-midterms",
-     "author": "Andrew Pantazi",
-     "kind": "news",
-     "published": "2026-08-10T11:50:23+00:00",
-     "summary": "White House staff secretary Will Scharf will take over as White House counsel on Sept. 1, President Trump announced Sunday. Why it matters: Scharf begins his job just two months before the midterms, when a possible Democratic House could put him at the center of fights over subpoenas, testimony and executive privilege. The big picture: Scharf is the latest of Trump's former personal lawyers to land a powerful legal job in the administration. Todd Blanche, another former Trump lawyer, was confirm"
-    }
-   ]
-  },
-  {
-   "id": "7497eb156b",
-   "headline": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
-   "updated": "2026-08-13T06:22:11+00:00",
-   "outletCount": 7,
-   "counts": {
-    "family": 4,
-    "nonprofit": 2,
-    "pub": 1,
-    "corp": 1
-   },
-   "newsCount": 8,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Late Night Ribs Trump for Leaving Staff Behind on Air Force One",
-     "url": "https://www.nytimes.com/2026/08/13/arts/television/late-night-trump-air-force-one-catering.html",
-     "author": "Trish Bendix",
-     "kind": "news",
-     "published": "2026-08-13T06:22:11+00:00",
-     "summary": "Anthony Anderson, the guest host of \u201cJimmy Kimmel Live,\u201d called the ruse in which President Trump exited the plane in a catering container \u201cOperation Pig in a Blanket.\u201d"
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
-     "url": "https://www.pbs.org/newshour/show/news-wrap-trump-confirms-he-was-secretly-whisked-away-from-air-force-one-in-turkey",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T22:45:26+00:00",
-     "summary": "In our news wrap Wednesday, President Trump confirmed that he was whisked away from Air Force One in a catering truck at the Secret Service's direction, the hope of finding survivors is diminishing more than two days after a powerful earthquake hit Colombia and White House Press Secretary Karoline Leavitt says she will soon leave the job to spend more time with her family."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Russell Westbrook retires after 18 wild NBA seasons, leaving behind one of basketball's craziest careers",
-     "url": "https://www.foxnews.com/outkick-sports/russell-westbrook-retires-after-18-wild-nba-seasons-leaving-behind-one-basketballs-craziest-careers",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T21:55:07+00:00",
-     "summary": "Russell Westbrook retires after 18 NBA seasons with 209 career triple-doubles, the 2017 MVP award, nine All-Star nods and two scoring titles."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Triple-double king Russell Westbrook calls time on 18-year NBA career",
-     "url": "https://www.theguardian.com/sport/2026/aug/12/russell-westbrook-retires-nba-triple-doubles-record-mvp",
-     "author": "Agencies",
-     "kind": "news",
-     "published": "2026-08-12T20:25:56+00:00",
-     "summary": "2017 MVP announces retirement after 18 seasons Westbrook holds NBA record with 209 triple-doubles Guard spent first 11 seasons with Oklahoma City Russell Westbrook, the NBA\u2019s career leader in triple-doubles and the 2017 MVP, announced Wednesday he\u2019s retiring after 18 seasons during which he was selected to the league\u2019s 75th anniversary team. The two-time scoring champion shared his decision on social media in a post featuring a video narrated by actor Michael B Jordan in which the Westbrook stay"
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Trump's Air Force One shell game: How years of decoy tactics led to a catering-truck switch",
-     "url": "https://www.foxnews.com/politics/trump-air-force-one-shell-game-years-decoy-tactics-led-catering-truck-switch",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T19:04:25+00:00",
-     "summary": "President Donald Trump secretly exited Air Force One into a catering truck in Ankara amid a credible Iranian threat, flying on a military jet under a nondescript call sign."
+     "published": "2026-08-12T20:33:10+00:00",
+     "summary": "The federal lawsuit alleges that the service from the president's media company violates the Constitution. Meanwhile, Trump Media executives say they have signed up more than 10 customers."
     },
     {
      "outlet": "bbc",
-     "title": "What it's like flying with Trump on Air Force One",
-     "url": "https://www.bbc.co.uk/news/videos/cgljpy5k3p8o?at_medium=RSS&at_campaign=rss",
+     "title": "Trump sued over Truth Social's $100,000 early access service",
+     "url": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-12T10:43:23+00:00",
-     "summary": "BBC Correspondent Tom Bateman explains what it's like for members of the press who fly on Air Force One with the US President."
+     "published": "2026-08-12T17:48:56+00:00",
+     "summary": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump sued over $100,000-a-month early-access offer to Truth Social posts",
+     "url": "https://www.theguardian.com/us-news/2026/aug/12/truth-social-suit-trump-early-access-offer",
+     "author": "Joseph Gedeon in Washington",
+     "kind": "news",
+     "published": "2026-08-12T17:30:21+00:00",
+     "summary": "Suit alleges subscription offer aims to sell privileged access to information generated in president\u2019s official capacity Donald Trump has been sued after a subscription service charging up to $100,000 a month for early access to his posts on his Truth Social platform sparked allegations of corruption. The lawsuit, filed in the US district court for the southern district of New York , was brought by the Intercept and the Freedom of the Press Foundation against Trump, two of his aides and the exec"
+    },
+    {
+     "outlet": "intercept",
+     "title": "The Intercept Sues Trump for Selling Premium Access to Truth Social Announcements",
+     "url": "https://theintercept.com/2026/08/12/trump-media-truthsocial-premium-first-amendment/",
+     "author": "Noah Hurowitz",
+     "kind": "news",
+     "published": "2026-08-12T14:48:01+00:00",
+     "summary": "A lawsuit filed with the Freedom of the Press Foundation argues the president is restricting First Amendment-protected information in a scheme to enrich himself. The post The Intercept Sues Trump for Selling Premium Access to Truth Social Announcements appeared first on The Intercept ."
     },
     {
      "outlet": "wapo",
-     "title": "Close aides, but no Cabinet officials, joined Trump in airport catering truck",
-     "url": "https://www.washingtonpost.com/politics/2026/08/12/close-trump-aides-no-cabinet-officials-made-secret-catering-truck-move/",
-     "author": "Dan Lamothe, Cat Zakrzewski",
+     "title": "Human rights groups sue Trump administration over International Criminal Court sanctions",
+     "url": "https://www.washingtonpost.com/politics/2026/08/11/human-rights-groups-sue-trump-administration-over-international-criminal-court-sanctions/",
+     "author": "Sammy Westfall",
      "kind": "news",
-     "published": "2026-08-12T09:00:00+00:00",
-     "summary": "The president was accompanied by some of his most loyal aides but no top administration officials as he made the clandestine move to a different plane to leave Turkey last month."
+     "published": "2026-08-11T17:31:01+00:00",
+     "summary": "The president signed an executive order in 2025 placing sanctions on the ICC, whose jurisdiction the U.S. does not recognize."
     },
     {
-     "outlet": "vox",
-     "title": "Trump\u2019s catering truck caper",
-     "url": "https://www.vox.com/today-explained-newsletter/495843/trumps-catering-truck-caper",
-     "author": "Caitlin Dewey",
+     "outlet": "guardian",
+     "title": "Human rights groups sue Trump administration over \u2018crippling\u2019 ICC sanctions",
+     "url": "https://www.theguardian.com/us-news/2026/aug/11/human-rights-groups-trump-lawsuit-icc-sanctions",
+     "author": "Alice Speri",
      "kind": "news",
-     "published": "2026-08-11T20:50:00+00:00",
-     "summary": "This story appeared in&#160;Today, Explained,&#160;a daily newsletter that helps you understand the most compelling news and stories of the day.&#160;Subscribe here. It\u2019s not exactly the stuff of Netflix spy thrillers, but\u2026it\u2019s also not every day that the president makes a covert getaway in a catering truck.&#160; White House officials revealed on Monday that, before a [&#8230;]"
+     "published": "2026-08-11T15:10:16+00:00",
+     "summary": "Lawsuit challenges executive order targeting international criminal court for investigating Israeli crimes in Palestine Four prominent US human rights organizations have accused the Trump administration of using its \u201ccrippling\u201d sanctions regime against the international criminal court (ICC) to undermine global efforts to prosecute war crimes and crimes against humanity. In a lawsuit filed in federal court on Tuesday, the groups \u2013 the American Friends Service Committee, the Center for Constitutio"
     }
    ]
   },
@@ -732,166 +688,6 @@
      "kind": "news",
      "published": "2026-08-12T19:08:23+00:00",
      "summary": "Former Southern Poverty Law Center chief financial officer Heidi Beirich was arrested in California and charged in the Justice Department\u2019s case alleging that the organization secretly used donor money to pay informants inside white supremacist groups, CNN exclusively reported Wednesday. The post CNN: Former Southern Poverty Law Center Executive Heidi Beirich Arrested on Fraud Charges appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
-   "id": "ecdbbb3311",
-   "headline": "Media groups sue Trump over paid access to public social media posts",
-   "updated": "2026-08-12T23:23:00+00:00",
-   "outletCount": 7,
-   "counts": {
-    "pub": 2,
-    "corp": 1,
-    "family": 1,
-    "nonprofit": 3
-   },
-   "newsCount": 7,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Media groups sue Trump over paid access to public social media posts",
-     "url": "https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T23:23:00+00:00",
-     "summary": "Lawsuit claims Trump profits unfairly by charging up to $100,000 monthly for exclusive access to presidential posts."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "'Profoundly corrupt': Trump sued over selling early access to Truth Social posts",
-     "url": "https://abcnews.com/Politics/profoundly-corrupt-trump-sued-federal-court-selling-early/story?id=135591214",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T21:31:58+00:00",
-     "summary": "Free press groups say selling access to Trump's posts is &quot;unconstitutional.&quot;"
-    },
-    {
-     "outlet": "nyt",
-     "title": "Trump Is Sued Over Plan to Sell Early Access to His Truth Social Posts",
-     "url": "https://www.nytimes.com/2026/08/12/us/politics/trump-truth-social-lawsuit.html",
-     "author": "Matthew Goldstein",
-     "kind": "news",
-     "published": "2026-08-12T20:37:45+00:00",
-     "summary": "The lawsuit filed in federal court said President Trump \u201cstands to gain financially by giving \u2018market-moving\u2019 government information to those who are willing and able to pay his personal company.\u201d"
-    },
-    {
-     "outlet": "npr",
-     "title": "Trump sued over service selling faster access to Truth Social posts",
-     "url": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
-     "author": "Bobby Allyn",
-     "kind": "news",
-     "published": "2026-08-12T20:33:10+00:00",
-     "summary": "The federal lawsuit alleges that the service from the president's media company violates the Constitution. Meanwhile, Trump Media executives say they have signed up more than 10 customers."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Trump sued over Truth Social's $100,000 early access service",
-     "url": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T17:48:56+00:00",
-     "summary": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump sued over $100,000-a-month early-access offer to Truth Social posts",
-     "url": "https://www.theguardian.com/us-news/2026/aug/12/truth-social-suit-trump-early-access-offer",
-     "author": "Joseph Gedeon in Washington",
-     "kind": "news",
-     "published": "2026-08-12T17:30:21+00:00",
-     "summary": "Suit alleges subscription offer aims to sell privileged access to information generated in president\u2019s official capacity Donald Trump has been sued after a subscription service charging up to $100,000 a month for early access to his posts on his Truth Social platform sparked allegations of corruption. The lawsuit, filed in the US district court for the southern district of New York , was brought by the Intercept and the Freedom of the Press Foundation against Trump, two of his aides and the exec"
-    },
-    {
-     "outlet": "intercept",
-     "title": "The Intercept Sues Trump for Selling Premium Access to Truth Social Announcements",
-     "url": "https://theintercept.com/2026/08/12/trump-media-truthsocial-premium-first-amendment/",
-     "author": "Noah Hurowitz",
-     "kind": "news",
-     "published": "2026-08-12T14:48:01+00:00",
-     "summary": "A lawsuit filed with the Freedom of the Press Foundation argues the president is restricting First Amendment-protected information in a scheme to enrich himself. The post The Intercept Sues Trump for Selling Premium Access to Truth Social Announcements appeared first on The Intercept ."
-    }
-   ]
-  },
-  {
-   "id": "daa787c625",
-   "headline": "Former Secret Service agent discusses Trump's Air Force One switch",
-   "updated": "2026-08-12T21:37:33+00:00",
-   "outletCount": 7,
-   "counts": {
-    "family": 3,
-    "corp": 2,
-    "nonprofit": 1,
-    "pub": 1
-   },
-   "newsCount": 7,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, \u2018a Regular Tuesday.\u2019",
-     "url": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html",
-     "author": "Anton Troianovski",
-     "kind": "news",
-     "published": "2026-08-12T21:37:33+00:00",
-     "summary": "President Trump\u2019s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia\u2019s president, whose fixation on security has reached new heights in recent years."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump says he was at 'greater risk' on secret flight than decoy Air Force One",
-     "url": "https://abcnews.com/Politics/trump-greater-risk-secret-flight-decoy-air-force/story?id=135564018",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T09:55:25+00:00",
-     "summary": "Secretary of State Marco Rubio and Treasury Secretary Scott Bessent were on the \"decoy\" Air Force One that left Turkey last month."
-    },
-    {
-     "outlet": "npr",
-     "title": "Former Secret Service agent discusses Trump's Air Force One switch",
-     "url": "https://www.npr.org/2026/08/12/nx-s1-5928188/former-secret-service-agent-discusses-trumps-air-force-one-switch",
-     "author": "Michel Martin",
-     "kind": "news",
-     "published": "2026-08-12T08:46:16+00:00",
-     "summary": "NPR's Michel Martin speaks with former Secret Service agent Robert McDonald about reports that President Trump boarded a military aircraft instead of flying aboard Air Force One from Turkey."
-    },
-    {
-     "outlet": "time",
-     "title": "Why Trump\u2019s Secret Flight Was Extraordinary by Presidential Standards",
-     "url": "https://time.com/article/2026/08/11/trump-secret-flight-white-house-press-pool-journalists/",
-     "author": "Chantelle Lee",
-     "kind": "news",
-     "published": "2026-08-11T23:08:16+00:00",
-     "summary": "For several hours, the President\u2019s real whereabouts were unknown to\u2014and concealed from\u2014both the White House press pool and the American public."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Democrats demand briefing on Trump\u2019s secret flight from Turkey",
-     "url": "https://www.washingtonpost.com/politics/2026/08/11/democrats-demand-briefing-trumps-secret-flight-turkey/",
-     "author": "Cat Zakrzewski",
-     "kind": "news",
-     "published": "2026-08-11T22:11:15+00:00",
-     "summary": "Senate Minority Leader Chuck Schumer said the White House kept Congress \u201cin the dark\u201d about last month\u2019s ruse to avoid an Iranian threat."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Watch: What is it like to travel on Air Force One with Trump?",
-     "url": "https://www.bbc.co.uk/news/videos/cy4k1jldxnwo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-11T21:49:01+00:00",
-     "summary": "Donald Trump secretly swapped planes as he left a Nato summit in Turkey last month, deceiving even the press pool who flew on board without him."
-    },
-    {
-     "outlet": "axios",
-     "title": "Trump's secret plane switch: How Air Force One protects the president from threats",
-     "url": "https://www.axios.com/2026/08/11/trump-air-force-one-security-secret-plane-switch",
-     "author": "Herb Scribner",
-     "kind": "news",
-     "published": "2026-08-11T18:40:25+00:00",
-     "summary": "President Trump's secret plane switch in Turkey is putting Air Force One's security protocols and defensive capabilities in the spotlight. Why it matters: Air Force One is the call sign for any Air Force aircraft carrying the president, meaning Trump's secret switch didn't change the designation \u2014 but it changed the plane protecting him. Driving the news: A threat from Iran forced Trump to secretly switch planes, using a catering truck to move to a smaller aircraft, per the Washington Post . Tru"
     }
    ]
   },
@@ -1456,73 +1252,13 @@
    ]
   },
   {
-   "id": "3a56ea9c80",
-   "headline": "Rep. Max Miller\u2019s ex-wife sues congressman over \u2018nude image\u2019 of their\u00a02-year-old daughter",
-   "updated": "2026-08-13T03:45:28+00:00",
+   "id": "daa787c625",
+   "headline": "Former Secret Service agent discusses Trump's Air Force One switch",
+   "updated": "2026-08-12T21:37:33+00:00",
    "outletCount": 5,
    "counts": {
     "family": 2,
-    "corp": 3
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Rep. Max Miller\u2019s ex-wife sues congressman over \u2018nude image\u2019 of their\u00a02-year-old daughter",
-     "url": "https://nypost.com/2026/08/12/us-news/rep-max-millers-ex-wife-sues-congressman-over-nude-image-of-their-two-year-old-daughter/",
-     "author": "Victor Nava",
-     "kind": "news",
-     "published": "2026-08-13T03:45:28+00:00",
-     "summary": "The complaint, filed in a federal court in Ohio, argues that Miller and his lawyer, Aaron Minc, violated federal laws on the \u201cdisclosure of intimate images\u201d when the congressman shared a link to an electronic Dropbox folder which included a photograph of the young child \u201cdepicting her genitalia\u201d among a trove of documents."
-    },
-    {
-     "outlet": "thehill",
-     "title": "Emily Moreno sues Rep. Max Miller, alleging he posted nude photo of daughter",
-     "url": "https://thehill.com/regulation/court-battles/6026450-max-miller-child-photo-lawsuit/",
-     "author": "Ryan Mancini",
-     "kind": "news",
-     "published": "2026-08-13T00:46:05+00:00",
-     "summary": "Rep. Max Miller\u2019s (R-Ohio) ex-wife, Emily Moreno, on Wednesday sued the Ohio Republican, alleging he published a nude photo of their young daughter online. A copy of the federal lawsuit obtained by The Hill alleges that Miller \"recklessly published and disclosed to the world a nude image\u201d of the child. It says that Miller \"recklessly..."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Rep. Max Miller\u2019s ex-wife sues after sensitive image of child was publicly shared",
-     "url": "https://www.washingtonpost.com/politics/2026/08/12/rep-max-millers-ex-wife-sues-after-sensitive-image-child-was-publicly-shared/",
-     "author": "Alexei Koseff",
-     "kind": "news",
-     "published": "2026-08-12T23:16:06+00:00",
-     "summary": "The Ohio Republican had released documents through a publicly accessible Dropbox account this month, seeking to fend off allegations of domestic abuse."
-    },
-    {
-     "outlet": "axios",
-     "title": "The House Democratic money machine is coming for GOP Rep. Max Miller",
-     "url": "https://www.axios.com/2026/08/11/max-miller-ohio-brian-poindexter-democrats-2026",
-     "author": "Andrew Solender",
-     "kind": "news",
-     "published": "2026-08-11T21:57:11+00:00",
-     "summary": "Democrats have gone from treating Rep. Max Miller (R-Ohio) as a best-case-scenario target to a genuinely vulnerable incumbent whose downfall is worth a real investment. Why it matters: Democratic groups tell Axios they plan to put their money where their mouth is and spend to win the seat, which Trump carried by double digits in 2024. Phil Gardner, a spokesperson for the centrist Blue Dog Action Fund, said his group spent nearly $200,000 to support Miller's Democratic opponent, Brian Poindexter,"
-    },
-    {
-     "outlet": "politico",
-     "title": "White House officials tamped down efforts to oust Max Miller in final days",
-     "url": "https://www.politico.com/news/2026/08/10/white-house-max-miller-pressure-campaign-01031353",
-     "author": "By Meredith Lee Hill, Mia McCarthy and Erin Doherty",
-     "kind": "news",
-     "published": "2026-08-10T20:05:33+00:00",
-     "summary": "Ohio Republicans now have no choice but to rally behind a candidate many GOP insiders warn could cost the party a traditionally safe seat this November."
-    }
-   ]
-  },
-  {
-   "id": "4eceb09336",
-   "headline": "Report suggests a threat forced Trump to switch aircraft as he departed NATO summit",
-   "updated": "2026-08-13T02:07:00+00:00",
-   "outletCount": 5,
-   "counts": {
     "corp": 2,
-    "family": 2,
     "nonprofit": 1
    },
    "newsCount": 5,
@@ -1530,49 +1266,101 @@
    "underreported": false,
    "articles": [
     {
-     "outlet": "cbsnews",
-     "title": "Trump says Secret Service wanted him on a \"different plane,\" new details on switch emerge",
-     "url": "https://www.cbsnews.com/video/trump-says-secret-service-wanted-him-on-a-different-plane-new-details-on-switch-emerge/",
+     "outlet": "nyt",
+     "title": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, \u2018a Regular Tuesday.\u2019",
+     "url": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html",
+     "author": "Anton Troianovski",
+     "kind": "news",
+     "published": "2026-08-12T21:37:33+00:00",
+     "summary": "President Trump\u2019s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia\u2019s president, whose fixation on security has reached new heights in recent years."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump says he was at 'greater risk' on secret flight than decoy Air Force One",
+     "url": "https://abcnews.com/Politics/trump-greater-risk-secret-flight-decoy-air-force/story?id=135564018",
      "author": null,
      "kind": "news",
-     "published": "2026-08-13T02:07:00+00:00",
-     "summary": "CBS News' Olivia Rinaldi has new details on the news that President Trump and other government officials took extraordinary air security measures amid threats from Iran."
-    },
-    {
-     "outlet": "time",
-     "title": "Trump Breaks Silence on Secret Plane Switch in Turkey Over Possible Iranian Threat",
-     "url": "https://time.com/article/2026/08/12/trump-plane-switch-turkey-iranian-threat-secret-service-decoy/",
-     "author": "Tiago Ventura",
-     "kind": "news",
-     "published": "2026-08-12T12:35:11+00:00",
-     "summary": "\"I guess there was a threat out there. I didn't really ask too much about it. I get a lot of threats,\" Trump told reporters."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Trump says Secret Service told him to switch planes because of threat",
-     "url": "https://www.washingtonpost.com/politics/2026/08/12/trump-says-secret-service-told-him-switch-planes-because-threat/",
-     "author": "Victoria Craw",
-     "kind": "news",
-     "published": "2026-08-12T09:53:44+00:00",
-     "summary": "In his first public comments on the operation, the president downplayed the risks to officials and journalists who remained on Air Force One for the flight from Turkey."
+     "published": "2026-08-12T09:55:25+00:00",
+     "summary": "Secretary of State Marco Rubio and Treasury Secretary Scott Bessent were on the \"decoy\" Air Force One that left Turkey last month."
     },
     {
      "outlet": "npr",
-     "title": "Report suggests a threat forced Trump to switch aircraft as he departed NATO summit",
-     "url": "https://www.npr.org/2026/08/12/nx-s1-5928126/report-suggests-a-threat-forced-trump-to-switch-aircraft-as-he-departed-nato-summit",
-     "author": "Tamara Keith",
+     "title": "Former Secret Service agent discusses Trump's Air Force One switch",
+     "url": "https://www.npr.org/2026/08/12/nx-s1-5928188/former-secret-service-agent-discusses-trumps-air-force-one-switch",
+     "author": "Michel Martin",
      "kind": "news",
-     "published": "2026-08-12T08:46:26+00:00",
-     "summary": "President Trump boarded Air Force One last month as usual. But the Washington Post reports he was smuggled off the plane in a catering truck and flew on an entirely different aircraft due to a threat."
+     "published": "2026-08-12T08:46:16+00:00",
+     "summary": "NPR's Michel Martin speaks with former Secret Service agent Robert McDonald about reports that President Trump boarded a military aircraft instead of flying aboard Air Force One from Turkey."
     },
     {
-     "outlet": "rollingstone",
-     "title": "Trump Hid in an Airport Catering Cart Amid Iranian Threat: Report",
-     "url": "https://www.rollingstone.com/politics/politics-news/trump-secretly-transferred-air-force-one-threats-1235606605/",
-     "author": "Charisma Madarang",
+     "outlet": "time",
+     "title": "Why Trump\u2019s Secret Flight Was Extraordinary by Presidential Standards",
+     "url": "https://time.com/article/2026/08/11/trump-secret-flight-white-house-press-pool-journalists/",
+     "author": "Chantelle Lee",
      "kind": "news",
-     "published": "2026-08-11T04:15:41+00:00",
-     "summary": "Journalists and White House staff were aboard the legacy Air Force One that served as a \u201cdecoy,\u201d according to The Washington Post"
+     "published": "2026-08-11T23:08:16+00:00",
+     "summary": "For several hours, the President\u2019s real whereabouts were unknown to\u2014and concealed from\u2014both the White House press pool and the American public."
+    },
+    {
+     "outlet": "axios",
+     "title": "Trump's secret plane switch: How Air Force One protects the president from threats",
+     "url": "https://www.axios.com/2026/08/11/trump-air-force-one-security-secret-plane-switch",
+     "author": "Herb Scribner",
+     "kind": "news",
+     "published": "2026-08-11T18:40:25+00:00",
+     "summary": "President Trump's secret plane switch in Turkey is putting Air Force One's security protocols and defensive capabilities in the spotlight. Why it matters: Air Force One is the call sign for any Air Force aircraft carrying the president, meaning Trump's secret switch didn't change the designation \u2014 but it changed the plane protecting him. Driving the news: A threat from Iran forced Trump to secretly switch planes, using a catering truck to move to a smaller aircraft, per the Washington Post . Tru"
+    }
+   ]
+  },
+  {
+   "id": "7497eb156b",
+   "headline": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
+   "updated": "2026-08-13T06:22:11+00:00",
+   "outletCount": 4,
+   "counts": {
+    "family": 2,
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "Late Night Ribs Trump for Leaving Staff Behind on Air Force One",
+     "url": "https://www.nytimes.com/2026/08/13/arts/television/late-night-trump-air-force-one-catering.html",
+     "author": "Trish Bendix",
+     "kind": "news",
+     "published": "2026-08-13T06:22:11+00:00",
+     "summary": "Anthony Anderson, the guest host of \u201cJimmy Kimmel Live,\u201d called the ruse in which President Trump exited the plane in a catering container \u201cOperation Pig in a Blanket.\u201d"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
+     "url": "https://www.pbs.org/newshour/show/news-wrap-trump-confirms-he-was-secretly-whisked-away-from-air-force-one-in-turkey",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T22:45:26+00:00",
+     "summary": "In our news wrap Wednesday, President Trump confirmed that he was whisked away from Air Force One in a catering truck at the Secret Service's direction, the hope of finding survivors is diminishing more than two days after a powerful earthquake hit Colombia and White House Press Secretary Karoline Leavitt says she will soon leave the job to spend more time with her family."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Trump's Air Force One shell game: How years of decoy tactics led to a catering-truck switch",
+     "url": "https://www.foxnews.com/politics/trump-air-force-one-shell-game-years-decoy-tactics-led-catering-truck-switch",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T19:04:25+00:00",
+     "summary": "President Donald Trump secretly exited Air Force One into a catering truck in Ankara amid a credible Iranian threat, flying on a military jet under a nondescript call sign."
+    },
+    {
+     "outlet": "bbc",
+     "title": "What it's like flying with Trump on Air Force One",
+     "url": "https://www.bbc.co.uk/news/videos/cgljpy5k3p8o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T10:43:23+00:00",
+     "summary": "BBC Correspondent Tom Bateman explains what it's like for members of the press who fly on Air Force One with the US President."
     }
    ]
   },
@@ -1628,6 +1416,108 @@
    ]
   },
   {
+   "id": "3a56ea9c80",
+   "headline": "Rep. Max Miller\u2019s ex-wife sues congressman over \u2018nude image\u2019 of their\u00a02-year-old daughter",
+   "updated": "2026-08-13T03:45:28+00:00",
+   "outletCount": 4,
+   "counts": {
+    "family": 2,
+    "corp": 2
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Rep. Max Miller\u2019s ex-wife sues congressman over \u2018nude image\u2019 of their\u00a02-year-old daughter",
+     "url": "https://nypost.com/2026/08/12/us-news/rep-max-millers-ex-wife-sues-congressman-over-nude-image-of-their-two-year-old-daughter/",
+     "author": "Victor Nava",
+     "kind": "news",
+     "published": "2026-08-13T03:45:28+00:00",
+     "summary": "The complaint, filed in a federal court in Ohio, argues that Miller and his lawyer, Aaron Minc, violated federal laws on the \u201cdisclosure of intimate images\u201d when the congressman shared a link to an electronic Dropbox folder which included a photograph of the young child \u201cdepicting her genitalia\u201d among a trove of documents."
+    },
+    {
+     "outlet": "thehill",
+     "title": "Emily Moreno sues Rep. Max Miller, alleging he posted nude photo of daughter",
+     "url": "https://thehill.com/regulation/court-battles/6026450-max-miller-child-photo-lawsuit/",
+     "author": "Ryan Mancini",
+     "kind": "news",
+     "published": "2026-08-13T00:46:05+00:00",
+     "summary": "Rep. Max Miller\u2019s (R-Ohio) ex-wife, Emily Moreno, on Wednesday sued the Ohio Republican, alleging he published a nude photo of their young daughter online. A copy of the federal lawsuit obtained by The Hill alleges that Miller \"recklessly published and disclosed to the world a nude image\u201d of the child. It says that Miller \"recklessly..."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Rep. Max Miller\u2019s ex-wife sues after sensitive image of child was publicly shared",
+     "url": "https://www.washingtonpost.com/politics/2026/08/12/rep-max-millers-ex-wife-sues-after-sensitive-image-child-was-publicly-shared/",
+     "author": "Alexei Koseff",
+     "kind": "news",
+     "published": "2026-08-12T23:16:06+00:00",
+     "summary": "The Ohio Republican had released documents through a publicly accessible Dropbox account this month, seeking to fend off allegations of domestic abuse."
+    },
+    {
+     "outlet": "axios",
+     "title": "The House Democratic money machine is coming for GOP Rep. Max Miller",
+     "url": "https://www.axios.com/2026/08/11/max-miller-ohio-brian-poindexter-democrats-2026",
+     "author": "Andrew Solender",
+     "kind": "news",
+     "published": "2026-08-11T21:57:11+00:00",
+     "summary": "Democrats have gone from treating Rep. Max Miller (R-Ohio) as a best-case-scenario target to a genuinely vulnerable incumbent whose downfall is worth a real investment. Why it matters: Democratic groups tell Axios they plan to put their money where their mouth is and spend to win the seat, which Trump carried by double digits in 2024. Phil Gardner, a spokesperson for the centrist Blue Dog Action Fund, said his group spent nearly $200,000 to support Miller's Democratic opponent, Brian Poindexter,"
+    }
+   ]
+  },
+  {
+   "id": "b90df562e1",
+   "headline": "Trump says Secret Service wanted him on a \"different plane,\" new details on switch emerge",
+   "updated": "2026-08-13T02:07:00+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 2,
+    "family": 2
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Trump says Secret Service wanted him on a \"different plane,\" new details on switch emerge",
+     "url": "https://www.cbsnews.com/video/trump-says-secret-service-wanted-him-on-a-different-plane-new-details-on-switch-emerge/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T02:07:00+00:00",
+     "summary": "CBS News' Olivia Rinaldi has new details on the news that President Trump and other government officials took extraordinary air security measures amid threats from Iran."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Joe Rogan Calls Out Trump\u2019s \u2018Crazy\u2019 Secret Plane Stunt",
+     "url": "https://www.thedailybeast.com/joe-rogan-calls-out-trumps-secret-plane-switcheroo/",
+     "author": "Erkki Forster",
+     "kind": "news",
+     "published": "2026-08-12T20:02:45+00:00",
+     "summary": "The Joe Rogan Experience/YouTube Joe Rogan is sounding off on Donald Trump\u2019s secret plane ruse that saw White House journalists unwittingly become decoys for the president as he escaped an Iranian threat. \u201cThose press people were signing up for something they didn\u2019t know,\u201d the MAGA-friendly podcaster said during his latest episode, apparently floored by Trump\u2019s ruse. \u201cThat\u2019s crazy.\u201d Trump, 80, was secretly transported from the old Air Force One jet to a smaller plane via an airport catering truc"
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump says Secret Service told him to switch planes because of threat",
+     "url": "https://www.washingtonpost.com/politics/2026/08/12/trump-says-secret-service-told-him-switch-planes-because-threat/",
+     "author": "Victoria Craw",
+     "kind": "news",
+     "published": "2026-08-12T09:53:44+00:00",
+     "summary": "In his first public comments on the operation, the president downplayed the risks to officials and journalists who remained on Air Force One for the flight from Turkey."
+    },
+    {
+     "outlet": "time",
+     "title": "Former Secret Service Agents: Trump\u2019s Secret Plane Swap Unusual, Not Unprecedented",
+     "url": "https://time.com/article/2026/08/11/trump-secret-plane-swap-Turkey-UK-Secret-Service-Air-Force-One/",
+     "author": "Philip Wang",
+     "kind": "news",
+     "published": "2026-08-11T19:54:55+00:00",
+     "summary": "Former Secret Service agents say Trump's secret plane swap was likely improvised in a hurry."
+    }
+   ]
+  },
+  {
    "id": "b6f7e2096c",
    "headline": "Nick Reiner indicted on murder charges in parents' killings at their LA home",
    "updated": "2026-08-13T01:08:46+00:00",
@@ -1675,6 +1565,58 @@
      "kind": "news",
      "published": "2026-08-12T19:07:44+00:00",
      "summary": "Reiner has pleaded not guilty to the charges."
+    }
+   ]
+  },
+  {
+   "id": "85924de0c1",
+   "headline": "Triple-double king Russell Westbrook calls time on 18-year NBA career",
+   "updated": "2026-08-13T01:00:24+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 2,
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "Clippers Send Message to Russell Westbrook After NBA Retirement",
+     "url": "https://www.newsweek.com/sports/nba/clippers-send-message-to-russell-westbrook-after-nba-retirement-12316653",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T01:00:24+00:00",
+     "summary": "The Los Angeles Clippers sent a message to Russell Westbrook after he announced his retirement from the NBA."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Russell Westbrook retires after 18 wild NBA seasons, leaving behind one of basketball's craziest careers",
+     "url": "https://www.foxnews.com/outkick-sports/russell-westbrook-retires-after-18-wild-nba-seasons-leaving-behind-one-basketballs-craziest-careers",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T21:55:07+00:00",
+     "summary": "Russell Westbrook retires after 18 NBA seasons with 209 career triple-doubles, the 2017 MVP award, nine All-Star nods and two scoring titles."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Triple-double king Russell Westbrook calls time on 18-year NBA career",
+     "url": "https://www.theguardian.com/sport/2026/aug/12/russell-westbrook-retires-nba-triple-doubles-record-mvp",
+     "author": "Agencies",
+     "kind": "news",
+     "published": "2026-08-12T20:25:56+00:00",
+     "summary": "2017 MVP announces retirement after 18 seasons Westbrook holds NBA record with 209 triple-doubles Guard spent first 11 seasons with Oklahoma City Russell Westbrook, the NBA\u2019s career leader in triple-doubles and the 2017 MVP, announced Wednesday he\u2019s retiring after 18 seasons during which he was selected to the league\u2019s 75th anniversary team. The two-time scoring champion shared his decision on social media in a post featuring a video narrated by actor Michael B Jordan in which the Westbrook stay"
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "NBA Star Abruptly Announces Retirement After 18 Seasons",
+     "url": "https://www.thedailybeast.com/nba-star-russell-westbrook-abruptly-announces-retirement-after-18-seasons/",
+     "author": "Fiona O'Reilly",
+     "kind": "news",
+     "published": "2026-08-12T19:54:51+00:00",
+     "summary": "Darren Yamashita/REUTERS NBA guard Russell Westbrook has announced his retirement from the NBA in a social media post shared Wednesday. \u201cSometimes you don\u2019t even know when you\u2019ve already watched the end,\u201d the 37-year-old said. \u201cYou had to be there. And now it\u2019s over.\u201d Selected with the overall pick in the 2008 NBA draft, the UCLA alum has spent 18 seasons in the league with seven teams. He averages 20.9 points, 6.9 rebounds, and 8.0 assists per game. The California native spent 11 seasons with O"
     }
    ]
   },
@@ -1893,63 +1835,114 @@
    ]
   },
   {
-   "id": "06c3c10cfe",
-   "headline": "Trump Promised To End Foreign Aid. Now He's Giving Christian Groups Nearly $2 Billion.",
-   "updated": "2026-08-12T18:45:46+00:00",
+   "id": "4eceb09336",
+   "headline": "Report suggests a threat forced Trump to switch aircraft as he departed NATO summit",
+   "updated": "2026-08-12T18:51:16+00:00",
    "outletCount": 4,
    "counts": {
-    "nonprofit": 2,
     "corp": 1,
-    "family": 2
+    "family": 2,
+    "nonprofit": 1
    },
    "newsCount": 4,
-   "opinionCount": 1,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "reason",
-     "title": "Trump Promised To End Foreign Aid. Now He's Giving Christian Groups Nearly $2 Billion.",
-     "url": "https://reason.com/2026/08/12/trump-promised-to-end-foreign-aid-now-hes-giving-christian-groups-nearly-2-billion/",
-     "author": "Reem Ibrahim",
-     "kind": "opinion",
-     "published": "2026-08-12T18:45:46+00:00",
-     "summary": "A red background with gold lettering, Trump sitting in a chair in the foreground surround by stacks of American money"
+     "outlet": "abcnews",
+     "title": "TIMELINE: Trump's elaborate covert exit from Turkey amid Iranian threat",
+     "url": "https://abcnews.com/Politics/timeline-trumps-elaborate-covert-exit-turkey-amid-iranian/story?id=135580575",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T18:51:16+00:00",
+     "summary": "In Turkey, Trump said the change in plane had nothing to do with security concerns, though he also reiterated that he's \"number one on the kill list for Iran.\u201d"
     },
     {
-     "outlet": "rollingstone",
-     "title": "Trump Is Spending Nearly $1 Billion in Taxpayer Money on Gaudy White House Renovations: Report",
-     "url": "https://www.rollingstone.com/politics/politics-news/trump-spending-billion-white-house-renovations-1235607598/",
-     "author": "Nikkimccannramirez",
+     "outlet": "time",
+     "title": "Trump Breaks Silence on Secret Plane Switch in Turkey Over Possible Iranian Threat",
+     "url": "https://time.com/article/2026/08/12/trump-plane-switch-turkey-iranian-threat-secret-service-decoy/",
+     "author": "Tiago Ventura",
      "kind": "news",
-     "published": "2026-08-12T18:37:51+00:00",
-     "summary": "The White House is funneling millions into executive maintenance accounts without oversight or approval from Congress, The Washington Post reports"
+     "published": "2026-08-12T12:35:11+00:00",
+     "summary": "\"I guess there was a threat out there. I didn't really ask too much about it. I get a lot of threats,\" Trump told reporters."
+    },
+    {
+     "outlet": "npr",
+     "title": "Report suggests a threat forced Trump to switch aircraft as he departed NATO summit",
+     "url": "https://www.npr.org/2026/08/12/nx-s1-5928126/report-suggests-a-threat-forced-trump-to-switch-aircraft-as-he-departed-nato-summit",
+     "author": "Tamara Keith",
+     "kind": "news",
+     "published": "2026-08-12T08:46:26+00:00",
+     "summary": "President Trump boarded Air Force One last month as usual. But the Washington Post reports he was smuggled off the plane in a catering truck and flew on an entirely different aircraft due to a threat."
     },
     {
      "outlet": "wapo",
-     "title": "Trump administration set to spend at least $900 million on White House construction",
-     "url": "https://www.washingtonpost.com/investigations/2026/08/12/trump-administration-set-spend-least-900-million-white-house-construction/",
-     "author": "Jonathan O'Connell, Sarah Blaskey",
+     "title": "Democrats demand briefing on Trump\u2019s secret flight from Turkey",
+     "url": "https://www.washingtonpost.com/politics/2026/08/11/democrats-demand-briefing-trumps-secret-flight-turkey/",
+     "author": "Cat Zakrzewski",
      "kind": "news",
-     "published": "2026-08-12T10:00:01+00:00",
-     "summary": "The price tag is much larger than what has been previously reported, according to a Post review of confidential contracts, and taxpayers would cover most of it."
+     "published": "2026-08-11T22:11:15+00:00",
+     "summary": "Senate Minority Leader Chuck Schumer said the White House kept Congress \u201cin the dark\u201d about last month\u2019s ruse to avoid an Iranian threat."
+    }
+   ]
+  },
+  {
+   "id": "17d44366a4",
+   "headline": "Colombia earthquake: Rescue operation enters 'final phase'",
+   "updated": "2026-08-13T07:45:00+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 3,
+    "corp": 2
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "Colombia earthquake: Rescue operation enters 'final phase'",
+     "url": "https://www.dw.com/en/colombia-earthquake-rescue-operation-enters-final-phase/a-78345817?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T07:45:00+00:00",
+     "summary": "Rescuers are racing against a critical 72-hour window to find survivors after a magnitude 7.4 earthquake that has killed 265 people, left hundreds missing, and displaced tens of thousands across western Colombia."
     },
     {
-     "outlet": "wapo",
-     "title": "Human rights groups sue Trump administration over International Criminal Court sanctions",
-     "url": "https://www.washingtonpost.com/politics/2026/08/11/human-rights-groups-sue-trump-administration-over-international-criminal-court-sanctions/",
-     "author": "Sammy Westfall",
+     "outlet": "france24",
+     "title": "Colombia earthquake rescue efforts enter 'final phase' as death toll rises",
+     "url": "https://www.france24.com/en/americas/20260813-colombia-earthquake-rescue-efforts-enter-final-phase-as-death-toll-rises",
+     "author": "FRANCE 24",
      "kind": "news",
-     "published": "2026-08-11T17:31:01+00:00",
-     "summary": "The president signed an executive order in 2025 placing sanctions on the ICC, whose jurisdiction the U.S. does not recognize."
+     "published": "2026-08-13T01:36:28+00:00",
+     "summary": "Rescuers in Colombia faced a race against time Wednesday as they searched collapsed buildings for survivors after the country's strongest earthquake this century. The magnitude 7.4 quake has killed 265 people and injured more than 3,500, with nearly 500 still missing."
     },
     {
-     "outlet": "guardian",
-     "title": "Human rights groups sue Trump administration over \u2018crippling\u2019 ICC sanctions",
-     "url": "https://www.theguardian.com/us-news/2026/aug/11/human-rights-groups-trump-lawsuit-icc-sanctions",
-     "author": "Alice Speri",
+     "outlet": "cbsnews",
+     "title": "Colombia earthquake death toll rises as frantic search for survivors continues",
+     "url": "https://www.cbsnews.com/news/colombia-earthquake-death-toll-rises-frantic-search-for-survivors/",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-11T15:10:16+00:00",
-     "summary": "Lawsuit challenges executive order targeting international criminal court for investigating Israeli crimes in Palestine Four prominent US human rights organizations have accused the Trump administration of using its \u201ccrippling\u201d sanctions regime against the international criminal court (ICC) to undermine global efforts to prosecute war crimes and crimes against humanity. In a lawsuit filed in federal court on Tuesday, the groups \u2013 the American Friends Service Committee, the Center for Constitutio"
+     "published": "2026-08-13T00:22:00+00:00",
+     "summary": "The devastation has tested Colombia's new president and his government as it scrambles to respond to the disaster and civil society as it pushes to provide aid to the most affected communities."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Miraculous rescue gives moment of hope in Colombia after devastating earthquake",
+     "url": "https://www.cbsnews.com/video/miraculous-rescue-gives-moment-hope-colombia-devastating-earthquake/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T23:29:19+00:00",
+     "summary": "48 hours after the devastating earthquake in Colombia, its president said the death toll jumped to 181 people, and thousands were still reported missing. Lilia Luciano reports on a rescue effort in a hard-hit city."
+    },
+    {
+     "outlet": "france24",
+     "title": "Colombia: Bogota's search for survivors continues",
+     "url": "https://www.france24.com/en/colombia-bogota-s-search-for-survivors-continues",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-12T15:21:22+00:00",
+     "summary": "The search for survivors continues in Colombia, more than 48 hours after a 7.4-magnitude earthquake struck the country. More than 200 people have been confirmed dead, while more than 2,000 are reported missing. The new president, Abelardo de la Espriella, has declared a state of emergency, as many people remain without clean drinking water or electricity and several major highways are still closed. Carys Garland\u2019s report begins with the dramatic rescue of a man from the wreckage of his home."
     }
    ]
   },
@@ -1993,6 +1986,49 @@
      "kind": "news",
      "published": "2026-08-12T14:16:12+00:00",
      "summary": "Messi\u2019s father, \u2060Jorge, died last week at age of 68 Argentinian suggests he may not play on much longer Lionel Messi has hinted that the end of his career may be near after \u00adadmitting to \u201cquite a few doubts\u201d about his football future following the death of his father. Jorge Messi died last week at the age of 68 in Rosario, Argentina, after a long illness, with his health during this summer\u2019s World Cup appearing to take a toll on Argentina\u2019s 39-year-old captain. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "aec1ab3f9f",
+   "headline": "US: Karoline Leavitt to step down as Trump's spokesperson",
+   "updated": "2026-08-13T07:15:00+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 1,
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "US: Karoline Leavitt to step down as Trump's spokesperson",
+     "url": "https://www.dw.com/en/us-karoline-leavitt-to-step-down-as-trump-s-spokesperson/a-78345847?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T07:15:00+00:00",
+     "summary": "White House press secretary Karoline Leavitt is to leave her job at the end of the month, President Donald Trump says. Leavitt, 28, is the youngest-ever person to have held the position."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "JD Vance Reacts to Karoline Leavitt\u2019s Exit: \u2018We\u2019re Sad to See Her Go\u2019",
+     "url": "https://www.breitbart.com/politics/2026/08/12/jd-vance-reacts-to-karoline-leavitts-exit-were-sad-to-see-her-go/",
+     "author": "Mariane Angela",
+     "kind": "news",
+     "published": "2026-08-13T02:20:22+00:00",
+     "summary": "Vice President JD Vance praised White House press secretary Karoline Leavitt after she announced she was stepping down. The post JD Vance Reacts to Karoline Leavitt\u2019s Exit: \u2018We\u2019re Sad to See Her Go\u2019 appeared first on Breitbart ."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Karoline Leavitt, 28, Busted Using AI in Exit Statement",
+     "url": "https://www.thedailybeast.com/karoline-leavitt-busted-using-ai-in-white-house-exit-statement/",
+     "author": "Vic Verbalaitis",
+     "kind": "news",
+     "published": "2026-08-12T21:43:05+00:00",
+     "summary": "Anna Moneymaker/Getty Images/Karoline Leavitt/X Karoline Leavitt appears to have used AI-generated content in a statement announcing her departure from the White House. Leavitt, 28, shared a lengthy statement on X on Wednesday confirming that she would be leaving her role as the White House press secretary at the end of the month, including two photos of herself alongside President Donald Trump. The post included a \u201cMade with AI\u201d tag. The first photo, which showed Trump and Leavitt speaking to t"
     }
    ]
   },
@@ -2080,17 +2116,60 @@
    ]
   },
   {
+   "id": "60d88abab5",
+   "headline": "Trump Administration Claims Executive Privilege Over White House Conversations With Private Advisers",
+   "updated": "2026-08-13T04:54:24+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "Top Doctor Demands White House Come Clean on Trump\u2019s Health",
+     "url": "https://www.thedailybeast.com/top-doctor-jonathan-reiner-demands-white-house-come-clean-on-trumps-health/",
+     "author": "Cameron Adams",
+     "kind": "news",
+     "published": "2026-08-13T04:54:24+00:00",
+     "summary": "Andrew Harnik/Getty Images A top doctor has demanded the White House come clean and reveal the full details about President Donald Trump\u2019s health, claiming it is rapidly declining in plain sight. Dr. Jonathan Reiner, 66, appeared on Erin Burnett OutFront on Wednesday after a scathing opinion piece in the New York Times that also called out the silence around Trump\u2019s medical issues. Reiner, who was previously Vice President Dick Cheney\u2019s cardiologist, told host Burnett that he was concerned that "
+    },
+    {
+     "outlet": "reason",
+     "title": "Trump Administration Claims Executive Privilege Over White House Conversations With Private Advisers",
+     "url": "https://reason.com/2026/08/12/trump-administration-claims-executive-privilege-over-white-house-conversations-with-private-advisers/",
+     "author": "C.J. Ciaramella",
+     "kind": "opinion",
+     "published": "2026-08-12T19:16:44+00:00",
+     "summary": "Trump on phone"
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump administration set to spend at least $900 million on White House construction",
+     "url": "https://www.washingtonpost.com/investigations/2026/08/12/trump-administration-set-spend-least-900-million-white-house-construction/",
+     "author": "Jonathan O'Connell, Sarah Blaskey",
+     "kind": "news",
+     "published": "2026-08-12T10:00:01+00:00",
+     "summary": "The price tag is much larger than what has been previously reported, according to a Post review of confidential contracts, and taxpayers would cover most of it."
+    }
+   ]
+  },
+  {
    "id": "18bf0e3ac0",
    "headline": "Search efforts in Colombia enter \u2018final phase\u2019 as quake toll reaches 265",
    "updated": "2026-08-13T04:26:46+00:00",
    "outletCount": 3,
    "counts": {
-    "pub": 3,
-    "corp": 2
+    "pub": 2,
+    "corp": 1
    },
-   "newsCount": 5,
+   "newsCount": 3,
    "opinionCount": 0,
-   "underreported": false,
+   "underreported": true,
    "articles": [
     {
      "outlet": "aljazeera",
@@ -2103,39 +2182,21 @@
     },
     {
      "outlet": "france24",
-     "title": "Colombia earthquake rescue efforts enter 'final phase' as death toll rises",
-     "url": "https://www.france24.com/en/americas/20260813-colombia-earthquake-rescue-efforts-enter-final-phase-as-death-toll-rises",
+     "title": "Colombia declares three days of mourning as search for quake survivors continues",
+     "url": "https://www.france24.com/en/americas/20260812-colombia-declares-three-days-mourning-for-quake-victims",
      "author": "FRANCE 24",
      "kind": "news",
-     "published": "2026-08-13T01:36:28+00:00",
-     "summary": "Rescuers in Colombia faced a race against time Wednesday as they searched collapsed buildings for survivors after the country's strongest earthquake this century. The magnitude 7.4 quake has killed 265 people and injured more than 3,500, with nearly 500 still missing."
+     "published": "2026-08-12T12:55:15+00:00",
+     "summary": "Colombia on Wednesday declared three days of mourning after a 7.4-magnitude earthquake killed more than 200 people in the west of the country. Monday's quake was the strongest to hit Colombia this century, and the search for survivors under the rubble is ongoing."
     },
     {
-     "outlet": "cbsnews",
-     "title": "Colombia earthquake death toll rises as frantic search for survivors continues",
-     "url": "https://www.cbsnews.com/news/colombia-earthquake-death-toll-rises-frantic-search-for-survivors/",
-     "author": null,
+     "outlet": "politico",
+     "title": "White House officials tamped down efforts to oust Max Miller in final days",
+     "url": "https://www.politico.com/news/2026/08/10/white-house-max-miller-pressure-campaign-01031353",
+     "author": "By Meredith Lee Hill, Mia McCarthy and Erin Doherty",
      "kind": "news",
-     "published": "2026-08-13T00:22:00+00:00",
-     "summary": "The devastation has tested Colombia's new president and his government as it scrambles to respond to the disaster and civil society as it pushes to provide aid to the most affected communities."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Miraculous rescue gives moment of hope in Colombia after devastating earthquake",
-     "url": "https://www.cbsnews.com/video/miraculous-rescue-gives-moment-hope-colombia-devastating-earthquake/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T23:29:19+00:00",
-     "summary": "48 hours after the devastating earthquake in Colombia, its president said the death toll jumped to 181 people, and thousands were still reported missing. Lilia Luciano reports on a rescue effort in a hard-hit city."
-    },
-    {
-     "outlet": "france24",
-     "title": "Colombia: Bogota's search for survivors continues",
-     "url": "https://www.france24.com/en/colombia-bogota-s-search-for-survivors-continues",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-12T15:21:22+00:00",
-     "summary": "The search for survivors continues in Colombia, more than 48 hours after a 7.4-magnitude earthquake struck the country. More than 200 people have been confirmed dead, while more than 2,000 are reported missing. The new president, Abelardo de la Espriella, has declared a state of emergency, as many people remain without clean drinking water or electricity and several major highways are still closed. Carys Garland\u2019s report begins with the dramatic rescue of a man from the wreckage of his home."
+     "published": "2026-08-10T20:05:33+00:00",
+     "summary": "Ohio Republicans now have no choice but to rally behind a candidate many GOP insiders warn could cost the party a traditionally safe seat this November."
     }
    ]
   },
@@ -2488,6 +2549,48 @@
    ]
   },
   {
+   "id": "1bf133b9a7",
+   "headline": "Top Trump Goon Called BS on Intel Behind Catering Truck Stunt",
+   "updated": "2026-08-12T23:55:08+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 2,
+    "family": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "Top Trump Goon Called BS on Intel Behind Catering Truck Stunt",
+     "url": "https://www.thedailybeast.com/top-trump-goon-marco-rubio-called-bs-on-intel-behind-catering-truck-stunt/",
+     "author": "Erkki Forster",
+     "kind": "news",
+     "published": "2026-08-12T23:55:08+00:00",
+     "summary": "Daniel Heuer / Daniel Heuer/REUTERS Secretary of State Marco Rubio dismissed intelligence pointing to an Iranian assassination threat and chose to stay aboard Air Force One while President Donald Trump was secretly shuttled to a smaller plane, according to a report. When the CIA received intelligence from Israel about the assassination threat, the U.S. agency\u2019s analysts were unconvinced by the intelligence and relayed their concerns to Trump administration officials, The Washington Post reports,"
+    },
+    {
+     "outlet": "wapo",
+     "title": "Close aides, but no Cabinet officials, joined Trump in airport catering truck",
+     "url": "https://www.washingtonpost.com/politics/2026/08/12/close-trump-aides-no-cabinet-officials-made-secret-catering-truck-move/",
+     "author": "Dan Lamothe, Cat Zakrzewski",
+     "kind": "news",
+     "published": "2026-08-12T09:00:00+00:00",
+     "summary": "The president was accompanied by some of his most loyal aides but no top administration officials as he made the clandestine move to a different plane to leave Turkey last month."
+    },
+    {
+     "outlet": "vox",
+     "title": "Trump\u2019s catering truck caper",
+     "url": "https://www.vox.com/today-explained-newsletter/495843/trumps-catering-truck-caper",
+     "author": "Caitlin Dewey",
+     "kind": "news",
+     "published": "2026-08-11T20:50:00+00:00",
+     "summary": "This story appeared in&#160;Today, Explained,&#160;a daily newsletter that helps you understand the most compelling news and stories of the day.&#160;Subscribe here. It\u2019s not exactly the stuff of Netflix spy thrillers, but\u2026it\u2019s also not every day that the president makes a covert getaway in a catering truck.&#160; White House officials revealed on Monday that, before a [&#8230;]"
+    }
+   ]
+  },
+  {
    "id": "b57b95c981",
    "headline": "Trump looks to inflict economic pain on Iran",
    "updated": "2026-08-12T23:16:32+00:00",
@@ -2699,6 +2802,91 @@
    ]
   },
   {
+   "id": "06c3c10cfe",
+   "headline": "Trump Promised To End Foreign Aid. Now He's Giving Christian Groups Nearly $2 Billion.",
+   "updated": "2026-08-12T18:45:46+00:00",
+   "outletCount": 3,
+   "counts": {
+    "nonprofit": 1,
+    "corp": 2
+   },
+   "newsCount": 1,
+   "opinionCount": 2,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "reason",
+     "title": "Trump Promised To End Foreign Aid. Now He's Giving Christian Groups Nearly $2 Billion.",
+     "url": "https://reason.com/2026/08/12/trump-promised-to-end-foreign-aid-now-hes-giving-christian-groups-nearly-2-billion/",
+     "author": "Reem Ibrahim",
+     "kind": "opinion",
+     "published": "2026-08-12T18:45:46+00:00",
+     "summary": "A red background with gold lettering, Trump sitting in a chair in the foreground surround by stacks of American money"
+    },
+    {
+     "outlet": "rollingstone",
+     "title": "Trump Is Spending Nearly $1 Billion in Taxpayer Money on Gaudy White House Renovations: Report",
+     "url": "https://www.rollingstone.com/politics/politics-news/trump-spending-billion-white-house-renovations-1235607598/",
+     "author": "Nikkimccannramirez",
+     "kind": "news",
+     "published": "2026-08-12T18:37:51+00:00",
+     "summary": "The White House is funneling millions into executive maintenance accounts without oversight or approval from Congress, The Washington Post reports"
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Opinion: Trump Is Fading Fast. Who\u2019s Really Running the White House Now?",
+     "url": "https://www.thedailybeast.com/trump-is-fading-fast-whos-really-running-the-white-house-now/",
+     "author": "David Rothkopf",
+     "kind": "opinion",
+     "published": "2026-08-12T17:38:20+00:00",
+     "summary": "Photo Illustration by Elizabeth Brockway/The Daily Beast/Getty/Reuters We are watching the president ripen and rot before our very eyes. If he were a banana, he\u2019d be in the trash right now\u2014or, at best, on his way into a recipe for banana bread. From swollen ankles and bruised hands, we\u2019ve watched this deterioration progress with each passing day. This week saw a progression of bruises up his arms. He is barely able to stay awake at virtually any public function he attends. His behavior is errati"
+    }
+   ]
+  },
+  {
+   "id": "44d84b6b6f",
+   "headline": "Watch: Trump tells reporters why he switched planes",
+   "updated": "2026-08-12T13:13:40+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 1,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Watch: Trump tells reporters why he switched planes",
+     "url": "https://www.bbc.co.uk/news/videos/cp30p4ze3gxo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T13:13:40+00:00",
+     "summary": "The President confirmed that he secretly swapped planes as he left a Nato summit in Turkey last month due to a possible threat."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump 'secretly switched planes via catering truck' amid Iran threat | Deconstructed \u2013 video",
+     "url": "https://www.theguardian.com/us-news/video/2026/aug/11/trump-secretly-switched-planes-via-catering-truck-amid-iran-threat-deconstructed-video",
+     "author": "Elena Morresi, John Farrell and Sarah Bertram",
+     "kind": "news",
+     "published": "2026-08-11T18:40:24+00:00",
+     "summary": "In July, Donald Trump hid in a catering truck and reportedly secretly switched planes in a security ruse prompted by a credible Iranian assassination threat. The Guardian breaks down the footage from that day, showing how the president reportedly boarded the old Air Force One jumbo jet in view of television cameras, and then was secretly shuttled minutes later to a smaller plane via an airport catering truck typically used to load meals and other supplies preflight. Trump\u2019s actual location was c"
+    },
+    {
+     "outlet": "rollingstone",
+     "title": "Trump Hid in an Airport Catering Cart Amid Iranian Threat: Report",
+     "url": "https://www.rollingstone.com/politics/politics-news/trump-secretly-transferred-air-force-one-threats-1235606605/",
+     "author": "Charisma Madarang",
+     "kind": "news",
+     "published": "2026-08-11T04:15:41+00:00",
+     "summary": "Journalists and White House staff were aboard the legacy Air Force One that served as a \u201cdecoy,\u201d according to The Washington Post"
+    }
+   ]
+  },
+  {
    "id": "4b4beea284",
    "headline": "NH Federal Court Provisionally Certifies Class Of Pregnant ISIS Brides Seeking Birthright Citizenship For Their Children",
    "updated": "2026-08-12T02:08:47+00:00",
@@ -2738,6 +2926,39 @@
      "kind": "news",
      "published": "2026-08-11T09:00:00+00:00",
      "summary": "The president is seeking ways around rulings on tariffs, birthright citizenship and the Fed. Experts say the moves don\u2019t signal outright defiance, but they push the court\u2019s limits."
+    }
+   ]
+  },
+  {
+   "id": "416e523b88",
+   "headline": "Twitch faces backlash over Amazon using content to train AI",
+   "updated": "2026-08-13T07:32:07+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Twitch faces backlash over Amazon using content to train AI",
+     "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T07:32:07+00:00",
+     "summary": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault."
+    },
+    {
+     "outlet": "businessinsider",
+     "title": "Twitch faces fury as it confirms Amazon is training AI on its livestreams",
+     "url": "https://www.businessinsider.com/twitch-livestreams-amazon-ai-model-training-opt-out-feature-2026-8",
+     "author": "Truman Dickerson (tdickerson@insider.com)",
+     "kind": "news",
+     "published": "2026-08-12T22:03:26+00:00",
+     "summary": "Twitch said Wednesday users can opt out to prevent Amazon from training its AI models on their content."
     }
    ]
   },
@@ -2796,7 +3017,7 @@
     },
     {
      "outlet": "nypost",
-     "title": "Freddie Freeman takes freightening fall down dugout stairs, but hopes to be OK",
+     "title": "Freddie Freeman takes frightening fall down dugout stairs, but hopes to be OK",
      "url": "https://nypost.com/2026/08/13/sports/freddie-freeman-exits-dodgers-game-after-fall-down-dugout-stairs/",
      "author": "Jack Harris",
      "kind": "news",
@@ -2872,6 +3093,39 @@
    ]
   },
   {
+   "id": "824398075f",
+   "headline": "'Nasty Monster' Islam Makhachev Vs. 'Confident' Ian Machado Garry And Sleeper Fights On UFC 330",
+   "updated": "2026-08-13T05:13:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "forbes",
+     "title": "'Nasty Monster' Islam Makhachev Vs. 'Confident' Ian Machado Garry And Sleeper Fights On UFC 330",
+     "url": "https://www.forbes.com/sites/brianmazique/2026/08/13/ufc-330-makhachev-vs-garry-full-card-start-time-and-how-to-watch/",
+     "author": "Brian Mazique, Contributor",
+     "kind": "news",
+     "published": "2026-08-13T05:13:00+00:00",
+     "summary": "Everything on UFC 330: the full 11-bout card, start times for all three blocks, how to watch on Paramount+, and why only four ranked fighters are on it."
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Joe Rogan Believes Islam Makhachev Could Retire After UFC 330",
+     "url": "https://www.newsweek.com/sports/mma/joe-rogan-believes-islam-makhachev-could-retire-after-ufc-330-12316739",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T00:48:29+00:00",
+     "summary": "Could Islam Makhachev pull a Khabib Nurmagomedov if he beats Ian Machado Garry at UFC 330 and ride off into the sunset?"
+    }
+   ]
+  },
+  {
    "id": "33aa702d71",
    "headline": "Oman says oil spill from stricken tanker has reached its coast",
    "updated": "2026-08-13T04:26:11+00:00",
@@ -2900,6 +3154,39 @@
      "kind": "news",
      "published": "2026-08-12T22:18:17+00:00",
      "summary": "Oman\u2019s Environment Authority said Wednesday that oil leaking from a tanker grounded off the country\u2019s coast had reached mainland beaches. The spill threatened marine habitats and a nearby protected area as strong winds and monsoon currents spread the oil, raising fears it could reach other islands."
+    }
+   ]
+  },
+  {
+   "id": "800ba5d56d",
+   "headline": "New Maine Senate Poll Shows Susan Collins Slipping as Midterms Loom",
+   "updated": "2026-08-13T03:15:09+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "New Maine Senate Poll Shows Susan Collins Slipping as Midterms Loom",
+     "url": "https://www.newsweek.com/new-maine-senate-poll-shows-susan-collins-slipping-as-midterms-loom-12316806",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T03:15:09+00:00",
+     "summary": "The latest numbers suggest a competitive race, but they don&#039;t necessarily signal immediate trouble for Collins."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Fox News Poll: New matchup, same result: Maine Senate race stays locked",
+     "url": "https://www.foxnews.com/politics/fox-news-poll-new-matchup-same-result-maine-senate-race-stays-locked",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T22:00:02+00:00",
+     "summary": "Troy Jackson leads Susan Collins by two points in the latest poll, and Maine voters worry more about her Trump ties than Jackon&apos;s progressive links."
     }
    ]
   },
@@ -2965,301 +3252,6 @@
      "kind": "news",
      "published": "2026-08-11T09:56:25+00:00",
      "summary": "Primary season is coming to a close, and today is the most crowded day left on the calendar."
-    }
-   ]
-  },
-  {
-   "id": "0ca9266310",
-   "headline": "Bernie Sanders Joins Mehdi to Talk Dems, Abdul El-Sayed, AIPAC, and Netanyahu",
-   "updated": "2026-08-13T01:00:59+00:00",
-   "outletCount": 2,
-   "counts": {
-    "coop": 1,
-    "family": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "zeteo",
-     "title": "Bernie Sanders Joins Mehdi to Talk Dems, Abdul El-Sayed, AIPAC, and Netanyahu",
-     "url": "https://zeteo.com/p/bernie-sanders-joins-mehdi",
-     "author": "Mehdi Hasan",
-     "kind": "news",
-     "published": "2026-08-13T01:00:59+00:00",
-     "summary": "The Vermont senator reacts to big progressive primary wins, the &#8216;extremist&#8217; Israeli government, and who will be the &#8216;Bernie&#8217; of 2028."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "The Bernie Sanders Proposal Not Extreme Enough For Abdul El-Sayed",
-     "url": "https://www.dailywire.com/news/the-bernie-sanders-proposal-not-extreme-enough-for-abdul-el-sayed",
-     "author": "Leif Le Mahieu",
-     "kind": "opinion",
-     "published": "2026-08-12T08:52:56+00:00",
-     "summary": "Democrat candidate Abdul El-Sayed wants to take leftist Senator Bernie Sanders\u2019 (I-VT) scheme to take \u201cpublic ownership\u201d of artificial intelligence companies one \u201cstep further.\u201d El-Sayed, the Democrats\u2019 nominee in Michigan to replace Senator Gary Peters, said during a recent podcast appearance that he wants an expansive \u201csystem of public control\u201d when it comes to AI ..."
-    }
-   ]
-  },
-  {
-   "id": "5eff691d0b",
-   "headline": "Defense in Charlie Kirk's killing argue against death penalty, said shooter hit 'intended target'",
-   "updated": "2026-08-13T00:50:47+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "pbsnewshour",
-     "title": "Defense in Charlie Kirk's killing argue against death penalty, said shooter hit 'intended target'",
-     "url": "https://www.pbs.org/newshour/nation/defense-in-charlie-kirks-killing-argue-against-death-penalty-said-shooter-hit-intended-target",
-     "author": "Matthew Brown, Associated Press",
-     "kind": "news",
-     "published": "2026-08-13T00:50:47+00:00",
-     "summary": "Whether the shooting endangered the crowd is a key issue: Prosecutors cited the risk that other people could have been harmed as an aggravating factor under state law that makes Kirk's killing a capital crime."
-    },
-    {
-     "outlet": "thehill",
-     "title": "Accused Charlie Kirk shooter ineligible for death penalty, defense argues",
-     "url": "https://thehill.com/regulation/court-battles/6026466-kirk-tyler-robinson-death-penalty-defense/",
-     "author": "Mira Bhakta",
-     "kind": "news",
-     "published": "2026-08-13T00:19:41+00:00",
-     "summary": "Lawyers for the man accused of killing political commentator Charlie Kirk during an event at Utah Valley University last year are now arguing the alleged shooter did not put any of the thousands of attendees in danger \u2014 a point they say prevents him from being eligible for the death penalty. In Tuesday court filings,..."
-    }
-   ]
-  },
-  {
-   "id": "bbcbf5a960",
-   "headline": "Why Democrats Said No to Francesca Hong",
-   "updated": "2026-08-13T00:35:05+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "freepress",
-     "title": "Why Democrats Said No to Francesca Hong",
-     "url": "https://www.thefp.com/p/democrats-wisconsin-dsa-francesca-hong-david-crowley-establishment-primary",
-     "author": "Audrey Fahlberg",
-     "kind": "news",
-     "published": "2026-08-13T00:35:05+00:00",
-     "summary": "The democratic socialist lost her bid for governor when her past radical comments resurfaced and opponents launched an offensive blitz."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Francesca Hong Releases 1st Statement After Primary Defeat",
-     "url": "https://www.breitbart.com/politics/2026/08/12/francesca-hong-releases-1st-statement-after-primary-defeat/",
-     "author": "Paul Bois",
-     "kind": "news",
-     "published": "2026-08-13T00:11:30+00:00",
-     "summary": "Democrat Francesca Hong released her first statement following her upset defeat in the Wisconsin governor primary. The post Francesca Hong Releases 1st Statement After Primary Defeat appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
-   "id": "2506a124ab",
-   "headline": "Caitlin Flanagan: Must Egg Freezing Be \u2018Normalized\u2019 by AOC?",
-   "updated": "2026-08-13T00:21:38+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "freepress",
-     "title": "Caitlin Flanagan: Must Egg Freezing Be \u2018Normalized\u2019 by AOC?",
-     "url": "https://www.thefp.com/p/caitlin-flanagan-aoc-freezing-eggs-normalized",
-     "author": "Caitlin Flanagan",
-     "kind": "news",
-     "published": "2026-08-13T00:21:38+00:00",
-     "summary": "If we raise awareness about the procedure, we should probably raise awareness of its success rates."
-    },
-    {
-     "outlet": "axios",
-     "title": "\"Not helpful\": White House winces over conservatives bashing AOC for egg freezing",
-     "url": "https://www.axios.com/2026/08/11/aoc-egg-freezing-white-house",
-     "author": "Marc Caputo",
-     "kind": "news",
-     "published": "2026-08-11T09:25:05+00:00",
-     "summary": "When Rep. Alexandria Ocasio-Cortez posted a video Saturday giving herself a shot in preparation to freeze her eggs, she instantly injected issues of fertility, family and feminism into political discourse. And some of the online backlash from the conservative right is making Republicans, including some in the White House, a little nervous. Why it matters: The New York Democrat's Instagram announcement \u2014 \"Don't be weird about this, even though I know all of you will be,\" she said \u2014 dominated soci"
-    }
-   ]
-  },
-  {
-   "id": "da294035c9",
-   "headline": "Texas THC ban continues as federal judge rejects emergency motion",
-   "updated": "2026-08-13T00:05:01+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Texas judge accused of 'doxxing' political critic faces federal lawsuit, growing push to oust him from office",
-     "url": "https://www.foxnews.com/us/texas-judge-accused-doxxing-political-critic-faces-federal-lawsuit-growing-push-oust-him-from-office",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T00:05:01+00:00",
-     "summary": "West Texas judge Terry Johnson allegedly posted a critic&apos;s Social Security and driver&apos;s license numbers on Facebook, sparking a federal lawsuit."
-    },
-    {
-     "outlet": "texastribune",
-     "title": "Texas THC ban continues as federal judge rejects emergency motion",
-     "url": "https://feeds.texastribune.org/link/16799/17411786/texas-hemp-thc-ban-federal-court-emergency",
-     "author": "Stephen Simpson",
-     "kind": "news",
-     "published": "2026-08-10T21:45:46+00:00",
-     "summary": "Hemp businesses and consumers asked to block state regulations on THC, but their lawsuit remains pending."
-    }
-   ]
-  },
-  {
-   "id": "f7e3822ddf",
-   "headline": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
-   "updated": "2026-08-13T00:00:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T00:00:00+00:00",
-     "summary": "President Trump again insists US has &#039;total control&#039; of strait, while Tehran resolute that the US must meet its demands."
-    },
-    {
-     "outlet": "semafor",
-     "title": "Iran holds firm on war demands, dampening hopes of Hormuz deal",
-     "url": "https://www.semafor.com/article/08/11/2026/iran-holds-firm-on-war-demands-dampening-hopes-of-hormuz-deal",
-     "author": "Brendan Ruberry",
-     "kind": "news",
-     "published": "2026-08-11T22:29:05+00:00",
-     "summary": "Tehran\u2019s statement dampened hopes that a deal with Oman could provide a route for commercial shipping sooner than the US and Iran could reach their own agreement."
-    }
-   ]
-  },
-  {
-   "id": "090e6cd70a",
-   "headline": "11 charged for alleged sham marriages to help Chinese nationals get green cards",
-   "updated": "2026-08-12T23:26:02+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "11 charged for alleged sham marriages to help Chinese nationals get green cards",
-     "url": "https://www.cbsnews.com/news/chinese-nationals-charged-alleged-sham-marriage-scheme/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T23:26:02+00:00",
-     "summary": "The DOJ unveiled criminal charges alleging 11 people participated in a scheme that involved more than 1,000 \"sham marriages\" between Chinese nationals and U.S. citizens."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "DOJ Charges 11 New Yorkers with Operating Sham Marriage Scheme to Get U.S. Citizenship for Chinese Nationals",
-     "url": "https://www.breitbart.com/politics/2026/08/12/doj-charges-11-new-yorkers-operating-sham-marriage-scheme-get-u-s-citizenship-chinese-nationals/",
-     "author": "John Binder",
-     "kind": "news",
-     "published": "2026-08-12T19:28:56+00:00",
-     "summary": "An unsealed indictment details a sham marriage scheme allegedly operated by nearly a dozen New Yorkers to help get American citizenship for Chinese nationals. The post DOJ Charges 11 New Yorkers with Operating Sham Marriage Scheme to Get U.S. Citizenship for Chinese Nationals appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
-   "id": "2113b56d40",
-   "headline": "Rise of the Memelords",
-   "updated": "2026-08-12T23:04:09+00:00",
-   "outletCount": 2,
-   "counts": {
-    "coop": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "flaminghydra",
-     "title": "Rise of the Memelords",
-     "url": "https://flaminghydra.com/rise-of-the-memelords/",
-     "author": "Felipe De La Hoz",
-     "kind": "news",
-     "published": "2026-08-12T23:04:09+00:00",
-     "summary": "In the spring of 2021, I wrote a piece in the Washington Post titled &#x201c;El Salvador&#x2019;s leader is updating the autocrat playbook for the TikTok generation.&#x201d; It was about Salvadoran President Nayib Bukele, at that time a developing object of admiration for the growing global reactionary"
-    },
-    {
-     "outlet": "semafor",
-     "title": "Rise of the LatAm petrostates",
-     "url": "https://www.semafor.com/article/08/11/2026/rise-of-the-latam-petrostates",
-     "author": "Tim McDonnell",
-     "kind": "news",
-     "published": "2026-08-11T14:16:01+00:00",
-     "summary": "Brazil, Guyana, Venezuela, and Argentina all posted production gains in the first half of this year that outpaced analysts\u2019 prewar forecasts."
-    }
-   ]
-  },
-  {
-   "id": "7ee47250e4",
-   "headline": "El-Sayed's Campaign Confirms He Still Follows Sharia Law in Personal Life",
-   "updated": "2026-08-12T22:56:55+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "El-Sayed's Campaign Confirms He Still Follows Sharia Law in Personal Life",
-     "url": "https://www.breitbart.com/politics/2026/08/12/el-sayeds-campaign-confirms-he-still-follows-sharia-law-in-personal-life/",
-     "author": "Mariane Angela",
-     "kind": "news",
-     "published": "2026-08-12T22:56:55+00:00",
-     "summary": "Abdulrahman El-Sayed's campaign confirmed the Michigan Democrat Senate nominee still complies with Sharia law in his personal life, after resurfaced 2009 comments in which he described following it as a lifelong \"obligation.\" The post El-Sayed&#8217;s Campaign Confirms He Still Follows Sharia Law in Personal Life appeared first on Breitbart ."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Abdul El-Sayed Dedicated His Life To Sharia Law",
-     "url": "https://www.dailywire.com/news/abdul-el-sayed-dedicated-his-life-to-sharia-law",
-     "author": "Leona Salinas",
-     "kind": "opinion",
-     "published": "2026-08-12T11:51:02+00:00",
-     "summary": "As a 24-year-old medical student, Abdul El-Sayed sat down with The New York Times in 2009 to discuss buying his first home. He had chosen a Sharia-compliant mortgage for a $123,000 condominium in Ann Arbor. The arrangement avoided interest, which Islamic law prohibits. El-Sayed explained his decision. \u201cUltimately, the question is, when I die and ..."
     }
    ]
   }
