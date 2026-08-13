@@ -44,7 +44,7 @@ ROOT = OWNERSHIP.parent
 OUT = ROOT / "stories.json"
 
 WINDOW_HOURS = 72          # only cluster articles this recent
-MAX_STORIES = 40           # stories shown on the site
+MAX_STORIES = 60           # stories shown on the site
 JACCARD_JOIN = 0.20        # title-token similarity to join a cluster
 SHARED_JOIN = 3            # or at least this many shared significant tokens
 UNDERREPORTED_CORP_SHARE = 0.34  # corp+family share at or below this => underreported

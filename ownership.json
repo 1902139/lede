@@ -1,235 +1,1552 @@
 {
-  "_note": "Curated ownership database. Types: corp (corporate conglomerate), family (billionaire/family-controlled), coop (worker-owned), nonprofit, pub (public/state-funded). Chains are simplified; verify and update periodically — ownership changes are rare but real. Last reviewed: 2026-08.",
-  "outlets": {
-    "nyt": {
-      "name": "The New York Times",
-      "url": "https://www.nytimes.com",
-      "type": "family",
-      "chain": ["The New York Times", "New York Times Co.", "Ochs-Sulzberger family (dual-class voting control)"],
-      "holdings": "The Athletic, Wirecutter, NYT Cooking & Games.",
-      "funding": "Subscriptions + advertising; publicly traded with family-controlled Class B shares.",
-      "feeds": [
-        { "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml", "kind": "news" },
-        { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml", "kind": "news" }
-      ]
+ "_note": "Curated ownership database. Types: corp (corporate conglomerate), family (billionaire/family-controlled), coop (worker-owned), nonprofit, pub (public/state-funded). Ownership chains are simplified summaries of public record. 'record' holds documented accountability events (retractions, settlements, fabrication findings) researched from published sources \u2014 it is deliberately NOT a score. Absence of incidents often reflects a young or small outlet, not a superior record. Corrections welcome via GitHub issue. Last reviewed: 2026-08.",
+ "outlets": {
+  "nyt": {
+   "name": "The New York Times",
+   "url": "https://www.nytimes.com",
+   "type": "family",
+   "chain": [
+    "The New York Times",
+    "New York Times Co.",
+    "Ochs-Sulzberger family (dual-class voting control)"
+   ],
+   "holdings": "The Athletic, Wirecutter, NYT Cooking & Games.",
+   "funding": "Subscriptions + advertising; publicly traded with family-controlled Class B shares.",
+   "feeds": [
+    {
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+     "kind": "news"
     },
-    "wsj": {
-      "name": "Wall Street Journal",
-      "url": "https://www.wsj.com",
-      "type": "family",
-      "chain": ["Wall Street Journal", "Dow Jones & Co.", "News Corp", "Murdoch family trust"],
-      "holdings": "Sister properties include New York Post, HarperCollins, The Times (UK); Fox News via family control of Fox Corp.",
-      "funding": "Subscriptions + advertising; dual-class shares keep family voting control.",
-      "feeds": [
-        { "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml", "kind": "news" },
-        { "url": "https://feeds.a.dj.com/rss/RSSOpinion.xml", "kind": "opinion" }
-      ]
-    },
-    "wapo": {
-      "name": "Washington Post",
-      "url": "https://www.washingtonpost.com",
-      "type": "family",
-      "chain": ["Washington Post", "Nash Holdings", "Jeff Bezos"],
-      "holdings": "Owner also controls Amazon (major federal contractor) and Blue Origin.",
-      "funding": "Subscriptions + advertising; privately held by owner.",
-      "feeds": [
-        { "url": "https://feeds.washingtonpost.com/rss/politics", "kind": "news" },
-        { "url": "https://feeds.washingtonpost.com/rss/national", "kind": "news" }
-      ]
-    },
-    "foxnews": {
-      "name": "Fox News",
-      "url": "https://www.foxnews.com",
-      "type": "family",
-      "chain": ["Fox News", "Fox Corp", "Murdoch family trust"],
-      "holdings": "Fox broadcast network, Fox Sports, Tubi; sister to News Corp properties.",
-      "funding": "Cable carriage fees + advertising; dual-class family voting control.",
-      "feeds": [
-        { "url": "https://moxie.foxnews.com/google-publisher/latest.xml", "kind": "news" },
-        { "url": "https://moxie.foxnews.com/google-publisher/politics.xml", "kind": "news" },
-        { "url": "https://moxie.foxnews.com/google-publisher/opinion.xml", "kind": "opinion" }
-      ]
-    },
-    "cnn": {
-      "name": "CNN",
-      "url": "https://www.cnn.com",
-      "type": "corp",
-      "chain": ["CNN", "Warner Bros. Discovery"],
-      "holdings": "Parent owns HBO/Max, Warner Bros. studios, Discovery networks.",
-      "funding": "Cable carriage fees + advertising.",
-      "feeds": [
-        { "url": "http://rss.cnn.com/rss/cnn_topstories.rss", "kind": "news" }
-      ]
-    },
-    "nbcnews": {
-      "name": "NBC News",
-      "url": "https://www.nbcnews.com",
-      "type": "corp",
-      "chain": ["NBC News", "NBCUniversal", "Comcast"],
-      "holdings": "Parent owns Xfinity broadband/cable, Universal studios & parks, MSNBC ties.",
-      "funding": "Advertising + carriage; part of a publicly traded telecom conglomerate.",
-      "feeds": [
-        { "url": "https://feeds.nbcnews.com/nbcnews/public/news", "kind": "news" }
-      ]
-    },
-    "nypost": {
-      "name": "New York Post",
-      "url": "https://nypost.com",
-      "type": "family",
-      "chain": ["New York Post", "News Corp", "Murdoch family trust"],
-      "holdings": "Sister to WSJ, HarperCollins; Fox News via family control of Fox Corp.",
-      "funding": "Advertising; long subsidized by parent.",
-      "feeds": [
-        { "url": "https://nypost.com/feed/", "kind": "news" }
-      ]
-    },
-    "latimes": {
-      "name": "Los Angeles Times",
-      "url": "https://www.latimes.com",
-      "type": "family",
-      "chain": ["Los Angeles Times", "Patrick Soon-Shiong"],
-      "holdings": "Owner holds biotech companies (NantWorks/ImmunityBio).",
-      "funding": "Subscriptions + advertising; privately held by owner.",
-      "feeds": [
-        { "url": "https://www.latimes.com/rss2.0.xml", "kind": "news" }
-      ]
-    },
-    "economist": {
-      "name": "The Economist",
-      "url": "https://www.economist.com",
-      "type": "family",
-      "chain": ["The Economist", "The Economist Group", "Exor (Agnelli family, largest shareholder) + trusts"],
-      "holdings": "Exor also holds Ferrari, Stellantis, Juventus.",
-      "funding": "Subscriptions + advertising. Publishes anonymously — no bylines.",
-      "feeds": [
-        { "url": "https://www.economist.com/united-states/rss.xml", "kind": "news" },
-        { "url": "https://www.economist.com/leaders/rss.xml", "kind": "opinion" }
-      ]
-    },
-    "guardian": {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com",
-      "type": "nonprofit",
-      "chain": ["The Guardian", "Guardian Media Group", "Scott Trust Ltd (sole purpose: fund the journalism)"],
-      "holdings": "None significant.",
-      "funding": "Reader contributions + advertising; trust-owned, no proprietor to pay.",
-      "feeds": [
-        { "url": "https://www.theguardian.com/us-news/rss", "kind": "news" },
-        { "url": "https://www.theguardian.com/world/rss", "kind": "news" },
-        { "url": "https://www.theguardian.com/commentisfree/rss", "kind": "opinion" }
-      ]
-    },
-    "npr": {
-      "name": "NPR",
-      "url": "https://www.npr.org",
-      "type": "nonprofit",
-      "chain": ["NPR", "Nonprofit — member-station network"],
-      "holdings": "None.",
-      "funding": "Member station fees, sponsorships, philanthropy.",
-      "feeds": [
-        { "url": "https://feeds.npr.org/1001/rss.xml", "kind": "news" },
-        { "url": "https://feeds.npr.org/1014/rss.xml", "kind": "news" }
-      ]
-    },
-    "propublica": {
-      "name": "ProPublica",
-      "url": "https://www.propublica.org",
-      "type": "nonprofit",
-      "chain": ["ProPublica", "Nonprofit newsroom, foundation- and donor-funded"],
-      "holdings": "None.",
-      "funding": "Philanthropy + donations; no advertising.",
-      "feeds": [
-        { "url": "https://www.propublica.org/feeds/propublica/main", "kind": "news" }
-      ]
-    },
-    "motherjones": {
-      "name": "Mother Jones",
-      "url": "https://www.motherjones.com",
-      "type": "nonprofit",
-      "chain": ["Mother Jones", "Center for Investigative Reporting (nonprofit)"],
-      "holdings": "None.",
-      "funding": "Reader donations + foundation grants.",
-      "feeds": [
-        { "url": "https://www.motherjones.com/feed/", "kind": "news" }
-      ]
-    },
-    "reason": {
-      "name": "Reason",
-      "url": "https://reason.com",
-      "type": "nonprofit",
-      "chain": ["Reason", "Reason Foundation (nonprofit)"],
-      "holdings": "Foundation also does policy advocacy — disclosed.",
-      "funding": "Donations + subscriptions.",
-      "feeds": [
-        { "url": "https://reason.com/feed/", "kind": "opinion" }
-      ]
-    },
-    "intercept": {
-      "name": "The Intercept",
-      "url": "https://theintercept.com",
-      "type": "nonprofit",
-      "chain": ["The Intercept", "Nonprofit newsroom (reader- and donor-funded)"],
-      "holdings": "None.",
-      "funding": "Donations + membership.",
-      "feeds": [
-        { "url": "https://theintercept.com/feed/", "kind": "news" }
-      ]
-    },
-    "bbc": {
-      "name": "BBC News",
-      "url": "https://www.bbc.com/news",
-      "type": "pub",
-      "chain": ["BBC News", "BBC", "UK licence-fee funded, royal charter"],
-      "holdings": "BBC Studios (commercial arm).",
-      "funding": "UK licence fee; charter terms set by government.",
-      "feeds": [
-        { "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "kind": "news" },
-        { "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml", "kind": "news" }
-      ]
-    },
-    "404media": {
-      "name": "404 Media",
-      "url": "https://www.404media.co",
-      "type": "coop",
-      "chain": ["404 Media", "Worker-owned — founded by its four journalists"],
-      "holdings": "None.",
-      "funding": "Reader subscriptions. No investors.",
-      "feeds": [
-        { "url": "https://www.404media.co/rss/", "kind": "news" }
-      ]
-    },
-    "defector": {
-      "name": "Defector",
-      "url": "https://defector.com",
-      "type": "coop",
-      "chain": ["Defector", "Worker-owned collective (~20 staff owners)"],
-      "holdings": "None.",
-      "funding": "Reader subscriptions. No investors.",
-      "feeds": [
-        { "url": "https://defector.com/feed", "kind": "news" }
-      ]
-    },
-    "hellgate": {
-      "name": "Hell Gate",
-      "url": "https://hellgatenyc.com",
-      "type": "coop",
-      "chain": ["Hell Gate", "Worker-owned cooperative (NYC)"],
-      "holdings": "None.",
-      "funding": "Reader subscriptions.",
-      "feeds": [
-        { "url": "https://hellgatenyc.com/rss/", "kind": "news" }
-      ]
-    },
-    "aftermath": {
-      "name": "Aftermath",
-      "url": "https://aftermath.site",
-      "type": "coop",
-      "chain": ["Aftermath", "Worker-owned (games/internet journalism)"],
-      "holdings": "None.",
-      "funding": "Reader subscriptions.",
-      "feeds": [
-        { "url": "https://aftermath.site/feed", "kind": "news" }
-      ]
+    {
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+     "kind": "news"
     }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2003,
+      "text": "Reporter Jayson Blair resigned after paper documented plagiarism and fabrication across dozens of stories."
+     },
+     {
+      "year": 2004,
+      "text": "Published editors' note calling its prewar Iraq WMD coverage insufficiently rigorous."
+     },
+     {
+      "year": 2020,
+      "text": "Retracted core reporting of the 'Caliphate' podcast and returned its Peabody award."
+     }
+    ],
+    "correctionsPolicy": "unclear",
+    "policyUrl": null
+   }
+  },
+  "wsj": {
+   "name": "Wall Street Journal",
+   "url": "https://www.wsj.com",
+   "type": "family",
+   "chain": [
+    "Wall Street Journal",
+    "Dow Jones & Co.",
+    "News Corp",
+    "Murdoch family trust"
+   ],
+   "holdings": "Sister properties include New York Post, HarperCollins, The Times (UK); Fox News via family control of Fox Corp.",
+   "funding": "Subscriptions + advertising; dual-class shares keep family voting control.",
+   "feeds": [
+    {
+     "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+     "kind": "news"
+    },
+    {
+     "url": "https://feeds.a.dj.com/rss/RSSOpinion.xml",
+     "kind": "opinion"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 1985,
+      "text": "Columnist R. Foster Winans convicted of leaking 'Heard on the Street' contents to traders."
+     },
+     {
+      "year": 2017,
+      "text": "Fired chief foreign affairs correspondent Jay Solomon over business dealings with a source."
+     }
+    ],
+    "correctionsPolicy": "unclear",
+    "policyUrl": null
+   }
+  },
+  "wapo": {
+   "name": "Washington Post",
+   "url": "https://www.washingtonpost.com",
+   "type": "family",
+   "chain": [
+    "Washington Post",
+    "Nash Holdings",
+    "Jeff Bezos"
+   ],
+   "holdings": "Owner also controls Amazon (major federal contractor) and Blue Origin.",
+   "funding": "Subscriptions + advertising; privately held by owner.",
+   "feeds": [
+    {
+     "url": "https://feeds.washingtonpost.com/rss/politics",
+     "kind": "news"
+    },
+    {
+     "url": "https://feeds.washingtonpost.com/rss/national",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 1981,
+      "text": "Returned Pulitzer Prize after reporter Janet Cooke admitted fabricating the 'Jimmy's World' story."
+     },
+     {
+      "year": 2020,
+      "text": "Settled defamation lawsuit brought by Covington student Nicholas Sandmann; terms undisclosed."
+     },
+     {
+      "year": 2021,
+      "text": "Corrected quotes it had attributed to Trump in a call with a Georgia elections investigator."
+     }
+    ],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://helpcenter.washingtonpost.com/hc/en-us/articles/360002927512-The-Post-newsroom-s-policies-and-standards-"
+   }
+  },
+  "foxnews": {
+   "name": "Fox News",
+   "url": "https://www.foxnews.com",
+   "type": "family",
+   "chain": [
+    "Fox News",
+    "Fox Corp",
+    "Murdoch family trust"
+   ],
+   "holdings": "Fox broadcast network, Fox Sports, Tubi; sister to News Corp properties.",
+   "funding": "Cable carriage fees + advertising; dual-class family voting control.",
+   "feeds": [
+    {
+     "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+     "kind": "news"
+    },
+    {
+     "url": "https://moxie.foxnews.com/google-publisher/politics.xml",
+     "kind": "news"
+    },
+    {
+     "url": "https://moxie.foxnews.com/google-publisher/opinion.xml",
+     "kind": "opinion"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2017,
+      "text": "Retracted online story linking murdered DNC staffer Seth Rich to leaked emails."
+     },
+     {
+      "year": 2023,
+      "text": "Settled Dominion Voting Systems defamation suit for $787.5 million."
+     }
+    ],
+    "correctionsPolicy": "unclear",
+    "policyUrl": "https://help.foxnews.com/hc/en-us/articles/360009219534-What-is-the-process-for-requesting-a-correction-on-a-story"
+   }
+  },
+  "cnn": {
+   "name": "CNN",
+   "url": "https://www.cnn.com",
+   "type": "corp",
+   "chain": [
+    "CNN",
+    "Warner Bros. Discovery"
+   ],
+   "holdings": "Parent owns HBO/Max, Warner Bros. studios, Discovery networks.",
+   "funding": "Cable carriage fees + advertising.",
+   "feeds": [
+    {
+     "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 1998,
+      "text": "Retracted the 'Operation Tailwind' nerve gas report; two producers were fired."
+     },
+     {
+      "year": 2017,
+      "text": "Retracted a Scaramucci-Russia story; three journalists resigned afterward."
+     },
+     {
+      "year": 2025,
+      "text": "Settled with Navy veteran Zachary Young after a jury found the network liable for defamation."
+     }
+    ],
+    "correctionsPolicy": "none-found",
+    "policyUrl": null
+   }
+  },
+  "nbcnews": {
+   "name": "NBC News",
+   "url": "https://www.nbcnews.com",
+   "type": "corp",
+   "chain": [
+    "NBC News",
+    "NBCUniversal",
+    "Comcast"
+   ],
+   "holdings": "Parent owns Xfinity broadband/cable, Universal studios & parks, MSNBC ties.",
+   "funding": "Advertising + carriage; part of a publicly traded telecom conglomerate.",
+   "feeds": [
+    {
+     "url": "https://feeds.nbcnews.com/nbcnews/public/news",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2012,
+      "text": "Fired a producer over a misleadingly edited George Zimmerman 911 call."
+     },
+     {
+      "year": 2015,
+      "text": "Suspended anchor Brian Williams six months after he falsely described an Iraq helicopter incident."
+     },
+     {
+      "year": 2018,
+      "text": "Corrected a report that investigators wiretapped Michael Cohen; calls were only logged."
+     }
+    ],
+    "correctionsPolicy": "unclear",
+    "policyUrl": null
+   }
+  },
+  "nypost": {
+   "name": "New York Post",
+   "url": "https://nypost.com",
+   "type": "family",
+   "chain": [
+    "New York Post",
+    "News Corp",
+    "Murdoch family trust"
+   ],
+   "holdings": "Sister to WSJ, HarperCollins; Fox News via family control of Fox Corp.",
+   "funding": "Advertising; long subsidized by parent.",
+   "feeds": [
+    {
+     "url": "https://nypost.com/feed/",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2014,
+      "text": "Settled a defamation suit over its 'Bag Men' cover misidentifying two Boston Marathon spectators."
+     },
+     {
+      "year": 2021,
+      "text": "Retracted a story about Harris's book in migrant welcome kits; the reporter resigned."
+     }
+    ],
+    "correctionsPolicy": "unclear",
+    "policyUrl": null
+   }
+  },
+  "latimes": {
+   "name": "Los Angeles Times",
+   "url": "https://www.latimes.com",
+   "type": "family",
+   "chain": [
+    "Los Angeles Times",
+    "Patrick Soon-Shiong"
+   ],
+   "holdings": "Owner holds biotech companies (NantWorks/ImmunityBio).",
+   "funding": "Subscriptions + advertising; privately held by owner.",
+   "feeds": [
+    {
+     "url": "https://www.latimes.com/rss2.0.xml",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 1999,
+      "text": "Apologized after sharing Staples Center magazine revenue with the arena's owner."
+     },
+     {
+      "year": 2008,
+      "text": "Retracted and apologized for a Tupac Shakur story based on fabricated FBI documents."
+     }
+    ],
+    "correctionsPolicy": "unclear",
+    "policyUrl": null
+   }
+  },
+  "economist": {
+   "name": "The Economist",
+   "url": "https://www.economist.com",
+   "type": "family",
+   "chain": [
+    "The Economist",
+    "The Economist Group",
+    "Exor (Agnelli family, largest shareholder) + trusts"
+   ],
+   "holdings": "Exor also holds Ferrari, Stellantis, Juventus.",
+   "funding": "Subscriptions + advertising. Publishes anonymously \u2014 no bylines.",
+   "feeds": [
+    {
+     "url": "https://www.economist.com/united-states/rss.xml",
+     "kind": "news"
+    },
+    {
+     "url": "https://www.economist.com/leaders/rss.xml",
+     "kind": "opinion"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2004,
+      "text": "Apologized and paid damages to Singapore's leaders over an article about Temasek Holdings."
+     }
+    ],
+    "correctionsPolicy": "unclear",
+    "policyUrl": null
+   }
+  },
+  "guardian": {
+   "name": "The Guardian",
+   "url": "https://www.theguardian.com",
+   "type": "nonprofit",
+   "chain": [
+    "The Guardian",
+    "Guardian Media Group",
+    "Scott Trust Ltd (sole purpose: fund the journalism)"
+   ],
+   "holdings": "None significant.",
+   "funding": "Reader contributions + advertising; trust-owned, no proprietor to pay.",
+   "feeds": [
+    {
+     "url": "https://www.theguardian.com/us-news/rss",
+     "kind": "news"
+    },
+    {
+     "url": "https://www.theguardian.com/world/rss",
+     "kind": "news"
+    },
+    {
+     "url": "https://www.theguardian.com/commentisfree/rss",
+     "kind": "opinion"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2011,
+      "text": "Corrected 26 articles alleging News of the World deleted Milly Dowler's voicemails."
+     },
+     {
+      "year": 2025,
+      "text": "Apologized and paid Douglas Murray substantial libel damages over an Observer column."
+     }
+    ],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://www.theguardian.com/about/2023/jul/07/guardian-editorial-code-of-practice-and-guidance-2023"
+   }
+  },
+  "npr": {
+   "name": "NPR",
+   "url": "https://www.npr.org",
+   "type": "nonprofit",
+   "chain": [
+    "NPR",
+    "Nonprofit \u2014 member-station network"
+   ],
+   "holdings": "None.",
+   "funding": "Member station fees, sponsorships, philanthropy.",
+   "feeds": [
+    {
+     "url": "https://feeds.npr.org/1001/rss.xml",
+     "kind": "news"
+    },
+    {
+     "url": "https://feeds.npr.org/1014/rss.xml",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2018,
+      "text": "Retracted a story on online reputation removal after a review found unverified claims."
+     },
+     {
+      "year": 2026,
+      "text": "Retracted a report that Justice Alito was retiring; a correspondent had misheard the announcement."
+     }
+    ],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://www.npr.org/ethics/"
+   }
+  },
+  "propublica": {
+   "name": "ProPublica",
+   "url": "https://www.propublica.org",
+   "type": "nonprofit",
+   "chain": [
+    "ProPublica",
+    "Nonprofit newsroom, foundation- and donor-funded"
+   ],
+   "holdings": "None.",
+   "funding": "Philanthropy + donations; no advertising.",
+   "feeds": [
+    {
+     "url": "https://www.propublica.org/feeds/propublica/main",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2018,
+      "text": "Corrected a report that CIA nominee Gina Haspel oversaw Abu Zubaydah's waterboarding."
+     }
+    ],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://www.propublica.org/corrections"
+   }
+  },
+  "motherjones": {
+   "name": "Mother Jones",
+   "url": "https://www.motherjones.com",
+   "type": "nonprofit",
+   "chain": [
+    "Mother Jones",
+    "Center for Investigative Reporting (nonprofit)"
+   ],
+   "holdings": "None.",
+   "funding": "Reader donations + foundation grants.",
+   "feeds": [
+    {
+     "url": "https://www.motherjones.com/feed/",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "unclear",
+    "policyUrl": null
+   }
+  },
+  "reason": {
+   "name": "Reason",
+   "url": "https://reason.com",
+   "type": "nonprofit",
+   "chain": [
+    "Reason",
+    "Reason Foundation (nonprofit)"
+   ],
+   "holdings": "Foundation also does policy advocacy \u2014 disclosed.",
+   "funding": "Donations + subscriptions.",
+   "feeds": [
+    {
+     "url": "https://reason.com/feed/",
+     "kind": "opinion"
+    }
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://reason.com/corrections/"
+   }
+  },
+  "intercept": {
+   "name": "The Intercept",
+   "url": "https://theintercept.com",
+   "type": "nonprofit",
+   "chain": [
+    "The Intercept",
+    "Nonprofit newsroom (reader- and donor-funded)"
+   ],
+   "holdings": "None.",
+   "funding": "Donations + membership.",
+   "feeds": [
+    {
+     "url": "https://theintercept.com/feed/",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2016,
+      "text": "Fired reporter Juan Thompson and corrected articles after finding fabricated quotes and sources."
+     },
+     {
+      "year": 2017,
+      "text": "Editor said editorial practices 'fell short' in protecting the source of a leaked NSA document."
+     }
+    ],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://theintercept.com/policies/"
+   }
+  },
+  "bbc": {
+   "name": "BBC News",
+   "url": "https://www.bbc.com/news",
+   "type": "pub",
+   "chain": [
+    "BBC News",
+    "BBC",
+    "UK licence-fee funded, royal charter"
+   ],
+   "holdings": "BBC Studios (commercial arm).",
+   "funding": "UK licence fee; charter terms set by government.",
+   "feeds": [
+    {
+     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+     "kind": "news"
+    },
+    {
+     "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2012,
+      "text": "Paid Lord McAlpine \u00a3185,000 over a Newsnight report; the Director-General resigned."
+     },
+     {
+      "year": 2021,
+      "text": "An inquiry found Martin Bashir used faked documents to obtain the 1995 Diana interview."
+     },
+     {
+      "year": 2025,
+      "text": "Director-General and news CEO resigned after a misleading Panorama edit of a Trump speech."
+     }
+    ],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://www.bbc.co.uk/editorialguidelines/"
+   }
+  },
+  "404media": {
+   "name": "404 Media",
+   "url": "https://www.404media.co",
+   "type": "coop",
+   "chain": [
+    "404 Media",
+    "Worker-owned \u2014 founded by its four journalists"
+   ],
+   "holdings": "None.",
+   "funding": "Reader subscriptions. No investors.",
+   "feeds": [
+    {
+     "url": "https://www.404media.co/rss/",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "none-found",
+    "policyUrl": null
+   }
+  },
+  "defector": {
+   "name": "Defector",
+   "url": "https://defector.com",
+   "type": "coop",
+   "chain": [
+    "Defector",
+    "Worker-owned collective (~20 staff owners)"
+   ],
+   "holdings": "None.",
+   "funding": "Reader subscriptions. No investors.",
+   "feeds": [
+    {
+     "url": "https://defector.com/feed",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "none-found",
+    "policyUrl": null
+   }
+  },
+  "hellgate": {
+   "name": "Hell Gate",
+   "url": "https://hellgatenyc.com",
+   "type": "coop",
+   "chain": [
+    "Hell Gate",
+    "Worker-owned cooperative (NYC)"
+   ],
+   "holdings": "None.",
+   "funding": "Reader subscriptions.",
+   "feeds": [
+    {
+     "url": "https://hellgatenyc.com/rss/",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://hellgatenyc.com/code-of-ethics/"
+   }
+  },
+  "aftermath": {
+   "name": "Aftermath",
+   "url": "https://aftermath.site",
+   "type": "coop",
+   "chain": [
+    "Aftermath",
+    "Worker-owned (games/internet journalism)"
+   ],
+   "holdings": "None.",
+   "funding": "Reader subscriptions.",
+   "feeds": [
+    {
+     "url": "https://aftermath.site/feed",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "unclear",
+    "policyUrl": "https://aftermath.site/about-us-contact-us/"
+   }
+  },
+  "abcnews": {
+   "name": "ABC News",
+   "url": "https://abcnews.go.com",
+   "type": "corp",
+   "chain": [
+    "ABC News",
+    "ABC",
+    "The Walt Disney Company"
+   ],
+   "holdings": "Parent owns ESPN, Marvel, Pixar, Hulu, theme parks.",
+   "funding": "Advertising + carriage fees; publicly traded media conglomerate.",
+   "feeds": [
+    {
+     "url": "https://abcnews.go.com/abcnews/topstories",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2017,
+      "text": "Suspended reporter Brian Ross four weeks over an erroneous Michael Flynn report."
+     },
+     {
+      "year": 2017,
+      "text": "Disney paid at least $177 million settling BPI's 'pink slime' defamation suit."
+     },
+     {
+      "year": 2024,
+      "text": "Settled a Trump defamation suit over Stephanopoulos remarks for $15 million plus fees."
+     }
+    ],
+    "correctionsPolicy": "unclear",
+    "policyUrl": null
+   }
+  },
+  "cbsnews": {
+   "name": "CBS News",
+   "url": "https://www.cbsnews.com",
+   "type": "corp",
+   "chain": [
+    "CBS News",
+    "CBS",
+    "Paramount Skydance"
+   ],
+   "holdings": "Parent owns Paramount Pictures, CBS network, Showtime.",
+   "funding": "Advertising + carriage fees.",
+   "feeds": [
+    {
+     "url": "https://www.cbsnews.com/latest/rss/main",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2004,
+      "text": "Could not authenticate '60 Minutes' Bush National Guard memos and disavowed the report."
+     },
+     {
+      "year": 2005,
+      "text": "Ousted four employees after an outside panel reviewed the Bush Guard memo broadcast."
+     },
+     {
+      "year": 2025,
+      "text": "Parent Paramount paid $16 million to settle Trump's '60 Minutes' editing lawsuit."
+     }
+    ],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://www.cbsnews.com/news/cbs-news-publishing-principles/"
+   }
+  },
+  "usatoday": {
+   "name": "USA Today",
+   "url": "https://www.usatoday.com",
+   "type": "corp",
+   "chain": [
+    "USA Today",
+    "Gannett"
+   ],
+   "holdings": "Parent is the largest US newspaper chain, ~200 local titles.",
+   "funding": "Advertising + subscriptions; publicly traded chain.",
+   "feeds": [
+    {
+     "url": "https://rssfeeds.usatoday.com/usatoday-NewsTopStories",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2004,
+      "text": "Reporter Jack Kelley resigned; a review found fabricated material in major foreign stories."
+     },
+     {
+      "year": 2022,
+      "text": "Removed 23 articles after an audit found a reporter fabricated quotes and sources."
+     }
+    ],
+    "correctionsPolicy": "unclear",
+    "policyUrl": null
+   }
+  },
+  "politico": {
+   "name": "Politico",
+   "url": "https://www.politico.com",
+   "type": "corp",
+   "chain": [
+    "Politico",
+    "Axel Springer SE",
+    "KKR (private equity) + founder"
+   ],
+   "holdings": "Sister titles include Business Insider, Bild, Die Welt.",
+   "funding": "Advertising + high-priced policy subscriptions (Politico Pro).",
+   "feeds": [
+    {
+     "url": "https://rss.politico.com/politics-news.xml",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2011,
+      "text": "Reporter Kendra Marr resigned after a review found plagiarism in at least seven stories."
+     }
+    ],
+    "correctionsPolicy": "unclear",
+    "policyUrl": null
+   }
+  },
+  "businessinsider": {
+   "name": "Business Insider",
+   "url": "https://www.businessinsider.com",
+   "type": "corp",
+   "chain": [
+    "Business Insider",
+    "Axel Springer SE",
+    "KKR (private equity) + founder"
+   ],
+   "holdings": "Sister titles include Politico, Bild, Die Welt.",
+   "funding": "Subscriptions + advertising.",
+   "feeds": [
+    {
+     "url": "https://feeds.businessinsider.com/custom/all",
+     "kind": "news"
+    }
+   ]
+  },
+  "cnbc": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com",
+   "type": "corp",
+   "chain": [
+    "CNBC",
+    "NBCUniversal",
+    "Comcast"
+   ],
+   "holdings": "Parent owns Xfinity broadband, Universal studios, NBC News.",
+   "funding": "Carriage fees + advertising; heavy financial-industry sponsorship.",
+   "feeds": [
+    {
+     "url": "https://search.cnbc.com/rs/search/combinedcgi?partnerId=wrss01&id=100003114",
+     "kind": "news"
+    }
+   ]
+  },
+  "thehill": {
+   "name": "The Hill",
+   "url": "https://thehill.com",
+   "type": "corp",
+   "chain": [
+    "The Hill",
+    "Nexstar Media Group"
+   ],
+   "holdings": "Parent is the largest US local-TV station owner (200+ stations).",
+   "funding": "Advertising; owned by a broadcast conglomerate.",
+   "feeds": [
+    {
+     "url": "https://thehill.com/news/feed/",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2020,
+      "text": "Added editor's notes to John Solomon's Ukraine columns after an internal review found deficiencies."
+     }
+    ],
+    "correctionsPolicy": "unclear",
+    "policyUrl": null
+   }
+  },
+  "axios": {
+   "name": "Axios",
+   "url": "https://www.axios.com",
+   "type": "corp",
+   "chain": [
+    "Axios",
+    "Cox Enterprises"
+   ],
+   "holdings": "Parent holds Cox Communications broadband and automotive businesses.",
+   "funding": "Advertising + newsletter sponsorships + Axios Pro subscriptions.",
+   "feeds": [
+    {
+     "url": "https://api.axios.com/feed/",
+     "kind": "news"
+    }
+   ]
+  },
+  "newsweek": {
+   "name": "Newsweek",
+   "url": "https://www.newsweek.com",
+   "type": "corp",
+   "chain": [
+    "Newsweek",
+    "Newsweek Publishing LLC (Dev Pragad / Johnathan Davis)"
+   ],
+   "holdings": "None significant.",
+   "funding": "Advertising + subscriptions.",
+   "feeds": [
+    {
+     "url": "https://www.newsweek.com/rss",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2005,
+      "text": "Retracted a report that interrogators flushed a Quran at Guantanamo Bay."
+     }
+    ],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://www.newsweek.com/corrections"
+   }
+  },
+  "vox": {
+   "name": "Vox",
+   "url": "https://www.vox.com",
+   "type": "corp",
+   "chain": [
+    "Vox",
+    "Vox Media",
+    "Penske Media (minority stake)"
+   ],
+   "holdings": "Sister titles include The Verge, SB Nation, New York Magazine.",
+   "funding": "Advertising + memberships.",
+   "feeds": [
+    {
+     "url": "https://www.vox.com/rss/index.xml",
+     "kind": "news"
+    }
+   ]
+  },
+  "theverge": {
+   "name": "The Verge",
+   "url": "https://www.theverge.com",
+   "type": "corp",
+   "chain": [
+    "The Verge",
+    "Vox Media",
+    "Penske Media (minority stake)"
+   ],
+   "holdings": "Sister titles include Vox, SB Nation, New York Magazine.",
+   "funding": "Advertising + subscriptions.",
+   "feeds": [
+    {
+     "url": "https://www.theverge.com/rss/index.xml",
+     "kind": "news"
+    }
+   ]
+  },
+  "huffpost": {
+   "name": "HuffPost",
+   "url": "https://www.huffpost.com",
+   "type": "corp",
+   "chain": [
+    "HuffPost",
+    "BuzzFeed Inc."
+   ],
+   "holdings": "Sister title BuzzFeed.",
+   "funding": "Advertising; publicly traded parent.",
+   "feeds": [
+    {
+     "url": "https://chaski.huffpost.com/us/auto/vertical/front-page",
+     "kind": "news"
+    }
+   ]
+  },
+  "slate": {
+   "name": "Slate",
+   "url": "https://slate.com",
+   "type": "corp",
+   "chain": [
+    "Slate",
+    "The Slate Group",
+    "Graham Holdings Company"
+   ],
+   "holdings": "Parent holds Kaplan education, TV stations, manufacturing.",
+   "funding": "Advertising + Slate Plus memberships.",
+   "feeds": [
+    {
+     "url": "https://slate.com/feeds/all.rss",
+     "kind": "news"
+    }
+   ]
+  },
+  "dailybeast": {
+   "name": "The Daily Beast",
+   "url": "https://www.thedailybeast.com",
+   "type": "corp",
+   "chain": [
+    "The Daily Beast",
+    "IAC Inc. (Barry Diller-chaired)"
+   ],
+   "holdings": "Parent holds Dotdash Meredith, Angi, and other digital brands.",
+   "funding": "Advertising + subscriptions.",
+   "feeds": [
+    {
+     "url": "https://feeds.thedailybeast.com/summary/rss/articles",
+     "kind": "news"
+    }
+   ]
+  },
+  "rollingstone": {
+   "name": "Rolling Stone",
+   "url": "https://www.rollingstone.com",
+   "type": "corp",
+   "chain": [
+    "Rolling Stone",
+    "Penske Media Corporation"
+   ],
+   "holdings": "Parent holds Variety, Billboard, Deadline, The Hollywood Reporter.",
+   "funding": "Advertising + subscriptions.",
+   "feeds": [
+    {
+     "url": "https://www.rollingstone.com/politics/politics-news/feed/",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2015,
+      "text": "Retracted 'A Rape on Campus' after a Columbia Journalism School review found reporting failures."
+     },
+     {
+      "year": 2016,
+      "text": "A jury found the magazine and writer defamed UVA administrator Nicole Eramo."
+     },
+     {
+      "year": 2017,
+      "text": "Settled with UVA fraternity Phi Kappa Psi for $1.65 million over the discredited article."
+     }
+    ],
+    "correctionsPolicy": "unclear",
+    "policyUrl": null
+   }
+  },
+  "bloomberg": {
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com",
+   "type": "family",
+   "chain": [
+    "Bloomberg News",
+    "Bloomberg L.P.",
+    "Michael Bloomberg (majority owner)"
+   ],
+   "holdings": "Parent sells the Bloomberg Terminal to banks and funds; owner is a former NYC mayor and presidential candidate.",
+   "funding": "Terminal subscriptions fund the newsroom; also reader subscriptions.",
+   "feeds": [
+    {
+     "url": "https://feeds.bloomberg.com/politics/news.rss",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2013,
+      "text": "Apologized after reporters used terminal data to monitor subscribers' activity."
+     },
+     {
+      "year": 2022,
+      "text": "Apologized for accidentally publishing a prewritten 'Russia Invades Ukraine' headline."
+     }
+    ],
+    "correctionsPolicy": "unclear",
+    "policyUrl": null
+   }
+  },
+  "forbes": {
+   "name": "Forbes",
+   "url": "https://www.forbes.com",
+   "type": "family",
+   "chain": [
+    "Forbes",
+    "Integrated Whale Media Investments (majority) + Forbes family"
+   ],
+   "holdings": "Licensing operations across dozens of countries.",
+   "funding": "Advertising + licensing; large contributor network alongside staff.",
+   "feeds": [
+    {
+     "url": "https://www.forbes.com/business/feed/",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://www.forbes.com/sites/forbesstaff/article/forbes-editorial-values-and-standards/"
+   }
+  },
+  "theatlantic": {
+   "name": "The Atlantic",
+   "url": "https://www.theatlantic.com",
+   "type": "family",
+   "chain": [
+    "The Atlantic",
+    "Emerson Collective (Laurene Powell Jobs, majority)"
+   ],
+   "holdings": "Owner's organization also does philanthropy and policy advocacy.",
+   "funding": "Subscriptions + advertising; billionaire-backed.",
+   "feeds": [
+    {
+     "url": "https://www.theatlantic.com/feed/all/",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2021,
+      "text": "Retracted a Ruth Shalit Barrett article on youth sports after finding fabricated details."
+     },
+     {
+      "year": 2025,
+      "text": "Settled Barrett's defamation suit over the retraction for more than $1 million."
+     }
+    ],
+    "correctionsPolicy": "unclear",
+    "policyUrl": null
+   }
+  },
+  "time": {
+   "name": "TIME",
+   "url": "https://time.com",
+   "type": "family",
+   "chain": [
+    "TIME",
+    "Marc Benioff and Lynne Benioff"
+   ],
+   "holdings": "Owner is co-founder and chair of Salesforce.",
+   "funding": "Advertising + subscriptions; privately held by owner.",
+   "feeds": [
+    {
+     "url": "https://time.com/feed/",
+     "kind": "news"
+    }
+   ]
+  },
+  "freepress": {
+   "name": "The Free Press",
+   "url": "https://www.thefp.com",
+   "type": "family",
+   "chain": [
+    "The Free Press",
+    "Founder-owned (Bari Weiss); acquired by Paramount Skydance"
+   ],
+   "holdings": "Now sits alongside CBS News under the same parent.",
+   "funding": "Reader subscriptions.",
+   "feeds": [
+    {
+     "url": "https://www.thefp.com/feed",
+     "kind": "news"
+    }
+   ]
+  },
+  "semafor": {
+   "name": "Semafor",
+   "url": "https://www.semafor.com",
+   "type": "family",
+   "chain": [
+    "Semafor",
+    "Founder-led, investor-backed (incl. Gulf-linked investors)"
+   ],
+   "holdings": "None significant.",
+   "funding": "Advertising, events, newsletters; venture and individual investors.",
+   "feeds": [
+    {
+     "url": "https://www.semafor.com/rss.xml",
+     "kind": "news"
+    }
+   ]
+  },
+  "dailywire": {
+   "name": "The Daily Wire",
+   "url": "https://www.dailywire.com",
+   "type": "family",
+   "chain": [
+    "The Daily Wire",
+    "Founder-owned (Ben Shapiro, Jeremy Boreing) + investors"
+   ],
+   "holdings": "Entertainment arm producing films and children's content.",
+   "funding": "Memberships + advertising.",
+   "feeds": [
+    {
+     "url": "https://www.dailywire.com/feeds/rss.xml",
+     "kind": "opinion"
+    }
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://www.dailywire.com/standards-policies"
+   }
+  },
+  "breitbart": {
+   "name": "Breitbart News",
+   "url": "https://www.breitbart.com",
+   "type": "family",
+   "chain": [
+    "Breitbart News",
+    "Privately held; Mercer family investment"
+   ],
+   "holdings": "None disclosed.",
+   "funding": "Advertising; private investors.",
+   "feeds": [
+    {
+     "url": "https://feeds.feedburner.com/breitbart",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2015,
+      "text": "Shirley Sherrod settled a defamation suit over an edited video posted by Andrew Breitbart."
+     }
+    ],
+    "correctionsPolicy": "none-found",
+    "policyUrl": null
+   }
+  },
+  "washingtontimes": {
+   "name": "Washington Times",
+   "url": "https://www.washingtontimes.com",
+   "type": "family",
+   "chain": [
+    "Washington Times",
+    "Operations Holdings",
+    "News World Communications (Unification movement-founded)"
+   ],
+   "holdings": "Affiliated organizations in publishing and religious institutions.",
+   "funding": "Advertising + subscriptions; historically subsidized by its founding organization.",
+   "feeds": [
+    {
+     "url": "https://www.washingtontimes.com/rss/headlines/news/politics/",
+     "kind": "news"
+    }
+   ]
+  },
+  "marshallproject": {
+   "name": "The Marshall Project",
+   "url": "https://www.themarshallproject.org",
+   "type": "nonprofit",
+   "chain": [
+    "The Marshall Project",
+    "Nonprofit newsroom (criminal justice)"
+   ],
+   "holdings": "None.",
+   "funding": "Philanthropy + donations; no advertising.",
+   "feeds": [
+    {
+     "url": "https://www.themarshallproject.org/rss/recent.rss",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://www.themarshallproject.org/about/code-of-ethics"
+   }
+  },
+  "texastribune": {
+   "name": "Texas Tribune",
+   "url": "https://www.texastribune.org",
+   "type": "nonprofit",
+   "chain": [
+    "Texas Tribune",
+    "Nonprofit newsroom (Texas politics/policy)"
+   ],
+   "holdings": "None.",
+   "funding": "Member donations, philanthropy, events; donors disclosed publicly.",
+   "feeds": [
+    {
+     "url": "https://www.texastribune.org/feeds/main/",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://www.texastribune.org/ethics/"
+   }
+  },
+  "calmatters": {
+   "name": "CalMatters",
+   "url": "https://calmatters.org",
+   "type": "nonprofit",
+   "chain": [
+    "CalMatters",
+    "Nonprofit newsroom (California policy)"
+   ],
+   "holdings": "None.",
+   "funding": "Philanthropy + donations; donor list published.",
+   "feeds": [
+    {
+     "url": "https://calmatters.org/feed/",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://calmatters.org/about/policies-and-standards/"
+   }
+  },
+  "the19th": {
+   "name": "The 19th",
+   "url": "https://19thnews.org",
+   "type": "nonprofit",
+   "chain": [
+    "The 19th",
+    "Nonprofit newsroom (gender, politics, policy)"
+   ],
+   "holdings": "None.",
+   "funding": "Philanthropy + membership.",
+   "feeds": [
+    {
+     "url": "https://19thnews.org/feed/",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "unclear",
+    "policyUrl": null
+   }
+  },
+  "insideclimate": {
+   "name": "Inside Climate News",
+   "url": "https://insideclimatenews.org",
+   "type": "nonprofit",
+   "chain": [
+    "Inside Climate News",
+    "Nonprofit newsroom (environment)"
+   ],
+   "holdings": "None.",
+   "funding": "Philanthropy + donations.",
+   "feeds": [
+    {
+     "url": "https://insideclimatenews.org/feed/",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "unclear",
+    "policyUrl": null
+   }
+  },
+  "grist": {
+   "name": "Grist",
+   "url": "https://grist.org",
+   "type": "nonprofit",
+   "chain": [
+    "Grist",
+    "Nonprofit newsroom (climate)"
+   ],
+   "holdings": "None.",
+   "funding": "Philanthropy + donations.",
+   "feeds": [
+    {
+     "url": "https://grist.org/feed/",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "none-found",
+    "policyUrl": null
+   }
+  },
+  "pbsnewshour": {
+   "name": "PBS NewsHour",
+   "url": "https://www.pbs.org/newshour",
+   "type": "nonprofit",
+   "chain": [
+    "PBS NewsHour",
+    "WETA (nonprofit public station) + PBS"
+   ],
+   "holdings": "None.",
+   "funding": "Public broadcasting funds, philanthropy, sponsorship.",
+   "feeds": [
+    {
+     "url": "https://www.pbs.org/newshour/feeds/rss/headlines",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://www.pbs.org/standards/accuracy/"
+   }
+  },
+  "theconversation": {
+   "name": "The Conversation",
+   "url": "https://theconversation.com",
+   "type": "nonprofit",
+   "chain": [
+    "The Conversation US",
+    "Nonprofit; articles written by academics"
+   ],
+   "holdings": "None.",
+   "funding": "University memberships + philanthropy; authors are researchers, not staff reporters.",
+   "feeds": [
+    {
+     "url": "https://theconversation.com/us/articles.atom",
+     "kind": "analysis"
+    }
+   ]
+  },
+  "aljazeera": {
+   "name": "Al Jazeera English",
+   "url": "https://www.aljazeera.com",
+   "type": "pub",
+   "chain": [
+    "Al Jazeera English",
+    "Al Jazeera Media Network",
+    "Government of Qatar (funder)"
+   ],
+   "holdings": "Arabic and other language networks.",
+   "funding": "Funded by the Qatari state.",
+   "feeds": [
+    {
+     "url": "https://www.aljazeera.com/xml/rss/all.xml",
+     "kind": "news"
+    }
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2019,
+      "text": "Suspended two AJ+ Arabic journalists and removed a video questioning Holocaust death tolls."
+     }
+    ],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://www.aljazeera.com/code-of-ethics/"
+   }
+  },
+  "dw": {
+   "name": "Deutsche Welle",
+   "url": "https://www.dw.com",
+   "type": "pub",
+   "chain": [
+    "DW",
+    "Deutsche Welle",
+    "German federal government (funder)"
+   ],
+   "holdings": "None.",
+   "funding": "German federal tax funding; public broadcaster for international audiences.",
+   "feeds": [
+    {
+     "url": "https://rss.dw.com/rdf/rss-en-all",
+     "kind": "news"
+    }
+   ]
+  },
+  "france24": {
+   "name": "France 24",
+   "url": "https://www.france24.com",
+   "type": "pub",
+   "chain": [
+    "France 24",
+    "France M\u00e9dias Monde",
+    "French state (owner)"
+   ],
+   "holdings": "RFI radio, Monte Carlo Doualiya.",
+   "funding": "French state funding.",
+   "feeds": [
+    {
+     "url": "https://www.france24.com/en/rss",
+     "kind": "news"
+    }
+   ]
+  },
+  "cbc": {
+   "name": "CBC News",
+   "url": "https://www.cbc.ca/news",
+   "type": "pub",
+   "chain": [
+    "CBC News",
+    "Canadian Broadcasting Corporation",
+    "Canadian federal government (funder)"
+   ],
+   "holdings": "Radio-Canada, CBC radio and TV networks.",
+   "funding": "Canadian parliamentary appropriation + some advertising.",
+   "feeds": [
+    {
+     "url": "https://www.cbc.ca/webfeed/rss/rss-topstories",
+     "kind": "news"
+    }
+   ]
+  },
+  "flaminghydra": {
+   "name": "Flaming Hydra",
+   "url": "https://flaminghydra.com",
+   "type": "coop",
+   "chain": [
+    "Flaming Hydra",
+    "Worker-owned collective (~60 writer-owners)"
+   ],
+   "holdings": "None.",
+   "funding": "Reader subscriptions; revenue split among the writers.",
+   "feeds": [
+    {
+     "url": "https://flaminghydra.com/feed",
+     "kind": "news"
+    }
+   ]
+  },
+  "racket": {
+   "name": "Racket",
+   "url": "https://racketmn.com",
+   "type": "coop",
+   "chain": [
+    "Racket",
+    "Worker-owned (Minneapolis, founded by ex-City Pages staff)"
+   ],
+   "holdings": "None.",
+   "funding": "Reader subscriptions.",
+   "feeds": [
+    {
+     "url": "https://racketmn.com/rss/",
+     "kind": "news"
+    }
+   ]
+  },
+  "rangemedia": {
+   "name": "RANGE Media",
+   "url": "https://www.rangemedia.co",
+   "type": "coop",
+   "chain": [
+    "RANGE Media",
+    "Worker-owned (Spokane, Washington)"
+   ],
+   "holdings": "None.",
+   "funding": "Reader subscriptions.",
+   "feeds": [
+    {
+     "url": "https://www.rangemedia.co/feed",
+     "kind": "news"
+    }
+   ]
+  },
+  "escapecollective": {
+   "name": "Escape Collective",
+   "url": "https://escapecollective.com",
+   "type": "coop",
+   "chain": [
+    "Escape Collective",
+    "Worker- and member-owned (cycling journalism)"
+   ],
+   "holdings": "None.",
+   "funding": "Member subscriptions; members hold equity.",
+   "feeds": [
+    {
+     "url": "https://escapecollective.com/feed/",
+     "kind": "news"
+    }
+   ]
+  },
+  "dropsite": {
+   "name": "Drop Site News",
+   "url": "https://www.dropsitenews.com",
+   "type": "coop",
+   "chain": [
+    "Drop Site News",
+    "Journalist-founded and independently run"
+   ],
+   "holdings": "None.",
+   "funding": "Reader subscriptions.",
+   "feeds": [
+    {
+     "url": "https://www.dropsitenews.com/feed",
+     "kind": "news"
+    }
+   ]
+  },
+  "zeteo": {
+   "name": "Zeteo",
+   "url": "https://zeteo.com",
+   "type": "coop",
+   "chain": [
+    "Zeteo",
+    "Founder-owned (Mehdi Hasan), journalist-run"
+   ],
+   "holdings": "None.",
+   "funding": "Reader subscriptions.",
+   "feeds": [
+    {
+     "url": "https://zeteo.com/feed",
+     "kind": "news"
+    }
+   ]
   }
+ }
 }
