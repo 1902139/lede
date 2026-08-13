@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-13T08:05:19.654665+00:00",
+ "generated": "2026-08-13T08:26:13.578152+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -7,6 +7,7 @@
   {
    "id": "e1c23a27ae",
    "topic": "Politics",
+   "summary": "Karoline Leavitt has announced that she will be stepping down from her position as White House press secretary.",
    "headline": "Leavitt to leave as White House press secretary",
    "updated": "2026-08-13T04:58:49+00:00",
    "outletCount": 16,
@@ -185,19 +186,20 @@
    ]
   },
   {
-   "id": "531a1d9b4f",
+   "id": "00fb6aa950",
    "topic": "Justice & Policing",
-   "headline": "Trump administration plans to give ICE officers electric-shock gloves",
+   "summary": "U.S. Immigration and Customs Enforcement officers may soon be outfitted with gloves that can deliver painful electric shocks that are intended to gain compliance from combative individuals.",
+   "headline": "ICE plans to outfit officers with electric shock gloves",
    "updated": "2026-08-13T01:39:44+00:00",
-   "outletCount": 13,
+   "outletCount": 12,
    "counts": {
     "corp": 3,
-    "pub": 2,
-    "family": 7,
+    "family": 5,
     "nonprofit": 2,
+    "pub": 1,
     "coop": 1
    },
-   "newsCount": 14,
+   "newsCount": 11,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
@@ -209,15 +211,6 @@
      "kind": "news",
      "published": "2026-08-13T01:39:44+00:00",
      "summary": "U.S. Immigration and Customs Enforcement officers may soon be outfitted with gloves that can deliver painful electric shocks that are intended to gain compliance from combative individuals."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Trump administration plans to give ICE officers electric-shock gloves",
-     "url": "https://www.aljazeera.com/news/2026/8/12/trump-administration-plans-to-give-ice-officers-electric-shock-gloves?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T22:22:57+00:00",
-     "summary": "US Homeland Security is expected to buy up to $20m in gloves amid criticism of the president&#039;s immigration crackdown."
     },
     {
      "outlet": "foxnews",
@@ -301,15 +294,6 @@
      "summary": "Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks. These plans were outlined in a notice published by the Department of Homeland Security on Monday, with an unspecified quantity of the devices set to be delivered by March [&#8230;]"
     },
     {
-     "outlet": "foxnews",
-     "title": "DOJ heavyweights throw monkey wrench in Dem plans to put Trump allies in hot seat",
-     "url": "https://www.foxnews.com/politics/doj-heavyweights-throw-monkey-wrench-dem-plans-put-trump-allies-hot-seat",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T16:30:03+00:00",
-     "summary": "President Donald Trump&apos;s private advisors can now claim executive privilege under a new Justice Department memo, and Democrats vow investigations."
-    },
-    {
      "outlet": "breitbart",
      "title": "Nolte: ICE to Receive Gloves that Deliver Electric Shock to De-Escalate Confrontations",
      "url": "https://www.breitbart.com/politics/2026/08/12/nolte-ice-to-receive-gloves-deliver-electric-shock-de-escalate-confrontations/",
@@ -326,21 +310,13 @@
      "kind": "opinion",
      "published": "2026-08-12T10:18:53+00:00",
      "summary": "Immigration and Customs Enforcement (ICE) agents could soon take to the streets equipped with gloves that deliver painful electric shocks to combative arrest targets. The federal government plans to spend up to $20 million on thousands of \u201cconductive distraction and de-escalation devices\u201d by March, according to the Associated Press and a Monday Department of Homeland ..."
-    },
-    {
-     "outlet": "time",
-     "title": "The Trump Administration Wants More Food Ingredient Disclosure",
-     "url": "https://time.com/article/2026/08/11/proposed-rule-food-companies-disclose-ingredients/",
-     "author": "Alana Semuels",
-     "kind": "news",
-     "published": "2026-08-11T18:44:51+00:00",
-     "summary": "A new proposed rule would make companies reveal when they add new substances to food."
     }
    ]
   },
   {
    "id": "a6ae88836d",
    "topic": "World",
+   "summary": "People gathered across the continent to watch the total solar eclipse on Wednesday.",
    "headline": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
    "updated": "2026-08-13T06:11:44+00:00",
    "outletCount": 9,
@@ -438,116 +414,19 @@
    ]
   },
   {
-   "id": "ecdbbb3311",
-   "topic": "Justice & Policing",
-   "headline": "Media groups sue Trump over paid access to public social media posts",
-   "updated": "2026-08-12T23:23:00+00:00",
-   "outletCount": 8,
-   "counts": {
-    "pub": 2,
-    "corp": 1,
-    "family": 2,
-    "nonprofit": 4
-   },
-   "newsCount": 9,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Media groups sue Trump over paid access to public social media posts",
-     "url": "https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T23:23:00+00:00",
-     "summary": "Lawsuit claims Trump profits unfairly by charging up to $100,000 monthly for exclusive access to presidential posts."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "'Profoundly corrupt': Trump sued over selling early access to Truth Social posts",
-     "url": "https://abcnews.com/Politics/profoundly-corrupt-trump-sued-federal-court-selling-early/story?id=135591214",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T21:31:58+00:00",
-     "summary": "Free press groups say selling access to Trump's posts is &quot;unconstitutional.&quot;"
-    },
-    {
-     "outlet": "nyt",
-     "title": "Trump Is Sued Over Plan to Sell Early Access to His Truth Social Posts",
-     "url": "https://www.nytimes.com/2026/08/12/us/politics/trump-truth-social-lawsuit.html",
-     "author": "Matthew Goldstein",
-     "kind": "news",
-     "published": "2026-08-12T20:37:45+00:00",
-     "summary": "The lawsuit filed in federal court said President Trump \u201cstands to gain financially by giving \u2018market-moving\u2019 government information to those who are willing and able to pay his personal company.\u201d"
-    },
-    {
-     "outlet": "npr",
-     "title": "Trump sued over service selling faster access to Truth Social posts",
-     "url": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
-     "author": "Bobby Allyn",
-     "kind": "news",
-     "published": "2026-08-12T20:33:10+00:00",
-     "summary": "The federal lawsuit alleges that the service from the president's media company violates the Constitution. Meanwhile, Trump Media executives say they have signed up more than 10 customers."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Trump sued over Truth Social's $100,000 early access service",
-     "url": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T17:48:56+00:00",
-     "summary": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump sued over $100,000-a-month early-access offer to Truth Social posts",
-     "url": "https://www.theguardian.com/us-news/2026/aug/12/truth-social-suit-trump-early-access-offer",
-     "author": "Joseph Gedeon in Washington",
-     "kind": "news",
-     "published": "2026-08-12T17:30:21+00:00",
-     "summary": "Suit alleges subscription offer aims to sell privileged access to information generated in president\u2019s official capacity Donald Trump has been sued after a subscription service charging up to $100,000 a month for early access to his posts on his Truth Social platform sparked allegations of corruption. The lawsuit, filed in the US district court for the southern district of New York , was brought by the Intercept and the Freedom of the Press Foundation against Trump, two of his aides and the exec"
-    },
-    {
-     "outlet": "intercept",
-     "title": "The Intercept Sues Trump for Selling Premium Access to Truth Social Announcements",
-     "url": "https://theintercept.com/2026/08/12/trump-media-truthsocial-premium-first-amendment/",
-     "author": "Noah Hurowitz",
-     "kind": "news",
-     "published": "2026-08-12T14:48:01+00:00",
-     "summary": "A lawsuit filed with the Freedom of the Press Foundation argues the president is restricting First Amendment-protected information in a scheme to enrich himself. The post The Intercept Sues Trump for Selling Premium Access to Truth Social Announcements appeared first on The Intercept ."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Human rights groups sue Trump administration over International Criminal Court sanctions",
-     "url": "https://www.washingtonpost.com/politics/2026/08/11/human-rights-groups-sue-trump-administration-over-international-criminal-court-sanctions/",
-     "author": "Sammy Westfall",
-     "kind": "news",
-     "published": "2026-08-11T17:31:01+00:00",
-     "summary": "The president signed an executive order in 2025 placing sanctions on the ICC, whose jurisdiction the U.S. does not recognize."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Human rights groups sue Trump administration over \u2018crippling\u2019 ICC sanctions",
-     "url": "https://www.theguardian.com/us-news/2026/aug/11/human-rights-groups-trump-lawsuit-icc-sanctions",
-     "author": "Alice Speri",
-     "kind": "news",
-     "published": "2026-08-11T15:10:16+00:00",
-     "summary": "Lawsuit challenges executive order targeting international criminal court for investigating Israeli crimes in Palestine Four prominent US human rights organizations have accused the Trump administration of using its \u201ccrippling\u201d sanctions regime against the international criminal court (ICC) to undermine global efforts to prosecute war crimes and crimes against humanity. In a lawsuit filed in federal court on Tuesday, the groups \u2013 the American Friends Service Committee, the Center for Constitutio"
-    }
-   ]
-  },
-  {
-   "id": "007ec0d9d7",
+   "id": "304c57cecc",
    "topic": "Politics",
-   "headline": "Bob Iger, Josh Kushner to Purchase Los Angeles Lakers for $12.5 Billion",
+   "summary": "Former Disney CEO Bob Iger and Josh Kushner will reportedly purchase the Los Angeles Lakers for the record-breaking price of $12.5 billion. The post Bob Iger, Josh Kushner to Purchase Los Angeles Lakers for $12.5 Billion appeared first on Breitbart .",
+   "headline": "LA Lakers to be sold in record $12.5bn deal",
    "updated": "2026-08-13T01:24:50+00:00",
-   "outletCount": 7,
+   "outletCount": 8,
    "counts": {
     "family": 5,
     "corp": 1,
-    "coop": 1
+    "coop": 1,
+    "pub": 1
    },
-   "newsCount": 7,
+   "newsCount": 8,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -613,93 +492,22 @@
      "kind": "news",
      "published": "2026-08-12T16:24:35+00:00",
      "summary": "Mark Walter's stunning sale of the Lakers immediately raised questions whether he would sell other teams, but sources say he is keeping the Dodgers."
-    }
-   ]
-  },
-  {
-   "id": "235863b9bf",
-   "topic": "Justice & Policing",
-   "headline": "Trump administration arrests Southern Poverty Law Center expert for fraud",
-   "updated": "2026-08-12T23:23:14+00:00",
-   "outletCount": 7,
-   "counts": {
-    "pub": 1,
-    "family": 3,
-    "corp": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 7,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
+    },
     {
-     "outlet": "aljazeera",
-     "title": "Trump administration arrests Southern Poverty Law Center expert for fraud",
-     "url": "https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss",
+     "outlet": "bbc",
+     "title": "LA Lakers to be sold in record $12.5bn deal",
+     "url": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-12T23:23:14+00:00",
-     "summary": "Heidi Beirich, an expert on far-right groups, has been charged over alleged misuse of donor funds to pay informants."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Ex-Southern Poverty Law Center official indicted over payments to informants",
-     "url": "https://www.washingtonpost.com/politics/2026/08/12/former-southern-poverty-law-center-official-charged-by-doj-fraud-case/",
-     "author": "Jeremy Roebuck, Olivia George",
-     "kind": "news",
-     "published": "2026-08-12T21:57:07+00:00",
-     "summary": "Prosecutors say Heidi Beirich was romantically involved with an informant who was receiving payments. Her lawyer called the case an effort to \u201csilence political opponents.\u201d"
-    },
-    {
-     "outlet": "abcnews",
-     "title": "DOJ charges former Southern Poverty Law Center CFO with fraud",
-     "url": "https://abcnews.com/US/doj-charges-former-southern-poverty-law-center-cfo/story?id=135590646",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T21:21:11+00:00",
-     "summary": "The Southern Poverty Law Center's former chief financial officer has been arrested and charged with fraud related to payments made to informants inside hate groups."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Ex-Official at Southern Poverty Law Center Accused of Plotting to Misuse Far-Right Informants",
-     "url": "https://www.nytimes.com/2026/08/12/us/politics/splc-fraud-conspiracy-charges.html",
-     "author": "Alan Feuer",
-     "kind": "news",
-     "published": "2026-08-12T20:53:48+00:00",
-     "summary": "The charges signaled an escalation of the Justice Department\u2019s prosecution of the Southern Poverty Law Center, which is best known for investigating white supremacist groups."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Extremism expert charged in case on Southern Poverty Law Center informants",
-     "url": "https://www.nbcnews.com/politics/justice-department/extremism-expert-charged-case-targeting-southern-poverty-law-centers-u-rcna592198",
-     "author": "Ryan J. Reilly",
-     "kind": "news",
-     "published": "2026-08-12T19:56:19+00:00",
-     "summary": "\u201cA free and fair society does not use the justice system to silence its political opponents,\u201d Heidi Beirich\u2019s attorney said in a statement."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump\u2019s justice department arrests expert on far right as part of SPLC crackdown",
-     "url": "https://www.theguardian.com/us-news/2026/aug/12/doj-arrests-far-right-expert-splc",
-     "author": "Sam Levine in New York",
-     "kind": "news",
-     "published": "2026-08-12T19:19:37+00:00",
-     "summary": "Prosecutors charge Heidi Beirich with financial crimes as part of case against the Southern Poverty Law Center The justice department on Wednesday arrested a leading expert on far-right extremism, charging her with financial crimes as part of the government\u2019s ongoing case against the Southern Poverty Law Center (SPLC). Federal prosecutors charged Heidi Beirich, who formerly served as the group\u2019s chief financial officer, with conspiracy to commit wire fraud, conspiracy to submit false statements "
-    },
-    {
-     "outlet": "breitbart",
-     "title": "CNN: Former Southern Poverty Law Center Executive Heidi Beirich Arrested on Fraud Charges",
-     "url": "https://www.breitbart.com/politics/2026/08/12/cnn-former-southern-poverty-law-center-executive-heidi-beirich-arrested-on-fraud-charges/",
-     "author": "Jasmyn Jordan",
-     "kind": "news",
-     "published": "2026-08-12T19:08:23+00:00",
-     "summary": "Former Southern Poverty Law Center chief financial officer Heidi Beirich was arrested in California and charged in the Justice Department\u2019s case alleging that the organization secretly used donor money to pay informants inside white supremacist groups, CNN exclusively reported Wednesday. The post CNN: Former Southern Poverty Law Center Executive Heidi Beirich Arrested on Fraud Charges appeared first on Breitbart ."
+     "published": "2026-08-12T16:11:04+00:00",
+     "summary": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise."
     }
    ]
   },
   {
    "id": "a6580aec0e",
    "topic": "Justice & Policing",
+   "summary": "The order calls for scaling back childhood vaccine recommendations and splitting up the MMR shot, and pressures states to dilute vaccine requirements.",
    "headline": "Executive order on vaccines bypasses an evidence-based process that has kept kids safe",
    "updated": "2026-08-12T17:13:13+00:00",
    "outletCount": 7,
@@ -778,14 +586,15 @@
    ]
   },
   {
-   "id": "40feff2fda",
+   "id": "e9652a53e9",
    "topic": "World",
-   "headline": "Israeli militants besiege two Palestinian families in their West Bank homes",
-   "updated": "2026-08-13T06:45:27+00:00",
+   "summary": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+   "headline": "More troops to be sent to West Bank village besieged by Israeli settlers",
+   "updated": "2026-08-13T08:12:53+00:00",
    "outletCount": 6,
    "counts": {
-    "nonprofit": 1,
     "pub": 3,
+    "nonprofit": 1,
     "family": 1,
     "coop": 1
    },
@@ -793,6 +602,15 @@
    "opinionCount": 0,
    "underreported": true,
    "articles": [
+    {
+     "outlet": "bbc",
+     "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+     "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T08:12:53+00:00",
+     "summary": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday."
+    },
     {
      "outlet": "guardian",
      "title": "Israeli militants besiege two Palestinian families in their West Bank homes",
@@ -830,15 +648,6 @@
      "summary": "The Israeli military declared the Palestinian village of Taybeh a closed military zone to \"maintain order\" but residents say settlers are still allowed to raid the area."
     },
     {
-     "outlet": "bbc",
-     "title": "Israeli settlers besieging Palestinian families in West Bank village",
-     "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T16:14:08+00:00",
-     "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday."
-    },
-    {
      "outlet": "france24",
      "title": "Israeli troops fail to remove settlers besieging Palestinian homes in West Bank village",
      "url": "https://www.france24.com/en/middle-east/20260812-israeli-settlers-keep-up-siege-of-palestinian-homes-despite-rare-military-intervention",
@@ -852,6 +661,7 @@
   {
    "id": "395221fef8",
    "topic": "World",
+   "summary": "An Apache military helicopter crashed in central Texas, officials said Wednesday.",
    "headline": "Two dead after military helicopter crashes in Texas",
    "updated": "2026-08-13T02:47:34+00:00",
    "outletCount": 6,
@@ -924,6 +734,7 @@
   {
    "id": "b19be7c247",
    "topic": "Politics",
+   "summary": "Representative Mark Pocan (D-WI) discusses the closely contested Democratic gubernatorial primary, where David Crowley narrowly edged out Francesca Hong by a margin of just a few thousand votes. Pocan addresses the implications of this tight race for the upcoming general election against Republican\u2026",
    "headline": "In Wisconsin, David Crowley defeats Francesca Hong in Democratic primary for governor",
    "updated": "2026-08-12T22:58:50+00:00",
    "outletCount": 6,
@@ -1011,8 +822,227 @@
    ]
   },
   {
+   "id": "9a952b8264",
+   "topic": "Justice & Policing",
+   "summary": "Prosecutors say Heidi Beirich was romantically involved with an informant who was receiving payments. Her lawyer called the case an effort to \u201csilence political opponents.\u201d",
+   "headline": "Trump\u2019s justice department arrests expert on far right as part of SPLC crackdown",
+   "updated": "2026-08-12T21:57:07+00:00",
+   "outletCount": 6,
+   "counts": {
+    "family": 3,
+    "corp": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "wapo",
+     "title": "Ex-Southern Poverty Law Center official indicted over payments to informants",
+     "url": "https://www.washingtonpost.com/politics/2026/08/12/former-southern-poverty-law-center-official-charged-by-doj-fraud-case/",
+     "author": "Jeremy Roebuck, Olivia George",
+     "kind": "news",
+     "published": "2026-08-12T21:57:07+00:00",
+     "summary": "Prosecutors say Heidi Beirich was romantically involved with an informant who was receiving payments. Her lawyer called the case an effort to \u201csilence political opponents.\u201d"
+    },
+    {
+     "outlet": "abcnews",
+     "title": "DOJ charges former Southern Poverty Law Center CFO with fraud",
+     "url": "https://abcnews.com/US/doj-charges-former-southern-poverty-law-center-cfo/story?id=135590646",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T21:21:11+00:00",
+     "summary": "The Southern Poverty Law Center's former chief financial officer has been arrested and charged with fraud related to payments made to informants inside hate groups."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Ex-Official at Southern Poverty Law Center Accused of Plotting to Misuse Far-Right Informants",
+     "url": "https://www.nytimes.com/2026/08/12/us/politics/splc-fraud-conspiracy-charges.html",
+     "author": "Alan Feuer",
+     "kind": "news",
+     "published": "2026-08-12T20:53:48+00:00",
+     "summary": "The charges signaled an escalation of the Justice Department\u2019s prosecution of the Southern Poverty Law Center, which is best known for investigating white supremacist groups."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Extremism expert charged in case on Southern Poverty Law Center informants",
+     "url": "https://www.nbcnews.com/politics/justice-department/extremism-expert-charged-case-targeting-southern-poverty-law-centers-u-rcna592198",
+     "author": "Ryan J. Reilly",
+     "kind": "news",
+     "published": "2026-08-12T19:56:19+00:00",
+     "summary": "\u201cA free and fair society does not use the justice system to silence its political opponents,\u201d Heidi Beirich\u2019s attorney said in a statement."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump\u2019s justice department arrests expert on far right as part of SPLC crackdown",
+     "url": "https://www.theguardian.com/us-news/2026/aug/12/doj-arrests-far-right-expert-splc",
+     "author": "Sam Levine in New York",
+     "kind": "news",
+     "published": "2026-08-12T19:19:37+00:00",
+     "summary": "Prosecutors charge Heidi Beirich with financial crimes as part of case against the Southern Poverty Law Center The justice department on Wednesday arrested a leading expert on far-right extremism, charging her with financial crimes as part of the government\u2019s ongoing case against the Southern Poverty Law Center (SPLC). Federal prosecutors charged Heidi Beirich, who formerly served as the group\u2019s chief financial officer, with conspiracy to commit wire fraud, conspiracy to submit false statements "
+    },
+    {
+     "outlet": "breitbart",
+     "title": "CNN: Former Southern Poverty Law Center Executive Heidi Beirich Arrested on Fraud Charges",
+     "url": "https://www.breitbart.com/politics/2026/08/12/cnn-former-southern-poverty-law-center-executive-heidi-beirich-arrested-on-fraud-charges/",
+     "author": "Jasmyn Jordan",
+     "kind": "news",
+     "published": "2026-08-12T19:08:23+00:00",
+     "summary": "Former Southern Poverty Law Center chief financial officer Heidi Beirich was arrested in California and charged in the Justice Department\u2019s case alleging that the organization secretly used donor money to pay informants inside white supremacist groups, CNN exclusively reported Wednesday. The post CNN: Former Southern Poverty Law Center Executive Heidi Beirich Arrested on Fraud Charges appeared first on Breitbart ."
+    }
+   ]
+  },
+  {
+   "id": "daa787c625",
+   "topic": "Politics",
+   "summary": "President Trump\u2019s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia\u2019s president, whose fixation on security has reached new heights in recent years.",
+   "headline": "Former Secret Service agent discusses Trump's Air Force One switch",
+   "updated": "2026-08-12T21:37:33+00:00",
+   "outletCount": 6,
+   "counts": {
+    "family": 2,
+    "corp": 2,
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, \u2018a Regular Tuesday.\u2019",
+     "url": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html",
+     "author": "Anton Troianovski",
+     "kind": "news",
+     "published": "2026-08-12T21:37:33+00:00",
+     "summary": "President Trump\u2019s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia\u2019s president, whose fixation on security has reached new heights in recent years."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump says he was at 'greater risk' on secret flight than decoy Air Force One",
+     "url": "https://abcnews.com/Politics/trump-greater-risk-secret-flight-decoy-air-force/story?id=135564018",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T09:55:25+00:00",
+     "summary": "Secretary of State Marco Rubio and Treasury Secretary Scott Bessent were on the \"decoy\" Air Force One that left Turkey last month."
+    },
+    {
+     "outlet": "npr",
+     "title": "Former Secret Service agent discusses Trump's Air Force One switch",
+     "url": "https://www.npr.org/2026/08/12/nx-s1-5928188/former-secret-service-agent-discusses-trumps-air-force-one-switch",
+     "author": "Michel Martin",
+     "kind": "news",
+     "published": "2026-08-12T08:46:16+00:00",
+     "summary": "NPR's Michel Martin speaks with former Secret Service agent Robert McDonald about reports that President Trump boarded a military aircraft instead of flying aboard Air Force One from Turkey."
+    },
+    {
+     "outlet": "time",
+     "title": "Why Trump\u2019s Secret Flight Was Extraordinary by Presidential Standards",
+     "url": "https://time.com/article/2026/08/11/trump-secret-flight-white-house-press-pool-journalists/",
+     "author": "Chantelle Lee",
+     "kind": "news",
+     "published": "2026-08-11T23:08:16+00:00",
+     "summary": "For several hours, the President\u2019s real whereabouts were unknown to\u2014and concealed from\u2014both the White House press pool and the American public."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Watch: What is it like to travel on Air Force One with Trump?",
+     "url": "https://www.bbc.co.uk/news/videos/cy4k1jldxnwo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-11T21:49:01+00:00",
+     "summary": "Donald Trump secretly swapped planes as he left a Nato summit in Turkey last month, deceiving even the press pool who flew on board without him."
+    },
+    {
+     "outlet": "axios",
+     "title": "Trump's secret plane switch: How Air Force One protects the president from threats",
+     "url": "https://www.axios.com/2026/08/11/trump-air-force-one-security-secret-plane-switch",
+     "author": "Herb Scribner",
+     "kind": "news",
+     "published": "2026-08-11T18:40:25+00:00",
+     "summary": "President Trump's secret plane switch in Turkey is putting Air Force One's security protocols and defensive capabilities in the spotlight. Why it matters: Air Force One is the call sign for any Air Force aircraft carrying the president, meaning Trump's secret switch didn't change the designation \u2014 but it changed the plane protecting him. Driving the news: A threat from Iran forced Trump to secretly switch planes, using a catering truck to move to a smaller aircraft, per the Washington Post . Tru"
+    }
+   ]
+  },
+  {
+   "id": "9a50e69d67",
+   "topic": "Politics",
+   "summary": "Free press groups say selling access to Trump's posts is &quot;unconstitutional.&quot;",
+   "headline": "Trump sued over service selling faster access to Truth Social posts",
+   "updated": "2026-08-12T21:31:58+00:00",
+   "outletCount": 6,
+   "counts": {
+    "corp": 1,
+    "family": 1,
+    "nonprofit": 3,
+    "pub": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "abcnews",
+     "title": "'Profoundly corrupt': Trump sued over selling early access to Truth Social posts",
+     "url": "https://abcnews.com/Politics/profoundly-corrupt-trump-sued-federal-court-selling-early/story?id=135591214",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T21:31:58+00:00",
+     "summary": "Free press groups say selling access to Trump's posts is &quot;unconstitutional.&quot;"
+    },
+    {
+     "outlet": "nyt",
+     "title": "Trump Is Sued Over Plan to Sell Early Access to His Truth Social Posts",
+     "url": "https://www.nytimes.com/2026/08/12/us/politics/trump-truth-social-lawsuit.html",
+     "author": "Matthew Goldstein",
+     "kind": "news",
+     "published": "2026-08-12T20:37:45+00:00",
+     "summary": "The lawsuit filed in federal court said President Trump \u201cstands to gain financially by giving \u2018market-moving\u2019 government information to those who are willing and able to pay his personal company.\u201d"
+    },
+    {
+     "outlet": "npr",
+     "title": "Trump sued over service selling faster access to Truth Social posts",
+     "url": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
+     "author": "Bobby Allyn",
+     "kind": "news",
+     "published": "2026-08-12T20:33:10+00:00",
+     "summary": "The federal lawsuit alleges that the service from the president's media company violates the Constitution. Meanwhile, Trump Media executives say they have signed up more than 10 customers."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Trump sued over Truth Social's $100,000 early access service",
+     "url": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T17:48:56+00:00",
+     "summary": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump sued over $100,000-a-month early-access offer to Truth Social posts",
+     "url": "https://www.theguardian.com/us-news/2026/aug/12/truth-social-suit-trump-early-access-offer",
+     "author": "Joseph Gedeon in Washington",
+     "kind": "news",
+     "published": "2026-08-12T17:30:21+00:00",
+     "summary": "Suit alleges subscription offer aims to sell privileged access to information generated in president\u2019s official capacity Donald Trump has been sued after a subscription service charging up to $100,000 a month for early access to his posts on his Truth Social platform sparked allegations of corruption. The lawsuit, filed in the US district court for the southern district of New York , was brought by the Intercept and the Freedom of the Press Foundation against Trump, two of his aides and the exec"
+    },
+    {
+     "outlet": "intercept",
+     "title": "The Intercept Sues Trump for Selling Premium Access to Truth Social Announcements",
+     "url": "https://theintercept.com/2026/08/12/trump-media-truthsocial-premium-first-amendment/",
+     "author": "Noah Hurowitz",
+     "kind": "news",
+     "published": "2026-08-12T14:48:01+00:00",
+     "summary": "A lawsuit filed with the Freedom of the Press Foundation argues the president is restricting First Amendment-protected information in a scheme to enrich himself. The post The Intercept Sues Trump for Selling Premium Access to Truth Social Announcements appeared first on The Intercept ."
+    }
+   ]
+  },
+  {
    "id": "70c9c43a98",
    "topic": "Politics",
+   "summary": "After his loss in the state\u2019s Republican primary for governor, Mike Lindell, a leading election denier, floated familiar, baseless claims of \u201canomalies\u201d in his double-digit defeat.",
    "headline": "Trump-backed Mike Lindell loses primary for Minnesota governor to Lisa Demuth",
    "updated": "2026-08-12T17:10:53+00:00",
    "outletCount": 6,
@@ -1082,8 +1112,73 @@
    ]
   },
   {
+   "id": "7497eb156b",
+   "topic": "Politics",
+   "summary": "Kylie Cooper/Reuters CNN host Kaitlan Collins has called out Donald Trump\u2019s deputy chief of staff, Stephen Miller, for staying quiet on the Air Force One ruse. The 80-year-old president was secretly sneaked from the legacy Air Force One jet to a smaller military plane in an airport catering truck\u2026",
+   "headline": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
+   "updated": "2026-08-13T08:17:49+00:00",
+   "outletCount": 5,
+   "counts": {
+    "corp": 1,
+    "family": 2,
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "Kaitlan Collins Calls Out Stephen Miller Over Air Force One Debacle",
+     "url": "https://www.thedailybeast.com/kaitlan-collins-calls-out-stephen-miller-over-air-force-one-debacle/",
+     "author": "Leigh Kimmins",
+     "kind": "news",
+     "published": "2026-08-13T08:17:49+00:00",
+     "summary": "Kylie Cooper/Reuters CNN host Kaitlan Collins has called out Donald Trump\u2019s deputy chief of staff, Stephen Miller, for staying quiet on the Air Force One ruse. The 80-year-old president was secretly sneaked from the legacy Air Force One jet to a smaller military plane in an airport catering truck while departing Turkey last month, amid a credible missile threat against the original aircraft, according to a Washington Post investigation. Miller, 40, was among those left aboard the decoy plane, jo"
+    },
+    {
+     "outlet": "nyt",
+     "title": "Late Night Ribs Trump for Leaving Staff Behind on Air Force One",
+     "url": "https://www.nytimes.com/2026/08/13/arts/television/late-night-trump-air-force-one-catering.html",
+     "author": "Trish Bendix",
+     "kind": "news",
+     "published": "2026-08-13T06:22:11+00:00",
+     "summary": "Anthony Anderson, the guest host of \u201cJimmy Kimmel Live,\u201d called the ruse in which President Trump exited the plane in a catering container \u201cOperation Pig in a Blanket.\u201d"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
+     "url": "https://www.pbs.org/newshour/show/news-wrap-trump-confirms-he-was-secretly-whisked-away-from-air-force-one-in-turkey",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T22:45:26+00:00",
+     "summary": "In our news wrap Wednesday, President Trump confirmed that he was whisked away from Air Force One in a catering truck at the Secret Service's direction, the hope of finding survivors is diminishing more than two days after a powerful earthquake hit Colombia and White House Press Secretary Karoline Leavitt says she will soon leave the job to spend more time with her family."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Trump's Air Force One shell game: How years of decoy tactics led to a catering-truck switch",
+     "url": "https://www.foxnews.com/politics/trump-air-force-one-shell-game-years-decoy-tactics-led-catering-truck-switch",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T19:04:25+00:00",
+     "summary": "President Donald Trump secretly exited Air Force One into a catering truck in Ankara amid a credible Iranian threat, flying on a military jet under a nondescript call sign."
+    },
+    {
+     "outlet": "bbc",
+     "title": "What it's like flying with Trump on Air Force One",
+     "url": "https://www.bbc.co.uk/news/videos/cgljpy5k3p8o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T10:43:23+00:00",
+     "summary": "BBC Correspondent Tom Bateman explains what it's like for members of the press who fly on Air Force One with the US President."
+    }
+   ]
+  },
+  {
    "id": "36a48296aa",
    "topic": "Business & Economy",
+   "summary": "A single ticketholder in Illinois won a Powerball jackpot of $1.04 billion Wednesday night, the game says.",
    "headline": "$1.04 billion Powerball jackpot won in Illinois",
    "updated": "2026-08-13T06:22:00+00:00",
    "outletCount": 5,
@@ -1145,6 +1240,7 @@
   {
    "id": "fd5c3f75cb",
    "topic": "Justice & Policing",
+   "summary": "A grand jury has indicted Nick Reiner on murder charges in the killings of his parents, Rob Reiner and Michele Singer Reiner, and adds the allegation that he was lying in wait before attacking them.",
    "headline": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
    "updated": "2026-08-13T06:21:25+00:00",
    "outletCount": 5,
@@ -1207,6 +1303,7 @@
   {
    "id": "aa4ba441ad",
    "topic": "Business & Economy",
+   "summary": "The death of China\u2019s former Premier Zhu Rongji has set off a heated debate on social media over the true costs of his forceful reforms that helped transform the nation into an economic powerhouse, including the tens of millions of people those same policies left behind.",
    "headline": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
    "updated": "2026-08-13T04:00:25+00:00",
    "outletCount": 5,
@@ -1266,125 +1363,11 @@
    ]
   },
   {
-   "id": "daa787c625",
-   "topic": "Politics",
-   "headline": "Former Secret Service agent discusses Trump's Air Force One switch",
-   "updated": "2026-08-12T21:37:33+00:00",
-   "outletCount": 5,
-   "counts": {
-    "family": 2,
-    "corp": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, \u2018a Regular Tuesday.\u2019",
-     "url": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html",
-     "author": "Anton Troianovski",
-     "kind": "news",
-     "published": "2026-08-12T21:37:33+00:00",
-     "summary": "President Trump\u2019s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia\u2019s president, whose fixation on security has reached new heights in recent years."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump says he was at 'greater risk' on secret flight than decoy Air Force One",
-     "url": "https://abcnews.com/Politics/trump-greater-risk-secret-flight-decoy-air-force/story?id=135564018",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T09:55:25+00:00",
-     "summary": "Secretary of State Marco Rubio and Treasury Secretary Scott Bessent were on the \"decoy\" Air Force One that left Turkey last month."
-    },
-    {
-     "outlet": "npr",
-     "title": "Former Secret Service agent discusses Trump's Air Force One switch",
-     "url": "https://www.npr.org/2026/08/12/nx-s1-5928188/former-secret-service-agent-discusses-trumps-air-force-one-switch",
-     "author": "Michel Martin",
-     "kind": "news",
-     "published": "2026-08-12T08:46:16+00:00",
-     "summary": "NPR's Michel Martin speaks with former Secret Service agent Robert McDonald about reports that President Trump boarded a military aircraft instead of flying aboard Air Force One from Turkey."
-    },
-    {
-     "outlet": "time",
-     "title": "Why Trump\u2019s Secret Flight Was Extraordinary by Presidential Standards",
-     "url": "https://time.com/article/2026/08/11/trump-secret-flight-white-house-press-pool-journalists/",
-     "author": "Chantelle Lee",
-     "kind": "news",
-     "published": "2026-08-11T23:08:16+00:00",
-     "summary": "For several hours, the President\u2019s real whereabouts were unknown to\u2014and concealed from\u2014both the White House press pool and the American public."
-    },
-    {
-     "outlet": "axios",
-     "title": "Trump's secret plane switch: How Air Force One protects the president from threats",
-     "url": "https://www.axios.com/2026/08/11/trump-air-force-one-security-secret-plane-switch",
-     "author": "Herb Scribner",
-     "kind": "news",
-     "published": "2026-08-11T18:40:25+00:00",
-     "summary": "President Trump's secret plane switch in Turkey is putting Air Force One's security protocols and defensive capabilities in the spotlight. Why it matters: Air Force One is the call sign for any Air Force aircraft carrying the president, meaning Trump's secret switch didn't change the designation \u2014 but it changed the plane protecting him. Driving the news: A threat from Iran forced Trump to secretly switch planes, using a catering truck to move to a smaller aircraft, per the Washington Post . Tru"
-    }
-   ]
-  },
-  {
-   "id": "7497eb156b",
-   "topic": "Politics",
-   "headline": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
-   "updated": "2026-08-13T06:22:11+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 2,
-    "nonprofit": 1,
-    "pub": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Late Night Ribs Trump for Leaving Staff Behind on Air Force One",
-     "url": "https://www.nytimes.com/2026/08/13/arts/television/late-night-trump-air-force-one-catering.html",
-     "author": "Trish Bendix",
-     "kind": "news",
-     "published": "2026-08-13T06:22:11+00:00",
-     "summary": "Anthony Anderson, the guest host of \u201cJimmy Kimmel Live,\u201d called the ruse in which President Trump exited the plane in a catering container \u201cOperation Pig in a Blanket.\u201d"
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
-     "url": "https://www.pbs.org/newshour/show/news-wrap-trump-confirms-he-was-secretly-whisked-away-from-air-force-one-in-turkey",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T22:45:26+00:00",
-     "summary": "In our news wrap Wednesday, President Trump confirmed that he was whisked away from Air Force One in a catering truck at the Secret Service's direction, the hope of finding survivors is diminishing more than two days after a powerful earthquake hit Colombia and White House Press Secretary Karoline Leavitt says she will soon leave the job to spend more time with her family."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Trump's Air Force One shell game: How years of decoy tactics led to a catering-truck switch",
-     "url": "https://www.foxnews.com/politics/trump-air-force-one-shell-game-years-decoy-tactics-led-catering-truck-switch",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T19:04:25+00:00",
-     "summary": "President Donald Trump secretly exited Air Force One into a catering truck in Ankara amid a credible Iranian threat, flying on a military jet under a nondescript call sign."
-    },
-    {
-     "outlet": "bbc",
-     "title": "What it's like flying with Trump on Air Force One",
-     "url": "https://www.bbc.co.uk/news/videos/cgljpy5k3p8o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T10:43:23+00:00",
-     "summary": "BBC Correspondent Tom Bateman explains what it's like for members of the press who fly on Air Force One with the US President."
-    }
-   ]
-  },
-  {
-   "id": "ef06ad162f",
+   "id": "ba8778d076",
    "topic": "World",
-   "headline": "Japan protests against Putin visit to disputed islands",
-   "updated": "2026-08-13T06:21:31+00:00",
+   "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
+   "headline": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
+   "updated": "2026-08-13T08:13:55+00:00",
    "outletCount": 4,
    "counts": {
     "pub": 3,
@@ -1396,11 +1379,11 @@
    "articles": [
     {
      "outlet": "bbc",
-     "title": "Japan protests against Putin visit to disputed islands",
+     "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
      "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-13T06:21:31+00:00",
+     "published": "2026-08-13T08:13:55+00:00",
      "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media."
     },
     {
@@ -1435,6 +1418,7 @@
   {
    "id": "3a56ea9c80",
    "topic": "Politics",
+   "summary": "The complaint, filed in a federal court in Ohio, argues that Miller and his lawyer, Aaron Minc, violated federal laws on the \u201cdisclosure of intimate images\u201d when the congressman shared a link to an electronic Dropbox folder which included a photograph of the young child \u201cdepicting her genitalia\u201d\u2026",
    "headline": "Rep. Max Miller\u2019s ex-wife sues congressman over \u2018nude image\u2019 of their\u00a02-year-old daughter",
    "updated": "2026-08-13T03:45:28+00:00",
    "outletCount": 4,
@@ -1487,6 +1471,7 @@
   {
    "id": "b90df562e1",
    "topic": "Politics",
+   "summary": "CBS News' Olivia Rinaldi has new details on the news that President Trump and other government officials took extraordinary air security measures amid threats from Iran.",
    "headline": "Trump says Secret Service wanted him on a \"different plane,\" new details on switch emerge",
    "updated": "2026-08-13T02:07:00+00:00",
    "outletCount": 4,
@@ -1539,6 +1524,7 @@
   {
    "id": "b6f7e2096c",
    "topic": "Justice & Policing",
+   "summary": "Nick Reiner pleaded not guilty to two counts of murder with the special circumstance allegations in the killings of his parents, Rob and Michele Reiner.",
    "headline": "Nick Reiner indicted on murder charges in parents' killings at their LA home",
    "updated": "2026-08-13T01:08:46+00:00",
    "outletCount": 4,
@@ -1591,6 +1577,7 @@
   {
    "id": "85924de0c1",
    "topic": "Culture & Sport",
+   "summary": "The Los Angeles Clippers sent a message to Russell Westbrook after he announced his retirement from the NBA.",
    "headline": "Triple-double king Russell Westbrook calls time on 18-year NBA career",
    "updated": "2026-08-13T01:00:24+00:00",
    "outletCount": 4,
@@ -1644,6 +1631,7 @@
   {
    "id": "50b18ce1a8",
    "topic": "Other",
+   "summary": "Some Democrats said the outcome showed that the moderate wing of the party carried more electoral weight, while Ms. Hong\u2019s strong showing gave some progressives hope.",
    "headline": "Hong\u2019s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party",
    "updated": "2026-08-13T00:48:12+00:00",
    "outletCount": 4,
@@ -1696,6 +1684,7 @@
   {
    "id": "2c4eea2502",
    "topic": "Business & Economy",
+   "summary": "The brother of Jared Kushner is an influential venture capitalist with big bets on A.I. and health insurance.",
    "headline": "Josh Kushner and Bob Iger reportedly buying Los Angeles Lakers for $12.5bn",
    "updated": "2026-08-13T00:46:04+00:00",
    "outletCount": 4,
@@ -1749,6 +1738,7 @@
   {
    "id": "b4f37482cd",
    "topic": "Politics",
+   "summary": "Rep. Mike Collins (R-GA) condemned incumbent Sen. Jon Ossoff (D-GA) on Wednesday for his endorsement of \"extremist\" muslim socialist Michigan Democrat U.S. Senate candidate Abdulrahman Mohamed El-Sayed. The post Mike Collins Slams Jon Ossoff for Endorsing \u2018Extremist\u2019 Socialist El-Sayed in Michigan\u2026",
    "headline": "Michigan progressive Abdul El-Sayed won a combative Democratic nomination for US Senate \u2013 he\u2019ll face new attacks this fall",
    "updated": "2026-08-13T00:29:32+00:00",
    "outletCount": 4,
@@ -1801,6 +1791,7 @@
   {
    "id": "4953d0bead",
    "topic": "Politics",
+   "summary": "Francesca Hong, the democratic socialist running in Wisconsin\u2019s Democratic primary for governor, had a double-digit lead in polls as recently as last week. Then she lost. What happened?",
    "headline": "A DSA Candidate Lost a Messy Race for Wisconsin Governor",
    "updated": "2026-08-12T22:51:15+00:00",
    "outletCount": 4,
@@ -1862,6 +1853,7 @@
   {
    "id": "4eceb09336",
    "topic": "Politics",
+   "summary": "In Turkey, Trump said the change in plane had nothing to do with security concerns, though he also reiterated that he's \"number one on the kill list for Iran.\u201d",
    "headline": "Report suggests a threat forced Trump to switch aircraft as he departed NATO summit",
    "updated": "2026-08-12T18:51:16+00:00",
    "outletCount": 4,
@@ -1915,6 +1907,7 @@
   {
    "id": "17d44366a4",
    "topic": "Other",
+   "summary": "Rescuers are racing against a critical 72-hour window to find survivors after a magnitude 7.4 earthquake that has killed 265 people, left hundreds missing, and displaced tens of thousands across western Colombia.",
    "headline": "Colombia earthquake: Rescue operation enters 'final phase'",
    "updated": "2026-08-13T07:45:00+00:00",
    "outletCount": 3,
@@ -1976,6 +1969,7 @@
   {
    "id": "8a60210215",
    "topic": "Culture & Sport",
+   "summary": "Argentina star Lionel Messi hinted at retirement on Wednesday before featuring in Inter Miami&#039;s defeat by Leon.",
    "headline": "Messi plays in Inter Miami defeat by Leon only hours after retirement hint",
    "updated": "2026-08-13T07:17:55+00:00",
    "outletCount": 3,
@@ -2020,6 +2014,7 @@
   {
    "id": "aec1ab3f9f",
    "topic": "Politics",
+   "summary": "White House press secretary Karoline Leavitt is to leave her job at the end of the month, President Donald Trump says. Leavitt, 28, is the youngest-ever person to have held the position.",
    "headline": "US: Karoline Leavitt to step down as Trump's spokesperson",
    "updated": "2026-08-13T07:15:00+00:00",
    "outletCount": 3,
@@ -2064,6 +2059,7 @@
   {
    "id": "07805f398a",
    "topic": "World",
+   "summary": "Russia struck the area \u200baround Ukraine's largest Danube port of Izmail overnight, causing damage \u200band setting \u200coff a fire, \u2060regional authorities said Thursday. Meanwhile Moscow said it downed 362 Ukrainian drones overnight as an attack in Russia's Salavat area triggered a blaze at an oil refinery,\u2026",
    "headline": "Live: Russian attack sets Ukraine\u2019s Izmail port infrastructure ablaze",
    "updated": "2026-08-13T06:14:52+00:00",
    "outletCount": 3,
@@ -2104,51 +2100,9 @@
    ]
   },
   {
-   "id": "29ada94471",
-   "topic": "Other",
-   "headline": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
-   "updated": "2026-08-13T05:43:43+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 2,
-    "pub": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "npr",
-     "title": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
-     "url": "https://www.npr.org/2026/08/13/g-s1-138552/us-same-day-executions",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-13T05:43:43+00:00",
-     "summary": "Three men in Tennessee, Alabama and Oklahoma are scheduled for lethal injection Thursday in a rare convergence of executions on the same day in the U.S."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Three men will be executed on the same day as death penalties rise in US",
-     "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T20:52:20+00:00",
-     "summary": "Despite growing opposition to the death penalty, one state is behind the rising numbers."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "3 states are set to hold executions on the same day, a first in the US since 2010",
-     "url": "https://www.pbs.org/newshour/nation/3-states-are-set-to-hold-executions-on-the-same-day-a-first-in-the-us-since-2010",
-     "author": "Jamie Stengle, Associated Press",
-     "kind": "news",
-     "published": "2026-08-12T20:44:11+00:00",
-     "summary": "Tennessee, Alabama and Oklahoma plan to execute inmates Thursday in what would be the first time in nearly 16 years that three people are put to death on the same day in the United States."
-    }
-   ]
-  },
-  {
    "id": "60d88abab5",
    "topic": "Politics",
+   "summary": "Andrew Harnik/Getty Images A top doctor has demanded the White House come clean and reveal the full details about President Donald Trump\u2019s health, claiming it is rapidly declining in plain sight. Dr. Jonathan Reiner, 66, appeared on Erin Burnett OutFront on Wednesday after a scathing opinion piece\u2026",
    "headline": "Trump Administration Claims Executive Privilege Over White House Conversations With Private Advisers",
    "updated": "2026-08-13T04:54:24+00:00",
    "outletCount": 3,
@@ -2193,6 +2147,7 @@
   {
    "id": "18bf0e3ac0",
    "topic": "Politics",
+   "summary": "President de La Espriella promises to set up an emergency fund to help rebuild destroyed hospitals and schools.",
    "headline": "Search efforts in Colombia enter \u2018final phase\u2019 as quake toll reaches 265",
    "updated": "2026-08-13T04:26:46+00:00",
    "outletCount": 3,
@@ -2236,6 +2191,7 @@
   {
    "id": "281faeeb30",
    "topic": "Other",
+   "summary": "McKenna Grace, the Alaskan surrogate who refused to abort the fetus she was carrying despite the biological parents' request, gave birth on Wednesday.",
    "headline": "Surrogate mother who fled to Texas gives birth to baby with severe heart defect",
    "updated": "2026-08-13T04:10:57+00:00",
    "outletCount": 3,
@@ -2280,6 +2236,7 @@
   {
    "id": "8d8860f340",
    "topic": "Health",
+   "summary": "The baby, who was born Wednesday with a severe heart defect, drew the attention of anti-abortion activists and the Texas attorney general after the intended parents wanted the surrogate mother to have an abortion.",
    "headline": "Baby at center of surrogacy rights case is born in Dallas",
    "updated": "2026-08-13T03:06:53+00:00",
    "outletCount": 3,
@@ -2333,6 +2290,7 @@
   {
    "id": "a951708aa7",
    "topic": "Politics",
+   "summary": "The U.S. 5th Circuit Court of Appeals rebuked the lower court\u2019s 2025 ruling that struck down nine provisions of a sweeping election law related to voter assistance.",
    "headline": "Texas\u2019 mail ballot ID requirements restored by federal appeals court",
    "updated": "2026-08-13T02:15:14+00:00",
    "outletCount": 3,
@@ -2376,6 +2334,7 @@
   {
    "id": "6e8beb4549",
    "topic": "Climate & Energy",
+   "summary": "Spanish Olympic skateboarder Danny Le\u00f3n timed a jump with the moon passing in front of the sun during a solar eclipse.",
    "headline": "Olympic skateboarder times epic stunt with solar eclipse",
    "updated": "2026-08-13T01:56:11+00:00",
    "outletCount": 3,
@@ -2419,6 +2378,7 @@
   {
    "id": "a9f216adde",
    "topic": "Justice & Policing",
+   "summary": "A Minnesota man killed his wife and their 7-year-old daughter as young children gathered at a home daycare the couple owned before taking his own life, police said Wednesday.",
    "headline": "Minnesota man killed his wife and child at daycare after killing another relative, police say",
    "updated": "2026-08-13T01:15:23+00:00",
    "outletCount": 3,
@@ -2462,6 +2422,7 @@
   {
    "id": "380c4b36b7",
    "topic": "Politics",
+   "summary": "A former Southern Poverty Law Center official has been charged in the Department of Justice's broader criminal case against the Alabama-based civil rights group, a frequent target of conservative critics who claim the nonprofit is politically biased.",
    "headline": "Former SPLC official charged in Justice Department's broader criminal case against group",
    "updated": "2026-08-13T01:02:31+00:00",
    "outletCount": 3,
@@ -2505,6 +2466,7 @@
   {
    "id": "6b13871dac",
    "topic": "Justice & Policing",
+   "summary": "A Virginia woman said an ICE agent pointed a firearm at her head and falsely claimed she tried to run over agents during an encounter in Falls Church.",
    "headline": "Virginia woman says ICE agent pointed gun at her, denies trying to run over agents",
    "updated": "2026-08-13T01:00:33+00:00",
    "outletCount": 3,
@@ -2548,6 +2510,7 @@
   {
    "id": "1ec8481c6a",
    "topic": "Politics",
+   "summary": "More key midterm matchups are set after six states held primaries on Tuesday. CBS News' Jarred Hill reports on the results and CBS News political reporter Zak Hudak breaks down some of the most contentious midterm races unfolding across the country.",
    "headline": "Four takeaways from Tuesday's primaries in six states",
    "updated": "2026-08-13T00:14:00+00:00",
    "outletCount": 3,
@@ -2592,6 +2555,7 @@
   {
    "id": "1bf133b9a7",
    "topic": "Politics",
+   "summary": "Daniel Heuer / Daniel Heuer/REUTERS Secretary of State Marco Rubio dismissed intelligence pointing to an Iranian assassination threat and chose to stay aboard Air Force One while President Donald Trump was secretly shuttled to a smaller plane, according to a report. When the CIA received\u2026",
    "headline": "Top Trump Goon Called BS on Intel Behind Catering Truck Stunt",
    "updated": "2026-08-12T23:55:08+00:00",
    "outletCount": 3,
@@ -2635,6 +2599,7 @@
   {
    "id": "b57b95c981",
    "topic": "Politics",
+   "summary": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story Trump looks to inflict economic pain on Iran President Trump is turning his focus on economic warfare, leaning on crippling sanctions and a U.S.\u2026",
    "headline": "Trump looks to inflict economic pain on Iran",
    "updated": "2026-08-12T23:16:32+00:00",
    "outletCount": 3,
@@ -2678,6 +2643,7 @@
   {
    "id": "c096873d84",
    "topic": "Other",
+   "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
    "headline": "Woman pulled alive from rubble 36 hours after Colombia quake",
    "updated": "2026-08-12T22:41:46+00:00",
    "outletCount": 3,
@@ -2721,6 +2687,7 @@
   {
    "id": "0a9e4ff0a8",
    "topic": "Other",
+   "summary": "In a recent interview, Representative Alexandria Ocasio-Cortez distanced herself from the 2020 era of progressivism.",
    "headline": "No, AOC: \u201cWoke\u201d Wasn\u2019t \u201cCrazy\u201d the Way You Say It Was",
    "updated": "2026-08-12T21:54:51+00:00",
    "outletCount": 3,
@@ -2765,6 +2732,7 @@
   {
    "id": "43e9647547",
    "topic": "Other",
+   "summary": "NPR's Juana Summers speaks with Amanda Litman, co-founder of the PAC Run For Something, about the results from the Aug. 11 Democratic primary elections.",
    "headline": "Democratic strategist reflects on Wisconsin and Minnesota primaries",
    "updated": "2026-08-12T20:59:17+00:00",
    "outletCount": 3,
@@ -2808,6 +2776,7 @@
   {
    "id": "77614515fe",
    "topic": "Politics",
+   "summary": "Zolan Kanno-Youngs, a White House correspondent for The New York Times, was at the finale of the Patriot Games, an athletic event marking the U.S.\u2019s 250th birthday, where President Trump made an appearance. Mr. Kanno-Youngs breaks down the role of sports in the Trump presidency on \u201cThe Call\u201d with\u2026",
    "headline": "What to know about Trump's Patriot Games for high school athletes",
    "updated": "2026-08-12T20:40:07+00:00",
    "outletCount": 3,
@@ -2849,51 +2818,9 @@
    ]
   },
   {
-   "id": "06c3c10cfe",
-   "topic": "Politics",
-   "headline": "Trump Promised To End Foreign Aid. Now He's Giving Christian Groups Nearly $2 Billion.",
-   "updated": "2026-08-12T18:45:46+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 1,
-    "corp": 2
-   },
-   "newsCount": 1,
-   "opinionCount": 2,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "reason",
-     "title": "Trump Promised To End Foreign Aid. Now He's Giving Christian Groups Nearly $2 Billion.",
-     "url": "https://reason.com/2026/08/12/trump-promised-to-end-foreign-aid-now-hes-giving-christian-groups-nearly-2-billion/",
-     "author": "Reem Ibrahim",
-     "kind": "opinion",
-     "published": "2026-08-12T18:45:46+00:00",
-     "summary": "A red background with gold lettering, Trump sitting in a chair in the foreground surround by stacks of American money"
-    },
-    {
-     "outlet": "rollingstone",
-     "title": "Trump Is Spending Nearly $1 Billion in Taxpayer Money on Gaudy White House Renovations: Report",
-     "url": "https://www.rollingstone.com/politics/politics-news/trump-spending-billion-white-house-renovations-1235607598/",
-     "author": "Nikkimccannramirez",
-     "kind": "news",
-     "published": "2026-08-12T18:37:51+00:00",
-     "summary": "The White House is funneling millions into executive maintenance accounts without oversight or approval from Congress, The Washington Post reports"
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Opinion: Trump Is Fading Fast. Who\u2019s Really Running the White House Now?",
-     "url": "https://www.thedailybeast.com/trump-is-fading-fast-whos-really-running-the-white-house-now/",
-     "author": "David Rothkopf",
-     "kind": "opinion",
-     "published": "2026-08-12T17:38:20+00:00",
-     "summary": "Photo Illustration by Elizabeth Brockway/The Daily Beast/Getty/Reuters We are watching the president ripen and rot before our very eyes. If he were a banana, he\u2019d be in the trash right now\u2014or, at best, on his way into a recipe for banana bread. From swollen ankles and bruised hands, we\u2019ve watched this deterioration progress with each passing day. This week saw a progression of bruises up his arms. He is barely able to stay awake at virtually any public function he attends. His behavior is errati"
-    }
-   ]
-  },
-  {
    "id": "44d84b6b6f",
    "topic": "Politics",
+   "summary": "The President confirmed that he secretly swapped planes as he left a Nato summit in Turkey last month due to a possible threat.",
    "headline": "Watch: Trump tells reporters why he switched planes",
    "updated": "2026-08-12T13:13:40+00:00",
    "outletCount": 3,
@@ -2938,6 +2865,7 @@
   {
    "id": "4b4beea284",
    "topic": "Justice & Policing",
+   "summary": "No, that didn't actually happen, but it is ripe for the Babylon Bee. In reality, the ACLU has filed a&#8230; The post NH Federal Court Provisionally Certifies Class Of Pregnant ISIS Brides Seeking Birthright Citizenship For Their Children appeared first on Reason.com.",
    "headline": "NH Federal Court Provisionally Certifies Class Of Pregnant ISIS Brides Seeking Birthright Citizenship For Their Children",
    "updated": "2026-08-12T02:08:47+00:00",
    "outletCount": 3,
@@ -2980,8 +2908,79 @@
    ]
   },
   {
+   "id": "61e2a4f5b0",
+   "topic": "Other",
+   "summary": "The last three executions on the same day happened 16 years ago, in Louisiana, Ohio and Texas.",
+   "headline": "Three US states to hold executions on same day for first time since 2010",
+   "updated": "2026-08-13T08:13:08+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Three US states to hold executions on same day for first time since 2010",
+     "url": "https://www.aljazeera.com/news/2026/8/13/three-us-states-to-hold-executions-on-same-day-for-first-time-since-2010?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T08:13:08+00:00",
+     "summary": "The last three executions on the same day happened 16 years ago, in Louisiana, Ohio and Texas."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "3 states are set to hold executions on the same day, a first in the US since 2010",
+     "url": "https://www.pbs.org/newshour/nation/3-states-are-set-to-hold-executions-on-the-same-day-a-first-in-the-us-since-2010",
+     "author": "Jamie Stengle, Associated Press",
+     "kind": "news",
+     "published": "2026-08-12T20:44:11+00:00",
+     "summary": "Tennessee, Alabama and Oklahoma plan to execute inmates Thursday in what would be the first time in nearly 16 years that three people are put to death on the same day in the United States."
+    }
+   ]
+  },
+  {
+   "id": "2730a1f47d",
+   "topic": "Climate & Energy",
+   "summary": "In France, 80 departments have been placed on an orange heat warning The government will look at banning disposable barbecues as wildfires continue to rage across the UK, Andy Burnham has said. Disposable barbecues have been the cause of a number of serious fires over the last few years, but\u2026",
+   "headline": "Europe heatwave live: Temperatures of 40C expected in Spain, with amber heat health warning in place across large parts of UK",
+   "updated": "2026-08-13T08:06:03+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Europe heatwave live: Temperatures of 40C expected in Spain, with amber heat health warning in place across large parts of UK",
+     "url": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
+     "author": "Jakub Krupa",
+     "kind": "news",
+     "published": "2026-08-13T08:06:03+00:00",
+     "summary": "In France, 80 departments have been placed on an orange heat warning The government will look at banning disposable barbecues as wildfires continue to rage across the UK, Andy Burnham has said. Disposable barbecues have been the cause of a number of serious fires over the last few years, but campaigners were critical of the prime minister\u2019s failure to link those fires more broadly to the climate crisis. Macclesfield, Cheshire, July 2026: a large woodland fire that was tackled by dozens of firefi"
+    },
+    {
+     "outlet": "france24",
+     "title": "Parts of Spain plunged into darkness as eclipse moves across Europe",
+     "url": "https://www.france24.com/en/science/20260812-live-millions-skywatchers-europe-prepare-total-solar-eclipse",
+     "author": "Simon FEISTHAUER FOURNET",
+     "kind": "news",
+     "published": "2026-08-12T12:13:29+00:00",
+     "summary": "Parts of Spain were briefly plunged into darkness on Wednesday as a solar eclipse that began in Iceland and the Arctic progressed across the continent. It was the first total eclipse to be seen from mainland Europe in two decades. Read our blog to see how the event unfolded."
+    }
+   ]
+  },
+  {
    "id": "a72406da5e",
    "topic": "Politics",
+   "summary": "President Trump said Wednesday that the U.S. has \"total control\" over the Strait of Hormuz, writing on social media: \"I THINK WE WILL KEEP IT.\"",
    "headline": "The Trump Administration's Hormuz Oil Numbers Don't Add Up",
    "updated": "2026-08-13T07:58:50+00:00",
    "outletCount": 2,
@@ -3016,6 +3015,7 @@
   {
    "id": "416e523b88",
    "topic": "Tech",
+   "summary": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
    "headline": "Twitch faces backlash over Amazon using content to train AI",
    "updated": "2026-08-13T07:32:07+00:00",
    "outletCount": 2,
@@ -3050,6 +3050,7 @@
   {
    "id": "28f7453117",
    "topic": "Other",
+   "summary": "As the situation unfolded, cabin crew members turned off the aircraft's Wi-Fi functionality for about 30 minutes.",
    "headline": "Mystery Wi-Fi network aboard flight raises \u2018unusual\u2019 alarm about travelers\u2019 information",
    "updated": "2026-08-13T06:36:20+00:00",
    "outletCount": 2,
@@ -3083,6 +3084,7 @@
   {
    "id": "3ae74db781",
    "topic": "Other",
+   "summary": "Dodgers' Freddie Freeman says he is sore basically everywhere, but appears to have escaped serious injury after falling into Royals dugout.",
    "headline": "Dodgers' Freddie Freeman appears to avoid serious injury in fall down dugout steps",
    "updated": "2026-08-13T06:30:55+00:00",
    "outletCount": 2,
@@ -3116,6 +3118,7 @@
   {
    "id": "5c6f2ae2d3",
    "topic": "Other",
+   "summary": "The warning comes as European countries step up efforts to disrupt Russia's maritime oil trade and its so-called shadow fleet.",
    "headline": "Putin threatens to seize European ships",
    "updated": "2026-08-13T05:59:52+00:00",
    "outletCount": 2,
@@ -3148,8 +3151,44 @@
    ]
   },
   {
+   "id": "29ada94471",
+   "topic": "Other",
+   "summary": "Three men in Tennessee, Alabama and Oklahoma are scheduled for lethal injection Thursday in a rare convergence of executions on the same day in the U.S.",
+   "headline": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
+   "updated": "2026-08-13T05:43:43+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "npr",
+     "title": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
+     "url": "https://www.npr.org/2026/08/13/g-s1-138552/us-same-day-executions",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-13T05:43:43+00:00",
+     "summary": "Three men in Tennessee, Alabama and Oklahoma are scheduled for lethal injection Thursday in a rare convergence of executions on the same day in the U.S."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Three men will be executed on the same day as death penalties rise in US",
+     "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T20:52:20+00:00",
+     "summary": "Despite growing opposition to the death penalty, one state is behind the rising numbers."
+    }
+   ]
+  },
+  {
    "id": "824398075f",
    "topic": "Other",
+   "summary": "Everything on UFC 330: the full 11-bout card, start times for all three blocks, how to watch on Paramount+, and why only four ranked fighters are on it.",
    "headline": "'Nasty Monster' Islam Makhachev Vs. 'Confident' Ian Machado Garry And Sleeper Fights On UFC 330",
    "updated": "2026-08-13T05:13:00+00:00",
    "outletCount": 2,
@@ -3184,6 +3223,7 @@
   {
    "id": "33aa702d71",
    "topic": "Climate & Energy",
+   "summary": "Up to 40km of coastline affected by oil pollution, Omani environmental authority says.",
    "headline": "Oman says oil spill from stricken tanker has reached its coast",
    "updated": "2026-08-13T04:26:11+00:00",
    "outletCount": 2,
@@ -3217,6 +3257,7 @@
   {
    "id": "800ba5d56d",
    "topic": "Politics",
+   "summary": "The latest numbers suggest a competitive race, but they don&#039;t necessarily signal immediate trouble for Collins.",
    "headline": "New Maine Senate Poll Shows Susan Collins Slipping as Midterms Loom",
    "updated": "2026-08-13T03:15:09+00:00",
    "outletCount": 2,
@@ -3249,69 +3290,36 @@
    ]
   },
   {
-   "id": "04afd39927",
-   "topic": "World",
-   "headline": "Top IRGC Adviser Says Iran Could Prolong War to Outlast Trump \u2014 U.S. Vows to Keep \u2018Wall of Steel\u2019 Blockade",
-   "updated": "2026-08-13T02:34:36+00:00",
+   "id": "cce01fc198",
+   "topic": "Climate & Energy",
+   "summary": "A partial solar eclipse illuminated Paris\u2019s sky over the city\u2019s iconic Eiffel Tower.",
+   "headline": "Solar eclipse carves Eiffel Tower\u2019s silhouette in Paris sky",
+   "updated": "2026-08-13T02:42:24+00:00",
    "outletCount": 2,
    "counts": {
-    "family": 1,
-    "corp": 1
+    "pub": 2
    },
    "newsCount": 2,
    "opinionCount": 0,
-   "underreported": false,
+   "underreported": true,
    "articles": [
     {
-     "outlet": "breitbart",
-     "title": "Top IRGC Adviser Says Iran Could Prolong War to Outlast Trump \u2014 U.S. Vows to Keep \u2018Wall of Steel\u2019 Blockade",
-     "url": "https://www.breitbart.com/politics/2026/08/12/top-irgc-adviser-iran-could-prolong-war-outlast-trump/",
-     "author": "Joshua Klein",
+     "outlet": "aljazeera",
+     "title": "Solar eclipse carves Eiffel Tower\u2019s silhouette in Paris sky",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-13T02:34:36+00:00",
-     "summary": "A top adviser to the commander of Iran\u2019s IRGC said Tehran could deliberately prolong its war with the United States in an effort to outlast President Donald Trump, as Washington doubles down on a \u201cWALL OF STEEL\u201d naval blockade that U.S. and Israeli officials say is steadily worsening the Islamic Republic\u2019s economic crisis. The post Top IRGC Adviser Says Iran Could Prolong War to Outlast Trump \u2014 U.S. Vows to Keep \u2018Wall of Steel\u2019 Blockade appeared first on Breitbart ."
+     "published": "2026-08-13T02:42:24+00:00",
+     "summary": "A partial solar eclipse illuminated Paris\u2019s sky over the city\u2019s iconic Eiffel Tower."
     },
     {
-     "outlet": "slate",
-     "title": "The Iran War Is Going So Well That Trump Is Resorting to Wacky Hijinks to Stay Safe",
-     "url": "https://slate.com/news-and-politics/2026/08/trump-airplane-catering-truck-box-iran-war-turkey.html?via=rss",
-     "author": "Ian Prasad Philbrick",
+     "outlet": "dw",
+     "title": "Solar eclipse: What to look forward to",
+     "url": "https://www.dw.com/en/solar-eclipse-what-to-look-forward-to/a-78330594?maca=en-rss-en-all-1573-rdf",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-11T19:25:04+00:00",
-     "summary": "Our very cool and normal era continues."
-    }
-   ]
-  },
-  {
-   "id": "2e24d7b3b9",
-   "topic": "Culture & Sport",
-   "headline": "FedEx Cup Playoffs Begin: Here Are Three Players To Watch",
-   "updated": "2026-08-13T02:09:53+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "forbes",
-     "title": "FedEx Cup Playoffs Begin: Here Are Three Players To Watch",
-     "url": "https://www.forbes.com/sites/break80/2026/08/12/fedex-cup-playoffs-begin-here-are-three-players-to-watch/",
-     "author": "Tim Corlett, Contributor",
-     "kind": "news",
-     "published": "2026-08-13T02:09:53+00:00",
-     "summary": "Jordan Spieth is chasing his first top-10 finish, rookie Jackson Koivun is fighting to extend his season, and Scottie Scheffler is looking for another win as the FedEx Cup Playoffs begin."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Here are the races you should watch today",
-     "url": "https://www.washingtonpost.com/politics/2026/08/11/here-are-races-you-should-watch-today/",
-     "author": "Dan Merica",
-     "kind": "news",
-     "published": "2026-08-11T09:56:25+00:00",
-     "summary": "Primary season is coming to a close, and today is the most crowded day left on the calendar."
+     "published": "2026-08-12T07:50:00+00:00",
+     "summary": "The last solar eclipse visible from the European mainland was in 1999. Here's what to expect, and how to prepare for this rare occasion."
     }
    ]
   }

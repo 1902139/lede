@@ -1,4 +1,18 @@
 {
  "note": "Daily snapshot of coverage share by ownership class. Populated by fetch_news.py.",
- "days": []
+ "days": [
+  {
+   "date": "2026-08-13",
+   "articles": 252,
+   "stories": 60,
+   "share": {
+    "pub": 17.1,
+    "nonprofit": 19.0,
+    "family": 36.9,
+    "corp": 25.0,
+    "coop": 2.0
+   }
+  }
+ ],
+ "updated": "2026-08-13T08:26:13.583932+00:00"
 }
