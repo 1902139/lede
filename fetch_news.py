@@ -47,6 +47,9 @@ def _find_ownership():
 OWNERSHIP = _find_ownership()
 ROOT = OWNERSHIP.parent
 OUT = ROOT / "stories.json"
+FEED_OUT = ROOT / "feed.xml"
+UNDER_OUT = ROOT / "underreported.xml"
+HIST_OUT = ROOT / "history.json"
 
 WINDOW_HOURS = 72          # only cluster articles this recent
 MAX_STORIES = 60           # stories shown on the site
@@ -55,6 +58,7 @@ SHARED_JOIN = 3            # or at least this many shared significant tokens
 UNDERREPORTED_CORP_SHARE = 0.34  # corp+family share at or below this => underreported
 # Mozilla-prefixed so WAFs don't reject us, but self-identifying with a contact URL.
 USER_AGENT = ("Mozilla/5.0 (compatible; LedeBot/1.0; +https://github.com/1902139/lede) feedparser")
+SITE_URL = "https://1902139.github.io/lede/"
 FEED_TIMEOUT = 12          # seconds per feed — stops dead hosts stalling the whole run
 
 STOPWORDS = set("""
@@ -215,9 +219,15 @@ def shape(clusters, outlets):
         lead = next((a for a in arts if outlets[a["outlet"]]["type"] in ("nonprofit", "pub")), arts[0])
         sid = hashlib.md5((lead["title"] + lead["url"]).encode()).hexdigest()[:10]
         topic_src = " ".join(a["title"] for a in arts)
+        summary = next((a.get("summary") for a in arts if a.get("summary")
+                        and len(a["summary"]) > 60), None)
+        if summary and len(summary) > 300:
+            cut = summary[:300].rsplit(" ", 1)[0]
+            summary = cut + "…"
         stories.append({
             "id": sid,
             "topic": classify_topic(topic_src),
+            "summary": summary,
             "headline": lead["title"],
             "updated": arts[0]["published"],
             "outletCount": len({a["outlet"] for a in arts}),
@@ -232,6 +242,85 @@ def shape(clusters, outlets):
     stories.sort(key=lambda s: s["updated"], reverse=True)
     stories.sort(key=lambda s: -s["outletCount"])
     return stories[:MAX_STORIES]
+
+
+def _x(t):
+    """escape text for XML"""
+    return (str(t or "").replace("&", "&amp;").replace("<", "&lt;")
+            .replace(">", "&gt;").replace('"', "&quot;"))
+
+
+def own_sentence(story, outlets):
+    parts = []
+    for k, label in (("corp", "corporate"), ("family", "billionaire/family"),
+                     ("coop", "worker-owned"), ("nonprofit", "nonprofit"), ("pub", "public")):
+        n = story["counts"].get(k, 0)
+        if n:
+            parts.append(f"{n} {label}")
+    return "Covered by " + ", ".join(parts) + "."
+
+
+def write_rss(path, title, desc, stories, outlets):
+    now = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
+    items = []
+    for st in stories:
+        pub = datetime.fromisoformat(st["updated"]).strftime("%a, %d %b %Y %H:%M:%S +0000")
+        lead = st["articles"][0]
+        body = st.get("summary") or ""
+        desc_txt = (f"{body}<br><br>" if body else "") + _x(own_sentence(st, outlets)) + \
+                   "<br>Sources: " + ", ".join(
+                       sorted({outlets[a["outlet"]]["name"] for a in st["articles"]}))
+        items.append(f"""  <item>
+    <title>{_x(st['headline'])}</title>
+    <link>{_x(SITE_URL)}#s/{st['id']}</link>
+    <guid isPermaLink="false">lede-{st['id']}</guid>
+    <pubDate>{pub}</pubDate>
+    <category>{_x(st.get('topic') or 'Other')}</category>
+    <description>{_x(desc_txt)}</description>
+  </item>""")
+    xml = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>{_x(title)}</title>
+  <link>{_x(SITE_URL)}</link>
+  <atom:link href="{_x(SITE_URL + path.name)}" rel="self" type="application/rss+xml"/>
+  <description>{_x(desc)}</description>
+  <language>en</language>
+  <lastBuildDate>{now}</lastBuildDate>
+{chr(10).join(items)}
+</channel>
+</rss>
+"""
+    path.write_text(xml)
+
+
+def update_history(stories, outlets):
+    """Append one snapshot per day of how concentrated coverage was."""
+    try:
+        hist = json.loads(HIST_OUT.read_text())
+    except Exception:
+        hist = {"note": "Daily snapshot of coverage share by ownership class.", "days": []}
+    totals, total = {}, 0
+    for st in stories:
+        for k, n in st["counts"].items():
+            totals[k] = totals.get(k, 0) + n
+            total += n
+    if not total:
+        return hist
+    today = datetime.now(timezone.utc).date().isoformat()
+    entry = {
+        "date": today,
+        "articles": total,
+        "stories": len(stories),
+        "share": {k: round(v / total * 100, 1) for k, v in totals.items()},
+    }
+    days = [d for d in hist.get("days", []) if d.get("date") != today]
+    days.append(entry)
+    days.sort(key=lambda d: d["date"])
+    hist["days"] = days[-400:]          # a bit over a year
+    hist["updated"] = datetime.now(timezone.utc).isoformat()
+    HIST_OUT.write_text(json.dumps(hist, indent=1))
+    return hist
 
 
 def main():
@@ -258,6 +347,16 @@ def main():
         "stories": stories,
     }, indent=1))
     print(f"wrote {OUT} with {len(stories)} stories", file=sys.stderr)
+
+    write_rss(FEED_OUT, "Lede — all stories",
+              "News grouped by who owns the outlets covering it.", stories, outlets)
+    under = [s2 for s2 in stories if s2.get("underreported") and s2["outletCount"] >= 2]
+    write_rss(UNDER_OUT, "Lede — underreported",
+              "Stories whose coverage is concentrated outside corporate and billionaire-owned media.",
+              under, outlets)
+    hist = update_history(stories, outlets)
+    print(f"wrote feed.xml ({len(stories)}), underreported.xml ({len(under)}), "
+          f"history.json ({len(hist.get('days', []))} days)", file=sys.stderr)
 
 
 if __name__ == "__main__":

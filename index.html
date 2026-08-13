@@ -8,6 +8,8 @@
 <meta name="theme-color" content="#fcfcfb" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#1a1a19" media="(prefers-color-scheme: dark)">
 <link rel="canonical" href="https://1902139.github.io/lede/">
+<link rel="alternate" type="application/rss+xml" title="Lede — all stories" href="feed.xml">
+<link rel="alternate" type="application/rss+xml" title="Lede — underreported" href="underreported.xml">
 
 <!-- link previews (what people see when this URL is shared) -->
 <meta property="og:type" content="website">
@@ -165,6 +167,20 @@
   .method-card .vs { font-size: 12px; font-weight: 700; color: #d03b3b; text-transform: uppercase; letter-spacing: 0.4px; }
   .method-card .soon { font-size: 12px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.4px; }
   .empty { text-align: center; color: var(--ink-2); padding: 40px 20px; font-size: 14px; }
+  .story-sum { color: var(--ink-2); font-size: 13.5px; margin-top: 6px; line-height: 1.45; }
+  .detail-sum { color: var(--ink-2); font-size: 14.5px; line-height: 1.5; margin: 10px 0 4px; max-width: 70ch; }
+  .copy-btn { appearance: none; font: inherit; font-size: 12.5px; font-weight: 600; cursor: pointer;
+    color: var(--ink-2); background: var(--surface); border: 1px solid var(--grid);
+    border-radius: 8px; padding: 6px 12px; margin-left: 8px; }
+  .copy-btn:hover { color: var(--ink); border-color: var(--baseline); }
+  .copy-btn.done { color: var(--good-text); border-color: var(--good-text); }
+  .trend { margin-top: 14px; border-top: 1px solid var(--grid); padding-top: 12px; }
+  .trend h6 { font-size: 11px; text-transform: uppercase; letter-spacing: .5px; color: var(--muted); font-weight: 700; margin-bottom: 7px; }
+  .trend svg { width: 100%; height: 84px; display: block; }
+  .trend .cap { font-size: 11.5px; color: var(--muted); margin-top: 5px; }
+  .subscribe { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 10px; font-size: 13px; color: var(--ink-2); }
+  .subscribe a { font-weight: 600; }
+
   /* ownership overview */
   .overview { background: var(--surface); border: 1px solid var(--ring); border-radius: 12px; padding: 16px 18px; margin-bottom: 16px; }
   .ov-lead { font-size: 15px; line-height: 1.5; margin-bottom: 12px; }
@@ -296,7 +312,7 @@ const OWN_TYPES = {
 const ORDER = ["corp","family","coop","nonprofit","pub"];
 const $ = (s, el=document) => el.querySelector(s);
 const esc = s => String(s ?? "").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/"/g,"&quot;");
-let OUTLETS = {}, STORIES = [], GENERATED = null, AUTHORS = {};
+let OUTLETS = {}, STORIES = [], GENERATED = null, AUTHORS = {}, HISTORY = { days: [] };
 
 const FLAG_LABELS = {
   "sensational": "sensational headline",
@@ -331,6 +347,54 @@ function toggleTheme() {
 }
 applyTheme(currentTheme());
 
+/* ---------- permalinks ---------- */
+function copyStoryLink(id) {
+  const url = location.origin + location.pathname + "#s/" + id;
+  const btn = document.getElementById("copy-btn");
+  const done = () => { if (btn) { btn.textContent = "Link copied ✓"; btn.classList.add("done");
+    setTimeout(() => { btn.textContent = "Copy link to this story"; btn.classList.remove("done"); }, 2200); } };
+  if (navigator.clipboard) navigator.clipboard.writeText(url).then(done, () => prompt("Copy this link:", url));
+  else prompt("Copy this link:", url);
+}
+function routeFromHash() {
+  const m = (location.hash || "").match(/^#s\/([a-z0-9]+)$/i);
+  if (m && STORIES.some(x => x.id === m[1])) { openStory(m[1], true); return true; }
+  return false;
+}
+window.addEventListener("hashchange", () => {
+  if (routeFromHash()) return;
+  // unknown or cleared hash -> back to the feed rather than stranding the reader
+  if (location.hash) history.replaceState(null, "", location.pathname);
+  show("feed");
+});
+
+/* ---------- history trend ---------- */
+function trendPanel() {
+  const days = (HISTORY.days || []).filter(d => d.share);
+  if (days.length < 3) return "";
+  const pts = days.map(d => (d.share.corp || 0) + (d.share.family || 0));
+  const W = 600, H = 84, PAD = 6;
+  const min = Math.max(0, Math.min(...pts) - 5), max = Math.min(100, Math.max(...pts) + 5);
+  const span = (max - min) || 1;
+  const x = i => PAD + i * (W - PAD * 2) / Math.max(1, pts.length - 1);
+  const y = v => H - PAD - ((v - min) / span) * (H - PAD * 2);
+  const line = pts.map((v, i) => `${i ? "L" : "M"}${x(i).toFixed(1)},${y(v).toFixed(1)}`).join(" ");
+  const area = `${line} L${x(pts.length-1).toFixed(1)},${H} L${x(0).toFixed(1)},${H} Z`;
+  const last = pts[pts.length - 1], first = pts[0];
+  const delta = (last - first).toFixed(1);
+  return `<div class="trend"><h6>Corporate + billionaire share of coverage</h6>
+    <svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img"
+      aria-label="Corporate and billionaire share over ${pts.length} days, currently ${last.toFixed(0)} percent">
+      <path d="${area}" fill="var(--own-corp)" opacity="0.12"/>
+      <path d="${line}" fill="none" stroke="var(--own-corp)" stroke-width="2"
+        stroke-linejoin="round" stroke-linecap="round"/>
+      <circle cx="${x(pts.length-1).toFixed(1)}" cy="${y(last).toFixed(1)}" r="4"
+        fill="var(--own-corp)" stroke="var(--surface)" stroke-width="2"/>
+    </svg>
+    <div class="cap">${days[0].date} → ${days[days.length-1].date} · now ${last.toFixed(0)}%,
+      ${delta >= 0 ? "up" : "down"} ${Math.abs(delta)} points over ${pts.length} days tracked</div></div>`;
+}
+
 /* ---------- ownership overview ---------- */
 function overviewPanel() {
   const totals = {};
@@ -356,6 +420,10 @@ function overviewPanel() {
     <div class="ov-bar">${segs}</div>
     <div class="ov-key">${key}</div>
     <div class="ov-foot">Across the ${Object.keys(OUTLETS).length} outlets Lede follows. Shares reflect who publishes most, not who is most read.</div>
+    ${trendPanel()}
+    <div class="subscribe">Subscribe:
+      <a href="feed.xml">All stories (RSS)</a> ·
+      <a href="underreported.xml">Underreported only (RSS)</a></div>
   </div>`;
 }
 
@@ -470,6 +538,7 @@ function storyCard(s) {
   return `<article class="card clickable" onclick="openStory('${s.id}')">
     <div class="story-meta">${s.topic ? `<span class="topic-tag">${esc(s.topic)}</span>` : ""}<span>${s.outletCount} outlet${s.outletCount>1?"s":""}</span><span>${ago(s.updated)}</span></div>
     <div class="story-h">${esc(s.headline)}</div>
+    ${s.summary ? `<div class="story-sum">${esc(s.summary)}</div>` : ""}
     ${ownBar(s.counts)}${chipRow(s)}</article>`;
 }
 
@@ -500,13 +569,16 @@ function ownPanel(o) {
     ${recordHTML(o)}</div>`;
 }
 
-function openStory(id) {
+function openStory(id, fromHash) {
   const s = STORIES.find(x => x.id === id);
   if (!s) return;
+  if (!fromHash && location.hash !== '#s/' + id) history.replaceState(null, '', '#s/' + id);
   $("#view-detail").innerHTML = `
-    <button class="back-btn" onclick="show('feed')">← All stories</button>
-    <div class="story-meta"><span>${s.outletCount} outlet${s.outletCount>1?"s":""}</span><span>${ago(s.updated)}</span></div>
+    <button class="back-btn" onclick="history.replaceState(null,'',location.pathname);show('feed')">← All stories</button>
+    <button class="copy-btn" id="copy-btn" onclick="copyStoryLink('${s.id}')">Copy link to this story</button>
+    <div class="story-meta">${s.topic ? `<span class="topic-tag">${esc(s.topic)}</span>` : ""}<span>${s.outletCount} outlet${s.outletCount>1?"s":""}</span><span>${ago(s.updated)}</span></div>
     <h2 class="view-title" style="font-size:21px">${esc(s.headline)}</h2>
+    ${s.summary ? `<div class="detail-sum">${esc(s.summary)}<span style="color:var(--muted);font-size:12px"> — summary from ${esc(OUTLETS[s.articles[0].outlet].name)}'s own feed</span></div>` : ""}
     ${ownBar(s.counts)}${chipRow(s)}
     <div style="height:16px"></div>
     ${s.articles.map((a,i) => {
@@ -611,8 +683,13 @@ function renderAbout() {
       </div>
     </div>
     <div class="why-box" style="margin-top:16px"><b>Open by design:</b> the feed list, the ownership database,
-    and the clustering code are all in this site's repository. If you think an ownership note is wrong,
-    open an issue — corrections are part of the product.</div>`;
+    the accountability records and the clustering code are all public in
+    <a href="https://github.com/1902139/lede" target="_blank" rel="noopener"><b>this site's repository</b></a>.
+    Think an ownership note or a record is wrong?
+    <a href="https://github.com/1902139/lede/issues/new" target="_blank" rel="noopener"><b>Tell us</b></a> —
+    corrections are part of the product, not an afterthought.<br><br>
+    <b>Subscribe:</b> <a href="feed.xml">all stories</a> or
+    <a href="underreported.xml">underreported only</a> by RSS.</div>`;
 }
 
 function show(view) {
@@ -635,18 +712,20 @@ async function boot() {
       if (fallback !== undefined) return fallback;
       throw new Error("could not load " + name);
     };
-    const [own, data, auth] = await Promise.all([
+    const [own, data, auth, hist] = await Promise.all([
       grab("ownership.json"),
       grab("stories.json"),
-      grab("authors.json", { authors: {} })
+      grab("authors.json", { authors: {} }),
+      grab("history.json", { days: [] })
     ]);
     OUTLETS = own.outlets;
     AUTHORS = auth.authors || {};
+    HISTORY = hist || { days: [] };
     STORIES = data.stories || [];
     GENERATED = data.generated;
     $("#gen-badge").textContent = `Updated ${ago(GENERATED)} · ${data.feedsOk}/${data.feedsTotal} feeds`;
     renderFeed(); renderUnder(); renderOutlets(); renderAbout();
-    show("feed");
+    if (!routeFromHash()) show("feed");
   } catch (e) {
     $("#gen-badge").textContent = "no data";
     $("#view-feed").innerHTML = `<div class="empty">Couldn't load story data.<br><br>

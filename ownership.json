@@ -776,7 +776,17 @@
      "url": "https://feeds.businessinsider.com/custom/all",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2025,
+      "text": "Removed about 40 essays with suspect bylines tied to AI-generated fake freelancers."
+     }
+    ],
+    "correctionsPolicy": "unclear",
+    "policyUrl": null
+   }
   },
   "cnbc": {
    "name": "CNBC",
@@ -794,7 +804,17 @@
      "url": "https://search.cnbc.com/rs/search/combinedcgi?partnerId=wrss01&id=100003114",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2025,
+      "text": "Corrected an on-air report of a Trump tariff pause it later called unconfirmed."
+     }
+    ],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://www.cnbc.com/corrections/"
+   }
   },
   "thehill": {
    "name": "The Hill",
@@ -838,7 +858,17 @@
      "url": "https://api.axios.com/feed/",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2020,
+      "text": "Apologized after incorrectly reporting that Bernie Sanders had suspended his presidential campaign."
+     }
+    ],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://www.axios.com/about/ethics"
+   }
   },
   "newsweek": {
    "name": "Newsweek",
@@ -883,7 +913,17 @@
      "url": "https://www.vox.com/rss/index.xml",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2015,
+      "text": "Retracted a 2014 article on a same-sex marriage canvassing study built on fabricated data."
+     }
+    ],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://www.vox.com/2018/12/7/18113237/ethics-and-guidelines-at-vox-com"
+   }
   },
   "theverge": {
    "name": "The Verge",
@@ -901,7 +941,12 @@
      "url": "https://www.theverge.com/rss/index.xml",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://theverge.zendesk.com/hc/en-us/articles/35590476064531-Ethics-and-Guidelines-at-TheVerge-com"
+   }
   },
   "huffpost": {
    "name": "HuffPost",
@@ -918,7 +963,17 @@
      "url": "https://chaski.huffpost.com/us/auto/vertical/front-page",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2011,
+      "text": "Retracted and apologized for a post falsely stating Andrew Breitbart doctored the Shirley Sherrod video."
+     }
+    ],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://www.huffingtonpost.co.uk/static/corrections"
+   }
   },
   "slate": {
    "name": "Slate",
@@ -936,7 +991,17 @@
      "url": "https://slate.com/feeds/all.rss",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2013,
+      "text": "Retracted and removed an essay asking whether doctors are biased against obese people."
+     }
+    ],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://slate.com/briefing/corrections"
+   }
   },
   "dailybeast": {
    "name": "The Daily Beast",
@@ -953,7 +1018,21 @@
      "url": "https://www.thedailybeast.com/arc/outboundfeeds/rss/articles/",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2010,
+      "text": "Chief investigative reporter Gerald Posner resigned after admitting plagiarism in multiple articles."
+     },
+     {
+      "year": 2026,
+      "text": "Settled a defamation suit by Trump adviser Chris LaCivita over reporting on his pay."
+     }
+    ],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://www.thedailybeast.com/company/code-of-ethics/"
+   }
   },
   "rollingstone": {
    "name": "Rolling Stone",
@@ -1090,7 +1169,21 @@
      "url": "https://time.com/feed/",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2012,
+      "text": "Suspended columnist Fareed Zakaria for a month after he plagiarized a New Yorker passage."
+     },
+     {
+      "year": 2017,
+      "text": "Posted a note to readers after wrongly reporting a King bust was removed from the Oval Office."
+     }
+    ],
+    "correctionsPolicy": "unclear",
+    "policyUrl": null
+   }
   },
   "freepress": {
    "name": "The Free Press",
@@ -1107,7 +1200,12 @@
      "url": "https://www.thefp.com/feed",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "none-found",
+    "policyUrl": null
+   }
   },
   "semafor": {
    "name": "Semafor",
@@ -1124,7 +1222,12 @@
      "url": "https://www.semafor.com/rss.xml",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "none-found",
+    "policyUrl": null
+   }
   },
   "dailywire": {
    "name": "The Daily Wire",
@@ -1191,7 +1294,17 @@
      "url": "https://www.washingtontimes.com/rss/headlines/news/politics",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2018,
+      "text": "Retracted a Seth Rich conspiracy op-ed, apologized, and settled Aaron Rich's defamation suit."
+     }
+    ],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://www.washingtontimes.com/news/corrections/"
+   }
   },
   "marshallproject": {
    "name": "The Marshall Project",
@@ -1362,7 +1475,12 @@
      "url": "https://theconversation.com/us/articles.atom",
      "kind": "analysis"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://theconversation.com/us/corrections"
+   }
   },
   "aljazeera": {
    "name": "Al Jazeera English",
@@ -1408,7 +1526,12 @@
      "url": "https://rss.dw.com/rdf/rss-en-all",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "unclear",
+    "policyUrl": null
+   }
   },
   "france24": {
    "name": "France 24",
@@ -1426,7 +1549,12 @@
      "url": "https://www.france24.com/en/rss",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "unclear",
+    "policyUrl": null
+   }
   },
   "cbc": {
    "name": "CBC News",
@@ -1444,7 +1572,21 @@
      "url": "https://rss.cbc.ca/lineup/topstories.xml",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [
+     {
+      "year": 2000,
+      "text": "An Ontario court awarded Dr. Frans Leenen $950,000 in libel damages over a 1996 Fifth Estate broadcast."
+     },
+     {
+      "year": 2021,
+      "text": "A Manitoba judge ordered CBC to pay $1.7 million for defamation; the ruling was overturned in 2023."
+     }
+    ],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://cbc.radio-canada.ca/en/vision/governance/journalistic-standards-and-practices/corrections"
+   }
   },
   "flaminghydra": {
    "name": "Flaming Hydra",
@@ -1461,7 +1603,12 @@
      "url": "https://flaminghydra.com/feed",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "none-found",
+    "policyUrl": null
+   }
   },
   "racket": {
    "name": "Racket",
@@ -1478,7 +1625,12 @@
      "url": "https://racketmn.com/rss/",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "none-found",
+    "policyUrl": null
+   }
   },
   "rangemedia": {
    "name": "RANGE Media",
@@ -1495,7 +1647,12 @@
      "url": "https://www.rangemedia.co/feed",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "public",
+    "policyUrl": "https://www.rangemedia.co/ethics-policy/"
+   }
   },
   "escapecollective": {
    "name": "Escape Collective",
@@ -1512,7 +1669,12 @@
      "url": "https://escapecollective.com/feed/",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "none-found",
+    "policyUrl": null
+   }
   },
   "dropsite": {
    "name": "Drop Site News",
@@ -1529,7 +1691,12 @@
      "url": "https://www.dropsitenews.com/feed",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "none-found",
+    "policyUrl": null
+   }
   },
   "zeteo": {
    "name": "Zeteo",
@@ -1546,7 +1713,12 @@
      "url": "https://zeteo.com/feed",
      "kind": "news"
     }
-   ]
+   ],
+   "record": {
+    "incidents": [],
+    "correctionsPolicy": "none-found",
+    "policyUrl": null
+   }
   }
  }
 }
