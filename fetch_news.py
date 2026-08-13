@@ -57,8 +57,8 @@ JACCARD_JOIN = 0.20        # title-token similarity to join a cluster
 SHARED_JOIN = 3            # or at least this many shared significant tokens
 UNDERREPORTED_CORP_SHARE = 0.34  # corp+family share at or below this => underreported
 # Mozilla-prefixed so WAFs don't reject us, but self-identifying with a contact URL.
-USER_AGENT = ("Mozilla/5.0 (compatible; LedeBot/1.0; +https://github.com/1902139/lede) feedparser")
-SITE_URL = "https://1902139.github.io/lede/"
+USER_AGENT = ("Mozilla/5.0 (compatible; LedeBot/1.0; +https://github.com/joelbarandi/lede) feedparser")
+SITE_URL = "https://joelbarandi.github.io/lede/"
 FEED_TIMEOUT = 12          # seconds per feed — stops dead hosts stalling the whole run
 
 STOPWORDS = set("""
