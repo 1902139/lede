@@ -434,13 +434,11 @@ function topicRow() {
   const names = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
   if (names.length < 2) return "";
   return `<div class="topicrow">
-    <button class="tchip ${!STATE.topic ? "on" : ""}" onclick="STATE.topic=null;renderFeed()">All topics</button>
-    ${names.map(t => `<button class="tchip ${STATE.topic===t?"on":""}" onclick="STATE.topic=${JSON.stringify(t).replace(/"/g,"&quot;")};renderFeed()">${esc(t)} <span style="opacity:.6">${counts[t]}</span></button>`).join("")}
+    <button class="tchip on" data-topic="" onclick="toggleTopic(null)">All topics</button>
+    ${names.map(t => `<button class="tchip" data-topic="${esc(t)}" onclick="toggleTopic(${JSON.stringify(t).replace(/"/g,"&quot;")})">${esc(t)} <span style="opacity:.6">${counts[t]}</span></button>`).join("")}
   </div>`;
 }
-
-
-const POLICY_LABEL = {
+ POLICY_LABEL = {
   "public": ["✔", "Publishes a corrections policy"],
   "unclear": ["?", "No clear public corrections policy found"],
   "none-found": ["?", "No public corrections policy found"]
@@ -475,11 +473,31 @@ function matches(st) {
 function filterBar() {
   return `<div class="filterbar">
     <div class="search-wrap"><span class="mag">⌕</span>
-      <input id="q" type="search" placeholder="Search headlines and outlets…" value="${esc(STATE.q)}"
-        oninput="STATE.q=this.value;renderFeed();document.getElementById('q').focus()"></div>
-    ${ORDER.map(k => `<button class="fchip ${STATE.cls===k?"on":""}" onclick="STATE.cls = STATE.cls==='${k}' ? null : '${k}'; renderFeed()">${ownDot(k)}${OWN_TYPES[k].label}</button>`).join("")}
-    ${(STATE.q || STATE.cls || STATE.topic) ? `<button class="fchip" onclick="STATE.q='';STATE.cls=null;STATE.topic=null;renderFeed()">Clear</button>` : ""}
+      <input id="q" type="search" autocomplete="off" placeholder="Search headlines and outlets…"
+        oninput="onSearch(this.value)"></div>
+    ${ORDER.map(k => `<button class="fchip" data-cls="${k}" onclick="toggleCls('${k}')">${ownDot(k)}${OWN_TYPES[k].label}</button>`).join("")}
+    <button class="fchip" id="clear-btn" style="display:none" onclick="clearFilters()">Clear</button>
   </div>`;
+}
+
+/* Filter handlers never rebuild the search input — rebuilding it while someone
+   is typing is what sent the cursor back to the start of the line. */
+function onSearch(v) { STATE.q = v; refreshChips(); renderResults(); }
+function toggleCls(k) { STATE.cls = STATE.cls === k ? null : k; refreshChips(); renderResults(); }
+function toggleTopic(t) { STATE.topic = (STATE.topic === t || !t) ? null : t; refreshChips(); renderResults(); }
+function clearFilters() {
+  STATE.q = ""; STATE.cls = null; STATE.topic = null;
+  const box = document.getElementById("q");
+  if (box) box.value = "";
+  refreshChips(); renderResults();
+}
+function refreshChips() {
+  document.querySelectorAll(".fchip[data-cls]").forEach(b =>
+    b.classList.toggle("on", b.dataset.cls === STATE.cls));
+  document.querySelectorAll(".tchip[data-topic]").forEach(b =>
+    b.classList.toggle("on", (b.dataset.topic || "") === (STATE.topic || "")));
+  const c = document.getElementById("clear-btn");
+  if (c) c.style.display = (STATE.q || STATE.cls || STATE.topic) ? "" : "none";
 }
 
 function authorRec(name, outlet) {
@@ -543,10 +561,8 @@ function storyCard(s) {
 }
 
 function renderFeed() {
-  const shown = STORIES.filter(matches);
-  const multi = shown.filter(s => s.outletCount >= 2);
-  const single = shown.filter(s => s.outletCount === 1).slice(0, 12);
-  const filtering = STATE.q || STATE.cls || STATE.topic;
+  // Shell is built once per data load; only #feed-results changes as you filter,
+  // so the search box is never destroyed mid-typing.
   $("#view-feed").innerHTML = `
     <h2 class="view-title">Top stories</h2>
     <p class="view-intro">No left–right bar. Each story shows <strong>who owns the outlets covering it</strong>.
@@ -554,10 +570,25 @@ function renderFeed() {
     ${overviewPanel()}
     ${filterBar()}
     ${topicRow()}
+    <div id="feed-results"></div>`;
+  const box = document.getElementById("q");
+  if (box) box.value = STATE.q;
+  refreshChips();
+  renderResults();
+}
+
+function renderResults() {
+  const shown = STORIES.filter(matches);
+  const multi = shown.filter(s => s.outletCount >= 2);
+  const single = shown.filter(s => s.outletCount === 1).slice(0, 12);
+  const filtering = STATE.q || STATE.cls || STATE.topic;
+  const el = document.getElementById("feed-results");
+  if (!el) return;
+  el.innerHTML = `
     ${filtering ? `<div class="result-note">${multi.length + single.length} of ${STORIES.length} stories${STATE.cls ? ` with ${OWN_TYPES[STATE.cls].label.toLowerCase()} coverage` : ""}${STATE.topic ? ` in ${esc(STATE.topic)}` : ""}${STATE.q ? ` matching “${esc(STATE.q)}”` : ""}</div>` : ""}
     ${multi.length ? multi.map(storyCard).join("") : (filtering ? "" : `<div class="empty">No multi-outlet stories in the current window.</div>`)}
     ${single.length ? `<h2 class="view-title" style="margin-top:26px">${multi.length ? "More from single outlets" : "From single outlets"}</h2>` + single.map(storyCard).join("") : ""}
-    ${(!multi.length && !single.length) ? `<div class="empty">Nothing matches that.<br><br><button class="fchip" onclick="STATE.q='';STATE.cls=null;STATE.topic=null;renderFeed()">Clear filters</button></div>` : ""}`;
+    ${(!multi.length && !single.length) ? `<div class="empty">Nothing matches that.<br><br><button class="fchip" onclick="clearFilters()">Clear filters</button></div>` : ""}`;
 }
 
 function ownPanel(o) {
