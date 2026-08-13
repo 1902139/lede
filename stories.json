@@ -1,11 +1,12 @@
 {
- "generated": "2026-08-13T07:57:32.822725+00:00",
+ "generated": "2026-08-13T08:05:19.654665+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
   {
    "id": "e1c23a27ae",
+   "topic": "Politics",
    "headline": "Leavitt to leave as White House press secretary",
    "updated": "2026-08-13T04:58:49+00:00",
    "outletCount": 16,
@@ -185,6 +186,7 @@
   },
   {
    "id": "531a1d9b4f",
+   "topic": "Justice & Policing",
    "headline": "Trump administration plans to give ICE officers electric-shock gloves",
    "updated": "2026-08-13T01:39:44+00:00",
    "outletCount": 13,
@@ -338,6 +340,7 @@
   },
   {
    "id": "a6ae88836d",
+   "topic": "World",
    "headline": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
    "updated": "2026-08-13T06:11:44+00:00",
    "outletCount": 9,
@@ -436,6 +439,7 @@
   },
   {
    "id": "ecdbbb3311",
+   "topic": "Justice & Policing",
    "headline": "Media groups sue Trump over paid access to public social media posts",
    "updated": "2026-08-12T23:23:00+00:00",
    "outletCount": 8,
@@ -534,6 +538,7 @@
   },
   {
    "id": "007ec0d9d7",
+   "topic": "Politics",
    "headline": "Bob Iger, Josh Kushner to Purchase Los Angeles Lakers for $12.5 Billion",
    "updated": "2026-08-13T01:24:50+00:00",
    "outletCount": 7,
@@ -613,6 +618,7 @@
   },
   {
    "id": "235863b9bf",
+   "topic": "Justice & Policing",
    "headline": "Trump administration arrests Southern Poverty Law Center expert for fraud",
    "updated": "2026-08-12T23:23:14+00:00",
    "outletCount": 7,
@@ -693,6 +699,7 @@
   },
   {
    "id": "a6580aec0e",
+   "topic": "Justice & Policing",
    "headline": "Executive order on vaccines bypasses an evidence-based process that has kept kids safe",
    "updated": "2026-08-12T17:13:13+00:00",
    "outletCount": 7,
@@ -772,6 +779,7 @@
   },
   {
    "id": "40feff2fda",
+   "topic": "World",
    "headline": "Israeli militants besiege two Palestinian families in their West Bank homes",
    "updated": "2026-08-13T06:45:27+00:00",
    "outletCount": 6,
@@ -843,6 +851,7 @@
   },
   {
    "id": "395221fef8",
+   "topic": "World",
    "headline": "Two dead after military helicopter crashes in Texas",
    "updated": "2026-08-13T02:47:34+00:00",
    "outletCount": 6,
@@ -914,6 +923,7 @@
   },
   {
    "id": "b19be7c247",
+   "topic": "Politics",
    "headline": "In Wisconsin, David Crowley defeats Francesca Hong in Democratic primary for governor",
    "updated": "2026-08-12T22:58:50+00:00",
    "outletCount": 6,
@@ -1002,6 +1012,7 @@
   },
   {
    "id": "70c9c43a98",
+   "topic": "Politics",
    "headline": "Trump-backed Mike Lindell loses primary for Minnesota governor to Lisa Demuth",
    "updated": "2026-08-12T17:10:53+00:00",
    "outletCount": 6,
@@ -1072,6 +1083,7 @@
   },
   {
    "id": "36a48296aa",
+   "topic": "Business & Economy",
    "headline": "$1.04 billion Powerball jackpot won in Illinois",
    "updated": "2026-08-13T06:22:00+00:00",
    "outletCount": 5,
@@ -1132,6 +1144,7 @@
   },
   {
    "id": "fd5c3f75cb",
+   "topic": "Justice & Policing",
    "headline": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
    "updated": "2026-08-13T06:21:25+00:00",
    "outletCount": 5,
@@ -1193,6 +1206,7 @@
   },
   {
    "id": "aa4ba441ad",
+   "topic": "Business & Economy",
    "headline": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
    "updated": "2026-08-13T04:00:25+00:00",
    "outletCount": 5,
@@ -1253,6 +1267,7 @@
   },
   {
    "id": "daa787c625",
+   "topic": "Politics",
    "headline": "Former Secret Service agent discusses Trump's Air Force One switch",
    "updated": "2026-08-12T21:37:33+00:00",
    "outletCount": 5,
@@ -1314,6 +1329,7 @@
   },
   {
    "id": "7497eb156b",
+   "topic": "Politics",
    "headline": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
    "updated": "2026-08-13T06:22:11+00:00",
    "outletCount": 4,
@@ -1366,6 +1382,7 @@
   },
   {
    "id": "ef06ad162f",
+   "topic": "World",
    "headline": "Japan protests against Putin visit to disputed islands",
    "updated": "2026-08-13T06:21:31+00:00",
    "outletCount": 4,
@@ -1417,6 +1434,7 @@
   },
   {
    "id": "3a56ea9c80",
+   "topic": "Politics",
    "headline": "Rep. Max Miller\u2019s ex-wife sues congressman over \u2018nude image\u2019 of their\u00a02-year-old daughter",
    "updated": "2026-08-13T03:45:28+00:00",
    "outletCount": 4,
@@ -1468,6 +1486,7 @@
   },
   {
    "id": "b90df562e1",
+   "topic": "Politics",
    "headline": "Trump says Secret Service wanted him on a \"different plane,\" new details on switch emerge",
    "updated": "2026-08-13T02:07:00+00:00",
    "outletCount": 4,
@@ -1519,6 +1538,7 @@
   },
   {
    "id": "b6f7e2096c",
+   "topic": "Justice & Policing",
    "headline": "Nick Reiner indicted on murder charges in parents' killings at their LA home",
    "updated": "2026-08-13T01:08:46+00:00",
    "outletCount": 4,
@@ -1570,6 +1590,7 @@
   },
   {
    "id": "85924de0c1",
+   "topic": "Culture & Sport",
    "headline": "Triple-double king Russell Westbrook calls time on 18-year NBA career",
    "updated": "2026-08-13T01:00:24+00:00",
    "outletCount": 4,
@@ -1622,6 +1643,7 @@
   },
   {
    "id": "50b18ce1a8",
+   "topic": "Other",
    "headline": "Hong\u2019s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party",
    "updated": "2026-08-13T00:48:12+00:00",
    "outletCount": 4,
@@ -1673,6 +1695,7 @@
   },
   {
    "id": "2c4eea2502",
+   "topic": "Business & Economy",
    "headline": "Josh Kushner and Bob Iger reportedly buying Los Angeles Lakers for $12.5bn",
    "updated": "2026-08-13T00:46:04+00:00",
    "outletCount": 4,
@@ -1725,6 +1748,7 @@
   },
   {
    "id": "b4f37482cd",
+   "topic": "Politics",
    "headline": "Michigan progressive Abdul El-Sayed won a combative Democratic nomination for US Senate \u2013 he\u2019ll face new attacks this fall",
    "updated": "2026-08-13T00:29:32+00:00",
    "outletCount": 4,
@@ -1776,6 +1800,7 @@
   },
   {
    "id": "4953d0bead",
+   "topic": "Politics",
    "headline": "A DSA Candidate Lost a Messy Race for Wisconsin Governor",
    "updated": "2026-08-12T22:51:15+00:00",
    "outletCount": 4,
@@ -1836,6 +1861,7 @@
   },
   {
    "id": "4eceb09336",
+   "topic": "Politics",
    "headline": "Report suggests a threat forced Trump to switch aircraft as he departed NATO summit",
    "updated": "2026-08-12T18:51:16+00:00",
    "outletCount": 4,
@@ -1888,6 +1914,7 @@
   },
   {
    "id": "17d44366a4",
+   "topic": "Other",
    "headline": "Colombia earthquake: Rescue operation enters 'final phase'",
    "updated": "2026-08-13T07:45:00+00:00",
    "outletCount": 3,
@@ -1948,6 +1975,7 @@
   },
   {
    "id": "8a60210215",
+   "topic": "Culture & Sport",
    "headline": "Messi plays in Inter Miami defeat by Leon only hours after retirement hint",
    "updated": "2026-08-13T07:17:55+00:00",
    "outletCount": 3,
@@ -1991,6 +2019,7 @@
   },
   {
    "id": "aec1ab3f9f",
+   "topic": "Politics",
    "headline": "US: Karoline Leavitt to step down as Trump's spokesperson",
    "updated": "2026-08-13T07:15:00+00:00",
    "outletCount": 3,
@@ -2034,6 +2063,7 @@
   },
   {
    "id": "07805f398a",
+   "topic": "World",
    "headline": "Live: Russian attack sets Ukraine\u2019s Izmail port infrastructure ablaze",
    "updated": "2026-08-13T06:14:52+00:00",
    "outletCount": 3,
@@ -2075,6 +2105,7 @@
   },
   {
    "id": "29ada94471",
+   "topic": "Other",
    "headline": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
    "updated": "2026-08-13T05:43:43+00:00",
    "outletCount": 3,
@@ -2117,6 +2148,7 @@
   },
   {
    "id": "60d88abab5",
+   "topic": "Politics",
    "headline": "Trump Administration Claims Executive Privilege Over White House Conversations With Private Advisers",
    "updated": "2026-08-13T04:54:24+00:00",
    "outletCount": 3,
@@ -2160,6 +2192,7 @@
   },
   {
    "id": "18bf0e3ac0",
+   "topic": "Politics",
    "headline": "Search efforts in Colombia enter \u2018final phase\u2019 as quake toll reaches 265",
    "updated": "2026-08-13T04:26:46+00:00",
    "outletCount": 3,
@@ -2202,6 +2235,7 @@
   },
   {
    "id": "281faeeb30",
+   "topic": "Other",
    "headline": "Surrogate mother who fled to Texas gives birth to baby with severe heart defect",
    "updated": "2026-08-13T04:10:57+00:00",
    "outletCount": 3,
@@ -2245,6 +2279,7 @@
   },
   {
    "id": "8d8860f340",
+   "topic": "Health",
    "headline": "Baby at center of surrogacy rights case is born in Dallas",
    "updated": "2026-08-13T03:06:53+00:00",
    "outletCount": 3,
@@ -2297,6 +2332,7 @@
   },
   {
    "id": "a951708aa7",
+   "topic": "Politics",
    "headline": "Texas\u2019 mail ballot ID requirements restored by federal appeals court",
    "updated": "2026-08-13T02:15:14+00:00",
    "outletCount": 3,
@@ -2339,6 +2375,7 @@
   },
   {
    "id": "6e8beb4549",
+   "topic": "Climate & Energy",
    "headline": "Olympic skateboarder times epic stunt with solar eclipse",
    "updated": "2026-08-13T01:56:11+00:00",
    "outletCount": 3,
@@ -2381,6 +2418,7 @@
   },
   {
    "id": "a9f216adde",
+   "topic": "Justice & Policing",
    "headline": "Minnesota man killed his wife and child at daycare after killing another relative, police say",
    "updated": "2026-08-13T01:15:23+00:00",
    "outletCount": 3,
@@ -2423,6 +2461,7 @@
   },
   {
    "id": "380c4b36b7",
+   "topic": "Politics",
    "headline": "Former SPLC official charged in Justice Department's broader criminal case against group",
    "updated": "2026-08-13T01:02:31+00:00",
    "outletCount": 3,
@@ -2465,6 +2504,7 @@
   },
   {
    "id": "6b13871dac",
+   "topic": "Justice & Policing",
    "headline": "Virginia woman says ICE agent pointed gun at her, denies trying to run over agents",
    "updated": "2026-08-13T01:00:33+00:00",
    "outletCount": 3,
@@ -2507,6 +2547,7 @@
   },
   {
    "id": "1ec8481c6a",
+   "topic": "Politics",
    "headline": "Four takeaways from Tuesday's primaries in six states",
    "updated": "2026-08-13T00:14:00+00:00",
    "outletCount": 3,
@@ -2550,6 +2591,7 @@
   },
   {
    "id": "1bf133b9a7",
+   "topic": "Politics",
    "headline": "Top Trump Goon Called BS on Intel Behind Catering Truck Stunt",
    "updated": "2026-08-12T23:55:08+00:00",
    "outletCount": 3,
@@ -2592,6 +2634,7 @@
   },
   {
    "id": "b57b95c981",
+   "topic": "Politics",
    "headline": "Trump looks to inflict economic pain on Iran",
    "updated": "2026-08-12T23:16:32+00:00",
    "outletCount": 3,
@@ -2634,6 +2677,7 @@
   },
   {
    "id": "c096873d84",
+   "topic": "Other",
    "headline": "Woman pulled alive from rubble 36 hours after Colombia quake",
    "updated": "2026-08-12T22:41:46+00:00",
    "outletCount": 3,
@@ -2676,6 +2720,7 @@
   },
   {
    "id": "0a9e4ff0a8",
+   "topic": "Other",
    "headline": "No, AOC: \u201cWoke\u201d Wasn\u2019t \u201cCrazy\u201d the Way You Say It Was",
    "updated": "2026-08-12T21:54:51+00:00",
    "outletCount": 3,
@@ -2719,6 +2764,7 @@
   },
   {
    "id": "43e9647547",
+   "topic": "Other",
    "headline": "Democratic strategist reflects on Wisconsin and Minnesota primaries",
    "updated": "2026-08-12T20:59:17+00:00",
    "outletCount": 3,
@@ -2761,6 +2807,7 @@
   },
   {
    "id": "77614515fe",
+   "topic": "Politics",
    "headline": "What to know about Trump's Patriot Games for high school athletes",
    "updated": "2026-08-12T20:40:07+00:00",
    "outletCount": 3,
@@ -2803,6 +2850,7 @@
   },
   {
    "id": "06c3c10cfe",
+   "topic": "Politics",
    "headline": "Trump Promised To End Foreign Aid. Now He's Giving Christian Groups Nearly $2 Billion.",
    "updated": "2026-08-12T18:45:46+00:00",
    "outletCount": 3,
@@ -2845,6 +2893,7 @@
   },
   {
    "id": "44d84b6b6f",
+   "topic": "Politics",
    "headline": "Watch: Trump tells reporters why he switched planes",
    "updated": "2026-08-12T13:13:40+00:00",
    "outletCount": 3,
@@ -2888,6 +2937,7 @@
   },
   {
    "id": "4b4beea284",
+   "topic": "Justice & Policing",
    "headline": "NH Federal Court Provisionally Certifies Class Of Pregnant ISIS Brides Seeking Birthright Citizenship For Their Children",
    "updated": "2026-08-12T02:08:47+00:00",
    "outletCount": 3,
@@ -2930,7 +2980,42 @@
    ]
   },
   {
+   "id": "a72406da5e",
+   "topic": "Politics",
+   "headline": "The Trump Administration's Hormuz Oil Numbers Don't Add Up",
+   "updated": "2026-08-13T07:58:50+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Trump says U.S. has \"total control\" over Strait of Hormuz",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-donald-trump-strait-hormuz-traffic-falls-houthis-kill-red-sea/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T07:58:50+00:00",
+     "summary": "President Trump said Wednesday that the U.S. has \"total control\" over the Strait of Hormuz, writing on social media: \"I THINK WE WILL KEEP IT.\""
+    },
+    {
+     "outlet": "reason",
+     "title": "The Trump Administration's Hormuz Oil Numbers Don't Add Up",
+     "url": "https://reason.com/2026/08/12/the-trump-administrations-hormuz-oil-numbers-dont-add-up/",
+     "author": "Matthew Petti",
+     "kind": "opinion",
+     "published": "2026-08-12T17:02:25+00:00",
+     "summary": "Energy Secretary Chris Wright on the left, President Donald Trump on the right, and an oil tanker and pumping equipment in the background"
+    }
+   ]
+  },
+  {
    "id": "416e523b88",
+   "topic": "Tech",
    "headline": "Twitch faces backlash over Amazon using content to train AI",
    "updated": "2026-08-13T07:32:07+00:00",
    "outletCount": 2,
@@ -2964,6 +3049,7 @@
   },
   {
    "id": "28f7453117",
+   "topic": "Other",
    "headline": "Mystery Wi-Fi network aboard flight raises \u2018unusual\u2019 alarm about travelers\u2019 information",
    "updated": "2026-08-13T06:36:20+00:00",
    "outletCount": 2,
@@ -2996,6 +3082,7 @@
   },
   {
    "id": "3ae74db781",
+   "topic": "Other",
    "headline": "Dodgers' Freddie Freeman appears to avoid serious injury in fall down dugout steps",
    "updated": "2026-08-13T06:30:55+00:00",
    "outletCount": 2,
@@ -3027,40 +3114,8 @@
    ]
   },
   {
-   "id": "a72406da5e",
-   "headline": "The Trump Administration's Hormuz Oil Numbers Don't Add Up",
-   "updated": "2026-08-13T06:13:48+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Trump says U.S. has \"total control\" over Strait of Hormuz",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-us-donald-trump-strait-hormuz-traffic-falls-houthis-kill-red-sea/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T06:13:48+00:00",
-     "summary": "President Trump said Wednesday that the U.S. has \"total control\" over the Strait of Hormuz, writing on social media: \"I THINK WE WILL KEEP IT.\""
-    },
-    {
-     "outlet": "reason",
-     "title": "The Trump Administration's Hormuz Oil Numbers Don't Add Up",
-     "url": "https://reason.com/2026/08/12/the-trump-administrations-hormuz-oil-numbers-dont-add-up/",
-     "author": "Matthew Petti",
-     "kind": "opinion",
-     "published": "2026-08-12T17:02:25+00:00",
-     "summary": "Energy Secretary Chris Wright on the left, President Donald Trump on the right, and an oil tanker and pumping equipment in the background"
-    }
-   ]
-  },
-  {
    "id": "5c6f2ae2d3",
+   "topic": "Other",
    "headline": "Putin threatens to seize European ships",
    "updated": "2026-08-13T05:59:52+00:00",
    "outletCount": 2,
@@ -3094,6 +3149,7 @@
   },
   {
    "id": "824398075f",
+   "topic": "Other",
    "headline": "'Nasty Monster' Islam Makhachev Vs. 'Confident' Ian Machado Garry And Sleeper Fights On UFC 330",
    "updated": "2026-08-13T05:13:00+00:00",
    "outletCount": 2,
@@ -3127,6 +3183,7 @@
   },
   {
    "id": "33aa702d71",
+   "topic": "Climate & Energy",
    "headline": "Oman says oil spill from stricken tanker has reached its coast",
    "updated": "2026-08-13T04:26:11+00:00",
    "outletCount": 2,
@@ -3159,6 +3216,7 @@
   },
   {
    "id": "800ba5d56d",
+   "topic": "Politics",
    "headline": "New Maine Senate Poll Shows Susan Collins Slipping as Midterms Loom",
    "updated": "2026-08-13T03:15:09+00:00",
    "outletCount": 2,
@@ -3192,6 +3250,7 @@
   },
   {
    "id": "04afd39927",
+   "topic": "World",
    "headline": "Top IRGC Adviser Says Iran Could Prolong War to Outlast Trump \u2014 U.S. Vows to Keep \u2018Wall of Steel\u2019 Blockade",
    "updated": "2026-08-13T02:34:36+00:00",
    "outletCount": 2,
@@ -3225,6 +3284,7 @@
   },
   {
    "id": "2e24d7b3b9",
+   "topic": "Culture & Sport",
    "headline": "FedEx Cup Playoffs Begin: Here Are Three Players To Watch",
    "updated": "2026-08-13T02:09:53+00:00",
    "outletCount": 2,
