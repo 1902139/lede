@@ -20,7 +20,12 @@ import time
 from datetime import datetime, timezone
 from pathlib import Path
 
+import socket
+
 import feedparser
+
+# A dead host used to hang the run for minutes; cap every network read.
+socket.setdefaulttimeout(12)
 
 HERE = Path(__file__).resolve().parent
 
@@ -48,7 +53,9 @@ MAX_STORIES = 60           # stories shown on the site
 JACCARD_JOIN = 0.20        # title-token similarity to join a cluster
 SHARED_JOIN = 3            # or at least this many shared significant tokens
 UNDERREPORTED_CORP_SHARE = 0.34  # corp+family share at or below this => underreported
-USER_AGENT = "LedeAggregator/0.1 (+https://github.com/your-user/lede)"
+# Mozilla-prefixed so WAFs don't reject us, but self-identifying with a contact URL.
+USER_AGENT = ("Mozilla/5.0 (compatible; LedeBot/1.0; +https://github.com/1902139/lede) feedparser")
+FEED_TIMEOUT = 12          # seconds per feed — stops dead hosts stalling the whole run
 
 STOPWORDS = set("""
 a an the and or but of in on at to for with from by as is are was were be been

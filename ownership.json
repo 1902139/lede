@@ -597,7 +597,7 @@
    "funding": "Reader subscriptions.",
    "feeds": [
     {
-     "url": "https://hellgatenyc.com/rss/",
+     "url": "https://hellgatenyc.com/all-posts/rss",
      "kind": "news"
     }
    ],
@@ -852,7 +852,7 @@
    "funding": "Advertising + subscriptions.",
    "feeds": [
     {
-     "url": "https://www.newsweek.com/rss",
+     "url": "https://www.newsweek.com/rss.xml",
      "kind": "news"
     }
    ],
@@ -950,7 +950,7 @@
    "funding": "Advertising + subscriptions.",
    "feeds": [
     {
-     "url": "https://feeds.thedailybeast.com/summary/rss/articles",
+     "url": "https://www.thedailybeast.com/arc/outboundfeeds/rss/articles/",
      "kind": "news"
     }
    ]
@@ -1188,7 +1188,7 @@
    "funding": "Advertising + subscriptions; historically subsidized by its founding organization.",
    "feeds": [
     {
-     "url": "https://www.washingtontimes.com/rss/headlines/news/politics/",
+     "url": "https://www.washingtontimes.com/rss/headlines/news/politics",
      "kind": "news"
     }
    ]
@@ -1441,7 +1441,7 @@
    "funding": "Canadian parliamentary appropriation + some advertising.",
    "feeds": [
     {
-     "url": "https://www.cbc.ca/webfeed/rss/rss-topstories",
+     "url": "https://rss.cbc.ca/lineup/topstories.xml",
      "kind": "news"
     }
    ]
