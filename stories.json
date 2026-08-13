@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-13T08:26:13.578152+00:00",
+ "generated": "2026-08-13T08:44:36.256962+00:00",
  "storyCount": 60,
- "feedsOk": 69,
+ "feedsOk": 68,
  "feedsTotal": 72,
  "stories": [
   {
@@ -319,14 +319,14 @@
    "summary": "People gathered across the continent to watch the total solar eclipse on Wednesday.",
    "headline": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
    "updated": "2026-08-13T06:11:44+00:00",
-   "outletCount": 9,
+   "outletCount": 8,
    "counts": {
     "family": 1,
     "nonprofit": 3,
-    "corp": 4,
+    "corp": 3,
     "pub": 1
    },
-   "newsCount": 9,
+   "newsCount": 8,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -356,15 +356,6 @@
      "kind": "news",
      "published": "2026-08-13T01:54:22+00:00",
      "summary": "On August 12, 2026, a total solar eclipse awed onlookers throughout Europe, including in Spain and the United Kingdom. Video Producer: Martina Di Licosa"
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Once-in-a-lifetime total solar eclipse sweeps across Europe",
-     "url": "https://www.nbcnews.com/nightly-news/video/once-in-a-lifetime-total-solar-eclipse-sweeps-across-europe-268218949778",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T23:13:37+00:00",
-     "summary": "The moon passed directly in front of the sun Wednesday, briefly turning day into twilight as crowds from Iceland to Spain looked up in awe at the rare celestial spectacle. NBC News\u2019 Gadi Schwartz reports."
     },
     {
      "outlet": "abcnews",
@@ -512,9 +503,10 @@
    "updated": "2026-08-12T17:13:13+00:00",
    "outletCount": 7,
    "counts": {
-    "family": 2,
+    "family": 1,
     "corp": 3,
-    "nonprofit": 2
+    "nonprofit": 2,
+    "pub": 1
    },
    "newsCount": 7,
    "opinionCount": 0,
@@ -566,13 +558,13 @@
      "summary": "A federal judge on Tuesday expanded an earlier block on part of President Trump's executive order seeking to tighten rules for mail-in voting ahead of November's elections. Why it matters: The ruling freezes a key piece of Trump's attempted overhaul of mail-in voting for all U.S. states. A previous ruling in a separate case had limited a block for the 23 Democratic states that sued over the president's order. Trump's executive order had enabled the USPS to refuse to deliver ballots to states tha"
     },
     {
-     "outlet": "semafor",
-     "title": "Trump limits childhood vaccines, citing autism",
-     "url": "https://www.semafor.com/article/08/11/2026/trump-limits-childhood-vaccines-citing-autism",
-     "author": "Tom Chivers",
+     "outlet": "dw",
+     "title": "Making sense of Trump's executive order on US vaccinations",
+     "url": "https://www.dw.com/en/making-sense-of-trump-s-executive-order-on-us-vaccinations/a-78321723?maca=en-rss-en-all-1573-rdf",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-11T14:18:35+00:00",
-     "summary": "The order also calls for splitting the combined measles, mumps, and rubella vaccine into separate shots, which would require years of investment."
+     "published": "2026-08-11T15:03:00+00:00",
+     "summary": "President Donald Trump and his Health Secretary Robert F. Kennedy Jr. have long tried to reduce the number of vaccinations available to the US public and even farm animals. The latest move in context."
     },
     {
      "outlet": "rollingstone",
@@ -1114,7 +1106,7 @@
   {
    "id": "7497eb156b",
    "topic": "Politics",
-   "summary": "Kylie Cooper/Reuters CNN host Kaitlan Collins has called out Donald Trump\u2019s deputy chief of staff, Stephen Miller, for staying quiet on the Air Force One ruse. The 80-year-old president was secretly sneaked from the legacy Air Force One jet to a smaller military plane in an airport catering truck\u2026",
+   "summary": "Getty/John Stewart Show CNN host Kaitlan Collins has called out Donald Trump\u2019s deputy chief of staff, Stephen Miller, for staying quiet on the Air Force One ruse. The 80-year-old president was secretly sneaked from the legacy Air Force One jet to a smaller military plane in an airport catering\u2026",
    "headline": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
    "updated": "2026-08-13T08:17:49+00:00",
    "outletCount": 5,
@@ -1135,7 +1127,7 @@
      "author": "Leigh Kimmins",
      "kind": "news",
      "published": "2026-08-13T08:17:49+00:00",
-     "summary": "Kylie Cooper/Reuters CNN host Kaitlan Collins has called out Donald Trump\u2019s deputy chief of staff, Stephen Miller, for staying quiet on the Air Force One ruse. The 80-year-old president was secretly sneaked from the legacy Air Force One jet to a smaller military plane in an airport catering truck while departing Turkey last month, amid a credible missile threat against the original aircraft, according to a Washington Post investigation. Miller, 40, was among those left aboard the decoy plane, jo"
+     "summary": "Getty/John Stewart Show CNN host Kaitlan Collins has called out Donald Trump\u2019s deputy chief of staff, Stephen Miller, for staying quiet on the Air Force One ruse. The 80-year-old president was secretly sneaked from the legacy Air Force One jet to a smaller military plane in an airport catering truck while departing Turkey last month, amid a credible missile threat against the original aircraft, according to a Washington Post investigation. Miller, 40, was among those left aboard the decoy plane,"
     },
     {
      "outlet": "nyt",
@@ -1363,6 +1355,69 @@
    ]
   },
   {
+   "id": "a951708aa7",
+   "topic": "Politics",
+   "summary": "The U.S. 5th Circuit Court of Appeals rebuked the lower court\u2019s 2025 ruling that struck down nine provisions of a sweeping election law related to voter assistance.",
+   "headline": "Texas\u2019 mail ballot ID requirements restored by federal appeals court",
+   "updated": "2026-08-13T02:15:14+00:00",
+   "outletCount": 5,
+   "counts": {
+    "nonprofit": 2,
+    "family": 2,
+    "corp": 1
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "texastribune",
+     "title": "Texas\u2019 mail ballot ID requirements restored by federal appeals court",
+     "url": "https://feeds.texastribune.org/link/16799/17416905/texas-mail-ballot-voter-id-application-appeal-ruling",
+     "author": "Ayden Runnels",
+     "kind": "news",
+     "published": "2026-08-13T02:15:14+00:00",
+     "summary": "The U.S. 5th Circuit Court of Appeals rebuked the lower court\u2019s 2025 ruling that struck down nine provisions of a sweeping election law related to voter assistance."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Trump again asks Supreme Court to save USPS mail ballot plan after second lower court loss",
+     "url": "https://www.latimes.com/politics/story/2026-08-12/trump-again-asks-supreme-court-to-save-usps-mail-ballot-plan-after-second-lower-court-loss",
+     "author": "Kevin Rector",
+     "kind": "news",
+     "published": "2026-08-12T17:26:54+00:00",
+     "summary": "The Trump administration again asked the U.S. Supreme Court to intervene to save President Trump's plan for the U.S. Postal Service to place new nationwide limits on mail voting."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump officials again urge US supreme court intervention on mail ballots",
+     "url": "https://www.theguardian.com/us-news/2026/aug/12/trump-administration-supreme-court-mail-ballots",
+     "author": "Reuters",
+     "kind": "news",
+     "published": "2026-08-12T17:11:02+00:00",
+     "summary": "Justice department asks justices to pause decision that blocked Trump\u2019s order to tighten voting-by-mail rules Donald Trump \u2019s administration again asked the US supreme court on Wednesday to intervene to fully \u2060implement the president\u2019s executive \u2060order restricting the \u200buse of mail-in ballots ahead of the November midterm elections that will decide control of US Congress. The US Department of Justice filed a request asking the \u2060justices to put on hold a decision made on Tuesday by US district jud"
+    },
+    {
+     "outlet": "vox",
+     "title": "Trump is searching for the Supreme Court&#8217;s breaking point on birthright citizenship",
+     "url": "https://www.vox.com/policy/498784/supreme-court-trump-birthright-citizenship-second-time",
+     "author": "Ian Millhiser",
+     "kind": "news",
+     "published": "2026-08-11T11:07:00+00:00",
+     "summary": "Last week, President Donald Trump issued a new executive order that purports to strip citizenship from some Americans.&#160; This isn\u2019t our first time here: Last year, Trump issued an executive order that attempted to strip citizenship from many Americans born in this country. Months later, in response to a lawsuit brought over Trump\u2019s order, the [&#8230;]"
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump refuses to back down as Supreme Court blocks major policies",
+     "url": "https://www.washingtonpost.com/politics/2026/08/11/trump-seeks-preserve-major-policies-after-adverse-supreme-court-rulings/",
+     "author": "Julian  Mark",
+     "kind": "news",
+     "published": "2026-08-11T09:00:00+00:00",
+     "summary": "The president is seeking ways around rulings on tariffs, birthright citizenship and the Fed. Experts say the moves don\u2019t signal outright defiance, but they push the court\u2019s limits."
+    }
+   ]
+  },
+  {
    "id": "ba8778d076",
    "topic": "World",
    "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
@@ -1518,59 +1573,6 @@
      "kind": "news",
      "published": "2026-08-11T19:54:55+00:00",
      "summary": "Former Secret Service agents say Trump's secret plane swap was likely improvised in a hurry."
-    }
-   ]
-  },
-  {
-   "id": "b6f7e2096c",
-   "topic": "Justice & Policing",
-   "summary": "Nick Reiner pleaded not guilty to two counts of murder with the special circumstance allegations in the killings of his parents, Rob and Michele Reiner.",
-   "headline": "Nick Reiner indicted on murder charges in parents' killings at their LA home",
-   "updated": "2026-08-13T01:08:46+00:00",
-   "outletCount": 4,
-   "counts": {
-    "corp": 2,
-    "family": 2
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Nick Reiner indicted on murder charges in parents' killings at their LA home",
-     "url": "https://www.cbsnews.com/news/nick-reiner-indicted-murder-charges-rob-michele-los-angeles/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T01:08:46+00:00",
-     "summary": "Nick Reiner pleaded not guilty to two counts of murder with the special circumstance allegations in the killings of his parents, Rob and Michele Reiner."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Nick Reiner indicted on murder charges in the death of his parents",
-     "url": "https://www.nbcnews.com/now/video/nick-reiner-indicted-on-murder-charges-in-the-death-of-his-parents-268203589881",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T20:04:29+00:00",
-     "summary": "Nick Reiner has been indicted on murder charges in the deaths of his parents, Rob and Michele Reiner, in a stabbing attack inside the family\u2019s Brentwood home in December. He pleaded not guilty to two counts of murder with special circumstance allegations of multiple murders and murder by means of lying in wait, according to Los Angeles County officials. NBC News' Danny Cevallos reports."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Nick Reiner pleads not guilty to murder charges following indictment",
-     "url": "https://www.washingtonpost.com/nation/2026/08/12/nick-reiner-pleads-not-guilty-murder-charges-following-indictment/",
-     "author": "Hannah Knowles",
-     "kind": "news",
-     "published": "2026-08-12T20:00:00+00:00",
-     "summary": "The son of actor and director Rob Reiner was indicted last month by a grand jury, with details unsealed Wednesday. Nick Reiner\u2019s parents were found dead in December."
-    },
-    {
-     "outlet": "forbes",
-     "title": "Nick Reiner Indicted On 2 Murder Charges After Allegedly Killing Parents",
-     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/12/nick-reiner-indicted-on-2-murder-charges-after-allegedly-killing-parents/",
-     "author": "Antonio Peque\u00f1o IV, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-12T19:07:44+00:00",
-     "summary": "Reiner has pleaded not guilty to the charges."
     }
    ]
   },
@@ -1967,51 +1969,6 @@
    ]
   },
   {
-   "id": "8a60210215",
-   "topic": "Culture & Sport",
-   "summary": "Argentina star Lionel Messi hinted at retirement on Wednesday before featuring in Inter Miami&#039;s defeat by Leon.",
-   "headline": "Messi plays in Inter Miami defeat by Leon only hours after retirement hint",
-   "updated": "2026-08-13T07:17:55+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 1,
-    "family": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Messi plays in Inter Miami defeat by Leon only hours after retirement hint",
-     "url": "https://www.aljazeera.com/sports/2026/8/13/messi-plays-in-inter-miami-defeat-only-hours-after-retirement-hint?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T07:17:55+00:00",
-     "summary": "Argentina star Lionel Messi hinted at retirement on Wednesday before featuring in Inter Miami&#039;s defeat by Leon."
-    },
-    {
-     "outlet": "nypost",
-     "title": "Lionel Messi returns for Inter Miami in Leagues Cup loss in first game since father\u2019s death",
-     "url": "https://nypost.com/2026/08/12/sports/lionel-messi-returns-for-inter-miami-in-first-game-since-fathers-death/",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-13T03:24:44+00:00",
-     "summary": "Messi started the second half and received a loud ovation from fans at Miami's Nu Stadium. It was his first match since his father, Jorge, died Saturday at 68"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Lionel Messi has \u2018quite a few doubts\u2019 about football future after death of his father",
-     "url": "https://www.theguardian.com/football/2026/aug/12/lionel-messi-doubts-football-future-death-of-his-father-jorge",
-     "author": "John Ashdown",
-     "kind": "news",
-     "published": "2026-08-12T14:16:12+00:00",
-     "summary": "Messi\u2019s father, \u2060Jorge, died last week at age of 68 Argentinian suggests he may not play on much longer Lionel Messi has hinted that the end of his career may be near after \u00adadmitting to \u201cquite a few doubts\u201d about his football future following the death of his father. Jorge Messi died last week at the age of 68 in Rosario, Argentina, after a long illness, with his health during this summer\u2019s World Cup appearing to take a toll on Argentina\u2019s 39-year-old captain. Continue reading..."
-    }
-   ]
-  },
-  {
    "id": "aec1ab3f9f",
    "topic": "Politics",
    "summary": "White House press secretary Karoline Leavitt is to leave her job at the end of the month, President Donald Trump says. Leavitt, 28, is the youngest-ever person to have held the position.",
@@ -2100,19 +2057,18 @@
    ]
   },
   {
-   "id": "60d88abab5",
+   "id": "54584e7535",
    "topic": "Politics",
    "summary": "Andrew Harnik/Getty Images A top doctor has demanded the White House come clean and reveal the full details about President Donald Trump\u2019s health, claiming it is rapidly declining in plain sight. Dr. Jonathan Reiner, 66, appeared on Erin Burnett OutFront on Wednesday after a scathing opinion piece\u2026",
-   "headline": "Trump Administration Claims Executive Privilege Over White House Conversations With Private Advisers",
+   "headline": "Top Doctor Demands White House Come Clean on Trump\u2019s Health",
    "updated": "2026-08-13T04:54:24+00:00",
    "outletCount": 3,
    "counts": {
-    "corp": 1,
-    "nonprofit": 1,
+    "corp": 2,
     "family": 1
    },
-   "newsCount": 2,
-   "opinionCount": 1,
+   "newsCount": 3,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
@@ -2125,13 +2081,13 @@
      "summary": "Andrew Harnik/Getty Images A top doctor has demanded the White House come clean and reveal the full details about President Donald Trump\u2019s health, claiming it is rapidly declining in plain sight. Dr. Jonathan Reiner, 66, appeared on Erin Burnett OutFront on Wednesday after a scathing opinion piece in the New York Times that also called out the silence around Trump\u2019s medical issues. Reiner, who was previously Vice President Dick Cheney\u2019s cardiologist, told host Burnett that he was concerned that "
     },
     {
-     "outlet": "reason",
-     "title": "Trump Administration Claims Executive Privilege Over White House Conversations With Private Advisers",
-     "url": "https://reason.com/2026/08/12/trump-administration-claims-executive-privilege-over-white-house-conversations-with-private-advisers/",
-     "author": "C.J. Ciaramella",
-     "kind": "opinion",
-     "published": "2026-08-12T19:16:44+00:00",
-     "summary": "Trump on phone"
+     "outlet": "rollingstone",
+     "title": "Trump Is Spending Nearly $1 Billion in Taxpayer Money on Gaudy White House Renovations: Report",
+     "url": "https://www.rollingstone.com/politics/politics-news/trump-spending-billion-white-house-renovations-1235607598/",
+     "author": "Nikkimccannramirez",
+     "kind": "news",
+     "published": "2026-08-12T18:37:51+00:00",
+     "summary": "The White House is funneling millions into executive maintenance accounts without oversight or approval from Congress, The Washington Post reports"
     },
     {
      "outlet": "wapo",
@@ -2288,50 +2244,6 @@
    ]
   },
   {
-   "id": "a951708aa7",
-   "topic": "Politics",
-   "summary": "The U.S. 5th Circuit Court of Appeals rebuked the lower court\u2019s 2025 ruling that struck down nine provisions of a sweeping election law related to voter assistance.",
-   "headline": "Texas\u2019 mail ballot ID requirements restored by federal appeals court",
-   "updated": "2026-08-13T02:15:14+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 2,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "texastribune",
-     "title": "Texas\u2019 mail ballot ID requirements restored by federal appeals court",
-     "url": "https://feeds.texastribune.org/link/16799/17416905/texas-mail-ballot-voter-id-application-appeal-ruling",
-     "author": "Ayden Runnels",
-     "kind": "news",
-     "published": "2026-08-13T02:15:14+00:00",
-     "summary": "The U.S. 5th Circuit Court of Appeals rebuked the lower court\u2019s 2025 ruling that struck down nine provisions of a sweeping election law related to voter assistance."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Trump again asks Supreme Court to save USPS mail ballot plan after second lower court loss",
-     "url": "https://www.latimes.com/politics/story/2026-08-12/trump-again-asks-supreme-court-to-save-usps-mail-ballot-plan-after-second-lower-court-loss",
-     "author": "Kevin Rector",
-     "kind": "news",
-     "published": "2026-08-12T17:26:54+00:00",
-     "summary": "The Trump administration again asked the U.S. Supreme Court to intervene to save President Trump's plan for the U.S. Postal Service to place new nationwide limits on mail voting."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump officials again urge US supreme court intervention on mail ballots",
-     "url": "https://www.theguardian.com/us-news/2026/aug/12/trump-administration-supreme-court-mail-ballots",
-     "author": "Reuters",
-     "kind": "news",
-     "published": "2026-08-12T17:11:02+00:00",
-     "summary": "Justice department asks justices to pause decision that blocked Trump\u2019s order to tighten voting-by-mail rules Donald Trump \u2019s administration again asked the US supreme court on Wednesday to intervene to fully \u2060implement the president\u2019s executive \u2060order restricting the \u200buse of mail-in ballots ahead of the November midterm elections that will decide control of US Congress. The US Department of Justice filed a request asking the \u2060justices to put on hold a decision made on Tuesday by US district jud"
-    }
-   ]
-  },
-  {
    "id": "6e8beb4549",
    "topic": "Climate & Energy",
    "summary": "Spanish Olympic skateboarder Danny Le\u00f3n timed a jump with the moon passing in front of the sun during a solar eclipse.",
@@ -2416,6 +2328,50 @@
      "kind": "news",
      "published": "2026-08-12T16:35:30+00:00",
      "summary": "A Minnesota man who killed an elderly relative went on to fatally stab his wife and their 7-year-old daughter Wednesday at a Minneapolis-area home daycare where other children were present, police said."
+    }
+   ]
+  },
+  {
+   "id": "b6f7e2096c",
+   "topic": "Justice & Policing",
+   "summary": "Nick Reiner pleaded not guilty to two counts of murder with the special circumstance allegations in the killings of his parents, Rob and Michele Reiner.",
+   "headline": "Nick Reiner indicted on murder charges in parents' killings at their LA home",
+   "updated": "2026-08-13T01:08:46+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 2,
+    "family": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Nick Reiner indicted on murder charges in parents' killings at their LA home",
+     "url": "https://www.cbsnews.com/news/nick-reiner-indicted-murder-charges-rob-michele-los-angeles/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T01:08:46+00:00",
+     "summary": "Nick Reiner pleaded not guilty to two counts of murder with the special circumstance allegations in the killings of his parents, Rob and Michele Reiner."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Nick Reiner indicted on murder charges in the death of his parents",
+     "url": "https://www.nbcnews.com/now/video/nick-reiner-indicted-on-murder-charges-in-the-death-of-his-parents-268203589881",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T20:04:29+00:00",
+     "summary": "Nick Reiner has been indicted on murder charges in the deaths of his parents, Rob and Michele Reiner, in a stabbing attack inside the family\u2019s Brentwood home in December. He pleaded not guilty to two counts of murder with special circumstance allegations of multiple murders and murder by means of lying in wait, according to Los Angeles County officials. NBC News' Danny Cevallos reports."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Nick Reiner pleads not guilty to murder charges following indictment",
+     "url": "https://www.washingtonpost.com/nation/2026/08/12/nick-reiner-pleads-not-guilty-murder-charges-following-indictment/",
+     "author": "Hannah Knowles",
+     "kind": "news",
+     "published": "2026-08-12T20:00:00+00:00",
+     "summary": "The son of actor and director Rob Reiner was indicted last month by a grand jury, with details unsealed Wednesday. Nick Reiner\u2019s parents were found dead in December."
     }
    ]
   },
@@ -2863,47 +2819,37 @@
    ]
   },
   {
-   "id": "4b4beea284",
-   "topic": "Justice & Policing",
-   "summary": "No, that didn't actually happen, but it is ripe for the Babylon Bee. In reality, the ACLU has filed a&#8230; The post NH Federal Court Provisionally Certifies Class Of Pregnant ISIS Brides Seeking Birthright Citizenship For Their Children appeared first on Reason.com.",
-   "headline": "NH Federal Court Provisionally Certifies Class Of Pregnant ISIS Brides Seeking Birthright Citizenship For Their Children",
-   "updated": "2026-08-12T02:08:47+00:00",
-   "outletCount": 3,
+   "id": "2730a1f47d",
+   "topic": "Climate & Energy",
+   "summary": "In France, 80 departments have been placed on an orange heat warning Over in England, the amber warning by the Met Office stretches from London to Sheffield, covering parts of the South East, East Midlands, East of England, West Midlands and South Yorkshire and is in place from 9am to midnight on\u2026",
+   "headline": "Europe heatwave live: Temperatures of 40C expected in Spain, with amber heat health warning in place across large parts of UK",
+   "updated": "2026-08-13T08:20:03+00:00",
+   "outletCount": 2,
    "counts": {
     "nonprofit": 1,
-    "corp": 1,
-    "family": 1
+    "pub": 1
    },
    "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
+   "opinionCount": 0,
+   "underreported": true,
    "articles": [
     {
-     "outlet": "reason",
-     "title": "NH Federal Court Provisionally Certifies Class Of Pregnant ISIS Brides Seeking Birthright Citizenship For Their Children",
-     "url": "https://reason.com/volokh/2026/08/11/nh-federal-court-provisionally-certifies-class-of-pregnant-isis-brides-seeking-birthright-citizenship-for-their-children/",
-     "author": "Josh Blackman",
-     "kind": "opinion",
-     "published": "2026-08-12T02:08:47+00:00",
-     "summary": "No, that didn't actually happen, but it is ripe for the Babylon Bee. In reality, the ACLU has filed a&#8230; The post NH Federal Court Provisionally Certifies Class Of Pregnant ISIS Brides Seeking Birthright Citizenship For Their Children appeared first on Reason.com."
+     "outlet": "guardian",
+     "title": "Europe heatwave live: Temperatures of 40C expected in Spain, with amber heat health warning in place across large parts of UK",
+     "url": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
+     "author": "Jakub Krupa",
+     "kind": "news",
+     "published": "2026-08-13T08:20:03+00:00",
+     "summary": "In France, 80 departments have been placed on an orange heat warning Over in England, the amber warning by the Met Office stretches from London to Sheffield, covering parts of the South East, East Midlands, East of England, West Midlands and South Yorkshire and is in place from 9am to midnight on Thursday, PA reported. Met Office forecaster Alex Burkill said: \u201c Temperatures [in areas covered by the amber warning] could reach highs of around 36, 37, possibly 38C. Now when you get these sorts of h"
     },
     {
-     "outlet": "vox",
-     "title": "Trump is searching for the Supreme Court&#8217;s breaking point on birthright citizenship",
-     "url": "https://www.vox.com/policy/498784/supreme-court-trump-birthright-citizenship-second-time",
-     "author": "Ian Millhiser",
+     "outlet": "france24",
+     "title": "Parts of Spain plunged into darkness as eclipse moves across Europe",
+     "url": "https://www.france24.com/en/science/20260812-live-millions-skywatchers-europe-prepare-total-solar-eclipse",
+     "author": "Simon FEISTHAUER FOURNET",
      "kind": "news",
-     "published": "2026-08-11T11:07:00+00:00",
-     "summary": "Last week, President Donald Trump issued a new executive order that purports to strip citizenship from some Americans.&#160; This isn\u2019t our first time here: Last year, Trump issued an executive order that attempted to strip citizenship from many Americans born in this country. Months later, in response to a lawsuit brought over Trump\u2019s order, the [&#8230;]"
-    },
-    {
-     "outlet": "wapo",
-     "title": "Trump refuses to back down as Supreme Court blocks major policies",
-     "url": "https://www.washingtonpost.com/politics/2026/08/11/trump-seeks-preserve-major-policies-after-adverse-supreme-court-rulings/",
-     "author": "Julian  Mark",
-     "kind": "news",
-     "published": "2026-08-11T09:00:00+00:00",
-     "summary": "The president is seeking ways around rulings on tariffs, birthright citizenship and the Fed. Experts say the moves don\u2019t signal outright defiance, but they push the court\u2019s limits."
+     "published": "2026-08-12T12:13:29+00:00",
+     "summary": "Parts of Spain were briefly plunged into darkness on Wednesday as a solar eclipse that began in Iceland and the Arctic progressed across the continent. It was the first total eclipse to be seen from mainland Europe in two decades. Read our blog to see how the event unfolded."
     }
    ]
   },
@@ -2943,53 +2889,18 @@
    ]
   },
   {
-   "id": "2730a1f47d",
-   "topic": "Climate & Energy",
-   "summary": "In France, 80 departments have been placed on an orange heat warning The government will look at banning disposable barbecues as wildfires continue to rage across the UK, Andy Burnham has said. Disposable barbecues have been the cause of a number of serious fires over the last few years, but\u2026",
-   "headline": "Europe heatwave live: Temperatures of 40C expected in Spain, with amber heat health warning in place across large parts of UK",
-   "updated": "2026-08-13T08:06:03+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Europe heatwave live: Temperatures of 40C expected in Spain, with amber heat health warning in place across large parts of UK",
-     "url": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
-     "author": "Jakub Krupa",
-     "kind": "news",
-     "published": "2026-08-13T08:06:03+00:00",
-     "summary": "In France, 80 departments have been placed on an orange heat warning The government will look at banning disposable barbecues as wildfires continue to rage across the UK, Andy Burnham has said. Disposable barbecues have been the cause of a number of serious fires over the last few years, but campaigners were critical of the prime minister\u2019s failure to link those fires more broadly to the climate crisis. Macclesfield, Cheshire, July 2026: a large woodland fire that was tackled by dozens of firefi"
-    },
-    {
-     "outlet": "france24",
-     "title": "Parts of Spain plunged into darkness as eclipse moves across Europe",
-     "url": "https://www.france24.com/en/science/20260812-live-millions-skywatchers-europe-prepare-total-solar-eclipse",
-     "author": "Simon FEISTHAUER FOURNET",
-     "kind": "news",
-     "published": "2026-08-12T12:13:29+00:00",
-     "summary": "Parts of Spain were briefly plunged into darkness on Wednesday as a solar eclipse that began in Iceland and the Arctic progressed across the continent. It was the first total eclipse to be seen from mainland Europe in two decades. Read our blog to see how the event unfolded."
-    }
-   ]
-  },
-  {
-   "id": "a72406da5e",
+   "id": "f93a3568e8",
    "topic": "Politics",
    "summary": "President Trump said Wednesday that the U.S. has \"total control\" over the Strait of Hormuz, writing on social media: \"I THINK WE WILL KEEP IT.\"",
-   "headline": "The Trump Administration's Hormuz Oil Numbers Don't Add Up",
+   "headline": "Gulf states scramble for Strait of Hormuz alternatives",
    "updated": "2026-08-13T07:58:50+00:00",
    "outletCount": 2,
    "counts": {
     "corp": 1,
-    "nonprofit": 1
+    "pub": 1
    },
-   "newsCount": 1,
-   "opinionCount": 1,
+   "newsCount": 2,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
@@ -3002,13 +2913,13 @@
      "summary": "President Trump said Wednesday that the U.S. has \"total control\" over the Strait of Hormuz, writing on social media: \"I THINK WE WILL KEEP IT.\""
     },
     {
-     "outlet": "reason",
-     "title": "The Trump Administration's Hormuz Oil Numbers Don't Add Up",
-     "url": "https://reason.com/2026/08/12/the-trump-administrations-hormuz-oil-numbers-dont-add-up/",
-     "author": "Matthew Petti",
-     "kind": "opinion",
-     "published": "2026-08-12T17:02:25+00:00",
-     "summary": "Energy Secretary Chris Wright on the left, President Donald Trump on the right, and an oil tanker and pumping equipment in the background"
+     "outlet": "dw",
+     "title": "Gulf states scramble for Strait of Hormuz alternatives",
+     "url": "https://www.dw.com/en/gulf-states-scramble-for-strait-of-hormuz-alternatives/a-78336679?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T13:35:00+00:00",
+     "summary": "Saudi Arabia has redirected oil exports away from the Strait of Hormuz, but most Gulf producers still lack a reliable backup option to the world's most important energy choke point."
     }
    ]
   },
@@ -3320,6 +3231,75 @@
      "kind": "news",
      "published": "2026-08-12T07:50:00+00:00",
      "summary": "The last solar eclipse visible from the European mainland was in 1999. Here's what to expect, and how to prepare for this rare occasion."
+    }
+   ]
+  },
+  {
+   "id": "04afd39927",
+   "topic": "World",
+   "summary": "A top adviser to the commander of Iran\u2019s IRGC said Tehran could deliberately prolong its war with the United States in an effort to outlast President Donald Trump, as Washington doubles down on a \u201cWALL OF STEEL\u201d naval blockade that U.S. and Israeli officials say is steadily worsening the Islamic\u2026",
+   "headline": "Top IRGC Adviser Says Iran Could Prolong War to Outlast Trump \u2014 U.S. Vows to Keep \u2018Wall of Steel\u2019 Blockade",
+   "updated": "2026-08-13T02:34:36+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "Top IRGC Adviser Says Iran Could Prolong War to Outlast Trump \u2014 U.S. Vows to Keep \u2018Wall of Steel\u2019 Blockade",
+     "url": "https://www.breitbart.com/politics/2026/08/12/top-irgc-adviser-iran-could-prolong-war-outlast-trump/",
+     "author": "Joshua Klein",
+     "kind": "news",
+     "published": "2026-08-13T02:34:36+00:00",
+     "summary": "A top adviser to the commander of Iran\u2019s IRGC said Tehran could deliberately prolong its war with the United States in an effort to outlast President Donald Trump, as Washington doubles down on a \u201cWALL OF STEEL\u201d naval blockade that U.S. and Israeli officials say is steadily worsening the Islamic Republic\u2019s economic crisis. The post Top IRGC Adviser Says Iran Could Prolong War to Outlast Trump \u2014 U.S. Vows to Keep \u2018Wall of Steel\u2019 Blockade appeared first on Breitbart ."
+    },
+    {
+     "outlet": "slate",
+     "title": "The Iran War Is Going So Well That Trump Is Resorting to Wacky Hijinks to Stay Safe",
+     "url": "https://slate.com/news-and-politics/2026/08/trump-airplane-catering-truck-box-iran-war-turkey.html?via=rss",
+     "author": "Ian Prasad Philbrick",
+     "kind": "news",
+     "published": "2026-08-11T19:25:04+00:00",
+     "summary": "Our very cool and normal era continues."
+    }
+   ]
+  },
+  {
+   "id": "2e24d7b3b9",
+   "topic": "Culture & Sport",
+   "summary": "Jordan Spieth is chasing his first top-10 finish, rookie Jackson Koivun is fighting to extend his season, and Scottie Scheffler is looking for another win as the FedEx Cup Playoffs begin.",
+   "headline": "FedEx Cup Playoffs Begin: Here Are Three Players To Watch",
+   "updated": "2026-08-13T02:09:53+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "forbes",
+     "title": "FedEx Cup Playoffs Begin: Here Are Three Players To Watch",
+     "url": "https://www.forbes.com/sites/break80/2026/08/12/fedex-cup-playoffs-begin-here-are-three-players-to-watch/",
+     "author": "Tim Corlett, Contributor",
+     "kind": "news",
+     "published": "2026-08-13T02:09:53+00:00",
+     "summary": "Jordan Spieth is chasing his first top-10 finish, rookie Jackson Koivun is fighting to extend his season, and Scottie Scheffler is looking for another win as the FedEx Cup Playoffs begin."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Here are the races you should watch today",
+     "url": "https://www.washingtonpost.com/politics/2026/08/11/here-are-races-you-should-watch-today/",
+     "author": "Dan Merica",
+     "kind": "news",
+     "published": "2026-08-11T09:56:25+00:00",
+     "summary": "Primary season is coming to a close, and today is the most crowded day left on the calendar."
     }
    ]
   }
