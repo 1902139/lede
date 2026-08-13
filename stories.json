@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-13T15:16:25.380484+00:00",
+ "generated": "2026-08-13T16:13:10.617335+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -12,13 +12,13 @@
    "updated": "2026-08-13T14:51:43+00:00",
    "outletCount": 13,
    "counts": {
-    "corp": 7,
-    "family": 5,
+    "corp": 6,
+    "family": 8,
     "coop": 1,
     "pub": 3,
     "nonprofit": 2
    },
-   "newsCount": 18,
+   "newsCount": 20,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -48,15 +48,6 @@
      "kind": "news",
      "published": "2026-08-13T14:23:00+00:00",
      "summary": "Some staffers joined President Trump in covertly swapping planes amid a missile threat from Iran when leaving Turkey. Others were left behind on the decoy plane. CBS News' Aaron Navarro has more."
-    },
-    {
-     "outlet": "thehill",
-     "title": "Rubio, Bessent stayed on decoy plane after Trump switch: Reports",
-     "url": "https://thehill.com/homenews/administration/6026784-marco-rubio-scott-bessent-donald-trump-air-force-one-decoy-nato-summit/",
-     "author": "Max Rego",
-     "kind": "news",
-     "published": "2026-08-13T13:36:24+00:00",
-     "summary": "Secretary of State Marco Rubio and Treasury Secretary Scott Bessent departed from the NATO summit in Turkey last month aboard the same plane President Trump had been secretly moved off of before takeoff, multiple outlets reported Wednesday. A senior U.S. official told The Associated Press that Rubio was aware of the switch and the potential..."
     },
     {
      "outlet": "cbsnews",
@@ -95,15 +86,6 @@
      "summary": "Getty/John Stewart Show CNN host Kaitlan Collins has called out Donald Trump\u2019s deputy chief of staff Stephen Miller for staying quiet on the president\u2019s Air Force One ruse. The 80-year-old president was secretly sneaked from the legacy Air Force One jet to a smaller military plane in an airport catering truck while departing Turkey in July, amid a credible missile threat against the original aircraft, according to a Washington Post investigation. Miller, 40, was among those left aboard the decoy"
     },
     {
-     "outlet": "nyt",
-     "title": "Late Night Ribs Trump for Leaving Staff Behind on Air Force One",
-     "url": "https://www.nytimes.com/2026/08/13/arts/television/late-night-trump-air-force-one-catering.html",
-     "author": "Trish Bendix",
-     "kind": "news",
-     "published": "2026-08-13T06:22:11+00:00",
-     "summary": "Anthony Anderson, the guest host of \u201cJimmy Kimmel Live,\u201d called the ruse in which President Trump exited the plane in a catering container \u201cOperation Pig in a Blanket.\u201d"
-    },
-    {
      "outlet": "pbsnewshour",
      "title": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
      "url": "https://www.pbs.org/newshour/show/news-wrap-trump-confirms-he-was-secretly-whisked-away-from-air-force-one-in-turkey",
@@ -113,13 +95,22 @@
      "summary": "In our news wrap Wednesday, President Trump confirmed that he was whisked away from Air Force One in a catering truck at the Secret Service's direction, the hope of finding survivors is diminishing more than two days after a powerful earthquake hit Colombia and White House Press Secretary Karoline Leavitt says she will soon leave the job to spend more time with her family."
     },
     {
-     "outlet": "abcnews",
-     "title": "TIMELINE: Trump's elaborate covert exit from Turkey amid Iranian threat",
-     "url": "https://abcnews.com/Politics/timeline-trumps-elaborate-covert-exit-turkey-amid-iranian/story?id=135580575",
-     "author": null,
+     "outlet": "nyt",
+     "title": "Trump\u2019s Plane Switch Ruse Pales in Comparison With Putin\u2019s Secrecy",
+     "url": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html",
+     "author": "Anton Troianovski",
      "kind": "news",
-     "published": "2026-08-12T18:51:16+00:00",
-     "summary": "In Turkey, Trump said the change in plane had nothing to do with security concerns, though he also reiterated that he's \"number one on the kill list for Iran.\u201d"
+     "published": "2026-08-12T21:37:33+00:00",
+     "summary": "President Trump\u2019s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia\u2019s president, whose fixation on security has reached new heights in recent years."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Which Trump Officials Joined Him on His Secret Flight Out of Turkey?",
+     "url": "https://www.nytimes.com/2026/08/12/us/politics/trump-air-force-one-secret-flight-passengers.html",
+     "author": "Maggie Haberman",
+     "kind": "news",
+     "published": "2026-08-12T19:49:59+00:00",
+     "summary": "The White House aides Natalie Harp and Dan Scavino were among those traveling with the president on a military jet."
     },
     {
      "outlet": "time",
@@ -149,6 +140,15 @@
      "summary": "In his first public comments on the operation, the president downplayed the risks to officials and journalists who remained on Air Force One for the flight from Turkey."
     },
     {
+     "outlet": "wapo",
+     "title": "Close aides, but no Cabinet officials, joined Trump in airport catering truck",
+     "url": "https://www.washingtonpost.com/politics/2026/08/12/close-trump-aides-no-cabinet-officials-made-secret-catering-truck-move/",
+     "author": "Dan Lamothe, Cat Zakrzewski",
+     "kind": "news",
+     "published": "2026-08-12T09:00:00+00:00",
+     "summary": "The president was accompanied by some of his most loyal aides but no top administration officials as he made the clandestine move to a different plane to leave Turkey last month."
+    },
+    {
      "outlet": "npr",
      "title": "Report suggests a threat forced Trump to switch aircraft as he departed NATO summit",
      "url": "https://www.npr.org/2026/08/12/nx-s1-5928126/report-suggests-a-threat-forced-trump-to-switch-aircraft-as-he-departed-nato-summit",
@@ -176,6 +176,24 @@
      "summary": "The military operation was the first following Defense Secretary Pete Hegseth\u2019s dismantling of an office focused on mitigating unintended casualties."
     },
     {
+     "outlet": "wapo",
+     "title": "Democrats demand briefing on Trump\u2019s secret flight from Turkey",
+     "url": "https://www.washingtonpost.com/politics/2026/08/11/democrats-demand-briefing-trumps-secret-flight-turkey/",
+     "author": "Cat Zakrzewski",
+     "kind": "news",
+     "published": "2026-08-11T22:11:15+00:00",
+     "summary": "Senate Minority Leader Chuck Schumer said the White House kept Congress \u201cin the dark\u201d about last month\u2019s ruse to avoid an Iranian threat."
+    },
+    {
+     "outlet": "vox",
+     "title": "Trump\u2019s catering truck caper",
+     "url": "https://www.vox.com/today-explained-newsletter/495843/trumps-catering-truck-caper",
+     "author": "Caitlin Dewey",
+     "kind": "news",
+     "published": "2026-08-11T20:50:00+00:00",
+     "summary": "This story appeared in&#160;Today, Explained,&#160;a daily newsletter that helps you understand the most compelling news and stories of the day.&#160;Subscribe here. It\u2019s not exactly the stuff of Netflix spy thrillers, but\u2026it\u2019s also not every day that the president makes a covert getaway in a catering truck.&#160; White House officials revealed on Monday that, before a [&#8230;]"
+    },
+    {
      "outlet": "axios",
      "title": "Trump's secret plane switch: How Air Force One protects the president from threats",
      "url": "https://www.axios.com/2026/08/11/trump-air-force-one-security-secret-plane-switch",
@@ -187,127 +205,19 @@
    ]
   },
   {
-   "id": "1cea583813",
-   "topic": "Politics",
-   "summary": "As Karoline Leavitt plans to step down, it\u2019s apparent how the president above all values a readiness to twist the truth As Karoline Leavitt prepares to step down from her role as Donald Trump \u2019s fifth White House press secretary, a brief review of her tenure , and that of her predecessors, makes\u2026",
-   "headline": "Will Trump\u2019s next press secretary be a better liar than the first five?",
-   "updated": "2026-08-13T14:02:13+00:00",
-   "outletCount": 10,
-   "counts": {
-    "nonprofit": 3,
-    "pub": 1,
-    "family": 5,
-    "corp": 1
-   },
-   "newsCount": 9,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Will Trump\u2019s next press secretary be a better liar than the first five?",
-     "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-press-secretary-lies-karoline-leavitt",
-     "author": "Robert Mackey",
-     "kind": "news",
-     "published": "2026-08-13T14:02:13+00:00",
-     "summary": "As Karoline Leavitt plans to step down, it\u2019s apparent how the president above all values a readiness to twist the truth As Karoline Leavitt prepares to step down from her role as Donald Trump \u2019s fifth White House press secretary, a brief review of her tenure , and that of her predecessors, makes clear that the most fabulist president in US history prizes one quality above all else in the women and men who speak for him: a willingness to tell outrageous lies. Leavitt started her tenure by telling"
-    },
-    {
-     "outlet": "bbc",
-     "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-     "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T22:58:45+00:00",
-     "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Karoline Leavitt, Trump\u2019s White House Press Secretary, Is Leaving the Role",
-     "url": "https://www.nytimes.com/2026/08/12/us/politics/karoline-leavitt-trump-press-secretary.html",
-     "author": "Erica L. Green",
-     "kind": "news",
-     "published": "2026-08-12T22:28:48+00:00",
-     "summary": "President Trump said that Ms. Leavitt, who recently gave birth to her second child, would be leaving to spend time with her family."
-    },
-    {
-     "outlet": "wapo",
-     "title": "White House press secretary Karoline Leavitt to leave administration",
-     "url": "https://www.washingtonpost.com/politics/2026/08/12/white-house-press-secretary-karoline-leavitt-leave-administration/",
-     "author": "Cat Zakrzewski",
-     "kind": "news",
-     "published": "2026-08-12T21:28:57+00:00",
-     "summary": "She will leave the administration at the end of August, President Donald Trump announced in a post on Truth Social on Wednesday."
-    },
-    {
-     "outlet": "time",
-     "title": "Karoline Leavitt to Step Down as White House Press Secretary",
-     "url": "https://time.com/article/2026/08/12/Karoline-Leavitt-to-step-down-white-house-press-secretary-Donald-Trump/",
-     "author": "Philip Wang",
-     "kind": "news",
-     "published": "2026-08-12T20:22:21+00:00",
-     "summary": "Trump said Leavitt will depart to spend more time with her family."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Karoline Leavitt Leaving White House, No Replacement Named",
-     "url": "https://www.breitbart.com/politics/2026/08/12/karoline-leavitt-leaving-white-house-no-replacement-named/",
-     "author": "Nick Gilbertson",
-     "kind": "news",
-     "published": "2026-08-12T20:20:20+00:00",
-     "summary": "White House press secretary Karoline Leavitt is departing the Trump administration at the end of August, and a replacement has not yet been named. The post Karoline Leavitt Leaving White House, No Replacement Named appeared first on Breitbart ."
-    },
-    {
-     "outlet": "axios",
-     "title": "Karoline Leavitt stepping down as White House press secretary",
-     "url": "https://www.axios.com/2026/08/12/trump-karoline-leavitt-white-house-press",
-     "author": "Avery Lotz",
-     "kind": "news",
-     "published": "2026-08-12T20:10:29+00:00",
-     "summary": "Karoline Leavitt will be stepping down from her role as White House press secretary at the end of the month, President Trump announced Wednesday in a Truth Social post. The big picture: Leavitt is leaving to spend more time with her family, the president said. A member of Trump's team who followed him from his presidential campaign to the White House, she's been a fiercely loyal face of the White House. Driving the news: Trump said in the surprise post that Leavitt will become one of his top out"
-    },
-    {
-     "outlet": "npr",
-     "title": "White House press secretary leaving",
-     "url": "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
-     "author": "Deepa Shivaram",
-     "kind": "news",
-     "published": "2026-08-12T20:05:54+00:00",
-     "summary": "Karoline Leavitt will continue to be an outside adviser, Trump said"
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Trump says Karoline Leavitt will leave White House press secretary role, become outside advisor",
-     "url": "https://www.foxnews.com/politics/trump-says-karoline-leavitt-leave-white-house-press-secretary-role-become-outside-advisor",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T19:51:55+00:00",
-     "summary": "White House press secretary Karoline Leavitt will leave her role at the end of the month to spend more time with her family, President Donald Trump announced."
-    },
-    {
-     "outlet": "reason",
-     "title": "Trump Administration Claims Executive Privilege Over White House Conversations With Private Advisers",
-     "url": "https://reason.com/2026/08/12/trump-administration-claims-executive-privilege-over-white-house-conversations-with-private-advisers/",
-     "author": "C.J. Ciaramella",
-     "kind": "opinion",
-     "published": "2026-08-12T19:16:44+00:00",
-     "summary": "Trump on phone"
-    }
-   ]
-  },
-  {
    "id": "b625b57cde",
    "topic": "Politics",
-   "summary": "Leavitt\u2019s departure three months before midterms raises questions over who will communicate Trump\u2019s messages as his approval rating falls to record low, says YouGov polling Sign up for the Breaking News US email Troy Jackson, the Democratic nominee for the US Senate seat in Maine, has launched a\u2026",
+   "summary": "Leavitt\u2019s departure three months before midterms raises questions over who will communicate Trump\u2019s messages as his approval rating falls to record low, says YouGov polling Sign up for the Breaking News US email Donald Trump\u2019s executive order on vaccines does not change the US recommendations for\u2026",
    "headline": "Questions over Karoline Leavitt\u2019s replacement as she steps down as White House press secretary \u2013 US politics live",
-   "updated": "2026-08-13T14:39:33+00:00",
-   "outletCount": 8,
+   "updated": "2026-08-13T15:15:51+00:00",
+   "outletCount": 11,
    "counts": {
     "nonprofit": 2,
+    "pub": 2,
     "corp": 3,
-    "family": 3
+    "family": 5
    },
-   "newsCount": 8,
+   "newsCount": 12,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -317,8 +227,17 @@
      "url": "https://www.theguardian.com/us-news/live/2026/aug/13/karoline-leavitt-white-house-primaries-trump-politics-latest-updates",
      "author": "Shrai Popat and Mabel Banfield-Nwachi",
      "kind": "news",
-     "published": "2026-08-13T14:39:33+00:00",
-     "summary": "Leavitt\u2019s departure three months before midterms raises questions over who will communicate Trump\u2019s messages as his approval rating falls to record low, says YouGov polling Sign up for the Breaking News US email Troy Jackson, the Democratic nominee for the US Senate seat in Maine, has launched a new campaign ad focused on affordability \u2013&nbsp;one of the key issues driving voters to the polls this midterm election. Jackson replaced Graham Platner on the ballot after the former nominee faced sexua"
+     "published": "2026-08-13T15:15:51+00:00",
+     "summary": "Leavitt\u2019s departure three months before midterms raises questions over who will communicate Trump\u2019s messages as his approval rating falls to record low, says YouGov polling Sign up for the Breaking News US email Donald Trump\u2019s executive order on vaccines does not change the US recommendations for the shots \u2013 but experts say it does create confusion and doubt about vaccines, which will lead to more illness and possibly deaths among children and will make it harder for families and pediatricians t"
+    },
+    {
+     "outlet": "bbc",
+     "title": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
+     "url": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T14:56:19+00:00",
+     "summary": "The job requires managing a complex relationship with the media - as well Trump's high expectations."
     },
     {
      "outlet": "nbcnews",
@@ -330,15 +249,6 @@
      "summary": "President Donald Trump is announcing Karoline Leavitt will be departing as White House Press Secretary at the end of August after more than a year and half on the job. NBC\u2019s Garrett Haake reports for TODAY."
     },
     {
-     "outlet": "bloomberg",
-     "title": "Leavitt to Depart Role as White House Press Secretary",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-13/leavitt-to-depart-role-as-white-house-press-secretary-video",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T09:18:42+00:00",
-     "summary": "White House Press Secretary Karoline Leavitt will depart her role later this month, a move that will deprive President Donald Trump of his top spokesperson less than three months until the November midterm elections. Bloomberg's Stephanie Baker reports. (Source: Bloomberg)"
-    },
-    {
      "outlet": "abcnews",
      "title": "Trump announces White House press secretary Karoline Leavitt stepping down",
      "url": "https://abcnews.com/Politics/trump-announces-white-house-press-secretary-karoline-leavitt/story?id=135590424",
@@ -348,13 +258,13 @@
      "summary": "She will leave her role at the end of the month, Trump said."
     },
     {
-     "outlet": "dailybeast",
-     "title": "Top Doctor Demands White House Come Clean on Trump\u2019s Health",
-     "url": "https://www.thedailybeast.com/top-doctor-jonathan-reiner-demands-white-house-come-clean-on-trumps-health/",
-     "author": "Cameron Adams",
+     "outlet": "dw",
+     "title": "US: Karoline Leavitt to step down as Trump's spokesperson",
+     "url": "https://www.dw.com/en/us-karoline-leavitt-to-step-down-as-trump-s-spokesperson/a-78345847?maca=en-rss-en-all-1573-rdf",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-13T04:54:24+00:00",
-     "summary": "Andrew Harnik/Getty Images A top doctor has demanded the White House come clean and reveal the full details about President Donald Trump\u2019s health, claiming it is rapidly declining in plain sight. Dr. Jonathan Reiner, 66, appeared on Erin Burnett OutFront on Wednesday after a scathing opinion piece in the New York Times that also called out the silence around Trump\u2019s medical issues. Reiner, who was previously Vice President Dick Cheney\u2019s cardiologist, told host Burnett that he was concerned that "
+     "published": "2026-08-13T07:15:00+00:00",
+     "summary": "White House press secretary Karoline Leavitt is to leave her job at the end of the month, President Donald Trump says. Leavitt, 28, is the youngest-ever person to have held the position."
     },
     {
      "outlet": "pbsnewshour",
@@ -382,27 +292,72 @@
      "kind": "news",
      "published": "2026-08-12T23:00:53+00:00",
      "summary": "During her time behind the White House podium, the departing Press Secretary has gained a reputation for her sharp retorts to reporters."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Karoline Leavitt, Trump\u2019s White House Press Secretary, Is Leaving the Role",
+     "url": "https://www.nytimes.com/2026/08/12/us/politics/karoline-leavitt-trump-press-secretary.html",
+     "author": "Erica L. Green",
+     "kind": "news",
+     "published": "2026-08-12T22:28:48+00:00",
+     "summary": "President Trump said that Ms. Leavitt, who recently gave birth to her second child, would be leaving to spend time with her family."
+    },
+    {
+     "outlet": "wapo",
+     "title": "White House press secretary Karoline Leavitt to leave administration",
+     "url": "https://www.washingtonpost.com/politics/2026/08/12/white-house-press-secretary-karoline-leavitt-leave-administration/",
+     "author": "Cat Zakrzewski",
+     "kind": "news",
+     "published": "2026-08-12T21:28:57+00:00",
+     "summary": "She will leave the administration at the end of August, President Donald Trump announced in a post on Truth Social on Wednesday."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Karoline Leavitt Leaving White House, No Replacement Named",
+     "url": "https://www.breitbart.com/politics/2026/08/12/karoline-leavitt-leaving-white-house-no-replacement-named/",
+     "author": "Nick Gilbertson",
+     "kind": "news",
+     "published": "2026-08-12T20:20:20+00:00",
+     "summary": "White House press secretary Karoline Leavitt is departing the Trump administration at the end of August, and a replacement has not yet been named. The post Karoline Leavitt Leaving White House, No Replacement Named appeared first on Breitbart ."
+    },
+    {
+     "outlet": "axios",
+     "title": "Karoline Leavitt stepping down as White House press secretary",
+     "url": "https://www.axios.com/2026/08/12/trump-karoline-leavitt-white-house-press",
+     "author": "Avery Lotz",
+     "kind": "news",
+     "published": "2026-08-12T20:10:29+00:00",
+     "summary": "Karoline Leavitt will be stepping down from her role as White House press secretary at the end of the month, President Trump announced Wednesday in a Truth Social post. The big picture: Leavitt is leaving to spend more time with her family, the president said. A member of Trump's team who followed him from his presidential campaign to the White House, she's been a fiercely loyal face of the White House. Driving the news: Trump said in the surprise post that Leavitt will become one of his top out"
     }
    ]
   },
   {
    "id": "713268a282",
    "topic": "Justice & Policing",
-   "summary": "Inflation cooled a bit last month, according to a new report from the Labor Department. And, ICE plans to equip its officers with electric shock gloves.",
+   "summary": "U.S. Immigration and Customs Enforcement plans to equip its agents with electric-shock gloves manufactured by Compliant Technologies, according to a Department of Homeland Security notice. Critics call the gloves overly aggressive and say they have the potential for abuse. CBS News' Lesley Marin\u2026",
    "headline": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
-   "updated": "2026-08-13T11:31:18+00:00",
+   "updated": "2026-08-13T15:42:45+00:00",
    "outletCount": 7,
    "counts": {
+    "corp": 2,
     "nonprofit": 2,
-    "family": 2,
     "pub": 1,
-    "coop": 1,
-    "corp": 1
+    "family": 2,
+    "coop": 1
    },
-   "newsCount": 7,
+   "newsCount": 8,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Latest news on ICE plan to give agents electric shock gloves",
+     "url": "https://www.cbsnews.com/video/ices-controversial-plan-to-agents-electric-shock-gloves/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T15:42:45+00:00",
+     "summary": "U.S. Immigration and Customs Enforcement plans to equip its agents with electric-shock gloves manufactured by Compliant Technologies, according to a Department of Homeland Security notice. Critics call the gloves overly aggressive and say they have the potential for abuse. CBS News' Lesley Marin reports."
+    },
     {
      "outlet": "npr",
      "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
@@ -413,22 +368,13 @@
      "summary": "Inflation cooled a bit last month, according to a new report from the Labor Department. And, ICE plans to equip its officers with electric shock gloves."
     },
     {
-     "outlet": "nyt",
-     "title": "ICE\u2019s Plan to Give Officers Electric Stun Gloves, and a Siege on Palestinian Homes",
-     "url": "https://www.nytimes.com/2026/08/13/podcasts/the-headlines/ice-electric-stun-gloves-palestinian-families.html",
-     "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, Ian Stewart, David M. Halbfinger and Chico Harlan",
-     "kind": "news",
-     "published": "2026-08-13T10:00:11+00:00",
-     "summary": "Plus, health candy?"
-    },
-    {
      "outlet": "bbc",
-     "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
-     "url": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+     "title": "Watch: Why are ICE agents getting controversial shock gloves?",
+     "url": "https://www.bbc.co.uk/news/videos/c4gv9w7p347o?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-12T21:53:26+00:00",
-     "summary": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply."
+     "published": "2026-08-12T21:33:40+00:00",
+     "summary": "The BBC\u2019s Sarah Smith looks at what the new equipment could mean for the agency as tensions over immigration enforcement continue to escalate."
     },
     {
      "outlet": "time",
@@ -447,6 +393,15 @@
      "kind": "news",
      "published": "2026-08-12T20:39:23+00:00",
      "summary": "ICE plans to spends tens of millions of dollars on the gloves, which are supposed to incapacitate people. A manual 404 Media found says the gloves may even contribute to \u201csudden death.\u201d"
+    },
+    {
+     "outlet": "time",
+     "title": "ICE Is Getting Body Cameras. But Will They Help Hold Agents Accountable?",
+     "url": "https://time.com/article/2026/08/12/ice-is-getting-body-cameras-but-will-they-help-hold-agents-accountable-/",
+     "author": "Rebecca Schneid",
+     "kind": "news",
+     "published": "2026-08-12T18:01:25+00:00",
+     "summary": "ICE agents will soon have body cameras, but footage of serious incidents may only be released if it\u2019s in the agency\u2019s \u201cbest interests.\u201d Who does that protect?"
     },
     {
      "outlet": "axios",
@@ -469,164 +424,11 @@
    ]
   },
   {
-   "id": "e3f9519673",
-   "topic": "World",
-   "summary": "President Vladimir Putin visited Russia's far-eastern Kuril islands for the first time on Thursday, prompting protests by Japan which also claims the territory.",
-   "headline": "Japan protests Putin's first visit to disputed islands",
-   "updated": "2026-08-13T15:06:07+00:00",
-   "outletCount": 6,
-   "counts": {
-    "pub": 5,
-    "family": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 7,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "Japan protests Putin's first visit to disputed islands",
-     "url": "https://www.france24.com/en/video/20260813-japan-protests-putin-s-first-visit-to-disputed-islands",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-13T15:06:07+00:00",
-     "summary": "President Vladimir Putin visited Russia's far-eastern Kuril islands for the first time on Thursday, prompting protests by Japan which also claims the territory."
-    },
-    {
-     "outlet": "france24",
-     "title": "Putin visits disputed Kuril Islands",
-     "url": "https://www.france24.com/en/video/20260813-putin-visits-disputed-kuril-islands-1",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-13T14:39:19+00:00",
-     "summary": "\ud83c\uddf7\ud83c\uddfa \ud83c\uddef\ud83c\uddf5 Russian President Putin has made his first visit to the disputed Kuril Islands, travelling to Iturup, one of four islands claimed by both Russia and Japan. Tokyo strongly protested the visit, calling it \u201cabsolutely unacceptable.\u201d"
-    },
-    {
-     "outlet": "nyt",
-     "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-     "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
-     "author": "Javier C. Hern\u00e1ndez and Paul Sonne",
-     "kind": "news",
-     "published": "2026-08-13T13:12:44+00:00",
-     "summary": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country\u2019s sanctions against Russia over the Ukraine war."
-    },
-    {
-     "outlet": "guardian",
-     "title": "\u2018Absolutely unacceptable\u2019: Japan condemns visit by Vladimir Putin to disputed Kuril Islands",
-     "url": "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands",
-     "author": "Gavin Blair in Tokyo",
-     "kind": "news",
-     "published": "2026-08-13T12:56:57+00:00",
-     "summary": "Japanese PM says islands seized by Soviets late in second world war are part of her country under international law The Japanese government has reacted angrily to Vladimir Putin\u2019s first visit to the disputed Kuril Islands, which are claimed by both Tokyo and Moscow. Japan\u2019s foreign minister, Toshimitsu Motegi, summoned the Russian ambassador Nikolay Nozdrev, while the prime minister, Sanae Takaichi, called Putin\u2019s actions \u201cabsolutely unacceptable\u201d. Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
-     "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T09:54:03+00:00",
-     "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Japan protests as Russia\u2019s Putin visits disputed Kuril Islands",
-     "url": "https://www.aljazeera.com/news/2026/8/13/japan-protests-as-russias-putin-visits-disputed-kuril-islands?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T09:43:38+00:00",
-     "summary": "Japanese PM says Putin&#039;s visit to the Pacific island chain, seized by the Soviet Union in 1945, is &#039;unacceptable&#039;."
-    },
-    {
-     "outlet": "dw",
-     "title": "Russia's Putin angers Japan with 1st visit to Kuril Islands",
-     "url": "https://www.dw.com/en/russia-s-putin-angers-japan-with-1st-visit-to-kuril-islands/a-78345291?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T06:06:00+00:00",
-     "summary": "Japan says it has summoned the Russian ambassador to \"strongly protest\" President Vladimir Putin's trip to the disputed Kuril Islands."
-    }
-   ]
-  },
-  {
-   "id": "aef75055d5",
-   "topic": "Business & Economy",
-   "summary": "Bob Iger, the former chief executive of Disney, and Josh Kushner, the venture capitalist, are buying the Los Angeles Lakers. Their wives set them up.",
-   "headline": "Former Disney CEO Bob Iger and investor Josh Kushner buy the Los Angeles Lakers",
-   "updated": "2026-08-13T15:02:27+00:00",
-   "outletCount": 6,
-   "counts": {
-    "family": 3,
-    "corp": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "How Bob Iger and Joshua Kushner\u2019s Bromance Led Them to Lakers",
-     "url": "https://www.nytimes.com/2026/08/13/business/bob-iger-joshua-kushner-lakers.html",
-     "author": "Brooks Barnes and Tania Ganguli",
-     "kind": "news",
-     "published": "2026-08-13T15:02:27+00:00",
-     "summary": "Bob Iger, the former chief executive of Disney, and Josh Kushner, the venture capitalist, are buying the Los Angeles Lakers. Their wives set them up."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Former Disney CEO Bob Iger, venture capitalist Josh Kushner buy LA Lakers",
-     "url": "https://www.cbsnews.com/video/former-disney-ceo-bob-iger-venture-capitalist-josh-kushner-buy-la-lakers/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T12:31:27+00:00",
-     "summary": "Former Disney CEO Bob Iger and investor Josh Kushner, brother of President Trump's son-in-law Jared Kushner, have agreed to buy the Los Angeles Lakers for a record reported $12.5 billion. Kelly O'Grady reports."
-    },
-    {
-     "outlet": "npr",
-     "title": "Former Disney CEO Bob Iger and investor Josh Kushner buy the Los Angeles Lakers",
-     "url": "https://www.npr.org/2026/08/13/nx-s1-5929255/los-angeles-lakers-sale-bob-iger-josh-kushner-mark-walter",
-     "author": "Michel Martin",
-     "kind": "news",
-     "published": "2026-08-13T08:41:23+00:00",
-     "summary": "NPR's Michel Martin speaks with Mike Vorkunov of the Athletic about the record-breaking sale of the Los Angeles Lakers to investor Josh Kushner and former Disney CEO Bob Iger."
-    },
-    {
-     "outlet": "semafor",
-     "title": "Los Angeles Lakers sold for record $12.5 billion",
-     "url": "https://www.semafor.com/article/08/12/2026/los-angeles-lakers-sold-for-record-125-billion",
-     "author": "Brendan Ruberry",
-     "kind": "news",
-     "published": "2026-08-12T22:30:30+00:00",
-     "summary": "Former Disney chief Bob Iger and investor Josh Kushner are buying the NBA team."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Lakers to be sold to Bob Iger and Josh Kushner for $12 billion",
-     "url": "https://www.nbcnews.com/now/video/lakers-to-be-sold-to-bob-iger-and-josh-kushner-for-12-billion-268186693578",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T16:21:34+00:00",
-     "summary": "The Los Angeles Lakers are being sold to an ownership group led by Josh Kushner and former Disney CEO Bob Iger reportedly for a $12.5 billion. NBC News' Steve Patterson reports on the new ownership group buying the franchise that had just been bought in late 2025."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Bob Iger, Joshua Kushner to buy Lakers from Mark Walter's ownership group for $12.5 billion",
-     "url": "https://www.latimes.com/sports/lakers/story/2026-08-12/lakers-sale-bob-iger-joshua-kushner",
-     "author": "Thuc Nhi Nguyen, Broderick Turner, Bill Shaikin",
-     "kind": "news",
-     "published": "2026-08-12T15:02:03+00:00",
-     "summary": "Joshua Kushner and Bob Iger were eyeing an NBA expansion team bid in Las Vegas but pivoted to buying the Lakers from Mark Walter, who bought a controlling interest in the team last year."
-    }
-   ]
-  },
-  {
    "id": "9a50e69d67",
    "topic": "Politics",
-   "summary": "Daniel Heuer/REUTERS Donald Trump\u2019s hopes of cashing in by offering a paid head-start to his Truth Social posts have been dealt a blow after he was sued in an attempt to stop it. Truth Social\u2019s owner, Trump Media &amp; Technology, launched the so-called \u201cTruth API\u201d service this month, charging\u2026",
+   "summary": "Free press groups say selling access to Trump's posts is &quot;unconstitutional.&quot;",
    "headline": "Trump sued over service selling faster access to Truth Social posts",
-   "updated": "2026-08-13T09:27:57+00:00",
+   "updated": "2026-08-13T16:01:48+00:00",
    "outletCount": 6,
    "counts": {
     "corp": 2,
@@ -639,6 +441,15 @@
    "underreported": false,
    "articles": [
     {
+     "outlet": "abcnews",
+     "title": "'Profoundly corrupt': Trump sued over selling early access to Truth Social posts",
+     "url": "https://abcnews.com/Politics/profoundly-corrupt-trump-sued-federal-court-selling-early/story?id=135591214",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T16:01:48+00:00",
+     "summary": "Free press groups say selling access to Trump's posts is &quot;unconstitutional.&quot;"
+    },
+    {
      "outlet": "dailybeast",
      "title": "Trump\u2019s Truth Social Faces Fresh Battle After Humiliating Loss",
      "url": "https://www.thedailybeast.com/trumps-truth-social-faces-fresh-battle-after-humiliating-loss/",
@@ -646,15 +457,6 @@
      "kind": "news",
      "published": "2026-08-13T09:27:57+00:00",
      "summary": "Daniel Heuer/REUTERS Donald Trump\u2019s hopes of cashing in by offering a paid head-start to his Truth Social posts have been dealt a blow after he was sued in an attempt to stop it. Truth Social\u2019s owner, Trump Media &amp; Technology, launched the so-called \u201cTruth API\u201d service this month, charging financial firms up to $100,000 a month to view the president\u2019s posts about U.S. policy on issues related to tariffs, war and other critical government matters, seconds faster than the rest of the world. Ev"
-    },
-    {
-     "outlet": "abcnews",
-     "title": "'Profoundly corrupt': Trump sued over selling early access to Truth Social posts",
-     "url": "https://abcnews.com/Politics/profoundly-corrupt-trump-sued-federal-court-selling-early/story?id=135591214",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T21:31:58+00:00",
-     "summary": "Free press groups say selling access to Trump's posts is &quot;unconstitutional.&quot;"
     },
     {
      "outlet": "nyt",
@@ -691,6 +493,151 @@
      "kind": "news",
      "published": "2026-08-12T14:48:01+00:00",
      "summary": "A lawsuit filed with the Freedom of the Press Foundation argues the president is restricting First Amendment-protected information in a scheme to enrich himself. The post The Intercept Sues Trump for Selling Premium Access to Truth Social Announcements appeared first on The Intercept ."
+    }
+   ]
+  },
+  {
+   "id": "85795271f1",
+   "topic": "Politics",
+   "summary": "Senate Democrats are pressing Secretary of Defense Pete Hegseth and the Trump administration for more information about conditions aboard the USS Abraham Lincoln, which has been deployed since November, amid reports that sailors have attempted to jump overboard. Sen. Richard Blumenthal (D-Conn.), a\u2026",
+   "headline": "Israel deliberately starting wildfires in southern Lebanon, firefighters say",
+   "updated": "2026-08-13T15:39:19+00:00",
+   "outletCount": 6,
+   "counts": {
+    "corp": 3,
+    "coop": 1,
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "USS Abraham Lincoln: Senate Democrats press Hegseth for answers on reports of attempted suicides",
+     "url": "https://thehill.com/homenews/senate/6027665-blumenthal-hegseth-carrier-conditions/",
+     "author": "Alexander Bolton",
+     "kind": "news",
+     "published": "2026-08-13T15:39:19+00:00",
+     "summary": "Senate Democrats are pressing Secretary of Defense Pete Hegseth and the Trump administration for more information about conditions aboard the USS Abraham Lincoln, which has been deployed since November, amid reports that sailors have attempted to jump overboard. Sen. Richard Blumenthal (D-Conn.), a member of the Senate Armed Services Committee, has written a letter to..."
+    },
+    {
+     "outlet": "dropsite",
+     "title": "USS Abraham Lincoln sailors try to jump overboard after 250 days at sea; Third person dies after Newark ICE facility detention; Israel sets wildfires in Lebanon",
+     "url": "https://www.dropsitenews.com/p/uss-abraham-lincoln-overboard-newark-ice-detention-israel-lebanon-wildfires",
+     "author": "Drop Site News",
+     "kind": "news",
+     "published": "2026-08-13T15:19:39+00:00",
+     "summary": "Drop Site Daily: August 13, 2026"
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Reports Emerge on Mental Health Crisis on USS Abraham Lincoln",
+     "url": "https://www.today.com/video/reports-emerge-on-mental-health-crisis-on-uss-abraham-lincoln-268239941768",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T12:17:32+00:00",
+     "summary": "About 5,000 sailors and Marines have been on the USS Abraham Lincoln for a record 250 days as they support the war with Iran. Now, there are reports that there have been multiple attempts by personnel to jump overboard, prompting worried families to voice their concerns to Navy leaders. In response, a Navy official told NBC News, \u201cWe have not observed an increase in suicidal ideations or attempts aboard the ship.\u201d"
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Democratic senators demand answers about conditions aboard USS Abraham Lincoln",
+     "url": "https://www.cbsnews.com/news/uss-abraham-lincoln-democratic-senators-inquiry-demand/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T11:11:00+00:00",
+     "summary": "Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln during the aircraft carrier's record-setting deployment."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Perez Hilton's mother seeks temporary custody of his children amid mental health crisis",
+     "url": "https://www.latimes.com/entertainment-arts/story/2026-08-12/perez-hilton-mom-temporary-custody-kids-mental-health-crisis",
+     "author": "Alexandra Del Rosario",
+     "kind": "news",
+     "published": "2026-08-12T18:33:49+00:00",
+     "summary": "Perez Hilton's mom has taken legal action to ensure the care of his three children after his public mental health crisis unfolded on social media earlier this month."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israel deliberately starting wildfires in southern Lebanon, firefighters say",
+     "url": "https://www.theguardian.com/world/2026/aug/12/israel-deliberately-starting-wildfires-in-southern-lebanon-firefighters-say",
+     "author": "William Christou in Beirut",
+     "kind": "news",
+     "published": "2026-08-12T16:17:55+00:00",
+     "summary": "Emergency services, residents and environmental groups say military dropping flares to destroy forests and crops Firefighters and residents of south Lebanon have accused the Israeli military of lighting wildfires in the region, as forested areas burned down in blazes sparked by Israeli bombing. Environmental groups said the fires in recent weeks were part of a longstanding Israeli practice of targeting Lebanon\u2019s natural environment. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "4a4247339e",
+   "topic": "Business & Economy",
+   "summary": "It won&#8217;t take a billion guesses. The manager of the Illinois gas station that sold Wednesday night&#8217;s $1.04 billion winning Powerball lottery ticket is confident he&#8217;ll soon work out who the lucky winner is, even though they could try to remain secret. &#8220;I&#8217;d say probably\u2026",
+   "headline": "Lottery ticket sold at Illinois gas station wins $1bn Powerball jackpot",
+   "updated": "2026-08-13T15:37:23+00:00",
+   "outletCount": 6,
+   "counts": {
+    "family": 2,
+    "nonprofit": 1,
+    "corp": 3
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Small-town gas station that sold $1B lottery ticket inching closer to ID\u2019ing jackpot winner: \u2018Like a murder mystery\u2019",
+     "url": "https://nypost.com/2026/08/13/us-news/illinois-gas-station-that-sold-1b-lottery-ticket-thinks-theyll-soon-know-who-won/",
+     "author": "Anthony Blair",
+     "kind": "news",
+     "published": "2026-08-13T15:37:23+00:00",
+     "summary": "It won&#8217;t take a billion guesses. The manager of the Illinois gas station that sold Wednesday night&#8217;s $1.04 billion winning Powerball lottery ticket is confident he&#8217;ll soon work out who the lucky winner is, even though they could try to remain secret. &#8220;I&#8217;d say probably 15% of our customers are traveling through town. The majority..."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Lottery ticket sold at Illinois gas station wins $1bn Powerball jackpot",
+     "url": "https://www.theguardian.com/us-news/2026/aug/13/lottery-1bn-powerball-jackpot-illinois",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-13T13:54:18+00:00",
+     "summary": "Prize was eighth largest in Powerball history and followed three months without a top prize winner A Powerball ticket sold at a gas station in western Illinois was the sole winner of the $1bn jackpot, ending a three-month drought without a top-prize victor. The ticket that won the jackpot on Wednesday night was purchased at a Hy-Vee station in Quincy, about 100 miles (160km) west of the state capital of Springfield along the Missouri border, Illinois Lottery officials said. The winning numbers w"
+    },
+    {
+     "outlet": "wapo",
+     "title": "$1 billion Powerball jackpot has a winner",
+     "url": "https://www.washingtonpost.com/nation/2026/08/13/104-billion-powerball-drawing-finds-winner/",
+     "author": "Victoria Craw",
+     "kind": "news",
+     "published": "2026-08-13T13:00:00+00:00",
+     "summary": "The prize is the eighth largest in Powerball history. The player with the winning numbers can choose a lump sum of $450 million or a series of payments made over 29 years."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Single winning ticket sold for $1.04 billion Powerball jackpot",
+     "url": "https://www.cbsnews.com/news/powerball-jackpot-drawing-tonight-1-billion/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T12:46:00+00:00",
+     "summary": "A single ticket sold in Illinois won the biggest Powerball jackpot of the year, $1.04 billion, in Wednesday night's drawing, the game says."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Powerball player in Illinois wins $1 billion jackpot",
+     "url": "https://abcnews.com/US/powerball-player-illinois-wins-1-billion-jackpot/story?id=135600933",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T12:30:13+00:00",
+     "summary": "It's the largest Powerball jackpot so far this year."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Single ticket bought in Illinois wins $1 billion Powerball jackpot",
+     "url": "https://www.nbcnews.com/news/us-news/ticket-illinois-wins-1-billion-powerball-jackpot-rcna592269",
+     "author": "Phil Helsel",
+     "kind": "news",
+     "published": "2026-08-13T04:53:23+00:00",
+     "summary": "To the tens of thousands and likely more dreaming about a $1 billion Powerball win, the anticipation is over: Someone who bought a ticket in Illinois won it all."
     }
    ]
   },
@@ -753,7 +700,7 @@
      "author": "Sam Levine in New York",
      "kind": "news",
      "published": "2026-08-12T19:19:37+00:00",
-     "summary": "Prosecutors charge Heidi Beirich with financial crimes as part of case against the Southern Poverty Law Center The justice department on Wednesday arrested a leading expert on far-right extremism, charging her with financial crimes as part of the government\u2019s ongoing case against the Southern Poverty Law Center (SPLC). Federal prosecutors charged Heidi Beirich, who formerly served as the group\u2019s chief financial officer, with conspiracy to commit wire fraud, conspiracy to submit false statements "
+     "summary": "Prosecutors charge Heidi Beirich with financial crimes as part of case against the Southern Poverty Law Center The justice department on Wednesday arrested a leading expert on far-right extremism, charging her with financial crimes as part of the government\u2019s ongoing case against the Southern Poverty Law Center (SPLC). Federal prosecutors charged Heidi Beirich, who formerly worked as an executive overseeing work monitoring hate groups , with conspiracy to commit wire fraud, conspiracy to submit "
     },
     {
      "outlet": "breitbart",
@@ -767,87 +714,140 @@
    ]
   },
   {
-   "id": "75e06ec9de",
-   "topic": "Culture & Sport",
-   "summary": "Colombia turned down a Mexican rescue team that sought to travel to the Andean nation to assist with earthquake rescue efforts, raising questions about the new conservative government\u2019s management of the disaster.",
-   "headline": "Earthquake in Colombia: \"The government didn't accept the help from foreign rescue teams\"",
-   "updated": "2026-08-13T14:50:50+00:00",
+   "id": "ea05fe1160",
+   "topic": "Other",
+   "summary": "The last time three executions were held on the same day was Jan. 7, 2010, when Louisiana, Ohio and Texas put inmates to death.",
+   "headline": "Oklahoma carries out first of 3 executions scheduled for the same day in the U.S.",
+   "updated": "2026-08-13T15:51:27+00:00",
    "outletCount": 5,
    "counts": {
+    "nonprofit": 2,
     "family": 2,
-    "pub": 3,
-    "nonprofit": 1
+    "pub": 1
    },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": true,
+   "newsCount": 4,
+   "opinionCount": 1,
+   "underreported": false,
    "articles": [
     {
-     "outlet": "bloomberg",
-     "title": "Colombia Earthquake: Aid From Mexican Search-and-Rescue Team Rejected",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-13/colombia-earthquake-aid-from-mexican-search-and-rescue-team-rejected",
-     "author": "Alex Vasquez and Oscar Medina",
-     "kind": "news",
-     "published": "2026-08-13T14:50:50+00:00",
-     "summary": "Colombia turned down a Mexican rescue team that sought to travel to the Andean nation to assist with earthquake rescue efforts, raising questions about the new conservative government\u2019s management of the disaster."
-    },
-    {
-     "outlet": "france24",
-     "title": "Earthquake in Colombia: \"The government didn't accept the help from foreign rescue teams\"",
-     "url": "https://www.france24.com/en/video/20260813-earthquake-in-colombia-the-government-didn-t-accept-the-help-from-foreign-rescue-teams",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-13T11:51:13+00:00",
-     "summary": "Thursday morning will mark 72 hours since the quake in Colombia, where \"people are surprised that the government didn't accept the help from foreign rescue teams\", says our journalist Rosa Perez."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Colombia earthquake response tests new far-right government",
-     "url": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T11:39:46+00:00",
-     "summary": "Disaster tests President Abelardo de la Espriella and his government as it scrambles to find survivors and provide aid."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Australia Foreign Minister To Say Far Right Party Weakens Nation",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-13/australia-foreign-minister-to-say-far-right-party-weakens-nation",
-     "author": "James Mayger",
-     "kind": "news",
-     "published": "2026-08-13T11:00:01+00:00",
-     "summary": "Australia\u2019s foreign minister will attack the policies of the far-right One Nation party, arguing that its call for a monoculture would damage social cohesion at home and relations with friends and allies abroad."
-    },
-    {
-     "outlet": "dw",
-     "title": "Colombia earthquake: Rescue operation enters 'final phase'",
-     "url": "https://www.dw.com/en/colombia-earthquake-rescue-operation-enters-final-phase/a-78345817?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T07:45:00+00:00",
-     "summary": "Rescuers are racing against a critical 72-hour window to find survivors after a magnitude 7.4 earthquake that has killed 265 people, left hundreds missing, and displaced tens of thousands across western Colombia."
-    },
-    {
      "outlet": "pbsnewshour",
-     "title": "Earthquake response strains Colombia's new government and rescuers as they race against the clock",
-     "url": "https://www.pbs.org/newshour/world/earthquake-response-strains-colombias-new-government-and-rescuers-as-they-race-against-the-clock",
-     "author": "Marko \u00c1lvarez, Associated Press",
+     "title": "Oklahoma carries out first of 3 executions scheduled for the same day in the U.S.",
+     "url": "https://www.pbs.org/newshour/nation/oklahoma-carries-out-first-of-3-executions-scheduled-for-the-same-day-in-the-u-s",
+     "author": "Jamie Stengle, Associated Press",
      "kind": "news",
-     "published": "2026-08-12T22:12:50+00:00",
-     "summary": "Tons of aid from regional partners began to roll into Colombia on Wednesday, as the search for survivors in the rubble of powerful earthquake grew more desperate after the temblor razed buildings, buckled roads and crushed cars."
+     "published": "2026-08-13T15:51:27+00:00",
+     "summary": "The last time three executions were held on the same day was Jan. 7, 2010, when Louisiana, Ohio and Texas put inmates to death."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Oklahoma man put to death in first of three US executions scheduled on same day",
+     "url": "https://www.theguardian.com/us-news/2026/aug/13/executions-oklahoma-alabama-tennessee",
+     "author": "Ed Pilkington",
+     "kind": "news",
+     "published": "2026-08-13T15:28:35+00:00",
+     "summary": "If all executions go ahead, it will be first time in over 15 years there have been over three judicial killings in US in one day Carlos Cuesta-Rodriguez has been put to death by the state of Oklahoma, in the first of three executions scheduled for Thursday in a rare triple procedure that underlines the renewed appetite in the US for state killings. Cuesta-Rodriguez, 70, was pronounced dead at 10.13am at the Oklahoma state penitentiary in McAlester. He was sentenced to death for murdering his com"
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Three states prepare to execute killers Thursday in same-day event not seen since 2010",
+     "url": "https://www.foxnews.com/us/three-states-prepare-execute-killers-thursday-same-day-event-not-seen-since-2010",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T14:43:09+00:00",
+     "summary": "Three men face lethal injection Thursday in Tennessee, Alabama and Oklahoma in a rare same-day execution cluster not seen in the U.S. since 2010."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Three men will be executed on the same day as death penalties rise in US",
+     "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T13:27:00+00:00",
+     "summary": "Despite growing opposition to the death penalty, one state is behind the rising numbers."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Red States Set To Carry Out Rare Same-Day Triple Execution",
+     "url": "https://www.dailywire.com/news/red-states-set-to-carry-out-rare-same-day-triple-execution",
+     "author": "Jacob Wheeler",
+     "kind": "opinion",
+     "published": "2026-08-13T10:51:30+00:00",
+     "summary": "Three conservative states plan to carry out a rare triple execution Thursday involving men ages 42 to 70, two of whom are convicted of murdering women, and one is convicted of raping and murdering a 5-year-old girl. For the first time in over a decade, Alabama, Oklahoma, and Tennessee plan to execute three men by ..."
     }
    ]
   },
   {
-   "id": "5e49b4f206",
-   "topic": "World",
-   "summary": "Israeli forces on Thursday moved against rogue settlers laying siege to Palestinians amid unusually strong US criticism, even as Israel inaugurated an emblematic settlement elsewhere in the West Bank.",
-   "headline": "Israel sends troops to settler siege as US ambassador slams 'act of terror'",
-   "updated": "2026-08-13T14:44:59+00:00",
+   "id": "baf13620cf",
+   "topic": "Politics",
+   "summary": "The former Super Bowl champion, who's been imprisoned since 2024 on fraud and gun possession charges, was granted an early release to be by the side of his 8-year-old daughter, Mila, who is dying of cancer.",
+   "headline": "Ex-Super Bowl champ gets early release from prison to be with 8-year-old daughter dying of cancer",
+   "updated": "2026-08-13T15:45:54+00:00",
    "outletCount": 5,
    "counts": {
-    "pub": 1,
-    "nonprofit": 3,
+    "family": 3,
+    "corp": 2
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Ex-Super Bowl champ gets early release from prison to be with 8-year-old daughter dying of cancer",
+     "url": "https://nypost.com/2026/08/13/sports/wendell-smallwood-jr-gets-early-prison-release-to-be-with-daughter-8-dying-of-cancer/",
+     "author": "Jenna Lemoncelli",
+     "kind": "news",
+     "published": "2026-08-13T15:45:54+00:00",
+     "summary": "The former Super Bowl champion, who's been imprisoned since 2024 on fraud and gun possession charges, was granted an early release to be by the side of his 8-year-old daughter, Mila, who is dying of cancer."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "GOP congressman's ex-wife sues, alleging sensitive image of 2-year-old daughter was posted online",
+     "url": "https://www.foxnews.com/politics/gop-congressman-ex-wife-sues-alleging-sensitive-image-2-year-old-daughter-posted-online",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T12:00:29+00:00",
+     "summary": "Emily Moreno&apos;s lawsuit alleges Max Miller recklessly shared a nude photo of their 2-year-old daughter via a public Dropbox link viewed over 400,000 times."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Rep. Max Miller\u2019s ex-wife sues after sensitive image of child was publicly shared",
+     "url": "https://www.washingtonpost.com/politics/2026/08/12/rep-max-millers-ex-wife-sues-after-sensitive-image-child-was-publicly-shared/",
+     "author": "Alexei Koseff",
+     "kind": "news",
+     "published": "2026-08-12T23:16:06+00:00",
+     "summary": "The Ohio Republican had released documents through a publicly accessible Dropbox account this month, seeking to fend off allegations of domestic abuse."
+    },
+    {
+     "outlet": "axios",
+     "title": "The House Democratic money machine is coming for GOP Rep. Max Miller",
+     "url": "https://www.axios.com/2026/08/11/max-miller-ohio-brian-poindexter-democrats-2026",
+     "author": "Andrew Solender",
+     "kind": "news",
+     "published": "2026-08-11T21:57:11+00:00",
+     "summary": "Democrats have gone from treating Rep. Max Miller (R-Ohio) as a best-case-scenario target to a genuinely vulnerable incumbent whose downfall is worth a real investment. Why it matters: Democratic groups tell Axios they plan to put their money where their mouth is and spend to win the seat, which Trump carried by double digits in 2024. Phil Gardner, a spokesperson for the centrist Blue Dog Action Fund, said his group spent nearly $200,000 to support Miller's Democratic opponent, Brian Poindexter,"
+    },
+    {
+     "outlet": "politico",
+     "title": "White House officials tamped down efforts to oust Max Miller in final days",
+     "url": "https://www.politico.com/news/2026/08/10/white-house-max-miller-pressure-campaign-01031353",
+     "author": "By Meredith Lee Hill, Mia McCarthy and Erin Doherty",
+     "kind": "news",
+     "published": "2026-08-10T20:05:33+00:00",
+     "summary": "Ohio Republicans now have no choice but to rally behind a candidate many GOP insiders warn could cost the party a traditionally safe seat this November."
+    }
+   ]
+  },
+  {
+   "id": "3db9e68111",
+   "topic": "Politics",
+   "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+   "headline": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+   "updated": "2026-08-13T15:40:31+00:00",
+   "outletCount": 5,
+   "counts": {
+    "pub": 3,
+    "nonprofit": 1,
     "coop": 1
    },
    "newsCount": 5,
@@ -855,31 +855,31 @@
    "underreported": true,
    "articles": [
     {
-     "outlet": "france24",
-     "title": "Israel sends troops to settler siege as US ambassador slams 'act of terror'",
-     "url": "https://www.france24.com/en/video/20260813-israel-sends-troops-to-settler-siege-as-us-ambassador-slams-act-of-terror",
-     "author": "FRANCE24",
+     "outlet": "bbc",
+     "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+     "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-13T14:44:59+00:00",
-     "summary": "Israeli forces on Thursday moved against rogue settlers laying siege to Palestinians amid unusually strong US criticism, even as Israel inaugurated an emblematic settlement elsewhere in the West Bank."
+     "published": "2026-08-13T15:40:31+00:00",
+     "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks."
     },
     {
-     "outlet": "pbsnewshour",
-     "title": "Settler siege of Palestinian homes in the West Bank a 'horrific act of terror,' U.S. ambassador says",
-     "url": "https://www.pbs.org/newshour/world/settler-siege-of-palestinian-homes-in-the-west-bank-a-horrific-act-of-terror-u-s-ambassador-says",
-     "author": "Aref Tufaha, Associated Press",
+     "outlet": "dw",
+     "title": "Israeli military moves as settlers besiege 3 West Bank homes",
+     "url": "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-rdf",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-13T14:01:44+00:00",
-     "summary": "Israeli settlers have besieged three homes in the occupied West Bank for several days, including one owned by a Palestinian American."
+     "published": "2026-08-13T15:19:00+00:00",
+     "summary": "Israel's military has moved to try to stop a group of settlers from besieging three homes in the occupied West Bank. One was owned by a Palestinian American, prompting an unusually sharp rebuke from the US ambassador."
     },
     {
-     "outlet": "npr",
-     "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
-     "url": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
-     "author": "The Associated Press",
+     "outlet": "aljazeera",
+     "title": "Report from scene of Palestinian homes besieged by settlers",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/report-from-scene-of-palestinian-homes-besieged-by-settlers?traffic_source=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-13T09:58:40+00:00",
-     "summary": "The U.S. Ambassador to Israel Mike Huckabee condemned the actions of Jewish settlers who are besieging the home of an American Palestinian family in the Israeli-occupied West Bank."
+     "published": "2026-08-13T14:08:14+00:00",
+     "summary": "Report from scene of Palestinian homes besieged by settlers"
     },
     {
      "outlet": "guardian",
@@ -898,6 +898,78 @@
      "kind": "news",
      "published": "2026-08-12T17:24:18+00:00",
      "summary": "The Israeli military declared the Palestinian village of Taybeh a closed military zone to \"maintain order\" but residents say settlers are still allowed to raid the area."
+    }
+   ]
+  },
+  {
+   "id": "e3f9519673",
+   "topic": "World",
+   "summary": "President Vladimir Putin visited Russia's far-eastern Kuril islands for the first time on Thursday, prompting protests by Japan which also claims the territory.",
+   "headline": "Japan protests Putin's first visit to disputed islands",
+   "updated": "2026-08-13T15:06:07+00:00",
+   "outletCount": 5,
+   "counts": {
+    "pub": 4,
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Japan protests Putin's first visit to disputed islands",
+     "url": "https://www.france24.com/en/video/20260813-japan-protests-putin-s-first-visit-to-disputed-islands",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-13T15:06:07+00:00",
+     "summary": "President Vladimir Putin visited Russia's far-eastern Kuril islands for the first time on Thursday, prompting protests by Japan which also claims the territory."
+    },
+    {
+     "outlet": "france24",
+     "title": "Putin visits disputed Kuril Islands",
+     "url": "https://www.france24.com/en/video/20260813-putin-visits-disputed-kuril-islands-1",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-13T14:39:19+00:00",
+     "summary": "\ud83c\uddf7\ud83c\uddfa \ud83c\uddef\ud83c\uddf5 Russian President Putin has made his first visit to the disputed Kuril Islands, travelling to Iturup, one of four islands claimed by both Russia and Japan. Tokyo strongly protested the visit, calling it \u201cabsolutely unacceptable.\u201d"
+    },
+    {
+     "outlet": "nyt",
+     "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+     "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
+     "author": "Javier C. Hern\u00e1ndez and Paul Sonne",
+     "kind": "news",
+     "published": "2026-08-13T13:12:44+00:00",
+     "summary": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country\u2019s sanctions against Russia over the Ukraine war."
+    },
+    {
+     "outlet": "guardian",
+     "title": "\u2018Absolutely unacceptable\u2019: Japan condemns visit by Vladimir Putin to disputed Kuril Islands",
+     "url": "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands",
+     "author": "Gavin Blair in Tokyo",
+     "kind": "news",
+     "published": "2026-08-13T12:56:57+00:00",
+     "summary": "Japanese PM says islands seized by Soviets late in second world war are part of her country under international law The Japanese government has reacted angrily to Vladimir Putin\u2019s first visit to the disputed Kuril Islands, which are claimed by both Tokyo and Moscow. Japan\u2019s foreign minister, Toshimitsu Motegi, summoned the Russian ambassador Nikolay Nozdrev, while the prime minister, Sanae Takaichi, called Putin\u2019s actions \u201cabsolutely unacceptable\u201d. Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
+     "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T09:54:03+00:00",
+     "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media."
+    },
+    {
+     "outlet": "dw",
+     "title": "Russia's Putin angers Japan with 1st visit to Kuril Islands",
+     "url": "https://www.dw.com/en/russia-s-putin-angers-japan-with-1st-visit-to-kuril-islands/a-78345291?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T06:06:00+00:00",
+     "summary": "Japan says it has summoned the Russian ambassador to \"strongly protest\" President Vladimir Putin's trip to the disputed Kuril Islands."
     }
    ]
   },
@@ -964,57 +1036,64 @@
    ]
   },
   {
-   "id": "4467354d48",
-   "topic": "World",
-   "summary": "From Iceland to Spain, crowds were dazzled by the celestial phenomenon.",
-   "headline": "Eclipse: Europe falls into darkness as millions watch",
-   "updated": "2026-08-13T14:48:46+00:00",
+   "id": "75e06ec9de",
+   "topic": "Culture & Sport",
+   "summary": "Colombia turned down a Mexican rescue team that sought to travel to the Andean nation to assist with earthquake rescue efforts, raising questions about the government\u2019s management of the disaster as an aftershock prompted fresh evacuations.",
+   "headline": "Earthquake in Colombia: \"The government didn't accept the help from foreign rescue teams\"",
+   "updated": "2026-08-13T14:50:50+00:00",
    "outletCount": 4,
    "counts": {
-    "family": 1,
-    "corp": 1,
-    "pub": 1,
-    "nonprofit": 1
+    "family": 2,
+    "pub": 3
    },
-   "newsCount": 4,
+   "newsCount": 5,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "time",
-     "title": "The Most Spectacular Photos of Europe's Total Solar Eclipse",
-     "url": "https://time.com/article/2026/08/13/best-europe-solar-eclipse-photos/",
-     "author": "Jeffrey Kluger",
+     "outlet": "bloomberg",
+     "title": "Colombia Earthquake: Aid From Mexican Search-and-Rescue Team Rejected",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-13/colombia-earthquake-aid-from-mexican-search-and-rescue-team-rejected",
+     "author": "Alex Vasquez and Oscar Medina",
      "kind": "news",
-     "published": "2026-08-13T14:48:46+00:00",
-     "summary": "From Iceland to Spain, crowds were dazzled by the celestial phenomenon."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Total solar eclipse dipped parts of Europe into complete darkness. Here's what they saw.",
-     "url": "https://www.cbsnews.com/video/total-solar-eclipse-dipped-parts-of-europe-into-complete-darkness-heres-what-they-saw/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T12:47:42+00:00",
-     "summary": "A total solar eclipse brought darkness to parts of Europe, the only time the phenomenon will be visible to humans in 2026. CBS News' Rob Marciano has more on the stunning moments."
+     "published": "2026-08-13T14:50:50+00:00",
+     "summary": "Colombia turned down a Mexican rescue team that sought to travel to the Andean nation to assist with earthquake rescue efforts, raising questions about the government\u2019s management of the disaster as an aftershock prompted fresh evacuations."
     },
     {
      "outlet": "france24",
-     "title": "Eclipse: Europe falls into darkness as millions watch",
-     "url": "https://www.france24.com/en/video/20260813-eclipse-europe-falls-into-darkness-as-millions-watch",
+     "title": "Earthquake in Colombia: \"The government didn't accept the help from foreign rescue teams\"",
+     "url": "https://www.france24.com/en/video/20260813-earthquake-in-colombia-the-government-didn-t-accept-the-help-from-foreign-rescue-teams",
      "author": "FRANCE24",
      "kind": "news",
-     "published": "2026-08-13T10:06:34+00:00",
-     "summary": "Millions across Europe looked to the skies on Wednesday as the Moon passed in front of the Sun in a rare solar eclipse. The eclipse was total in parts of Iceland and northern Spain, while much of Europe, including France and the UK, saw a spectacular partial eclipse, with more than 90% of the Sun covered in many areas."
+     "published": "2026-08-13T11:51:13+00:00",
+     "summary": "Thursday morning will mark 72 hours since the quake in Colombia, where \"people are surprised that the government didn't accept the help from foreign rescue teams\", says our journalist Rosa Perez."
     },
     {
-     "outlet": "guardian",
-     "title": "Europe solar eclipse: millions watch rare spectacle across Spain, UK and Iceland \u2013 as it happened",
-     "url": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
-     "author": "Jakub Krupa",
+     "outlet": "aljazeera",
+     "title": "Colombia earthquake response tests new far-right government",
+     "url": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-12T21:00:02+00:00",
-     "summary": "Eclipse witnessed by tens of millions across western Europe as enthusiasts gather along path of totality Solar eclipse 2026 across Europe: in pictures Cruise ships, quiet towns and an all-day festival: millions flock to eclipse viewing spots across Europe in Land\u2019s End, Cornwall The roads and car parks of west and north Cornwall are clogged as people gather to watch the solar eclipse. Continue reading..."
+     "published": "2026-08-13T11:39:46+00:00",
+     "summary": "Disaster tests President Abelardo de la Espriella and his government as it scrambles to find survivors and provide aid."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Australia Foreign Minister To Say Far Right Party Weakens Nation",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-13/australia-foreign-minister-to-say-far-right-party-weakens-nation",
+     "author": "James Mayger",
+     "kind": "news",
+     "published": "2026-08-13T11:00:01+00:00",
+     "summary": "Australia\u2019s foreign minister will attack the policies of the far-right One Nation party, arguing that its call for a monoculture would damage social cohesion at home and relations with friends and allies abroad."
+    },
+    {
+     "outlet": "dw",
+     "title": "Colombia earthquake: Rescue operation enters 'final phase'",
+     "url": "https://www.dw.com/en/colombia-earthquake-rescue-operation-enters-final-phase/a-78345817?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T07:45:00+00:00",
+     "summary": "Rescuers are racing against a critical 72-hour window to find survivors after a magnitude 7.4 earthquake that has killed 265 people, left hundreds missing, and displaced tens of thousands across western Colombia."
     }
    ]
   },
@@ -1027,9 +1106,9 @@
    "outletCount": 4,
    "counts": {
     "pub": 2,
-    "family": 3
+    "family": 2
    },
-   "newsCount": 5,
+   "newsCount": 4,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -1068,15 +1147,6 @@
      "kind": "news",
      "published": "2026-08-13T03:28:56+00:00",
      "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports."
-    },
-    {
-     "outlet": "semafor",
-     "title": "Kyiv stops strikes on Russian port after request from JD Vance",
-     "url": "https://www.semafor.com/article/08/12/2026/ukraine-reportedly-stops-strikes-on-russian-port-at-jd-vances-request",
-     "author": "Tom Chivers",
-     "kind": "news",
-     "published": "2026-08-12T10:41:44+00:00",
-     "summary": "Ukraine\u2019s repeated strikes on tankers in Novorossiysk had alarmed Washington, which feared they would further destabilize already strained oil markets, the Financial Times reported."
     }
    ]
   },
@@ -1134,131 +1204,6 @@
    ]
   },
   {
-   "id": "2fd66a0efc",
-   "topic": "Politics",
-   "summary": "Emily Moreno&apos;s lawsuit alleges Max Miller recklessly shared a nude photo of their 2-year-old daughter via a public Dropbox link viewed over 400,000 times.",
-   "headline": "GOP congressman's ex-wife sues, alleging sensitive image of 2-year-old daughter was posted online",
-   "updated": "2026-08-13T12:00:29+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 2,
-    "corp": 2
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "GOP congressman's ex-wife sues, alleging sensitive image of 2-year-old daughter was posted online",
-     "url": "https://www.foxnews.com/politics/gop-congressman-ex-wife-sues-alleging-sensitive-image-2-year-old-daughter-posted-online",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T12:00:29+00:00",
-     "summary": "Emily Moreno&apos;s lawsuit alleges Max Miller recklessly shared a nude photo of their 2-year-old daughter via a public Dropbox link viewed over 400,000 times."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Rep. Max Miller\u2019s ex-wife sues after sensitive image of child was publicly shared",
-     "url": "https://www.washingtonpost.com/politics/2026/08/12/rep-max-millers-ex-wife-sues-after-sensitive-image-child-was-publicly-shared/",
-     "author": "Alexei Koseff",
-     "kind": "news",
-     "published": "2026-08-12T23:16:06+00:00",
-     "summary": "The Ohio Republican had released documents through a publicly accessible Dropbox account this month, seeking to fend off allegations of domestic abuse."
-    },
-    {
-     "outlet": "axios",
-     "title": "The House Democratic money machine is coming for GOP Rep. Max Miller",
-     "url": "https://www.axios.com/2026/08/11/max-miller-ohio-brian-poindexter-democrats-2026",
-     "author": "Andrew Solender",
-     "kind": "news",
-     "published": "2026-08-11T21:57:11+00:00",
-     "summary": "Democrats have gone from treating Rep. Max Miller (R-Ohio) as a best-case-scenario target to a genuinely vulnerable incumbent whose downfall is worth a real investment. Why it matters: Democratic groups tell Axios they plan to put their money where their mouth is and spend to win the seat, which Trump carried by double digits in 2024. Phil Gardner, a spokesperson for the centrist Blue Dog Action Fund, said his group spent nearly $200,000 to support Miller's Democratic opponent, Brian Poindexter,"
-    },
-    {
-     "outlet": "politico",
-     "title": "White House officials tamped down efforts to oust Max Miller in final days",
-     "url": "https://www.politico.com/news/2026/08/10/white-house-max-miller-pressure-campaign-01031353",
-     "author": "By Meredith Lee Hill, Mia McCarthy and Erin Doherty",
-     "kind": "news",
-     "published": "2026-08-10T20:05:33+00:00",
-     "summary": "Ohio Republicans now have no choice but to rally behind a candidate many GOP insiders warn could cost the party a traditionally safe seat this November."
-    }
-   ]
-  },
-  {
-   "id": "a951708aa7",
-   "topic": "Justice & Policing",
-   "summary": "President Donald Trump announces that he is nominating federal Judge Lee Rudofsky for the U.S. Court of Appeals for the Eighth Circuit.",
-   "headline": "Texas\u2019 mail ballot ID requirements restored by federal appeals court",
-   "updated": "2026-08-13T09:57:29+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 2,
-    "nonprofit": 3,
-    "corp": 1
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Trump aims to elevate federal judge Lee Rudofsky to Court of Appeals for the Eighth Circuit",
-     "url": "https://www.foxnews.com/politics/trump-aims-elevate-federal-judge-lee-rudofsky-court-appeals-eighth-circuit",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T09:57:29+00:00",
-     "summary": "President Donald Trump announces that he is nominating federal Judge Lee Rudofsky for the U.S. Court of Appeals for the Eighth Circuit."
-    },
-    {
-     "outlet": "texastribune",
-     "title": "Texas\u2019 mail ballot ID requirements restored by federal appeals court",
-     "url": "https://feeds.texastribune.org/link/16799/17416905/texas-mail-ballot-voter-id-application-appeal-ruling",
-     "author": "Ayden Runnels",
-     "kind": "news",
-     "published": "2026-08-13T02:15:14+00:00",
-     "summary": "The U.S. 5th Circuit Court of Appeals rebuked the lower court\u2019s 2025 ruling that struck down nine provisions of a sweeping election law related to voter assistance."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Trump again asks Supreme Court to save USPS mail ballot plan after second lower court loss",
-     "url": "https://www.latimes.com/politics/story/2026-08-12/trump-again-asks-supreme-court-to-save-usps-mail-ballot-plan-after-second-lower-court-loss",
-     "author": "Kevin Rector",
-     "kind": "news",
-     "published": "2026-08-12T17:26:54+00:00",
-     "summary": "The Trump administration again asked the U.S. Supreme Court to intervene to save President Trump's plan for the U.S. Postal Service to place new nationwide limits on mail voting."
-    },
-    {
-     "outlet": "axios",
-     "title": "Trump's mail-in voting restrictions blocked nationwide by federal judge",
-     "url": "https://www.axios.com/2026/08/11/trump-mail-in-voting-executive-order-us-postal-service",
-     "author": "Rebecca Falconer",
-     "kind": "news",
-     "published": "2026-08-11T22:21:51+00:00",
-     "summary": "A federal judge on Tuesday expanded an earlier block on part of President Trump's executive order seeking to tighten rules for mail-in voting ahead of November's elections. Why it matters: The ruling freezes a key piece of Trump's attempted overhaul of mail-in voting for all U.S. states. A previous ruling in a separate case had limited a block for the 23 Democratic states that sued over the president's order. Trump's executive order had enabled the USPS to refuse to deliver ballots to states tha"
-    },
-    {
-     "outlet": "texastribune",
-     "title": "Surrogate asks Texas court to let her seek medical care on the baby she\u2019s carrying, AG Paxton says",
-     "url": "https://feeds.texastribune.org/link/16799/17415041/texas-surrogate-ken-paxton-abortion-baby-gabriel",
-     "author": "By\u00a0Katlyn Ma\u00a0and Terri Langford",
-     "kind": "news",
-     "published": "2026-08-11T19:11:49+00:00",
-     "summary": "An Alaskan surrogate has traveled to Texas for legal protection after a California couple has refused treatment for a severe heart condition."
-    },
-    {
-     "outlet": "texastribune",
-     "title": "Texas THC ban continues as federal judge rejects emergency motion",
-     "url": "https://feeds.texastribune.org/link/16799/17411786/texas-hemp-thc-ban-federal-court-emergency",
-     "author": "Stephen Simpson",
-     "kind": "news",
-     "published": "2026-08-10T21:45:46+00:00",
-     "summary": "Hemp businesses and consumers asked to block state regulations on THC, but their lawsuit remains pending."
-    }
-   ]
-  },
-  {
    "id": "b6fc92e65b",
    "topic": "Justice & Policing",
    "summary": "The allegation makes Reiner eligible for the death penalty - which has been paused in the state. Prosecutors have not said if they will pursue it.",
@@ -1312,63 +1257,29 @@
    ]
   },
   {
-   "id": "c63f0a36ed",
-   "topic": "Justice & Policing",
-   "summary": "Flock Safety will implement new privacy and data retention policies as pressure grows on the automated license plate operator to prevent its technology from being abused or used to conduct mass surveillance. The company announced Thursday it will reduce its default data retention window from 30 to\u2026",
-   "headline": "Flock will add privacy guardrails to camera systems amid backlash",
-   "updated": "2026-08-13T15:09:37+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 3
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "Flock will add privacy guardrails to camera systems amid backlash",
-     "url": "https://thehill.com/policy/technology/6027324-flock-cameras-ai-surveillance-privacy-updates/",
-     "author": "Miranda Nazzaro",
-     "kind": "news",
-     "published": "2026-08-13T15:09:37+00:00",
-     "summary": "Flock Safety will implement new privacy and data retention policies as pressure grows on the automated license plate operator to prevent its technology from being abused or used to conduct mass surveillance. The company announced Thursday it will reduce its default data retention window from 30 to seven days, cutting the amount of time data..."
-    },
-    {
-     "outlet": "businessinsider",
-     "title": "Flock adds new guardrails after public backlash and allegations of police misuse",
-     "url": "https://www.businessinsider.com/flock-safety-surveillance-cameras-policy-changes-law-enforcement-arrests-2026-8",
-     "author": "Ben Shimkus (bshimkus@insider.com)",
-     "kind": "news",
-     "published": "2026-08-13T14:23:32+00:00",
-     "summary": "On Thursday, CEO Garrett Langley outlined new safety and privacy changes for the surveillance camera network \"that came from listening.\""
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Surveillance company Flock moves to increase oversight after police misuse",
-     "url": "https://www.nbcnews.com/tech/security/flock-safety-police-abuse-oversight-data-retention-rcna592217",
-     "author": "Kevin Collier",
-     "kind": "news",
-     "published": "2026-08-13T13:00:40+00:00",
-     "summary": "Flock Safety, the police tech company that tracks Americans\u2019 vehicle movements through a line of cameras, announced Thursday that it would implement several new safeguards to its products."
-    }
-   ]
-  },
-  {
    "id": "0f61d0ba29",
    "topic": "Politics",
-   "summary": "Iran asserts full control over the Strait of Hormuz, challenging US claims of dominance in the strategic waterway.",
+   "summary": "Tehran has asserted that the Strait of Hormuz is \"under Iran's control and management\" after President Trump said the U.S. might \"keep it.\"",
    "headline": "Iran says Strait of Hormuz under its control, rejects Trump claims",
-   "updated": "2026-08-13T14:59:42+00:00",
+   "updated": "2026-08-13T16:11:38+00:00",
    "outletCount": 3,
    "counts": {
-    "pub": 2,
-    "corp": 1
+    "corp": 1,
+    "pub": 2
    },
    "newsCount": 3,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Tehran says Strait of Hormuz \"under Iran's control\" after Trump threat",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-strait-of-hormuz-donald-trump-tehran-control-threatens-keep-it/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T16:11:38+00:00",
+     "summary": "Tehran has asserted that the Strait of Hormuz is \"under Iran's control and management\" after President Trump said the U.S. might \"keep it.\""
+    },
     {
      "outlet": "aljazeera",
      "title": "Iran says Strait of Hormuz under its control, rejects Trump claims",
@@ -1379,22 +1290,146 @@
      "summary": "Iran asserts full control over the Strait of Hormuz, challenging US claims of dominance in the strategic waterway."
     },
     {
-     "outlet": "cbsnews",
-     "title": "Tehran says Strait of Hormuz \"under Iran's control\" after Trump threat",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-us-strait-of-hormuz-donald-trump-tehran-control-threatens-keep-it/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T14:49:28+00:00",
-     "summary": "Tehran has asserted that the Strait of Hormuz is \"under Iran's control and management\" after President Trump said the U.S. might \"keep it.\""
-    },
-    {
      "outlet": "france24",
-     "title": "Iran says Trump \u2018lied\u2019 about US control over Strait of Hormuz",
+     "title": "Iran calls out Trump's \u2018lies\u2019 about US control over the Strait of Hormuz",
      "url": "https://www.france24.com/en/middle-east/20260813-iran-says-trump-lied-about-us-control-over-strait-of-hormuz",
      "author": "FRANCE 24",
      "kind": "news",
      "published": "2026-08-13T14:08:54+00:00",
-     "summary": "Iran called President Donald Trump's claim that Washington controlled the Strait of Hormuz \"lies and fabrications\" on Thursday as Ebrahim Zolfaghari, the spokesperson for Iran's central military command, said that the waterway was fully under Tehran's control. Iran has kept control of Hormuz, a vital energy conduit, since the outbreak of the war in the Middle East on February 28."
+     "summary": "A spokesman for Iran's military command on Thursday called out US President Donald Trump's \"lies and fabrications\" after he claimed on social media that Washington had \"total control over the Strait of Hormuz\". Iran has maintained control of the Strait, a vital energy conduit, since the outbreak of the war on February 28."
+    }
+   ]
+  },
+  {
+   "id": "307f83f6eb",
+   "topic": "Justice & Policing",
+   "summary": "Luigi Mangione is expected to plead guilty on Friday to federal charges in connection with the 2024 killing of UnitedHealthcare CEO Brian Thompson in Manhattan, according to sources familiar with the matter.",
+   "headline": "Luigi Mangione expected to plead guilty in New York federal case",
+   "updated": "2026-08-13T16:02:57+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "family": 2
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nbcnews",
+     "title": "Luigi Mangione expected to plead guilty in New York federal case",
+     "url": "https://www.nbcnews.com/news/us-news/luigi-mangione-expected-plead-guilty-new-york-federal-case-rcna592221",
+     "author": "Matt Lavietes",
+     "kind": "news",
+     "published": "2026-08-13T16:02:57+00:00",
+     "summary": "Luigi Mangione is expected to plead guilty on Friday to federal charges in connection with the 2024 killing of UnitedHealthcare CEO Brian Thompson in Manhattan, according to sources familiar with the matter."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Luigi Mangione, Facing Stalking Charges in Federal Court, Is Expected to Plead Guilty",
+     "url": "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html",
+     "author": "Benjamin Weiser, Devlin Barrett and Hurubie Meko",
+     "kind": "news",
+     "published": "2026-08-13T15:30:06+00:00",
+     "summary": "Mr. Mangione faces stalking charges resulting in the death of an executive in Manhattan. Mr. Mangione could always change his mind at the last minute. A separate murder trial is set to begin next month."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Luigi Mangione Expected To Plead Guilty In Federal Court, Report Says",
+     "url": "https://www.forbes.com/sites/alisondurkee/2026/08/13/luigi-mangione-expected-to-plead-guilty-in-federal-court-report-says/",
+     "author": "Alison Durkee, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-13T14:56:01+00:00",
+     "summary": "The guilty plea won\u2019t necessarily get him out of his separate state trial next month."
+    }
+   ]
+  },
+  {
+   "id": "60d88abab5",
+   "topic": "Politics",
+   "summary": "Kevin Lamarque / Kevin Lamarque/Reuters Donald Trump has been hit with demands for an audit into the spiraling cost of his White House makeover and plans to construct a tacky ballroom. Senate Minority Leader Chuck Schumer and several other leading Senate Democrats wrote a letter to the Government\u2026",
+   "headline": "Trump Administration Claims Executive Privilege Over White House Conversations With Private Advisers",
+   "updated": "2026-08-13T15:44:04+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "Trump\u2019s $900M White House Desecration Rocked by Bombshell Demand",
+     "url": "https://www.thedailybeast.com/trumps-900m-white-house-desecration-rocked-by-bombshell-demand/",
+     "author": "Ewan Palmer",
+     "kind": "news",
+     "published": "2026-08-13T15:44:04+00:00",
+     "summary": "Kevin Lamarque / Kevin Lamarque/Reuters Donald Trump has been hit with demands for an audit into the spiraling cost of his White House makeover and plans to construct a tacky ballroom. Senate Minority Leader Chuck Schumer and several other leading Senate Democrats wrote a letter to the Government Accountability Office raising concerns about the Trump administration\u2019s \u201ctransparency, accountability, and stewardship of this national landmark,\u201d The Washington Post reported. The audit demand arrives "
+    },
+    {
+     "outlet": "reason",
+     "title": "Trump Administration Claims Executive Privilege Over White House Conversations With Private Advisers",
+     "url": "https://reason.com/2026/08/12/trump-administration-claims-executive-privilege-over-white-house-conversations-with-private-advisers/",
+     "author": "C.J. Ciaramella",
+     "kind": "opinion",
+     "published": "2026-08-12T19:16:44+00:00",
+     "summary": "Trump on phone"
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump administration set to spend at least $900 million on White House construction",
+     "url": "https://www.washingtonpost.com/investigations/2026/08/12/trump-administration-set-spend-least-900-million-white-house-construction/",
+     "author": "Jonathan O'Connell, Sarah Blaskey",
+     "kind": "news",
+     "published": "2026-08-12T10:00:01+00:00",
+     "summary": "The price tag is much larger than what has been previously reported, according to a Post review of confidential contracts, and taxpayers would cover most of it."
+    }
+   ]
+  },
+  {
+   "id": "26ab74f068",
+   "topic": "Business & Economy",
+   "summary": "Bob Iger, the former chief executive of Disney, and Josh Kushner, the venture capitalist, are buying the Los Angeles Lakers. Their wives set them up.",
+   "headline": "How Bob Iger and Joshua Kushner\u2019s Bromance Led Them to Lakers",
+   "updated": "2026-08-13T15:02:27+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "How Bob Iger and Joshua Kushner\u2019s Bromance Led Them to Lakers",
+     "url": "https://www.nytimes.com/2026/08/13/business/bob-iger-joshua-kushner-lakers.html",
+     "author": "Brooks Barnes and Tania Ganguli",
+     "kind": "news",
+     "published": "2026-08-13T15:02:27+00:00",
+     "summary": "Bob Iger, the former chief executive of Disney, and Josh Kushner, the venture capitalist, are buying the Los Angeles Lakers. Their wives set them up."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Lakers to be sold to Bob Iger and Josh Kushner for $12 billion",
+     "url": "https://www.nbcnews.com/now/video/lakers-to-be-sold-to-bob-iger-and-josh-kushner-for-12-billion-268186693578",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T16:21:34+00:00",
+     "summary": "The Los Angeles Lakers are being sold to an ownership group led by Josh Kushner and former Disney CEO Bob Iger reportedly for a $12.5 billion. NBC News' Steve Patterson reports on the new ownership group buying the franchise that had just been bought in late 2025."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Bob Iger, Joshua Kushner to buy Lakers from Mark Walter's ownership group for $12.5 billion",
+     "url": "https://www.latimes.com/sports/lakers/story/2026-08-12/lakers-sale-bob-iger-joshua-kushner",
+     "author": "Thuc Nhi Nguyen, Broderick Turner, Bill Shaikin",
+     "kind": "news",
+     "published": "2026-08-12T15:02:03+00:00",
+     "summary": "Joshua Kushner and Bob Iger were eyeing an NBA expansion team bid in Las Vegas but pivoted to buying the Lakers from Mark Walter, who bought a controlling interest in the team last year."
     }
    ]
   },
@@ -1444,10 +1479,10 @@
    ]
   },
   {
-   "id": "6a08dd689d",
+   "id": "fee4f3934d",
    "topic": "Politics",
    "summary": "The Reform UK leader resigned as the MP for Clacton at the start of July and forced a byelection The number of patients in England being cared for in hospital corridors or makeshift areas has remained above 3,000 a day for the second month in a row, as the NHS experiences a \u201csummer surge\u201d , the\u2026",
-   "headline": "Polls open in Clacton, where Farage spent more than \u00a310,000 in byelection against Count Binface \u2013 UK politics live",
+   "headline": "Polls open in Clacton, where Farage spent more than \u00a310,000 in byelection against Count Binface \u2013 as it happened",
    "updated": "2026-08-13T14:54:32+00:00",
    "outletCount": 3,
    "counts": {
@@ -1460,7 +1495,7 @@
    "articles": [
     {
      "outlet": "guardian",
-     "title": "Polls open in Clacton, where Farage spent more than \u00a310,000 in byelection against Count Binface \u2013 UK politics live",
+     "title": "Polls open in Clacton, where Farage spent more than \u00a310,000 in byelection against Count Binface \u2013 as it happened",
      "url": "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates",
      "author": "Andrew Sparrow",
      "kind": "news",
@@ -1488,46 +1523,91 @@
    ]
   },
   {
-   "id": "285770727a",
-   "topic": "Tech",
-   "summary": "An unseen figure monitors a screen with Flock license plate readers in the background.",
-   "headline": "Flock Cameras and License Plate Readers Are Everywhere. Can We Trust Cops With Them?",
-   "updated": "2026-08-13T14:00:35+00:00",
+   "id": "4467354d48",
+   "topic": "World",
+   "summary": "From Iceland to Spain, crowds were dazzled by the celestial phenomenon.",
+   "headline": "Eclipse: Europe falls into darkness as millions watch",
+   "updated": "2026-08-13T14:48:46+00:00",
    "outletCount": 3,
    "counts": {
-    "nonprofit": 2,
-    "family": 1
+    "family": 1,
+    "corp": 1,
+    "pub": 1
    },
-   "newsCount": 2,
-   "opinionCount": 1,
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "time",
+     "title": "The Most Spectacular Photos of Europe's Total Solar Eclipse",
+     "url": "https://time.com/article/2026/08/13/best-europe-solar-eclipse-photos/",
+     "author": "Jeffrey Kluger",
+     "kind": "news",
+     "published": "2026-08-13T14:48:46+00:00",
+     "summary": "From Iceland to Spain, crowds were dazzled by the celestial phenomenon."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Total solar eclipse dipped parts of Europe into complete darkness. Here's what they saw.",
+     "url": "https://www.cbsnews.com/video/total-solar-eclipse-dipped-parts-of-europe-into-complete-darkness-heres-what-they-saw/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T12:47:42+00:00",
+     "summary": "A total solar eclipse brought darkness to parts of Europe, the only time the phenomenon will be visible to humans in 2026. CBS News' Rob Marciano has more on the stunning moments."
+    },
+    {
+     "outlet": "france24",
+     "title": "Eclipse: Europe falls into darkness as millions watch",
+     "url": "https://www.france24.com/en/video/20260813-eclipse-europe-falls-into-darkness-as-millions-watch",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-13T10:06:34+00:00",
+     "summary": "Millions across Europe looked to the skies on Wednesday as the Moon passed in front of the Sun in a rare solar eclipse. The eclipse was total in parts of Iceland and northern Spain, while much of Europe, including France and the UK, saw a spectacular partial eclipse, with more than 90% of the Sun covered in many areas."
+    }
+   ]
+  },
+  {
+   "id": "5e49b4f206",
+   "topic": "World",
+   "summary": "Israeli forces on Thursday moved against rogue settlers laying siege to Palestinians amid unusually strong US criticism, even as Israel inaugurated an emblematic settlement elsewhere in the West Bank.",
+   "headline": "Israel sends troops to settler siege as US ambassador slams 'act of terror'",
+   "updated": "2026-08-13T14:44:59+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 2
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
    "underreported": true,
    "articles": [
     {
-     "outlet": "reason",
-     "title": "Flock Cameras and License Plate Readers Are Everywhere. Can We Trust Cops With Them?",
-     "url": "https://reason.com/2026/08/13/flock-cameras-and-license-plate-readers-are-everywhere-can-we-trust-cops-with-them/",
-     "author": "Joe Lancaster",
-     "kind": "opinion",
-     "published": "2026-08-13T14:00:35+00:00",
-     "summary": "An unseen figure monitors a screen with Flock license plate readers in the background."
+     "outlet": "france24",
+     "title": "Israel sends troops to settler siege as US ambassador slams 'act of terror'",
+     "url": "https://www.france24.com/en/video/20260813-israel-sends-troops-to-settler-siege-as-us-ambassador-slams-act-of-terror",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-13T14:44:59+00:00",
+     "summary": "Israeli forces on Thursday moved against rogue settlers laying siege to Palestinians amid unusually strong US criticism, even as Israel inaugurated an emblematic settlement elsewhere in the West Bank."
     },
     {
-     "outlet": "semafor",
-     "title": "Flock tightens guardrails aimed at stopping cops from abusing its license plate cameras",
-     "url": "https://www.semafor.com/article/08/12/2026/flock-adds-guardrails-to-prevent-cops-from-abusing-its-license-plate-cameras",
-     "author": "J.D. Capelouto",
+     "outlet": "pbsnewshour",
+     "title": "Settler siege of Palestinian homes in the West Bank a 'horrific act of terror,' U.S. ambassador says",
+     "url": "https://www.pbs.org/newshour/world/settler-siege-of-palestinian-homes-in-the-west-bank-a-horrific-act-of-terror-u-s-ambassador-says",
+     "author": "Aref Tufaha, Associated Press",
      "kind": "news",
-     "published": "2026-08-13T13:00:02+00:00",
-     "summary": "CEO Garrett Langley pushed back against a \u201cmisconception that we are some evil entity that has these diabolical plans.\u201d"
+     "published": "2026-08-13T14:01:44+00:00",
+     "summary": "Israeli settlers have besieged three homes in the occupied West Bank for several days, including one owned by a Palestinian American."
     },
     {
-     "outlet": "theconversation",
-     "title": "New tech adds phone tracking to license plate readers, associating devices with identifiable cars",
-     "url": "https://theconversation.com/new-tech-adds-phone-tracking-to-license-plate-readers-associating-devices-with-identifiable-cars-288876",
-     "author": "Nicole M. Bennett, Ph.D. Candidate in Geography and Assistant Director at the Center for Refugee Studies, Indiana University",
+     "outlet": "npr",
+     "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
+     "url": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
+     "author": "The Associated Press",
      "kind": "news",
-     "published": "2026-08-11T12:31:35+00:00",
-     "summary": "License plate readers are widely used in the US. A new product marketed to police departments promises to add the ability to sense phones and other devices in passing cars."
+     "published": "2026-08-13T09:58:40+00:00",
+     "summary": "The U.S. Ambassador to Israel Mike Huckabee condemned the actions of Jewish settlers who are besieging the home of an American Palestinian family in the Israeli-occupied West Bank."
     }
    ]
   },
@@ -1617,137 +1697,6 @@
      "kind": "news",
      "published": "2026-08-10T21:07:27+00:00",
      "summary": "The president signed a new executive order based on the myth that vaccines cause autism"
-    }
-   ]
-  },
-  {
-   "id": "ace75e774c",
-   "topic": "Business & Economy",
-   "summary": "The prize is the eighth largest in Powerball history. The player with the winning numbers can choose a lump sum of $450 million or a series of payments made over 29 years.",
-   "headline": "$1 billion Powerball jackpot has a winner",
-   "updated": "2026-08-13T13:00:00+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "corp": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "wapo",
-     "title": "$1 billion Powerball jackpot has a winner",
-     "url": "https://www.washingtonpost.com/nation/2026/08/13/104-billion-powerball-drawing-finds-winner/",
-     "author": "Victoria Craw",
-     "kind": "news",
-     "published": "2026-08-13T13:00:00+00:00",
-     "summary": "The prize is the eighth largest in Powerball history. The player with the winning numbers can choose a lump sum of $450 million or a series of payments made over 29 years."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Single winning ticket sold for $1.04 billion Powerball jackpot",
-     "url": "https://www.cbsnews.com/news/powerball-jackpot-drawing-tonight-1-billion/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T12:46:00+00:00",
-     "summary": "A single ticket sold in Illinois won the biggest Powerball jackpot of the year, $1.04 billion, in Wednesday night's drawing, the game says."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Single ticket bought in Illinois wins $1 billion Powerball jackpot",
-     "url": "https://www.nbcnews.com/news/us-news/ticket-illinois-wins-1-billion-powerball-jackpot-rcna592269",
-     "author": "Phil Helsel",
-     "kind": "news",
-     "published": "2026-08-13T04:53:23+00:00",
-     "summary": "To the tens of thousands and likely more dreaming about a $1 billion Powerball win, the anticipation is over: Someone who bought a ticket in Illinois won it all."
-    }
-   ]
-  },
-  {
-   "id": "c0dc30cdad",
-   "topic": "World",
-   "summary": "UN monitors say civilian casualties in Ukraine hit their highest monthly level since the start of Russia's full-scale war. The latest attacks included a Russian drone strike on a train, killing two workers. DW has more.",
-   "headline": "Ukraine's monthly civilian casualties highest since 2022",
-   "updated": "2026-08-13T12:25:00+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 3
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Ukraine's monthly civilian casualties highest since 2022",
-     "url": "https://www.dw.com/en/ukraine-s-monthly-civilian-casualties-highest-since-2022/live-78351269?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T12:25:00+00:00",
-     "summary": "UN monitors say civilian casualties in Ukraine hit their highest monthly level since the start of Russia's full-scale war. The latest attacks included a Russian drone strike on a train, killing two workers. DW has more."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Civilian deaths in Ukraine in July hit highest level since May 2022: UN",
-     "url": "https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T11:14:35+00:00",
-     "summary": "At least 437 civilians were killed and 2,610 injured in Ukraine in July, the UN Human Rights Monitoring Mission said."
-    },
-    {
-     "outlet": "france24",
-     "title": "\ud83d\udd34 Live: Ukraine's civilian deaths in July hit highest level since May 2022, UN says",
-     "url": "https://www.france24.com/en/europe/20260813-live-russian-attack-sets-ablaze-ukraine-s-izmail-port-infrastructure",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-13T09:47:54+00:00",
-     "summary": null
-    }
-   ]
-  },
-  {
-   "id": "b4f37482cd",
-   "topic": "Politics",
-   "summary": "Fox News&apos; &quot;Antisemitism Exposed&quot; newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
-   "headline": "Michigan progressive Abdul El-Sayed won a combative Democratic nomination for US Senate \u2013 he\u2019ll face new attacks this fall",
-   "updated": "2026-08-13T12:13:51+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Fox News \u2018Antisemitism Exposed\u2019 Newsletter: Why Jews hold the key to Michigan Senate race",
-     "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-why-jews-hold-key-michigan-senate-race",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-13T12:13:51+00:00",
-     "summary": "Fox News&apos; &quot;Antisemitism Exposed&quot; newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Mike Collins Slams Jon Ossoff for Endorsing \u2018Extremist\u2019 Socialist El-Sayed in Michigan Senate Race",
-     "url": "https://www.breitbart.com/politics/2026/08/12/collins-slams-ossoff-endorsing-extremist-socialist-el-sayed-michigan-senate/",
-     "author": "Katherine Hamilton",
-     "kind": "news",
-     "published": "2026-08-13T00:29:32+00:00",
-     "summary": "Rep. Mike Collins (R-GA) condemned incumbent Sen. Jon Ossoff (D-GA) on Wednesday for his endorsement of \"extremist\" muslim socialist Michigan Democrat U.S. Senate candidate Abdulrahman Mohamed El-Sayed. The post Mike Collins Slams Jon Ossoff for Endorsing \u2018Extremist\u2019 Socialist El-Sayed in Michigan Senate Race appeared first on Breitbart ."
-    },
-    {
-     "outlet": "theconversation",
-     "title": "Michigan progressive Abdul El-Sayed won a combative Democratic nomination for US Senate \u2013 he\u2019ll face new attacks this fall",
-     "url": "https://theconversation.com/michigan-progressive-abdul-el-sayed-won-a-combative-democratic-nomination-for-us-senate-hell-face-new-attacks-this-fall-289298",
-     "author": "Michael Traugott, Research Professor at the Center for Political Studies, University of Michigan",
-     "kind": "news",
-     "published": "2026-08-12T12:37:12+00:00",
-     "summary": "Progressive Abdul El-Sayed will face Republican nominee Mike Rogers this November."
     }
    ]
   },
@@ -1842,6 +1791,50 @@
    ]
   },
   {
+   "id": "304c57cecc",
+   "topic": "Business & Economy",
+   "summary": "The Lakers just sold for $12.5 billion \u2014 a record. But Mark Walter's capital gains tax bill could wipe out over $1 billion of that windfall.",
+   "headline": "LA Lakers to be sold in record $12.5bn deal",
+   "updated": "2026-08-13T12:00:00+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "pub": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "forbes",
+     "title": "The Lakers Just Sold For $12.5 Billion, But Uncle Sam Wants His Cut",
+     "url": "https://www.forbes.com/sites/nathangoldman/2026/08/13/the-lakers-just-sold-for-125b-but-uncle-sam-wants-his-cut/",
+     "author": "Nathan Goldman, Contributor",
+     "kind": "news",
+     "published": "2026-08-13T12:00:00+00:00",
+     "summary": "The Lakers just sold for $12.5 billion \u2014 a record. But Mark Walter's capital gains tax bill could wipe out over $1 billion of that windfall."
+    },
+    {
+     "outlet": "semafor",
+     "title": "Los Angeles Lakers sold for record $12.5 billion",
+     "url": "https://www.semafor.com/article/08/12/2026/los-angeles-lakers-sold-for-record-125-billion",
+     "author": "Brendan Ruberry",
+     "kind": "news",
+     "published": "2026-08-12T22:30:30+00:00",
+     "summary": "Former Disney chief Bob Iger and investor Josh Kushner are buying the NBA team."
+    },
+    {
+     "outlet": "bbc",
+     "title": "LA Lakers to be sold in record $12.5bn deal",
+     "url": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T16:11:04+00:00",
+     "summary": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise."
+    }
+   ]
+  },
+  {
    "id": "f3d1ec7d1b",
    "topic": "Climate & Energy",
    "summary": "A military helicopter crashed near Fort Hood, Texas, on Wednesday killing two soldiers. Now an investigation is underway to determine what sent the Apache chopper down into a field, sparking a dangerous wildfire. NBC\u2019s Sam Brock reports for TODAY.",
@@ -1882,6 +1875,50 @@
      "kind": "opinion",
      "published": "2026-08-12T19:33:58+00:00",
      "summary": "Two U.S. soldiers were killed Wednesday when an Army Apache attack helicopter crashed in a field near Fort Hood, Texas, sparking a wildfire that forced nearby homes to evacuate. The Fort Hood-based AH-64 Apache was on a routine training flight when it crashed near Salado, about 50 miles north of Austin, shortly after 1:30 p.m. ..."
+    }
+   ]
+  },
+  {
+   "id": "d646eb270d",
+   "topic": "Health",
+   "summary": "Move blocking funds through Medicaid and Chip to make it harder for vulnerable children to get healthcare, experts say The Trump administration finalized a rule on Tuesday to end gender-affirming care through Medicaid and the Children\u2019s Health Insurance Program (Chip), a move that will make it\u2026",
+   "headline": "Trump administration finalizes rule to end federal support for gender-affirming care",
+   "updated": "2026-08-13T11:00:56+00:00",
+   "outletCount": 3,
+   "counts": {
+    "nonprofit": 1,
+    "family": 2
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Trump administration finalizes rule to end federal support for gender-affirming care",
+     "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-administration-gender-affirming-care",
+     "author": "Melody Schreiber",
+     "kind": "news",
+     "published": "2026-08-13T11:00:56+00:00",
+     "summary": "Move blocking funds through Medicaid and Chip to make it harder for vulnerable children to get healthcare, experts say The Trump administration finalized a rule on Tuesday to end gender-affirming care through Medicaid and the Children\u2019s Health Insurance Program (Chip), a move that will make it harder for vulnerable children to access healthcare and that eschews evidence to advance an anti-transgender ideology, opponents say. The rule is set to take effect on 13 October \u2013 but legal challenges cou"
+    },
+    {
+     "outlet": "time",
+     "title": "Trump\u2019s New Medicaid Rule Targets Gender-Affirming Care for Minors",
+     "url": "https://time.com/article/2026/08/12/trans-youth-face-a-new-barrier-to-gender-affirming-care-medicaid/",
+     "author": "Rebecca Schneid",
+     "kind": "news",
+     "published": "2026-08-12T20:27:21+00:00",
+     "summary": "A new rule curbs state and federal funding for certain gender-affirming treatments for people under 18."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump administration to end Medicaid funding for children\u2019s transgender care",
+     "url": "https://www.washingtonpost.com/politics/2026/08/11/trump-administration-end-medicaid-funding-childrens-transgender-care/",
+     "author": "Cat Zakrzewski, Dan Diamond",
+     "kind": "news",
+     "published": "2026-08-12T00:57:20+00:00",
+     "summary": "The administration of President Donald Trump has escalated its crackdown on transgender medical care ahead of the midterm elections."
     }
    ]
   },
@@ -2017,47 +2054,47 @@
    ]
   },
   {
-   "id": "aec1ab3f9f",
-   "topic": "Other",
-   "summary": "Photo Illustration by Elizabeth Brockway/The Daily Beast/Getty/Reuters A shock name is considered the favorite to replace Karoline Leavitt as the next White House press secretary. MAGA political commentator Scott Jennings is the current frontrunner to take on the prominent role in Donald Trump\u2019s\u2026",
-   "headline": "US: Karoline Leavitt to step down as Trump's spokesperson",
-   "updated": "2026-08-13T08:45:50+00:00",
+   "id": "a951708aa7",
+   "topic": "Politics",
+   "summary": "President Donald Trump announces that he is nominating federal Judge Lee Rudofsky for the U.S. Court of Appeals for the Eighth Circuit.",
+   "headline": "Texas\u2019 mail ballot ID requirements restored by federal appeals court",
+   "updated": "2026-08-13T09:57:29+00:00",
    "outletCount": 3,
    "counts": {
-    "corp": 1,
-    "pub": 1,
-    "family": 1
+    "family": 1,
+    "nonprofit": 1,
+    "corp": 1
    },
-   "newsCount": 2,
-   "opinionCount": 1,
+   "newsCount": 3,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "dailybeast",
-     "title": "TV Star Is Shock Frontrunner to Replace Karoline Leavitt",
-     "url": "https://www.thedailybeast.com/frontrunner-to-replace-karoline-leavitt-as-white-house-press-secretary-revealed/",
-     "author": "Ewan Palmer",
-     "kind": "news",
-     "published": "2026-08-13T08:45:50+00:00",
-     "summary": "Photo Illustration by Elizabeth Brockway/The Daily Beast/Getty/Reuters A shock name is considered the favorite to replace Karoline Leavitt as the next White House press secretary. MAGA political commentator Scott Jennings is the current frontrunner to take on the prominent role in Donald Trump\u2019s administration, sources with knowledge of the situation told the Daily Beast. Jennings, known for his argumentative and childish appearances defending Trump on CNN, has a history of working in public rel"
-    },
-    {
-     "outlet": "dw",
-     "title": "US: Karoline Leavitt to step down as Trump's spokesperson",
-     "url": "https://www.dw.com/en/us-karoline-leavitt-to-step-down-as-trump-s-spokesperson/a-78345847?maca=en-rss-en-all-1573-rdf",
+     "outlet": "foxnews",
+     "title": "Trump aims to elevate federal judge Lee Rudofsky to Court of Appeals for the Eighth Circuit",
+     "url": "https://www.foxnews.com/politics/trump-aims-elevate-federal-judge-lee-rudofsky-court-appeals-eighth-circuit",
      "author": null,
      "kind": "news",
-     "published": "2026-08-13T07:15:00+00:00",
-     "summary": "White House press secretary Karoline Leavitt is to leave her job at the end of the month, President Donald Trump says. Leavitt, 28, is the youngest-ever person to have held the position."
+     "published": "2026-08-13T09:57:29+00:00",
+     "summary": "President Donald Trump announces that he is nominating federal Judge Lee Rudofsky for the U.S. Court of Appeals for the Eighth Circuit."
     },
     {
-     "outlet": "dailywire",
-     "title": "Place Your Bets: Who Will Replace Karoline Leavitt?",
-     "url": "https://www.dailywire.com/news/place-your-bets-who-will-replace-karoline-leavitt",
-     "author": "Drew Berkemeyer",
-     "kind": "opinion",
-     "published": "2026-08-12T17:30:50+00:00",
-     "summary": "President Donald Trump has a new opening in his administration after White House Press Secretary Karoline Leavitt announced Wednesday that she will step down at the end of the month. Trump has not announced a successor, but traders are already betting on who will take over one of the White House\u2019s most visible jobs. As ..."
+     "outlet": "texastribune",
+     "title": "Texas\u2019 mail ballot ID requirements restored by federal appeals court",
+     "url": "https://feeds.texastribune.org/link/16799/17416905/texas-mail-ballot-voter-id-application-appeal-ruling",
+     "author": "Ayden Runnels",
+     "kind": "news",
+     "published": "2026-08-13T02:15:14+00:00",
+     "summary": "The U.S. 5th Circuit Court of Appeals rebuked the lower court\u2019s 2025 ruling that struck down nine provisions of a sweeping election law related to voter assistance."
+    },
+    {
+     "outlet": "axios",
+     "title": "Trump's mail-in voting restrictions blocked nationwide by federal judge",
+     "url": "https://www.axios.com/2026/08/11/trump-mail-in-voting-executive-order-us-postal-service",
+     "author": "Rebecca Falconer",
+     "kind": "news",
+     "published": "2026-08-11T22:21:51+00:00",
+     "summary": "A federal judge on Tuesday expanded an earlier block on part of President Trump's executive order seeking to tighten rules for mail-in voting ahead of November's elections. Why it matters: The ruling freezes a key piece of Trump's attempted overhaul of mail-in voting for all U.S. states. A previous ruling in a separate case had limited a block for the 23 Democratic states that sued over the president's order. Trump's executive order had enabled the USPS to refuse to deliver ballots to states tha"
     }
    ]
   },
@@ -2102,50 +2139,6 @@
      "kind": "opinion",
      "published": "2026-08-12T17:00:04+00:00",
      "summary": "A former top Southern Poverty Law Center (SPLC) official was charged Wednesday in a federal fraud case claiming the organization secretly funneled millions of dollars in donor money to informants embedded in white supremacist and other extremist groups. Heidi Beirich, 59, who formerly led the SPLC\u2019s Intelligence Project tracking extremist groups, was charged with conspiracy ..."
-    }
-   ]
-  },
-  {
-   "id": "1bf133b9a7",
-   "topic": "Politics",
-   "summary": "Daniel Heuer / Daniel Heuer/REUTERS Secretary of State Marco Rubio dismissed intelligence pointing to an Iranian assassination threat and chose to stay aboard Air Force One while President Donald Trump was secretly shuttled to a smaller plane, according to a report. When the CIA received\u2026",
-   "headline": "Top Trump Goon Called BS on Intel Behind Catering Truck Stunt",
-   "updated": "2026-08-12T23:55:08+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 2,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dailybeast",
-     "title": "Top Trump Goon Called BS on Intel Behind Catering Truck Stunt",
-     "url": "https://www.thedailybeast.com/top-trump-goon-marco-rubio-called-bs-on-intel-behind-catering-truck-stunt/",
-     "author": "Erkki Forster",
-     "kind": "news",
-     "published": "2026-08-12T23:55:08+00:00",
-     "summary": "Daniel Heuer / Daniel Heuer/REUTERS Secretary of State Marco Rubio dismissed intelligence pointing to an Iranian assassination threat and chose to stay aboard Air Force One while President Donald Trump was secretly shuttled to a smaller plane, according to a report. When the CIA received intelligence from Israel about the assassination threat, the U.S. agency\u2019s analysts were unconvinced by the intelligence and relayed their concerns to Trump administration officials, The Washington Post reports,"
-    },
-    {
-     "outlet": "wapo",
-     "title": "Close aides, but no Cabinet officials, joined Trump in airport catering truck",
-     "url": "https://www.washingtonpost.com/politics/2026/08/12/close-trump-aides-no-cabinet-officials-made-secret-catering-truck-move/",
-     "author": "Dan Lamothe, Cat Zakrzewski",
-     "kind": "news",
-     "published": "2026-08-12T09:00:00+00:00",
-     "summary": "The president was accompanied by some of his most loyal aides but no top administration officials as he made the clandestine move to a different plane to leave Turkey last month."
-    },
-    {
-     "outlet": "vox",
-     "title": "Trump\u2019s catering truck caper",
-     "url": "https://www.vox.com/today-explained-newsletter/495843/trumps-catering-truck-caper",
-     "author": "Caitlin Dewey",
-     "kind": "news",
-     "published": "2026-08-11T20:50:00+00:00",
-     "summary": "This story appeared in&#160;Today, Explained,&#160;a daily newsletter that helps you understand the most compelling news and stories of the day.&#160;Subscribe here. It\u2019s not exactly the stuff of Netflix spy thrillers, but\u2026it\u2019s also not every day that the president makes a covert getaway in a catering truck.&#160; White House officials revealed on Monday that, before a [&#8230;]"
     }
    ]
   },
@@ -2239,15 +2232,84 @@
    ]
   },
   {
-   "id": "a0e511f722",
+   "id": "3805a9ee58",
    "topic": "Other",
-   "summary": "Fresh off her breakthrough Senate primary win, Minnesota Lt. Gov. Peggy Flanagan's fundraising operation crowed that she can make history as the first female Native American to serve in the upper chamber.",
-   "headline": "Peggy Flanagan could make history for Native American women in November. She\u2019s not the only one.",
-   "updated": "2026-08-13T15:15:31+00:00",
+   "summary": "An Acton, Massachusetts teenager charged with killing his mother and brother in a case linked to ChatGPT is being held without bail.",
+   "headline": "Acton teen held without bail in murders of mother, brother linked to ChatGPT",
+   "updated": "2026-08-13T16:05:40+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Acton teen held without bail in murders of mother, brother linked to ChatGPT",
+     "url": "https://www.cbsnews.com/news/acton-ma-murders-chatgpt-arjun-aravind/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T16:05:40+00:00",
+     "summary": "An Acton, Massachusetts teenager charged with killing his mother and brother in a case linked to ChatGPT is being held without bail."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Massachusetts teen accused of killing mother, brother with help from ChatGPT",
+     "url": "https://www.nbcnews.com/news/us-news/teen-accused-killing-mother-brother-help-chatgpt-rcna592308",
+     "author": "David K. Li",
+     "kind": "news",
+     "published": "2026-08-13T14:10:35+00:00",
+     "summary": "A suburban Boston teenager murdered his mother and brother after using artificial intelligence to search \u201cfor theoretical ideas or fantasy stories regarding the killing of his family,\u201d authorities said Wednesday."
+    }
+   ]
+  },
+  {
+   "id": "46fbec7d94",
+   "topic": "Justice & Policing",
+   "summary": "Is the administration defying the court or pursuing lawful alternatives?",
+   "headline": "Today in Supreme Court History: August 13, 1788",
+   "updated": "2026-08-13T16:01:04+00:00",
    "outletCount": 2,
    "counts": {
     "family": 1,
     "nonprofit": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "After Supreme Court Losses, Trump Keeps Pushing",
+     "url": "https://www.nytimes.com/2026/08/13/us/politics/the-docket-supreme-court-trump-losses.html",
+     "author": "Adam Liptak",
+     "kind": "news",
+     "published": "2026-08-13T16:01:04+00:00",
+     "summary": "Is the administration defying the court or pursuing lawful alternatives?"
+    },
+    {
+     "outlet": "reason",
+     "title": "Today in Supreme Court History: August 13, 1788",
+     "url": "https://reason.com/volokh/2026/08/13/today-in-supreme-court-history-august-13-1788-6/",
+     "author": "Josh Blackman",
+     "kind": "opinion",
+     "published": "2026-08-13T11:00:40+00:00",
+     "summary": "8/13/1788: Federalist No. 85 is published by Alexander Hamilton. The post Today in Supreme Court History: August 13, 1788 appeared first on Reason.com."
+    }
+   ]
+  },
+  {
+   "id": "3a5954c57f",
+   "topic": "Other",
+   "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+   "headline": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
+   "updated": "2026-08-13T16:00:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "pub": 1
    },
    "newsCount": 2,
    "opinionCount": 0,
@@ -2255,21 +2317,296 @@
    "articles": [
     {
      "outlet": "nypost",
-     "title": "Minnesota Dem Peggy Flanagan boasts she could be first Native American woman senator \u2014 years after Elizabeth Warren\u2019s claim",
-     "url": "https://nypost.com/2026/08/13/us-news/minnesota-dem-peggy-flanagan-boasts-she-could-be-first-native-american-woman-senator-years-after-elizabeth-warrens-claim/",
-     "author": "Ryan King",
+     "title": "Taylor Swift goes full \u2018Lavender Haze\u2019 in floral mini and bejeweled bag for London night out",
+     "url": "https://pagesix.com/2026/08/13/style/taylor-swift-stuns-in-lavender-dress-for-london-outing-without-travis-kelce/",
+     "author": "Elana Fishman",
      "kind": "news",
-     "published": "2026-08-13T15:15:31+00:00",
-     "summary": "Fresh off her breakthrough Senate primary win, Minnesota Lt. Gov. Peggy Flanagan's fundraising operation crowed that she can make history as the first female Native American to serve in the upper chamber."
+     "published": "2026-08-13T16:00:00+00:00",
+     "summary": "Meet her at midnight."
     },
     {
-     "outlet": "the19th",
-     "title": "Peggy Flanagan could make history for Native American women in November. She\u2019s not the only one.",
-     "url": "https://19thnews.org/2026/08/election-2026-native-women-representation/",
-     "author": "Mel Leonor",
+     "outlet": "bbc",
+     "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
+     "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-12T03:22:08+00:00",
-     "summary": "Lt. Gov. Peggy Flanagan easily won Minnesota\u2019s Democratic primary for a U.S. Senate seat, according to Decision Desk HQ, putting her a step closer to becoming the first Native American woman elected to the chamber. Flanagan, a member of the White Earth Band of Ojibwe, is not the only Native woman who could make history [&#8230;]"
+     "published": "2026-08-13T01:19:23+00:00",
+     "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden."
+    }
+   ]
+  },
+  {
+   "id": "b8f86b215e",
+   "topic": "Politics",
+   "summary": "Zambian president Hakainde Hichilema has cast his vote in the capital Lusaka, as he bids for a second term.",
+   "headline": "Zambian president Hichilema votes as he seeks second term",
+   "updated": "2026-08-13T15:51:52+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Zambian president Hichilema votes as he seeks second term",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/zambian-president-hichilema-votes-as-he-seeks-second-term?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T15:51:52+00:00",
+     "summary": "Zambian president Hakainde Hichilema has cast his vote in the capital Lusaka, as he bids for a second term."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Zambians voting as president bids for second term",
+     "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T14:29:11+00:00",
+     "summary": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal."
+    }
+   ]
+  },
+  {
+   "id": "6f6f74160b",
+   "topic": "Politics",
+   "summary": "Becerra\u2019s lead has narrowed, but Steve Hilton still faces a steep climb in the November election.",
+   "headline": "Xavier Becerra loses ground to Steve Hilton in California governor\u2019s race: poll",
+   "updated": "2026-08-13T15:40:49+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Xavier Becerra loses ground to Steve Hilton in California governor\u2019s race: poll",
+     "url": "https://nypost.com/2026/08/13/us-news/xavier-becerra-leads-steve-hilton-in-new-california-governors-poll/",
+     "author": "Zain Khan",
+     "kind": "news",
+     "published": "2026-08-13T15:40:49+00:00",
+     "summary": "Becerra\u2019s lead has narrowed, but Steve Hilton still faces a steep climb in the November election."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Becerra holds strong lead over Hilton in race for California governor, new poll shows",
+     "url": "https://www.latimes.com/california/story/2026-08-13/becerra-holds-strong-lead-over-hilton-in-race-for-california-governor-poll",
+     "author": "Nicole Nixon",
+     "kind": "news",
+     "published": "2026-08-13T10:00:00+00:00",
+     "summary": "As the campaign for California governor heads into the general election, Democrat Xavier Becerra maintains a strong lead over Republican Steve Hilton, according to a new poll."
+    }
+   ]
+  },
+  {
+   "id": "e27f28d074",
+   "topic": "Justice & Policing",
+   "summary": "Lindsay Clancy's trial for the murders of her three children in Massachusetts resumed Thursday with testimony from State Police investigators.",
+   "headline": "Watch Live: Lindsay Clancy trial resumes with State Police investigators testimony",
+   "updated": "2026-08-13T15:38:23+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Watch Live: Lindsay Clancy trial resumes with State Police investigators testimony",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-watch-live-day-13/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T15:38:23+00:00",
+     "summary": "Lindsay Clancy's trial for the murders of her three children in Massachusetts resumed Thursday with testimony from State Police investigators."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Postpartum mom\u00a0Lindsay Clancy on trial for murder brings court to a halt with sudden breakdown",
+     "url": "https://www.foxnews.com/us/postpartum-mom-lindsay-clancy-trial-murder-brings-court-halt-sudden-breakdown",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T15:14:43+00:00",
+     "summary": "Lindsay Clancy sobbed and said &quot;I can&apos;t do this&quot; as a medical examiner described the autopsy of her 5-year-old daughter Cora in court Wednesday."
+    }
+   ]
+  },
+  {
+   "id": "d010c6e6cc",
+   "topic": "Other",
+   "summary": "Settling $15,000 in card debt could reduce what you owe, but the settlement fees will change the math considerably.",
+   "headline": "US credit card debt climbs to $1.26tn, nearing last year\u2019s record high",
+   "updated": "2026-08-13T15:37:25+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "How much would settling $15,000 in credit card debt cost after fees?",
+     "url": "https://www.cbsnews.com/news/how-much-15000-debt-settlement-cost-after-fees/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T15:37:25+00:00",
+     "summary": "Settling $15,000 in card debt could reduce what you owe, but the settlement fees will change the math considerably."
+    },
+    {
+     "outlet": "guardian",
+     "title": "US credit card debt climbs to $1.26tn, nearing last year\u2019s record high",
+     "url": "https://www.theguardian.com/business/2026/aug/12/credit-card-debt-increase-fed-report",
+     "author": "Coral Murphy Marcos",
+     "kind": "news",
+     "published": "2026-08-12T14:58:36+00:00",
+     "summary": "Mortgage and student loan balances saw \u2018small decline\u2019 with increases elsewhere, says post alongside Fed report Credit card debt in the United States is growing close to a record high, having crept up from $54bn to $1.26tn between April and June compared with the same period last year, according to a report by the Federal Reserve Bank of New York. That figure is just shy of last year \u2019s record high of $1.28tn. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "6ef9c3bc38",
+   "topic": "Climate & Energy",
+   "summary": "Potential impacts from the storm could range from &quot;devastating to catastrophic&quot; and could lead to evacuations, the NWS warned.",
+   "headline": "Tropical Storm Lala forms in the Pacific and hurricane watch is issued for the Big Island of Hawaii",
+   "updated": "2026-08-13T15:37:13+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "Tropical Storm Lala Tracker Map: &#039;Catastrophic&#039; Warning Issued for Hawaii",
+     "url": "https://www.newsweek.com/tropical-storm-lala-hawaii-tracker-map-forecast-warning-12319119",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T15:37:13+00:00",
+     "summary": "Potential impacts from the storm could range from &quot;devastating to catastrophic&quot; and could lead to evacuations, the NWS warned."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Tropical Storm Lala forms in the Pacific and hurricane watch is issued for the Big Island of Hawaii",
+     "url": "https://www.pbs.org/newshour/science/tropical-storm-hernan-forms-in-the-pacific-while-a-different-weather-system-could-soak-hawaii",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-13T13:35:15+00:00",
+     "summary": "The storm is forecast to bring rain to the Hawaiian Islands starting late Friday as well as high winds and dangerous surf, the National Hurricane Center said."
+    }
+   ]
+  },
+  {
+   "id": "99eeb75937",
+   "topic": "Health",
+   "summary": "Tyler Mane credits his wife Renae with saving his life after she insisted he get a breast lump checked that turned out to be Stage 1 cancer. They&apos;re now co-hosting a new podcast, &quot;Mane AF.&quot;",
+   "headline": "\u2018X-Men\u2019 star Tyler Mane says wife \u2018saved my life\u2019 after seemingly harmless lump led to breast cancer diagnosis",
+   "updated": "2026-08-13T15:30:02+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "\u2018X-Men\u2019 star Tyler Mane says wife \u2018saved my life\u2019 after seemingly harmless lump led to breast cancer diagnosis",
+     "url": "https://www.foxnews.com/entertainment/x-men-star-tyler-mane-says-wife-saved-my-life-after-seemingly-harmless-lump-led-breast-cancer-diagnosis",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T15:30:02+00:00",
+     "summary": "Tyler Mane credits his wife Renae with saving his life after she insisted he get a breast lump checked that turned out to be Stage 1 cancer. They&apos;re now co-hosting a new podcast, &quot;Mane AF.&quot;"
+    },
+    {
+     "outlet": "latimes",
+     "title": "'The Office' star Lucy Davis has incurable breast cancer after finding tiny 'hard spot'",
+     "url": "https://www.latimes.com/entertainment-arts/story/2026-08-12/the-office-star-lucy-davis-says-she-has-incurable-breast-cancer",
+     "author": "Emily St. Martin",
+     "kind": "news",
+     "published": "2026-08-12T23:54:19+00:00",
+     "summary": "Lucy Davis, who starred in Britain's version of 'The Office' and 'Chilling Adventures of Sabrina,' reveals her breast cancer has spread to her bones. The actor said she's at peace with the 'incurable' diagnosis."
+    }
+   ]
+  },
+  {
+   "id": "c4838b500c",
+   "topic": "Health",
+   "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak\u2026",
+   "headline": "DRC\u2019s fast-growing Ebola outbreak spreads to sixth province",
+   "updated": "2026-08-13T15:17:13+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "DRC\u2019s fast-growing Ebola outbreak spreads to sixth province",
+     "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+     "author": "Associated Press in Kinshasa",
+     "kind": "news",
+     "published": "2026-08-13T15:17:13+00:00",
+     "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which erupted more than a decade ago and killed more than 11,000 people. Jean Kaseya, the director general of Africa CDC, said a death had been recorded "
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says",
+     "url": "https://www.pbs.org/newshour/world/ebola-outbreak-has-spread-to-new-province-in-congo-the-head-of-africa-cdc-says",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-13T14:27:33+00:00",
+     "summary": "Congo's Ebola outbreak has spread to a sixth province, after a death was recorded in the previously unaffected Bas-Uele province, Africa CDC Director-General Jean Kaseya said Thursday."
+    }
+   ]
+  },
+  {
+   "id": "337f30b8a8",
+   "topic": "Politics",
+   "summary": "Almost half of Americans between the ages of 18-34 also had at least somewhat favorable views on socialism, a new poll found.",
+   "headline": "Young Americans Don\u2019t Trust Billionaire AI Leaders, New Poll Finds",
+   "updated": "2026-08-13T15:16:49+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "forbes",
+     "title": "Young Americans Don\u2019t Trust Billionaire AI Leaders, New Poll Finds",
+     "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/13/young-americans-dont-trust-billionaire-ai-leaders-new-poll-finds/",
+     "author": "Zachary Folk, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-13T15:16:49+00:00",
+     "summary": "Almost half of Americans between the ages of 18-34 also had at least somewhat favorable views on socialism, a new poll found."
+    },
+    {
+     "outlet": "semafor",
+     "title": "Republican students trust their colleges despite Trump scrutiny, poll finds",
+     "url": "https://www.semafor.com/article/08/13/2026/republican-students-trust-their-colleges-despite-trump-scrutiny-poll-finds",
+     "author": "Morgan Chalfant",
+     "kind": "news",
+     "published": "2026-08-13T08:26:51+00:00",
+     "summary": "Sixty-two percent of Republican students said their college\u2019s leadership mostly acts in students\u2019 best interests, compared with 55% of Democrats and half of independents."
     }
    ]
   },
@@ -2309,6 +2646,75 @@
    ]
   },
   {
+   "id": "c63f0a36ed",
+   "topic": "Justice & Policing",
+   "summary": "Flock Safety will implement new privacy and data retention policies as pressure grows on the automated license plate operator to prevent its technology from being abused or used to conduct mass surveillance. The company announced Thursday it will shorten the recommended default data retention\u2026",
+   "headline": "Flock will add privacy guardrails to camera systems amid backlash",
+   "updated": "2026-08-13T15:09:37+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "Flock will add privacy guardrails to camera systems amid backlash",
+     "url": "https://thehill.com/policy/technology/6027324-flock-cameras-ai-surveillance-privacy-updates/",
+     "author": "Miranda Nazzaro",
+     "kind": "news",
+     "published": "2026-08-13T15:09:37+00:00",
+     "summary": "Flock Safety will implement new privacy and data retention policies as pressure grows on the automated license plate operator to prevent its technology from being abused or used to conduct mass surveillance. The company announced Thursday it will shorten the recommended default data retention window from 30 to seven days to cut the amount of..."
+    },
+    {
+     "outlet": "businessinsider",
+     "title": "Flock adds new guardrails after public backlash and allegations of police misuse",
+     "url": "https://www.businessinsider.com/flock-safety-surveillance-cameras-policy-changes-law-enforcement-arrests-2026-8",
+     "author": "Ben Shimkus (bshimkus@insider.com)",
+     "kind": "news",
+     "published": "2026-08-13T14:23:32+00:00",
+     "summary": "On Thursday, CEO Garrett Langley outlined new safety and privacy changes for the surveillance camera network \"that came from listening.\""
+    }
+   ]
+  },
+  {
+   "id": "d3caf3cab1",
+   "topic": "Other",
+   "summary": "Sony and Marvel's latest \"Spider-Man\" sequel is already topping \"Avengers\" movies after just two weekends of release.",
+   "headline": "\u2018Spider-Man Brand New Day\u2019 Tops \u2018Avengers\u2019 On All-Time Box Office Charts",
+   "updated": "2026-08-13T15:07:21+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "forbes",
+     "title": "\u2018Spider-Man Brand New Day\u2019 Tops \u2018Avengers\u2019 On All-Time Box Office Charts",
+     "url": "https://www.forbes.com/sites/markhughes/2026/08/13/spider-man-brand-new-day-tops-avengers-on-all-time-box-office-charts/",
+     "author": "Mark Hughes, Contributor",
+     "kind": "news",
+     "published": "2026-08-13T15:07:21+00:00",
+     "summary": "Sony and Marvel's latest \"Spider-Man\" sequel is already topping \"Avengers\" movies after just two weekends of release."
+    },
+    {
+     "outlet": "businessinsider",
+     "title": "'The Dark Knight' warned us about mass surveillance. In 'Spider-Man: Brand New Day,' it's a punchline.",
+     "url": "https://www.businessinsider.com/spider-man-facial-recognition-tech-ethical-debate-dark-knight-2026-8",
+     "author": "Gabbi Shaw (insider@insider.com)",
+     "kind": "news",
+     "published": "2026-08-13T11:40:01+00:00",
+     "summary": "\"Spider-Man: Brand New Day\" has faced backlash for its portrayal of mass surveillance, sparking ethical debates similar to those in \"The Dark Knight.\""
+    }
+   ]
+  },
+  {
    "id": "4a0bf03061",
    "topic": "Politics",
    "summary": "Immigration has surged as an issue in Maine, but concerns about Susan Collins and Donald Trump may shape the Senate race.",
@@ -2344,140 +2750,72 @@
    ]
   },
   {
-   "id": "1417702507",
-   "topic": "World",
-   "summary": "A Russian drone attack on a train carrying hundreds of passengers in southern Ukraine killed two people on Thursday. Our correspondent Emmanuelle Chaze tells us more.",
-   "headline": "Russian strike on Ukraine passenger train kills 2",
-   "updated": "2026-08-13T15:02:34+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "coop": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "Russian strike on Ukraine passenger train kills 2",
-     "url": "https://www.france24.com/en/video/20260813-russian-strike-on-ukraine-passenger-train-kills-2",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-13T15:02:34+00:00",
-     "summary": "A Russian drone attack on a train carrying hundreds of passengers in southern Ukraine killed two people on Thursday. Our correspondent Emmanuelle Chaze tells us more."
-    },
-    {
-     "outlet": "dropsite",
-     "title": "Trump \u201clow-keys\u201d Iran; Netanyahu rejects BoP plan for Gaza; Ukraine kills 13 in strike targeting Russian refinery",
-     "url": "https://www.dropsitenews.com/p/trump-iran-hormuz-netanyahu-gaza-board-peace-ukraine-russia-refinery",
-     "author": "Drop Site News",
-     "kind": "news",
-     "published": "2026-08-10T15:31:41+00:00",
-     "summary": "Drop Site Daily: August 10, 2026"
-    }
-   ]
-  },
-  {
-   "id": "2e9554eaba",
-   "topic": "Tech",
-   "summary": "It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevor Noah is hosting instead of Jimmy Fallon. If the 2025 show was any indication, today's broadcast\u2026",
-   "headline": "Apple loyalists, Google\u2019s new Pixel phones and watch might make you look twice",
-   "updated": "2026-08-13T14:58:42+00:00",
+   "id": "bba1f514fe",
+   "topic": "Other",
+   "summary": "Hungarian Prime Minister Peter Magyar cast doubt on the Russian-led expansion of the country\u2019s sole nuclear power plant after the record-low level of the Danube river almost led to a full shutdown of the existing reactors.",
+   "headline": "Falling Danube flow forces shutdown of Romania\u2019s sole nuclear plant",
+   "updated": "2026-08-13T15:06:05+00:00",
    "outletCount": 2,
    "counts": {
     "family": 1,
-    "corp": 1
+    "pub": 1
    },
    "newsCount": 2,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "nypost",
-     "title": "Apple loyalists, Google\u2019s new Pixel phones and watch might make you look twice",
-     "url": "https://nypost.com/2026/08/13/shopping/google-pixel-11-series-and-pixel-watch-5-launch-with-deals/",
-     "author": "Nishka Dhawan",
+     "outlet": "bloomberg",
+     "title": "Hungary Casts Doubt on Nuclear Plant Expansion After Danube Woes",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-13/hungary-casts-doubt-on-nuclear-plant-expansion-after-danube-woes",
+     "author": "Zoltan Simon",
      "kind": "news",
-     "published": "2026-08-13T14:58:42+00:00",
-     "summary": "Google's latest products are already on sale."
-    },
-    {
-     "outlet": "theverge",
-     "title": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
-     "url": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
-     "author": "David Imel",
-     "kind": "news",
-     "published": "2026-08-12T21:30:00+00:00",
-     "summary": "It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevor Noah is hosting instead of Jimmy Fallon. If the 2025 show was any indication, today's broadcast might be something of a cringefest. [&#8230;]"
-    }
-   ]
-  },
-  {
-   "id": "3db9e68111",
-   "topic": "Politics",
-   "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-   "headline": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-   "updated": "2026-08-13T14:58:09+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-     "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T14:58:09+00:00",
-     "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks."
+     "published": "2026-08-13T15:06:05+00:00",
+     "summary": "Hungarian Prime Minister Peter Magyar cast doubt on the Russian-led expansion of the country\u2019s sole nuclear power plant after the record-low level of the Danube river almost led to a full shutdown of the existing reactors."
     },
     {
      "outlet": "aljazeera",
-     "title": "Report from scene of Palestinian homes besieged by settlers",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/report-from-scene-of-palestinian-homes-besieged-by-settlers?traffic_source=rss",
+     "title": "Falling Danube flow forces shutdown of Romania\u2019s sole nuclear plant",
+     "url": "https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-13T14:08:14+00:00",
-     "summary": "Report from scene of Palestinian homes besieged by settlers"
+     "published": "2026-08-13T12:30:08+00:00",
+     "summary": "Romania had tried to avert a total shutdown of the plant, which usually generates a fifth of the country&#039;s electricity."
     }
    ]
   },
   {
-   "id": "3805a9ee58",
-   "topic": "Other",
-   "summary": "An Acton, Massachusetts teenager charged with killing his mother and brother in a case linked to ChatGPT is being held without bail.",
-   "headline": "Acton teen held without bail in murders of mother, brother linked to ChatGPT",
-   "updated": "2026-08-13T14:47:50+00:00",
+   "id": "5cae9061e3",
+   "topic": "Politics",
+   "summary": "The East Wing is gone, a new helipad is spreading across the lawn, and scaffolding wraps the White House's front columns, but the price tags for President Trump's renovations are far less obvious. The big picture: The muddled mix of funding streams \u2014 whether from private donors, the president\u2026",
+   "headline": "White House press secretary leaving",
+   "updated": "2026-08-13T15:01:10+00:00",
    "outletCount": 2,
    "counts": {
-    "corp": 2
+    "corp": 1,
+    "nonprofit": 1
    },
    "newsCount": 2,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "cbsnews",
-     "title": "Acton teen held without bail in murders of mother, brother linked to ChatGPT",
-     "url": "https://www.cbsnews.com/news/acton-ma-murders-chatgpt-arjun-aravind/",
-     "author": null,
+     "outlet": "axios",
+     "title": "Trump's White House remodel tab keeps growing",
+     "url": "https://www.axios.com/2026/08/13/trump-white-house-projects-cost",
+     "author": "Avery Lotz",
      "kind": "news",
-     "published": "2026-08-13T14:47:50+00:00",
-     "summary": "An Acton, Massachusetts teenager charged with killing his mother and brother in a case linked to ChatGPT is being held without bail."
+     "published": "2026-08-13T15:01:10+00:00",
+     "summary": "The East Wing is gone, a new helipad is spreading across the lawn, and scaffolding wraps the White House's front columns, but the price tags for President Trump's renovations are far less obvious. The big picture: The muddled mix of funding streams \u2014 whether from private donors, the president himself or taxpayers \u2014 has fueled ethical questions about who's footing the ever-rising bill for the HGTV-reminiscent White House redesign. The latest: Senate Democrats urged the Government Accountability O"
     },
     {
-     "outlet": "nbcnews",
-     "title": "Massachusetts teen accused of killing mother, brother with help from ChatGPT",
-     "url": "https://www.nbcnews.com/news/us-news/teen-accused-killing-mother-brother-help-chatgpt-rcna592308",
-     "author": "David K. Li",
+     "outlet": "npr",
+     "title": "White House press secretary leaving",
+     "url": "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
+     "author": "Deepa Shivaram",
      "kind": "news",
-     "published": "2026-08-13T14:10:35+00:00",
-     "summary": "A suburban Boston teenager murdered his mother and brother after using artificial intelligence to search \u201cfor theoretical ideas or fantasy stories regarding the killing of his family,\u201d authorities said Wednesday."
+     "published": "2026-08-12T20:05:54+00:00",
+     "summary": "Karoline Leavitt will continue to be an outside adviser, Trump said"
     }
    ]
   },
@@ -2517,177 +2855,37 @@
    ]
   },
   {
-   "id": "b7937a0144",
-   "topic": "Other",
-   "summary": "Three men face lethal injection Thursday in Tennessee, Alabama and Oklahoma in a rare same-day execution cluster not seen in the U.S. since 2010.",
-   "headline": "Three men will be executed on the same day as death penalties rise in US",
-   "updated": "2026-08-13T14:43:09+00:00",
+   "id": "d7e96ada4b",
+   "topic": "Politics",
+   "summary": "The judge has said Attorney General Todd Blanche made claims about the Epstein files that \u201cdo not comply\u201d with the court\u2019s order.",
+   "headline": "Court Rejects Ghislaine Maxwell's Constitutional Challenge to Epstein Files Transparency Act",
+   "updated": "2026-08-13T14:38:13+00:00",
    "outletCount": 2,
    "counts": {
     "family": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Three states prepare to execute killers Thursday in same-day event not seen since 2010",
-     "url": "https://www.foxnews.com/us/three-states-prepare-execute-killers-thursday-same-day-event-not-seen-since-2010",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T14:43:09+00:00",
-     "summary": "Three men face lethal injection Thursday in Tennessee, Alabama and Oklahoma in a rare same-day execution cluster not seen in the U.S. since 2010."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Three men will be executed on the same day as death penalties rise in US",
-     "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T13:27:00+00:00",
-     "summary": "Despite growing opposition to the death penalty, one state is behind the rising numbers."
-    }
-   ]
-  },
-  {
-   "id": "113a6726d0",
-   "topic": "World",
-   "summary": "Sirens sounded and streets emptied as Taipei simulated an airstrike response.",
-   "headline": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
-   "updated": "2026-08-13T14:31:37+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
     "nonprofit": 1
    },
-   "newsCount": 2,
-   "opinionCount": 0,
+   "newsCount": 1,
+   "opinionCount": 1,
    "underreported": false,
    "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "Taiwan Disrupts Internet Access During China Airstrike Drill",
-     "url": "https://www.newsweek.com/taiwan-disrupts-internet-access-during-china-airstrike-drill-12317651",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T14:31:37+00:00",
-     "summary": "Sirens sounded and streets emptied as Taipei simulated an airstrike response."
-    },
-    {
-     "outlet": "npr",
-     "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
-     "url": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-13T13:18:43+00:00",
-     "summary": "The drills come amid rising tensions with China, which frequently sends military planes and ships towards Taiwan."
-    }
-   ]
-  },
-  {
-   "id": "2765da4942",
-   "topic": "Politics",
-   "summary": "Kansas City Chiefs star tight end Travis Kelce sent a clear message on playing potentially his final season in the NFL.",
-   "headline": "Chiefs Star Travis Kelce Sends Clear Message on Potentially Final Season",
-   "updated": "2026-08-13T14:31:23+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "Chiefs Star Travis Kelce Sends Clear Message on Potentially Final Season",
-     "url": "https://www.newsweek.com/sports/nfl/chiefs-star-travis-kelce-sends-clear-message-on-potentially-final-season-12318161",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T14:31:23+00:00",
-     "summary": "Kansas City Chiefs star tight end Travis Kelce sent a clear message on playing potentially his final season in the NFL."
-    },
     {
      "outlet": "forbes",
-     "title": "\u2018Lonely\u2019 Former Mets All-Star Sends Clavicular Message After Trump Embrace",
-     "url": "https://www.forbes.com/sites/peterchawaga/2026/08/13/lonely-former-mets-all-star-sends-clavicular-message-after-trump-embrace/",
-     "author": "Peter Chawaga, Contributor",
+     "title": "Will More Epstein Files Come Out? Trump DOJ To Answer For Redactions In Court Today",
+     "url": "https://www.forbes.com/sites/alisondurkee/2026/08/13/will-more-epstein-files-come-out-trump-doj-to-answer-for-redactions-in-court-today/",
+     "author": "Alison Durkee, Forbes Staff",
      "kind": "news",
-     "published": "2026-08-13T12:00:00+00:00",
-     "summary": "The New York Mets\u2019 former star offered a glimpse into his new interests stemming from an overall passion for fitness."
-    }
-   ]
-  },
-  {
-   "id": "e9418245d5",
-   "topic": "Other",
-   "summary": "Travis Barker is opening up about the plane crash that nearly killed him.",
-   "headline": "\u2018Travis Barker: Louder than Fear\u2019 doc reveals survival story\u2014Here\u2019s how to watch",
-   "updated": "2026-08-13T14:30:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "\u2018Travis Barker: Louder than Fear\u2019 doc reveals survival story\u2014Here\u2019s how to watch",
-     "url": "https://pagesix.com/2026/08/13/entertainment/how-to-watch-travis-barker-louder-than-fear-documentary/",
-     "author": "Angela Tricarico",
-     "kind": "news",
-     "published": "2026-08-13T14:30:00+00:00",
-     "summary": "Travis Barker is opening up about the plane crash that nearly killed him."
+     "published": "2026-08-13T14:38:13+00:00",
+     "summary": "The judge has said Attorney General Todd Blanche made claims about the Epstein files that \u201cdo not comply\u201d with the court\u2019s order."
     },
     {
-     "outlet": "abcnews",
-     "title": "WATCH:  Jon Hamm, Brad Pitt and Travis Barker: Here's what's trending",
-     "url": "https://abcnews.com/video/135557116/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-11T21:24:26+00:00",
-     "summary": "ABC's Rocsi Diaz takes a look at what's buzzing in pop culture, including Hamm and wife Anna Osceola expecting their first child, Pitt opening up and Barker revisiting the day that changed his life."
-    }
-   ]
-  },
-  {
-   "id": "3f8dd9fc1e",
-   "topic": "Health",
-   "summary": "Congo's Ebola outbreak has spread to a sixth province, after a death was recorded in the previously unaffected Bas-Uele province, Africa CDC Director-General Jean Kaseya said Thursday.",
-   "headline": "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says",
-   "updated": "2026-08-13T14:27:33+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "pbsnewshour",
-     "title": "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says",
-     "url": "https://www.pbs.org/newshour/world/ebola-outbreak-has-spread-to-new-province-in-congo-the-head-of-africa-cdc-says",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-13T14:27:33+00:00",
-     "summary": "Congo's Ebola outbreak has spread to a sixth province, after a death was recorded in the previously unaffected Bas-Uele province, Africa CDC Director-General Jean Kaseya said Thursday."
-    },
-    {
-     "outlet": "semafor",
-     "title": "Ebola spread undetected for months, WHO says",
-     "url": "https://www.semafor.com/article/08/12/2026/ebola-spread-undetected-for-months-who-says",
-     "author": "Preeti Jha",
-     "kind": "news",
-     "published": "2026-08-12T13:07:47+00:00",
-     "summary": "The revelation raises the likelihood that the latest Ebola outbreak\u2019s true scale is far larger than previously thought."
+     "outlet": "reason",
+     "title": "Court Rejects Ghislaine Maxwell's Constitutional Challenge to Epstein Files Transparency Act",
+     "url": "https://reason.com/volokh/2026/08/12/court-rejects-ghislaine-maxwells-constitutional-challenge-to-epstein-files-transparency-act/",
+     "author": "Eugene Volokh",
+     "kind": "opinion",
+     "published": "2026-08-12T15:01:36+00:00",
+     "summary": "From Judge Loretta Preska (S.D.N.Y.) in yesterday's Giuffre v. Maxwell: On March 18, 2016, the late Judge Sweet issued a&#8230; The post Court Rejects Ghislaine Maxwell&#039;s Constitutional Challenge to Epstein Files Transparency Act appeared first on Reason.com."
     }
    ]
   },
@@ -2792,233 +2990,6 @@
      "kind": "news",
      "published": "2026-08-12T07:50:00+00:00",
      "summary": "The last solar eclipse visible from the European mainland was in 1999. Here's what to expect, and how to prepare for this rare occasion."
-    }
-   ]
-  },
-  {
-   "id": "4a4247339e",
-   "topic": "Business & Economy",
-   "summary": "Prize was eighth largest in Powerball history and followed three months without a top prize winner A Powerball ticket sold at a gas station in western Illinois was the sole winner of the $1bn jackpot, ending a three-month drought without a top-prize victor. The ticket that won the jackpot on\u2026",
-   "headline": "Lottery ticket sold at Illinois gas station wins $1bn Powerball jackpot",
-   "updated": "2026-08-13T13:54:18+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Lottery ticket sold at Illinois gas station wins $1bn Powerball jackpot",
-     "url": "https://www.theguardian.com/us-news/2026/aug/13/lottery-1bn-powerball-jackpot-illinois",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-13T13:54:18+00:00",
-     "summary": "Prize was eighth largest in Powerball history and followed three months without a top prize winner A Powerball ticket sold at a gas station in western Illinois was the sole winner of the $1bn jackpot, ending a three-month drought without a top-prize victor. The ticket that won the jackpot on Wednesday night was purchased at a Hy-Vee station in Quincy, about 100 miles (160km) west of the state capital of Springfield along the Missouri border, Illinois Lottery officials said. The winning numbers w"
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Powerball player in Illinois wins $1 billion jackpot",
-     "url": "https://abcnews.com/US/powerball-player-illinois-wins-1-billion-jackpot/story?id=135600933",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T12:30:13+00:00",
-     "summary": "It's the largest Powerball jackpot so far this year."
-    }
-   ]
-  },
-  {
-   "id": "5de3a9ca4d",
-   "topic": "Politics",
-   "summary": "Two of the biggest Hollywood unions, the Director's Guild and IATSE, urged Rob Bonta to settle his lawsuit against Paramount. The post Two Major Hollywood Unions Call on California Democrat AG Rob Bonta to Settle Paramount Lawsuit appeared first on Breitbart .",
-   "headline": "Rob Bonta's Paramount Crusade Could Make California's Hollywood Exodus Even Worse",
-   "updated": "2026-08-13T13:48:12+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Two Major Hollywood Unions Call on California Democrat AG Rob Bonta to Settle Paramount Lawsuit",
-     "url": "https://www.breitbart.com/entertainment/2026/08/13/directors-guild-iatse-urge-california-ag-rob-bonta-to-settle-paramount-lawsuit/",
-     "author": "Paul Bois",
-     "kind": "news",
-     "published": "2026-08-13T13:48:12+00:00",
-     "summary": "Two of the biggest Hollywood unions, the Director's Guild and IATSE, urged Rob Bonta to settle his lawsuit against Paramount. The post Two Major Hollywood Unions Call on California Democrat AG Rob Bonta to Settle Paramount Lawsuit appeared first on Breitbart ."
-    },
-    {
-     "outlet": "reason",
-     "title": "Rob Bonta's Paramount Crusade Could Make California's Hollywood Exodus Even Worse",
-     "url": "https://reason.com/2026/08/12/rob-bontas-paramount-crusade-could-make-californias-hollywood-exodus-even-worse/",
-     "author": "Tosin Akintola",
-     "kind": "opinion",
-     "published": "2026-08-12T16:00:27+00:00",
-     "summary": "Paramount Pictures studio entrance"
-    }
-   ]
-  },
-  {
-   "id": "9af0d132c8",
-   "topic": "Other",
-   "summary": "As people become accustomed to getting prescriptions online, sites are flourishing without much medical oversight.",
-   "headline": "The Rise of Telehealth 'Pill Mills'",
-   "updated": "2026-08-13T13:44:27+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "coop": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "time",
-     "title": "The Rise of Telehealth 'Pill Mills'",
-     "url": "https://time.com/article/2026/08/13/the-rise-of-telehealth-pill-mills/",
-     "author": "Alana Semuels",
-     "kind": "news",
-     "published": "2026-08-13T13:44:27+00:00",
-     "summary": "As people become accustomed to getting prescriptions online, sites are flourishing without much medical oversight."
-    },
-    {
-     "outlet": "flaminghydra",
-     "title": "Rise of the Memelords",
-     "url": "https://flaminghydra.com/rise-of-the-memelords/",
-     "author": "Felipe De La Hoz",
-     "kind": "news",
-     "published": "2026-08-12T23:04:09+00:00",
-     "summary": "In the spring of 2021, I wrote a piece in the Washington Post titled &#x201c;El Salvador&#x2019;s leader is updating the autocrat playbook for the TikTok generation.&#x201d; It was about Salvadoran President Nayib Bukele, at that time a developing object of admiration for the growing global reactionary"
-    }
-   ]
-  },
-  {
-   "id": "60c855ad6c",
-   "topic": "Business & Economy",
-   "summary": "US wholesale inflation decelerated in July by more than estimated as energy and food costs fell, likely giving the Federal Reserve more time to assess price pressures at upcoming meetings. Initial jobless claims rose by 9,000 in the week ending August 9. Bloomberg's Michael McKee reports. (Source:\u2026",
-   "headline": "US PPI Cools More Than Expected, Easing Pressure on Fed",
-   "updated": "2026-08-13T13:43:18+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bloomberg",
-     "title": "US PPI Cools More Than Expected, Easing Pressure on Fed",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-13/us-ppi-cools-more-than-expected-easing-pressure-on-fed-video",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T13:43:18+00:00",
-     "summary": "US wholesale inflation decelerated in July by more than estimated as energy and food costs fell, likely giving the Federal Reserve more time to assess price pressures at upcoming meetings. Initial jobless claims rose by 9,000 in the week ending August 9. Bloomberg's Michael McKee reports. (Source: Bloomberg)"
-    },
-    {
-     "outlet": "semafor",
-     "title": "US inflation rises 0.1% in July, easing pressure on Fed",
-     "url": "https://www.semafor.com/article/08/12/2026/mild-us-inflation-eases-fed-pressure",
-     "author": "Jake Angelo",
-     "kind": "news",
-     "published": "2026-08-12T22:38:37+00:00",
-     "summary": "The inflation data, along with a weak July jobs report, bolster the argument for a hold on rates."
-    }
-   ]
-  },
-  {
-   "id": "98d0df9861",
-   "topic": "Politics",
-   "summary": "Wisconsin\u2019s gubernatorial primary is raising new questions over polling, turnout and how Milwaukee County Executive David Crowley managed to pull off the win over democratic socialist Francesca Hong. Meanwhile in Minnesota, Republicans avoided nominating businessman Mike Lindell despite President\u2026",
-   "headline": "Wisconsin governor's race: How Crowley pulled off the upset over Hong",
-   "updated": "2026-08-13T13:36:11+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 3
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "Wisconsin governor's race: How Crowley pulled off the upset over Hong",
-     "url": "https://thehill.com/homenews/campaign/data-nerds/6026856-david-crowley-francesca-hong-wisconsin-upset-polling-turnout-midterms-discussion/",
-     "author": "The Hill Staff",
-     "kind": "news",
-     "published": "2026-08-13T13:36:11+00:00",
-     "summary": "Wisconsin\u2019s gubernatorial primary is raising new questions over polling, turnout and how Milwaukee County Executive David Crowley managed to pull off the win over democratic socialist Francesca Hong. Meanwhile in Minnesota, Republicans avoided nominating businessman Mike Lindell despite President Trump\u2019s endorsement in the GOP gubernatorial primary, and Democrats had a key Senate primary. Plus, South..."
-    },
-    {
-     "outlet": "wapo",
-     "title": "How mainstream Democrats pulled off a big upset against a democratic socialist",
-     "url": "https://www.washingtonpost.com/politics/2026/08/12/how-david-crowley-upset-francesca-hong-wisconsins-primary-governor/",
-     "author": "Patrick Marley, Teo Armus, Clara Ence Morse",
-     "kind": "news",
-     "published": "2026-08-13T13:32:58+00:00",
-     "summary": "Supporters and detractors agreed that voters appeared to be increasingly worried over whether Hong could beat GOP nominee Tom Tiffany."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Wisconsin surprise raises big questions about polls and Democratic voters",
-     "url": "https://www.washingtonpost.com/politics/2026/08/12/wisconsin-surprise-raises-big-questions-about-polls-democratic-voters/",
-     "author": "Scott Clement",
-     "kind": "news",
-     "published": "2026-08-12T19:13:24+00:00",
-     "summary": "Surveys had shown Francesca Hong with a significant lead in the Democratic primary for governor. Then she lost. What did the polls get wrong?"
-    },
-    {
-     "outlet": "wapo",
-     "title": "With Crowley atop their ticket, Wisconsin Democrats hope for a 2026 sweep",
-     "url": "https://www.washingtonpost.com/politics/2026/08/12/wisconsin-democrats-hope-2026-sweep-with-david-crowley-atop-ticket/",
-     "author": "Karen Tumulty",
-     "kind": "news",
-     "published": "2026-08-12T15:30:28+00:00",
-     "summary": "The party establishment is breathing a sigh of relief that democratic socialist Francesca Hong, who led the pre-election polls by double-digits, will not be topping their ticket."
-    }
-   ]
-  },
-  {
-   "id": "b133d7cd80",
-   "topic": "Business & Economy",
-   "summary": "Wholesale inflation dropped last month as gas prices reversed some of their Iran war spike and other costs also cooled, a sign that consumer inflation could grind lower in the months ahead.",
-   "headline": "Wholesale price inflation slows last month as gas and food costs fall",
-   "updated": "2026-08-13T13:15:54+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "pbsnewshour",
-     "title": "Wholesale price inflation slows last month as gas and food costs fall",
-     "url": "https://www.pbs.org/newshour/economy/wholesale-price-inflation-slows-last-month-as-gas-and-food-costs-fall",
-     "author": "Christopher Rugaber, Associated Press",
-     "kind": "news",
-     "published": "2026-08-13T13:15:54+00:00",
-     "summary": "Wholesale inflation dropped last month as gas prices reversed some of their Iran war spike and other costs also cooled, a sign that consumer inflation could grind lower in the months ahead."
-    },
-    {
-     "outlet": "bbc",
-     "title": "US inflation eases as food and fuel costs cool",
-     "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T17:03:05+00:00",
-     "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher."
     }
    ]
   }
