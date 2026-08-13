@@ -205,6 +205,45 @@ def cluster(articles):
     return clusters
 
 
+EMPH_STOP = STOPWORDS | set("""
+says said say new report reports amid after before over under first last two three
+plans plan could would may might set gets get make makes take takes back down up
+year years day days week month according calls call top new news live updates update
+""".split())
+
+
+def emphasis(arts, outlets):
+    """Which words show up in one ownership group's headlines and not the other's.
+
+    Pure word counting on headlines — not a judgement about intent. Only computed
+    when both groups have at least two articles, since one headline is noise.
+    """
+    big, indie = [], []
+    for a in arts:
+        t = outlets[a["outlet"]]["type"]
+        (big if t in ("corp", "family") else indie).append(a["title"])
+    if len(big) < 2 or len(indie) < 2:
+        return None
+
+    def terms(titles):
+        c = {}
+        for t in titles:
+            for w in set(re.findall(r"[a-z][a-z'-]{3,}", t.lower())):
+                if w not in EMPH_STOP:
+                    c[w] = c.get(w, 0) + 1
+        return c
+
+    cb, ci = terms(big), terms(indie)
+    only_big = sorted([w for w, n in cb.items() if n >= 2 and w not in ci],
+                      key=lambda w: -cb[w])[:6]
+    only_indie = sorted([w for w, n in ci.items() if n >= 2 and w not in cb],
+                        key=lambda w: -ci[w])[:6]
+    if not only_big and not only_indie:
+        return None
+    return {"bigCount": len(big), "indieCount": len(indie),
+            "big": only_big, "indie": only_indie}
+
+
 def shape(clusters, outlets):
     stories = []
     for c in clusters:
@@ -219,15 +258,21 @@ def shape(clusters, outlets):
         lead = next((a for a in arts if outlets[a["outlet"]]["type"] in ("nonprofit", "pub")), arts[0])
         sid = hashlib.md5((lead["title"] + lead["url"]).encode()).hexdigest()[:10]
         topic_src = " ".join(a["title"] for a in arts)
-        summary = next((a.get("summary") for a in arts if a.get("summary")
-                        and len(a["summary"]) > 60), None)
-        if summary and len(summary) > 300:
-            cut = summary[:300].rsplit(" ", 1)[0]
-            summary = cut + "…"
+        src = next((a for a in arts if a.get("summary")
+                    and len(a["summary"]) > 60), None)
+        summary = src["summary"] if src else None
+        summary_from = src["outlet"] if src else None
+        if summary and len(summary) > 420:
+            summary = summary[:420].rsplit(" ", 1)[0] + "…"
+        absent = [k for k in ("corp", "family", "coop", "nonprofit", "pub")
+                  if not counts.get(k)]
         stories.append({
             "id": sid,
             "topic": classify_topic(topic_src),
             "summary": summary,
+            "summaryFrom": summary_from,
+            "emphasis": emphasis(arts, outlets),
+            "absent": absent,
             "headline": lead["title"],
             "updated": arts[0]["published"],
             "outletCount": len({a["outlet"] for a in arts}),
