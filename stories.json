@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-13T22:05:51.534970+00:00",
+ "generated": "2026-08-13T22:17:31.561797+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -14,11 +14,11 @@
     "indieCount": 7,
     "big": [
      "thursday",
+     "inscribe",
      "person",
      "john",
      "restored",
-     "renovated",
-     "inscribe"
+     "renovated"
     ],
     "indie": [
      "shut",
@@ -30,18 +30,36 @@
     "coop"
    ],
    "headline": "Trump-led board reportedly votes again to close Kennedy Center for renovations \u2013 live",
-   "updated": "2026-08-13T22:02:14+00:00",
+   "updated": "2026-08-13T22:09:24+00:00",
    "outletCount": 20,
    "counts": {
+    "nonprofit": 5,
     "family": 7,
     "corp": 7,
-    "nonprofit": 5,
     "pub": 2
    },
    "newsCount": 21,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Trump-led board reportedly votes again to close Kennedy Center for renovations \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/aug/13/karoline-leavitt-white-house-primaries-trump-politics-latest-updates",
+     "author": "Robert Mackey (now); Shrai Popat, Lucy Campbell and Mabel Banfield-Nwachi (earlier)",
+     "kind": "news",
+     "published": "2026-08-13T22:09:24+00:00",
+     "summary": "In May, a judge issued a temporary block on Trump\u2019s demand to close the arts institution for renovations after the board \u2013 mostly handpicked by the president \u2013 voted unanimously in favor Sign up for the Breaking News US email Donald Trump\u2019s executive order on vaccines does not change the US recommendations for the shots \u2013 but experts say it does create confusion and doubt about vaccines, which will lead to more illness and possibly deaths among children and will make it harder for families and pediatricians to protect them. The executive order was an attempt to reinstate sweeping changes to the vaccine schedule made earlier this year by Robert F Kennedy Jr, secretary of the US Department of Health and Human Services and a longtime vaccine opponent \u2013 changes that were later halted by a federal judge. Continue reading..."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Kennedy Center Board Decides to Inscribe Trump\u2019s Name on Building",
+     "url": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html",
+     "author": "Julia Jacobs",
+     "kind": "news",
+     "published": "2026-08-13T22:06:07+00:00",
+     "summary": "A federal judge ruled in May that the Kennedy Center had an \u201cobligation to both maintain and operate a premiere arts venue\u201d and a \u201csolemn duty to memorialize a fallen president.\u201d"
+    },
     {
      "outlet": "time",
      "title": "Kennedy Center Board Votes to Put Trump's Name Back on the Building, Testing Judge's Order",
@@ -50,15 +68,6 @@
      "kind": "news",
      "published": "2026-08-13T22:02:14+00:00",
      "summary": "A person walks past scaffolding and a large protective tarp covering the facade of the John F. Kennedy Center for the Performing Arts, guarded by two security guards, in Washington, D.C., on August 13, 2026. \u2014Brendan Smialowski\u2014AFP/Getty Images The Kennedy Center board on Thursday voted to put President Donald Trump\u2019s name back on the building\u2019s facade, setting the stage to test a judge\u2019s order from May that mandated its removal. The board, made up of mostly Trump loyalists , voted 20-3 to change the name of the building to \u201cThe John F. Kennedy Center for the Performing Arts Restored and Renovated by President Donald J. Trump\u201d while naming the center\u2019s grounds \u201cPresident Donald J. Trump Plaza,\u201d according to attendees of Thursday\u2019s meeting who spoke to multiple media outlets. The board also once again voted to close the performing arts center for up to two years for renovations. Operations are set to shift to the REACH, another building on the campus, while they are completed. \u201cThis morning\u2019s decision to close the Center and the surprise agenda item to put Donald Trump\u2019s name back on the building was more of the same,\u201d Democratic Rep. Joyce Beatty of Ohio, an ex-officio board member"
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Kennedy Center board votes to restore Trump's name on building",
-     "url": "https://www.cbsnews.com/news/kennedy-center-board-votes-trump-name-joyce-beatty/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T22:00:48+00:00",
-     "summary": "The Kennedy Center's board of trustees voted to add President Trump's name to the facade of the performing arts center, more than two months after a judge ordered its removal, according to a Democrat who sits on the center's board."
     },
     {
      "outlet": "newsweek",
@@ -79,13 +88,13 @@
      "summary": "In a twist, the board's latest plan calls for additional wording: \"Restored and Renovated by President Donald J. Trump.\u201d"
     },
     {
-     "outlet": "guardian",
-     "title": "Trump-led board reportedly votes again to close Kennedy Center for renovations \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/aug/13/karoline-leavitt-white-house-primaries-trump-politics-latest-updates",
-     "author": "Robert Mackey (now); Shrai Popat, Lucy Campbell and Mabel Banfield-Nwachi (earlier)",
+     "outlet": "cbsnews",
+     "title": "Kennedy Center board votes to restore Trump's name on building",
+     "url": "https://www.cbsnews.com/news/kennedy-center-board-votes-trump-name-joyce-beatty/",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-13T21:47:17+00:00",
-     "summary": "In May, a judge issued a temporary block on Trump\u2019s demand to close the arts institution for renovations after the board \u2013 mostly handpicked by the president \u2013 voted unanimously in favor Sign up for the Breaking News US email Donald Trump\u2019s executive order on vaccines does not change the US recommendations for the shots \u2013 but experts say it does create confusion and doubt about vaccines, which will lead to more illness and possibly deaths among children and will make it harder for families and pediatricians to protect them. The executive order was an attempt to reinstate sweeping changes to the vaccine schedule made earlier this year by Robert F Kennedy Jr, secretary of the US Department of Health and Human Services and a longtime vaccine opponent \u2013 changes that were later halted by a federal judge. Continue reading..."
+     "published": "2026-08-13T22:00:00+00:00",
+     "summary": "The Kennedy Center's board of trustees voted to add President Trump's name to the facade of the performing arts center, more than two months after a judge ordered its removal, according to a Democrat who sits on the center's board."
     },
     {
      "outlet": "abcnews",
@@ -131,15 +140,6 @@
      "kind": "news",
      "published": "2026-08-13T20:33:00+00:00",
      "summary": "The move appears designed to circumvent a judge's ruling that the US president's name should be removed, potentially setting the stage for a new legal fight over the Kennedy Center's name and future."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Kennedy Center Board Decides to Inscribe Trump\u2019s Name on Building",
-     "url": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html",
-     "author": "Julia Jacobs",
-     "kind": "news",
-     "published": "2026-08-13T20:20:38+00:00",
-     "summary": "A federal judge ruled in May that the Kennedy Center had an \u201cobligation to both maintain and operate a premiere arts venue\u201d and a \u201csolemn duty to memorialize a fallen president.\u201d"
     },
     {
      "outlet": "thehill",
@@ -236,11 +236,11 @@
   {
    "id": "467bd47da8",
    "topic": "Health",
-   "summary": "Defense secretary said conditions on aircraft carrier deployed in support of Iran war have been \u2018completely misrepresented\u2019 The US defense secretary, Pete Hegseth, insisted a wave of reports describing deteriorating conditions and mental health struggles onboard the aircraft carrier USS Abraham Lincoln \u201ccompletely misrepresented\u201d the situation, pushing back against growing congressional pressure over the ship\u2019s record-breaking, nearly nine-month deployment. \u201cWe make sure every ship, every crew, every captain has everything we can provide them at every single moment,\u201d Hegseth told reporters during a visit to Panama, adding that \u201csome deployments are longer than others\u201d and praising sailors enduring \u201chigh seas\u201d and \u201caustere conditions with less port calls\u201d. Continue reading...",
-   "summaryFrom": "guardian",
+   "summary": "An F/A-18F Super Hornet launches from the flight deck of aircraft carrier USS Abraham Lincoln in support of Operation Epic Fury on February 28, 2026 at Sea. Photo by U.S. Navy via Getty Images. Thursday, August 13, 2026 &#8211; &nbsp; Iranian Foreign Minister Abbas Araghchi warns of &#8220;even bigger miscalculation&#8221; on Hormuz after U.S. President Donald Trump claims U.S. has &#8220;total control.&#8221; Washington Post: U.S. intelligence viewed Israeli warning of Iranian plot to kill Trump as &#8220;low confidence.&#8221; Slight bump in Hormuz traffic. Iran reports oil pollution off Qeshm Island, calls for Hormuz environmental fees. Iran kills two accused of intelligence ties to U.S. and Israel. Yemen&#8217;s Saudi-backed government claims success against Ansarallah attack. Saudi tankers reroute around Africa as empty fleet heads toward Gulf. X suspends Ansarallah spokesperson\u2026",
+   "summaryFrom": "dropsite",
    "emphasis": {
-    "bigCount": 6,
-    "indieCount": 4,
+    "bigCount": 7,
+    "indieCount": 6,
     "big": [
      "answers",
      "democrats",
@@ -251,26 +251,25 @@
     ],
     "indie": [
      "hegseth",
-     "defense",
-     "misrepresented",
-     "pete",
      "secretary",
-     "completely"
+     "pete",
+     "completely",
+     "defense",
+     "misrepresented"
     ]
    },
-   "absent": [
-    "coop"
-   ],
+   "absent": [],
    "headline": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
    "updated": "2026-08-13T22:02:54+00:00",
-   "outletCount": 10,
+   "outletCount": 12,
    "counts": {
     "pub": 3,
     "corp": 5,
-    "nonprofit": 1,
-    "family": 1
+    "nonprofit": 2,
+    "family": 2,
+    "coop": 1
    },
-   "newsCount": 10,
+   "newsCount": 13,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -317,7 +316,7 @@
      "author": null,
      "kind": "news",
      "published": "2026-08-13T19:02:00+00:00",
-     "summary": "Defense Secretary Pete Hegseth called reports of poor conditions and mental health strain aboard the USS Abraham Linclon aircrafter carrier in the Middle East \"completely misrepresented.\" Senators want an investigation."
+     "summary": "Defense Secretary Pete Hegseth called reports of poor conditions and mental health strain aboard the USS Abraham Lincoln aircraft carrier in the Middle East \"completely misrepresented.\" Senators want an investigation."
     },
     {
      "outlet": "bloomberg",
@@ -363,6 +362,33 @@
      "kind": "news",
      "published": "2026-08-13T16:41:28+00:00",
      "summary": "Democrats are demanding answers about what\u2019s going on with the USS Abraham Lincoln"
+    },
+    {
+     "outlet": "dropsite",
+     "title": "USS Abraham Lincoln sailors try to jump overboard after 250 days at sea; Third person dies after Newark ICE facility detention; Israel sets wildfires in Lebanon",
+     "url": "https://www.dropsitenews.com/p/uss-abraham-lincoln-overboard-newark-ice-detention-israel-lebanon-wildfires",
+     "author": "Drop Site News",
+     "kind": "news",
+     "published": "2026-08-13T15:19:39+00:00",
+     "summary": "An F/A-18F Super Hornet launches from the flight deck of aircraft carrier USS Abraham Lincoln in support of Operation Epic Fury on February 28, 2026 at Sea. Photo by U.S. Navy via Getty Images. Thursday, August 13, 2026 &#8211; &nbsp; Iranian Foreign Minister Abbas Araghchi warns of &#8220;even bigger miscalculation&#8221; on Hormuz after U.S. President Donald Trump claims U.S. has &#8220;total control.&#8221; Washington Post: U.S. intelligence viewed Israeli warning of Iranian plot to kill Trump as &#8220;low confidence.&#8221; Slight bump in Hormuz traffic. Iran reports oil pollution off Qeshm Island, calls for Hormuz environmental fees. Iran kills two accused of intelligence ties to U.S. and Israel. Yemen&#8217;s Saudi-backed government claims success against Ansarallah attack. Saudi tankers reroute around Africa as empty fleet heads toward Gulf. X suspends Ansarallah spokesperson account. Israel kills Palestinian child in Gaza City strike. Israeli strikes kill two, including Gaza police chief. Israel detains Palestinians, destroys homes, and re-establishes settlement in occupied West Bank. Hamas says it will participate in Palestinian elections in November. Israeli forces blow "
+    },
+    {
+     "outlet": "latimes",
+     "title": "Perez Hilton's mother seeks temporary custody of his children amid mental health crisis",
+     "url": "https://www.latimes.com/entertainment-arts/story/2026-08-12/perez-hilton-mom-temporary-custody-kids-mental-health-crisis",
+     "author": "Alexandra Del Rosario",
+     "kind": "news",
+     "published": "2026-08-12T18:33:49+00:00",
+     "summary": "Perez Hilton's mom has taken legal action to ensure the care of his three children after his public mental health crisis unfolded on social media earlier this month."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israel deliberately starting wildfires in southern Lebanon, firefighters say",
+     "url": "https://www.theguardian.com/world/2026/aug/12/israel-deliberately-starting-wildfires-in-southern-lebanon-firefighters-say",
+     "author": "William Christou in Beirut",
+     "kind": "news",
+     "published": "2026-08-12T16:17:55+00:00",
+     "summary": "Emergency services, residents and environmental groups say military dropping flares to destroy forests and crops Firefighters and residents of south Lebanon have accused the Israeli military of lighting wildfires in the region, as forested areas burned down in blazes sparked by Israeli bombing. Environmental groups said the fires in recent weeks were part of a longstanding Israeli practice of targeting Lebanon\u2019s natural environment. Continue reading..."
     }
    ]
   },
@@ -376,7 +402,6 @@
     "indieCount": 3,
     "big": [
      "sources",
-     "legal",
      "unclear",
      "year-old",
      "connection"
@@ -387,7 +412,7 @@
     "coop"
    ],
    "headline": "AP report: Luigi Mangione expected to plead guilty in federal case over CEO killing",
-   "updated": "2026-08-13T21:41:40+00:00",
+   "updated": "2026-08-13T22:12:24+00:00",
    "outletCount": 9,
    "counts": {
     "corp": 3,
@@ -401,12 +426,12 @@
    "articles": [
     {
      "outlet": "cbsnews",
-     "title": "Luigi Mangione discussing possible plea deal in federal case, sources say",
-     "url": "https://www.cbsnews.com/video/luigi-mangione-expected-to-discuss-federal-plea-deal-in-court/",
+     "title": "Luigi Mangione in discussions about possible guilty plea, sources say",
+     "url": "https://www.cbsnews.com/news/luigi-mangione-possible-federal-plea-deal/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-13T21:41:40+00:00",
-     "summary": "Luigi Mangione, the man accused of murdering United Healthcare CEO Brian Thompson, is in discussions about a possible plea deal in his federal case, sources say. CBS News' legal contributor Jessica Levinson has more."
+     "published": "2026-08-13T22:12:24+00:00",
+     "summary": "Luigi Mangione, accused in the 2024 killing of UnitedHealthcare CEO Brian Thompson, is in discussions about a possible plea deal on federal charges, sources familiar with the matter told CBS News."
     },
     {
      "outlet": "nyt",
@@ -491,15 +516,15 @@
     "bigCount": 6,
     "indieCount": 4,
     "big": [
-     "homeland",
-     "shocks",
      "security",
+     "shocks",
+     "homeland",
      "agent"
     ],
     "indie": [
-     "press",
      "ice's",
-     "associated"
+     "associated",
+     "press"
     ]
    },
    "absent": [],
@@ -623,7 +648,7 @@
      "stepping",
      "leave",
      "family",
-     "truth"
+     "wednesday"
     ],
     "indie": [
      "several"
@@ -736,14 +761,15 @@
    "emphasis": {
     "bigCount": 3,
     "indieCount": 4,
-    "big": [],
+    "big": [
+     "case"
+    ],
     "indie": [
-     "richard",
-     "violation",
-     "stearns",
      "ongoing",
-     "rights",
-     "gaza"
+     "gaza",
+     "court",
+     "college",
+     "president"
     ]
    },
    "absent": [
@@ -758,8 +784,8 @@
     "pub": 1,
     "corp": 1
    },
-   "newsCount": 6,
-   "opinionCount": 1,
+   "newsCount": 5,
+   "opinionCount": 2,
    "underreported": false,
    "articles": [
     {
@@ -799,15 +825,6 @@
      "summary": "The decision from U.S. District Judge Richard G. Stearns said President Donald Trump's administration failed to prove an ongoing violation of federal civil rights laws."
     },
     {
-     "outlet": "forbes",
-     "title": "Harvard Scores Major Win As Judge Tosses Trump Administration\u2019s Antisemitism Lawsuit",
-     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/13/harvard-scores-major-win-as-judge-tosses-trump-administrations-antisemitism-lawsuit/",
-     "author": "Antonio Peque\u00f1o IV, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-13T17:22:02+00:00",
-     "summary": "The lawsuit was the basis for the Trump administration\u2019s demands for Harvard to make financial and policy changes over pro-Palestinian protests in 2023 and 2024."
-    },
-    {
      "outlet": "nbcnews",
      "title": "Judge dismisses Trump admin lawsuit alleging Harvard failed to protect Jewish students",
      "url": "https://www.nbcnews.com/politics/trump-administration/judge-dismisses-trump-lawsuit-harvard-antisemitism-rcna592379",
@@ -824,6 +841,15 @@
      "kind": "opinion",
      "published": "2026-08-13T16:43:49+00:00",
      "summary": "From Judge Richard Stearns (D. Mass.) today in U.S. v. President &amp; Fellows of Harvard College : [T]he Government has not sufficiently pled an ongoing violation of Title VI. The Amended Complaint [filed March 20, 2026] focuses almost entirely on incidents that took place during the 2023-2024 school year. {Because the factual allegations pertaining to the 2023-2024 school year have been well fleshed out in prior cases, see, e.g. , Kestenbaum v. President &amp; Fellows of Harvard Coll. (D. Mass. 2024); President &amp; Fellows of Harvard Coll. v. United States Dep't of Health &amp; Hum. Servs. (D. Mass. 2025), the court does not further rehearse them here.} Only three incidents are alleged to have occurred after this period, all of which took place nearly a full year later (and more than one full academic year before this case was filed) in March of 2025. Without diminishing any concern arising from these occurrences, the court finds them, singly and collectively, to be too isolated and episodic to support a plausible inference that any institutionalized noncompliance with Title VI persists at Harvard to this day. The Government, perhaps in a sense of the foreboding, repositions it"
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Judge Throws Out Trump\u2019s Harvard Antisemitism Case",
+     "url": "https://www.dailywire.com/news/judge-throws-out-trumps-harvard-antisemitism-case",
+     "author": "Drew Berkemeyer",
+     "kind": "opinion",
+     "published": "2026-08-13T15:47:28+00:00",
+     "summary": "A federal judge dismissed the Trump administration\u2019s lawsuit accusing Harvard of failing to protect Jewish and Israeli students from harassment, ruling Thursday that the government failed to show that the university remains in violation of federal civil rights law. U.S. District Judge Richard Stearns granted Harvard\u2019s motion to dismiss the case, finding that the government&#8217;s amended complaint did not sufficiently allege that Harvard is currently violating Title VI of the Civil Rights Act of 1964. The lawsuit, filed by the Justice Department in March, accused Harvard of turning \u201ca blind eye to antisemitism and discrimination against Jews and Israelis\u201d following the wave of pro-Palestinian demonstrations that erupted after Hamas\u2019 October 7, 2023, attack on Israel. But Stearns found that the government\u2019s case relied overwhelmingly on incidents from the 2023-24 academic year. Only three incidents cited in the amended complaint occurred afterward, all in March 2025. \u201cWithout diminishing any concern arising from these occurrences,\u201d Stearns wrote, the incidents were \u201ctoo isolated and episodic\u201d to support a finding that \u201cany institutionalized noncompliance with Title VI persists at H"
     }
    ]
   },
@@ -1082,12 +1108,12 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
+     "diagnosed",
      "abortion",
      "weeks",
-     "diagnosed",
-     "syndrome",
+     "hypoplastic",
      "left",
-     "hypoplastic"
+     "defect"
     ],
     "indie": []
    },
@@ -1412,8 +1438,8 @@
     "bigCount": 2,
     "indieCount": 3,
     "big": [
-     "funding",
      "donald",
+     "funding",
      "president"
     ],
     "indie": [
@@ -1672,66 +1698,6 @@
    ]
   },
   {
-   "id": "a6580aec0e",
-   "topic": "Health",
-   "summary": "President Donald Trump on Monday signed an executive order calling for revamped childhood vaccine recommendations that promote his long-held belief that childhood shots should be spaced out into separate medical visits. President Donald Trump has again taken aim at vaccines \u2014this time in a new executive order . The directive, which Trump signed in the Oval Office on Aug. 10, calls for U.S. children to receive fewer vaccines and urges states to reconsider which vaccines they require for school attendance. It also directs the U.S. Department of Justice (DOJ) to sue states that fail to provide religious and medical exemptions for mandated vaccines and orders the measles, mumps and rubella (MMR) shot \u2014a combination vaccine that has been in use for more than 50 years\u2014to be split into three separate jabs. \u201cToday we\u2019re proud to officially announce the United States of America\u2019s gold-standard\u2026",
-   "summaryFrom": "time",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Executive order on vaccines bypasses an evidence-based process that has kept kids safe",
-   "updated": "2026-08-13T13:12:35+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 2,
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "economist",
-     "title": "Donald Trump takes a fresh swipe at childhood vaccines",
-     "url": "https://www.economist.com/united-states/2026/08/13/donald-trump-takes-a-fresh-swipe-at-childhood-vaccines",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T13:12:35+00:00",
-     "summary": "A new order only adds to confusion for parents"
-    },
-    {
-     "outlet": "slate",
-     "title": "Trump Cares About Vaccines. Uh-Oh.",
-     "url": "https://slate.com/podcasts/what-next/2026/08/why-trumps-vaccine-executive-order-is-bad-for-everyone?via=rss",
-     "author": "Mary Harris",
-     "kind": "news",
-     "published": "2026-08-13T09:20:00+00:00",
-     "summary": "\u201cGive America Measles Again!\u201d"
-    },
-    {
-     "outlet": "time",
-     "title": "What Trump\u2019s Executive Order Could Mean for Childhood Vaccines",
-     "url": "https://time.com/article/2026/08/12/what-trump-executive-order-could-mean-for-childhood-vaccines/",
-     "author": "Dominique Mosbergen",
-     "kind": "news",
-     "published": "2026-08-12T17:13:13+00:00",
-     "summary": "President Donald Trump on Monday signed an executive order calling for revamped childhood vaccine recommendations that promote his long-held belief that childhood shots should be spaced out into separate medical visits. President Donald Trump has again taken aim at vaccines \u2014this time in a new executive order . The directive, which Trump signed in the Oval Office on Aug. 10, calls for U.S. children to receive fewer vaccines and urges states to reconsider which vaccines they require for school attendance. It also directs the U.S. Department of Justice (DOJ) to sue states that fail to provide religious and medical exemptions for mandated vaccines and orders the measles, mumps and rubella (MMR) shot \u2014a combination vaccine that has been in use for more than 50 years\u2014to be split into three separate jabs. \u201cToday we\u2019re proud to officially announce the United States of America\u2019s gold-standard childhood vaccination recommendations,\u201d Trump said during the signing ceremony. Doctors and vaccine scientists have expressed dismay at the order, which they say is not backed by gold-standard science. \"As measles cases reach a 35-year high in the U.S. and with cold and flu season quickly approaching,"
-    },
-    {
-     "outlet": "theconversation",
-     "title": "Executive order on vaccines bypasses an evidence-based process that has kept kids safe",
-     "url": "https://theconversation.com/executive-order-on-vaccines-bypasses-an-evidence-based-process-that-has-kept-kids-safe-289469",
-     "author": "Jake Scott, Clinical Associate Professor of Infectious Diseases, Stanford University",
-     "kind": "news",
-     "published": "2026-08-12T12:38:24+00:00",
-     "summary": "President Donald Trump's executive order, signed on Aug. 10, 2026, supports Health and Human Services Secretary Robert F. Kennedy's vaccine agenda. AP Photo/Jacquelyn Martin President Donald Trump signed an executive order on Aug. 10, 2026, calling for the combined measles, mumps and rubella vaccine to be given as three separate shots at three separate appointments. The combined MMR vaccine is currently given at 12 to 15 months of age and again between ages 4 and 6. In the order, Trump also urges states to revisit their school vaccination laws and instructs the Justice Department to challenge state rules on religious and medical exemptions. It is the latest move in the administration\u2019s effort to dismantle the U.S. childhood immunization schedule , a set of recommended vaccines given from birth through adolescence to prevent a range of serious infections that has been in place in some form since 1995. The order endorses the January 2026 decision by the Department of Health and Human Services that cut universally recommended childhood vaccines from 17 diseases to 11 \u2013 despite the fact that those changes were blocked by a federal court in March 2026 . An executive order cannot by itse"
-    }
-   ]
-  },
-  {
    "id": "ce59057653",
    "topic": "World",
    "summary": "The USS Abraham Lincoln deployed in the Arabian Sea on April 16, 2026. | US Navy via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: The cracks are starting to show in President Donald Trump\u2019s Iran campaign. What\u2019s happening? Conditions on a US warship deployed in the Middle East have grown so dire, multiple sailors have reportedly tried to go overboard (at least one did so but was rescued safely, according to CNN ).&nbsp; The attempts to jump overboard comes as family members of sailors are raising concerns with Democratic lawmakers about deteriorating mental health on the ship amid sanitation issues and shortages of food and basic supplies .&nbsp; The USS Abraham Lincoln aircraft carrier has been\u2026",
@@ -1890,57 +1856,6 @@
      "kind": "news",
      "published": "2026-08-13T19:52:04+00:00",
      "summary": "The 5th U.S. Circuit Court of Appeals ruled Thursday that a case challenging the Trump administration on its use of the Alien Enemies Act to deport immigrants is now moot, with the plaintiffs having been deported using another law. Defense Secretary Pete Hegseth on Thursday claimed that conditions aboard the USS Abraham Lincoln aircraft carrier have been..."
-    }
-   ]
-  },
-  {
-   "id": "10d47e9a82",
-   "topic": "Politics",
-   "summary": "Rep. Nicole Malliotakis, R-N.Y., slammed Biden administration-funded heroin injection sites in New York City in an interview with Fox News Digital. At the heart of Malliotakis' complaints are two Overdose Prevention Centers (OPCs) in Manhattan \u2014 one in East Harlem and the other in Washington Heights \u2014 that, until recently, funneled federal funds to \"supervised consumption services,\" including the supervised use of illicit drugs such as heroin, a Schedule I controlled substance. \"People literally go there like it's a community center, hang out, and shoot up drugs. It's signaling to drug dealers where their clients are located and attracting a criminal element in and around the facility,\" Malliotakis told Fox News Digital. \"We don't want to see this spread throughout the City of New York or the rest of the country, which is why it's critical for the Department of Justice to step in now to\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Trump cancels Biden-era bid to speed power line construction",
-   "updated": "2026-08-13T21:41:09+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 1,
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "Trump cancels Biden-era bid to speed power line construction",
-     "url": "https://thehill.com/policy/energy-environment/6028881-energy-dept-scraps-transmission-corridors/",
-     "author": "Rachel Frazin",
-     "kind": "news",
-     "published": "2026-08-13T21:41:09+00:00",
-     "summary": "The Trump administration is canceling a Biden-era effort to speed up power line construction in parts of Pennsylvania, Colorado, New Mexico, Oklahoma, Nebraska and the Dakotas. The Energy Department announced this week that it would not move forward with designating three areas as National Interest Electric Transmission Corridors, a move that could get them federal..."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "House Republican urges new Trump AG Blanche to shut down Biden-era NYC heroin injection sites",
-     "url": "https://www.foxnews.com/politics/house-republican-urges-new-trump-ag-blanche-shut-down-biden-era-nyc-heroin-injection-sites",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T14:53:06+00:00",
-     "summary": "Rep. Nicole Malliotakis, R-N.Y., slammed Biden administration-funded heroin injection sites in New York City in an interview with Fox News Digital. At the heart of Malliotakis' complaints are two Overdose Prevention Centers (OPCs) in Manhattan \u2014 one in East Harlem and the other in Washington Heights \u2014 that, until recently, funneled federal funds to \"supervised consumption services,\" including the supervised use of illicit drugs such as heroin, a Schedule I controlled substance. \"People literally go there like it's a community center, hang out, and shoot up drugs. It's signaling to drug dealers where their clients are located and attracting a criminal element in and around the facility,\" Malliotakis told Fox News Digital. \"We don't want to see this spread throughout the City of New York or the rest of the country, which is why it's critical for the Department of Justice to step in now to stop these illegally operating heroin injection centers \u2014 to make an example of what's taking place in New York City so other municipalities throughout the country don't think about opening them,\" she continued. EX-EMPLOYEE OF TAXPAYER-FUNDED NONPROFIT CAUGHT SELLING FENTANYL NEAR LA PARK: DOCS Mall"
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Liz Mair: Trump Holds The Power To Republican Victories In November But Does He Have The Will?",
-     "url": "https://www.dailywire.com/news/liz-mair-trump-holds-the-power-to-republican-victories-in-november-but-does-he-have-the-will",
-     "author": "Liz Mair",
-     "kind": "opinion",
-     "published": "2026-08-13T04:00:36+00:00",
-     "summary": "With less than three months until the 2026 midterm elections, the GOP appears to be flailing. Some of this is to be expected: Voter backlash against the party that controls the White House is the norm in the midterms; Donald Trump demonstrated in both 2016 and 2024 that while he can turn out enough votes to win a presidential election, a chunk of voters who back him also sour on him relatively fast once he\u2019s actually in office. Still, one additional worry is the GOP\u2019s poor approval ratings on the economy, and voters shifting trust to Democrats on this key issue. It has a lot of conservatives, moderate Republicans, and right-libertarians asking what can be done to eke out victories and prevent a DSA-infused Democratic Party from taking the House, and potentially also the Senate, in November. Ultimately, while success will be exceedingly tough to manage, there are a few things Republicans could be doing right now to right the ship \u2014 or at least stop the bleeding. Let\u2019s start with policy. While few voters actually vote on it, they certainly respond to its effects. But what can have an almost immediate impact? The good news is that there are boatloads of executive actions the Trump adm"
     }
    ]
   },
@@ -2106,8 +2021,8 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "female",
      "women's",
+     "female",
      "prisoners"
     ],
     "indie": [
@@ -2319,57 +2234,6 @@
      "kind": "news",
      "published": "2026-08-11T18:40:24+00:00",
      "summary": "In July, Donald Trump hid in a catering truck and reportedly secretly switched planes in a security ruse prompted by a credible Iranian assassination threat. The Guardian breaks down the footage from that day, showing how the president reportedly boarded the old Air Force One jumbo jet in view of television cameras, and then was secretly shuttled minutes later to a smaller plane via an airport catering truck typically used to load meals and other supplies preflight. Trump\u2019s actual location was concealed from journalists and some White House staff, who thought they were traveling with Trump on the older plane Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "09b10d0992",
-   "topic": "Politics",
-   "summary": "On February 27, Rep. Max Miller (R-Ohio) stood before the Cuyahoga County Court to request an emergency civil protection order (CPO) requiring that his ex-wife Emily Moreno stay away from him. Miller\u2019s rationale, he said, was that Moreno was harassing him with serious accusations that were untrue. Under penalty of perjury, he said he had evidence to prove it.&nbsp; \u201cI filed today because my ex-wife is making allegations against me,\u201d Miller told the magistrate judge, Jessica Bartolozzi. \u201cShe is making allegations against me&#8230;that never happened. And I have video and text message evidence showing the contrary of that.\u201d&nbsp; Miller eventually dismissed the petition for a CPO voluntarily after the order had been in effect for five months; his lawyer testified in late July that Miller no longer had any &#8220;concern for his safety and well-being at this time.&#8221; In recent filings,\u2026",
-   "summaryFrom": "motherjones",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Legal Filings Allege Rep. Max Miller Made \u201cFalse Statements\u201d to an Ohio Court",
-   "updated": "2026-08-13T18:38:15+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 1,
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "motherjones",
-     "title": "Legal Filings Allege Rep. Max Miller Made \u201cFalse Statements\u201d to an Ohio Court",
-     "url": "https://www.motherjones.com/politics/2026/08/legal-filings-allege-rep-max-miller-gave-false-statements-to-ohio-court-emily-moreno/",
-     "author": "Abby Vesoulis",
-     "kind": "news",
-     "published": "2026-08-13T18:38:15+00:00",
-     "summary": "On February 27, Rep. Max Miller (R-Ohio) stood before the Cuyahoga County Court to request an emergency civil protection order (CPO) requiring that his ex-wife Emily Moreno stay away from him. Miller\u2019s rationale, he said, was that Moreno was harassing him with serious accusations that were untrue. Under penalty of perjury, he said he had evidence to prove it.&nbsp; \u201cI filed today because my ex-wife is making allegations against me,\u201d Miller told the magistrate judge, Jessica Bartolozzi. \u201cShe is making allegations against me&#8230;that never happened. And I have video and text message evidence showing the contrary of that.\u201d&nbsp; Miller eventually dismissed the petition for a CPO voluntarily after the order had been in effect for five months; his lawyer testified in late July that Miller no longer had any &#8220;concern for his safety and well-being at this time.&#8221; In recent filings, however, Moreno&#8217;s counsel suggests Miller fabricated his initial reason for concern. Miller had been granted the emergency CPO in February partly in response to his claims that he had evidence disproving Moreno&#8217;s accusation that he had injured her during a custody exchange of their daugh"
-    },
-    {
-     "outlet": "wapo",
-     "title": "Rep. Max Miller\u2019s ex-wife sues after sensitive image of child was publicly shared",
-     "url": "https://www.washingtonpost.com/politics/2026/08/12/rep-max-millers-ex-wife-sues-after-sensitive-image-child-was-publicly-shared/",
-     "author": "Alexei Koseff",
-     "kind": "news",
-     "published": "2026-08-12T23:16:06+00:00",
-     "summary": "The Ohio Republican had released documents through a publicly accessible Dropbox account this month, seeking to fend off allegations of domestic abuse."
-    },
-    {
-     "outlet": "axios",
-     "title": "The House Democratic money machine is coming for GOP Rep. Max Miller",
-     "url": "https://www.axios.com/2026/08/11/max-miller-ohio-brian-poindexter-democrats-2026",
-     "author": "Andrew Solender",
-     "kind": "news",
-     "published": "2026-08-11T21:57:11+00:00",
-     "summary": "Democrats have gone from treating Rep. Max Miller (R-Ohio) as a best-case-scenario target to a genuinely vulnerable incumbent whose downfall is worth a real investment. Why it matters: Democratic groups tell Axios they plan to put their money where their mouth is and spend to win the seat, which Trump carried by double digits in 2024. Phil Gardner, a spokesperson for the centrist Blue Dog Action Fund, said his group spent nearly $200,000 to support Miller's Democratic opponent, Brian Poindexter, in the primary \"to make sure Democrats would be on their strongest footing if Max Miller started crashing out.\" \"We're prepared to invest again in the general election and finish the job,\" he told Axios. The Saturday deadline for Miller to drop off the general election ballot came and went despite pressure from Republicans for him to withdraw over allegations of domestic abuse, which he denies. Driving the news: The Democratic Congressional Campaign Committee made clear Tuesday morning that it views the district as a top target by adding Poindexter to its \"Red to Blue\" program. Red to Blue provides Democratic candidates in \"highly competitive\" Republican-controlled or open House seats with "
     }
    ]
   },
@@ -2898,10 +2762,10 @@
    "updated": "2026-08-12T19:49:59+00:00",
    "outletCount": 3,
    "counts": {
-    "family": 4,
+    "family": 3,
     "corp": 1
    },
-   "newsCount": 5,
+   "newsCount": 4,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -2933,15 +2797,6 @@
      "summary": "The president was accompanied by some of his most loyal aides but no top administration officials as he made the clandestine move to a different plane to leave Turkey last month."
     },
     {
-     "outlet": "wapo",
-     "title": "Democrats demand briefing on Trump\u2019s secret flight from Turkey",
-     "url": "https://www.washingtonpost.com/politics/2026/08/11/democrats-demand-briefing-trumps-secret-flight-turkey/",
-     "author": "Cat Zakrzewski",
-     "kind": "news",
-     "published": "2026-08-11T22:11:15+00:00",
-     "summary": "Senate Minority Leader Chuck Schumer said the White House kept Congress \u201cin the dark\u201d about last month\u2019s ruse to avoid an Iranian threat."
-    },
-    {
      "outlet": "rollingstone",
      "title": "Trump Hid in an Airport Catering Cart Amid Iranian Threat: Report",
      "url": "https://www.rollingstone.com/politics/politics-news/trump-secretly-transferred-air-force-one-threats-1235606605/",
@@ -2949,6 +2804,90 @@
      "kind": "news",
      "published": "2026-08-11T04:15:41+00:00",
      "summary": "Journalists and White House staff were aboard the legacy Air Force One that served as a \u201cdecoy,\u201d according to The Washington Post"
+    }
+   ]
+  },
+  {
+   "id": "bede945135",
+   "topic": "Justice & Policing",
+   "summary": "DHS sent undercover agents to meetings, infiltrated chats and obtained financial records in vast operation into groups opposing Trump\u2019s immigration crackdown Newly disclosed records reveal the US government extensively spied on prominent leftwing organizations and on protesters as part of a vast operation into groups opposing the immigration crackdown in Minnesota earlier this year. Internal investigative reports show the Department of Homeland Security (DHS) sent undercover agents to community meetings in the Twin Cities and New York, infiltrated Signal chats and obtained financial records of mainstream unions and left-leaning nonprofit groups. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "pub"
+   ],
+   "headline": "US government extensively spied on anti-ICE protesters and leftwing groups, records reveal",
+   "updated": "2026-08-13T22:16:41+00:00",
+   "outletCount": 2,
+   "counts": {
+    "coop": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "racket",
+     "title": "Taking Names, Recording Plates: How Feds Spied on MN Protesters, Groups During Metro Surge",
+     "url": "https://racketmn.com/taking-names-recording-plates-how-feds-spied-on-mn-protesters-groups-during-metro-surge",
+     "author": "Em Cassel",
+     "kind": "news",
+     "published": "2026-08-13T22:16:41+00:00",
+     "summary": "Plus Pillsbury goes Hollywood, more Flock backlash, and Minneapolis's excellent transit infrastructure in today's Flyover news roundup."
+    },
+    {
+     "outlet": "guardian",
+     "title": "US government extensively spied on anti-ICE protesters and leftwing groups, records reveal",
+     "url": "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters",
+     "author": "Sam Levin in Los Angeles and Rachel Leingang in Minneapolis",
+     "kind": "news",
+     "published": "2026-08-13T22:00:49+00:00",
+     "summary": "DHS sent undercover agents to meetings, infiltrated chats and obtained financial records in vast operation into groups opposing Trump\u2019s immigration crackdown Newly disclosed records reveal the US government extensively spied on prominent leftwing organizations and on protesters as part of a vast operation into groups opposing the immigration crackdown in Minnesota earlier this year. Internal investigative reports show the Department of Homeland Security (DHS) sent undercover agents to community meetings in the Twin Cities and New York, infiltrated Signal chats and obtained financial records of mainstream unions and left-leaning nonprofit groups. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "373975d8f4",
+   "topic": "Politics",
+   "summary": "A top House Democrat is speaking out against a university's decision to cancel an appearance by controversial far-left activist Hasan Piker on its campus. Rep. Pramila Jayapal, D-Wash., the former Congressional Progressive Caucus chair, publicly called on students at the University of Washington to \"work with the university to ensure\" that Piker was able to speak. Jayapal also said in a statement posted to X on Thursday that she was personally working with the university on the issue. DEMOCRATIC INFIGHTING GROWS AS CONGRESSWOMAN EXPOSES \u2018DISRESPECTFUL\u2019 WELCOME OF SOCIALISTS INTO \u2018BIG TENT\u2019 \"As a Member of the Judiciary Committee, I have been absolutely clear that free speech is a constitutional right that we must all stand up and protect. I have been communicating my concerns about the cancellation of the Hasan Piker event directly to the University, and they have informed me that they\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Top House Dem jumps to Hasan Piker\u2019s defense after cancelled college event",
+   "updated": "2026-08-13T22:12:51+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Top House Dem jumps to Hasan Piker\u2019s defense after cancelled college event",
+     "url": "https://nypost.com/2026/08/13/media/lefty-house-dem-jumps-to-hasan-pikers-defense-after-cancelled-college-event/",
+     "author": "Fox News",
+     "kind": "news",
+     "published": "2026-08-13T22:12:51+00:00",
+     "summary": "Rep. Pramila Jayapal says she is personally communicating with the University of Washington over free speech concerns."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Hasan Piker event cancellation sparks intervention from top House progressive",
+     "url": "https://www.foxnews.com/politics/hasan-piker-event-cancellation-sparks-intervention-from-top-house-progressive",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T19:30:15+00:00",
+     "summary": "A top House Democrat is speaking out against a university's decision to cancel an appearance by controversial far-left activist Hasan Piker on its campus. Rep. Pramila Jayapal, D-Wash., the former Congressional Progressive Caucus chair, publicly called on students at the University of Washington to \"work with the university to ensure\" that Piker was able to speak. Jayapal also said in a statement posted to X on Thursday that she was personally working with the university on the issue. DEMOCRATIC INFIGHTING GROWS AS CONGRESSWOMAN EXPOSES \u2018DISRESPECTFUL\u2019 WELCOME OF SOCIALISTS INTO \u2018BIG TENT\u2019 \"As a Member of the Judiciary Committee, I have been absolutely clear that free speech is a constitutional right that we must all stand up and protect. I have been communicating my concerns about the cancellation of the Hasan Piker event directly to the University, and they have informed me that they are doing an internal review to ensure this never happens again,\" Jayapal wrote. Piker posted on X earlier this week that the event was canceled due to his criticism of Israel . \"i wish the dems were smarter &amp; didn\u2019t let the [right-wing] groups be the only people who speak out against this clear "
     }
    ]
   },
@@ -2997,8 +2936,8 @@
   {
    "id": "1967c410d1",
    "topic": "Other",
-   "summary": "New York City lawmakers approved a series of measures that will allow restaurants to erect outdoor dining shelters during the winter months.",
-   "summaryFrom": "nypost",
+   "summary": "Goodbye seasonal requirements, hello to year-round al fresco dining.",
+   "summaryFrom": "hellgate",
    "emphasis": null,
    "absent": [
     "corp",
@@ -3023,16 +2962,16 @@
      "author": "Alisha Allison",
      "kind": "news",
      "published": "2026-08-13T21:56:18+00:00",
-     "summary": null
+     "summary": "Goodbye seasonal requirements, hello to year-round al fresco dining."
     },
     {
      "outlet": "nypost",
-     "title": "NYC restaurants can now have outdoor dining all year round \u2014 but there are stiff penalties for dirty sheds",
+     "title": "NYC restaurants can now have outdoor dining year-round \u2014 but still face stiff penalties for dirty sheds",
      "url": "https://nypost.com/2026/08/13/us-news/nyc-restaurants-can-now-have-outdoor-dining-all-year-round/",
      "author": "Hannah Fierick, Jorge Fitz-Gibbon",
      "kind": "news",
      "published": "2026-08-13T21:55:39+00:00",
-     "summary": "New York City lawmakers approved a series of measures that will allow restaurants to erect outdoor dining shelters during the winter months."
+     "summary": "There's something new on the menu for Big Apple eateries."
     }
    ]
   },
@@ -3714,6 +3653,48 @@
      "kind": "news",
      "published": "2026-08-13T18:12:20+00:00",
      "summary": "Mario Anzuoni/REUTERS Selena Gomez and her mother, Mandy Teefey, have been accused of deceiving investors into contributing over $1 million to their failing company. Wondermind SRS 44 LLC and Bespoke Wondermind LLC have filed lawsuits against the pop star\u2019s company, Wondermind Global, according to lawsuit filings obtained by TMZ . The mental health startup, founded in 2021, was started by Gomez, her mother, and former business partner Daniella Pierson, all of whom are being sued by the companies. The lawsuits claim that the business leaders deceived investors into making $1 million in investments by inadequately representing the infrastructure, leadership, and necessary resources, and that the money invested was \u201cfunding the collapse.\u201d A 2025 article by The Cut further claims that the company failed to make payments to vendors and employees on time. On the company\u2019s alleged failures, Teefey said, \u201cIt\u2019s unfortunate that a few disgruntled employees with an ax to grind can spread lies about me and distort the truth. Even more disappointing that the media is willing to amplify their lies.\u201d Read it at TMZ Read more at The Daily Beast."
+    }
+   ]
+  },
+  {
+   "id": "7374b58bdb",
+   "topic": "Business & Economy",
+   "summary": "Liz\u2019s view There\u2019s always money in the sports team. Mark Walter controls a vast financial empire and is under federal investigation for undisclosed related-party transactions between its interlocking parts. Unwinding those transactions will require him to raise billions of dollars. Most people in that situation would look to sell their most digestible assets, things like loans that Wall Street buys and sells before lunch, and Walter is doing a bit of that . But the first asset to trade was the Los Angeles Lakers, which Walter is selling to Bob Iger, the former Disney CEO and Los Angeles noble, and Josh Kushner, the venture capitalist who is seemingly everywhere these days . The deal came together in three days, Iger said , but if this is a firesale it sure doesn\u2019t look like one: $12.5 billion for a team that Walter bought for less than a year ago for $10 billion. That he found the cash\u2026",
+   "summaryFrom": "semafor",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Inside the increasing values of sports franchises amid the Lakers $12.5 billion sale",
+   "updated": "2026-08-13T19:29:48+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Inside the increasing values of sports franchises amid the Lakers $12.5 billion sale",
+     "url": "https://www.cbsnews.com/video/inside-the-increasing-values-of-sports-franchises-amid-the-lakers-125-billion-sale/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T19:29:48+00:00",
+     "summary": "News broke on Wednesday that the Los Angeles Lakers will be sold to Bob Iger and Josh Kushner for $12.5 billion. Mike Vorkunov, national NBA and basketball business reporter for the Athletic, joins CBS News to discuss."
+    },
+    {
+     "outlet": "semafor",
+     "title": "What the LA Lakers \u2018firesale\u2019 says about sports investing",
+     "url": "https://www.semafor.com/article/08/13/2026/what-the-la-lakers-firesale-says-about-sports-investing",
+     "author": "Liz Hoffman",
+     "kind": "news",
+     "published": "2026-08-13T16:54:07+00:00",
+     "summary": "Liz\u2019s view There\u2019s always money in the sports team. Mark Walter controls a vast financial empire and is under federal investigation for undisclosed related-party transactions between its interlocking parts. Unwinding those transactions will require him to raise billions of dollars. Most people in that situation would look to sell their most digestible assets, things like loans that Wall Street buys and sells before lunch, and Walter is doing a bit of that . But the first asset to trade was the Los Angeles Lakers, which Walter is selling to Bob Iger, the former Disney CEO and Los Angeles noble, and Josh Kushner, the venture capitalist who is seemingly everywhere these days . The deal came together in three days, Iger said , but if this is a firesale it sure doesn\u2019t look like one: $12.5 billion for a team that Walter bought for less than a year ago for $10 billion. That he found the cash he needs in an illiquid asset (a professional sports team) with a limited pool of buyers (billionaires), and not in his vast pile of loans and financial instruments that Wall Street firms would happily absorb, points to a bigger change unfolding in the financial frenzy around sports these days. Fred "
     }
    ]
   }
