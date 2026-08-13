@@ -68,6 +68,46 @@ did what when where who whom why how which while during against between
 OPINION_HINTS = re.compile(r"opinion|editorial|commentary|comment-is-free|commentisfree|op-ed|column", re.I)
 
 
+TOPICS = [
+    ("Politics", """election elections senate congress house president trump biden vance
+        campaign vote voter ballot governor democrat republican gop white lawmakers
+        legislature primary impeach subpoena caucus"""),
+    ("Justice & Policing", """court supreme judge lawsuit indicted indictment prosecutor
+        police officer arrest sentencing prison jail ice deportation immigration lawsuit
+        attorney trial verdict sued charges felony detained"""),
+    ("World", """ukraine russia gaza israel china iran nato europe india africa mexico
+        canada britain france germany japan korea war military strike embassy diplomatic
+        border troops ceasefire"""),
+    ("Business & Economy", """economy inflation jobs unemployment wage wages market stocks
+        tariff trade fed reserve earnings layoffs merger acquisition ipo bank housing
+        prices union strike labor billion revenue"""),
+    ("Climate & Energy", """climate emissions heat wildfire hurricane flood drought storm
+        energy solar wind oil gas coal grid power renewable epa pollution warming
+        temperature"""),
+    ("Tech", """ai artificial intelligence tech software app google apple meta amazon
+        microsoft openai chip semiconductor data privacy hacked breach cyber crypto
+        algorithm platform users startup"""),
+    ("Health", """health hospital medical doctors patients disease virus vaccine cdc fda
+        drug medicaid medicare insurance outbreak cancer mental care nurses"""),
+    ("Culture & Sport", """film movie music album artist book game nfl nba mlb soccer
+        olympics championship team player coach season concert festival award celebrity
+        streaming"""),
+]
+TOPIC_WORDS = [(name, set(kw.split())) for name, kw in TOPICS]
+
+
+def classify_topic(text):
+    raw = re.findall(r"[a-z']+", (text or "").lower())
+    # crude singularisation so "hospitals" matches "hospital"
+    toks = set(raw) | {w[:-1] for w in raw if len(w) > 3 and w.endswith("s")}
+    best, score = "Other", 0
+    for name, words in TOPIC_WORDS:
+        n = len(toks & words)
+        if n > score:
+            best, score = name, n
+    return best
+
+
 def tokens(text):
     words = re.findall(r"[a-z0-9']+", (text or "").lower())
     return {w for w in words if len(w) > 2 and w not in STOPWORDS}
@@ -174,8 +214,10 @@ def shape(clusters, outlets):
         # headline: prefer a nonprofit/public/wire-style source, else newest
         lead = next((a for a in arts if outlets[a["outlet"]]["type"] in ("nonprofit", "pub")), arts[0])
         sid = hashlib.md5((lead["title"] + lead["url"]).encode()).hexdigest()[:10]
+        topic_src = " ".join(a["title"] for a in arts)
         stories.append({
             "id": sid,
+            "topic": classify_topic(topic_src),
             "headline": lead["title"],
             "updated": arts[0]["published"],
             "outletCount": len({a["outlet"] for a in arts}),
