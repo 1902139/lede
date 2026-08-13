@@ -1,0 +1,46 @@
+name: Update stories
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # One-time tidy: removes the leftover test fixtures from the original upload.
+      # Named explicitly (no wildcards) so it can only ever touch these files.
+      # After they're gone this step does nothing — safe to leave in place.
+      - name: Remove leftover test files
+        run: |
+          rm -f bbc.xml defector.xml foxnews.xml guardian.xml \
+                hellgate.xml npr.xml wsj.xml 404media.xml aftermath.xml
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install feedparser
+
+      - run: python fetch_news.py
+
+      # Stage 2 article analysis. Skips itself silently unless you've added an
+      # ANTHROPIC_API_KEY secret (Settings -> Secrets and variables -> Actions).
+      - name: Article analysis (optional)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python analyze.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "lede-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Update stories [skip ci]"
+          git push
