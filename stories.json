@@ -1,132 +1,9 @@
 {
- "generated": "2026-08-14T06:43:58.212494+00:00",
+ "generated": "2026-08-14T08:38:55.717291+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
-  {
-   "id": "0121c57d22",
-   "topic": "Justice & Policing",
-   "summary": "Luigi Mangione is expected to plead guilty Friday to federal stalking charges carrying life sentences in connection with the assassination of UnitedHealthcare CEO Brian Thompson \u2014 a move that could have major implications for his upcoming murder trial. A guilty plea would mark a dramatic turnaround for the 28-year-old, who has long maintained his innocence and previously pleaded not guilty as he barrels towards a separate high-stakes murder trial in New York state court. The Department of Justice does not know whether Mangione will agree to plead guilty, but prosecutors would pursue a life sentence if he does, a source familiar with the matter told The Daily Wire. The New York Times stressed that negotiations over a potential plea remain \u201csensitive\u201d and could collapse at any moment. In his federal case, the Maryland native faces one count of interstate stalking resulting in death and\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": {
-    "bigCount": 6,
-    "indieCount": 4,
-    "big": [
-     "sources",
-     "year-old",
-     "connection"
-    ],
-    "indie": []
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "AP report: Luigi Mangione expected to plead guilty in federal case over CEO killing",
-   "updated": "2026-08-14T03:17:56+00:00",
-   "outletCount": 10,
-   "counts": {
-    "corp": 3,
-    "family": 3,
-    "nonprofit": 3,
-    "pub": 1
-   },
-   "newsCount": 8,
-   "opinionCount": 2,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Luigi Mangione in discussions about possible guilty plea, sources say",
-     "url": "https://www.cbsnews.com/news/luigi-mangione-possible-federal-plea-deal/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T03:17:56+00:00",
-     "summary": "Luigi Mangione, accused in the 2024 killing of UnitedHealthcare CEO Brian Thompson, is in discussions about a possible plea deal on federal charges, sources familiar with the matter told CBS News."
-    },
-    {
-     "outlet": "nyt",
-     "title": "What to Know About Luigi Mangione\u2019s Court Cases and Potential Plea Deal",
-     "url": "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-court-plea-deal-trial.html",
-     "author": "Mack Liederman and Max Bearak",
-     "kind": "news",
-     "published": "2026-08-13T22:55:18+00:00",
-     "summary": "Mr. Mangione faces federal charges of stalking that resulted in the death of a health insurance executive. A guilty plea could close the federal case \u2014 and complicate a separate state murder trial."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "AP report: Luigi Mangione expected to plead guilty in federal case over CEO killing",
-     "url": "https://www.pbs.org/newshour/nation/ap-report-luigi-mangione-expected-to-plead-guilty-in-federal-case-over-ceo-killing",
-     "author": "Alanna Durkin Richer, Associated Press",
-     "kind": "news",
-     "published": "2026-08-13T19:43:23+00:00",
-     "summary": "Luigi Mangione is expected to plead guilty as early as Friday in the federal case accusing him of stalking and killing UnitedHealthcare CEO Brian Thompson, a person familiar with the matter told The Associated Press."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-     "url": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T18:45:51+00:00",
-     "summary": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Luigi Mangione Expected to Plead Guilty to Federal Charges",
-     "url": "https://www.thedailybeast.com/luigi-mangione-expected-to-plead-guilty-to-federal-stalking-charges/",
-     "author": "Lauren Hartley",
-     "kind": "news",
-     "published": "2026-08-13T18:08:11+00:00",
-     "summary": "Pool / Jeenah Moon, Getty Images Luigi Mangione, alleged killer of UnitedHealthcare CEO Brian Thompson, is expected to plead guilty to stalking-related charges on Friday, sources say. Mangione is expected to change his plea just weeks before he is set to stand trial in the state murder case. It\u2019s unclear whether the 28-year-old will plead guilty to one or both of the two stalking-related federal charges he\u2019s faced with. Plea negotiations are ongoing and can be reversed at any time, even during the hearing. If convicted, Mangione could face a life sentence, which is less severe than the death penalty, which the Justice Department originally sought before a federal judge blocked it. Should Mangione plead guilty to the federal charges, his attorneys are expected to pursue the dismissal of some or all of the charges he faces at the state level. Mangione is accused of fatally shooting 50-year-old Thompson, a father of two, outside the Hilton Hotel in midtown Manhattan in December 2024. Jury selection is scheduled to begin next month. Read it at NBC News Read more at The Daily Beast."
-    },
-    {
-     "outlet": "npr",
-     "title": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
-     "url": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea",
-     "author": "Brian Mann",
-     "kind": "news",
-     "published": "2026-08-13T17:29:15+00:00",
-     "summary": "A surprise hearing this Friday in federal court has added to speculation that Luigi Mangione could enter a plea, which could derail a state murder trial. (Image credit: Steven Hirsch)"
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Luigi Mangione expected to plead guilty in New York federal case",
-     "url": "https://www.nbcnews.com/news/us-news/luigi-mangione-expected-plead-guilty-new-york-federal-case-rcna592221",
-     "author": "Chloe Atkins",
-     "kind": "news",
-     "published": "2026-08-13T16:02:57+00:00",
-     "summary": "A trial is set to begin next month in Mangione\u2019s state case in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Luigi Mangione Weighs Unusual Plea Move That Could Derail State Murder Trial",
-     "url": "https://www.dailywire.com/news/luigi-mangione-weighs-unusual-plea-move-that-could-derail-state-murder-trial",
-     "author": "Jacob Wheeler",
-     "kind": "opinion",
-     "published": "2026-08-13T12:05:22+00:00",
-     "summary": "Luigi Mangione is expected to plead guilty Friday to federal stalking charges carrying life sentences in connection with the assassination of UnitedHealthcare CEO Brian Thompson \u2014 a move that could have major implications for his upcoming murder trial. A guilty plea would mark a dramatic turnaround for the 28-year-old, who has long maintained his innocence and previously pleaded not guilty as he barrels towards a separate high-stakes murder trial in New York state court. The Department of Justice does not know whether Mangione will agree to plead guilty, but prosecutors would pursue a life sentence if he does, a source familiar with the matter told The Daily Wire. The New York Times stressed that negotiations over a potential plea remain \u201csensitive\u201d and could collapse at any moment. In his federal case, the Maryland native faces one count of interstate stalking resulting in death and one count of stalking through the use of interstate facilities resulting in death. Both charges carry a maximum sentence of life in prison, according to the Department of Justice. A judge tossed out a firearms charge that would\u2019ve made Mangione eligible for the federal death penalty. \u201cMangione planned "
-    },
-    {
-     "outlet": "wapo",
-     "title": "Nick Reiner pleads not guilty to murder charges following indictment",
-     "url": "https://www.washingtonpost.com/nation/2026/08/12/nick-reiner-pleads-not-guilty-murder-charges-following-indictment/",
-     "author": "Hannah Knowles",
-     "kind": "news",
-     "published": "2026-08-12T20:00:00+00:00",
-     "summary": "The son of actor and director Rob Reiner was indicted last month by a grand jury, with details unsealed Wednesday. Nick Reiner\u2019s parents were found dead in December."
-    },
-    {
-     "outlet": "reason",
-     "title": "How Much Does New York Actually Recycle? The N.Y. Comptroller Says the State Doesn't Really Know.",
-     "url": "https://reason.com/2026/08/12/how-much-does-new-york-actually-recycle-the-n-y-comptroller-says-the-state-doesnt-really-know/",
-     "author": "Meagan O'Rourke",
-     "kind": "opinion",
-     "published": "2026-08-12T17:40:11+00:00",
-     "summary": "Many people are familiar with the three R's: reduce, reuse, recycle. Now, the Office of the New York State Comptroller is asking an environmental conservation agency to get better at a fourth R: recordkeeping. That's because the state agency has not been adequately recording recycling data, according to a newly released audit by State Comptroller Thomas DiNapoli. The New York State Department of Environmental Conservation (DEC) is responsible for monitoring recycling facilities throughout the state, including Recyclables Handling and Recovery Facilities (RHRFs). According to the comptroller's report , between January 2021 and December 2023, the DEC did not receive 32 percent of required annual reports from RHRF facilities, and the recycling figures that were reported were \"frequently inaccurate or not adequately supported.\" The comptroller's office also noted that many facilities \"failed to report how much material they discarded rather than recycled,\" meaning the DEC may not know how much waste was actually diverted from landfills. Auditors also found that 35 percent of the facilities were not inspected during the time period, so the DEC may not be able to verify the figures repor"
-    }
-   ]
-  },
   {
    "id": "503f6875f0",
    "topic": "Politics",
@@ -265,16 +142,16 @@
     "indieCount": 3,
     "big": [
      "dismissed",
-     "case",
      "campus",
+     "case",
      "administration's",
      "protect",
      "jewish"
     ],
     "indie": [
      "ongoing",
-     "prove",
      "laws",
+     "prove",
      "donald"
     ]
    },
@@ -369,112 +246,106 @@
    ]
   },
   {
-   "id": "7546612b98",
-   "topic": "World",
-   "summary": "Former PM of Israel calls events \u2018concerted and meticulous attempt at ethnic cleansing\u2019 against Palestinians Israeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top Israeli commander personally promised he would end a violent settler campaign to drive them out. Israeli soldiers also took over eight other homes in Qusra early on Thursday, telling the village\u2019s mayor, Abdul Azim Wadi, that the buildings were needed for a days-long operation to remove the settlers. They later relinquished six. Settlers still roam the village. Continue reading...",
-   "summaryFrom": "guardian",
+   "id": "0121c57d22",
+   "topic": "Justice & Policing",
+   "summary": "Luigi Mangione is expected to plead guilty Friday to federal stalking charges carrying life sentences in connection with the assassination of UnitedHealthcare CEO Brian Thompson \u2014 a move that could have major implications for his upcoming murder trial. A guilty plea would mark a dramatic turnaround for the 28-year-old, who has long maintained his innocence and previously pleaded not guilty as he barrels towards a separate high-stakes murder trial in New York state court. The Department of Justice does not know whether Mangione will agree to plead guilty, but prosecutors would pursue a life sentence if he does, a source familiar with the matter told The Daily Wire. The New York Times stressed that negotiations over a potential plea remain \u201csensitive\u201d and could collapse at any moment. In his federal case, the Maryland native faces one count of interstate stalking resulting in death and\u2026",
+   "summaryFrom": "dailywire",
    "emphasis": {
-    "bigCount": 2,
-    "indieCount": 6,
+    "bigCount": 5,
+    "indieCount": 3,
     "big": [
-     "trapped"
+     "sources",
+     "year-old"
     ],
-    "indie": [
-     "settler",
-     "qusra",
-     "troops",
-     "palestinians",
-     "forces",
-     "american"
-    ]
+    "indie": []
    },
    "absent": [
     "coop"
    ],
-   "headline": "UN, Palestinian ministry condemn Israeli settler siege of West Bank homes",
-   "updated": "2026-08-14T02:21:29+00:00",
+   "headline": "AP report: Luigi Mangione expected to plead guilty in federal case over CEO killing",
+   "updated": "2026-08-14T03:17:56+00:00",
    "outletCount": 8,
    "counts": {
-    "pub": 4,
-    "corp": 1,
+    "corp": 2,
+    "family": 3,
     "nonprofit": 2,
-    "family": 1
+    "pub": 1
    },
-   "newsCount": 8,
-   "opinionCount": 0,
-   "underreported": true,
+   "newsCount": 7,
+   "opinionCount": 1,
+   "underreported": false,
    "articles": [
     {
-     "outlet": "aljazeera",
-     "title": "UN, Palestinian ministry condemn Israeli settler siege of West Bank homes",
-     "url": "https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss",
+     "outlet": "cbsnews",
+     "title": "Luigi Mangione in discussions about possible guilty plea, sources say",
+     "url": "https://www.cbsnews.com/news/luigi-mangione-possible-federal-plea-deal/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-14T02:21:29+00:00",
-     "summary": "UN rights office and Palestine Foreign Ministry call days-long Israeli settler siege in Qusra &#039;criminal&#039; and &#039;inhumane&#039;."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "U.S. Ambassador Huckabee condemns \u2018Israeli terrorists\u2019 for siege of West Bank homes",
-     "url": "https://www.nbcnews.com/video/u-s-ambassador-condemns-israeli-terrorists-for-siege-of-west-bank-homes-268286021795",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T23:28:41+00:00",
-     "summary": "Dozens of Israeli settlers have trapped two Palestinian families in their West Bank homes for days, cutting off food, water and electricity. Their actions even drawing the ire of U.S. Ambassador to Israel Mike Huckabee. The IDF says settlers were dispersed, but some remain. NBC News' Matt Bradley reports from the occupied West Bank."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "'Act of terror': U.S. condemns Israeli settler siege of Palestinian homes in West Bank",
-     "url": "https://www.pbs.org/newshour/show/act-of-terror-u-s-condemns-israeli-settler-siege-of-palestinian-homes-in-west-bank",
-     "author": "Kayan Taraporevala",
-     "kind": "news",
-     "published": "2026-08-13T22:55:39+00:00",
-     "summary": "The U.S. condemned the siege of Palestinian homes by Israeli settlers in the West Bank, where they cut off water, electricity and essential supplies to residents. U.S. Ambassador to Israel Mike Huckabee called the settlers' actions an \"act of terror,\" adding to American pressure that has prompted Israeli forces to intervene. Nick Schifrin reports."
+     "published": "2026-08-14T03:17:56+00:00",
+     "summary": "Luigi Mangione, accused in the 2024 killing of UnitedHealthcare CEO Brian Thompson, is in discussions about a possible plea deal on federal charges, sources familiar with the matter told CBS News."
     },
     {
      "outlet": "nyt",
-     "title": "Israeli Settlers Resume West Bank Siege After Eviction",
-     "url": "https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html",
-     "author": "Natan Odenheimer and Fatima AbdulKarim",
+     "title": "What to Know About Luigi Mangione\u2019s Court Cases and Potential Plea Deal",
+     "url": "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-court-plea-deal-trial.html",
+     "author": "Mack Liederman and Max Bearak",
      "kind": "news",
-     "published": "2026-08-13T20:18:47+00:00",
-     "summary": "The military\u2019s failure to keep extremists away from two Palestinian families trapped in their West Bank homes made clear the chaos gripping the Israeli-occupied territory."
+     "published": "2026-08-13T22:55:18+00:00",
+     "summary": "Mr. Mangione faces federal charges of stalking that resulted in the death of a health insurance executive. A guilty plea could close the federal case \u2014 and complicate a separate state murder trial."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "AP report: Luigi Mangione expected to plead guilty in federal case over CEO killing",
+     "url": "https://www.pbs.org/newshour/nation/ap-report-luigi-mangione-expected-to-plead-guilty-in-federal-case-over-ceo-killing",
+     "author": "Alanna Durkin Richer, Associated Press",
+     "kind": "news",
+     "published": "2026-08-13T19:43:23+00:00",
+     "summary": "Luigi Mangione is expected to plead guilty as early as Friday in the federal case accusing him of stalking and killing UnitedHealthcare CEO Brian Thompson, a person familiar with the matter told The Associated Press."
     },
     {
      "outlet": "bbc",
-     "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-     "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+     "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+     "url": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-13T20:12:17+00:00",
-     "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks."
+     "published": "2026-08-13T18:45:51+00:00",
+     "summary": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison."
     },
     {
-     "outlet": "guardian",
-     "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
-     "url": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
-     "author": "Emma Graham-Harrison in Jerusalem",
+     "outlet": "dailybeast",
+     "title": "Luigi Mangione Expected to Plead Guilty to Federal Charges",
+     "url": "https://www.thedailybeast.com/luigi-mangione-expected-to-plead-guilty-to-federal-stalking-charges/",
+     "author": "Lauren Hartley",
      "kind": "news",
-     "published": "2026-08-13T18:54:09+00:00",
-     "summary": "Former PM of Israel calls events \u2018concerted and meticulous attempt at ethnic cleansing\u2019 against Palestinians Israeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top Israeli commander personally promised he would end a violent settler campaign to drive them out. Israeli soldiers also took over eight other homes in Qusra early on Thursday, telling the village\u2019s mayor, Abdul Azim Wadi, that the buildings were needed for a days-long operation to remove the settlers. They later relinquished six. Settlers still roam the village. Continue reading..."
+     "published": "2026-08-13T18:08:11+00:00",
+     "summary": "Pool / Jeenah Moon, Getty Images Luigi Mangione, alleged killer of UnitedHealthcare CEO Brian Thompson, is expected to plead guilty to stalking-related charges on Friday, sources say. Mangione is expected to change his plea just weeks before he is set to stand trial in the state murder case. It\u2019s unclear whether the 28-year-old will plead guilty to one or both of the two stalking-related federal charges he\u2019s faced with. Plea negotiations are ongoing and can be reversed at any time, even during the hearing. If convicted, Mangione could face a life sentence, which is less severe than the death penalty, which the Justice Department originally sought before a federal judge blocked it. Should Mangione plead guilty to the federal charges, his attorneys are expected to pursue the dismissal of some or all of the charges he faces at the state level. Mangione is accused of fatally shooting 50-year-old Thompson, a father of two, outside the Hilton Hotel in midtown Manhattan in December 2024. Jury selection is scheduled to begin next month. Read it at NBC News Read more at The Daily Beast."
     },
     {
-     "outlet": "dw",
-     "title": "Israeli military moves as settlers besiege 3 West Bank homes",
-     "url": "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-rdf",
-     "author": null,
+     "outlet": "npr",
+     "title": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
+     "url": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea",
+     "author": "Brian Mann",
      "kind": "news",
-     "published": "2026-08-13T15:19:00+00:00",
-     "summary": "Israel's military has moved to try to stop a group of settlers from besieging three homes in the occupied West Bank. One was owned by a Palestinian American, prompting an unusually sharp rebuke from the US ambassador."
+     "published": "2026-08-13T17:29:15+00:00",
+     "summary": "A surprise hearing this Friday in federal court has added to speculation that Luigi Mangione could enter a plea, which could derail a state murder trial. (Image credit: Steven Hirsch)"
     },
     {
-     "outlet": "france24",
-     "title": "Israel sends troops to settler siege as US ambassador slams 'act of terror'",
-     "url": "https://www.france24.com/en/video/20260813-israel-sends-troops-to-settler-siege-as-us-ambassador-slams-act-of-terror",
-     "author": "FRANCE24",
+     "outlet": "dailywire",
+     "title": "Luigi Mangione Weighs Unusual Plea Move That Could Derail State Murder Trial",
+     "url": "https://www.dailywire.com/news/luigi-mangione-weighs-unusual-plea-move-that-could-derail-state-murder-trial",
+     "author": "Jacob Wheeler",
+     "kind": "opinion",
+     "published": "2026-08-13T12:05:22+00:00",
+     "summary": "Luigi Mangione is expected to plead guilty Friday to federal stalking charges carrying life sentences in connection with the assassination of UnitedHealthcare CEO Brian Thompson \u2014 a move that could have major implications for his upcoming murder trial. A guilty plea would mark a dramatic turnaround for the 28-year-old, who has long maintained his innocence and previously pleaded not guilty as he barrels towards a separate high-stakes murder trial in New York state court. The Department of Justice does not know whether Mangione will agree to plead guilty, but prosecutors would pursue a life sentence if he does, a source familiar with the matter told The Daily Wire. The New York Times stressed that negotiations over a potential plea remain \u201csensitive\u201d and could collapse at any moment. In his federal case, the Maryland native faces one count of interstate stalking resulting in death and one count of stalking through the use of interstate facilities resulting in death. Both charges carry a maximum sentence of life in prison, according to the Department of Justice. A judge tossed out a firearms charge that would\u2019ve made Mangione eligible for the federal death penalty. \u201cMangione planned "
+    },
+    {
+     "outlet": "wapo",
+     "title": "Nick Reiner pleads not guilty to murder charges following indictment",
+     "url": "https://www.washingtonpost.com/nation/2026/08/12/nick-reiner-pleads-not-guilty-murder-charges-following-indictment/",
+     "author": "Hannah Knowles",
      "kind": "news",
-     "published": "2026-08-13T14:44:59+00:00",
-     "summary": "Israeli forces on Thursday moved against rogue settlers laying siege to Palestinians amid unusually strong US criticism, even as Israel inaugurated an emblematic settlement elsewhere in the West Bank."
+     "published": "2026-08-12T20:00:00+00:00",
+     "summary": "The son of actor and director Rob Reiner was indicted last month by a grand jury, with details unsealed Wednesday. Nick Reiner\u2019s parents were found dead in December."
     }
    ]
   },
@@ -487,11 +358,11 @@
     "bigCount": 5,
     "indieCount": 2,
     "big": [
-     "billions",
      "dollars",
      "president",
-     "accuses",
+     "billions",
      "thursday",
+     "accuses",
      "administration"
     ],
     "indie": []
@@ -578,6 +449,107 @@
    ]
   },
   {
+   "id": "7546612b98",
+   "topic": "Politics",
+   "summary": "Former PM of Israel calls events \u2018concerted and meticulous attempt at ethnic cleansing\u2019 against Palestinians Israeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top Israeli commander personally promised he would end a violent settler campaign to drive them out. Israeli soldiers also took over eight other homes in Qusra early on Thursday, telling the village\u2019s mayor, Abdul Azim Wadi, that the buildings were needed for a days-long operation to remove the settlers. They later relinquished six. Settlers still roam the village. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 5,
+    "big": [
+     "trapped"
+    ],
+    "indie": [
+     "settler",
+     "qusra",
+     "terror",
+     "american",
+     "besieged",
+     "troops"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "UN, Palestinian ministry condemn Israeli settler siege of West Bank homes",
+   "updated": "2026-08-14T02:21:29+00:00",
+   "outletCount": 7,
+   "counts": {
+    "pub": 3,
+    "corp": 1,
+    "nonprofit": 2,
+    "family": 1
+   },
+   "newsCount": 7,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "UN, Palestinian ministry condemn Israeli settler siege of West Bank homes",
+     "url": "https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T02:21:29+00:00",
+     "summary": "UN rights office and Palestine Foreign Ministry call days-long Israeli settler siege in Qusra &#039;criminal&#039; and &#039;inhumane&#039;."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "U.S. Ambassador Huckabee condemns \u2018Israeli terrorists\u2019 for siege of West Bank homes",
+     "url": "https://www.nbcnews.com/video/u-s-ambassador-condemns-israeli-terrorists-for-siege-of-west-bank-homes-268286021795",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T23:28:41+00:00",
+     "summary": "Dozens of Israeli settlers have trapped two Palestinian families in their West Bank homes for days, cutting off food, water and electricity. Their actions even drawing the ire of U.S. Ambassador to Israel Mike Huckabee. The IDF says settlers were dispersed, but some remain. NBC News' Matt Bradley reports from the occupied West Bank."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "'Act of terror': U.S. condemns Israeli settler siege of Palestinian homes in West Bank",
+     "url": "https://www.pbs.org/newshour/show/act-of-terror-u-s-condemns-israeli-settler-siege-of-palestinian-homes-in-west-bank",
+     "author": "Kayan Taraporevala",
+     "kind": "news",
+     "published": "2026-08-13T22:55:39+00:00",
+     "summary": "The U.S. condemned the siege of Palestinian homes by Israeli settlers in the West Bank, where they cut off water, electricity and essential supplies to residents. U.S. Ambassador to Israel Mike Huckabee called the settlers' actions an \"act of terror,\" adding to American pressure that has prompted Israeli forces to intervene. Nick Schifrin reports."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Israeli Settlers Resume West Bank Siege After Eviction",
+     "url": "https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html",
+     "author": "Natan Odenheimer and Fatima AbdulKarim",
+     "kind": "news",
+     "published": "2026-08-13T20:18:47+00:00",
+     "summary": "The military\u2019s failure to keep extremists away from two Palestinian families trapped in their West Bank homes made clear the chaos gripping the Israeli-occupied territory."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+     "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T20:12:17+00:00",
+     "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
+     "url": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
+     "author": "Emma Graham-Harrison in Jerusalem",
+     "kind": "news",
+     "published": "2026-08-13T18:54:09+00:00",
+     "summary": "Former PM of Israel calls events \u2018concerted and meticulous attempt at ethnic cleansing\u2019 against Palestinians Israeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top Israeli commander personally promised he would end a violent settler campaign to drive them out. Israeli soldiers also took over eight other homes in Qusra early on Thursday, telling the village\u2019s mayor, Abdul Azim Wadi, that the buildings were needed for a days-long operation to remove the settlers. They later relinquished six. Settlers still roam the village. Continue reading..."
+    },
+    {
+     "outlet": "dw",
+     "title": "Israeli military moves as settlers besiege 3 West Bank homes",
+     "url": "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T15:19:00+00:00",
+     "summary": "Israel's military has moved to try to stop a group of settlers from besieging three homes in the occupied West Bank. One was owned by a Palestinian American, prompting an unusually sharp rebuke from the US ambassador."
+    }
+   ]
+  },
+  {
    "id": "267e6bad1f",
    "topic": "Politics",
    "summary": "A person walks past scaffolding and a large protective tarp covering the facade of the John F. Kennedy Center for the Performing Arts, guarded by two security guards, in Washington, D.C., on August 13, 2026. \u2014Brendan Smialowski\u2014AFP/Getty Images The Kennedy Center board on Thursday voted to put President Donald Trump\u2019s name back on the building\u2019s facade, setting the stage to test a judge\u2019s order from May that mandated its removal. The board, made up of mostly Trump loyalists , voted 20-3 to change the name of the building to \u201cThe John F. Kennedy Center for the Performing Arts Restored and Renovated by President Donald J. Trump\u201d while naming the center\u2019s grounds \u201cPresident Donald J. Trump Plaza,\u201d according to attendees of Thursday\u2019s meeting who spoke to multiple media outlets. The board also once again voted to close the performing arts center for up to two years for renovations.\u2026",
@@ -588,8 +560,8 @@
     "big": [
      "president",
      "removed",
-     "testing",
      "judge's",
+     "testing",
      "order"
     ],
     "indie": [
@@ -681,114 +653,6 @@
    ]
   },
   {
-   "id": "f2eae928de",
-   "topic": "Justice & Policing",
-   "summary": "An ICE agent points and threatens to use their taser on protesters outside the federal immigration center at Delaney Hall in Newark, New Jersey, where ICE is housing detained immigrants on May 27, 2026. \u2014Adam Gray\u2014Getty Images The Department of Homeland Security (DHS) is moving to equip immigration officers with gloves that can administer electrical shocks, a plan that is sparking alarm from former department officials. According to a notice published by DHS this week, it will spend up to $20 million to purchase Generated Low Output Voltage Emitters, or G.L.O.V.Es, by the end of March 2027. The department, which described the gloves in the notice as a \u201cconductive distraction and de-escalation device,\u201d said they would be issued to Immigration and Customs Enforcement (ICE) officers. \u201cICE is constantly assessing the needs of our officers in the field to ensure they have the tools and\u2026",
-   "summaryFrom": "time",
-   "emphasis": {
-    "bigCount": 6,
-    "indieCount": 2,
-    "big": [
-     "officers",
-     "shocks",
-     "million",
-     "help",
-     "painful",
-     "give"
-    ],
-    "indie": []
-   },
-   "absent": [
-    "nonprofit"
-   ],
-   "headline": "Watch: Why are ICE agents getting controversial shock gloves?",
-   "updated": "2026-08-13T23:51:20+00:00",
-   "outletCount": 7,
-   "counts": {
-    "corp": 3,
-    "family": 3,
-    "pub": 1,
-    "coop": 1
-   },
-   "newsCount": 8,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "Homan defends ICE electric shock gloves as alternative to lethal force",
-     "url": "https://thehill.com/homenews/6029034-homan-ice-electric-gloves-lethal-force-alternative/",
-     "author": "Finya Swai",
-     "kind": "news",
-     "published": "2026-08-13T23:51:20+00:00",
-     "summary": "White House border czar Tom Homan on Thursday defended plans to give Immigration and Customs Enforcement (ICE) officers gloves that can deliver painful electric shocks, arguing the devices would prevent agents from needing to resort to deadly force. \u201cIt\u2019s another device to help someone get compliant when they are not,\u201d Homan said in Thursday appearance..."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Those shock gloves ICE plans to buy can bring strong men to their knees in less than a second",
-     "url": "https://www.latimes.com/world-nation/story/2026-08-13/shock-gloves-ice-plans-to-buy-bring-men-to-their-knees",
-     "author": "Christopher Buchanan",
-     "kind": "news",
-     "published": "2026-08-13T21:35:34+00:00",
-     "summary": "The Department of Homeland Security plans to spend up to $20 million on gloves that deliver painful shocks to detainees."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "DHS seeks to purchase electric shock gloves for ICE officers",
-     "url": "https://abcnews.com/Politics/dhs-seeks-purchase-electric-shock-gloves-ice-officers/story?id=135581306",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T13:21:26+00:00",
-     "summary": "DHS is seeking up to $20 million to purchase the gloves."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Watch: Why are ICE agents getting controversial shock gloves?",
-     "url": "https://www.bbc.co.uk/news/videos/c4gv9w7p347o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T21:33:40+00:00",
-     "summary": "The BBC\u2019s Sarah Smith looks at what the new equipment could mean for the agency as tensions over immigration enforcement continue to escalate."
-    },
-    {
-     "outlet": "time",
-     "title": "\u2018A High Potential for Abuse\u2019: Plan to Equip ICE Agents With Electric Shock Gloves Draws Alarm From Former Officials",
-     "url": "https://time.com/article/2026/08/12/ice-electric-shock-gloves/",
-     "author": "Connor Greene",
-     "kind": "news",
-     "published": "2026-08-12T21:17:03+00:00",
-     "summary": "An ICE agent points and threatens to use their taser on protesters outside the federal immigration center at Delaney Hall in Newark, New Jersey, where ICE is housing detained immigrants on May 27, 2026. \u2014Adam Gray\u2014Getty Images The Department of Homeland Security (DHS) is moving to equip immigration officers with gloves that can administer electrical shocks, a plan that is sparking alarm from former department officials. According to a notice published by DHS this week, it will spend up to $20 million to purchase Generated Low Output Voltage Emitters, or G.L.O.V.Es, by the end of March 2027. The department, which described the gloves in the notice as a \u201cconductive distraction and de-escalation device,\u201d said they would be issued to Immigration and Customs Enforcement (ICE) officers. \u201cICE is constantly assessing the needs of our officers in the field to ensure they have the tools and equipment necessary to safely arrest and remove criminal illegal aliens from our country,\u201d a DHS spokesperson said in a statement to TIME. The plan to equip immigration officers with the devices comes as the Trump Administration has faced widespread scrutiny over the use of force in its immigration crackd"
-    },
-    {
-     "outlet": "404media",
-     "title": "Here's the Manual for ICE's Electric Shock Gloves",
-     "url": "https://www.404media.co/heres-the-manual-for-ices-electric-shock-gloves/",
-     "author": "Joseph Cox",
-     "kind": "news",
-     "published": "2026-08-12T20:39:23+00:00",
-     "summary": "Immigration and Customs Enforcement (ICE) plans to spend tens of millions of dollars on buying specialized gloves that pulse with electrical energy, which make it easier for agents to subdue people, the Associated Press reported on Tuesday . A user manual for G.L.O.V.E, or Generated Low Output Voltage Emitter, sold by a company called Compliant Technologies, provides more specifics on how the gloves are supposed to work and allegedly be used. &#x1f4a1; Do you know anything else about this device? I would love to hear from you. Using a non-work device, you can message me securely on Signal at joseph.404 or send me an email at joseph@404media.co."
-    },
-    {
-     "outlet": "time",
-     "title": "ICE Is Getting Body Cameras. But Will They Help Hold Agents Accountable?",
-     "url": "https://time.com/article/2026/08/12/ice-is-getting-body-cameras-but-will-they-help-hold-agents-accountable-/",
-     "author": "Rebecca Schneid",
-     "kind": "news",
-     "published": "2026-08-12T18:01:25+00:00",
-     "summary": "DHS agents survey the scene a day after an ICE agent shot and killed a man in Biddeford, Maine, on July 14, 2026. \u2014Jessica Rinaldi\u2014The Boston Globe All Immigration and Customs Enforcement (ICE) field agents will be equipped with body cameras by the end of the month, acting ICE Director David Venturella said. However, the footage acquired by the devices would only be released to the public if it is in \u201cthe best interests of the agency,\u201d according to ICE. The policy raises questions about how body cameras are meant to be used in law enforcement, as well as whom they are meant to protect. Venturella said in his statement last week that the body cameras would help the agency uphold its commitment to \u201ctransparency and accountability.\u201d However, a spokesperson for ICE tells TIME that the body cameras are needed because \u201cthe media and sanctuary politicians consistently spread smears about our law enforcement.\u201d This raises the question: Are the cameras meant to hold ICE agents accountable\u2014or protect the agency? White House \u201cborder czar\u201d Tom Homan indicated that the cameras could be useful for both purposes, saying \u201cbody cameras are the way to go\u201d to increase transparency between the agency "
-    },
-    {
-     "outlet": "axios",
-     "title": "ICE plans to put electric-shock gloves on officers' hands",
-     "url": "https://www.axios.com/2026/08/12/ice-electric-shock-gloves-millions",
-     "author": "Avery Lotz",
-     "kind": "news",
-     "published": "2026-08-12T17:54:18+00:00",
-     "summary": "Immigration and Customs Enforcement plans to begin using electric shock gloves designed to cause pain and disrupt a person's ability to react. The big picture: The gloves could give ICE officers a new way to use force as their tactics face intense scrutiny after several deaths and violent encounters . Driving the news: ICE plans to spend between $10 and $20 million on the gloves and issue them to Homeland Security Investigations and Enforcement Removal Operations officers and agents, per a Department of Homeland Security notice published Monday. The Associated Press was first to report the plan. The CTG-5 Generated Low Output Voltage Emitter, or G.L.O.V.E, is produced by Kentucky-based Compliant Technologies, which declined to comment. The device's user guide says it should not be used against verbal defiance or as a form of punishment. The manufacturer advises against using it on the elderly, children, pregnant women and those with serious disabilities. Friction point: Jenn Rolnick Borchetta, ACLU's deputy director on policing, raised concerns about how immigration agents could use the device. \"ICE spent the last year showing this country that they are willing to disregard the law"
-    }
-   ]
-  },
-  {
    "id": "1d526e010b",
    "topic": "Politics",
    "summary": "Trump Media &amp; Technology Group\u2014the company owned by President Donald Trump that operates Truth Social\u2014is facing a lawsuit alleging that its plan to monetize access to the social media posts of the president and his closest advisers through its Truth API tool is unconstitutional. Announced in July and rolled out at the start of August, Trump Media describes its API as a data feed that \"provides licensed, real-time access to posts from the highest-ranking Truth Social accounts.\" It does so at prices ranging from $60,000 to $100,000 per month, according to Trump Media CEO Kevin McGurn. Under the terms of the licensing agreement, Truth API subscribers will receive posts from the Trump administration delivered directly to their devices in \"milliseconds,\" giving them an edge over regular users scrolling through their social feeds. Filed by The Intercept and the Freedom of the Press\u2026",
@@ -798,8 +662,8 @@
     "indieCount": 3,
     "big": [
      "federal",
-     "court",
-     "filed"
+     "filed",
+     "court"
     ],
     "indie": [
      "monetize",
@@ -888,24 +752,117 @@
    ]
   },
   {
-   "id": "4219e25e19",
+   "id": "fb6f341ea0",
+   "topic": "World",
+   "summary": "Preliminary findings show fan blade broke off shortly after takeoff on 10 July flight from Greece to Germany Broken engine parts were responsible for shattering a window on a Ryanair plane, causing a passenger to be partly sucked out mid-flight in July, US investigators have said. A preliminary report by the National Transportation Safety Board (NTSB) found an engine fan blade broke off shortly after takeoff on the 10 July flight from Greece to Germany. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 3,
+    "big": [
+     "nearly",
+     "strike",
+     "incident"
+    ],
+    "indie": [
+     "shattered",
+     "broke",
+     "preliminary",
+     "parts",
+     "investigators"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Engine debris shattered Ryanair window, pulling passenger out, NTSB says",
+   "updated": "2026-08-14T08:15:17+00:00",
+   "outletCount": 6,
+   "counts": {
+    "pub": 2,
+    "nonprofit": 1,
+    "family": 2,
+    "corp": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Engine debris shattered Ryanair window, pulling passenger out, NTSB says",
+     "url": "https://www.aljazeera.com/news/2026/8/14/engine-debris-shattered-ryanair-window-pulling-passenger-out-ntsb-says?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T08:15:17+00:00",
+     "summary": "Flight crews had recorded four suspected bird strikes involving the same engine during the previous year."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Engine parts shattered Ryanair window that passenger was partly sucked out of, report says",
+     "url": "https://www.theguardian.com/business/2026/aug/14/ryanair-engine-parts-shattered-window-passenger-partly-sucked-out-of-report",
+     "author": "Joanna Partridge",
+     "kind": "news",
+     "published": "2026-08-14T07:12:48+00:00",
+     "summary": "Preliminary findings show fan blade broke off shortly after takeoff on 10 July flight from Greece to Germany Broken engine parts were responsible for shattering a window on a Ryanair plane, causing a passenger to be partly sucked out mid-flight in July, US investigators have said. A preliminary report by the National Transportation Safety Board (NTSB) found an engine fan blade broke off shortly after takeoff on the 10 July flight from Greece to Germany. Continue reading..."
+    },
+    {
+     "outlet": "nypost",
+     "title": "Bird strike may have caused disastrous Ryanair flight where passenger was nearly sucked out of window: NTSB",
+     "url": "https://nypost.com/2026/08/14/world-news/bird-strike-may-have-caused-ryanair-passenger-to-be-partially-sucked-out-of-window/",
+     "author": "Daniel Cody",
+     "kind": "news",
+     "published": "2026-08-14T04:44:39+00:00",
+     "summary": "Malta Air Flight 1879 \u2014 a Boeing 737-8AS \u2014 was climbing past 16,000 feet after departing Greece for Germany, on July 10 when a fan blade in the right engine fractured, according to the US National Transportation Safety Board."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Evidence of bird strike after man nearly sucked out of plane window, NTSB says",
+     "url": "https://www.cbsnews.com/news/ryanair-bird-strike-passenger-window-ntsb/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T00:35:00+00:00",
+     "summary": "A bird strike may have been the cause of an incident in which a passenger was nearly sucked out of a broken window aboard a Ryanair flight in Europe last month, the NTSB found."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Engine Blade Hit Window on Jet Before Man Was Partly Sucked Outside, Report Says",
+     "url": "https://www.nytimes.com/2026/08/13/world/europe/ryanair-flight-passenger-window.html",
+     "author": "Ishani Desai",
+     "kind": "news",
+     "published": "2026-08-13T23:20:33+00:00",
+     "summary": "A Ryanair plane in Thessaloniki, Greece, last May. A full investigation into an incident last month will take at least a year, federal official said."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+     "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T21:43:47+00:00",
+     "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany."
+    }
+   ]
+  },
+  {
+   "id": "764b43c404",
    "topic": "Politics",
-   "summary": "The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers , robots , and Roombas . Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make them cost a lot more. In a presidential action , he's declared a whopping 100 percent tariff on imports of drones with thermal cameras, drones weighing over 25kg (57 pounds), and any kind of part for any kind of unmanned aircraft weighing over 25kg - you can read the full list here. For all other drones, including tiny sub-250-gram \"Mini\" consumer drones, he's declared \u2026 Read the full story at The Verge.",
-   "summaryFrom": "theverge",
+   "summary": "A federal trade court ruled Thursday that President Trump can block cheap imports \u2014 including from Chinese retailers like Temu and Shein \u2014 from entering the U.S. tariff-free . Why it matters: It's a win for the Trump administration's trade agenda after a major legal setback forced officials to find new legal avenues for imposing sweeping tariffs. The Court of International Trade ruling means that Trump's suspension of the so-called de minimis exemption, which allowed packages worth $800 or less to enter the U.S. tariff-free, can continue. What they're saying: Trump took a victory lap on social media shortly after the ruling. \"For years, Foreign Shippers could send packages worth up to $800 into our Country, DUTY FREE, NO TARIFF, far less scrutiny,\" Trump posted on Truth Social . \"It became a giant loophole for TARIFF Cheats \u2014 and a Pipeline exploited by Fentanyl Traffickers,\u2026",
+   "summaryFrom": "axios",
    "emphasis": null,
    "absent": [
     "coop",
     "nonprofit"
    ],
-   "headline": "Donald Trump imposes tariffs of up to 100% on imported drones",
+   "headline": "Trump imposes tariffs of up to 100% on drone imports",
    "updated": "2026-08-14T04:27:59+00:00",
-   "outletCount": 5,
+   "outletCount": 6,
    "counts": {
     "family": 3,
-    "corp": 1,
+    "corp": 2,
     "pub": 1
    },
-   "newsCount": 5,
+   "newsCount": 6,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -929,21 +886,30 @@
     },
     {
      "outlet": "france24",
-     "title": "Donald Trump imposes tariffs of up to 100% on imported drones",
+     "title": "Trump imposes tariffs of up to 100% on drone imports",
      "url": "https://www.france24.com/en/americas/20260814-donald-trump-imposes-tariffs-of-up-to-100-on-imported-drones",
      "author": "FRANCE 24",
      "kind": "news",
      "published": "2026-08-14T00:02:12+00:00",
-     "summary": "President Donald Trump on Thursday imposed tariffs of up to 100% on imported drones and components, including from key US allies, citing national security concerns and a need to reduce US reliance on foreign suppliers. The measures will take effect in 21 days."
+     "summary": "President Donald Trump on Thursday imposed tariffs of up to 100% on imported drones and their components, including from key US allies, citing national security concerns and a need to reduce US reliance on foreign suppliers. The measures are set to take effect in 21 days."
     },
     {
      "outlet": "bloomberg",
-     "title": "Trump Slaps 100% Tariffs on Drones, Deepening China Supply Rift",
+     "title": "Trump\u2019s 100% Tariff on Drones Deepens US-China Tech Decoupling",
      "url": "https://www.bloomberg.com/news/articles/2026-08-13/trump-imposes-100-tariffs-on-certain-drones-countering-china",
      "author": "Laura Curtis, Alicia Diaz and Lucille Liu",
      "kind": "news",
      "published": "2026-08-13T21:35:57+00:00",
      "summary": "The Trump administration is imposing tariffs of as much as 100% on imported drones and their components, escalating efforts to reduce US reliance on foreign suppliers and potentially accelerating a decoupling of drone supply chains with China."
+    },
+    {
+     "outlet": "axios",
+     "title": "Trump wins legal battle to keep cheap imports subject to tariffs",
+     "url": "https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
+     "author": "Courtenay Brown",
+     "kind": "news",
+     "published": "2026-08-13T19:44:51+00:00",
+     "summary": "A federal trade court ruled Thursday that President Trump can block cheap imports \u2014 including from Chinese retailers like Temu and Shein \u2014 from entering the U.S. tariff-free . Why it matters: It's a win for the Trump administration's trade agenda after a major legal setback forced officials to find new legal avenues for imposing sweeping tariffs. The Court of International Trade ruling means that Trump's suspension of the so-called de minimis exemption, which allowed packages worth $800 or less to enter the U.S. tariff-free, can continue. What they're saying: Trump took a victory lap on social media shortly after the ruling. \"For years, Foreign Shippers could send packages worth up to $800 into our Country, DUTY FREE, NO TARIFF, far less scrutiny,\" Trump posted on Truth Social . \"It became a giant loophole for TARIFF Cheats \u2014 and a Pipeline exploited by Fentanyl Traffickers, Counterfeiters, and other Criminals shipping dangerous and illegal products into America.\" The president's suspension of the exemption brought in about $1 billion in duties in 2025, U.S. Customs and Border Protection said last year . Reality check: Congress established the de minimis exemption in 1938 to avoid "
     },
     {
      "outlet": "nyt",
@@ -957,6 +923,165 @@
    ]
   },
   {
+   "id": "f2eae928de",
+   "topic": "Justice & Policing",
+   "summary": "Immigration and Customs Enforcement plans to begin using electric shock gloves designed to cause pain and disrupt a person's ability to react. The big picture: The gloves could give ICE officers a new way to use force as their tactics face intense scrutiny after several deaths and violent encounters . Driving the news: ICE plans to spend between $10 and $20 million on the gloves and issue them to Homeland Security Investigations and Enforcement Removal Operations officers and agents, per a Department of Homeland Security notice published Monday. The Associated Press was first to report the plan. The CTG-5 Generated Low Output Voltage Emitter, or G.L.O.V.E, is produced by Kentucky-based Compliant Technologies, which declined to comment. The device's user guide says it should not be used against verbal defiance or as a form of punishment. The manufacturer advises against using it on the\u2026",
+   "summaryFrom": "axios",
+   "emphasis": {
+    "bigCount": 4,
+    "indieCount": 2,
+    "big": [
+     "officers",
+     "million",
+     "give",
+     "painful",
+     "shocks",
+     "force"
+    ],
+    "indie": []
+   },
+   "absent": [
+    "nonprofit"
+   ],
+   "headline": "Watch: Why are ICE agents getting controversial shock gloves?",
+   "updated": "2026-08-13T23:51:20+00:00",
+   "outletCount": 6,
+   "counts": {
+    "corp": 3,
+    "family": 1,
+    "pub": 1,
+    "coop": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "Homan defends ICE electric shock gloves as alternative to lethal force",
+     "url": "https://thehill.com/homenews/6029034-homan-ice-electric-gloves-lethal-force-alternative/",
+     "author": "Finya Swai",
+     "kind": "news",
+     "published": "2026-08-13T23:51:20+00:00",
+     "summary": "White House border czar Tom Homan on Thursday defended plans to give Immigration and Customs Enforcement (ICE) officers gloves that can deliver painful electric shocks, arguing the devices would prevent agents from needing to resort to deadly force. \u201cIt\u2019s another device to help someone get compliant when they are not,\u201d Homan said in Thursday appearance..."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Those shock gloves ICE plans to buy can bring strong men to their knees in less than a second",
+     "url": "https://www.latimes.com/world-nation/story/2026-08-13/shock-gloves-ice-plans-to-buy-bring-men-to-their-knees",
+     "author": "Christopher Buchanan",
+     "kind": "news",
+     "published": "2026-08-13T21:35:34+00:00",
+     "summary": "The Department of Homeland Security plans to spend up to $20 million on gloves that deliver painful shocks to detainees."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "DHS seeks to purchase electric shock gloves for ICE officers",
+     "url": "https://abcnews.com/Politics/dhs-seeks-purchase-electric-shock-gloves-ice-officers/story?id=135581306",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T13:21:26+00:00",
+     "summary": "DHS is seeking up to $20 million to purchase the gloves."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Watch: Why are ICE agents getting controversial shock gloves?",
+     "url": "https://www.bbc.co.uk/news/videos/c4gv9w7p347o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T21:33:40+00:00",
+     "summary": "The BBC\u2019s Sarah Smith looks at what the new equipment could mean for the agency as tensions over immigration enforcement continue to escalate."
+    },
+    {
+     "outlet": "404media",
+     "title": "Here's the Manual for ICE's Electric Shock Gloves",
+     "url": "https://www.404media.co/heres-the-manual-for-ices-electric-shock-gloves/",
+     "author": "Joseph Cox",
+     "kind": "news",
+     "published": "2026-08-12T20:39:23+00:00",
+     "summary": "Immigration and Customs Enforcement (ICE) plans to spend tens of millions of dollars on buying specialized gloves that pulse with electrical energy, which make it easier for agents to subdue people, the Associated Press reported on Tuesday . A user manual for G.L.O.V.E, or Generated Low Output Voltage Emitter, sold by a company called Compliant Technologies, provides more specifics on how the gloves are supposed to work and allegedly be used. &#x1f4a1; Do you know anything else about this device? I would love to hear from you. Using a non-work device, you can message me securely on Signal at joseph.404 or send me an email at joseph@404media.co."
+    },
+    {
+     "outlet": "axios",
+     "title": "ICE plans to put electric-shock gloves on officers' hands",
+     "url": "https://www.axios.com/2026/08/12/ice-electric-shock-gloves-millions",
+     "author": "Avery Lotz",
+     "kind": "news",
+     "published": "2026-08-12T17:54:18+00:00",
+     "summary": "Immigration and Customs Enforcement plans to begin using electric shock gloves designed to cause pain and disrupt a person's ability to react. The big picture: The gloves could give ICE officers a new way to use force as their tactics face intense scrutiny after several deaths and violent encounters . Driving the news: ICE plans to spend between $10 and $20 million on the gloves and issue them to Homeland Security Investigations and Enforcement Removal Operations officers and agents, per a Department of Homeland Security notice published Monday. The Associated Press was first to report the plan. The CTG-5 Generated Low Output Voltage Emitter, or G.L.O.V.E, is produced by Kentucky-based Compliant Technologies, which declined to comment. The device's user guide says it should not be used against verbal defiance or as a form of punishment. The manufacturer advises against using it on the elderly, children, pregnant women and those with serious disabilities. Friction point: Jenn Rolnick Borchetta, ACLU's deputy director on policing, raised concerns about how immigration agents could use the device. \"ICE spent the last year showing this country that they are willing to disregard the law"
+    }
+   ]
+  },
+  {
+   "id": "6f27a4399a",
+   "topic": "Politics",
+   "summary": "Reform UK leader says result \u2018speaks for itself\u2019, as Essex police deny that they warned him not to attend vote count Farage wins Clacton byelection in contest boycotted by every other major party This election is a novelty with a record 34 candidates, including Howling Laud Hope of The Official Monster Raving Loony Party and Marcus White from the Everyone is God Party. They have pounded the streets of Clacton over the past few weeks as they seek to win the support of about 80,000 voters. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Clacton byelection: Farage beats Count Binface but skips result announcement \u2013 UK politics live",
+   "updated": "2026-08-14T08:21:00+00:00",
+   "outletCount": 5,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 3,
+    "family": 1
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Clacton byelection: Farage beats Count Binface but skips result announcement \u2013 UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/aug/14/clacton-byelection-nigel-farage-count-binface-reform-uk-finances-donations-investigation-latest-news-updates",
+     "author": "Vivian Ho (now); Tom Ambrose and Adam Fulton (earlier)",
+     "kind": "news",
+     "published": "2026-08-14T08:21:00+00:00",
+     "summary": "Reform UK leader says result \u2018speaks for itself\u2019, as Essex police deny that they warned him not to attend vote count Farage wins Clacton byelection in contest boycotted by every other major party This election is a novelty with a record 34 candidates, including Howling Laud Hope of The Official Monster Raving Loony Party and Marcus White from the Everyone is God Party. They have pounded the streets of Clacton over the past few weeks as they seek to win the support of about 80,000 voters. Continue reading..."
+    },
+    {
+     "outlet": "dw",
+     "title": "UK: Nigel Farage beats a trash can in Clacton by-election",
+     "url": "https://www.dw.com/en/uk-nigel-farage-beats-a-trash-can-in-clacton-by-election/a-78362464?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T07:32:00+00:00",
+     "summary": "Nigel Farage reclaimed his Clacton seat with 63% of the vote, but his main rival, Count Binface, took over a quarter, as Farage skipped the count citing security concerns."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Nigel Farage defeats Count Binface to reclaim UK parliamentary seat",
+     "url": "https://www.aljazeera.com/news/2026/8/14/nigel-farage-defeats-count-binface-to-reclaim-uk-parliamentary-seat?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T07:07:42+00:00",
+     "summary": "The Reform UK leader received 22,239 votes in the Clacton by-election, compared with 9,455 for Binface."
+    },
+    {
+     "outlet": "france24",
+     "title": "Nigel Farage beats Count Binface to regain UK parliamentary seat in widely mocked by-election",
+     "url": "https://www.france24.com/en/europe/20260814-nigel-farage-beats-count-binface-regain-uk-parliamentary-seat-by-election",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-14T06:34:35+00:00",
+     "summary": "The anti-immigrant Reform UK party leader Nigel Farage beat comic opponent Count Binface on Friday as was expected, regaining the seat in Parliament he quit a month ago to trigger the widely mocked by-election in the seaside town of Clacton."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "UK's Farage Defeats Count Binface in Special Election",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-14/uk-s-farage-defeats-count-binface-in-special-election-video",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T06:02:09+00:00",
+     "summary": "Reform UK leader Nigel Farage is returning to Parliament after an election win in the constituency centered on the English resort town of Clacton-on-Sea. Farage got 62.8% of the vote, comfortably defeating his main competitor \u2014 the satirical candidate Count Binface, who received a personal-best 26.7%. The governing Labour Party and the opposition Conservatives both boycotted the special election. Bloomberg\u2019s Lucy White has the details. (Source: Bloomberg)"
+    }
+   ]
+  },
+  {
    "id": "67607c797a",
    "topic": "Politics",
    "summary": "Donald Trump just won\u2019t let go of his plans for the Kennedy Center. Less than three months after a federal judge ordered the president\u2019s name stripped from the national arts center, Trump\u2019s handpicked trustees have found a new way to try to put him back on the building. During a board meeting today, they voted in favor of a resolution that would return the president\u2019s name to the building\u2019s facade. It would read: The John F. Kennedy Memorial Center for the Performing Arts Restored and Renovated by President Donald Trump I obtained a copy of the resolution, which contains one more edit to the Kennedy Center\u2019s marble edifice. Once an obscure endowment known as the Trump Kennedy Center Fund reaches $100 million in donations, the resolution would expand the proposed signage\u2019s language to include a third line: Endowed by the Trump Kennedy Center Fund . The vote, which was not included on the\u2026",
@@ -966,11 +1091,11 @@
     "indieCount": 2,
     "big": [
      "voted",
-     "building",
      "president",
      "donald",
+     "building",
      "federal",
-     "resolution"
+     "judge"
     ],
     "indie": [
      "move"
@@ -1117,11 +1242,11 @@
     "bigCount": 3,
     "indieCount": 3,
     "big": [
-     "member",
-     "knowings",
-     "nickelodeon",
      "star",
-     "christy"
+     "nickelodeon",
+     "christy",
+     "member",
+     "knowings"
     ],
     "indie": [
      "trump",
@@ -1200,75 +1325,6 @@
      "kind": "news",
      "published": "2026-08-12T16:17:55+00:00",
      "summary": "Emergency services, residents and environmental groups say military dropping flares to destroy forests and crops Firefighters and residents of south Lebanon have accused the Israeli military of lighting wildfires in the region, as forested areas burned down in blazes sparked by Israeli bombing. Environmental groups said the fires in recent weeks were part of a longstanding Israeli practice of targeting Lebanon\u2019s natural environment. Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "852a236d6b",
-   "topic": "World",
-   "summary": "Japanese PM says islands seized by Soviets late in second world war are part of her country under international law The Japanese government has reacted angrily to Vladimir Putin\u2019s first visit to the disputed Kuril Islands, which are claimed by both Tokyo and Moscow. Japan\u2019s foreign minister, Toshimitsu Motegi, summoned the Russian ambassador Nikolay Nozdrev, while the prime minister, Sanae Takaichi, called Putin\u2019s actions \u201cabsolutely unacceptable\u201d. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
-   "updated": "2026-08-13T16:40:26+00:00",
-   "outletCount": 5,
-   "counts": {
-    "nonprofit": 2,
-    "pub": 3
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "npr",
-     "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
-     "url": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-13T16:40:26+00:00",
-     "summary": "The four southernmost islands of the chain also are claimed by Japan, which calls them the Northern Territories. (Image credit: Gavriil Grigorov)"
-    },
-    {
-     "outlet": "france24",
-     "title": "Japan protests Putin's first visit to disputed islands",
-     "url": "https://www.france24.com/en/video/20260813-japan-protests-putin-s-first-visit-to-disputed-islands",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-13T15:06:07+00:00",
-     "summary": "President Vladimir Putin visited Russia's far-eastern Kuril islands for the first time on Thursday, prompting protests by Japan which also claims the territory."
-    },
-    {
-     "outlet": "guardian",
-     "title": "\u2018Absolutely unacceptable\u2019: Japan condemns visit by Vladimir Putin to disputed Kuril Islands",
-     "url": "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands",
-     "author": "Gavin Blair in Tokyo",
-     "kind": "news",
-     "published": "2026-08-13T12:56:57+00:00",
-     "summary": "Japanese PM says islands seized by Soviets late in second world war are part of her country under international law The Japanese government has reacted angrily to Vladimir Putin\u2019s first visit to the disputed Kuril Islands, which are claimed by both Tokyo and Moscow. Japan\u2019s foreign minister, Toshimitsu Motegi, summoned the Russian ambassador Nikolay Nozdrev, while the prime minister, Sanae Takaichi, called Putin\u2019s actions \u201cabsolutely unacceptable\u201d. Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
-     "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T09:54:03+00:00",
-     "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media."
-    },
-    {
-     "outlet": "dw",
-     "title": "Russia's Putin angers Japan with 1st visit to Kuril Islands",
-     "url": "https://www.dw.com/en/russia-s-putin-angers-japan-with-1st-visit-to-kuril-islands/a-78345291?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T06:06:00+00:00",
-     "summary": "Japan says it has summoned the Russian ambassador to \"strongly protest\" President Vladimir Putin's trip to the disputed Kuril Islands."
     }
    ]
   },
@@ -1409,66 +1465,6 @@
    ]
   },
   {
-   "id": "b462e5a0a4",
-   "topic": "World",
-   "summary": "Malta Air Flight 1879 \u2014 a Boeing 737-8AS \u2014 was climbing past 16,000 feet after departing Greece for Germany, on July 10 when a fan blade in the right engine fractured, according to the US National Transportation Safety Board.",
-   "summaryFrom": "nypost",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-   "updated": "2026-08-14T04:44:39+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 2,
-    "corp": 1,
-    "pub": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Bird strike may have caused disastrous Ryanair flight where passenger was nearly sucked out of window: NTSB",
-     "url": "https://nypost.com/2026/08/14/world-news/bird-strike-may-have-caused-ryanair-passenger-to-be-partially-sucked-out-of-window/",
-     "author": "Daniel Cody",
-     "kind": "news",
-     "published": "2026-08-14T04:44:39+00:00",
-     "summary": "Malta Air Flight 1879 \u2014 a Boeing 737-8AS \u2014 was climbing past 16,000 feet after departing Greece for Germany, on July 10 when a fan blade in the right engine fractured, according to the US National Transportation Safety Board."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Evidence of bird strike after man nearly sucked out of plane window, NTSB says",
-     "url": "https://www.cbsnews.com/news/ryanair-bird-strike-passenger-window-ntsb/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T00:35:00+00:00",
-     "summary": "A bird strike may have been the cause of an incident in which a passenger was nearly sucked out of a broken window aboard a Ryanair flight in Europe last month, the NTSB found."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Engine Blade Hit Window on Jet Before Man Was Partly Sucked Outside, Report Says",
-     "url": "https://www.nytimes.com/2026/08/13/world/europe/ryanair-flight-passenger-window.html",
-     "author": "Ishani Desai",
-     "kind": "news",
-     "published": "2026-08-13T23:20:33+00:00",
-     "summary": "A Ryanair plane in Thessaloniki, Greece, last May. A full investigation into an incident last month will take at least a year, federal official said."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-     "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T21:43:47+00:00",
-     "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany."
-    }
-   ]
-  },
-  {
    "id": "2fe02e6aa3",
    "topic": "Politics",
    "summary": "On this day in 2025, 37-year-old paralegal Sean Dunn was charged with felony assault for throwing a sandwich at an immigration agent in Washington, DC. In an early fiasco for Fox host turned DC U.S. attorney Jeanine Pirro, the charge was downgraded before Dunn was acquitted. Happy Thursday! Swin here. There&#8217;s an episode from the classic era of &#8216;The Simpsons&#8217; (yeah that&#8217;s right; I&#8217;m referencing the show again ) in which the billionaire Republican tyrant Mr. Burns jumps in an escape pod and mercilessly locks out his ultra-sycophantic assistant, Waylon Smithers , because Burns wants more leg room, all the while expecting his yes-man to keep on serving. Donald Trump did his version with his decoy Air Force One caper &#8211; and I&#8217;m very sorry, I simply cannot pretend it isn&#8217;t tremendously funny. In today&#8217;s &#8216; First Draft ,&#8217; we get\u2026",
@@ -1477,9 +1473,9 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
+     "switch",
      "threat",
-     "turkey",
-     "switch"
+     "turkey"
     ],
     "indie": []
    },
@@ -1549,9 +1545,9 @@
      "major"
     ],
     "indie": [
+     "only",
      "allows",
-     "five",
-     "only"
+     "five"
     ]
    },
    "absent": [
@@ -1678,6 +1674,66 @@
    ]
   },
   {
+   "id": "852a236d6b",
+   "topic": "World",
+   "summary": "Japanese PM says islands seized by Soviets late in second world war are part of her country under international law The Japanese government has reacted angrily to Vladimir Putin\u2019s first visit to the disputed Kuril Islands, which are claimed by both Tokyo and Moscow. Japan\u2019s foreign minister, Toshimitsu Motegi, summoned the Russian ambassador Nikolay Nozdrev, while the prime minister, Sanae Takaichi, called Putin\u2019s actions \u201cabsolutely unacceptable\u201d. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
+   "updated": "2026-08-13T16:40:26+00:00",
+   "outletCount": 4,
+   "counts": {
+    "nonprofit": 2,
+    "pub": 2
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "npr",
+     "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
+     "url": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-13T16:40:26+00:00",
+     "summary": "The four southernmost islands of the chain also are claimed by Japan, which calls them the Northern Territories. (Image credit: Gavriil Grigorov)"
+    },
+    {
+     "outlet": "france24",
+     "title": "Japan protests Putin's first visit to disputed islands",
+     "url": "https://www.france24.com/en/video/20260813-japan-protests-putin-s-first-visit-to-disputed-islands",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-13T15:06:07+00:00",
+     "summary": "President Vladimir Putin visited Russia's far-eastern Kuril islands for the first time on Thursday, prompting protests by Japan which also claims the territory."
+    },
+    {
+     "outlet": "guardian",
+     "title": "\u2018Absolutely unacceptable\u2019: Japan condemns visit by Vladimir Putin to disputed Kuril Islands",
+     "url": "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands",
+     "author": "Gavin Blair in Tokyo",
+     "kind": "news",
+     "published": "2026-08-13T12:56:57+00:00",
+     "summary": "Japanese PM says islands seized by Soviets late in second world war are part of her country under international law The Japanese government has reacted angrily to Vladimir Putin\u2019s first visit to the disputed Kuril Islands, which are claimed by both Tokyo and Moscow. Japan\u2019s foreign minister, Toshimitsu Motegi, summoned the Russian ambassador Nikolay Nozdrev, while the prime minister, Sanae Takaichi, called Putin\u2019s actions \u201cabsolutely unacceptable\u201d. Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
+     "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T09:54:03+00:00",
+     "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media."
+    }
+   ]
+  },
+  {
    "id": "50b18ce1a8",
    "topic": "Other",
    "summary": "Democratic Wisconsin gubernatorial candidate Francesca Hong speaks to reporters after voting in the primary election on August 11, 2026, in Madison, Wisconsin. | Scott Olson/Getty Images It turns out there is a limit to how far left Democrats are willing to go with a crucial swing state on the line.&nbsp; Francesca Hong ran up against that wall on Tuesday, falling short in her race against Milwaukee County Executive David Crowley for the Democratic gubernatorial nomination in Wisconsin.&nbsp; He\u2019ll go up against Rep. Tom Tiffany, a Republican backed by President Donald Trump and closely associated with his MAGA movement, setting up a major contrast in a state where elections are often decided by paper-thin margins. Had Hong won, she would have had a chance to become the first democratic socialist governor in any state in US history. And Hong was the story of the election for most of the\u2026",
@@ -1738,53 +1794,155 @@
    ]
   },
   {
-   "id": "6f27a4399a",
+   "id": "5df5205baa",
    "topic": "Politics",
-   "summary": "Reform UK leader says result \u2018speaks for itself\u2019 after refusing to attend vote count in byelection he tried to frame as the \u2018people versus the establishment\u2019 Farage wins Clacton byelection in contest boycotted by every other major party This election is a novelty with a record 34 candidates, including Howling Laud Hope of The Official Monster Raving Loony Party and Marcus White from the Everyone is God Party. They have pounded the streets of Clacton over the past few weeks as they seek to win the support of about 80,000 voters. Continue reading...",
-   "summaryFrom": "guardian",
+   "summary": "Trump administration officials and allies suspect US Attorney for DC Jeanine Pirro might be trying to get back on President Donald Trump\u2019s good side by convening a rare special grand jury in the district. The move followed Trump\u2019s repeated, public criticisms of Pirro over her decision to drop charges in a Reflecting Pool vandalism case. Some officials see the special grand jury move as an obvious ploy to \u201csave her job at all costs,\u201d as one administration official put it. And while the subject of the probe is unclear, it also comes just days after Pirro received a contempt recommendation for former health official Anthony Fauci from a GOP-controlled Senate committee. Others say Trump might already be over the Reflecting Pool debacle and that Pirro\u2019s job is safe \u2014 after all, she remains in her role, even amid criticism from people in the White House like Peter Navarro. \u2014 Shelby Talcott",
+   "summaryFrom": "semafor",
    "emphasis": null,
    "absent": [
-    "corp",
-    "family",
-    "coop"
+    "coop",
+    "nonprofit",
+    "pub"
    ],
-   "headline": "Clacton byelection: Farage beats Count Binface but skips result announcement \u2013 UK politics live",
-   "updated": "2026-08-14T06:34:56+00:00",
+   "headline": "Pirro\u2019s special grand jury raises eyebrows among Trump allies",
+   "updated": "2026-08-14T08:25:06+00:00",
    "outletCount": 3,
    "counts": {
-    "nonprofit": 1,
-    "pub": 2
+    "family": 2,
+    "corp": 1
    },
    "newsCount": 3,
    "opinionCount": 0,
-   "underreported": true,
+   "underreported": false,
    "articles": [
     {
-     "outlet": "guardian",
-     "title": "Clacton byelection: Farage beats Count Binface but skips result announcement \u2013 UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/aug/14/clacton-byelection-nigel-farage-count-binface-reform-uk-finances-donations-investigation-latest-news-updates",
-     "author": "Tom Ambrose (now) and Adam Fulton (earlier)",
+     "outlet": "semafor",
+     "title": "Pirro\u2019s special grand jury raises eyebrows among Trump allies",
+     "url": "https://www.semafor.com/article/08/14/2026/pirros-special-grand-jury-raises-eyebrows-among-trump-allies",
+     "author": "Shelby Talcott",
      "kind": "news",
-     "published": "2026-08-14T06:34:56+00:00",
-     "summary": "Reform UK leader says result \u2018speaks for itself\u2019 after refusing to attend vote count in byelection he tried to frame as the \u2018people versus the establishment\u2019 Farage wins Clacton byelection in contest boycotted by every other major party This election is a novelty with a record 34 candidates, including Howling Laud Hope of The Official Monster Raving Loony Party and Marcus White from the Everyone is God Party. They have pounded the streets of Clacton over the past few weeks as they seek to win the support of about 80,000 voters. Continue reading..."
+     "published": "2026-08-14T08:25:06+00:00",
+     "summary": "Trump administration officials and allies suspect US Attorney for DC Jeanine Pirro might be trying to get back on President Donald Trump\u2019s good side by convening a rare special grand jury in the district. The move followed Trump\u2019s repeated, public criticisms of Pirro over her decision to drop charges in a Reflecting Pool vandalism case. Some officials see the special grand jury move as an obvious ploy to \u201csave her job at all costs,\u201d as one administration official put it. And while the subject of the probe is unclear, it also comes just days after Pirro received a contempt recommendation for former health official Anthony Fauci from a GOP-controlled Senate committee. Others say Trump might already be over the Reflecting Pool debacle and that Pirro\u2019s job is safe \u2014 after all, she remains in her role, even amid criticism from people in the White House like Peter Navarro. \u2014 Shelby Talcott"
     },
     {
-     "outlet": "france24",
-     "title": "Nigel Farage beats Count Binface to regain UK parliamentary seat in widely mocked by-election",
-     "url": "https://www.france24.com/en/europe/20260814-nigel-farage-beats-count-binface-regain-uk-parliamentary-seat-by-election",
-     "author": "FRANCE 24",
+     "outlet": "dailybeast",
+     "title": "Leavitt\u2019s Shock Exit Raises Eyebrows After New Trump Perk",
+     "url": "https://www.thedailybeast.com/leavitts-shock-exit-raises-eyebrows-after-new-trump-perk-from-doj/",
+     "author": "Vic Verbalaitis",
      "kind": "news",
-     "published": "2026-08-14T06:34:35+00:00",
-     "summary": "The anti-immigrant Reform UK party leader Nigel Farage beat comic opponent Count Binface on Friday as was expected, regaining the seat in Parliament he quit a month ago to trigger the widely mocked by-election in the seaside town of Clacton."
+     "published": "2026-08-13T19:49:39+00:00",
+     "summary": "Jonathan Ernst / REUTERS The timing of Karoline Leavitt\u2019s surprise departure from the White House may be more calculated than it seems. The 28-year-old press secretary\u2019s announcement on Wednesday that she would be leaving the White House and supporting President Donald Trump as an \u201coutside adviser\u201d comes just two days after the Justice Department shared a memo extending the president\u2019s \u201cexecutive privilege\u201d to \u201cprivate advisers.\u201d The memo , as noted during a panel discussion on MS NOW\u2019s On the Line on Thursday, followed almost immediately after Attorney General Todd Blanche, Trump\u2019s former personal lawyer, was officially sworn in on Monday. Read more at The Daily Beast."
     },
     {
-     "outlet": "aljazeera",
-     "title": "Al Jazeera speaks to Count Binface as Farage claims Clacton victory",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-clacton-by-election-reported?traffic_source=rss",
-     "author": null,
+     "outlet": "wapo",
+     "title": "Pirro, in rare move, convenes special grand jury in Washington",
+     "url": "https://www.washingtonpost.com/national-security/2026/08/12/pirro-convenes-unusual-grand-jury-dc-that-can-focus-single-case-issue-report/",
+     "author": "Perry Stein, Salvador Rizzo",
      "kind": "news",
-     "published": "2026-08-14T04:38:50+00:00",
-     "summary": "Al Jazeera\u2019s Jonah Hull spoke to candidate for MP, Count Binface, as votes were counted in Clacton."
+     "published": "2026-08-12T09:00:00+00:00",
+     "summary": "Unlike typical grand juries, those designated as special focus on a single case or related cases and can issue a report following their investigation."
+    }
+   ]
+  },
+  {
+   "id": "60d88abab5",
+   "topic": "Politics",
+   "summary": "The News Top tech companies whose CEOs have allied with President Donald Trump are staying quiet so far about a new Justice Department memo that signals an executive privilege assertion over a wide swath of his communications with the private sector. Spokespeople for SpaceX, Nvidia, OpenAI, Meta, and Apple did not respond to requests for comment on the memo by the DOJ\u2019s Office of Legal Counsel, which argues that privilege covers contacts with \u201cprivate advisers \u2026 so long as they relate to official presidential decisionmaking.\u201d It\u2019s a sign that the administration is preparing to challenge investigations by a potential House Democratic majority. Any attempt to shield private-sector communications, which Democrats are eager to seek as a way around administration stonewalling, would likely be litigated. Top Oversight Committee Democrat Rep. Robert Garcia of California said that \u201cwe are ready\u2026",
+   "summaryFrom": "semafor",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Trump Administration Claims Executive Privilege Over White House Conversations With Private Advisers",
+   "updated": "2026-08-14T08:24:04+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "semafor",
+     "title": "Tech companies mum on Trump executive privilege memo",
+     "url": "https://www.semafor.com/article/08/13/2026/tech-companies-mum-on-trump-executive-privilege-memo",
+     "author": "Nicholas Wu",
+     "kind": "news",
+     "published": "2026-08-14T08:24:04+00:00",
+     "summary": "The News Top tech companies whose CEOs have allied with President Donald Trump are staying quiet so far about a new Justice Department memo that signals an executive privilege assertion over a wide swath of his communications with the private sector. Spokespeople for SpaceX, Nvidia, OpenAI, Meta, and Apple did not respond to requests for comment on the memo by the DOJ\u2019s Office of Legal Counsel, which argues that privilege covers contacts with \u201cprivate advisers \u2026 so long as they relate to official presidential decisionmaking.\u201d It\u2019s a sign that the administration is preparing to challenge investigations by a potential House Democratic majority. Any attempt to shield private-sector communications, which Democrats are eager to seek as a way around administration stonewalling, would likely be litigated. Top Oversight Committee Democrat Rep. Robert Garcia of California said that \u201cwe are ready to fight to uphold our power and authority.\u201d Know More One legal expert warned that this week\u2019s broad assertion by the administration, if it holds up to scrutiny, might draw in a large group of corporate leaders who are in contact with Trump, especially in light of his freewheeling communication sty"
+    },
+    {
+     "outlet": "reason",
+     "title": "Trump Administration Claims Executive Privilege Over White House Conversations With Private Advisers",
+     "url": "https://reason.com/2026/08/12/trump-administration-claims-executive-privilege-over-white-house-conversations-with-private-advisers/",
+     "author": "C.J. Ciaramella",
+     "kind": "opinion",
+     "published": "2026-08-12T19:16:44+00:00",
+     "summary": "The Justice Department Office of Legal Counsel (OLC) released a memo Monday extending the president's \"executive privilege\" to claim confidentiality over White House communications with private advisers. The memo says the White House can withhold \"communications with private advisers so long as the communications relate to official presidential decisionmaking, involve or reflect communications with the President or his direct advisers.\" The new policy would frustrate congressional Democrats' attempts to investigate the White House if they win back the House in the 2026 midterm elections, which they are favored to do. The memo also alarmed government watchdog and transparency groups. \"This is the latest attempt by this administration to reduce transparency,\" Scott Amey, general counsel for the Project on Government Oversight (POGO), says. \"The executive branch has cut resources that ensure public access to government information and taken down information from public websites. It has claimed that the Presidential Records Act is unconstitutional. And now it claims that presidential communications with people outside the government can be shielded as privileged. It's hard not to read "
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump administration set to spend at least $900 million on White House construction",
+     "url": "https://www.washingtonpost.com/investigations/2026/08/12/trump-administration-set-spend-least-900-million-white-house-construction/",
+     "author": "Jonathan O'Connell, Sarah Blaskey",
+     "kind": "news",
+     "published": "2026-08-12T10:00:01+00:00",
+     "summary": "The price tag is much larger than what has been previously reported, according to a Post review of confidential contracts, and taxpayers would cover most of it."
+    }
+   ]
+  },
+  {
+   "id": "6f590f5a22",
+   "topic": "Other",
+   "summary": "Mahamadou Hamidou / REUTERS Kevin Rideout, an American missionary pilot who was kidnapped in Niger\u2019s capital Niamey last October, has been released. Rideout, 50, is now in U.S. hands and on his way back to America, the New York Times reported late on Thursday, citing information from two U.S. officials. Proof-of-life images released to the officials demonstrated the pilot was in good health. Rideout had been working as a Christian missionary in Niger for 19 years. Last October he was seized by three unidentified men while on his way to the airport with an evangelical group he was working with, according to Reuters . The kidnappers then took Rideout and headed toward the western Tillaberi region of \u200bNiger, where Islamist militants linked to Islamic State and al Qaeda are active. His release has been a priority for the White House and the military\u2019s Africa Command. The U.S. military has\u2026",
+   "summaryFrom": "dailybeast",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "American missionary kidnapped in Niger said to be released: report",
+   "updated": "2026-08-14T08:02:59+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "American missionary kidnapped in Niger said to be released: report",
+     "url": "https://nypost.com/2026/08/14/world-news/american-missionary-kidnapped-in-niger-said-to-be-released-nyt-reports/",
+     "author": "Reuters",
+     "kind": "news",
+     "published": "2026-08-14T08:02:59+00:00",
+     "summary": "American missionary pilot Kevin Rideout has been released after being kidnapped in Niger last October and is safely in US hands."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Kidnapped American Pilot Freed in Mystery Release",
+     "url": "https://www.thedailybeast.com/kidnapped-american-pilot-kevin-rideout-freed-in-mystery-release/",
+     "author": "Cameron Adams",
+     "kind": "news",
+     "published": "2026-08-14T05:00:46+00:00",
+     "summary": "Mahamadou Hamidou / REUTERS Kevin Rideout, an American missionary pilot who was kidnapped in Niger\u2019s capital Niamey last October, has been released. Rideout, 50, is now in U.S. hands and on his way back to America, the New York Times reported late on Thursday, citing information from two U.S. officials. Proof-of-life images released to the officials demonstrated the pilot was in good health. Rideout had been working as a Christian missionary in Niger for 19 years. Last October he was seized by three unidentified men while on his way to the airport with an evangelical group he was working with, according to Reuters . The kidnappers then took Rideout and headed toward the western Tillaberi region of \u200bNiger, where Islamist militants linked to Islamic State and al Qaeda are active. His release has been a priority for the White House and the military\u2019s Africa Command. The U.S. military has been assisting neighboring Nigeria in training and surveillance missions in its fight against jihadists. The Times said Nigeria permitted the U.S. to operate surveillance missions from its bases, partly to try to locate Rideout. The two officials who spoke to the Times said details of how and where Ri"
+    },
+    {
+     "outlet": "nyt",
+     "title": "American Missionary Kidnapped in Niger Is Said to Be Released From Captivity",
+     "url": "https://www.nytimes.com/2026/08/13/us/politics/kevin-rideout-niger-islamic-state.html",
+     "author": "Eric Schmitt and Maggie Haberman",
+     "kind": "news",
+     "published": "2026-08-14T04:25:38+00:00",
+     "summary": "The release of Kevin Rideout, an American missionary pilot who was seized in Niger\u2019s capital last fall, has been a priority for the White House."
     }
    ]
   },
@@ -1840,24 +1998,24 @@
    ]
   },
   {
-   "id": "d061156952",
+   "id": "52211d4cd6",
    "topic": "Politics",
-   "summary": "White House correspondents are largely singing the praises of outgoing press secretary Karoline Leavitt as she prepares to exit the role after just over 18 months on the job. President Donald Trump first revealed on Truth Social Wednesday that Leavitt, 28, would leave her role at the end of the month to spend more time with her family. Leavitt has earned a reputation as a skilled spokesperson who paved the way for nontraditional media outlets to have a voice in the White House. Others see her simply as the mouthpiece for a president who carefully crafted her rhetoric to satisfy an audience of one \u2014 Trump himself. SCRAMBLE FOR KAROLINE LEAVITT'S REPLACEMENT ENSUES WITH JUST WEEKS UNTIL TRUMP'S SPOKESPERSON EXITS Fox News senior White House correspondent Jacqui Heinrich , who now serves as the president of the White House Correspondents\u2019 Association, reacted to the news live on air. \"She\u2026",
-   "summaryFrom": "foxnews",
+   "summary": "Photo Illustration by Victoria Sunday/The Daily Beast/Getty Images CNN pundit Scott Jennings has been grilled on rumors about him taking over as Donald Trump\u2019s press secretary. Karoline Leavitt is vacating the role to spend more time with her family, and the MAGA commentator is frontrunner to take on the prominent White House job, sources with knowledge of the situation told the Daily Beast . During an appearance on CNN\u2019s The Source on Thursday, host Kaitlan Collins asked Jennings about the reports. Read more at The Daily Beast.",
+   "summaryFrom": "dailybeast",
    "emphasis": null,
    "absent": [
     "coop",
-    "nonprofit",
-    "pub"
+    "nonprofit"
    ],
-   "headline": "Jimmy Fallon Reacts to Karoline Leavitt\u2019s White House Exit",
+   "headline": "Watch: Key moments from Karoline Leavitt's White House tenure",
    "updated": "2026-08-14T05:34:38+00:00",
    "outletCount": 3,
    "counts": {
-    "family": 2,
-    "corp": 2
+    "family": 1,
+    "corp": 1,
+    "pub": 1
    },
-   "newsCount": 4,
+   "newsCount": 3,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -1877,30 +2035,21 @@
      "author": "Cameron Adams",
      "kind": "news",
      "published": "2026-08-14T01:53:20+00:00",
-     "summary": "Photo Illustration by Victoria Sunday/The Daily Beast/Getty Images CNN correspondent Scott Jennings has been grilled on rumors about him taking over as the new White House press secretary. Karoline Leavitt is vacating the role to spend more time with her family, with the MAGA commentator now the current frontrunner to take on the prominent role, sources with knowledge of the situation told the Daily Beast . During an appearance on CNN\u2019s The Source on Thursday, host Kaitlan Collins asked Jennings about the reports. Read more at The Daily Beast."
+     "summary": "Photo Illustration by Victoria Sunday/The Daily Beast/Getty Images CNN pundit Scott Jennings has been grilled on rumors about him taking over as Donald Trump\u2019s press secretary. Karoline Leavitt is vacating the role to spend more time with her family, and the MAGA commentator is frontrunner to take on the prominent White House job, sources with knowledge of the situation told the Daily Beast . During an appearance on CNN\u2019s The Source on Thursday, host Kaitlan Collins asked Jennings about the reports. Read more at The Daily Beast."
     },
     {
-     "outlet": "foxnews",
-     "title": "White House correspondents widely praise Karoline Leavitt as she announces exit from Trump administration",
-     "url": "https://www.foxnews.com/media/white-house-correspondents-praise-karoline-leavitt-announces-exit-trump-administration",
+     "outlet": "bbc",
+     "title": "Watch: Key moments from Karoline Leavitt's White House tenure",
+     "url": "https://www.bbc.co.uk/news/videos/c86nd59z7vqo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-13T22:33:37+00:00",
-     "summary": "White House correspondents are largely singing the praises of outgoing press secretary Karoline Leavitt as she prepares to exit the role after just over 18 months on the job. President Donald Trump first revealed on Truth Social Wednesday that Leavitt, 28, would leave her role at the end of the month to spend more time with her family. Leavitt has earned a reputation as a skilled spokesperson who paved the way for nontraditional media outlets to have a voice in the White House. Others see her simply as the mouthpiece for a president who carefully crafted her rhetoric to satisfy an audience of one \u2014 Trump himself. SCRAMBLE FOR KAROLINE LEAVITT'S REPLACEMENT ENSUES WITH JUST WEEKS UNTIL TRUMP'S SPOKESPERSON EXITS Fox News senior White House correspondent Jacqui Heinrich , who now serves as the president of the White House Correspondents\u2019 Association, reacted to the news live on air. \"She is the youngest press secretary in history, huge achievement in and of itself, and was a very effective messenger for this administration,\" Heinrich said. Heinrich added that Leavitt was \"very accessible and in the room with the president,\" which is not always the case. \"Under the Biden administratio"
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Leavitt\u2019s Shock Exit Raises Eyebrows After New Trump Perk",
-     "url": "https://www.thedailybeast.com/leavitts-shock-exit-raises-eyebrows-after-new-trump-perk-from-doj/",
-     "author": "Vic Verbalaitis",
-     "kind": "news",
-     "published": "2026-08-13T19:49:39+00:00",
-     "summary": "Jonathan Ernst / REUTERS The timing of Karoline Leavitt\u2019s surprise departure from the White House may be more calculated than it seems. The 28-year-old press secretary\u2019s announcement on Wednesday that she would be leaving the White House and supporting President Donald Trump as an \u201coutside adviser\u201d comes just two days after the Justice Department shared a memo extending the president\u2019s \u201cexecutive privilege\u201d to \u201cprivate advisers.\u201d The memo , as noted during a panel discussion on MS NOW\u2019s On the Line on Thursday, followed almost immediately after Attorney General Todd Blanche, Trump\u2019s former personal lawyer, was officially sworn in on Monday. Read more at The Daily Beast."
+     "published": "2026-08-12T22:56:32+00:00",
+     "summary": "Leavitt became the youngest press secretary in the country's history when she took the job in January 2025 at age 27."
     }
    ]
   },
   {
-   "id": "f6816ab7f0",
+   "id": "d5d7bd5e33",
    "topic": "Climate & Energy",
    "summary": "\"Balance of Power: Late Edition\" focuses on the intersection of politics and global business. On today's show, Former Secretary of Defense Mark Esper, says he agrees with President Trump's strategy for an economic blockade and expects US forces to remain in the region for an extended period. Cait Conley, Democratic Candidate for US House in New York's 17th District, says data centers can be a net positive for communities. Sen. Jack Reed (D-RI) says the Pentagon has failed to adequately communicate with both Republicans and Democrats about operations in Iran. (Source: Bloomberg)",
    "summaryFrom": "bloomberg",
@@ -1909,7 +2058,7 @@
     "coop",
     "nonprofit"
    ],
-   "headline": "Live: US sailors report dire conditions as replacement carrier heads to Middle East",
+   "headline": "US sailors report dire conditions as replacement carrier heads to Middle East",
    "updated": "2026-08-14T05:30:36+00:00",
    "outletCount": 3,
    "counts": {
@@ -1923,12 +2072,12 @@
    "articles": [
     {
      "outlet": "france24",
-     "title": "Live: US sailors report dire conditions as replacement carrier heads to Middle East",
+     "title": "US sailors report dire conditions as replacement carrier heads to Middle East",
      "url": "https://www.france24.com/en/new-us-aircraft-carrier-heads-towards-middle-east-after-reports-of-dire-conditions-on-uss-lincoln",
      "author": "FRANCE24",
      "kind": "news",
      "published": "2026-08-14T05:30:36+00:00",
-     "summary": "Reports of declining mental health and supply issues have been flagged by US sailors aboard the aircraft carrier USS Lincoln deployed to the Middle East, with some attempting to throw themselves into the sea. The ship has so far spent a record 260 uninterrupted days at sea as it supports the war in Iran, and is expected to be replaced by the Pacific-based USS George Washington en route to the area. Follow our liveblog for the latest updates."
+     "summary": "Reports of declining mental health and supply issues have been flagged by US sailors aboard the aircraft carrier USS Lincoln deployed to the Middle East, with some attempting to throw themselves into the sea. The ship has so far spent a record 260 uninterrupted days at sea as it supports the war in Iran, and is expected to be replaced by the Pacific-based USS George Washington en route to the area."
     },
     {
      "outlet": "bloomberg",
@@ -2206,6 +2355,57 @@
    ]
   },
   {
+   "id": "9827badc79",
+   "topic": "World",
+   "summary": "Jared Kushner, President Trump's envoy and son-in-law, is planning to visit Israel next week for talks on the situation in Gaza , according to five sources with knowledge of the plan. Why it matters: This would be Kushner's first trip to Israel since January. It comes as the White House and Trump's Board of Peace are trying to push forward with the next phase of the Gaza plan, which focuses on disarming Hamas and a potential Israeli withdrawal. The Netanyahu government is highly skeptical of the U.S. Gaza plan, and the upcoming election in October is making the issue even more politically sensitive. \"We see eye-to-eye on the strategic goal, but Israel has expressed some doubts about the plan and we want to talk to them in order to make sure we are coordinated,\" a U.S. official said, while noting the exact dates of the trip could change. Driving the news: Trump announced two weeks ago\u2026",
+   "summaryFrom": "axios",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Kushner to Visit Israel Next Week for Talks on Gaza Peace Plan",
+   "updated": "2026-08-14T01:01:15+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bloomberg",
+     "title": "Kushner to Visit Israel Next Week for Talks on Gaza Peace Plan",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-14/kushner-to-visit-israel-next-week-for-talks-on-gaza-peace-plan",
+     "author": "Courtney Subramanian",
+     "kind": "news",
+     "published": "2026-08-14T01:01:15+00:00",
+     "summary": "Jared Kushner, President Donald Trump\u2019s son-in-law and peace envoy, is planning to travel to Israel next week for talks on the situation in Gaza as Washington continues to push for diplomatic progress on its long-delayed peace plan, according to a US official."
+    },
+    {
+     "outlet": "axios",
+     "title": "Kushner set to visit Israel, Egypt next week for Gaza talks",
+     "url": "https://www.axios.com/2026/08/13/kushner-israel-gaza-netanyahu",
+     "author": "Barak Ravid",
+     "kind": "news",
+     "published": "2026-08-13T21:44:47+00:00",
+     "summary": "Jared Kushner, President Trump's envoy and son-in-law, is planning to visit Israel next week for talks on the situation in Gaza , according to five sources with knowledge of the plan. Why it matters: This would be Kushner's first trip to Israel since January. It comes as the White House and Trump's Board of Peace are trying to push forward with the next phase of the Gaza plan, which focuses on disarming Hamas and a potential Israeli withdrawal. The Netanyahu government is highly skeptical of the U.S. Gaza plan, and the upcoming election in October is making the issue even more politically sensitive. \"We see eye-to-eye on the strategic goal, but Israel has expressed some doubts about the plan and we want to talk to them in order to make sure we are coordinated,\" a U.S. official said, while noting the exact dates of the trip could change. Driving the news: Trump announced two weeks ago that his Board of Peace had reached an agreement with Hamas to disarm and transfer civilian and security control of Gaza to a new Palestinian technocratic government. On Sunday, under pressure from his coalition partners and political opponents, Netanyahu publicly rejected the plan for disarming Hamas."
+    },
+    {
+     "outlet": "semafor",
+     "title": "US-backed peace plan under scrutiny as Israel launches strike on Gaza",
+     "url": "https://www.semafor.com/article/08/13/2026/us-backed-peace-plan-under-scrutiny-as-israel-launches-strike-on-gaza",
+     "author": "Prashant Rao",
+     "kind": "news",
+     "published": "2026-08-13T12:59:53+00:00",
+     "summary": "Israel launched its first strike on Gaza in a week, intensifying questions over the prospects for a renewed US-backed peace effort. One person was wounded in the attack ; overall, more than 1,250 people have been killed in the territory since October, when Washington unveiled a plan to end the Gaza war. Israel\u2019s prime minister over the weekend rejected the latest push to curb violence in the territory, though the White House downplayed the remarks as political posturing ahead of October elections . In the West Bank, meanwhile, 76 Palestinians and three Israelis have been killed this year as tensions have surged over what the UN described as \u201c unprecedented levels \u201d of violence by Israeli settlers there. \u2014 Prashant Rao"
+    }
+   ]
+  },
+  {
    "id": "ff77677147",
    "topic": "Justice & Policing",
    "summary": "A shocking video shows an ICE agent pointing his gun at a woman in Virginia while claiming she almost ran him and his colleagues over, an action the Homeland Security Department has defended. The woman denies that she tried to hit the agents with her car. CBS News' Camilo Montoya-Galvez breaks it down.",
@@ -2419,25 +2619,25 @@
    ]
   },
   {
-   "id": "60d88abab5",
+   "id": "a8532f9dea",
    "topic": "Politics",
-   "summary": "The Justice Department Office of Legal Counsel (OLC) released a memo Monday extending the president's \"executive privilege\" to claim confidentiality over White House communications with private advisers. The memo says the White House can withhold \"communications with private advisers so long as the communications relate to official presidential decisionmaking, involve or reflect communications with the President or his direct advisers.\" The new policy would frustrate congressional Democrats' attempts to investigate the White House if they win back the House in the 2026 midterm elections, which they are favored to do. The memo also alarmed government watchdog and transparency groups. \"This is the latest attempt by this administration to reduce transparency,\" Scott Amey, general counsel for the Project on Government Oversight (POGO), says. \"The executive branch has cut resources that\u2026",
-   "summaryFrom": "reason",
+   "summary": "A group of Senate Democrats called on the Government Accountability Office (GAO) to conduct an audit into the White House ballroom project following new reporting on the Trump administration\u2019s multi-million-dollar construction projects. The Washington Post reported Wednesday on confidential contracts that showed the administration is expected to spend at least $900 million on White House...",
+   "summaryFrom": "thehill",
    "emphasis": null,
    "absent": [
     "coop",
+    "nonprofit",
     "pub"
    ],
-   "headline": "Trump Administration Claims Executive Privilege Over White House Conversations With Private Advisers",
+   "headline": "Senate Democrats call for GAO audit of White House ballroom project",
    "updated": "2026-08-13T23:13:01+00:00",
    "outletCount": 3,
    "counts": {
-    "corp": 1,
-    "family": 2,
-    "nonprofit": 1
+    "corp": 2,
+    "family": 1
    },
    "newsCount": 3,
-   "opinionCount": 1,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
@@ -2459,73 +2659,13 @@
      "summary": "The senators\u2019 letter says the administration\u2019s handling of the project raises \u201cconcerns about transparency, accountability, and stewardship of this national landmark.\u201d"
     },
     {
-     "outlet": "reason",
-     "title": "Trump Administration Claims Executive Privilege Over White House Conversations With Private Advisers",
-     "url": "https://reason.com/2026/08/12/trump-administration-claims-executive-privilege-over-white-house-conversations-with-private-advisers/",
-     "author": "C.J. Ciaramella",
-     "kind": "opinion",
-     "published": "2026-08-12T19:16:44+00:00",
-     "summary": "The Justice Department Office of Legal Counsel (OLC) released a memo Monday extending the president's \"executive privilege\" to claim confidentiality over White House communications with private advisers. The memo says the White House can withhold \"communications with private advisers so long as the communications relate to official presidential decisionmaking, involve or reflect communications with the President or his direct advisers.\" The new policy would frustrate congressional Democrats' attempts to investigate the White House if they win back the House in the 2026 midterm elections, which they are favored to do. The memo also alarmed government watchdog and transparency groups. \"This is the latest attempt by this administration to reduce transparency,\" Scott Amey, general counsel for the Project on Government Oversight (POGO), says. \"The executive branch has cut resources that ensure public access to government information and taken down information from public websites. It has claimed that the Presidential Records Act is unconstitutional. And now it claims that presidential communications with people outside the government can be shielded as privileged. It's hard not to read "
-    },
-    {
-     "outlet": "wapo",
-     "title": "Trump administration set to spend at least $900 million on White House construction",
-     "url": "https://www.washingtonpost.com/investigations/2026/08/12/trump-administration-set-spend-least-900-million-white-house-construction/",
-     "author": "Jonathan O'Connell, Sarah Blaskey",
+     "outlet": "rollingstone",
+     "title": "Trump Is Spending Nearly $1 Billion in Taxpayer Money on Gaudy White House Renovations: Report",
+     "url": "https://www.rollingstone.com/politics/politics-news/trump-spending-billion-white-house-renovations-1235607598/",
+     "author": "Nikkimccannramirez",
      "kind": "news",
-     "published": "2026-08-12T10:00:01+00:00",
-     "summary": "The price tag is much larger than what has been previously reported, according to a Post review of confidential contracts, and taxpayers would cover most of it."
-    }
-   ]
-  },
-  {
-   "id": "0d064af9e9",
-   "topic": "Business & Economy",
-   "summary": "The sports world was stunned this week when reports broke that the Los Angeles Lakers had been sold again less than a year after the franchise's most recent sale. Not just because of the massive $12 billion price tag, and the speed with which the deal came together, nor that the new ownership group is being headed by former Disney company CEO Bob Iger . But because the now-former ownership group was headed by Mark Walter, one of the most successful sports owners in recent history. Walter is the CEO of Guggenheim Partners, a massive, $350 billion global financial services company. And as such, is the lead owner of the Los Angeles Dodgers. The same Dodgers who have won back-to-back World Series titles, and become the convenient villain for fans and the other owners, desperate to make increase their profits. DAVE ROBERTS CALLS CRITICISM OF DODGERS' SPENDING 'LAZY,' SAYS RIVALS SHOULD 'LOOK\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Could Shohei Ohtani leave the Los Angeles Dodgers if Mark Walter sells the team after Lakers deal?",
-   "updated": "2026-08-13T22:35:34+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 2,
-    "coop": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Could Shohei Ohtani leave the Los Angeles Dodgers if Mark Walter sells the team after Lakers deal?",
-     "url": "https://www.foxnews.com/outkick-sports/shohei-ohtani-leave-los-angeles-dodgers-mark-walter-sells-team-lakers-deal",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T22:35:34+00:00",
-     "summary": "The sports world was stunned this week when reports broke that the Los Angeles Lakers had been sold again less than a year after the franchise's most recent sale. Not just because of the massive $12 billion price tag, and the speed with which the deal came together, nor that the new ownership group is being headed by former Disney company CEO Bob Iger . But because the now-former ownership group was headed by Mark Walter, one of the most successful sports owners in recent history. Walter is the CEO of Guggenheim Partners, a massive, $350 billion global financial services company. And as such, is the lead owner of the Los Angeles Dodgers. The same Dodgers who have won back-to-back World Series titles, and become the convenient villain for fans and the other owners, desperate to make increase their profits. DAVE ROBERTS CALLS CRITICISM OF DODGERS' SPENDING 'LAZY,' SAYS RIVALS SHOULD 'LOOK IN THE MIRROR' So one of the richest men in the country, who's already successfully revamped the Dodgers into a behemoth, was set to bring his financial wherewithal and acumen to one of the most iconic organizations in the NBA . Then, less than a year after the deal was officially approved, he sells"
-    },
-    {
-     "outlet": "semafor",
-     "title": "Los Angeles Lakers sold for record $12.5 billion",
-     "url": "https://www.semafor.com/article/08/12/2026/los-angeles-lakers-sold-for-record-125-billion",
-     "author": "Brendan Ruberry",
-     "kind": "news",
-     "published": "2026-08-12T22:30:30+00:00",
-     "summary": "Former Disney chief Bob Iger and investor Josh Kushner are buying the NBA\u2019s Los Angeles Lakers for a record-setting $12.5 billion, just 14 months after the team sold for $10 billion . Valuations for professional sports franchises have soared to eye-popping levels, as billionaires search for a dwindling number of trophy assets: Last month, the estate of late Microsoft co-founder Paul Allen sold the Seattle Seahawks to venture capitalist Vinod Khosla for nearly $10 billion . And the co-founder of Chinese tech company Xiaomi bought a 1% stake in the Miami Dolphins in a deal that valued the team at $12.5 billion, more than a decade after Time Warner\u2019s former CEO bought it for $1 billion. \u2014 Brendan Ruberry"
-    },
-    {
-     "outlet": "defector",
-     "title": "Lakers Owner Mark Walter Suddenly Sells Team Amid Federal Investigation",
-     "url": "https://defector.com/lakers-owner-mark-walter-suddenly-sells-team-amid-federal-investigation",
-     "author": "Patrick Redford",
-     "kind": "news",
-     "published": "2026-08-12T19:21:03+00:00",
-     "summary": "Out of nowhere, and after only a few short days of negotiations, Joshua Kushner and Bob Iger have agreed to buy the Los Angeles Lakers from Mark Walter for a reported record price of $12.5 billion. Every part of that sentence is wild, especially given the recent financial maneuverings of Walter and Kushner. Let's start with Walter, who bought the Lakers in June 2025 for $10 billion. Walter also owns the Los Angeles Dodgers and has turned them into an organization so hyper-competent that it has made people who should know better argue for a salary cap in baseball. Walter's takeover of one of the NBA's flagship franchises was the most significant acquisition in a recent wave of sales that included the Celtics , Trail Blazers , and Timberwolves . As of the second half of this past season, Walter was beginning the process of replacing longtime functionaries of the previous ownership group, the Buss family. With Luka Doncic around, the long-term future of the team seemed secure. However, Walter's position was not as secure as it seemed. Bloomberg reported on July 20 that the federal government was conducting an investigation into Walter's Guggenheim Partners over some suspicious account"
+     "published": "2026-08-12T18:37:51+00:00",
+     "summary": "The White House is funneling millions into executive maintenance accounts without oversight or approval from Congress, The Washington Post reports"
     }
    ]
   },
@@ -2628,57 +2768,6 @@
      "kind": "news",
      "published": "2026-08-12T22:52:40+00:00",
      "summary": "The biological parents won a temporary restraining order against the surrogate, who tried to claim parental rights, and are with their baby, their attorneys say."
-    }
-   ]
-  },
-  {
-   "id": "ea333e4ab5",
-   "topic": "World",
-   "summary": "Strikes by Russia and Ukraine against each other\u2019s grain export infrastructure are further straining already stretched global food supply chains. The attacks come as both look to reassert dominance over the Black Sea, a key conduit for barley, corn, and wheat. Experts fear a prolonged assault could lead to a sudden jump in global food prices like the one caused by Russia\u2019s blockade of Ukraine\u2019s exports in 2022. Such a spike could exacerbate difficulties in some of the world\u2019s poorest countries: Extreme weather caused by the El Ni\u00f1o weather system threatens to push 50 million into food insecurity , many in countries already grappling with Western aid cuts that dealt a major blow to child hunger programs . \u2014 Jeronimo Gonzalez",
-   "summaryFrom": "semafor",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "Ukraine \u2018offering Russia deal to halt attacks on civilian ships in Black Sea\u2019",
-   "updated": "2026-08-13T17:13:33+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 1,
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Ukraine \u2018offering Russia deal to halt attacks on civilian ships in Black Sea\u2019",
-     "url": "https://www.theguardian.com/world/2026/aug/13/ukraine-proposes-deal-with-russia-to-halt-attacks-on-civilian-ships-in-black-sea",
-     "author": "Luke Harding, Andrew Roth in Washington and agencies",
-     "kind": "news",
-     "published": "2026-08-13T17:13:33+00:00",
-     "summary": "Kyiv reportedly suggested mutual agreement in attempt to reopen crucial grain corridor Ukraine has proposed a deal with Russia for both sides to halt their attacks on civilian ships in the Black Sea in an apparent attempt to reopen a crucial grain corridor, Reuters reports. Kyiv is said to have made the offer through a third party. Moscow has yet to respond, the news agency added. The busy waterway is a key export route for both Russia and Ukraine, used to transport grain and other vital foodstuffs worldwide. Continue reading..."
-    },
-    {
-     "outlet": "france24",
-     "title": "Russia-Ukraine war: Grain hub attacks raise fears over global food prices",
-     "url": "https://www.france24.com/en/video/20260813-russia-ukraine-war-grain-hub-attacks-raise-fears-over-global-food-prices",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-13T16:53:05+00:00",
-     "summary": "Kyiv and Moscow have been trading attacks on each other's grain warehouses, as concerns mount that global food prices could rise as a result. Russia struck Ukraine's largest grain shipment port on the Danube overnight, causing damage and setting off a fire. The attack came a day after Ukraine hit Novorossiysk, a major grain hub in Russia's part of the Black Sea."
-    },
-    {
-     "outlet": "semafor",
-     "title": "Strikes on Black Sea ports threaten global grain supplies",
-     "url": "https://www.semafor.com/article/08/13/2026/tit-for-tat-strikes-in-russia-ukraine-threaten-global-grain-supplies",
-     "author": "Jeronimo Gonzalez",
-     "kind": "news",
-     "published": "2026-08-13T12:20:44+00:00",
-     "summary": "Strikes by Russia and Ukraine against each other\u2019s grain export infrastructure are further straining already stretched global food supply chains. The attacks come as both look to reassert dominance over the Black Sea, a key conduit for barley, corn, and wheat. Experts fear a prolonged assault could lead to a sudden jump in global food prices like the one caused by Russia\u2019s blockade of Ukraine\u2019s exports in 2022. Such a spike could exacerbate difficulties in some of the world\u2019s poorest countries: Extreme weather caused by the El Ni\u00f1o weather system threatens to push 50 million into food insecurity , many in countries already grappling with Western aid cuts that dealt a major blow to child hunger programs . \u2014 Jeronimo Gonzalez"
     }
    ]
   },
@@ -2836,57 +2925,6 @@
    ]
   },
   {
-   "id": "d646eb270d",
-   "topic": "Health",
-   "summary": "Mehmet Oz, Administrator for the Centers for Medicare &amp; Medicaid Services, speaks at the White House on Sept. 30, 2025, with the backing of President Donald Trump and Secretary of Health and Human Services Robert F. Kennedy, Jr. \u2014Alex Brandon\u2014AP The Trump Administration announced Tuesday that it is implementing a rule to restrict federal funding of gender-affirming care for minors. The rule put forth by the Centers for Medicare and Medicaid Services (CMS) bars Medicaid from paying for what it calls \u201csex-rejecting procedures for children under 18.\u201d Also restricted is funding from Children's Health Insurance Program (CHIP), a state and federal program that provides low-cost coverage to families that make too much money to qualify for Medicaid. \"The federal government will no longer use Medicaid and CHIP dollars to fund procedures that fail to meet the evidentiary standard our children\u2026",
-   "summaryFrom": "time",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Trump administration finalizes rule to end federal support for gender-affirming care",
-   "updated": "2026-08-13T11:00:56+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 1,
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Trump administration finalizes rule to end federal support for gender-affirming care",
-     "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-administration-gender-affirming-care",
-     "author": "Melody Schreiber",
-     "kind": "news",
-     "published": "2026-08-13T11:00:56+00:00",
-     "summary": "Move blocking funds through Medicaid and Chip to make it harder for vulnerable children to get healthcare, experts say The Trump administration finalized a rule on Tuesday to end gender-affirming care through Medicaid and the Children\u2019s Health Insurance Program (Chip), a move that will make it harder for vulnerable children to access healthcare and that eschews evidence to advance an anti-transgender ideology, opponents say. The rule is set to take effect on 13 October \u2013 but legal challenges could delay or block it entirely. Continue reading..."
-    },
-    {
-     "outlet": "time",
-     "title": "Trump\u2019s New Medicaid Rule Targets Gender-Affirming Care for Minors",
-     "url": "https://time.com/article/2026/08/12/trans-youth-face-a-new-barrier-to-gender-affirming-care-medicaid/",
-     "author": "Rebecca Schneid",
-     "kind": "news",
-     "published": "2026-08-12T20:27:21+00:00",
-     "summary": "Mehmet Oz, Administrator for the Centers for Medicare &amp; Medicaid Services, speaks at the White House on Sept. 30, 2025, with the backing of President Donald Trump and Secretary of Health and Human Services Robert F. Kennedy, Jr. \u2014Alex Brandon\u2014AP The Trump Administration announced Tuesday that it is implementing a rule to restrict federal funding of gender-affirming care for minors. The rule put forth by the Centers for Medicare and Medicaid Services (CMS) bars Medicaid from paying for what it calls \u201csex-rejecting procedures for children under 18.\u201d Also restricted is funding from Children's Health Insurance Program (CHIP), a state and federal program that provides low-cost coverage to families that make too much money to qualify for Medicaid. \"The federal government will no longer use Medicaid and CHIP dollars to fund procedures that fail to meet the evidentiary standard our children deserve,\" Health and Human Services Secretary Robert F. Kennedy Jr. said in a press statement about the rule. Under the new rule, which goes into effect Oct. 13, states can still fund certain treatments\u2014including hormone therapies, puberty blockers, and some surgical procedures\u2014but federal dollars w"
-    },
-    {
-     "outlet": "axios",
-     "title": "Trump admin cuts Medicaid funds for youth trans care",
-     "url": "https://www.axios.com/2026/08/11/trump-medicaid-youth-transgender-health-care",
-     "author": "Maya Goldman",
-     "kind": "news",
-     "published": "2026-08-11T21:39:29+00:00",
-     "summary": "The Trump administration on Tuesday finalized a plan to cut off federal Medicaid funding for hormone therapy, puberty blockers and surgeries for transgender youths. Why it matters: The rule is the latest escalation in the administration's effort to limit transition-related care , which has tested the boundaries of executive powers and could undercut federal and state protections. States may still use their own funds to cover gender-affirming care for youth in Medicaid or the Children's Health Insurance Program. The Centers for Medicare and Medicaid Services rule doesn't cut off federal funding for psychotherapy related to gender dysphoria. State of play: Beginning Oct. 13, states will not be able to claim federal Medicaid funding for gender-affirming health services, which the Trump administration refers to as \"sex-rejecting procedures.\" There will be a six-month period where states can continue to get funding for beneficiaries taking gender-affirming hormone therapies. Seventeen states currently cover some degree of gender-affirming care for children under Medicaid and CHIP, according to the rule. The administration said it's adopting the policy \"help to protect these children\" fr"
-    }
-   ]
-  },
-  {
    "id": "43e9647547",
    "topic": "Other",
    "summary": "NPR's Juana Summers speaks with Amanda Litman, co-founder of the PAC Run For Something, about the results from the Aug. 11 Democratic primary elections.",
@@ -2934,6 +2972,174 @@
      "kind": "news",
      "published": "2026-08-12T10:00:01+00:00",
      "summary": "Democrats fought over age and ideology, while Republicans tested the value of President Donald Trump\u2019s endorsement."
+    }
+   ]
+  },
+  {
+   "id": "254c845a15",
+   "topic": "Justice & Policing",
+   "summary": "A man is arrested after eight works by the French artist are found at a home in greater S\u00e3o Paulo.",
+   "summaryFrom": "bbc",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Stolen Matisse artworks recovered by police in Brazil",
+   "updated": "2026-08-14T08:34:19+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Stolen Matisse artworks recovered by police in Brazil",
+     "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T08:34:19+00:00",
+     "summary": "A man is arrested after eight works by the French artist are found at a home in greater S\u00e3o Paulo."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Stolen Matisse art found in Brazil",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/stolen-matisse-art-found-in-brazil?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T07:47:05+00:00",
+     "summary": "Stolen Matisse art found in Brazil"
+    }
+   ]
+  },
+  {
+   "id": "9c4f3ee13c",
+   "topic": "Climate & Energy",
+   "summary": "Tropical Storm Lala could bring heavy rain, high winds and dangerous surf and rip currents to the Hawaiian Islands as a hurricane this weekend, forecasters say.",
+   "summaryFrom": "cbsnews",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Tropical Storm Lala: Spaghetti Models Show Path Headed For Hawaii",
+   "updated": "2026-08-14T08:10:06+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "Tropical Storm Lala: Spaghetti Models Show Path Headed For Hawaii",
+     "url": "https://www.newsweek.com/tropical-storm-lala-spaghetti-models-show-path-headed-for-hawaii-12321751",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T08:10:06+00:00",
+     "summary": "Forecasters have warned the system is expected to reach hurricane strength as it approaches Hawaii&#039;s Big Island."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Tropical Storm Lala eyeing Hawaii, forecast to bring heavy rain as hurricane",
+     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T06:59:00+00:00",
+     "summary": "Tropical Storm Lala could bring heavy rain, high winds and dangerous surf and rip currents to the Hawaiian Islands as a hurricane this weekend, forecasters say."
+    }
+   ]
+  },
+  {
+   "id": "c4c98cf79e",
+   "topic": "Politics",
+   "summary": "Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from London, we set the agenda for your day, catching you up with overnight markets news from the US and Asia. And we'll tell you what matters for investors in Europe, giving you insight before trading begins. On today's show, The US government sold 30-year bonds at the highest interest rate in a quarter century, a testament to investors\u2019 demand for greater compensation to finance the nation\u2019s growing deficit. OpenAI is on track to generate annualized revenue of more than $40 billion based on its current performance, according to people familiar with the matter, roughly doubling its run rate from the end of 2025 and bolstering the company\u2019s plans for a Wall Street debut. Today's guest: Alexandra Ivanova, Fixed Income Team Fund Manager, Invesco. (Source: Bloomberg)",
+   "summaryFrom": "bloomberg",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Farage Wins Special U.K. Election That He Initiated, as Expected",
+   "updated": "2026-08-14T07:35:29+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "Farage Wins Special U.K. Election That He Initiated, as Expected",
+     "url": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html",
+     "author": "Michael D. Shear",
+     "kind": "opinion",
+     "published": "2026-08-14T07:35:29+00:00",
+     "summary": "Nigel Farage, the leader of Reform U.K., won the Clacton by-election with 63 percent. Count Binface, his costumed main rival, came second with 27 percent, a personal best."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "US Debt Costs Climb; Farage Wins UK Special Election | Daybreak Europe 8/14/2026",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-14/daybreak-europe-8-14-2026-video",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T07:01:29+00:00",
+     "summary": "Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from London, we set the agenda for your day, catching you up with overnight markets news from the US and Asia. And we'll tell you what matters for investors in Europe, giving you insight before trading begins. On today's show, The US government sold 30-year bonds at the highest interest rate in a quarter century, a testament to investors\u2019 demand for greater compensation to finance the nation\u2019s growing deficit. OpenAI is on track to generate annualized revenue of more than $40 billion based on its current performance, according to people familiar with the matter, roughly doubling its run rate from the end of 2025 and bolstering the company\u2019s plans for a Wall Street debut. Today's guest: Alexandra Ivanova, Fixed Income Team Fund Manager, Invesco. (Source: Bloomberg)"
+    }
+   ]
+  },
+  {
+   "id": "ba010268d7",
+   "topic": "Other",
+   "summary": "Live, rolling coverage of business, economics and financial markets as regulator says five companies can raise bills to pay for infrastructure for new housing and datacentres The biggest factor for the FTSE 100 \u2019s underperformance on Thursday morning relative to other European markets is a big decline in the mining sector . Chilean miner Antofagasta is the biggest faller on London\u2019s benchmark index, down 4.9% after it cut its guidance for future output. The London-listed miner cut its 2026 copper output estimate to between 625,000 and 655,000 metric tons, from a previous forecast of 650,000 to 700,000 tons, due to a shutdown at its Los Pelambres mine in July after extreme rains prompted Chile\u2019s government to declare a \u201cstate of catastrophe\u201d in the Coquimbo Region. While there has been no material impact on key equipment and infrastructure, the miner said it will need to repair some\u2026",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Andy Burnham \u2018angry\u2019 over water company bill increases; Sports Direct owner buys Harvey Nichols \u2013 as it happened",
+   "updated": "2026-08-14T07:24:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "forbes",
+     "title": "Frasers Buys Harvey Nichols, Faces One Of Toughest Revivals In Luxury",
+     "url": "https://www.forbes.com/sites/markfaithfull/2026/08/14/frasers-buys-harvey-nichols-faces-one-of-toughest-revivals-in-luxury/",
+     "author": "Mark Faithfull, Contributor",
+     "kind": "news",
+     "published": "2026-08-14T07:24:00+00:00",
+     "summary": "The 195-year-old luxury retailer is falling into the hands of colorful billionaire retail mogul Mike Ashley and its future is set to be very different from its past."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Andy Burnham \u2018angry\u2019 over water company bill increases; Sports Direct owner buys Harvey Nichols \u2013 as it happened",
+     "url": "https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates",
+     "author": "Jasper Jolly",
+     "kind": "news",
+     "published": "2026-08-13T13:58:42+00:00",
+     "summary": "Live, rolling coverage of business, economics and financial markets as regulator says five companies can raise bills to pay for infrastructure for new housing and datacentres The biggest factor for the FTSE 100 \u2019s underperformance on Thursday morning relative to other European markets is a big decline in the mining sector . Chilean miner Antofagasta is the biggest faller on London\u2019s benchmark index, down 4.9% after it cut its guidance for future output. The London-listed miner cut its 2026 copper output estimate to between 625,000 and 655,000 metric tons, from a previous forecast of 650,000 to 700,000 tons, due to a shutdown at its Los Pelambres mine in July after extreme rains prompted Chile\u2019s government to declare a \u201cstate of catastrophe\u201d in the Coquimbo Region. While there has been no material impact on key equipment and infrastructure, the miner said it will need to repair some pipeline platforms and water management systems. Continue reading..."
     }
    ]
   },
@@ -3064,99 +3270,6 @@
    ]
   },
   {
-   "id": "c4c98cf79e",
-   "topic": "Politics",
-   "summary": "Reform UK leader Nigel Farage is returning to Parliament after an election win in the constituency centered on the English resort town of Clacton-on-Sea. Farage got 62.8% of the vote, comfortably defeating his main competitor, the satirical candidate Count Binface, who received a personal-best 26.7%. The governing Labour Party and the opposition Conservatives both boycotted the special election. Bloomberg's Lucy White has the details. (Source: Bloomberg)",
-   "summaryFrom": "bloomberg",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Farage Wins Special U.K. Election That He Initiated, as Expected",
-   "updated": "2026-08-14T06:05:46+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 3
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Farage Wins Special U.K. Election That He Initiated, as Expected",
-     "url": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html",
-     "author": "Michael D. Shear",
-     "kind": "opinion",
-     "published": "2026-08-14T06:05:46+00:00",
-     "summary": "Nigel Farage, the leader of Reform U.K., won the Clacton by-election with 63 percent. Count Binface, his costumed main rival, came second with 27 percent, a personal best."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "UK's Farage Defeats Count Binface in Special Election",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-14/uk-s-farage-defeats-count-binface-in-special-election-video",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T06:02:09+00:00",
-     "summary": "Reform UK leader Nigel Farage is returning to Parliament after an election win in the constituency centered on the English resort town of Clacton-on-Sea. Farage got 62.8% of the vote, comfortably defeating his main competitor, the satirical candidate Count Binface, who received a personal-best 26.7%. The governing Labour Party and the opposition Conservatives both boycotted the special election. Bloomberg's Lucy White has the details. (Source: Bloomberg)"
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Farage Wins UK Election Meant to Counter Ethics Probe",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-14/farage-retains-seat-in-uk-election-meant-to-counter-ethics-probe",
-     "author": "Teddy Stoddart",
-     "kind": "news",
-     "published": "2026-08-14T05:05:44+00:00",
-     "summary": "Nigel Farage is returning to Parliament after a comfortable election win over a satirical candidate dressed as a trash can, but the victory is unlikely to quiet questions about the Reform UK leader\u2019s personal finances."
-    }
-   ]
-  },
-  {
-   "id": "ece47a4c11",
-   "topic": "World",
-   "summary": "Exceptionally high revenues, particularly from war aid for Russia, are consolidating the power of North Korea's autocratic leader. A small number of people in the country are benefiting from an economic boom.",
-   "summaryFrom": "dw",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "North Korea fumes over upcoming US-South Korea military drills",
-   "updated": "2026-08-14T05:40:45+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "North Korea fumes over upcoming US-South Korea military drills",
-     "url": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T05:40:45+00:00",
-     "summary": "Pyongyang has accused the US of pushing the world &#039;to the brink of nuclear war&#039;."
-    },
-    {
-     "outlet": "dw",
-     "title": "How North Korea has profited from its support for Russia",
-     "url": "https://www.dw.com/en/how-north-korea-has-profited-from-its-support-for-russia/a-78345289?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T05:38:00+00:00",
-     "summary": "Exceptionally high revenues, particularly from war aid for Russia, are consolidating the power of North Korea's autocratic leader. A small number of people in the country are benefiting from an economic boom."
-    }
-   ]
-  },
-  {
    "id": "c7db1e9a9c",
    "topic": "Business & Economy",
    "summary": "Drop Site is a reader-funded, independent news outlet. Without your support, we can&#8217;t operate. Please consider becoming a paid subscriber or making a 501(c)(3) tax-deductible donation today . Subscribe now Israeli settlers continue their raids on the Palestinian village of Taybeh in the occupied West Bank despite the Israeli army declaring the area a 'closed military zone,' on August 10, 2026. Photo by Issam Rimawi/Anadolu via Getty Images. TAYBEH, Occupied West Bank*&#8212;On Sunday, the Israeli military declared the Palestinian village of Taybeh in the occupied West Bank a closed military zone, claiming the order was aimed to prevent escalating attacks by marauding Israeli settlers. It ostensibly bars Israelis and foreigners from entering the area. But residents of the village and the surrounding area told Drop Site News that the military order is designed to further isolate\u2026",
@@ -3195,48 +3308,6 @@
      "kind": "news",
      "published": "2026-08-12T17:24:18+00:00",
      "summary": "Drop Site is a reader-funded, independent news outlet. Without your support, we can&#8217;t operate. Please consider becoming a paid subscriber or making a 501(c)(3) tax-deductible donation today . Subscribe now Israeli settlers continue their raids on the Palestinian village of Taybeh in the occupied West Bank despite the Israeli army declaring the area a 'closed military zone,' on August 10, 2026. Photo by Issam Rimawi/Anadolu via Getty Images. TAYBEH, Occupied West Bank*&#8212;On Sunday, the Israeli military declared the Palestinian village of Taybeh in the occupied West Bank a closed military zone, claiming the order was aimed to prevent escalating attacks by marauding Israeli settlers. It ostensibly bars Israelis and foreigners from entering the area. But residents of the village and the surrounding area told Drop Site News that the military order is designed to further isolate Taybeh from the outside world, barring solidarity activists from the area while allowing settler attacks to continue. One of the few Christian-majority Palestinian villages in the West Bank, Taybeh has come under growing attacks by Israeli settlers who have expanded colonial outposts encircling it over "
-    }
-   ]
-  },
-  {
-   "id": "0afd8f2097",
-   "topic": "Other",
-   "summary": "Mahamadou Hamidou / REUTERS Kevin Rideout, an American missionary pilot who was kidnapped in Niger\u2019s capital Niamey last October, has been released. Rideout, 50, is now in U.S. hands and on his way back to America, the New York Times reported late on Thursday, citing information from two U.S. officials. Proof-of-life images released to the officials demonstrated the pilot was in good health. Rideout had been working as a Christian missionary in Niger for 19 years. Last October he was seized by three unidentified men while on his way to the airport with an evangelical group he was working with, according to Reuters . The kidnappers then took Rideout and headed toward the western Tillaberi region of \u200bNiger, where Islamist militants linked to Islamic State and al Qaeda are active. His release has been a priority for the White House and the military\u2019s Africa Command. The U.S. military has\u2026",
-   "summaryFrom": "dailybeast",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Kidnapped American Pilot Freed in Mystery Release",
-   "updated": "2026-08-14T05:00:46+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dailybeast",
-     "title": "Kidnapped American Pilot Freed in Mystery Release",
-     "url": "https://www.thedailybeast.com/kidnapped-american-pilot-kevin-rideout-freed-in-mystery-release/",
-     "author": "Cameron Adams",
-     "kind": "news",
-     "published": "2026-08-14T05:00:46+00:00",
-     "summary": "Mahamadou Hamidou / REUTERS Kevin Rideout, an American missionary pilot who was kidnapped in Niger\u2019s capital Niamey last October, has been released. Rideout, 50, is now in U.S. hands and on his way back to America, the New York Times reported late on Thursday, citing information from two U.S. officials. Proof-of-life images released to the officials demonstrated the pilot was in good health. Rideout had been working as a Christian missionary in Niger for 19 years. Last October he was seized by three unidentified men while on his way to the airport with an evangelical group he was working with, according to Reuters . The kidnappers then took Rideout and headed toward the western Tillaberi region of \u200bNiger, where Islamist militants linked to Islamic State and al Qaeda are active. His release has been a priority for the White House and the military\u2019s Africa Command. The U.S. military has been assisting neighboring Nigeria in training and surveillance missions in its fight against jihadists. The Times said Nigeria permitted the U.S. to operate surveillance missions from its bases, partly to try to locate Rideout. The two officials who spoke to the Times said details of how and where Ri"
-    },
-    {
-     "outlet": "nyt",
-     "title": "American Missionary Kidnapped in Niger Is Said to Be Released From Captivity",
-     "url": "https://www.nytimes.com/2026/08/13/us/politics/kevin-rideout-niger-islamic-state.html",
-     "author": "Eric Schmitt and Maggie Haberman",
-     "kind": "news",
-     "published": "2026-08-14T04:25:38+00:00",
-     "summary": "The release of Kevin Rideout, an American missionary pilot who was seized in Niger\u2019s capital last fall, has been a priority for the White House."
     }
    ]
   },
@@ -3531,90 +3602,6 @@
      "kind": "opinion",
      "published": "2026-08-13T19:12:48+00:00",
      "summary": "Curtis Sliwa on Thursday told relatives of 9/11 victims who want New York City Mayor Zohran Mamdani kept away from this year&#8217;s Ground Zero commemoration to &#8220;stop being sore losers,&#8221; arguing that they should respect the office even if they disagree with the person holding it. \u201cHe\u2019s the mayor. Stop being sore losers!&#8221; Sliwa told reporters Thursday. &#8220;You knew this is Zohran Mamdani. He was never a fake, phony, fraudulent, fugazi like a lot of politicians. He told you who he was.&#8221; Some relatives of victims of the September 11, 2001, terrorist attacks have backed a petition urging Mamdani not to attend this year&#8217;s ceremony marking the 25th anniversary of the attacks, which killed 2,977 people. Giovanni Galante, whose 29-year-old wife, Grace Catherine Galante, was killed on 9/11 and who helped organize the petition, accused Mamdani of failing to &#8220;meaningfully acknowledge the horror&#8221; of the attacks and associating with people who have minimized them. Fellow petition organizer Cheri Sparacio, whose husband, Thomas, was killed on 9/11, separately pointed to Mamdani&#8217;s association with left-wing streamer Hasan Piker, who said in 2019"
-    }
-   ]
-  },
-  {
-   "id": "92b5c9a6b8",
-   "topic": "Other",
-   "summary": "Rescuers in Colombia made a last-ditch effort to locate earthquake survivors early Thursday, as the critical 72-hour window for finding people alive drew to a close. Our journalist Rosa Perez gives us the lastest information.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Colombia\u2019s rescuers search rubble as hope fades on finding survivors",
-   "updated": "2026-08-14T01:21:02+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Colombia\u2019s rescuers search rubble as hope fades on finding survivors",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/colombias-rescuers-search-rubble-as-hope-fades-on-finding-survivors?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T01:21:02+00:00",
-     "summary": "The crucial 72-hour window to find survivors has passed, but rescue teams in Colombia keep digging."
-    },
-    {
-     "outlet": "france24",
-     "title": "Colombia rescuers cling to hope as quake survival window closes",
-     "url": "https://www.france24.com/en/video/20260813-colombia-rescuers-cling-to-hope-as-quake-survival-window-closes",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-13T16:50:05+00:00",
-     "summary": "Rescuers in Colombia made a last-ditch effort to locate earthquake survivors early Thursday, as the critical 72-hour window for finding people alive drew to a close. Our journalist Rosa Perez gives us the lastest information."
-    }
-   ]
-  },
-  {
-   "id": "54f9554982",
-   "topic": "World",
-   "summary": "The USS Abraham Lincoln deployed in the Arabian Sea on April 16, 2026. | US Navy via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: The cracks are starting to show in President Donald Trump\u2019s Iran campaign. What\u2019s happening? Conditions on a US warship deployed in the Middle East have grown so dire, multiple sailors have reportedly tried to go overboard (at least one did so but was rescued safely, according to CNN ).&nbsp; The attempts to jump overboard comes as family members of sailors are raising concerns with Democratic lawmakers about deteriorating mental health on the ship amid sanitation issues and shortages of food and basic supplies .&nbsp; The USS Abraham Lincoln aircraft carrier has been\u2026",
-   "summaryFrom": "vox",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Norway\u2019s FM tells Al Jazeera the US war on Iran was not \u2018smart\u2019",
-   "updated": "2026-08-14T01:09:44+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Norway\u2019s FM tells Al Jazeera the US war on Iran was not \u2018smart\u2019",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_norways-fm-us-war-on-iran-was-not-smart-130826?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T01:09:44+00:00",
-     "summary": "Norway\u2019s FM Espen Barth Eide says the Iran war failed to achieve its initial aims and strengthened hardliners in Tehran."
-    },
-    {
-     "outlet": "vox",
-     "title": "The Iran war\u2019s mental toll on US sailors",
-     "url": "https://www.vox.com/the-logoff-newsletter-trump/499337/us-iran-war-uss-lincoln-aircraft-carrier-sailors-mental-health",
-     "author": "Cameron Peters",
-     "kind": "news",
-     "published": "2026-08-13T21:55:00+00:00",
-     "summary": "The USS Abraham Lincoln deployed in the Arabian Sea on April 16, 2026. | US Navy via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: The cracks are starting to show in President Donald Trump\u2019s Iran campaign. What\u2019s happening? Conditions on a US warship deployed in the Middle East have grown so dire, multiple sailors have reportedly tried to go overboard (at least one did so but was rescued safely, according to CNN ).&nbsp; The attempts to jump overboard comes as family members of sailors are raising concerns with Democratic lawmakers about deteriorating mental health on the ship amid sanitation issues and shortages of food and basic supplies .&nbsp; The USS Abraham Lincoln aircraft carrier has been deployed for more than 250 days, starting last November, including a stretch of more than 200 days at sea \u2014 a modern record. Its deployment was supposed to end months ago, in May, but has continued as Trump\u2019s Iran war stretches on .&nbsp; How is the administration responding? Defense Secretary Pete Hegseth "
     }
    ]
   },
