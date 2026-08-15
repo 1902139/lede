@@ -1,220 +1,16 @@
 {
- "generated": "2026-08-15T03:55:56.091158+00:00",
+ "generated": "2026-08-15T04:48:20.992213+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
-  {
-   "id": "71d8fca40f",
-   "topic": "World",
-   "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation. The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle\u2026",
-   "summaryFrom": "axios",
-   "emphasis": {
-    "bigCount": 10,
-    "indieCount": 8,
-    "big": [
-     "middle",
-     "east",
-     "answers",
-     "lawmakers",
-     "diego-based",
-     "concerned"
-    ],
-    "indie": [
-     "donald",
-     "saying",
-     "white",
-     "house",
-     "since",
-     "jump"
-    ]
-   },
-   "absent": [],
-   "headline": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea \u2018not nearly enough\u2019 \u2013 as it happened",
-   "updated": "2026-08-15T02:33:55+00:00",
-   "outletCount": 15,
-   "counts": {
-    "corp": 7,
-    "nonprofit": 4,
-    "family": 3,
-    "pub": 3,
-    "coop": 1
-   },
-   "newsCount": 18,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Trump says U.S. warship's 9-month deployment \"not nearly long enough\"",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T02:33:55+00:00",
-     "summary": "The USS Abraham Lincoln has been deployed for almost nine months and is expected to be replaced in the Middle East."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea \u2018not nearly enough\u2019 \u2013 as it happened",
-     "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
-     "author": "Maanvi Singh, Shrai Popat, Marina Dunbar and Mabel Banfield-Nwachi",
-     "kind": "news",
-     "published": "2026-08-15T01:31:53+00:00",
-     "summary": "This live blog is now closed. Trump downplays concerns about sailors deployed for record 250 days Sign up for the Breaking News US email The Trump administration, in its appeal to the supreme court today, said that \u201cthis case involves an extraordinary and unlawful injunction that will halt the ongoing construction of the integrated military complex including a totally secure ballroom space, at the East Wing of the White House, which is vitally required by national security.\u201d It\u2019s worth noting that the appeals court ruling blocks the above-ground construction of the ballroom, but would allow the work on the underground security structure to continue . Continue reading..."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
-     "author": "Erica L. Green and Maggie Haberman",
-     "kind": "news",
-     "published": "2026-08-15T01:04:40+00:00",
-     "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted \u201cnot nearly long enough.\u201d"
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Trump downplays concerns about living conditions on aircraft carrier",
-     "url": "https://www.nbcnews.com/nightly-news/video/trump-downplays-concerns-about-living-conditions-on-aircraft-carrier-268343365616",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T23:32:43+00:00",
-     "summary": "President Trump downplayed concerns about living conditions aboard the aircraft carrier USS Abraham Lincoln. NBC News\u2019 Gabe Gutierrez got reaction from the families of sailors on the ship."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
-     "url": "https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln",
-     "author": "Veronica Vela",
-     "kind": "news",
-     "published": "2026-08-14T22:55:06+00:00",
-     "summary": "Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
-     "url": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T21:17:15+00:00",
-     "summary": "Members of the US Congress have called for a probe into conditions amid reports of sailors attempting to jump ship."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' amid outcry from families",
-     "url": "https://www.latimes.com/politics/story/2026-08-14/uss-abraham-lincoln-deployment-conditions-families-trump-hegseth",
-     "author": "Christopher Buchanan, Ana Ceballos",
-     "kind": "news",
-     "published": "2026-08-14T21:13:51+00:00",
-     "summary": "Lawmakers are pressing for answers amid reports that sailors aboard the San Diego-based carrier have endured food shortages, plumbing failures and severe fatigue."
-    },
-    {
-     "outlet": "slate",
-     "title": "Trump on Long-Suffering Sailors: \u201cNot Nearly Long Enough\u201d",
-     "url": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html?via=rss",
-     "author": "Ian Prasad Philbrick",
-     "kind": "news",
-     "published": "2026-08-14T21:09:49+00:00",
-     "summary": "Sailors are suffering. Trump and his team are denying it."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump says record USS Lincoln deployment 'not nearly long enough'",
-     "url": "https://abcnews.com/Politics/trump-record-uss-lincoln-deployment-long/story?id=135652552",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T20:32:04+00:00",
-     "summary": "Trump said USS Lincoln family members are not concerned about conditions."
-    },
-    {
-     "outlet": "axios",
-     "title": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
-     "url": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
-     "author": "Donica Phifer",
-     "kind": "news",
-     "published": "2026-08-14T20:19:31+00:00",
-     "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation. The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle East deployment. While taking questions from the press Friday, a reporter mentioned families were worried, to which Trump replied \"no they're not.\" Zoom out: The Navy Times , The Military Times, and Stars and Stripes were among the first to report on conditions aboard the carrier. The ship hasn't made"
-    },
-    {
-     "outlet": "france24",
-     "title": "Trump says record Navy deployment in Iran operations 'not nearly long enough'",
-     "url": "https://www.france24.com/en/middle-east/20260814-trump-says-record-navy-deployment-in-iran-operations-not-nearly-long-enough",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-14T20:17:38+00:00",
-     "summary": "US President Donald Trump on Friday dismissed concerns about the toll on sailors aboard the aircraft carrier USS Abraham Lincoln, who have endured a record deployment of almost nine months, saying that the deployment had been \u201cnot nearly long enough\u201d. The Lincoln has been supporting the US war against Iran, and reports have emerged of sailors struggling with mental health issues."
-    },
-    {
-     "outlet": "forbes",
-     "title": "The US Navy\u2019s Aircraft Carrier Troubles Can\u2019t Be Fixed Quickly Enough",
-     "url": "https://www.forbes.com/sites/petersuciu/2026/08/14/the-us-navys-aircraft-carrier-troubles-cant-be-fixed-quickly-enough/",
-     "author": "Peter Suciu, Contributor",
-     "kind": "news",
-     "published": "2026-08-14T17:48:48+00:00",
-     "summary": "The United States has just 11 nuclear-powered aircraft carriers in service, but just three are currently deployed, and two are already in the Middle East"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump\u2019s dismal Patriot Games were the Hunger Games ordered off Temu | Aaron Timms",
-     "url": "https://www.theguardian.com/sport/2026/aug/14/donald-trump-patriot-games-tv-review",
-     "author": "Aaron Timms",
-     "kind": "news",
-     "published": "2026-08-14T14:16:48+00:00",
-     "summary": "Monkey bars, gawky teenagers and a presidential cameo \u2013 all given a prime-time showcase by ABC \u2013 combined for the most leaden hour of America\u2019s 250th birthday summer Culturally, it\u2019s been a tough few months for Donald Trump. The UFC night he held at the White House for his birthday got lost amid the froth and excitement of the World Cup. The Great American State Fair on the Washington DC National Mall was a dud . The president\u2019s jokes at the White House Correspondents\u2019 Dinner all bombed . Could the Patriot Games, a nationwide competition to find the American schoolchildren most adept at traversing a set of monkey bars, help rescue the summer? Last night we got our answer: no. A one-hour prime-time special brought us the best of the Patriot Games, and in a crowded field it managed to offer some of the most leaden TV of the American semiquincentennial. Freedom 250, the White House-backed non-profit that hosted the UFC fight at the White House and the Great American State Fair, produced the event, and put up the $125,000 in college scholarship winnings that went to each winner on the boys\u2019 and girls\u2019 side of the competition. The final round of the Games actually took place earlier thi"
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Dad of USS Lincoln sailor worries about crew as deployment stretches on",
-     "url": "https://www.cbsnews.com/news/uss-abraham-lincoln-crew-deployment-concerns/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T14:04:27+00:00",
-     "summary": "The USS Abraham Lincoln has been at sea for nine months, and sailors have maintained a grueling pace amid the war in Iran."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump orders Pentagon to redesign US aircraft carrier to use steam catapults to launch jets",
-     "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-aircraft-carriers-steam-catapults",
-     "author": "Robert Mackey",
-     "kind": "news",
-     "published": "2026-08-14T02:03:43+00:00",
-     "summary": "President has suggested steam catapults every year since 2017, saying digital systems are too \u2018complicated\u2019 After nearly a decade of loudly complaining about the fact that modern US aircraft carriers use electromagnetic systems to launch fighter jets instead of steam-powered catapults, Donald Trump has directed the Pentagon to redesign a new aircraft carrier to replace the modern system with the old-fashioned catapults he prefers. Trump signed a national security memorandum on Thursday directing the defense secretary, Pete Hegseth, and the acting navy secretary, Hung Cao, to make the change he has had his heart set on since at least 2017, when he first described his idea to Time magazine. Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-     "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T23:06:23+00:00",
-     "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
-    },
-    {
-     "outlet": "rollingstone",
-     "title": "Sailors Are Reportedly Trying to Go Overboard to Escape Squalid Conditions on Aircraft Carrier",
-     "url": "https://www.rollingstone.com/politics/politics-news/uss-abraham-lincoln-sailors-overboard-1235608057/",
-     "author": "Nikkimccannramirez",
-     "kind": "news",
-     "published": "2026-08-13T16:41:28+00:00",
-     "summary": "Democrats are demanding answers about what\u2019s going on with the USS Abraham Lincoln"
-    },
-    {
-     "outlet": "dropsite",
-     "title": "USS Abraham Lincoln sailors try to jump overboard after 250 days at sea; Third person dies after Newark ICE facility detention; Israel sets wildfires in Lebanon",
-     "url": "https://www.dropsitenews.com/p/uss-abraham-lincoln-overboard-newark-ice-detention-israel-lebanon-wildfires",
-     "author": "Drop Site News",
-     "kind": "news",
-     "published": "2026-08-13T15:19:39+00:00",
-     "summary": "An F/A-18F Super Hornet launches from the flight deck of aircraft carrier USS Abraham Lincoln in support of Operation Epic Fury on February 28, 2026 at Sea. Photo by U.S. Navy via Getty Images. Thursday, August 13, 2026 &#8211; &nbsp; Iranian Foreign Minister Abbas Araghchi warns of &#8220;even bigger miscalculation&#8221; on Hormuz after U.S. President Donald Trump claims U.S. has &#8220;total control.&#8221; Washington Post: U.S. intelligence viewed Israeli warning of Iranian plot to kill Trump as &#8220;low confidence.&#8221; Slight bump in Hormuz traffic. Iran reports oil pollution off Qeshm Island, calls for Hormuz environmental fees. Iran kills two accused of intelligence ties to U.S. and Israel. Yemen&#8217;s Saudi-backed government claims success against Ansarallah attack. Saudi tankers reroute around Africa as empty fleet heads toward Gulf. X suspends Ansarallah spokesperson account. Israel kills Palestinian child in Gaza City strike. Israeli strikes kill two, including Gaza police chief. Israel detains Palestinians, destroys homes, and re-establishes settlement in occupied West Bank. Hamas says it will participate in Palestinian elections in November. Israeli forces blow "
-    }
-   ]
-  },
   {
    "id": "5e1f0d9d97",
    "topic": "Justice & Policing",
    "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges. \"I shot Mr. Thompson,\" Mangione said during Friday's hearing, adding, \"I knew\u2026",
    "summaryFrom": "axios",
    "emphasis": {
-    "bigCount": 11,
+    "bigCount": 10,
     "indieCount": 6,
     "big": [
      "friday",
@@ -239,9 +35,9 @@
     "corp": 4,
     "pub": 4,
     "nonprofit": 2,
-    "family": 7
+    "family": 6
    },
-   "newsCount": 15,
+   "newsCount": 14,
    "opinionCount": 2,
    "underreported": false,
    "articles": [
@@ -289,15 +85,6 @@
      "kind": "news",
      "published": "2026-08-14T22:27:24+00:00",
      "summary": "As the murder of Brian Thompson shocked most Americans, some people, many on social media, began showing Mr. Mangione sympathy and channeled their own frustration with the health care industry."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Luigi Mangione Pleads Guilty",
-     "url": "https://www.nytimes.com/2026/08/14/briefing/luigi-mangione-pleads-guilty.html",
-     "author": "Matthew Cullen",
-     "kind": "news",
-     "published": "2026-08-14T21:40:28+00:00",
-     "summary": "Also, an Alaska Democrat says no thanks to Kamala Harris\u2019s support. Here\u2019s the latest at the end of Friday."
     },
     {
      "outlet": "bbc",
@@ -397,6 +184,189 @@
      "kind": "opinion",
      "published": "2026-08-14T10:23:45+00:00",
      "summary": "In a jaw-dropping courtroom confession, Luigi Mangione pleaded guilty Friday to federal stalking charges carrying a potential life sentence in connection with the killing of UnitedHealthcare CEO Brian Thompson, a move that could have major implications for his upcoming New York murder trial. &#8220;After years of enduring severe pain in my back and seeing others too, I learned UnitedHealth would hold its conference,\u201d Mangione said in a New York City courtroom. \u201cI researched the event online. I observed the conference of the largest health care company would be attended by executives, not doctors, nurses or patients. I traveled to Manhattan and emailed leadership posing as an investor managing $58 billion.\u201d &#8220;Before traveling to New York, I used a 3-D printer to make a gun. I traveled to New York with the intent to shoot Brian Thompson. On the morning of December 4, 2024, I shot Mr. Thompson in Manhattan. \u2026 I knew what I was doing,&#8221; he added. The guilty plea marks a dramatic turnaround for the 28-year-old, who has long maintained his innocence and is now pursuing a legal theory that could potentially derail his separate, high-stakes murder trial set to begin September 8 i"
+    }
+   ]
+  },
+  {
+   "id": "71d8fca40f",
+   "topic": "World",
+   "summary": "An F/A-18F Super Hornet launches from the flight deck of aircraft carrier USS Abraham Lincoln in support of Operation Epic Fury on February 28, 2026 at Sea. Photo by U.S. Navy via Getty Images. Thursday, August 13, 2026 &#8211; &nbsp; Iranian Foreign Minister Abbas Araghchi warns of &#8220;even bigger miscalculation&#8221; on Hormuz after U.S. President Donald Trump claims U.S. has &#8220;total control.&#8221; Washington Post: U.S. intelligence viewed Israeli warning of Iranian plot to kill Trump as &#8220;low confidence.&#8221; Slight bump in Hormuz traffic. Iran reports oil pollution off Qeshm Island, calls for Hormuz environmental fees. Iran kills two accused of intelligence ties to U.S. and Israel. Yemen&#8217;s Saudi-backed government claims success against Ansarallah attack. Saudi tankers reroute around Africa as empty fleet heads toward Gulf. X suspends Ansarallah spokesperson\u2026",
+   "summaryFrom": "dropsite",
+   "emphasis": {
+    "bigCount": 9,
+    "indieCount": 7,
+    "big": [
+     "east",
+     "middle",
+     "answers"
+    ],
+    "indie": [
+     "saying",
+     "donald",
+     "since",
+     "mental",
+     "health",
+     "jump"
+    ]
+   },
+   "absent": [],
+   "headline": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea \u2018not nearly enough\u2019 \u2013 as it happened",
+   "updated": "2026-08-15T02:33:55+00:00",
+   "outletCount": 14,
+   "counts": {
+    "corp": 6,
+    "nonprofit": 3,
+    "family": 3,
+    "pub": 3,
+    "coop": 1
+   },
+   "newsCount": 16,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Trump says U.S. warship's 9-month deployment \"not nearly long enough\"",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T02:33:55+00:00",
+     "summary": "The USS Abraham Lincoln has been deployed for almost nine months and is expected to be replaced in the Middle East."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea \u2018not nearly enough\u2019 \u2013 as it happened",
+     "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
+     "author": "Maanvi Singh, Shrai Popat, Marina Dunbar and Mabel Banfield-Nwachi",
+     "kind": "news",
+     "published": "2026-08-15T01:31:53+00:00",
+     "summary": "This live blog is now closed. Trump downplays concerns about sailors deployed for record 250 days Sign up for the Breaking News US email The Trump administration, in its appeal to the supreme court today, said that \u201cthis case involves an extraordinary and unlawful injunction that will halt the ongoing construction of the integrated military complex including a totally secure ballroom space, at the East Wing of the White House, which is vitally required by national security.\u201d It\u2019s worth noting that the appeals court ruling blocks the above-ground construction of the ballroom, but would allow the work on the underground security structure to continue . Continue reading..."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
+     "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
+     "author": "Erica L. Green and Maggie Haberman",
+     "kind": "news",
+     "published": "2026-08-15T01:04:40+00:00",
+     "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted \u201cnot nearly long enough.\u201d"
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Trump downplays concerns about living conditions on aircraft carrier",
+     "url": "https://www.nbcnews.com/nightly-news/video/trump-downplays-concerns-about-living-conditions-on-aircraft-carrier-268343365616",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T23:32:43+00:00",
+     "summary": "President Trump downplayed concerns about living conditions aboard the aircraft carrier USS Abraham Lincoln. NBC News\u2019 Gabe Gutierrez got reaction from the families of sailors on the ship."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
+     "url": "https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln",
+     "author": "Veronica Vela",
+     "kind": "news",
+     "published": "2026-08-14T22:55:06+00:00",
+     "summary": "Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
+     "url": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T21:17:15+00:00",
+     "summary": "Members of the US Congress have called for a probe into conditions amid reports of sailors attempting to jump ship."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' amid outcry from families",
+     "url": "https://www.latimes.com/politics/story/2026-08-14/uss-abraham-lincoln-deployment-conditions-families-trump-hegseth",
+     "author": "Christopher Buchanan, Ana Ceballos",
+     "kind": "news",
+     "published": "2026-08-14T21:13:51+00:00",
+     "summary": "Lawmakers are pressing for answers amid reports that sailors aboard the San Diego-based carrier have endured food shortages, plumbing failures and severe fatigue."
+    },
+    {
+     "outlet": "slate",
+     "title": "Trump on Long-Suffering Sailors: \u201cNot Nearly Long Enough\u201d",
+     "url": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html?via=rss",
+     "author": "Ian Prasad Philbrick",
+     "kind": "news",
+     "published": "2026-08-14T21:09:49+00:00",
+     "summary": "Sailors are suffering. Trump and his team are denying it."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump says record USS Lincoln deployment 'not nearly long enough'",
+     "url": "https://abcnews.com/Politics/trump-record-uss-lincoln-deployment-long/story?id=135652552",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T20:32:04+00:00",
+     "summary": "Trump said USS Lincoln family members are not concerned about conditions."
+    },
+    {
+     "outlet": "france24",
+     "title": "Trump says record Navy deployment in Iran operations 'not nearly long enough'",
+     "url": "https://www.france24.com/en/middle-east/20260814-trump-says-record-navy-deployment-in-iran-operations-not-nearly-long-enough",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-14T20:17:38+00:00",
+     "summary": "US President Donald Trump on Friday dismissed concerns about the toll on sailors aboard the aircraft carrier USS Abraham Lincoln, who have endured a record deployment of almost nine months, saying that the deployment had been \u201cnot nearly long enough\u201d. The Lincoln has been supporting the US war against Iran, and reports have emerged of sailors struggling with mental health issues."
+    },
+    {
+     "outlet": "forbes",
+     "title": "The US Navy\u2019s Aircraft Carrier Troubles Can\u2019t Be Fixed Quickly Enough",
+     "url": "https://www.forbes.com/sites/petersuciu/2026/08/14/the-us-navys-aircraft-carrier-troubles-cant-be-fixed-quickly-enough/",
+     "author": "Peter Suciu, Contributor",
+     "kind": "news",
+     "published": "2026-08-14T17:48:48+00:00",
+     "summary": "The United States has just 11 nuclear-powered aircraft carriers in service, but just three are currently deployed, and two are already in the Middle East"
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Dad of USS Lincoln sailor worries about crew as deployment stretches on",
+     "url": "https://www.cbsnews.com/news/uss-abraham-lincoln-crew-deployment-concerns/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T14:04:27+00:00",
+     "summary": "The USS Abraham Lincoln has been at sea for nine months, and sailors have maintained a grueling pace amid the war in Iran."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump orders Pentagon to redesign US aircraft carrier to use steam catapults to launch jets",
+     "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-aircraft-carriers-steam-catapults",
+     "author": "Robert Mackey",
+     "kind": "news",
+     "published": "2026-08-14T02:03:43+00:00",
+     "summary": "President has suggested steam catapults every year since 2017, saying digital systems are too \u2018complicated\u2019 After nearly a decade of loudly complaining about the fact that modern US aircraft carriers use electromagnetic systems to launch fighter jets instead of steam-powered catapults, Donald Trump has directed the Pentagon to redesign a new aircraft carrier to replace the modern system with the old-fashioned catapults he prefers. Trump signed a national security memorandum on Thursday directing the defense secretary, Pete Hegseth, and the acting navy secretary, Hung Cao, to make the change he has had his heart set on since at least 2017, when he first described his idea to Time magazine. Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+     "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T23:06:23+00:00",
+     "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+    },
+    {
+     "outlet": "rollingstone",
+     "title": "Sailors Are Reportedly Trying to Go Overboard to Escape Squalid Conditions on Aircraft Carrier",
+     "url": "https://www.rollingstone.com/politics/politics-news/uss-abraham-lincoln-sailors-overboard-1235608057/",
+     "author": "Nikkimccannramirez",
+     "kind": "news",
+     "published": "2026-08-13T16:41:28+00:00",
+     "summary": "Democrats are demanding answers about what\u2019s going on with the USS Abraham Lincoln"
+    },
+    {
+     "outlet": "dropsite",
+     "title": "USS Abraham Lincoln sailors try to jump overboard after 250 days at sea; Third person dies after Newark ICE facility detention; Israel sets wildfires in Lebanon",
+     "url": "https://www.dropsitenews.com/p/uss-abraham-lincoln-overboard-newark-ice-detention-israel-lebanon-wildfires",
+     "author": "Drop Site News",
+     "kind": "news",
+     "published": "2026-08-13T15:19:39+00:00",
+     "summary": "An F/A-18F Super Hornet launches from the flight deck of aircraft carrier USS Abraham Lincoln in support of Operation Epic Fury on February 28, 2026 at Sea. Photo by U.S. Navy via Getty Images. Thursday, August 13, 2026 &#8211; &nbsp; Iranian Foreign Minister Abbas Araghchi warns of &#8220;even bigger miscalculation&#8221; on Hormuz after U.S. President Donald Trump claims U.S. has &#8220;total control.&#8221; Washington Post: U.S. intelligence viewed Israeli warning of Iranian plot to kill Trump as &#8220;low confidence.&#8221; Slight bump in Hormuz traffic. Iran reports oil pollution off Qeshm Island, calls for Hormuz environmental fees. Iran kills two accused of intelligence ties to U.S. and Israel. Yemen&#8217;s Saudi-backed government claims success against Ansarallah attack. Saudi tankers reroute around Africa as empty fleet heads toward Gulf. X suspends Ansarallah spokesperson account. Israel kills Palestinian child in Gaza City strike. Israeli strikes kill two, including Gaza police chief. Israel detains Palestinians, destroys homes, and re-establishes settlement in occupied West Bank. Hamas says it will participate in Palestinian elections in November. Israeli forces blow "
     }
    ]
   },
@@ -557,18 +527,143 @@
    ]
   },
   {
+   "id": "a422cbbbff",
+   "topic": "Politics",
+   "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation. The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle\u2026",
+   "summaryFrom": "axios",
+   "emphasis": {
+    "bigCount": 7,
+    "indieCount": 3,
+    "big": [
+     "concerns",
+     "families",
+     "carrier",
+     "aircraft",
+     "deployment",
+     "friday"
+    ],
+    "indie": []
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "What we know about the crisis aboard the USS Lincoln",
+   "updated": "2026-08-15T04:21:07+00:00",
+   "outletCount": 10,
+   "counts": {
+    "pub": 1,
+    "corp": 3,
+    "family": 4,
+    "nonprofit": 2
+   },
+   "newsCount": 10,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "What we know about the crisis aboard the USS Lincoln",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T04:21:07+00:00",
+     "summary": "The US President has brushed off reports of dire conditions and a mental health crisis aboard the USS Abraham Lincoln."
+    },
+    {
+     "outlet": "thehill",
+     "title": "USS Abraham Lincoln returning home",
+     "url": "https://thehill.com/newsletters/defense-national-security/6030870-uss-abraham-lincoln-returning-home/",
+     "author": "Ellen Mitchell",
+     "kind": "news",
+     "published": "2026-08-14T21:39:25+00:00",
+     "summary": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story Amid reports of low morale, USS Abraham Lincoln returning home, Navy says Acting Navy Secretary Hung Cao announced on Friday that the USS Abraham Lincoln is returning to the U.S. as the aircraft carrier\u2019s long deployment..."
+    },
+    {
+     "outlet": "axios",
+     "title": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
+     "url": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
+     "author": "Donica Phifer",
+     "kind": "news",
+     "published": "2026-08-14T20:19:31+00:00",
+     "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation. The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle East deployment. While taking questions from the press Friday, a reporter mentioned families were worried, to which Trump replied \"no they're not.\" Zoom out: The Navy Times , The Military Times, and Stars and Stripes were among the first to report on conditions aboard the carrier. The ship hasn't made"
+    },
+    {
+     "outlet": "time",
+     "title": "What to Know About the Growing Concerns Over Conditions on the Long-Deployed USS Abraham Lincoln",
+     "url": "https://time.com/article/2026/08/14/uss-abraham-lincoln-conditions-trump-iran-war/",
+     "author": "Connor Greene",
+     "kind": "news",
+     "published": "2026-08-14T20:14:50+00:00",
+     "summary": "In this U.S. Navy released handout, An F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 14, makes an arrested landing on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72) in support of Operation Epic Fury, on February 28, 2026. \u2014U.S. Navy/Getty Images The USS Abraham Lincoln has been at sea in the Middle East for months, and with no clear end in sight for the war in Iran , concerns for those aboard the aircraft carrier\u2014and for the vessel itself\u2014have mounted amid a series of troubling reports. Another aircraft carrier, the USS George Washington, had begun making its way towards the Middle East as of Thursday to replace the Lincoln, multiple news outlets reported. President Donald Trump appeared to confirm the reported ship swap on Friday, saying that the Lincoln \"is moving right now, or very shortly and is being replaced with another very similar ship.\u201d The Washington\u2019s deployment comes as reports have emerged in recent months recounting worsening living conditions, mental health concerns, and supply shortages on board the Lincoln. Trump seemed to deny the reports on the state of the Lincoln and its crew on Friday, responding \u201cNo, they\u2019re n"
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump dismisses families\u2019 concerns about USS Abraham Lincoln conditions",
+     "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-dismisses-families-concerns-about-uss-abraham-lincoln-conditions/",
+     "author": "Cat Zakrzewski",
+     "kind": "news",
+     "published": "2026-08-14T19:19:15+00:00",
+     "summary": "President Donald Trump dismissed the concerns of military families about worsening conditions on the USS Abraham Lincoln."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Trump Dismisses Concerns Over Conditions Aboard USS Lincoln",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-14/trump-dismisses-concerns-over-conditions-on-uss-lincoln-carrier",
+     "author": "Sonya Dymova, Courtney Subramanian and Jen Judson",
+     "kind": "news",
+     "published": "2026-08-14T19:11:19+00:00",
+     "summary": "President Donald Trump downplayed concerns over conditions for sailors aboard the USS Abraham Lincoln, amid an uproar from service members\u2019 families as its deployment to the Middle East approaches nine months."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Trump Says USS Lincoln Hasn\u2019t Been Deployed \u2018Nearly Long Enough\u2019\u2014Denies Families\u2019 Concerns",
+     "url": "https://www.forbes.com/sites/saradorn/2026/08/14/trump-says-uss-lincoln-hasnt-been-deployed-nearly-long-enough-denies-families-concerns/",
+     "author": "Sara Dorn, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-14T18:52:28+00:00",
+     "summary": "The aircraft carrier has been deployed for nearly nine months."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Trump dismisses military families\u2019 concerns about grim conditions on USS Lincoln",
+     "url": "https://www.nbcnews.com/politics/donald-trump/trump-dismisses-concerns-family-members-grim-conditions-uss-abraham-li-rcna592598",
+     "author": "Mosheh Gains",
+     "kind": "news",
+     "published": "2026-08-14T18:30:16+00:00",
+     "summary": "President Donald Trump on Friday dismissed concerns from families of service members about the grim conditions aboard the USS Abraham Lincoln, whose deployment had been overextended in the Middle East due to the Iran war."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump\u2019s dismal Patriot Games were the Hunger Games ordered off Temu | Aaron Timms",
+     "url": "https://www.theguardian.com/sport/2026/aug/14/donald-trump-patriot-games-tv-review",
+     "author": "Aaron Timms",
+     "kind": "news",
+     "published": "2026-08-14T14:16:48+00:00",
+     "summary": "Monkey bars, gawky teenagers and a presidential cameo \u2013 all given a prime-time showcase by ABC \u2013 combined for the most leaden hour of America\u2019s 250th birthday summer Culturally, it\u2019s been a tough few months for Donald Trump. The UFC night he held at the White House for his birthday got lost amid the froth and excitement of the World Cup. The Great American State Fair on the Washington DC National Mall was a dud . The president\u2019s jokes at the White House Correspondents\u2019 Dinner all bombed . Could the Patriot Games, a nationwide competition to find the American schoolchildren most adept at traversing a set of monkey bars, help rescue the summer? Last night we got our answer: no. A one-hour prime-time special brought us the best of the Patriot Games, and in a crowded field it managed to offer some of the most leaden TV of the American semiquincentennial. Freedom 250, the White House-backed non-profit that hosted the UFC fight at the White House and the Great American State Fair, produced the event, and put up the $125,000 in college scholarship winnings that went to each winner on the boys\u2019 and girls\u2019 side of the competition. The final round of the Games actually took place earlier thi"
+    },
+    {
+     "outlet": "npr",
+     "title": "Sen. Ruben Gallego on handling of USS Lincoln conditions: 'That's not proper leadership'",
+     "url": "https://www.npr.org/2026/08/14/nx-s1-5930365/uss-abraham-lincoln-iran-navy-ruben-gallego",
+     "author": "Michel Martin",
+     "kind": "news",
+     "published": "2026-08-14T10:47:19+00:00",
+     "summary": "Lawmakers want answers from the Pentagon chief and the U.S. Navy about living conditions aboard the USS Lincoln. NPR's Michel Martin speaks with Democratic Sen. Ruben Gallego of Arizona. (Image credit: AP)"
+    }
+   ]
+  },
+  {
    "id": "5b97c93064",
    "topic": "Other",
    "summary": "Jason Arday, the ex-Cambridge professor who sparked an international controversy over plagiarism allegations, was found dead Friday, according to multiple reports. BBC News reported that a man at a south London address was found \"unresponsive\" and that, according to the Metropolitan Police, \"a 41-year-old man was pronounced dead at the scene and his next of kin have been informed.\" \"At this time, his death is being treated as unexpected, but is not believed to be suspicious,\" Met Police said in a statement to BBC News. \"We are desperately saddened to hear this tragic news,\" Cambridge University Vice Chancellor Professor Deborah Prentice told Fox News Digital . \"Our heartfelt sympathies go to Jason Arday's family and friends at this incredibly difficult time.\" CAMBRIDGE UNIVERSITY PROFESSOR RESIGNS AFTER MAJOR PLAGIARISM ACCUSATIONS PROMPT INVESTIGATION The Metropolitan Police did not\u2026",
    "summaryFrom": "foxnews",
    "emphasis": {
-    "bigCount": 6,
+    "bigCount": 5,
     "indieCount": 4,
     "big": [
      "allegations",
-     "resigning",
-     "cambridge's",
-     "scene"
+     "scene",
+     "resigning"
     ],
     "indie": [
      "centre"
@@ -579,14 +674,14 @@
    ],
    "headline": "Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation",
    "updated": "2026-08-15T01:00:46+00:00",
-   "outletCount": 10,
+   "outletCount": 9,
    "counts": {
     "family": 4,
-    "corp": 2,
     "nonprofit": 2,
-    "pub": 2
+    "pub": 2,
+    "corp": 1
    },
-   "newsCount": 8,
+   "newsCount": 7,
    "opinionCount": 2,
    "underreported": false,
    "articles": [
@@ -598,15 +693,6 @@
      "kind": "news",
      "published": "2026-08-15T01:00:46+00:00",
      "summary": "Mr. Arday resigned last week after the university announced an investigation into allegations of plagiarism and fabrication."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Ex-Cambridge professor dies week after resigning amid plagiarism allegations",
-     "url": "https://www.cbsnews.com/news/jason-arday-dies-cambridge-professor-plagiarism/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T00:05:13+00:00",
-     "summary": "Jason Arday, who was Cambridge's youngest Black professor, died in London on Friday, the school said."
     },
     {
      "outlet": "foxnews",
@@ -688,18 +774,16 @@
    "summary": "The Fifth U.S. Circuit Court of Appeals on Thursday dismissed as moot a challenge to President Donald Trump\u2019s use of the Alien Enemies Act to deport alleged Tren de Aragua members, leaving the legality of his invocation of the 18th-century law unresolved. The New Orleans-based court said the case became moot after all three Venezuelan plaintiffs, whom the administration alleged were members of Tren de Aragua , had already been removed from the United States under other immigration authorities. While the Alien Enemies Act dates back hundreds of years, prior to Trump, it was most recently invoked by President Harry Truman in 1946. The law allows the president, under specified wartime or invasion circumstances involving a foreign nation or government, to detain and remove certain non-naturalized individuals of that hostile power. The Trump administration has argued that Tren de Aragua\u2019s\u2026",
    "summaryFrom": "foxnews",
    "emphasis": {
-    "bigCount": 6,
-    "indieCount": 4,
+    "bigCount": 5,
+    "indieCount": 3,
     "big": [
      "fight",
-     "square-foot",
      "friday",
+     "square-foot",
      "washington"
     ],
     "indie": [
-     "work",
-     "congress",
-     "proceed"
+     "work"
     ]
    },
    "absent": [
@@ -707,14 +791,14 @@
    ],
    "headline": "Trump asks Supreme Court to let White House ballroom construction continue",
    "updated": "2026-08-15T02:35:49+00:00",
-   "outletCount": 9,
+   "outletCount": 8,
    "counts": {
     "corp": 2,
-    "pub": 3,
-    "family": 4,
+    "pub": 2,
+    "family": 3,
     "nonprofit": 1
    },
-   "newsCount": 10,
+   "newsCount": 8,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -755,15 +839,6 @@
      "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says."
     },
     {
-     "outlet": "aljazeera",
-     "title": "Trump asks US Supreme Court to allow $400m ballroom project to proceed",
-     "url": "https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T19:02:49+00:00",
-     "summary": "Appeals court previously ruled that Trump administration must seek authorisation from Congress to continue with project."
-    },
-    {
      "outlet": "guardian",
      "title": "Trump asks \u2060US supreme court to allow construction of White House ballroom",
      "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-ballroom-supreme-court",
@@ -798,125 +873,6 @@
      "kind": "news",
      "published": "2026-08-14T13:22:51+00:00",
      "summary": "WASHINGTON \u2014 President Donald Trump on Friday asked the Supreme Court to allow him to continue construction of a sprawling ballroom adjacent to the White House."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Concerned about Trump\u2019s ballroom project, Senate Democrats seek audit",
-     "url": "https://www.washingtonpost.com/investigations/2026/08/13/senate-democrats-request-audit-trumps-ballroom-project/",
-     "author": "Jonathan O'Connell, Sarah Blaskey",
-     "kind": "news",
-     "published": "2026-08-13T13:14:06+00:00",
-     "summary": "The senators\u2019 letter says the administration\u2019s handling of the project raises \u201cconcerns about transparency, accountability, and stewardship of this national landmark.\u201d"
-    }
-   ]
-  },
-  {
-   "id": "c19f001f96",
-   "topic": "Politics",
-   "summary": "In this U.S. Navy released handout, An F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 14, makes an arrested landing on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72) in support of Operation Epic Fury, on February 28, 2026. \u2014U.S. Navy/Getty Images The USS Abraham Lincoln has been at sea in the Middle East for months, and with no clear end in sight for the war in Iran , concerns for those aboard the aircraft carrier\u2014and for the vessel itself\u2014have mounted amid a series of troubling reports. Another aircraft carrier, the USS George Washington, had begun making its way towards the Middle East as of Thursday to replace the Lincoln, multiple news outlets reported. President Donald Trump appeared to confirm the reported ship swap on Friday, saying that the Lincoln \"is moving right now, or very shortly and is being replaced with another very\u2026",
-   "summaryFrom": "time",
-   "emphasis": {
-    "bigCount": 6,
-    "indieCount": 2,
-    "big": [
-     "concerns",
-     "abraham",
-     "trump",
-     "middle",
-     "months",
-     "east"
-    ],
-    "indie": [
-     "answers"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Families angered by slow search for loved ones after Colombia quake",
-   "updated": "2026-08-15T01:49:35+00:00",
-   "outletCount": 8,
-   "counts": {
-    "corp": 2,
-    "pub": 1,
-    "family": 4,
-    "nonprofit": 1
-   },
-   "newsCount": 8,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Blue Star Families official on toll have having loved ones deployed amid concerns about USS Lincoln",
-     "url": "https://www.cbsnews.com/video/blue-star-families-official-on-uss-lincoln-the-toll-of-having-a-loved-one-on-deployment/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T01:49:35+00:00",
-     "summary": "Maggie Meza, executive director of the Blue Star Families Southern California chapter, joins CBS News to discuss the toll of having a loved one deployed as concerns continue to rise about conditions on the USS Lincoln."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Families angered by slow search for loved ones after Colombia quake",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-colombia-quake-reported-mp4?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T00:14:47+00:00",
-     "summary": "Families are demanding answers over loved ones buried under rubble in Cali, Colombia after Monday\u2019s 7.4 magnitude quake."
-    },
-    {
-     "outlet": "time",
-     "title": "What to Know About the Growing Concerns Over Conditions on the Long-Deployed USS Abraham Lincoln",
-     "url": "https://time.com/article/2026/08/14/uss-abraham-lincoln-conditions-trump-iran-war/",
-     "author": "Connor Greene",
-     "kind": "news",
-     "published": "2026-08-14T20:14:50+00:00",
-     "summary": "In this U.S. Navy released handout, An F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 14, makes an arrested landing on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72) in support of Operation Epic Fury, on February 28, 2026. \u2014U.S. Navy/Getty Images The USS Abraham Lincoln has been at sea in the Middle East for months, and with no clear end in sight for the war in Iran , concerns for those aboard the aircraft carrier\u2014and for the vessel itself\u2014have mounted amid a series of troubling reports. Another aircraft carrier, the USS George Washington, had begun making its way towards the Middle East as of Thursday to replace the Lincoln, multiple news outlets reported. President Donald Trump appeared to confirm the reported ship swap on Friday, saying that the Lincoln \"is moving right now, or very shortly and is being replaced with another very similar ship.\u201d The Washington\u2019s deployment comes as reports have emerged in recent months recounting worsening living conditions, mental health concerns, and supply shortages on board the Lincoln. Trump seemed to deny the reports on the state of the Lincoln and its crew on Friday, responding \u201cNo, they\u2019re n"
-    },
-    {
-     "outlet": "wapo",
-     "title": "Trump dismisses families\u2019 concerns about USS Abraham Lincoln conditions",
-     "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-dismisses-families-concerns-about-uss-abraham-lincoln-conditions/",
-     "author": "Cat Zakrzewski",
-     "kind": "news",
-     "published": "2026-08-14T19:19:15+00:00",
-     "summary": "President Donald Trump dismissed the concerns of military families about worsening conditions on the USS Abraham Lincoln."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Trump Dismisses Concerns Over Conditions Aboard USS Lincoln",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-14/trump-dismisses-concerns-over-conditions-on-uss-lincoln-carrier",
-     "author": "Sonya Dymova, Courtney Subramanian and Jen Judson",
-     "kind": "news",
-     "published": "2026-08-14T19:11:19+00:00",
-     "summary": "President Donald Trump downplayed concerns over conditions for sailors aboard the USS Abraham Lincoln, amid an uproar from service members\u2019 families as its deployment to the Middle East approaches nine months."
-    },
-    {
-     "outlet": "forbes",
-     "title": "Trump Says USS Lincoln Hasn\u2019t Been Deployed \u2018Nearly Long Enough\u2019\u2014Denies Families\u2019 Concerns",
-     "url": "https://www.forbes.com/sites/saradorn/2026/08/14/trump-says-uss-lincoln-hasnt-been-deployed-nearly-long-enough-denies-families-concerns/",
-     "author": "Sara Dorn, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-14T18:52:28+00:00",
-     "summary": "The aircraft carrier has been deployed for nearly nine months."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Trump dismisses military families\u2019 concerns about grim conditions on USS Lincoln",
-     "url": "https://www.nbcnews.com/politics/donald-trump/trump-dismisses-concerns-family-members-grim-conditions-uss-abraham-li-rcna592598",
-     "author": "Mosheh Gains",
-     "kind": "news",
-     "published": "2026-08-14T18:30:16+00:00",
-     "summary": "President Donald Trump on Friday dismissed concerns from families of service members about the grim conditions aboard the USS Abraham Lincoln, whose deployment had been overextended in the Middle East due to the Iran war."
-    },
-    {
-     "outlet": "npr",
-     "title": "Sen. Ruben Gallego on handling of USS Lincoln conditions: 'That's not proper leadership'",
-     "url": "https://www.npr.org/2026/08/14/nx-s1-5930365/uss-abraham-lincoln-iran-navy-ruben-gallego",
-     "author": "Michel Martin",
-     "kind": "news",
-     "published": "2026-08-14T10:47:19+00:00",
-     "summary": "Lawmakers want answers from the Pentagon chief and the U.S. Navy about living conditions aboard the USS Lincoln. NPR's Michel Martin speaks with Democratic Sen. Ruben Gallego of Arizona. (Image credit: AP)"
     }
    ]
   },
@@ -1018,10 +974,10 @@
     "big": [
      "donald",
      "president",
-     "meme",
-     "viral",
      "marco",
-     "jobs"
+     "gift",
+     "viral",
+     "meme"
     ],
     "indie": [
      "work",
@@ -1101,6 +1057,96 @@
    ]
   },
   {
+   "id": "2cd2798a8b",
+   "topic": "World",
+   "summary": "Shallow quake hit Indonesia\u2019s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least five people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 4,
+    "big": [],
+    "indie": [
+     "magnitude",
+     "ground",
+     "higher",
+     "buildings",
+     "struck",
+     "residents"
+    ]
+   },
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "7.7-magnitude earthquake strikes eastern Indonesia",
+   "updated": "2026-08-15T04:43:38+00:00",
+   "outletCount": 5,
+   "counts": {
+    "corp": 2,
+    "pub": 3,
+    "nonprofit": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "At least 5 dead after powerful earthquake strikes Indonesia",
+     "url": "https://www.cbsnews.com/news/indonesia-earthquake-tsunami-warning/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T04:43:38+00:00",
+     "summary": "Indonesian authorities issued, then lifted, a tsunami warning after the powerful earthquake hit Saturday morning."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "7.7-magnitude earthquake strikes eastern Indonesia",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T02:03:22+00:00",
+     "summary": "A powerful 7.7-magnitude earthquake struck eastern Indonesia, damaging buildings and sending residents to higher ground."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "At least two killed as magnitude 7.7 quake hits Indonesia",
+     "url": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T01:36:04+00:00",
+     "summary": "Authorities urge coastal residents to move inland or to higher ground following the quake near Flores Island."
+    },
+    {
+     "outlet": "dw",
+     "title": "Indonesia: Strong earthquake hits off coast of Flores island",
+     "url": "https://www.dw.com/en/indonesia-strong-earthquake-hits-off-coast-of-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T23:45:00+00:00",
+     "summary": "At least five people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftershocks. A tsunami warning has been lifted."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least five",
+     "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+     "author": "Guardian staff and agencies",
+     "kind": "news",
+     "published": "2026-08-14T23:43:18+00:00",
+     "summary": "Shallow quake hit Indonesia\u2019s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least five people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Continue reading..."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Magnitude-7.7 quake hits off coast of Indonesia, killing at least 2",
+     "url": "https://www.nbcnews.com/world/indonesia/earthquake-indonesia-rcna592638",
+     "author": "Babak Dehghanpisheh",
+     "kind": "news",
+     "published": "2026-08-14T22:58:37+00:00",
+     "summary": "A magnitude-7.7 earthquake hit off the coast of Indonesia in the eastern Flores region, the United States Geological Survey reported on Friday."
+    }
+   ]
+  },
+  {
    "id": "b572782602",
    "topic": "Politics",
    "summary": "Florida Gov. Ron DeSantis on Friday became the latest elected Republican to declare he would not support Rep. Cory Mills's (R) reelection bid in Florida's 7th Congressional District. \u201cI have not endorsed Cory Mills, and I do not support Cory Mills,\u201d the Florida governor said when asked during a Friday press conference, captured by C-SPAN...",
@@ -1170,230 +1216,84 @@
    ]
   },
   {
-   "id": "8e7934e6a9",
-   "topic": "Justice & Policing",
-   "summary": "Six people, including a suspected gunman, are dead in rural Missaukee County, Michigan , after a multi-scene shooting, according to state police. Earlier Friday, Michigan State Police shared on social media that officers were investigating a shooting in the area that was reported just before noon and that authorities were looking for Chad Hickman, 39, who they said should be considered \"armed and dangerous.\" Officers began investigating Friday morning when three people were found dead and another was wounded at a home near LaChance Road and Kelly Road in Richland Township. Missaukee County is located roughly three hours north of Detroit. NEW YORK STATE POLICE LAUNCH MANHUNT AFTER KILLING, HOUSE FIRE FOR 'ARMED AND DANGEROUS' SUSPECT A fourth person was found dead in another home. State police said that Hickman's car was seen near a wooded area where his body and that of another victim\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "At least six people dead and one wounded in mass shooting in rural Michigan",
-   "updated": "2026-08-15T02:03:51+00:00",
-   "outletCount": 5,
-   "counts": {
-    "corp": 3,
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Five people killed in Northern Michigan, officials say; suspect found dead",
-     "url": "https://www.cbsnews.com/news/police-investigate-homicide-northern-michigan-missaukee-county/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T02:03:51+00:00",
-     "summary": "Authorities are investigating the killings of five people Friday in rural Northern Michigan, officials said. The suspect in the case was also found dead."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "6 dead, including suspect, in series of killings in Michigan",
-     "url": "https://abcnews.com/US/wireStory/5-killed-suspect-dead-incident-michigan-135660329",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T00:50:30+00:00",
-     "summary": "Law enforcement say five people have been killed and a suspect is dead in a series of killings that took place at two homes and a wooded area in Michigan"
-    },
-    {
-     "outlet": "guardian",
-     "title": "At least six people dead and one wounded in mass shooting in rural Michigan",
-     "url": "https://www.theguardian.com/us-news/2026/aug/14/michigan-mass-shooting-missaukee-county",
-     "author": "Uwa Ede-Osifo",
-     "kind": "news",
-     "published": "2026-08-14T23:32:00+00:00",
-     "summary": "Suspected gunman fled the scene, prompting a manhunt, before he and another individual were found deceased A mass shooting on Friday has left six people dead, including the suspected gunman, in Missaukee county, a rural area of northern Michigan, according to state police. Another person is in critical condition at a local hospital. Michigan state police identified the suspected gunman as 39-year-old Chad Hickman in a statement posted on social media. Continue reading..."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "5 people killed in rural Michigan; suspect found dead",
-     "url": "https://www.nbcnews.com/news/us-news/5-people-killed-rural-michigan-suspect-found-deceased-rcna592625",
-     "author": "Dennis Romero",
-     "kind": "news",
-     "published": "2026-08-14T23:27:29+00:00",
-     "summary": "Five people were found dead in rural northern Michigan on Friday, state police said."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Several people dead, including suspect, in rural Michigan multi-scene shooting: police",
-     "url": "https://www.foxnews.com/us/several-people-dead-including-suspect-rural-michigan-multi-scene-shooting-police",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T22:47:42+00:00",
-     "summary": "Six people, including a suspected gunman, are dead in rural Missaukee County, Michigan , after a multi-scene shooting, according to state police. Earlier Friday, Michigan State Police shared on social media that officers were investigating a shooting in the area that was reported just before noon and that authorities were looking for Chad Hickman, 39, who they said should be considered \"armed and dangerous.\" Officers began investigating Friday morning when three people were found dead and another was wounded at a home near LaChance Road and Kelly Road in Richland Township. Missaukee County is located roughly three hours north of Detroit. NEW YORK STATE POLICE LAUNCH MANHUNT AFTER KILLING, HOUSE FIRE FOR 'ARMED AND DANGEROUS' SUSPECT A fourth person was found dead in another home. State police said that Hickman's car was seen near a wooded area where his body and that of another victim were then found. Fox News Digital has reached out to Michigan State Police . Police said there is no ongoing danger to the public. \"Not only is this difficult for our investigators and our troopers, but it's very hard for this community. You know, this type of loss is tragic,\" MSP Public Information O"
-    }
-   ]
-  },
-  {
-   "id": "85bba0da8f",
-   "topic": "Other",
-   "summary": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story Amid reports of low morale, USS Abraham Lincoln returning home, Navy says Acting Navy Secretary Hung Cao announced on Friday that the USS Abraham Lincoln is returning to the U.S. as the aircraft carrier\u2019s long deployment...",
-   "summaryFrom": "thehill",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 3,
-    "big": [],
-    "indie": [
-     "reported",
-     "aboard"
-    ]
-   },
-   "absent": [
-    "family",
-    "coop"
-   ],
-   "headline": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
-   "updated": "2026-08-15T01:56:00+00:00",
-   "outletCount": 5,
-   "counts": {
-    "corp": 2,
-    "nonprofit": 2,
-    "pub": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Breaking down the logistics of USS Washington's replacement of USS Lincoln in Middle East",
-     "url": "https://www.cbsnews.com/video/uss-washington-to-replace-uss-lincoln-in-iran-war-after-concerns-over-poor-conditions/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T01:56:00+00:00",
-     "summary": "The USS Washington is on its way to replace the USS Lincoln in the United States' fight against Iran in the Middle East following reports of mental health issues and poor conditions on board. CBS News' Samantha Vinograd has more."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
-     "url": "https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln",
-     "author": "Konstantin Toropin, Associated Press",
-     "kind": "news",
-     "published": "2026-08-14T23:10:05+00:00",
-     "summary": "The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days."
-    },
-    {
-     "outlet": "thehill",
-     "title": "USS Abraham Lincoln returning home",
-     "url": "https://thehill.com/newsletters/defense-national-security/6030870-uss-abraham-lincoln-returning-home/",
-     "author": "Ellen Mitchell",
-     "kind": "news",
-     "published": "2026-08-14T21:39:25+00:00",
-     "summary": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story Amid reports of low morale, USS Abraham Lincoln returning home, Navy says Acting Navy Secretary Hung Cao announced on Friday that the USS Abraham Lincoln is returning to the U.S. as the aircraft carrier\u2019s long deployment..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
-     "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T17:36:27+00:00",
-     "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
-    },
-    {
-     "outlet": "npr",
-     "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
-     "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-14T06:31:29+00:00",
-     "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano)"
-    }
-   ]
-  },
-  {
-   "id": "8085c8ce18",
-   "topic": "Justice & Policing",
-   "summary": "WASHINGTON \u2014 President Donald Trump promised Friday that authorities are on the &#8220;trail&#8221; of vandals who graffitied the World War II Memorial. &#8220;Our beautiful World War II Memorial was just hit by Spray Painting Vandals,&#8221; the president wrote on Truth Social Friday morning. &#8220;THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD WAR II,&#8221; Trump added. &#8220;First the Reflecting Pool, now this. We are on their trail! Where do these animals come from???&#8221; Vandals spray-painted red graffiti on the memorial on Thursday, with the message &#8220;Clean Hands Dirty $,&#8221; and filled the memorial&#8217;s fountain with soap and bubbles. U.S. Park Police are investigating the vandalism. The White House referred The Daily Wire to the Department of the Interior when asked to comment on the matter. In a statement, Interior called the\u2026",
-   "summaryFrom": "dailywire",
+   "id": "1d526e010b",
+   "topic": "Politics",
+   "summary": "Trump Media &amp; Technology Group\u2014the company owned by President Donald Trump that operates Truth Social\u2014is facing a lawsuit alleging that its plan to monetize access to the social media posts of the president and his closest advisers through its Truth API tool is unconstitutional. Announced in July and rolled out at the start of August, Trump Media describes its API as a data feed that \"provides licensed, real-time access to posts from the highest-ranking Truth Social accounts.\" It does so at prices ranging from $60,000 to $100,000 per month, according to Trump Media CEO Kevin McGurn. Under the terms of the licensing agreement, Truth API subscribers will receive posts from the Trump administration delivered directly to their devices in \"milliseconds,\" giving them an edge over regular users scrolling through their social feeds. Filed by The Intercept and the Freedom of the Press\u2026",
+   "summaryFrom": "reason",
    "emphasis": {
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "spray",
-     "seen",
-     "case",
-     "paint"
+     "concerns",
+     "legal",
+     "filed"
     ],
     "indie": [
-     "jeanine",
-     "pirro"
+     "company",
+     "announced",
+     "monetize"
     ]
    },
    "absent": [
-    "coop"
+    "corp",
+    "coop",
+    "pub"
    ],
-   "headline": "Woman charged over vandalism of World War II Memorial in Washington, DC",
-   "updated": "2026-08-14T19:04:23+00:00",
+   "headline": "Trump Media Is Selling Early Access to the President's Truth Social Posts for $100,000 a Month",
+   "updated": "2026-08-15T02:10:00+00:00",
    "outletCount": 5,
    "counts": {
-    "family": 2,
-    "pub": 1,
-    "nonprofit": 1,
-    "corp": 1
+    "family": 3,
+    "nonprofit": 2
    },
    "newsCount": 4,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "nyt",
-     "title": "DOJ Charges Kentucky Woman in World War II Memorial Vandalism Case",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/world-war-2-memorial-vandalism.html",
-     "author": "Karoun Demirjian",
+     "outlet": "breitbart",
+     "title": "CNN's Cooper: 'Shameful' Trump Offering Early Access to Social Media Posts",
+     "url": "https://www.breitbart.com/clips/2026/08/14/cnns-cooper-shameful-trump-offering-early-access-to-social-media-posts/",
+     "author": "Pam Key",
      "kind": "news",
-     "published": "2026-08-14T19:04:23+00:00",
-     "summary": "Two felony charges have been filed against a Kentucky woman after spray paint was seen on the memorial in the capital."
+     "published": "2026-08-15T02:10:00+00:00",
+     "summary": "Friday on CNN&#8217;s &#8220;Anderson Cooper 360,&#8221; host Anderson Cooper said Truth Social charging $100,000 for early access to President Donald Trump&#8217;s posts is &#8220;shameful.&#8221; Cooper said, &#8220;There are growing legal concerns tonight over President Trump selling early access to his Truth Social The post CNN&#8217;s Cooper: &#8216;Shameful&#8217; Trump Offering Early Access to Social Media Posts appeared first on Breitbart ."
     },
     {
-     "outlet": "aljazeera",
-     "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
-     "url": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
-     "author": null,
+     "outlet": "wapo",
+     "title": "Truth Social\u2019s sale of fast access to Trump posts draws legal concerns",
+     "url": "https://www.washingtonpost.com/politics/2026/08/14/truth-socials-sale-fast-access-trump-posts-draws-legal-concerns/",
+     "author": "Riley Beggin, Cat Zakrzewski",
      "kind": "news",
-     "published": "2026-08-14T18:55:24+00:00",
-     "summary": "The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool."
+     "published": "2026-08-14T14:32:00+00:00",
+     "summary": "A lawsuit filed this week alleges that the product is unconstitutional, and other experts warn it could violate securities laws."
     },
     {
-     "outlet": "guardian",
-     "title": "Woman arrested after second world war memorial in DC vandalized",
-     "url": "https://www.theguardian.com/us-news/2026/aug/14/world-war-two-memorial-dc-vandalism",
-     "author": "Edward Helmore",
-     "kind": "news",
-     "published": "2026-08-14T18:43:30+00:00",
-     "summary": "Suspect faces two felony charges after memorial filled with bubbles and spray-paint reading \u2018Clean hands Dirty $\u2019 A woman was arrested on Friday morning in connection with the vandalization of the National World War Two Memorial on the National Mall in Washington DC , the capital\u2019s federal prosecutor announced. Jeanine Pirro, the US attorney for the District of Columbia, announced mid-morning that a suspect was in custody and had been charged with federal crimes. Continue reading..."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Woman arrested and facing felony charges in World War II Memorial vandalism case, DOJ says",
-     "url": "https://www.nbcnews.com/politics/justice-department/woman-arrested-felony-charges-world-war-ii-memorial-vandalism-case-rcna592546",
-     "author": "Ryan J. Reilly",
-     "kind": "news",
-     "published": "2026-08-14T14:47:21+00:00",
-     "summary": "Vandalism can be seen at the World War II Memorial on August 13, 2026 in Washington D.C. Spray paint on the walls of the memorial states, \"Clean hands Dirty $\", and soap bubble over in the fountain below the graffiti."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Trump Vows Authorities Will Track Down \u2018Animals\u2019 Who Desecrated World War II Memorial",
-     "url": "https://www.dailywire.com/news/trump-vows-authorities-will-track-down-animals-who-desecrated-world-war-ii-memorial",
-     "author": "Mary Margaret Olohan",
+     "outlet": "reason",
+     "title": "Trump Media Is Selling Early Access to the President's Truth Social Posts for $100,000 a Month",
+     "url": "https://reason.com/2026/08/13/trump-media-is-selling-early-access-to-the-presidents-truth-social-posts-for-100000-a-month/",
+     "author": "Tosin Akintola",
      "kind": "opinion",
-     "published": "2026-08-14T11:08:46+00:00",
-     "summary": "WASHINGTON \u2014 President Donald Trump promised Friday that authorities are on the &#8220;trail&#8221; of vandals who graffitied the World War II Memorial. &#8220;Our beautiful World War II Memorial was just hit by Spray Painting Vandals,&#8221; the president wrote on Truth Social Friday morning. &#8220;THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD WAR II,&#8221; Trump added. &#8220;First the Reflecting Pool, now this. We are on their trail! Where do these animals come from???&#8221; Vandals spray-painted red graffiti on the memorial on Thursday, with the message &#8220;Clean Hands Dirty $,&#8221; and filled the memorial&#8217;s fountain with soap and bubbles. U.S. Park Police are investigating the vandalism. The White House referred The Daily Wire to the Department of the Interior when asked to comment on the matter. In a statement, Interior called the vandalism an &#8220;utter disgrace&#8221; and said the public deserves to know who was responsible. \u201cThe vandalism that occurred is an utter disgrace and will not be tolerated,\u201d an Interior Department spokesperson said in a statement. \u201cThe public should know we will find the person responsible for this disgu"
+     "published": "2026-08-13T17:21:10+00:00",
+     "summary": "Trump Media &amp; Technology Group\u2014the company owned by President Donald Trump that operates Truth Social\u2014is facing a lawsuit alleging that its plan to monetize access to the social media posts of the president and his closest advisers through its Truth API tool is unconstitutional. Announced in July and rolled out at the start of August, Trump Media describes its API as a data feed that \"provides licensed, real-time access to posts from the highest-ranking Truth Social accounts.\" It does so at prices ranging from $60,000 to $100,000 per month, according to Trump Media CEO Kevin McGurn. Under the terms of the licensing agreement, Truth API subscribers will receive posts from the Trump administration delivered directly to their devices in \"milliseconds,\" giving them an edge over regular users scrolling through their social feeds. Filed by The Intercept and the Freedom of the Press Foundation, the lawsuit states that the president's monetization of government information is \"profoundly corrupt\" and violates the First and Fifth Amendments. The groups argue they have a \"right to access President Trump's public comments on equal terms with other members of the press and public,\" which i"
+    },
+    {
+     "outlet": "time",
+     "title": "Trump Is Sued Over Selling Early Access to Truth Social Posts Amid Backlash Against Scheme",
+     "url": "https://time.com/article/2026/08/13/trump-sued-truth-social-posts-early-access-lawsuit-democrat-investigations/",
+     "author": "Tiago Ventura",
+     "kind": "news",
+     "published": "2026-08-13T16:55:49+00:00",
+     "summary": "President Donald Trump holds up a paper copy of one of his own Truth Social posts in the Oval Office of the White House on Feb. 25, 2025. \u2014Alex Wong\u2013\u2013Getty Images President Donald Trump is being sued over a new Truth Social service that sells early access to his posts to the tune of up to $100,000 a month. The lawsuit was filed Wednesday in a New York federal court by two media entities, The Intercept and the Freedom of the Press Foundation. The complaint claims the Truth API service offered by the Trump Media and Technology Group (TMTG) is \u201cprofoundly corrupt,\u201d as the President \u201cstands to gain financially by giving \u201cmarket-moving\u201d government information to those who are willing and able to pay his personal company.\u201d Since launching on Aug. 1, the service is offering paying subscribers early access to posts from high-profile accounts, including Trump\u2019s own, which boasts 13 million followers. TMTG previously said the commercial data feed will deliver posts to its customers in \u201cmilliseconds\u201d and that it had been designed \u201cfor organizations most impacted by the cost of a delay in information.\u201d The President has a history of disclosing market-sensitive news on the platform, from the an"
+    },
+    {
+     "outlet": "intercept",
+     "title": "The Intercept Sues Trump for Selling Premium Access to Truth Social Announcements",
+     "url": "https://theintercept.com/2026/08/12/trump-media-truthsocial-premium-first-amendment/",
+     "author": "Noah Hurowitz",
+     "kind": "news",
+     "published": "2026-08-12T14:48:01+00:00",
+     "summary": "The Intercept and the Freedom of the Press Foundation sued President Donald Trump and his staff Wednesday, challenging a Trump-owned media company\u2019s plan to monetize the president\u2019s social media posts. The lawsuit is in response to a scheme announced last month by the parent company of Trump\u2019s Truth Social platform to charge as much as $100,000 per month for early access to the president\u2019s posts. By offering preferred access to presidential missives, the monetization plan, dubbed \u201cTruth API,\u201d would violate the First Amendment rights of journalists and other members of the public to equal access to official information, the lawsuit argues, while allowing Trump to trade his public statements for cold hard cash. \u201cTrump is trying to enrich himself by privatizing government information that he has no right to sell,\u201d said Ben Muessig, editor-in-chief of The Intercept. \u201cWe won\u2019t let it stand.\u201d The complaint filed in the Southern District of New York also asserts that the monetization scheme, which it described as an \u201cout-and-out plan of extortion,\u201d would violate the Fifth Amendment by charging \u201cunreasonable sums\u201d for equal access to government information and by undermining the right to e"
     }
    ]
   },
@@ -1479,10 +1379,10 @@
      "organization"
     ],
     "indie": [
-     "care",
-     "international",
      "reunited",
-     "october"
+     "care",
+     "october",
+     "international"
     ]
    },
    "absent": [
@@ -1618,94 +1518,122 @@
    ]
   },
   {
-   "id": "2cd2798a8b",
-   "topic": "World",
-   "summary": "Shallow quake hit Indonesia\u2019s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing two people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities initially issued a tsunami warning, but it has since been lifted. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 4,
-    "big": [
-     "magnitude-"
-    ],
-    "indie": [
-     "higher",
-     "buildings",
-     "ground",
-     "residents",
-     "strikes",
-     "authorities"
-    ]
+   "id": "8e7934e6a9",
+   "topic": "Justice & Policing",
+   "summary": "Six people, including a suspected gunman, are dead in rural Missaukee County, Michigan , after a multi-scene shooting, according to state police. Earlier Friday, Michigan State Police shared on social media that officers were investigating a shooting in the area that was reported just before noon and that authorities were looking for Chad Hickman, 39, who they said should be considered \"armed and dangerous.\" Officers began investigating Friday morning when three people were found dead and another was wounded at a home near LaChance Road and Kelly Road in Richland Township. Missaukee County is located roughly three hours north of Detroit. NEW YORK STATE POLICE LAUNCH MANHUNT AFTER KILLING, HOUSE FIRE FOR 'ARMED AND DANGEROUS' SUSPECT A fourth person was found dead in another home. State police said that Hickman's car was seen near a wooded area where his body and that of another victim\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "At least six people dead and one wounded in mass shooting in rural Michigan",
+   "updated": "2026-08-15T02:03:51+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 2,
+    "nonprofit": 1,
+    "family": 1
    },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Five people killed in Northern Michigan, officials say; suspect found dead",
+     "url": "https://www.cbsnews.com/news/police-investigate-homicide-northern-michigan-missaukee-county/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T02:03:51+00:00",
+     "summary": "Authorities are investigating the killings of five people Friday in rural Northern Michigan, officials said. The suspect in the case was also found dead."
+    },
+    {
+     "outlet": "guardian",
+     "title": "At least six people dead and one wounded in mass shooting in rural Michigan",
+     "url": "https://www.theguardian.com/us-news/2026/aug/14/michigan-mass-shooting-missaukee-county",
+     "author": "Uwa Ede-Osifo",
+     "kind": "news",
+     "published": "2026-08-14T23:32:00+00:00",
+     "summary": "Suspected gunman fled the scene, prompting a manhunt, before he and another individual were found deceased A mass shooting on Friday has left six people dead, including the suspected gunman, in Missaukee county, a rural area of northern Michigan, according to state police. Another person is in critical condition at a local hospital. Michigan state police identified the suspected gunman as 39-year-old Chad Hickman in a statement posted on social media. Continue reading..."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "5 people killed in rural Michigan; suspect found dead",
+     "url": "https://www.nbcnews.com/news/us-news/5-people-killed-rural-michigan-suspect-found-deceased-rcna592625",
+     "author": "Dennis Romero",
+     "kind": "news",
+     "published": "2026-08-14T23:27:29+00:00",
+     "summary": "Five people were found dead in rural northern Michigan on Friday, state police said."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Several people dead, including suspect, in rural Michigan multi-scene shooting: police",
+     "url": "https://www.foxnews.com/us/several-people-dead-including-suspect-rural-michigan-multi-scene-shooting-police",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T22:47:42+00:00",
+     "summary": "Six people, including a suspected gunman, are dead in rural Missaukee County, Michigan , after a multi-scene shooting, according to state police. Earlier Friday, Michigan State Police shared on social media that officers were investigating a shooting in the area that was reported just before noon and that authorities were looking for Chad Hickman, 39, who they said should be considered \"armed and dangerous.\" Officers began investigating Friday morning when three people were found dead and another was wounded at a home near LaChance Road and Kelly Road in Richland Township. Missaukee County is located roughly three hours north of Detroit. NEW YORK STATE POLICE LAUNCH MANHUNT AFTER KILLING, HOUSE FIRE FOR 'ARMED AND DANGEROUS' SUSPECT A fourth person was found dead in another home. State police said that Hickman's car was seen near a wooded area where his body and that of another victim were then found. Fox News Digital has reached out to Michigan State Police . Police said there is no ongoing danger to the public. \"Not only is this difficult for our investigators and our troopers, but it's very hard for this community. You know, this type of loss is tragic,\" MSP Public Information O"
+    }
+   ]
+  },
+  {
+   "id": "85bba0da8f",
+   "topic": "Other",
+   "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano)",
+   "summaryFrom": "npr",
+   "emphasis": null,
    "absent": [
     "family",
     "coop"
    ],
-   "headline": "7.7-magnitude earthquake strikes eastern Indonesia",
-   "updated": "2026-08-15T02:03:22+00:00",
+   "headline": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
+   "updated": "2026-08-15T01:56:00+00:00",
    "outletCount": 4,
    "counts": {
-    "pub": 3,
-    "corp": 2,
-    "nonprofit": 1
+    "corp": 1,
+    "nonprofit": 2,
+    "pub": 1
    },
-   "newsCount": 6,
+   "newsCount": 4,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
     {
-     "outlet": "aljazeera",
-     "title": "7.7-magnitude earthquake strikes eastern Indonesia",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss",
+     "outlet": "cbsnews",
+     "title": "Breaking down the logistics of USS Washington's replacement of USS Lincoln in Middle East",
+     "url": "https://www.cbsnews.com/video/uss-washington-to-replace-uss-lincoln-in-iran-war-after-concerns-over-poor-conditions/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-15T02:03:22+00:00",
-     "summary": "A powerful 7.7-magnitude earthquake struck eastern Indonesia, damaging buildings and sending residents to higher ground."
+     "published": "2026-08-15T01:56:00+00:00",
+     "summary": "The USS Washington is on its way to replace the USS Lincoln in the United States' fight against Iran in the Middle East following reports of mental health issues and poor conditions on board. CBS News' Samantha Vinograd has more."
     },
     {
-     "outlet": "aljazeera",
-     "title": "At least two killed as magnitude 7.7 quake hits Indonesia",
-     "url": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
+     "outlet": "pbsnewshour",
+     "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
+     "url": "https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln",
+     "author": "Konstantin Toropin, Associated Press",
+     "kind": "news",
+     "published": "2026-08-14T23:10:05+00:00",
+     "summary": "The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days."
+    },
+    {
+     "outlet": "bbc",
+     "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
+     "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-15T01:36:04+00:00",
-     "summary": "Authorities urge coastal residents to move inland or to higher ground following the quake near Flores Island."
+     "published": "2026-08-14T17:36:27+00:00",
+     "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
     },
     {
-     "outlet": "nbcnews",
-     "title": "Powerful 7.7-magnitude earthquake causes intense shaking near Indonesia",
-     "url": "https://www.nbcnews.com/video/powerful-7-7-magnitude-earthquake-causes-intense-shaking-near-indonesia-268349509807",
-     "author": null,
+     "outlet": "npr",
+     "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
+     "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
+     "author": "The Associated Press",
      "kind": "news",
-     "published": "2026-08-15T01:34:35+00:00",
-     "summary": "A magnitude-7.7 earthquake struck off Indonesia\u2019s coast around 5 a.m. local time at a depth of about 6 miles, causing significant damage but not generating a major tsunami. NBC News' meteorologist Bill Karins reports."
-    },
-    {
-     "outlet": "dw",
-     "title": "Indonesia: Strong earthquake hits off coast of Flores island",
-     "url": "https://www.dw.com/en/indonesia-strong-earthquake-hits-off-coast-of-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T23:45:00+00:00",
-     "summary": "At least two people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftershocks. A tsunami warning has been lifted."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing two",
-     "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-     "author": "Guardian staff and agencies",
-     "kind": "news",
-     "published": "2026-08-14T23:43:18+00:00",
-     "summary": "Shallow quake hit Indonesia\u2019s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing two people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities initially issued a tsunami warning, but it has since been lifted. Continue reading..."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Magnitude-7.7 quake hits off coast of Indonesia, killing at least 2",
-     "url": "https://www.nbcnews.com/world/indonesia/earthquake-indonesia-rcna592638",
-     "author": "Babak Dehghanpisheh",
-     "kind": "news",
-     "published": "2026-08-14T22:58:37+00:00",
-     "summary": "A magnitude-7.7 earthquake hit off the coast of Indonesia in the eastern Flores region, the United States Geological Survey reported on Friday."
+     "published": "2026-08-14T06:31:29+00:00",
+     "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano)"
     }
    ]
   },
@@ -2147,6 +2075,66 @@
    ]
   },
   {
+   "id": "ad774f0314",
+   "topic": "Justice & Policing",
+   "summary": "WASHINGTON \u2014 President Donald Trump promised Friday that authorities are on the &#8220;trail&#8221; of vandals who graffitied the World War II Memorial. &#8220;Our beautiful World War II Memorial was just hit by Spray Painting Vandals,&#8221; the president wrote on Truth Social Friday morning. &#8220;THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD WAR II,&#8221; Trump added. &#8220;First the Reflecting Pool, now this. We are on their trail! Where do these animals come from???&#8221; Vandals spray-painted red graffiti on the memorial on Thursday, with the message &#8220;Clean Hands Dirty $,&#8221; and filled the memorial&#8217;s fountain with soap and bubbles. U.S. Park Police are investigating the vandalism. The White House referred The Daily Wire to the Department of the Interior when asked to comment on the matter. In a statement, Interior called the\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Woman arrested after second world war memorial in DC vandalized",
+   "updated": "2026-08-14T19:04:23+00:00",
+   "outletCount": 4,
+   "counts": {
+    "family": 2,
+    "nonprofit": 1,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "DOJ Charges Kentucky Woman in World War II Memorial Vandalism Case",
+     "url": "https://www.nytimes.com/2026/08/14/us/politics/world-war-2-memorial-vandalism.html",
+     "author": "Karoun Demirjian",
+     "kind": "news",
+     "published": "2026-08-14T19:04:23+00:00",
+     "summary": "Two felony charges have been filed against a Kentucky woman after spray paint was seen on the memorial in the capital."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Woman arrested after second world war memorial in DC vandalized",
+     "url": "https://www.theguardian.com/us-news/2026/aug/14/world-war-two-memorial-dc-vandalism",
+     "author": "Edward Helmore",
+     "kind": "news",
+     "published": "2026-08-14T18:43:30+00:00",
+     "summary": "Suspect faces two felony charges after memorial filled with bubbles and spray-paint reading \u2018Clean hands Dirty $\u2019 A woman was arrested on Friday morning in connection with the vandalization of the National World War Two Memorial on the National Mall in Washington DC , the capital\u2019s federal prosecutor announced. Jeanine Pirro, the US attorney for the District of Columbia, announced mid-morning that a suspect was in custody and had been charged with federal crimes. Continue reading..."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Woman arrested and facing felony charges in World War II Memorial vandalism case, DOJ says",
+     "url": "https://www.nbcnews.com/politics/justice-department/woman-arrested-felony-charges-world-war-ii-memorial-vandalism-case-rcna592546",
+     "author": "Ryan J. Reilly",
+     "kind": "news",
+     "published": "2026-08-14T14:47:21+00:00",
+     "summary": "Vandalism can be seen at the World War II Memorial on August 13, 2026 in Washington D.C. Spray paint on the walls of the memorial states, \"Clean hands Dirty $\", and soap bubble over in the fountain below the graffiti."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Trump Vows Authorities Will Track Down \u2018Animals\u2019 Who Desecrated World War II Memorial",
+     "url": "https://www.dailywire.com/news/trump-vows-authorities-will-track-down-animals-who-desecrated-world-war-ii-memorial",
+     "author": "Mary Margaret Olohan",
+     "kind": "opinion",
+     "published": "2026-08-14T11:08:46+00:00",
+     "summary": "WASHINGTON \u2014 President Donald Trump promised Friday that authorities are on the &#8220;trail&#8221; of vandals who graffitied the World War II Memorial. &#8220;Our beautiful World War II Memorial was just hit by Spray Painting Vandals,&#8221; the president wrote on Truth Social Friday morning. &#8220;THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD WAR II,&#8221; Trump added. &#8220;First the Reflecting Pool, now this. We are on their trail! Where do these animals come from???&#8221; Vandals spray-painted red graffiti on the memorial on Thursday, with the message &#8220;Clean Hands Dirty $,&#8221; and filled the memorial&#8217;s fountain with soap and bubbles. U.S. Park Police are investigating the vandalism. The White House referred The Daily Wire to the Department of the Interior when asked to comment on the matter. In a statement, Interior called the vandalism an &#8220;utter disgrace&#8221; and said the public deserves to know who was responsible. \u201cThe vandalism that occurred is an utter disgrace and will not be tolerated,\u201d an Interior Department spokesperson said in a statement. \u201cThe public should know we will find the person responsible for this disgu"
+    }
+   ]
+  },
+  {
    "id": "735115f9e5",
    "topic": "Tech",
    "summary": "It\u2019s a nice sentiment, but all AI users should ask three questions about their preferred choice of AI platform On Monday, Mark Zuckerberg published a 6,500-word essay, The Future Is for Everyone. The essay came with something even rarer: a new Meta open-weight model. An open-weight AI model is the kind of AI with which you download the entire thing, and it works on your own computer (with or without the internet) and nobody can switch it off except for you. Almost every mainstream AI tool you use, whether it be Gemini, ChatGPT or Claude, is one you rent access to. Meta\u2019s is one that you can download and actually own. I downloaded it before I finished the essay. So can you. This major move by the world\u2019s largest tech heavyweight comes amid a summer heavy with AI news, full of nations at war. Washington against Beijing; tech founder against tech founder. But beneath those conflicts is a\u2026",
@@ -2214,77 +2202,6 @@
    ]
   },
   {
-   "id": "1d526e010b",
-   "topic": "Politics",
-   "summary": "Trump Media &amp; Technology Group\u2014the company owned by President Donald Trump that operates Truth Social\u2014is facing a lawsuit alleging that its plan to monetize access to the social media posts of the president and his closest advisers through its Truth API tool is unconstitutional. Announced in July and rolled out at the start of August, Trump Media describes its API as a data feed that \"provides licensed, real-time access to posts from the highest-ranking Truth Social accounts.\" It does so at prices ranging from $60,000 to $100,000 per month, according to Trump Media CEO Kevin McGurn. Under the terms of the licensing agreement, Truth API subscribers will receive posts from the Trump administration delivered directly to their devices in \"milliseconds,\" giving them an edge over regular users scrolling through their social feeds. Filed by The Intercept and the Freedom of the Press\u2026",
-   "summaryFrom": "reason",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [
-     "filed"
-    ],
-    "indie": [
-     "company",
-     "announced",
-     "monetize"
-    ]
-   },
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Trump Media Is Selling Early Access to the President's Truth Social Posts for $100,000 a Month",
-   "updated": "2026-08-14T14:32:00+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 2,
-    "nonprofit": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "wapo",
-     "title": "Truth Social\u2019s sale of fast access to Trump posts draws legal concerns",
-     "url": "https://www.washingtonpost.com/politics/2026/08/14/truth-socials-sale-fast-access-trump-posts-draws-legal-concerns/",
-     "author": "Riley Beggin, Cat Zakrzewski",
-     "kind": "news",
-     "published": "2026-08-14T14:32:00+00:00",
-     "summary": "A lawsuit filed this week alleges that the product is unconstitutional, and other experts warn it could violate securities laws."
-    },
-    {
-     "outlet": "reason",
-     "title": "Trump Media Is Selling Early Access to the President's Truth Social Posts for $100,000 a Month",
-     "url": "https://reason.com/2026/08/13/trump-media-is-selling-early-access-to-the-presidents-truth-social-posts-for-100000-a-month/",
-     "author": "Tosin Akintola",
-     "kind": "opinion",
-     "published": "2026-08-13T17:21:10+00:00",
-     "summary": "Trump Media &amp; Technology Group\u2014the company owned by President Donald Trump that operates Truth Social\u2014is facing a lawsuit alleging that its plan to monetize access to the social media posts of the president and his closest advisers through its Truth API tool is unconstitutional. Announced in July and rolled out at the start of August, Trump Media describes its API as a data feed that \"provides licensed, real-time access to posts from the highest-ranking Truth Social accounts.\" It does so at prices ranging from $60,000 to $100,000 per month, according to Trump Media CEO Kevin McGurn. Under the terms of the licensing agreement, Truth API subscribers will receive posts from the Trump administration delivered directly to their devices in \"milliseconds,\" giving them an edge over regular users scrolling through their social feeds. Filed by The Intercept and the Freedom of the Press Foundation, the lawsuit states that the president's monetization of government information is \"profoundly corrupt\" and violates the First and Fifth Amendments. The groups argue they have a \"right to access President Trump's public comments on equal terms with other members of the press and public,\" which i"
-    },
-    {
-     "outlet": "time",
-     "title": "Trump Is Sued Over Selling Early Access to Truth Social Posts Amid Backlash Against Scheme",
-     "url": "https://time.com/article/2026/08/13/trump-sued-truth-social-posts-early-access-lawsuit-democrat-investigations/",
-     "author": "Tiago Ventura",
-     "kind": "news",
-     "published": "2026-08-13T16:55:49+00:00",
-     "summary": "President Donald Trump holds up a paper copy of one of his own Truth Social posts in the Oval Office of the White House on Feb. 25, 2025. \u2014Alex Wong\u2013\u2013Getty Images President Donald Trump is being sued over a new Truth Social service that sells early access to his posts to the tune of up to $100,000 a month. The lawsuit was filed Wednesday in a New York federal court by two media entities, The Intercept and the Freedom of the Press Foundation. The complaint claims the Truth API service offered by the Trump Media and Technology Group (TMTG) is \u201cprofoundly corrupt,\u201d as the President \u201cstands to gain financially by giving \u201cmarket-moving\u201d government information to those who are willing and able to pay his personal company.\u201d Since launching on Aug. 1, the service is offering paying subscribers early access to posts from high-profile accounts, including Trump\u2019s own, which boasts 13 million followers. TMTG previously said the commercial data feed will deliver posts to its customers in \u201cmilliseconds\u201d and that it had been designed \u201cfor organizations most impacted by the cost of a delay in information.\u201d The President has a history of disclosing market-sensitive news on the platform, from the an"
-    },
-    {
-     "outlet": "intercept",
-     "title": "The Intercept Sues Trump for Selling Premium Access to Truth Social Announcements",
-     "url": "https://theintercept.com/2026/08/12/trump-media-truthsocial-premium-first-amendment/",
-     "author": "Noah Hurowitz",
-     "kind": "news",
-     "published": "2026-08-12T14:48:01+00:00",
-     "summary": "The Intercept and the Freedom of the Press Foundation sued President Donald Trump and his staff Wednesday, challenging a Trump-owned media company\u2019s plan to monetize the president\u2019s social media posts. The lawsuit is in response to a scheme announced last month by the parent company of Trump\u2019s Truth Social platform to charge as much as $100,000 per month for early access to the president\u2019s posts. By offering preferred access to presidential missives, the monetization plan, dubbed \u201cTruth API,\u201d would violate the First Amendment rights of journalists and other members of the public to equal access to official information, the lawsuit argues, while allowing Trump to trade his public statements for cold hard cash. \u201cTrump is trying to enrich himself by privatizing government information that he has no right to sell,\u201d said Ben Muessig, editor-in-chief of The Intercept. \u201cWe won\u2019t let it stand.\u201d The complaint filed in the Southern District of New York also asserts that the monetization scheme, which it described as an \u201cout-and-out plan of extortion,\u201d would violate the Fifth Amendment by charging \u201cunreasonable sums\u201d for equal access to government information and by undermining the right to e"
-    }
-   ]
-  },
-  {
    "id": "4a16daf682",
    "topic": "Politics",
    "summary": "With White House Press Secretary Karoline Leavitt set to step down from her role at the end of the month, the question of who will replace her is looming over Washington. Leavitt, 28, assumed the Press Secretary role at the beginning of President Donald Trump\u2019s second term last January, becoming the youngest person to ever hold the position. President Donald Trump announced Leavitt\u2019s departure in a post on Truth Social on Wednesday, saying that she would leave her role to focus on her family but that she would remain one of his \u201ctop advisors, and an influential voice within the Republican Party.\u201d Leavitt, who gave birth to her second child in May, thanked Trump in a lengthy post on X, in which she described her decision to focus on her two young children \u201cbittersweet.\u201d \u201cI will always remain a vocal advocate for MAGA and the Republican Party,\u201d Leavitt wrote. Read More: Karoline Leavitt\u2019s\u2026",
@@ -2294,8 +2211,8 @@
     "indieCount": 2,
     "big": [
      "role",
-     "trump",
-     "announced"
+     "announced",
+     "trump"
     ],
     "indie": []
    },
@@ -2966,6 +2883,132 @@
    ]
   },
   {
+   "id": "d55114ffc3",
+   "topic": "Other",
+   "summary": "A man was charged with multiple hate crimes after allegedly disrupting Shabbat services at a New York City synagogue Friday, striking a congregant and attacking a member of the security team, authorities said. New York City Police Commissioner Jessica Tisch said the man disrupted services at Central Synagogue on Lexington Avenue in Manhattan. The NYPD later identified the suspect as Larry Montes, 46, of the Bronx, and said he was charged with two counts of assault as a hate crime and one count of criminal mischief as a hate crime, among other charges. NORTH CAROLINA WOMAN CHARGED IN ALLEGED HOUSTON SYNAGOGUE ATTACK PLOT AS INVESTIGATORS SEARCH FOR 2 OTHERS \"As synagogue security was escorting him out, he struck a member of the congregation, damaged synagogue property, and then spit at and headbutted a member of the security team,\" Tisch said in a statement posted on X. An NYPD sergeant\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Man charged with assault, hate crimes after allegedly disrupting Shabbat services at NYC synagogue",
+   "updated": "2026-08-15T04:27:46+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "Man charged with assault, hate crimes after allegedly disrupting Shabbat services at NYC synagogue",
+     "url": "https://www.foxnews.com/us/man-charged-assault-hate-crimes-after-allegedly-disrupting-shabbat-services-nyc-synagogue",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T04:27:46+00:00",
+     "summary": "A man was charged with multiple hate crimes after allegedly disrupting Shabbat services at a New York City synagogue Friday, striking a congregant and attacking a member of the security team, authorities said. New York City Police Commissioner Jessica Tisch said the man disrupted services at Central Synagogue on Lexington Avenue in Manhattan. The NYPD later identified the suspect as Larry Montes, 46, of the Bronx, and said he was charged with two counts of assault as a hate crime and one count of criminal mischief as a hate crime, among other charges. NORTH CAROLINA WOMAN CHARGED IN ALLEGED HOUSTON SYNAGOGUE ATTACK PLOT AS INVESTIGATORS SEARCH FOR 2 OTHERS \"As synagogue security was escorting him out, he struck a member of the congregation, damaged synagogue property, and then spit at and headbutted a member of the security team,\" Tisch said in a statement posted on X. An NYPD sergeant working a paid detail at the synagogue immediately intervened and took Montes into custody, according to Tisch. No one was seriously injured, and the incident remains under investigation, Tisch said. \"I have spoken with the rabbi of the synagogue, and I'm relieved that no one was seriously injured,\" "
+    },
+    {
+     "outlet": "nyt",
+     "title": "Man Charged With Hate Crime After Disrupting Worship at N.Y.C. Synagogue",
+     "url": "https://www.nytimes.com/2026/08/14/nyregion/central-synagogue-shabbat-assault-arrest.html",
+     "author": "John Yoon",
+     "kind": "news",
+     "published": "2026-08-15T04:15:03+00:00",
+     "summary": "Larry Montes, 46, faces assault and hate crime charges after striking a congregation member and a security guard at Central Synagogue in Manhattan, the police said."
+    }
+   ]
+  },
+  {
+   "id": "f6585ffa8b",
+   "topic": "Other",
+   "summary": "A three-judge panel of the court had reversed Holberg\u2019s sentence in 2025, but Friday\u2019s split decision will keep the district court\u2019s decision to affirm her conviction.",
+   "summaryFrom": "texastribune",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Fifth Circuit reaffirms death row inmate Brittany Holberg\u2019s conviction",
+   "updated": "2026-08-15T04:01:24+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Tennessee death row inmate\u2019s last words to son who witnessed killer dad\u2019s execution",
+     "url": "https://nypost.com/2026/08/15/us-news/tennessee-death-row-inmates-last-words-to-son-who-witnessed-killer-dads-execution/",
+     "author": "Daniel Cody",
+     "kind": "news",
+     "published": "2026-08-15T04:01:24+00:00",
+     "summary": "As his son watched on, a Tennessee death row inmate executed by lethal injection offered a final message aimed at the witness gallery: \u201ctell my son hello.\u201d"
+    },
+    {
+     "outlet": "texastribune",
+     "title": "Fifth Circuit reaffirms death row inmate Brittany Holberg\u2019s conviction",
+     "url": "https://feeds.texastribune.org/link/16799/17418677/texas-death-row-brittany-holberg-appeal-denied-fifth-circuit",
+     "author": "Ayden Runnels",
+     "kind": "news",
+     "published": "2026-08-15T02:04:38+00:00",
+     "summary": "A three-judge panel of the court had reversed Holberg\u2019s sentence in 2025, but Friday\u2019s split decision will keep the district court\u2019s decision to affirm her conviction."
+    }
+   ]
+  },
+  {
+   "id": "bac12dde51",
+   "topic": "Climate & Energy",
+   "summary": "The Taliban managed to retake power in Afghanistan on August 15, 2021. Now, they face armed factions who challenge the Taliban rule and strain their central claim of providing security.",
+   "summaryFrom": "dw",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Taliban pressured by insurgents after 5 years in power",
+   "updated": "2026-08-15T04:01:18+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power",
+     "url": "https://www.nytimes.com/2026/08/15/world/asia/entrenched-embattled-and-defiant-the-taliban-celebrate-5-years-in-power.html",
+     "author": "Elian Peltier",
+     "kind": "news",
+     "published": "2026-08-15T04:01:18+00:00",
+     "summary": "The Taliban have Afghanistan in a chokehold that spares no one. But threats are starting to crack their veneer of stability and control."
+    },
+    {
+     "outlet": "dw",
+     "title": "Taliban pressured by insurgents after 5 years in power",
+     "url": "https://www.dw.com/en/taliban-pressured-by-insurgents-after-5-years-in-power/a-78371144?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T13:49:00+00:00",
+     "summary": "The Taliban managed to retake power in Afghanistan on August 15, 2021. Now, they face armed factions who challenge the Taliban rule and strain their central claim of providing security."
+    }
+   ]
+  },
+  {
    "id": "09933914b7",
    "topic": "Climate & Energy",
    "summary": "Storm expected to strengthen to hurricane as state of emergency declared amid danger of \u2018life-threatening\u2019 floods Tropical Storm Lala is set to hit Hawaii\u2019s Big Island with hurricane force in a matter of hours, bringing dangerous winds, heavy rainfall and high surf in a sign of what a strengthening \u201csuper\u201d El Ni\u00f1o in the Pacific may bring. The tropical storm is currently about 420 miles (675km) south-east of Hilo on the archipelago\u2019s largest island, the National Oceanic and Atmospheric Administration (Noaa) said in its latest advisory, packing winds of 60mph (97km/h). Lala is forecast to strengthen into a hurricane as it approaches the Big Island. Continue reading...",
@@ -3004,6 +3047,90 @@
      "kind": "news",
      "published": "2026-08-14T18:17:25+00:00",
      "summary": "Storm expected to strengthen to hurricane as state of emergency declared amid danger of \u2018life-threatening\u2019 floods Tropical Storm Lala is set to hit Hawaii\u2019s Big Island with hurricane force in a matter of hours, bringing dangerous winds, heavy rainfall and high surf in a sign of what a strengthening \u201csuper\u201d El Ni\u00f1o in the Pacific may bring. The tropical storm is currently about 420 miles (675km) south-east of Hilo on the archipelago\u2019s largest island, the National Oceanic and Atmospheric Administration (Noaa) said in its latest advisory, packing winds of 60mph (97km/h). Lala is forecast to strengthen into a hurricane as it approaches the Big Island. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "2045764898",
+   "topic": "Politics",
+   "summary": "My wife and I still chuckle about the time we toured the battlefield in Petersburg, Va., where 100,000 Union forces led by Ulysses S. Grant laid siege to 20,000 Confederate soldiers led by Robert E. Lee. It was the longest battle of the Civil War, lasting 292 days. Brutal trench warfare led to 70,000 casualties, as Union forces cut supply lines to the Confederate capital in nearby Richmond and precipitated the South's defeat. There was nothing funny about this brutal slice of American history, of course, but we were bemused by the National Park Service video that took an unequivocally pro-Southern stance. In particular, the narrator talked about the \"advancing Yankee hordes,\" which made an odd impression on two Pennsylvanians who grew up with a much different take on these events. Our tour was 43 years ago, so I imagine the video has since been updated to better reflect modern\u2026",
+   "summaryFrom": "reason",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Trump Is Trying To Spin U.S. History",
+   "updated": "2026-08-15T02:09:56+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "Raskin: Trump Is Trying to 'Steal Everything' He Can Before the Election",
+     "url": "https://www.breitbart.com/clips/2026/08/14/raskin-trump-is-trying-to-steal-everything-he-can-before-the-election/",
+     "author": "Pam Key",
+     "kind": "news",
+     "published": "2026-08-15T02:09:56+00:00",
+     "summary": "Friday on CNN&#8217;s &#8220;Anderson Cooper 360,&#8221; Rep. Jamie Raskin (D-CA) said President Donald Trump is trying to &#8220;steal everything&#8221; he can while discussing Truth Social charging $100,000 for early access to Trump\u2019s posts. Raskin said, &#8220;It&#8217;s a smash and grab, get The post Raskin: Trump Is Trying to &#8216;Steal Everything&#8217; He Can Before the Election appeared first on Breitbart ."
+    },
+    {
+     "outlet": "reason",
+     "title": "Trump Is Trying To Spin U.S. History",
+     "url": "https://reason.com/2026/08/14/trump-is-trying-to-spin-u-s-history/",
+     "author": "Steven Greenhut",
+     "kind": "opinion",
+     "published": "2026-08-14T11:30:00+00:00",
+     "summary": "My wife and I still chuckle about the time we toured the battlefield in Petersburg, Va., where 100,000 Union forces led by Ulysses S. Grant laid siege to 20,000 Confederate soldiers led by Robert E. Lee. It was the longest battle of the Civil War, lasting 292 days. Brutal trench warfare led to 70,000 casualties, as Union forces cut supply lines to the Confederate capital in nearby Richmond and precipitated the South's defeat. There was nothing funny about this brutal slice of American history, of course, but we were bemused by the National Park Service video that took an unequivocally pro-Southern stance. In particular, the narrator talked about the \"advancing Yankee hordes,\" which made an odd impression on two Pennsylvanians who grew up with a much different take on these events. Our tour was 43 years ago, so I imagine the video has since been updated to better reflect modern sensibilities. We did not, however, get upset or complain to management. It added local color. Human beings have a knack for fighting over history, as we somehow believe that controlling the past's narrative will lead to a future in line with our preferences. For years, we've watched progressive snowflakes co"
+    }
+   ]
+  },
+  {
+   "id": "c19f001f96",
+   "topic": "Other",
+   "summary": "Maggie Meza, executive director of the Blue Star Families Southern California chapter, joins CBS News to discuss the toll of having a loved one deployed as concerns continue to rise about conditions on the USS Lincoln.",
+   "summaryFrom": "cbsnews",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Families angered by slow search for loved ones after Colombia quake",
+   "updated": "2026-08-15T01:49:35+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Blue Star Families official on toll have having loved ones deployed amid concerns about USS Lincoln",
+     "url": "https://www.cbsnews.com/video/blue-star-families-official-on-uss-lincoln-the-toll-of-having-a-loved-one-on-deployment/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T01:49:35+00:00",
+     "summary": "Maggie Meza, executive director of the Blue Star Families Southern California chapter, joins CBS News to discuss the toll of having a loved one deployed as concerns continue to rise about conditions on the USS Lincoln."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Families angered by slow search for loved ones after Colombia quake",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-colombia-quake-reported-mp4?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T00:14:47+00:00",
+     "summary": "Families are demanding answers over loved ones buried under rubble in Cali, Colombia after Monday\u2019s 7.4 magnitude quake."
     }
    ]
   },
@@ -3656,48 +3783,6 @@
    ]
   },
   {
-   "id": "fab070e9e3",
-   "topic": "Other",
-   "summary": "This is it. Crunch time. Summer isn&apos;t ending. Nay, it&apos;s peaking.&#xa0; And before you begin to start scheduling meetings and the like for September, before you give in to the horrible dread that yes, another summer is pretty much in the books, damnit, there&apos;s still some fight left in you. There&apos;s time to get out there, do a thing filled with sunshine and whimsy, so when someone asks you whether you had a good summer or not&#x2026;you can answer in the affirmative. You didn&apos;t have a good summer, you had a great summer, and New York had a great summer, thank you very much.&#xa0; So in the spirit of keeping it light and breezy, here&apos;s some ideas from the edit desk at Hell Gate.",
-   "summaryFrom": "hellgate",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "An Incomplete List of Things to Do in New York During the Last 3 Weeks of Summer",
-   "updated": "2026-08-14T20:12:57+00:00",
-   "outletCount": 2,
-   "counts": {
-    "coop": 1,
-    "corp": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "hellgate",
-     "title": "An Incomplete List of Things to Do in New York During the Last 3 Weeks of Summer",
-     "url": "https://hellgatenyc.com/endless-summer-summer-endless/",
-     "author": "Hell Gate",
-     "kind": "opinion",
-     "published": "2026-08-14T20:12:57+00:00",
-     "summary": "This is it. Crunch time. Summer isn&apos;t ending. Nay, it&apos;s peaking.&#xa0; And before you begin to start scheduling meetings and the like for September, before you give in to the horrible dread that yes, another summer is pretty much in the books, damnit, there&apos;s still some fight left in you. There&apos;s time to get out there, do a thing filled with sunshine and whimsy, so when someone asks you whether you had a good summer or not&#x2026;you can answer in the affirmative. You didn&apos;t have a good summer, you had a great summer, and New York had a great summer, thank you very much.&#xa0; So in the spirit of keeping it light and breezy, here&apos;s some ideas from the edit desk at Hell Gate."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "The 15 Best Things We Watched This Summer",
-     "url": "https://www.thedailybeast.com/obsessed/the-15-best-tv-shows-movies-memes-and-more-we-watched-this-summer/",
-     "author": "Kevin Fallon",
-     "kind": "news",
-     "published": "2026-08-14T17:38:04+00:00",
-     "summary": "Photo Illustration by Thomas Levinson/The Daily Beast/Getty/Universal/Bravo/Focus Features This week: I broke my cardinal rule and went outside. My sunburn is my punishment. I\u2019m on vacation this week, so my Daily Beast colleagues are helping me out. I gave them a prompt\u2014what is the best thing you watched this summer?\u2014and their responses are a perfect mix of great TV shows and movies, hilarious memes and viral moments, and hits from the past they\u2019ve finally caught up on. Altogether, it\u2019s a perfect summer playlist to keep you from making the same mistake as me: Stay inside, folks, and enjoy! Read more at The Daily Beast."
-    }
-   ]
-  },
-  {
    "id": "1eee4d901b",
    "topic": "Politics",
    "summary": "The Justice Department is planning its next move after a federal judge in Boston dismissed its case accusing Harvard University of repeatedly turning a \"blind eye\" to antisemitism on campus. \"We disagree with the ruling and are assessing next steps,\" Assistant Attorney General for the Civil Rights Division Harmeet Dhillon said in a statement. \"The Civil Rights Division has an extensive and active portfolio of antisemitism enforcement, including indictments, prosecutions, settlements and investigations across the country.\" Judge Richard Stearns, who was appointed by President Bill Clinton, dismissed the Trump administration's lawsuit against the Ivy League school Thursday, determining the incidents of antisemitism were too isolated to establish a pattern showing that the school remained in violation of federal civil rights law after the federal government issued its complaint. DOJ SUES\u2026",
@@ -3736,174 +3821,6 @@
      "kind": "news",
      "published": "2026-08-13T19:34:37+00:00",
      "summary": "A judge tossed a Trump administration lawsuit alleging antisemitism at Harvard. The decision could potentially shape similar legal battles facing the UC."
-    }
-   ]
-  },
-  {
-   "id": "4deb0e0ea9",
-   "topic": "World",
-   "summary": "Thursday's edition of The New York Times asked a question I've been asking here for over a decade: \"Is Letting Children Out Alone A Rite of Passage or a Crime?\" Reason readers know it can, in some sense, be both: a rite of passage too often treated as a crime. One of the primary missions of Let Grow , the nonprofit I cofounded, is to make sure the parents who trust their kids with some reasonable independence are not investigated for neglect. But they are. The Times piece opens with the story of Mallerie Shirley\u2014 a story first reported in Reason . Shirley is an Atlanta mom who let her 6-year-old ride his scooter to the local park. Someone who saw the tyke called the authorities. Two days later a caseworker appeared at the home of Shirley and her husband, Christopher Pleasants. Shirley wasn't home, but the caseworker (recorded on the family's Ring camera) told Pleasants that a child\u2026",
-   "summaryFrom": "reason",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "The War on Free-Range Kids Makes The New York Times",
-   "updated": "2026-08-14T19:55:10+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "reason",
-     "title": "The War on Free-Range Kids Makes The New York Times",
-     "url": "https://reason.com/2026/08/14/the-war-on-free-range-kids-makes-the-new-york-times/",
-     "author": "Lenore Skenazy",
-     "kind": "opinion",
-     "published": "2026-08-14T19:55:10+00:00",
-     "summary": "Thursday's edition of The New York Times asked a question I've been asking here for over a decade: \"Is Letting Children Out Alone A Rite of Passage or a Crime?\" Reason readers know it can, in some sense, be both: a rite of passage too often treated as a crime. One of the primary missions of Let Grow , the nonprofit I cofounded, is to make sure the parents who trust their kids with some reasonable independence are not investigated for neglect. But they are. The Times piece opens with the story of Mallerie Shirley\u2014 a story first reported in Reason . Shirley is an Atlanta mom who let her 6-year-old ride his scooter to the local park. Someone who saw the tyke called the authorities. Two days later a caseworker appeared at the home of Shirley and her husband, Christopher Pleasants. Shirley wasn't home, but the caseworker (recorded on the family's Ring camera) told Pleasants that a child would have to be 13 before he could ride his bike unsupervised. Pleasants asked if that was actually the law. The caseworker replied that child protective services would certainly consider six too young, \"because anything could happen, right?\" For too long, that unanswerable question has given the govern"
-    },
-    {
-     "outlet": "freepress",
-     "title": "A Time Capsule of Free-Range Childhood",
-     "url": "https://www.thefp.com/p/a-time-capsule-of-free-range-childhood",
-     "author": "Kat Rosenfield",
-     "kind": "news",
-     "published": "2026-08-14T18:07:14+00:00",
-     "summary": "Three adolescent boys are gathered in a ramshackle tree house&#8212;the kind you might have built yourself as a kid, if you were born before 1990, using scrap wood and a bucket of nails; the kind that would get you an unpleasant visit from your homeowners association were your own kids to attempt the same thing today. This, the opening scene of Rob Reiner&#8217;s film Stand by Me , is the first indication that this story takes place in a very different time; the second, in case you missed the first, is that the boys are smoking cigarettes, playing cards, and listening to Bobby Day on a transistor radio. But this is only the setup for a punch line that arrives moments later, as another boy bursts into the tree house with a breathless question that will alter the trajectory of the rest of their lives: &#8220;You guys want to go see a dead body?&#8221; The answer, obviously, is yes. Read more"
-    }
-   ]
-  },
-  {
-   "id": "45cc15743c",
-   "topic": "Politics",
-   "summary": "President Donald Trump\u2019s top political advisers are urging Republican candidates to make an unexpected shift in their midterm messaging, to talk more about health care and less about voter integrity. The strategy could give Republicans a potentially powerful opening on an issue that has historically been a weakness for the party, particularly as Trump-aligned groups prepare to pour hundreds of millions of dollars into the 2026 elections. Trump campaign officials, including White House political director James Blair, pollster Tony Fabrizio and Senate Leadership Fund executive director Alex Latcham, briefed Republican senators and aides August 5 on polling showing which issues could give GOP candidates the biggest advantage, according to slides reviewed by Axios . Health care emerged as one of the strongest messages tested. Republicans held a 46-point advantage when voters were presented\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Trump Pivots to Crime as War, Economy Imperil GOP Midterm Hopes",
-   "updated": "2026-08-14T19:54:55+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bloomberg",
-     "title": "Trump Pivots to Crime as War, Economy Imperil GOP Midterm Hopes",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-14/trump-pivots-to-crime-as-war-economy-imperil-gop-midterm-hopes",
-     "author": "Catherine Lucey and Hadriana Lowenkron",
-     "kind": "news",
-     "published": "2026-08-14T19:54:55+00:00",
-     "summary": "President Donald Trump turned to the issue of crime when he hit the campaign trail Friday as Republican prospects in November\u2019s midterms continue to suffer over his handling of the economy and war in Iran."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Top Trump Officials Sound Alarm Over GOP Midterm Strategy",
-     "url": "https://www.dailywire.com/news/top-trump-officials-sound-alarm-over-gop-midterm-strategy",
-     "author": "Drew Berkemeyer",
-     "kind": "opinion",
-     "published": "2026-08-14T07:05:11+00:00",
-     "summary": "President Donald Trump\u2019s top political advisers are urging Republican candidates to make an unexpected shift in their midterm messaging, to talk more about health care and less about voter integrity. The strategy could give Republicans a potentially powerful opening on an issue that has historically been a weakness for the party, particularly as Trump-aligned groups prepare to pour hundreds of millions of dollars into the 2026 elections. Trump campaign officials, including White House political director James Blair, pollster Tony Fabrizio and Senate Leadership Fund executive director Alex Latcham, briefed Republican senators and aides August 5 on polling showing which issues could give GOP candidates the biggest advantage, according to slides reviewed by Axios . Health care emerged as one of the strongest messages tested. Republicans held a 46-point advantage when voters were presented with a message calling for greater transparency around health insurers \u2019 profits, claim denials and wait times while accusing Democrats of \u201clining insurers\u2019 pockets.\u201d Other messages also performed strongly. Republicans held 44-point and 38-point advantages on banning congressional stock trading and c"
-    }
-   ]
-  },
-  {
-   "id": "26cdc45c27",
-   "topic": "World",
-   "summary": "Around 520 residents in France\u2019s southwestern Landes region have been evacuated as a raging wildfire has burned through more than 1,000 hectares since Thursday. Significant reinforcements have been mobilised, while authorities warn that the fire\u2019s trajectory remains unpredictable. Simon Moritz has the story.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Vast German wildfire forces evacuation in Eifel forest",
-   "updated": "2026-08-14T19:32:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Vast German wildfire forces evacuation in Eifel forest",
-     "url": "https://www.dw.com/en/vast-german-wildfire-forces-evacuation-in-eifel-forest/live-78361311?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T19:32:00+00:00",
-     "summary": "Firefighters tackling the biggest forest fire in the history of North-Rhine Westfalia say residents are unlikely to be able to return on Friday amid high temperatures, humidity and wind. DW has the latest."
-    },
-    {
-     "outlet": "france24",
-     "title": "France wildfire forces 520 to evacuate",
-     "url": "https://www.france24.com/en/france-wildfire-forces-520-to-evacuate",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-14T15:28:55+00:00",
-     "summary": "Around 520 residents in France\u2019s southwestern Landes region have been evacuated as a raging wildfire has burned through more than 1,000 hectares since Thursday. Significant reinforcements have been mobilised, while authorities warn that the fire\u2019s trajectory remains unpredictable. Simon Moritz has the story."
-    }
-   ]
-  },
-  {
-   "id": "d4a17b374d",
-   "topic": "Politics",
-   "summary": "President Donald Trump delivers remarks at the David S. Mack Center for Training and Intelligence in Uniondale, New York, on Friday, August 14. The post Watch Live: Donald Trump Speaks at New York Police Academy appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "WATCH: Trump highlights violent crime reduction during visit to NY police academy",
-   "updated": "2026-08-14T19:23:47+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Watch Live: Donald Trump Speaks at New York Police Academy",
-     "url": "https://www.breitbart.com/politics/2026/08/14/watch-live-donald-trump-speaks-at-new-york-police-academy/",
-     "author": "Breitbart News",
-     "kind": "news",
-     "published": "2026-08-14T19:23:47+00:00",
-     "summary": "President Donald Trump delivers remarks at the David S. Mack Center for Training and Intelligence in Uniondale, New York, on Friday, August 14. The post Watch Live: Donald Trump Speaks at New York Police Academy appeared first on Breitbart ."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "WATCH: Trump highlights violent crime reduction during visit to NY police academy",
-     "url": "https://www.pbs.org/newshour/politics/watch-live-trump-to-highlight-violent-crime-reduction-during-visit-to-ny-police-academy",
-     "author": "Michelle L. Price, Associated Press",
-     "kind": "news",
-     "published": "2026-08-14T16:58:03+00:00",
-     "summary": "President Donald Trump highlighted his record on crime and safety during a visit to New York on Friday, pivoting to one of his strongest issues as he looks to boost Republicans in battleground races ahead of the November midterms."
     }
    ]
   }
