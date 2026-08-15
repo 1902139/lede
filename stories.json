@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T06:59:09.877108+00:00",
+ "generated": "2026-08-15T07:45:19.192677+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -21,8 +21,8 @@
     ],
     "indie": [
      "death",
-     "year-old",
-     "pleading"
+     "pleading",
+     "year-old"
     ]
    },
    "absent": [
@@ -196,8 +196,8 @@
     "bigCount": 9,
     "indieCount": 6,
     "big": [
-     "middle",
      "east",
+     "middle",
      "answers"
     ],
     "indie": [
@@ -372,7 +372,7 @@
      "images",
      "getty",
      "trustees",
-     "john"
+     "facade"
     ],
     "indie": [
      "clear",
@@ -516,8 +516,8 @@
     "big": [
      "concerns",
      "families",
-     "carrier",
      "aircraft",
+     "carrier",
      "deployment",
      "friday"
     ],
@@ -632,6 +632,124 @@
    ]
   },
   {
+   "id": "7e6802eba7",
+   "topic": "Other",
+   "summary": "Jason Arday, the ex-Cambridge professor who sparked an international controversy over plagiarism allegations, was found dead Friday, according to multiple reports. BBC News reported that a man at a south London address was found \"unresponsive\" and that, according to the Metropolitan Police, \"a 41-year-old man was pronounced dead at the scene and his next of kin have been informed.\" \"At this time, his death is being treated as unexpected, but is not believed to be suspicious,\" Met Police said in a statement to BBC News. \"We are desperately saddened to hear this tragic news,\" Cambridge University Vice Chancellor Professor Deborah Prentice told Fox News Digital . \"Our heartfelt sympathies go to Jason Arday's family and friends at this incredibly difficult time.\" CAMBRIDGE UNIVERSITY PROFESSOR RESIGNS AFTER MAJOR PLAGIARISM ACCUSATIONS PROMPT INVESTIGATION The Metropolitan Police did not\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": {
+    "bigCount": 5,
+    "indieCount": 4,
+    "big": [
+     "allegations",
+     "accused",
+     "scene",
+     "resigning"
+    ],
+    "indie": [
+     "centre",
+     "academic"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+   "updated": "2026-08-15T01:41:24+00:00",
+   "outletCount": 9,
+   "counts": {
+    "pub": 2,
+    "family": 4,
+    "nonprofit": 2,
+    "corp": 1
+   },
+   "newsCount": 7,
+   "opinionCount": 2,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+     "url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T01:41:24+00:00",
+     "summary": "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on Friday."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
+     "url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
+     "author": "Mara Hvistendahl",
+     "kind": "news",
+     "published": "2026-08-15T01:00:46+00:00",
+     "summary": "Mr. Arday resigned last week after the university announced an investigation into allegations of plagiarism and fabrication."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Ex-Cambridge professor found dead after plagiarism scandal led to abrupt resignation",
+     "url": "https://www.foxnews.com/media/ex-cambridge-professor-found-dead-after-plagiarism-scandal-led-abrupt-resignation",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-14T23:58:25+00:00",
+     "summary": "Jason Arday, the ex-Cambridge professor who sparked an international controversy over plagiarism allegations, was found dead Friday, according to multiple reports. BBC News reported that a man at a south London address was found \"unresponsive\" and that, according to the Metropolitan Police, \"a 41-year-old man was pronounced dead at the scene and his next of kin have been informed.\" \"At this time, his death is being treated as unexpected, but is not believed to be suspicious,\" Met Police said in a statement to BBC News. \"We are desperately saddened to hear this tragic news,\" Cambridge University Vice Chancellor Professor Deborah Prentice told Fox News Digital . \"Our heartfelt sympathies go to Jason Arday's family and friends at this incredibly difficult time.\" CAMBRIDGE UNIVERSITY PROFESSOR RESIGNS AFTER MAJOR PLAGIARISM ACCUSATIONS PROMPT INVESTIGATION The Metropolitan Police did not immediately respond to Fox News Digital's requests for comment. Last week, Arday resigned as a sociology professor at Cambridge University after the university announced an investigation into his academic qualifications and honorary appointments amid plagiarism accusations, with one accuser telling Fox"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation",
+     "url": "https://www.pbs.org/newshour/world/jason-arday-youngest-black-professor-at-cambridge-found-dead-at-41-after-resignation",
+     "author": "Sylvia Hui, Associated Press",
+     "kind": "news",
+     "published": "2026-08-14T23:25:02+00:00",
+     "summary": "A British sociologist who resigned last week from the University of Cambridge following weeks of public accusations of plagiarism and media scrutiny was found dead Friday."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Jason Arday, professor at centre of Cambridge plagiarism row, found dead",
+     "url": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
+     "author": "Richard Adams and Vikram Dodd",
+     "kind": "news",
+     "published": "2026-08-14T22:10:24+00:00",
+     "summary": "Academic was pronounced dead at his home in south London after police called to address after 3pm on Friday Jason Arday, the academic who resigned last week as a professor at the University of Cambridge , has been found dead at his home in south London. The Metropolitan police said officers were called to Arday\u2019s address by the London ambulance service after 3pm on Friday. Continue reading..."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "'Youngest Black Professor' Jason Arday Found Dead Days After Resigning Amid Plagiarism Claims",
+     "url": "https://www.breitbart.com/europe/2026/08/14/youngest-black-professor-jason-arday-found-dead-days-after-resigning-amid-plagiarism-claims/",
+     "author": "Oliver JJ Lane",
+     "kind": "news",
+     "published": "2026-08-14T20:37:38+00:00",
+     "summary": "Jason Arday, Cambridge's youngest ever black professor who sensationally resigned last week amid a storm of scrutiny, has been found dead. The post &#8216;Youngest Black Professor&#8217; Jason Arday Found Dead Days After Resigning Amid Plagiarism Claims appeared first on Breitbart ."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Jason Arday, ex-Cambridge professor accused of plagiarism, found dead week after resigning",
+     "url": "https://www.nbcnews.com/world/united-kingdom/jason-arday-ex-cambridge-professor-accused-plagiarism-found-dead-week-rcna592616",
+     "author": "Marlene Lenthang",
+     "kind": "news",
+     "published": "2026-08-14T20:28:18+00:00",
+     "summary": "Former Cambridge professor Jason Arday was found dead at his London home on Friday, one week after he resigned from his position after accusations of plagiarism."
+    },
+    {
+     "outlet": "dw",
+     "title": "Jason Arday: Ex-Cambridge professor at centre of plagiarism scandal found dead",
+     "url": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T20:03:00+00:00",
+     "summary": "Jason Arday, the youngest ever Black professor at Cambridge, was found unresponsive at an address in London. Arday had recently resigned in the midst of a plagiarism row."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Professor Recently Outed For Fraudulent Biography Found Dead",
+     "url": "https://www.dailywire.com/news/professor-recently-outed-for-fraudulent-biography-found-dead",
+     "author": "Brecca Stoll",
+     "kind": "opinion",
+     "published": "2026-08-14T16:57:09+00:00",
+     "summary": "Jason Arday, the Cambridge professor who resigned nine days ago over plagiarism allegations, was found dead in his London home. Authorities said in a statement that an ambulance was called to his residence after Arday had been found &#8220;unresponsive.&#8221; He was pronounced dead at the scene. Police added that the death was being treated as \u201cunexpected\u201d but is not believed to be suspicious, according to The Telegraph. Just nine days ago, Cambridge launched an investigation into Arday. \u201cThe University of Cambridge has begun an investigation following new information about Professor Arday\u2019s academic qualifications and honorary appointments,\u201d the statement from the university said. \u201cIn order to ensure a fair process, we will not comment further until this has concluded.&#8221; Cambridge was not initially keen on opening an investigation. Cambridge said Arday was \u201cthe victim of a vile campaign to undermine his credibility, which must stop.\u201d The school began to change its tune when reports emerged that Arday had filed a harassment claim against a journalist who was investigating his work. The day that Cambridge announced its investigation, Arday resigned. \u201cI no longer wish to feel a"
+    }
+   ]
+  },
+  {
    "id": "1beb4d630e",
    "topic": "Politics",
    "summary": "The Fifth U.S. Circuit Court of Appeals on Thursday dismissed as moot a challenge to President Donald Trump\u2019s use of the Alien Enemies Act to deport alleged Tren de Aragua members, leaving the legality of his invocation of the 18th-century law unresolved. The New Orleans-based court said the case became moot after all three Venezuelan plaintiffs, whom the administration alleged were members of Tren de Aragua , had already been removed from the United States under other immigration authorities. While the Alien Enemies Act dates back hundreds of years, prior to Trump, it was most recently invoked by President Harry Truman in 1946. The law allows the president, under specified wartime or invasion circumstances involving a foreign nation or government, to detain and remove certain non-naturalized individuals of that hostile power. The Trump administration has argued that Tren de Aragua\u2019s\u2026",
@@ -740,117 +858,9 @@
    ]
   },
   {
-   "id": "5b97c93064",
-   "topic": "Other",
-   "summary": "Jason Arday, the ex-Cambridge professor who sparked an international controversy over plagiarism allegations, was found dead Friday, according to multiple reports. BBC News reported that a man at a south London address was found \"unresponsive\" and that, according to the Metropolitan Police, \"a 41-year-old man was pronounced dead at the scene and his next of kin have been informed.\" \"At this time, his death is being treated as unexpected, but is not believed to be suspicious,\" Met Police said in a statement to BBC News. \"We are desperately saddened to hear this tragic news,\" Cambridge University Vice Chancellor Professor Deborah Prentice told Fox News Digital . \"Our heartfelt sympathies go to Jason Arday's family and friends at this incredibly difficult time.\" CAMBRIDGE UNIVERSITY PROFESSOR RESIGNS AFTER MAJOR PLAGIARISM ACCUSATIONS PROMPT INVESTIGATION The Metropolitan Police did not\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": {
-    "bigCount": 5,
-    "indieCount": 3,
-    "big": [
-     "allegations",
-     "accused",
-     "scene",
-     "resigning"
-    ],
-    "indie": [
-     "centre"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation",
-   "updated": "2026-08-15T01:00:46+00:00",
-   "outletCount": 8,
-   "counts": {
-    "family": 4,
-    "nonprofit": 2,
-    "corp": 1,
-    "pub": 1
-   },
-   "newsCount": 6,
-   "opinionCount": 2,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
-     "url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
-     "author": "Mara Hvistendahl",
-     "kind": "news",
-     "published": "2026-08-15T01:00:46+00:00",
-     "summary": "Mr. Arday resigned last week after the university announced an investigation into allegations of plagiarism and fabrication."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Ex-Cambridge professor found dead after plagiarism scandal led to abrupt resignation",
-     "url": "https://www.foxnews.com/media/ex-cambridge-professor-found-dead-after-plagiarism-scandal-led-abrupt-resignation",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-14T23:58:25+00:00",
-     "summary": "Jason Arday, the ex-Cambridge professor who sparked an international controversy over plagiarism allegations, was found dead Friday, according to multiple reports. BBC News reported that a man at a south London address was found \"unresponsive\" and that, according to the Metropolitan Police, \"a 41-year-old man was pronounced dead at the scene and his next of kin have been informed.\" \"At this time, his death is being treated as unexpected, but is not believed to be suspicious,\" Met Police said in a statement to BBC News. \"We are desperately saddened to hear this tragic news,\" Cambridge University Vice Chancellor Professor Deborah Prentice told Fox News Digital . \"Our heartfelt sympathies go to Jason Arday's family and friends at this incredibly difficult time.\" CAMBRIDGE UNIVERSITY PROFESSOR RESIGNS AFTER MAJOR PLAGIARISM ACCUSATIONS PROMPT INVESTIGATION The Metropolitan Police did not immediately respond to Fox News Digital's requests for comment. Last week, Arday resigned as a sociology professor at Cambridge University after the university announced an investigation into his academic qualifications and honorary appointments amid plagiarism accusations, with one accuser telling Fox"
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation",
-     "url": "https://www.pbs.org/newshour/world/jason-arday-youngest-black-professor-at-cambridge-found-dead-at-41-after-resignation",
-     "author": "Sylvia Hui, Associated Press",
-     "kind": "news",
-     "published": "2026-08-14T23:25:02+00:00",
-     "summary": "A British sociologist who resigned last week from the University of Cambridge following weeks of public accusations of plagiarism and media scrutiny was found dead Friday."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Jason Arday, professor at centre of Cambridge plagiarism row, found dead",
-     "url": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
-     "author": "Richard Adams and Vikram Dodd",
-     "kind": "news",
-     "published": "2026-08-14T22:10:24+00:00",
-     "summary": "Academic was pronounced dead at his home in south London after police called to address after 3pm on Friday Jason Arday, the academic who resigned last week as a professor at the University of Cambridge , has been found dead at his home in south London. The Metropolitan police said officers were called to Arday\u2019s address by the London ambulance service after 3pm on Friday. Continue reading..."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "'Youngest Black Professor' Jason Arday Found Dead Days After Resigning Amid Plagiarism Claims",
-     "url": "https://www.breitbart.com/europe/2026/08/14/youngest-black-professor-jason-arday-found-dead-days-after-resigning-amid-plagiarism-claims/",
-     "author": "Oliver JJ Lane",
-     "kind": "news",
-     "published": "2026-08-14T20:37:38+00:00",
-     "summary": "Jason Arday, Cambridge's youngest ever black professor who sensationally resigned last week amid a storm of scrutiny, has been found dead. The post &#8216;Youngest Black Professor&#8217; Jason Arday Found Dead Days After Resigning Amid Plagiarism Claims appeared first on Breitbart ."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Jason Arday, ex-Cambridge professor accused of plagiarism, found dead week after resigning",
-     "url": "https://www.nbcnews.com/world/united-kingdom/jason-arday-ex-cambridge-professor-accused-plagiarism-found-dead-week-rcna592616",
-     "author": "Marlene Lenthang",
-     "kind": "news",
-     "published": "2026-08-14T20:28:18+00:00",
-     "summary": "Former Cambridge professor Jason Arday was found dead at his London home on Friday, one week after he resigned from his position after accusations of plagiarism."
-    },
-    {
-     "outlet": "dw",
-     "title": "Jason Arday: Ex-Cambridge professor at centre of plagiarism scandal found dead",
-     "url": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T20:03:00+00:00",
-     "summary": "Jason Arday, the youngest ever Black professor at Cambridge, was found unresponsive at an address in London. Arday had recently resigned in the midst of a plagiarism row."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Professor Recently Outed For Fraudulent Biography Found Dead",
-     "url": "https://www.dailywire.com/news/professor-recently-outed-for-fraudulent-biography-found-dead",
-     "author": "Brecca Stoll",
-     "kind": "opinion",
-     "published": "2026-08-14T16:57:09+00:00",
-     "summary": "Jason Arday, the Cambridge professor who resigned nine days ago over plagiarism allegations, was found dead in his London home. Authorities said in a statement that an ambulance was called to his residence after Arday had been found &#8220;unresponsive.&#8221; He was pronounced dead at the scene. Police added that the death was being treated as \u201cunexpected\u201d but is not believed to be suspicious, according to The Telegraph. Just nine days ago, Cambridge launched an investigation into Arday. \u201cThe University of Cambridge has begun an investigation following new information about Professor Arday\u2019s academic qualifications and honorary appointments,\u201d the statement from the university said. \u201cIn order to ensure a fair process, we will not comment further until this has concluded.&#8221; Cambridge was not initially keen on opening an investigation. Cambridge said Arday was \u201cthe victim of a vile campaign to undermine his credibility, which must stop.\u201d The school began to change its tune when reports emerged that Arday had filed a harassment claim against a journalist who was investigating his work. The day that Cambridge announced its investigation, Arday resigned. \u201cI no longer wish to feel a"
-    }
-   ]
-  },
-  {
    "id": "876499c78f",
    "topic": "World",
-   "summary": "Shallow quake hit Indonesia\u2019s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least five people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Continue reading...",
+   "summary": "Shallow quake hit Indonesia\u2019s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least 20 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": {
     "bigCount": 2,
@@ -858,11 +868,11 @@
     "big": [],
     "indie": [
      "magnitude",
-     "struck",
      "early",
+     "struck",
      "people",
      "island",
-     "ground"
+     "buildings"
     ]
    },
    "absent": [
@@ -870,17 +880,26 @@
     "coop"
    ],
    "headline": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
-   "updated": "2026-08-15T06:29:30+00:00",
+   "updated": "2026-08-15T07:22:22+00:00",
    "outletCount": 7,
    "counts": {
-    "corp": 2,
     "pub": 5,
+    "corp": 2,
     "nonprofit": 1
    },
    "newsCount": 8,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
+    {
+     "outlet": "bbc",
+     "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+     "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T07:22:22+00:00",
+     "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning."
+    },
     {
      "outlet": "cbsnews",
      "title": "At least 20 dead after powerful earthquake strikes Indonesia",
@@ -889,15 +908,6 @@
      "kind": "news",
      "published": "2026-08-15T06:29:30+00:00",
      "summary": "Indonesian authorities issued, then lifted, a tsunami warning after the powerful earthquake hit Saturday morning."
-    },
-    {
-     "outlet": "bbc",
-     "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
-     "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T06:21:31+00:00",
-     "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning."
     },
     {
      "outlet": "france24",
@@ -937,12 +947,12 @@
     },
     {
      "outlet": "guardian",
-     "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least five",
+     "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 20",
      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
      "author": "Guardian staff and agencies",
      "kind": "news",
      "published": "2026-08-14T23:43:18+00:00",
-     "summary": "Shallow quake hit Indonesia\u2019s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least five people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Continue reading..."
+     "summary": "Shallow quake hit Indonesia\u2019s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least 20 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Continue reading..."
     },
     {
      "outlet": "nbcnews",
@@ -966,10 +976,10 @@
     "big": [
      "donald",
      "president",
+     "meme",
+     "rubio",
      "gift",
-     "birthday",
-     "marco",
-     "rubio"
+     "marco"
     ],
     "indie": [
      "work",
@@ -1127,71 +1137,79 @@
    ]
   },
   {
-   "id": "b572782602",
-   "topic": "Politics",
-   "summary": "Florida Gov. Ron DeSantis on Friday became the latest elected Republican to declare he would not support Rep. Cory Mills's (R) reelection bid in Florida's 7th Congressional District. \u201cI have not endorsed Cory Mills, and I do not support Cory Mills,\u201d the Florida governor said when asked during a Friday press conference, captured by C-SPAN...",
-   "summaryFrom": "thehill",
-   "emphasis": null,
+   "id": "bed6f9e142",
+   "topic": "Other",
+   "summary": "In 2021, after nearly two decades, the United States abruptly withdrew military forces from Afghanistan , causing the nation to fall back under Taliban control. Almost five years later, it\u2019s hard to forget the images of crowds of people clinging on to planes in a desperate attempt to escape what lay ahead for their country. In the aftermath, many conservative evangelicals and veterans\u2019 advocates stood up for Afghans fleeing persecution and violence. But the job remains unfinished. Now is the time to renew our efforts and push for a lasting solution for our Afghan neighbors. As the Taliban retook Kabul, those allies were suddenly in grave danger. Their ranks included many translators, drivers and others who became targets because they worked with the United States. Many turned to the U.S. for such a chance at safety, and in 2021, a multi-agency, public-private effort mobilized to rally\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 3,
+    "big": [],
+    "indie": [
+     "women",
+     "rule"
+    ]
+   },
    "absent": [
+    "corp",
     "coop",
-    "nonprofit",
-    "pub"
+    "nonprofit"
    ],
-   "headline": "Alaska Democrat turns down support from Kamala Harris ahead of Senate primary",
-   "updated": "2026-08-15T02:48:18+00:00",
+   "headline": "'Suffocating restrictions' shadow five years of Taliban rule in Afghanistan",
+   "updated": "2026-08-15T07:14:24+00:00",
    "outletCount": 5,
    "counts": {
-    "family": 4,
-    "corp": 1
+    "pub": 3,
+    "family": 2
    },
-   "newsCount": 5,
-   "opinionCount": 0,
+   "newsCount": 4,
+   "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "nypost",
-     "title": "Alaska Democrat turns down support from Kamala Harris ahead of Senate primary",
-     "url": "https://nypost.com/2026/08/14/us-news/alaska-democrat-turns-down-support-from-kamala-harris-ahead-of-senate-primary/",
-     "author": "Victor Nava",
+     "outlet": "france24",
+     "title": "'Suffocating restrictions' shadow five years of Taliban rule in Afghanistan",
+     "url": "https://www.france24.com/en/asia-pacific/20260815-suffocating-restrictions-shadow-five-years-of-taliban-rule-in-afghanistan",
+     "author": "FRANCE 24",
      "kind": "news",
-     "published": "2026-08-15T02:48:18+00:00",
-     "summary": "\u201cMary isn\u2019t seeking endorsements from anyone from the Lower 48 \u2014 her focus is and always will be Alaska,\u201d a Mary Peltola campaign spokeswoman said."
+     "published": "2026-08-15T07:14:24+00:00",
+     "summary": "Five years after seizing Kabul and returning to power, the Taliban is celebrating what it calls a more secure and \"free\" Afghanistan. But its anniversary comes amid mounting criticism over sweeping restrictions on women and girls, economic hardship and continued international isolation."
     },
     {
-     "outlet": "thehill",
-     "title": "Gov. DeSantis latest to not support Rep. Mills ahead of Florida primary",
-     "url": "https://thehill.com/homenews/campaign/6030926-desantis-mills-denouncement-republican-primary-florida/",
-     "author": "Sarah Davis",
+     "outlet": "aljazeera",
+     "title": "UN urges support for Afghan women\u2019s aid five years into Taliban rule",
+     "url": "https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-14T22:35:26+00:00",
-     "summary": "Florida Gov. Ron DeSantis on Friday became the latest elected Republican to declare he would not support Rep. Cory Mills's (R) reelection bid in Florida's 7th Congressional District. \u201cI have not endorsed Cory Mills, and I do not support Cory Mills,\u201d the Florida governor said when asked during a Friday press conference, captured by C-SPAN..."
+     "published": "2026-08-15T00:23:26+00:00",
+     "summary": "More than half of women\u2019s organisations operating in Afghanistan could cease operations within next year: UN Women."
     },
     {
-     "outlet": "nyt",
-     "title": "Alaska Democrat Mary Peltola Pushes Back Against Endorsement From Kamala Harris",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/kamala-harris-mary-peltola-endorsement.html",
-     "author": "Tim Balk",
+     "outlet": "bbc",
+     "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+     "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-14T21:49:50+00:00",
-     "summary": "Former Representative Mary Peltola of Alaska did not appear to be happy that former Vice President Kamala Harris put out a fund-raising appeal on her behalf. Ms. Harris lost the 2024 presidential election in Alaska by 14 points."
-    },
-    {
-     "outlet": "wapo",
-     "title": "DeSantis says he doesn\u2019t support Republican Rep. Cory Mills in Tuesday\u2019s primary",
-     "url": "https://www.washingtonpost.com/politics/2026/08/14/desantis-says-he-doesnt-support-republican-rep-cory-mills-tuesdays-primary/",
-     "author": "Anna Liss-Roy",
-     "kind": "news",
-     "published": "2026-08-14T19:53:56+00:00",
-     "summary": "The congressman is running for a third term under a cloud of controversy."
+     "published": "2026-08-14T18:25:38+00:00",
+     "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives."
     },
     {
      "outlet": "breitbart",
-     "title": "Gov. Ron DeSantis: I Do Not Endorse or Support Cory Mills",
-     "url": "https://www.breitbart.com/politics/2026/08/14/gov-ron-desantis-i-do-not-endorse-support-cory-mills/",
-     "author": "Hannah Knudsen",
+     "title": "Taliban Boasts It Operates 40 Embassies and Consulates Five Years After Takeover",
+     "url": "https://www.breitbart.com/asia/2026/08/14/taliban-boasts-it-operates-40-embassies-and-consulates-five-years-after-takeover/",
+     "author": "Frances Martel",
      "kind": "news",
-     "published": "2026-08-14T19:29:26+00:00",
-     "summary": "Florida Gov. Ron DeSantis (R) said during a press conference on Friday that he does not support Rep. Cory Mills' (R-FL) reelection campaign. The post Gov. Ron DeSantis: I Do Not Endorse or Support Cory Mills appeared first on Breitbart ."
+     "published": "2026-08-14T18:09:18+00:00",
+     "summary": "Taliban \"foreign minister\" Amir Khan Muttaqi boasted in an interview with the BBC this week that the terrorist organization, which will mark five years since seizing power in Afghanistan on Saturday, has expanded its diplomatic outreach to include over 40 embassies and consulates around the world. The post Taliban Boasts It Operates 40 Embassies and Consulates Five Years After Takeover appeared first on Breitbart ."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "America\u2019s promise to our Afghan allies is still unfinished five years later",
+     "url": "https://www.foxnews.com/opinion/americas-promise-afghan-allies-unfinished-five-years-later",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-14T09:00:12+00:00",
+     "summary": "In 2021, after nearly two decades, the United States abruptly withdrew military forces from Afghanistan , causing the nation to fall back under Taliban control. Almost five years later, it\u2019s hard to forget the images of crowds of people clinging on to planes in a desperate attempt to escape what lay ahead for their country. In the aftermath, many conservative evangelicals and veterans\u2019 advocates stood up for Afghans fleeing persecution and violence. But the job remains unfinished. Now is the time to renew our efforts and push for a lasting solution for our Afghan neighbors. As the Taliban retook Kabul, those allies were suddenly in grave danger. Their ranks included many translators, drivers and others who became targets because they worked with the United States. Many turned to the U.S. for such a chance at safety, and in 2021, a multi-agency, public-private effort mobilized to rally around our allies. Both our organizations support Afghan evacuees in different ways. World Relief, in coordination with hundreds of local churches, has spent years resettling Afghan families in American communities, and AfghanEvac has fought to bring home the mission partners who served alongside our "
     }
    ]
   },
@@ -1355,13 +1373,13 @@
     "bigCount": 2,
     "indieCount": 3,
     "big": [
-     "organization",
-     "pilot"
+     "pilot",
+     "organization"
     ],
     "indie": [
      "october",
-     "care",
      "international",
+     "care",
      "reunited"
     ]
    },
@@ -1614,74 +1632,6 @@
      "kind": "news",
      "published": "2026-08-14T06:31:29+00:00",
      "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano)"
-    }
-   ]
-  },
-  {
-   "id": "8475f764d7",
-   "topic": "Other",
-   "summary": "In 2021, after nearly two decades, the United States abruptly withdrew military forces from Afghanistan , causing the nation to fall back under Taliban control. Almost five years later, it\u2019s hard to forget the images of crowds of people clinging on to planes in a desperate attempt to escape what lay ahead for their country. In the aftermath, many conservative evangelicals and veterans\u2019 advocates stood up for Afghans fleeing persecution and violence. But the job remains unfinished. Now is the time to renew our efforts and push for a lasting solution for our Afghan neighbors. As the Taliban retook Kabul, those allies were suddenly in grave danger. Their ranks included many translators, drivers and others who became targets because they worked with the United States. Many turned to the U.S. for such a chance at safety, and in 2021, a multi-agency, public-private effort mobilized to rally\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [],
-    "indie": [
-     "women",
-     "rule"
-    ]
-   },
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "UN urges support for Afghan women\u2019s aid five years into Taliban rule",
-   "updated": "2026-08-15T00:23:26+00:00",
-   "outletCount": 4,
-   "counts": {
-    "pub": 2,
-    "family": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "UN urges support for Afghan women\u2019s aid five years into Taliban rule",
-     "url": "https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T00:23:26+00:00",
-     "summary": "More than half of women\u2019s organisations operating in Afghanistan could cease operations within next year: UN Women."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-     "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T18:25:38+00:00",
-     "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Taliban Boasts It Operates 40 Embassies and Consulates Five Years After Takeover",
-     "url": "https://www.breitbart.com/asia/2026/08/14/taliban-boasts-it-operates-40-embassies-and-consulates-five-years-after-takeover/",
-     "author": "Frances Martel",
-     "kind": "news",
-     "published": "2026-08-14T18:09:18+00:00",
-     "summary": "Taliban \"foreign minister\" Amir Khan Muttaqi boasted in an interview with the BBC this week that the terrorist organization, which will mark five years since seizing power in Afghanistan on Saturday, has expanded its diplomatic outreach to include over 40 embassies and consulates around the world. The post Taliban Boasts It Operates 40 Embassies and Consulates Five Years After Takeover appeared first on Breitbart ."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "America\u2019s promise to our Afghan allies is still unfinished five years later",
-     "url": "https://www.foxnews.com/opinion/americas-promise-afghan-allies-unfinished-five-years-later",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-14T09:00:12+00:00",
-     "summary": "In 2021, after nearly two decades, the United States abruptly withdrew military forces from Afghanistan , causing the nation to fall back under Taliban control. Almost five years later, it\u2019s hard to forget the images of crowds of people clinging on to planes in a desperate attempt to escape what lay ahead for their country. In the aftermath, many conservative evangelicals and veterans\u2019 advocates stood up for Afghans fleeing persecution and violence. But the job remains unfinished. Now is the time to renew our efforts and push for a lasting solution for our Afghan neighbors. As the Taliban retook Kabul, those allies were suddenly in grave danger. Their ranks included many translators, drivers and others who became targets because they worked with the United States. Many turned to the U.S. for such a chance at safety, and in 2021, a multi-agency, public-private effort mobilized to rally around our allies. Both our organizations support Afghan evacuees in different ways. World Relief, in coordination with hundreds of local churches, has spent years resettling Afghan families in American communities, and AfghanEvac has fought to bring home the mission partners who served alongside our "
     }
    ]
   },
@@ -2250,8 +2200,8 @@
     "bigCount": 2,
     "indieCount": 3,
     "big": [
-     "review",
-     "airport"
+     "airport",
+     "review"
     ],
     "indie": [
      "order"
@@ -2317,6 +2267,57 @@
      "kind": "news",
      "published": "2026-08-13T23:36:55+00:00",
      "summary": "The Trump administration declined to immediately appeal a ruling by a federal judge in Lubbock that invalidated parts of the 1934 National Firearms Act."
+    }
+   ]
+  },
+  {
+   "id": "0dd9502fd4",
+   "topic": "Climate & Energy",
+   "summary": "The Taliban managed to retake power in Afghanistan on August 15, 2021. Now, they face armed factions who challenge the Taliban rule and strain their central claim of providing security.",
+   "summaryFrom": "dw",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Five years after the Taliban swept to power, does the West have any influence?",
+   "updated": "2026-08-15T04:01:19+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 1,
+    "pub": 2
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power",
+     "url": "https://www.nytimes.com/2026/08/15/world/asia/entrenched-embattled-and-defiant-the-taliban-celebrate-5-years-in-power.html",
+     "author": "Elian Peltier",
+     "kind": "news",
+     "published": "2026-08-15T04:01:19+00:00",
+     "summary": "The Taliban have Afghanistan in a chokehold that spares no one. But threats are starting to crack their veneer of stability and control."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Five years after the Taliban swept to power, does the West have any influence?",
+     "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T17:00:14+00:00",
+     "summary": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left"
+    },
+    {
+     "outlet": "dw",
+     "title": "Taliban pressured by insurgents after 5 years in power",
+     "url": "https://www.dw.com/en/taliban-pressured-by-insurgents-after-5-years-in-power/a-78371144?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T13:49:00+00:00",
+     "summary": "The Taliban managed to retake power in Afghanistan on August 15, 2021. Now, they face armed factions who challenge the Taliban rule and strain their central claim of providing security."
     }
    ]
   },
@@ -2470,6 +2471,57 @@
      "kind": "news",
      "published": "2026-08-13T00:23:11+00:00",
      "summary": "Evan Barker&#8217;s great new book, Nothing Left: Confessions of a Democratic Operative , is about how identity politics destroyed the party for which she used to work as a successful fundraiser. It&#8217;s easy for a conservative like me to read it with self-satisfaction, thinking, We told you so! Because hey, we did. But Barker&#8217;s book ought to be read as a warning to the right as well. We had better pay attention. Barker, now 33, is a white woman from a working-class family in the Midwest. During one post-campaign period when she had no place to live before the next political cycle, Barker couldn&#8217;t go home, because there was no room for her in the house trailer where her mother and grandmother lived together to save money. Born with a rare and potentially fatal genetic condition, Barker got into Democratic politics in the hope of improving the healthcare system she had struggled with her whole life. She also wanted to see political programs address the economic precarity her extended family lived under. This is why she became a Bernie Gal in 2016, and discovered she had a real gift for campaign fundraising. As Barker details in Nothing Left (which The Free Press recen"
+    }
+   ]
+  },
+  {
+   "id": "246a254587",
+   "topic": "Politics",
+   "summary": "Florida Gov. Ron DeSantis on Friday became the latest elected Republican to declare he would not support Rep. Cory Mills's (R) reelection bid in Florida's 7th Congressional District. \u201cI have not endorsed Cory Mills, and I do not support Cory Mills,\u201d the Florida governor said when asked during a Friday press conference, captured by C-SPAN...",
+   "summaryFrom": "thehill",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Gov. DeSantis latest to not support Rep. Mills ahead of Florida primary",
+   "updated": "2026-08-14T22:35:26+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "family": 2
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "Gov. DeSantis latest to not support Rep. Mills ahead of Florida primary",
+     "url": "https://thehill.com/homenews/campaign/6030926-desantis-mills-denouncement-republican-primary-florida/",
+     "author": "Sarah Davis",
+     "kind": "news",
+     "published": "2026-08-14T22:35:26+00:00",
+     "summary": "Florida Gov. Ron DeSantis on Friday became the latest elected Republican to declare he would not support Rep. Cory Mills's (R) reelection bid in Florida's 7th Congressional District. \u201cI have not endorsed Cory Mills, and I do not support Cory Mills,\u201d the Florida governor said when asked during a Friday press conference, captured by C-SPAN..."
+    },
+    {
+     "outlet": "wapo",
+     "title": "DeSantis says he doesn\u2019t support Republican Rep. Cory Mills in Tuesday\u2019s primary",
+     "url": "https://www.washingtonpost.com/politics/2026/08/14/desantis-says-he-doesnt-support-republican-rep-cory-mills-tuesdays-primary/",
+     "author": "Anna Liss-Roy",
+     "kind": "news",
+     "published": "2026-08-14T19:53:56+00:00",
+     "summary": "The congressman is running for a third term under a cloud of controversy."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Gov. Ron DeSantis: I Do Not Endorse or Support Cory Mills",
+     "url": "https://www.breitbart.com/politics/2026/08/14/gov-ron-desantis-i-do-not-endorse-support-cory-mills/",
+     "author": "Hannah Knudsen",
+     "kind": "news",
+     "published": "2026-08-14T19:29:26+00:00",
+     "summary": "Florida Gov. Ron DeSantis (R) said during a press conference on Friday that he does not support Rep. Cory Mills' (R-FL) reelection campaign. The post Gov. Ron DeSantis: I Do Not Endorse or Support Cory Mills appeared first on Breitbart ."
     }
    ]
   },
@@ -2678,57 +2730,6 @@
    ]
   },
   {
-   "id": "4e7c8d1bfe",
-   "topic": "Culture & Sport",
-   "summary": "(L-R): Ewan McGregor as Greg and Anne Hathaway as Denise in The End of Oak Street \u2014Warner Bros. Pictures It's been 33 years since the enduring cinematic masterpiece that is Jurassic Park first hit theaters in June 1993. Since that fateful summer, Steven Spielberg's sci-fi survival thriller has reigned supreme as the undisputed king of dinosaur films. Now, The End of Oak Street is proving a dino blockbuster that serves up prehistoric horror with a side of genuine pathos is still a worthy endeavor. Based on Michael Crichton's 1990 novel, Jurassic Park not only delivered some of the most memorable creature-feature scares in movie history, it was also a sharp cautionary tale about scientific hubris and the illusion of man's control over nature that was anchored by stellar performances from its core cast. But over the course of numerous sequels and reboots, the franchise largely shifted away\u2026",
-   "summaryFrom": "time",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "The End of Oak Street Is a Nasty, Effective Exercise in Dino Terror",
-   "updated": "2026-08-14T14:35:56+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "nonprofit": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "time",
-     "title": "The End of Oak Street Is the Best Dinosaur Movie Since Jurassic Park",
-     "url": "https://time.com/article/2026/08/10/the-end-of-oak-street-jurassic-park-comparison/",
-     "author": "Megan McCluskey",
-     "kind": "news",
-     "published": "2026-08-14T14:35:56+00:00",
-     "summary": "(L-R): Ewan McGregor as Greg and Anne Hathaway as Denise in The End of Oak Street \u2014Warner Bros. Pictures It's been 33 years since the enduring cinematic masterpiece that is Jurassic Park first hit theaters in June 1993. Since that fateful summer, Steven Spielberg's sci-fi survival thriller has reigned supreme as the undisputed king of dinosaur films. Now, The End of Oak Street is proving a dino blockbuster that serves up prehistoric horror with a side of genuine pathos is still a worthy endeavor. Based on Michael Crichton's 1990 novel, Jurassic Park not only delivered some of the most memorable creature-feature scares in movie history, it was also a sharp cautionary tale about scientific hubris and the illusion of man's control over nature that was anchored by stellar performances from its core cast. But over the course of numerous sequels and reboots, the franchise largely shifted away from resonant character drama in favor of high-octane action sequences and increasingly monstrous beasts. Outside the Jurassic universe, there haven't been many successful attempts to reinvent the dinosaur wheel, so to speak. Brian (Christian Convery) and Audrey (Maisy Stella) flee from an Allosauru"
-    },
-    {
-     "outlet": "reason",
-     "title": "The End of Oak Street Is a Nasty, Effective Exercise in Dino Terror",
-     "url": "https://reason.com/2026/08/14/the-end-of-oak-street-is-a-nasty-effective-exercise-in-dino-terror/",
-     "author": "Peter Suderman",
-     "kind": "opinion",
-     "published": "2026-08-14T14:32:25+00:00",
-     "summary": "There's something primordially satisfying about watching a big-screen dinosaur get the what-for from the business end of a just-loaded shotgun. The recent run of Jurassic Park movies sometimes seems to have lost this primal pleasure, replacing it with ho-hum computer-generated spectacle and cheap nostalgic callbacks to the franchise's better days. They've forgotten that the franchise was founded on a combination of awe and white-knuckle terror\u2014the raw and relatable fear of a giant, toothy monster that stalks the earth with a sort of evolutionary arrogance that comes from a couple million years atop the food chain. Newsflash: Humans rule the planet now. It's fun to watch these ancient planetary powerhouses get taken down a peg. Sic semper Tyrannosaurus. The End of Oak Street remembers what the Jurassic Park franchise has largely forgotten. It leans into the animal terror of encountering a dinosaur on the streets of an ordinary suburb. Set in the early 1980s, the movie lifts brashly from early Steven Spielberg, especially E.T. , depicting a seemingly ordinary family with its own ordinary troubles who find themselves in a sort of dinosaur-ridden episode of The Twilight Zone. The End o"
-    },
-    {
-     "outlet": "slate",
-     "title": "Anne Hathaway\u2019s Nasty Little Dinosaur Movie Is Better Than Any <em>Jurassic Park</em> in Years",
-     "url": "https://slate.com/culture/2026/08/the-end-of-oak-street-anne-hathaway-movie-horror-review.html?via=rss",
-     "author": "Sam Adams",
-     "kind": "news",
-     "published": "2026-08-13T19:45:16+00:00",
-     "summary": "The End of Oak Street understands that what makes Spielberg great is often something much nastier than just magic and wonder."
-    }
-   ]
-  },
-  {
    "id": "dd18c2e387",
    "topic": "World",
    "summary": "Evacuation orders issued for 400,000 after flooding, landslide warnings and power outages in Chiba prefecture At least five people have died in eastern Japan after \u201cunprecedented\u201d heavy rain that left nearly 7,000 stranded at Tokyo\u2019s Narita airport and forced thousands to take refuge in government buildings. The torrential rains hit Chiba prefecture, east of Tokyo, on Thursday night, triggering landslide warnings and power outages. Evacuation orders were issued for more than 400,000 people in Chiba and other areas, and about 45,000 homes lost power, as 115mm of rain fell hourly, approximately the same amount usually recorded for the whole month of August. Continue reading...",
@@ -2827,57 +2828,6 @@
      "kind": "news",
      "published": "2026-08-13T12:45:22+00:00",
      "summary": "Oil prices ticked down despite a lack of progress on peace talks between Washington and Tehran, as the industry\u2019s outlook for global demand weakened and the US showed signs of rebuilding its stocks. The International Energy Agency and OPEC both slashed their demand forecasts, much of which is being driven by the \u201c ongoing structural decline \u201d of gasoline vehicles in China as they are replaced by EVs, the IEA said. The IEA also predicted that total oil supply this year would be about 4% lower than in 2025 because of disruptions in the Strait of Hormuz. Still, US commercial crude oil inventories, which don\u2019t include the Strategic Petroleum Reserve, posted their largest weekly gain since 2023 as exports and refinery runs ticked down . Meanwhile, environmental watchdogs are warning of a \u201cnightmare scenario\u201d as a huge oil spill begins to hit Oman\u2019s shoreline . \u2014 Tim McDonnell"
-    }
-   ]
-  },
-  {
-   "id": "13a0dba496",
-   "topic": "Politics",
-   "summary": "The East Wing is gone, a new helipad is spreading across the lawn, and scaffolding wraps the White House's front columns, but the price tags for President Trump's renovations are far less obvious. The big picture: The muddled mix of funding streams \u2014 whether from private donors, the president himself or taxpayers \u2014 has fueled ethical questions about who's footing the ever-rising bill for the HGTV-reminiscent White House redesign. The latest: Senate Democrats urged the Government Accountability Office to audit the ballroom project's scope and cost Wednesday. One tally, reported exclusively by The Washington Post this week, says the president's construction projects, including upgrades to Lafayette Square and other renovations, could cost at least $927 million. The lawmakers cited a lack of transparency and \"limited congressional oversight, meaningful public input, and adherence to\u2026",
-   "summaryFrom": "axios",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "US says dozens of countries helped China dodge Trump's tariffs",
-   "updated": "2026-08-14T08:39:46+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 1,
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "US says dozens of countries helped China dodge Trump's tariffs",
-     "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T08:39:46+00:00",
-     "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies."
-    },
-    {
-     "outlet": "wapo",
-     "title": "White House says more than 40 nations help China dodge tariffs",
-     "url": "https://www.washingtonpost.com/politics/2026/08/13/white-house-says-more-than-40-nations-help-china-dodge-tariffs/",
-     "author": "David J. Lynch",
-     "kind": "news",
-     "published": "2026-08-13T18:45:00+00:00",
-     "summary": "A new White House report says that China sends billions of dollars worth of goods to the U.S. via third countries in order to skirt Trump's high tariffs."
-    },
-    {
-     "outlet": "axios",
-     "title": "Trump's White House remodel tab keeps growing",
-     "url": "https://www.axios.com/2026/08/13/trump-white-house-projects-cost",
-     "author": "Avery Lotz",
-     "kind": "news",
-     "published": "2026-08-13T15:01:10+00:00",
-     "summary": "The East Wing is gone, a new helipad is spreading across the lawn, and scaffolding wraps the White House's front columns, but the price tags for President Trump's renovations are far less obvious. The big picture: The muddled mix of funding streams \u2014 whether from private donors, the president himself or taxpayers \u2014 has fueled ethical questions about who's footing the ever-rising bill for the HGTV-reminiscent White House redesign. The latest: Senate Democrats urged the Government Accountability Office to audit the ballroom project's scope and cost Wednesday. One tally, reported exclusively by The Washington Post this week, says the president's construction projects, including upgrades to Lafayette Square and other renovations, could cost at least $927 million. The lawmakers cited a lack of transparency and \"limited congressional oversight, meaningful public input, and adherence to established federal processes.\" What they're saying: White House spokesperson Davis Ingle said in a statement that Trump \" continues to implement long-overdue and necessary renovations,\" calling him the \"Builder-in-Chief.\" As the administration has argued in court, Ingle said the East Wing project is \"inex"
     }
    ]
   },
@@ -3035,6 +2985,225 @@
    ]
   },
   {
+   "id": "f173ecf8a9",
+   "topic": "Politics",
+   "summary": "ESPN host Stephen A. Smith said Thursday that Rep. Byron Donalds, R-Fla., could make him a Republican, praising the Trump-backed gubernatorial frontrunner days before Florida Republicans choose their nominee to succeed Gov. Ron DeSantis. \"And I ain't no d--- Republican. But that mean if anybody could make me one, it would be him. I'm just going to keep it a buck. I'm just letting you know,\" Smith said . \"He's the real deal. Make no mistake about it. I've seen him battling with Democrats. I've seen him battling with people on different shows, whatever. He ain't backing up. He knows his stuff. OK? I talk to him all the time. All the time. And I ain't got nothing bad to say about him.\" A Donalds campaign official confirmed to Fox News Digital Friday that Smith and Donalds are friends. Campaign communications director Gates McGavick said Donalds was attracting voters across demographic\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Stephen A. Smith admits Florida Rep. Byron Donalds could make him a Republican, calls him \u2018the real deal\u2019",
+   "updated": "2026-08-15T07:40:49+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Stephen A. Smith admits Florida Rep. Byron Donalds could make him a Republican, calls him \u2018the real deal\u2019",
+     "url": "https://nypost.com/2026/08/15/media/stephen-a-smith-admits-florida-rep-byron-donalds-could-make-him-a-republican/",
+     "author": "Fox News",
+     "kind": "news",
+     "published": "2026-08-15T07:40:49+00:00",
+     "summary": "\"He's the real deal. Make no mistake about it. I've seen him battling with Democrats,\" Smith said."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Stephen A Smith admits Byron Donalds could make him a Republican, calls him \u2018the real deal\u2019",
+     "url": "https://www.foxnews.com/media/stephen-smith-admits-byron-donalds-could-make-him-republican-calls-him-real-deal",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T22:00:23+00:00",
+     "summary": "ESPN host Stephen A. Smith said Thursday that Rep. Byron Donalds, R-Fla., could make him a Republican, praising the Trump-backed gubernatorial frontrunner days before Florida Republicans choose their nominee to succeed Gov. Ron DeSantis. \"And I ain't no d--- Republican. But that mean if anybody could make me one, it would be him. I'm just going to keep it a buck. I'm just letting you know,\" Smith said . \"He's the real deal. Make no mistake about it. I've seen him battling with Democrats. I've seen him battling with people on different shows, whatever. He ain't backing up. He knows his stuff. OK? I talk to him all the time. All the time. And I ain't got nothing bad to say about him.\" A Donalds campaign official confirmed to Fox News Digital Friday that Smith and Donalds are friends. Campaign communications director Gates McGavick said Donalds was attracting voters across demographic groups by focusing on affordability and public safety. FLORIDA GOP GUBERNATORIAL PRIMARY CANDIDATE SAYS AS GOVERNOR, HE'D 'SHUT DOWN' EVERY ABORTION CLINIC IN STATE \"Byron Donalds is drawing support from Floridians of all backgrounds because he has a clear vision to make Florida more affordable, keep Flo"
+    }
+   ]
+  },
+  {
+   "id": "9190139725",
+   "topic": "Other",
+   "summary": "As we do every Friday, we're turning Racket over to you, the readers.",
+   "summaryFrom": "racket",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "pub"
+   ],
+   "headline": "Open Thread",
+   "updated": "2026-08-15T07:00:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 2,
+    "coop": 1
+   },
+   "newsCount": 0,
+   "opinionCount": 3,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "reason",
+     "title": "Open Thread",
+     "url": "https://reason.com/volokh/2026/08/15/open-thread-297/",
+     "author": "Eugene Volokh",
+     "kind": "opinion",
+     "published": "2026-08-15T07:00:00+00:00",
+     "summary": "The post Open Thread appeared first on Reason.com ."
+    },
+    {
+     "outlet": "racket",
+     "title": "Time for a \u2018What Are You Listening to?\u2019 Open Thread",
+     "url": "https://racketmn.com/time-for-a-what-are-you-listening-to-open-thread",
+     "author": "Keith Harris",
+     "kind": "opinion",
+     "published": "2026-08-14T17:18:09+00:00",
+     "summary": "As we do every Friday, we're turning Racket over to you, the readers."
+    },
+    {
+     "outlet": "reason",
+     "title": "Open Thread",
+     "url": "https://reason.com/volokh/2026/08/14/open-thread-296/",
+     "author": "Eugene Volokh",
+     "kind": "opinion",
+     "published": "2026-08-14T07:00:00+00:00",
+     "summary": "The post Open Thread appeared first on Reason.com ."
+    }
+   ]
+  },
+  {
+   "id": "bf4d5784cf",
+   "topic": "Justice & Policing",
+   "summary": "8/14/1935: President Roosevelt signs into law the Social Security Act of 1935. The Supreme Court upheld the constitutionality of this law in Helvering v. Davis (1937). President Franklin D. Roosevelt The post Today in Supreme Court History: August 14, 1935 appeared first on Reason.com .",
+   "summaryFrom": "reason",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "Today in Supreme Court History: August 14, 1935",
+   "updated": "2026-08-15T07:00:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "slate",
+     "title": "To Understand Today\u2019s Supreme Court, You Need to Understand One Particular Justice.",
+     "url": "https://slate.com/podcasts/amicus/2026/08/neil-gorsuchs-early-years-trumps-nomination-and-a-stolen-seat-on-the-supreme-court?via=rss",
+     "author": "Dahlia Lithwick",
+     "kind": "news",
+     "published": "2026-08-15T07:00:00+00:00",
+     "summary": "How a mild-mannered Westerner became the SCOTUS wild card."
+    },
+    {
+     "outlet": "reason",
+     "title": "Today in Supreme Court History: August 14, 1935",
+     "url": "https://reason.com/volokh/2026/08/14/today-in-supreme-court-history-august-14-1935-6/",
+     "author": "Josh Blackman",
+     "kind": "opinion",
+     "published": "2026-08-14T11:00:41+00:00",
+     "summary": "8/14/1935: President Roosevelt signs into law the Social Security Act of 1935. The Supreme Court upheld the constitutionality of this law in Helvering v. Davis (1937). President Franklin D. Roosevelt The post Today in Supreme Court History: August 14, 1935 appeared first on Reason.com ."
+    }
+   ]
+  },
+  {
+   "id": "57355a5b88",
+   "topic": "Other",
+   "summary": "KITTERY, Maine - Republican Sen. Susan Collins says her Democratic challenger in Maine's high-stakes U.S. Senate race apparently \"struggles to control his temper.\" Collins broke her silence about Democratic Senate nominee Troy Jackson on Friday after a newly resurfaced 1988 police record detailed accusations that Jackson assaulted a man and pushed his longtime partner during a late-night confrontation in Fort Kent, Maine. Jackson, a one-time logger and a former state Senate president, was chosen a couple of weeks ago by Maine Democrats to replace embattled oysterman Graham Platner , who won the June Democratic Senate nomination in a landslide before imploding and dropping out of the race last month amid rape allegations that he denied. WHAT THE NEW FOX NEWS POLL IN MAINE'S CRUCIAL SENATE RACE SHOWS Jackson is challenging Collins in a crucial race that's among a dozen that will determine\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Susan Collins drops brutal reminder of Maine Dem rival rocked by assault accusations",
+   "updated": "2026-08-15T06:59:21+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Susan Collins drops brutal reminder of Maine Dem rival rocked by assault accusations",
+     "url": "https://nypost.com/2026/08/15/us-news/susan-collins-drops-brutal-reminder-of-maine-dem-rival-rocked-by-assault-accusations/",
+     "author": "Fox News",
+     "kind": "news",
+     "published": "2026-08-15T06:59:21+00:00",
+     "summary": "Collins broke her silence about Troy Jackson after accusations that he assaulted a man and pushed his longtime partner."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Susan Collins drops brutal reminder of Dem rival rocked by accusations",
+     "url": "https://www.foxnews.com/politics/susan-collins-drops-brutal-reminder-dem-rival-rocked-accusations",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T16:06:38+00:00",
+     "summary": "KITTERY, Maine - Republican Sen. Susan Collins says her Democratic challenger in Maine's high-stakes U.S. Senate race apparently \"struggles to control his temper.\" Collins broke her silence about Democratic Senate nominee Troy Jackson on Friday after a newly resurfaced 1988 police record detailed accusations that Jackson assaulted a man and pushed his longtime partner during a late-night confrontation in Fort Kent, Maine. Jackson, a one-time logger and a former state Senate president, was chosen a couple of weeks ago by Maine Democrats to replace embattled oysterman Graham Platner , who won the June Democratic Senate nomination in a landslide before imploding and dropping out of the race last month amid rape allegations that he denied. WHAT THE NEW FOX NEWS POLL IN MAINE'S CRUCIAL SENATE RACE SHOWS Jackson is challenging Collins in a crucial race that's among a dozen that will determine if the GOP holds onto its slim Senate majority. Asked by Fox News Digital about recent reports regarding Jackson, Collins said, \"He\u2019s the one that needs to respond to the reports. I\u2019m not going to comment on them. But I will say that, based on widespread reporting, it appears that he struggles to co"
+    }
+   ]
+  },
+  {
+   "id": "28ccd28eae",
+   "topic": "World",
+   "summary": "Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from Middle East hubs South Korea\u2019s Incheon airport has become the world\u2019s busiest airport for international passengers, in part owing to disruption in the Middle East caused by the Iran war. The airport, South Korea\u2019s main gateway, about 30 miles (48km) west of Seoul, handled 38.39 million international passengers in the first half of 2026, according to preliminary figures compiled by the Airports Council International (ACI), the global trade body for airports. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "South Korea\u2019s president wants talks with North to end Korean War",
+   "updated": "2026-08-15T06:53:28+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "South Korea\u2019s president wants talks with North to end Korean War",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T06:53:28+00:00",
+     "summary": "South Korean President Lee Jae Myung has proposed talks with North Korea to formally end the Korean War."
+    },
+    {
+     "outlet": "guardian",
+     "title": "South Korean airport becomes busiest in world for global traffic amid Iran war",
+     "url": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east",
+     "author": "Raphael Rashid in Seoul",
+     "kind": "news",
+     "published": "2026-08-13T09:45:56+00:00",
+     "summary": "Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from Middle East hubs South Korea\u2019s Incheon airport has become the world\u2019s busiest airport for international passengers, in part owing to disruption in the Middle East caused by the Iran war. The airport, South Korea\u2019s main gateway, about 30 miles (48km) west of Seoul, handled 38.39 million international passengers in the first half of 2026, according to preliminary figures compiled by the Airports Council International (ACI), the global trade body for airports. Continue reading..."
+    }
+   ]
+  },
+  {
    "id": "d55114ffc3",
    "topic": "Other",
    "summary": "A man was charged with multiple hate crimes after allegedly disrupting Shabbat services at a New York City synagogue Friday, striking a congregant and attacking a member of the security team, authorities said. New York City Police Commissioner Jessica Tisch said the man disrupted services at Central Synagogue on Lexington Avenue in Manhattan. The NYPD later identified the suspect as Larry Montes, 46, of the Bronx, and said he was charged with two counts of assault as a hate crime and one count of criminal mischief as a hate crime, among other charges. NORTH CAROLINA WOMAN CHARGED IN ALLEGED HOUSTON SYNAGOGUE ATTACK PLOT AS INVESTIGATORS SEARCH FOR 2 OTHERS \"As synagogue security was escorting him out, he struck a member of the congregation, damaged synagogue property, and then spit at and headbutted a member of the security team,\" Tisch said in a statement posted on X. An NYPD sergeant\u2026",
@@ -3115,48 +3284,6 @@
      "kind": "news",
      "published": "2026-08-15T02:04:38+00:00",
      "summary": "A three-judge panel of the court had reversed Holberg\u2019s sentence in 2025, but Friday\u2019s split decision will keep the district court\u2019s decision to affirm her conviction."
-    }
-   ]
-  },
-  {
-   "id": "bac12dde51",
-   "topic": "Climate & Energy",
-   "summary": "The Taliban managed to retake power in Afghanistan on August 15, 2021. Now, they face armed factions who challenge the Taliban rule and strain their central claim of providing security.",
-   "summaryFrom": "dw",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Taliban pressured by insurgents after 5 years in power",
-   "updated": "2026-08-15T04:01:19+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power",
-     "url": "https://www.nytimes.com/2026/08/15/world/asia/entrenched-embattled-and-defiant-the-taliban-celebrate-5-years-in-power.html",
-     "author": "Elian Peltier",
-     "kind": "news",
-     "published": "2026-08-15T04:01:19+00:00",
-     "summary": "The Taliban have Afghanistan in a chokehold that spares no one. But threats are starting to crack their veneer of stability and control."
-    },
-    {
-     "outlet": "dw",
-     "title": "Taliban pressured by insurgents after 5 years in power",
-     "url": "https://www.dw.com/en/taliban-pressured-by-insurgents-after-5-years-in-power/a-78371144?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T13:49:00+00:00",
-     "summary": "The Taliban managed to retake power in Afghanistan on August 15, 2021. Now, they face armed factions who challenge the Taliban rule and strain their central claim of providing security."
     }
    ]
   },
@@ -3665,48 +3792,6 @@
    ]
   },
   {
-   "id": "4af8568c83",
-   "topic": "World",
-   "summary": "One person killed and hundreds evacuated in Croatia as blazes also hit Germany, Greece and Spain Almost 500 people have been arrested on suspicion of starting wildfires in France since the start of the summer, authorities have said, as firefighters in half a dozen European countries tackle ferocious blazes amid a record-breaking heatwave. A fire engulfed \u2060homes in a Croatian holiday resort on Friday, killing one person, injuring 40 and forcing 1,200 to evacuate, officials said, as the EU warned that pockets of \u201cvery extreme\u201d wildfire conditions stretched across the continent. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Wildfires rage across Europe as heatwaves drive record temperatures",
-   "updated": "2026-08-14T21:50:35+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Wildfires rage across Europe as heatwaves drive record temperatures",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T21:50:35+00:00",
-     "summary": "Wildfires fuelled by record heat are ravaging Europe, burning around 500,000 hectares and forcing thousands to flee."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
-     "url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
-     "author": "Jon Henley in Paris",
-     "kind": "news",
-     "published": "2026-08-14T16:58:04+00:00",
-     "summary": "One person killed and hundreds evacuated in Croatia as blazes also hit Germany, Greece and Spain Almost 500 people have been arrested on suspicion of starting wildfires in France since the start of the summer, authorities have said, as firefighters in half a dozen European countries tackle ferocious blazes amid a record-breaking heatwave. A fire engulfed \u2060homes in a Croatian holiday resort on Friday, killing one person, injuring 40 and forcing 1,200 to evacuate, officials said, as the EU warned that pockets of \u201cvery extreme\u201d wildfire conditions stretched across the continent. Continue reading..."
-    }
-   ]
-  },
-  {
    "id": "6f97b3da10",
    "topic": "Climate & Energy",
    "summary": "PM steps up climate response with measures including better water access and support for building farm reservoirs Farmers must not carry the risks of the climate crisis alone, Andy Burnham has said, as he announced \u00a365m of funding to help them manage the devastating drought. The prime minister is stepping up his response to the immediate climate crisis after facing a backlash from his own MPs and Labour\u2019s grassroots for not addressing the climate crisis despite wildfires tearing through Britain and a drought affecting food producers. Labour MPs argued Burnham had taken too long to talk about the climate crisis and had not made it a priority. Continue reading...",
@@ -3745,90 +3830,6 @@
      "kind": "news",
      "published": "2026-08-14T21:30:00+00:00",
      "summary": "The UK government announced new support for farmers, including flexibility in environmental subsidy schemes and support for building reservoirs, as the country grapples with widespread drought and falling crop yields."
-    }
-   ]
-  },
-  {
-   "id": "f4748ac525",
-   "topic": "Justice & Policing",
-   "summary": "Attorneys for the Olympian previously accused of vandalizing the Lincoln Memorial Reflecting Pool filed a motion Thursday to bar prosecutors from bringing further criminal charges against him related to the case, citing fears of \u201cprosecutorial harassment\" by President Trump. The legal team for Olympic canoeist David Hearn called for Judge Todd Edelman of the District...",
-   "summaryFrom": "thehill",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Accused Olympian seeks protection from future Reflecting Pool charges",
-   "updated": "2026-08-14T20:34:16+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "Accused Olympian seeks protection from future Reflecting Pool charges",
-     "url": "https://thehill.com/regulation/court-battles/6030609-accused-olympian-seeks-protection-from-future-reflecting-pool-charges/",
-     "author": "Mira Bhakta",
-     "kind": "news",
-     "published": "2026-08-14T20:34:16+00:00",
-     "summary": "Attorneys for the Olympian previously accused of vandalizing the Lincoln Memorial Reflecting Pool filed a motion Thursday to bar prosecutors from bringing further criminal charges against him related to the case, citing fears of \u201cprosecutorial harassment\" by President Trump. The legal team for Olympic canoeist David Hearn called for Judge Todd Edelman of the District..."
-    },
-    {
-     "outlet": "nyt",
-     "title": "David Hearn\u2019s Lawyers Ask Court to Bar Future Reflecting Pool Charges",
-     "url": "https://www.nytimes.com/2026/08/14/us/hearn-reflecting-pool-prosecutor-harassment.html",
-     "author": "Clarence Williams",
-     "kind": "news",
-     "published": "2026-08-14T13:11:46+00:00",
-     "summary": "Citing comments by President Trump, David Hearn raised the prospect of \u201cprosecutorial harassment.\u201d"
-    }
-   ]
-  },
-  {
-   "id": "27b76be00e",
-   "topic": "Climate & Energy",
-   "summary": "Firefighters discover body and say more than 40 people hurt in the Lokva Rogoznica and Omi\u0161 areas England has received just 4mm of rain so far in August, or 6% of the long-term average for the month , the Environment Agency said on Friday, as reported by PA. It follows the driest July on record for the country , when only 7mm of rain was measured, or 10% of the average. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Dozens injured and thousands evacuated in Croatia wildfire",
-   "updated": "2026-08-14T20:22:56+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Dozens injured and thousands evacuated in Croatia wildfire",
-     "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T20:22:56+00:00",
-     "summary": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history."
-    },
-    {
-     "outlet": "guardian",
-     "title": "One dead, dozens injured and thousands evacuated in Croatian wildfires \u2013 as it happened",
-     "url": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
-     "author": "Jakub Krupa and Mabel Banfield-Nwachi",
-     "kind": "news",
-     "published": "2026-08-14T15:23:29+00:00",
-     "summary": "Firefighters discover body and say more than 40 people hurt in the Lokva Rogoznica and Omi\u0161 areas England has received just 4mm of rain so far in August, or 6% of the long-term average for the month , the Environment Agency said on Friday, as reported by PA. It follows the driest July on record for the country , when only 7mm of rain was measured, or 10% of the average. Continue reading..."
     }
    ]
   }
