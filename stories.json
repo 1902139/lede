@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T04:48:20.992213+00:00",
+ "generated": "2026-08-15T05:43:26.682055+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -15,14 +15,14 @@
     "big": [
      "friday",
      "appearance",
-     "david",
      "unitedhealth",
+     "david",
      "described"
     ],
     "indie": [
      "death",
-     "year-old",
-     "pleading"
+     "pleading",
+     "year-old"
     ]
    },
    "absent": [
@@ -194,33 +194,30 @@
    "summaryFrom": "dropsite",
    "emphasis": {
     "bigCount": 9,
-    "indieCount": 7,
+    "indieCount": 6,
     "big": [
-     "east",
      "middle",
+     "east",
      "answers"
     ],
     "indie": [
      "saying",
      "donald",
-     "since",
-     "mental",
-     "health",
-     "jump"
+     "since"
     ]
    },
    "absent": [],
    "headline": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea \u2018not nearly enough\u2019 \u2013 as it happened",
    "updated": "2026-08-15T02:33:55+00:00",
-   "outletCount": 14,
+   "outletCount": 13,
    "counts": {
     "corp": 6,
     "nonprofit": 3,
     "family": 3,
-    "pub": 3,
+    "pub": 2,
     "coop": 1
    },
-   "newsCount": 16,
+   "newsCount": 15,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -268,15 +265,6 @@
      "kind": "news",
      "published": "2026-08-14T22:55:06+00:00",
      "summary": "Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
-     "url": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T21:17:15+00:00",
-     "summary": "Members of the US Congress have called for a probe into conditions amid reports of sailors attempting to jump ship."
     },
     {
      "outlet": "latimes",
@@ -376,7 +364,7 @@
    "summary": "FIRST ON FOX \u2014 The Kennedy Center Board of Trustees wants to name the famed arts institution\u2019s grounds the \"President Donald J. Trump Plaza,\" one of several new ways the board is seeking to honor the president as the center moves ahead with a sweeping renovation, Fox News Digital has learned. The board also wants the words \"Endowed by the Trump Kennedy Center Fund\" inscribed on the building once the fund reaches a $100 million endowment, according to information obtained by Fox News Digital. The previously unreported moves come after the board voted Thursday to add an inscription crediting Trump with restoring and renovating America's cultural center, and approved a partial closure of the complex for renovations. KENNEDY CENTER BOARD MEMBER KNOCKS SEN WHITEHOUSE FOR IGNORING INVITES AS DEM FEUDS WITH TRUMP-RUN LANDMARK The resolution recognizing Trump\u2019s contributions passed by a 20-3\u2026",
    "summaryFrom": "foxnews",
    "emphasis": {
-    "bigCount": 8,
+    "bigCount": 7,
     "indieCount": 5,
     "big": [
      "arts",
@@ -384,7 +372,7 @@
      "getty",
      "images",
      "trustees",
-     "move"
+     "performing"
     ],
     "indie": [
      "clear",
@@ -396,15 +384,15 @@
    ],
    "headline": "US President Trump says he will declare Strait of Hormuz US territory",
    "updated": "2026-08-15T02:25:09+00:00",
-   "outletCount": 12,
+   "outletCount": 11,
    "counts": {
     "pub": 3,
-    "family": 5,
+    "family": 4,
     "nonprofit": 2,
     "corp": 3
    },
    "newsCount": 11,
-   "opinionCount": 2,
+   "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
@@ -480,15 +468,6 @@
      "summary": "The pattern in the US and Britain is clear. They serve up stunt after stunt to mask incompetence and the betrayal of all those who trusted them It\u2019s a shame Nigel Farage ducked the announcement of his victory in the Clacton byelection, which confirmed his return as MP for the seat he had needlessly resigned from just a few weeks earlier. You\u2019d have thought he would have loved it. It was the culmination of a stunt, an exercise in politics as performance. It was a display animated by \u2013 and seeking to inflame \u2013 grievance, a million miles away from the hard, grinding work of tackling the problems that underlie those grievances. It was an attempt to deflect scrutiny, distract attention and evade responsibility. It was, in other words, everything nationalist populists like him excel at. Indeed, the only thing. Reform UK said Farage stayed away because Essex police had warned of a \u201c credible threat \u201d to his security, a claim swiftly denied by Essex police. (Add a flexible approach to the truth to that list of nationalist populists\u2019 talents.) Still, it was a slightly odd claim to make. Recall Farage\u2019s favoured explanation \u2013 there are others \u2013 for the undeclared \u00a35m gift he received from th"
     },
     {
-     "outlet": "dailywire",
-     "title": "Trump Makes Unprecedented Move On The Strait Of Hormuz",
-     "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule",
-     "author": "Daily Wire",
-     "kind": "opinion",
-     "published": "2026-08-14T08:45:33+00:00",
-     "summary": null
-    },
-    {
      "outlet": "bbc",
      "title": "Kennedy Center board votes to put Trump's name back on building",
      "url": "https://www.bbc.co.uk/news/articles/cn7n5l5xy5ro?at_medium=RSS&at_campaign=rss",
@@ -537,8 +516,8 @@
     "big": [
      "concerns",
      "families",
-     "carrier",
      "aircraft",
+     "carrier",
      "deployment",
      "friday"
     ],
@@ -653,122 +632,6 @@
    ]
   },
   {
-   "id": "5b97c93064",
-   "topic": "Other",
-   "summary": "Jason Arday, the ex-Cambridge professor who sparked an international controversy over plagiarism allegations, was found dead Friday, according to multiple reports. BBC News reported that a man at a south London address was found \"unresponsive\" and that, according to the Metropolitan Police, \"a 41-year-old man was pronounced dead at the scene and his next of kin have been informed.\" \"At this time, his death is being treated as unexpected, but is not believed to be suspicious,\" Met Police said in a statement to BBC News. \"We are desperately saddened to hear this tragic news,\" Cambridge University Vice Chancellor Professor Deborah Prentice told Fox News Digital . \"Our heartfelt sympathies go to Jason Arday's family and friends at this incredibly difficult time.\" CAMBRIDGE UNIVERSITY PROFESSOR RESIGNS AFTER MAJOR PLAGIARISM ACCUSATIONS PROMPT INVESTIGATION The Metropolitan Police did not\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": {
-    "bigCount": 5,
-    "indieCount": 4,
-    "big": [
-     "allegations",
-     "scene",
-     "resigning"
-    ],
-    "indie": [
-     "centre"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation",
-   "updated": "2026-08-15T01:00:46+00:00",
-   "outletCount": 9,
-   "counts": {
-    "family": 4,
-    "nonprofit": 2,
-    "pub": 2,
-    "corp": 1
-   },
-   "newsCount": 7,
-   "opinionCount": 2,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
-     "url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
-     "author": "Mara Hvistendahl",
-     "kind": "news",
-     "published": "2026-08-15T01:00:46+00:00",
-     "summary": "Mr. Arday resigned last week after the university announced an investigation into allegations of plagiarism and fabrication."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Ex-Cambridge professor found dead after plagiarism scandal led to abrupt resignation",
-     "url": "https://www.foxnews.com/media/ex-cambridge-professor-found-dead-after-plagiarism-scandal-led-abrupt-resignation",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-14T23:58:25+00:00",
-     "summary": "Jason Arday, the ex-Cambridge professor who sparked an international controversy over plagiarism allegations, was found dead Friday, according to multiple reports. BBC News reported that a man at a south London address was found \"unresponsive\" and that, according to the Metropolitan Police, \"a 41-year-old man was pronounced dead at the scene and his next of kin have been informed.\" \"At this time, his death is being treated as unexpected, but is not believed to be suspicious,\" Met Police said in a statement to BBC News. \"We are desperately saddened to hear this tragic news,\" Cambridge University Vice Chancellor Professor Deborah Prentice told Fox News Digital . \"Our heartfelt sympathies go to Jason Arday's family and friends at this incredibly difficult time.\" CAMBRIDGE UNIVERSITY PROFESSOR RESIGNS AFTER MAJOR PLAGIARISM ACCUSATIONS PROMPT INVESTIGATION The Metropolitan Police did not immediately respond to Fox News Digital's requests for comment. Last week, Arday resigned as a sociology professor at Cambridge University after the university announced an investigation into his academic qualifications and honorary appointments amid plagiarism accusations, with one accuser telling Fox"
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation",
-     "url": "https://www.pbs.org/newshour/world/jason-arday-youngest-black-professor-at-cambridge-found-dead-at-41-after-resignation",
-     "author": "Sylvia Hui, Associated Press",
-     "kind": "news",
-     "published": "2026-08-14T23:25:02+00:00",
-     "summary": "A British sociologist who resigned last week from the University of Cambridge following weeks of public accusations of plagiarism and media scrutiny was found dead Friday."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Jason Arday, professor at centre of Cambridge plagiarism row, found dead",
-     "url": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
-     "author": "Richard Adams and Vikram Dodd",
-     "kind": "news",
-     "published": "2026-08-14T22:10:24+00:00",
-     "summary": "Academic was pronounced dead at his home in south London after police called to address after 3pm on Friday Jason Arday, the academic who resigned last week as a professor at the University of Cambridge , has been found dead at his home in south London. The Metropolitan police said officers were called to Arday\u2019s address by the London ambulance service after 3pm on Friday. Continue reading..."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Former Cambridge professor accused of plagiarism found dead",
-     "url": "https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T20:46:40+00:00",
-     "summary": "Police are treating sociology professor Jason Arday&#039;s death as unexpected but not suspicious."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "'Youngest Black Professor' Jason Arday Found Dead Days After Resigning Amid Plagiarism Claims",
-     "url": "https://www.breitbart.com/europe/2026/08/14/youngest-black-professor-jason-arday-found-dead-days-after-resigning-amid-plagiarism-claims/",
-     "author": "Oliver JJ Lane",
-     "kind": "news",
-     "published": "2026-08-14T20:37:38+00:00",
-     "summary": "Jason Arday, Cambridge's youngest ever black professor who sensationally resigned last week amid a storm of scrutiny, has been found dead. The post &#8216;Youngest Black Professor&#8217; Jason Arday Found Dead Days After Resigning Amid Plagiarism Claims appeared first on Breitbart ."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Jason Arday, ex-Cambridge professor accused of plagiarism, found dead week after resigning",
-     "url": "https://www.nbcnews.com/world/united-kingdom/jason-arday-ex-cambridge-professor-accused-plagiarism-found-dead-week-rcna592616",
-     "author": "Marlene Lenthang",
-     "kind": "news",
-     "published": "2026-08-14T20:28:18+00:00",
-     "summary": "Former Cambridge professor Jason Arday was found dead at his London home on Friday, one week after he resigned from his position after accusations of plagiarism."
-    },
-    {
-     "outlet": "dw",
-     "title": "Jason Arday: Ex-Cambridge professor at centre of plagiarism scandal found dead",
-     "url": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T20:03:00+00:00",
-     "summary": "Jason Arday, the youngest ever Black professor at Cambridge, was found unresponsive at an address in London. Arday had recently resigned in the midst of a plagiarism row."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Professor Recently Outed For Fraudulent Biography Found Dead",
-     "url": "https://www.dailywire.com/news/professor-recently-outed-for-fraudulent-biography-found-dead",
-     "author": "Brecca Stoll",
-     "kind": "opinion",
-     "published": "2026-08-14T16:57:09+00:00",
-     "summary": "Jason Arday, the Cambridge professor who resigned nine days ago over plagiarism allegations, was found dead in his London home. Authorities said in a statement that an ambulance was called to his residence after Arday had been found &#8220;unresponsive.&#8221; He was pronounced dead at the scene. Police added that the death was being treated as \u201cunexpected\u201d but is not believed to be suspicious, according to The Telegraph. Just nine days ago, Cambridge launched an investigation into Arday. \u201cThe University of Cambridge has begun an investigation following new information about Professor Arday\u2019s academic qualifications and honorary appointments,\u201d the statement from the university said. \u201cIn order to ensure a fair process, we will not comment further until this has concluded.&#8221; Cambridge was not initially keen on opening an investigation. Cambridge said Arday was \u201cthe victim of a vile campaign to undermine his credibility, which must stop.\u201d The school began to change its tune when reports emerged that Arday had filed a harassment claim against a journalist who was investigating his work. The day that Cambridge announced its investigation, Arday resigned. \u201cI no longer wish to feel a"
-    }
-   ]
-  },
-  {
    "id": "1beb4d630e",
    "topic": "Politics",
    "summary": "The Fifth U.S. Circuit Court of Appeals on Thursday dismissed as moot a challenge to President Donald Trump\u2019s use of the Alien Enemies Act to deport alleged Tren de Aragua members, leaving the legality of his invocation of the 18th-century law unresolved. The New Orleans-based court said the case became moot after all three Venezuelan plaintiffs, whom the administration alleged were members of Tren de Aragua , had already been removed from the United States under other immigration authorities. While the Alien Enemies Act dates back hundreds of years, prior to Trump, it was most recently invoked by President Harry Truman in 1946. The law allows the president, under specified wartime or invasion circumstances involving a foreign nation or government, to detain and remove certain non-naturalized individuals of that hostile power. The Trump administration has argued that Tren de Aragua\u2019s\u2026",
@@ -778,8 +641,8 @@
     "indieCount": 3,
     "big": [
      "fight",
-     "friday",
      "square-foot",
+     "friday",
      "washington"
     ],
     "indie": [
@@ -873,6 +736,222 @@
      "kind": "news",
      "published": "2026-08-14T13:22:51+00:00",
      "summary": "WASHINGTON \u2014 President Donald Trump on Friday asked the Supreme Court to allow him to continue construction of a sprawling ballroom adjacent to the White House."
+    }
+   ]
+  },
+  {
+   "id": "5b97c93064",
+   "topic": "Other",
+   "summary": "Jason Arday, the ex-Cambridge professor who sparked an international controversy over plagiarism allegations, was found dead Friday, according to multiple reports. BBC News reported that a man at a south London address was found \"unresponsive\" and that, according to the Metropolitan Police, \"a 41-year-old man was pronounced dead at the scene and his next of kin have been informed.\" \"At this time, his death is being treated as unexpected, but is not believed to be suspicious,\" Met Police said in a statement to BBC News. \"We are desperately saddened to hear this tragic news,\" Cambridge University Vice Chancellor Professor Deborah Prentice told Fox News Digital . \"Our heartfelt sympathies go to Jason Arday's family and friends at this incredibly difficult time.\" CAMBRIDGE UNIVERSITY PROFESSOR RESIGNS AFTER MAJOR PLAGIARISM ACCUSATIONS PROMPT INVESTIGATION The Metropolitan Police did not\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": {
+    "bigCount": 5,
+    "indieCount": 3,
+    "big": [
+     "allegations",
+     "accused",
+     "scene",
+     "resigning"
+    ],
+    "indie": [
+     "centre"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation",
+   "updated": "2026-08-15T01:00:46+00:00",
+   "outletCount": 8,
+   "counts": {
+    "family": 4,
+    "nonprofit": 2,
+    "corp": 1,
+    "pub": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 2,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
+     "url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
+     "author": "Mara Hvistendahl",
+     "kind": "news",
+     "published": "2026-08-15T01:00:46+00:00",
+     "summary": "Mr. Arday resigned last week after the university announced an investigation into allegations of plagiarism and fabrication."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Ex-Cambridge professor found dead after plagiarism scandal led to abrupt resignation",
+     "url": "https://www.foxnews.com/media/ex-cambridge-professor-found-dead-after-plagiarism-scandal-led-abrupt-resignation",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-14T23:58:25+00:00",
+     "summary": "Jason Arday, the ex-Cambridge professor who sparked an international controversy over plagiarism allegations, was found dead Friday, according to multiple reports. BBC News reported that a man at a south London address was found \"unresponsive\" and that, according to the Metropolitan Police, \"a 41-year-old man was pronounced dead at the scene and his next of kin have been informed.\" \"At this time, his death is being treated as unexpected, but is not believed to be suspicious,\" Met Police said in a statement to BBC News. \"We are desperately saddened to hear this tragic news,\" Cambridge University Vice Chancellor Professor Deborah Prentice told Fox News Digital . \"Our heartfelt sympathies go to Jason Arday's family and friends at this incredibly difficult time.\" CAMBRIDGE UNIVERSITY PROFESSOR RESIGNS AFTER MAJOR PLAGIARISM ACCUSATIONS PROMPT INVESTIGATION The Metropolitan Police did not immediately respond to Fox News Digital's requests for comment. Last week, Arday resigned as a sociology professor at Cambridge University after the university announced an investigation into his academic qualifications and honorary appointments amid plagiarism accusations, with one accuser telling Fox"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation",
+     "url": "https://www.pbs.org/newshour/world/jason-arday-youngest-black-professor-at-cambridge-found-dead-at-41-after-resignation",
+     "author": "Sylvia Hui, Associated Press",
+     "kind": "news",
+     "published": "2026-08-14T23:25:02+00:00",
+     "summary": "A British sociologist who resigned last week from the University of Cambridge following weeks of public accusations of plagiarism and media scrutiny was found dead Friday."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Jason Arday, professor at centre of Cambridge plagiarism row, found dead",
+     "url": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
+     "author": "Richard Adams and Vikram Dodd",
+     "kind": "news",
+     "published": "2026-08-14T22:10:24+00:00",
+     "summary": "Academic was pronounced dead at his home in south London after police called to address after 3pm on Friday Jason Arday, the academic who resigned last week as a professor at the University of Cambridge , has been found dead at his home in south London. The Metropolitan police said officers were called to Arday\u2019s address by the London ambulance service after 3pm on Friday. Continue reading..."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "'Youngest Black Professor' Jason Arday Found Dead Days After Resigning Amid Plagiarism Claims",
+     "url": "https://www.breitbart.com/europe/2026/08/14/youngest-black-professor-jason-arday-found-dead-days-after-resigning-amid-plagiarism-claims/",
+     "author": "Oliver JJ Lane",
+     "kind": "news",
+     "published": "2026-08-14T20:37:38+00:00",
+     "summary": "Jason Arday, Cambridge's youngest ever black professor who sensationally resigned last week amid a storm of scrutiny, has been found dead. The post &#8216;Youngest Black Professor&#8217; Jason Arday Found Dead Days After Resigning Amid Plagiarism Claims appeared first on Breitbart ."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Jason Arday, ex-Cambridge professor accused of plagiarism, found dead week after resigning",
+     "url": "https://www.nbcnews.com/world/united-kingdom/jason-arday-ex-cambridge-professor-accused-plagiarism-found-dead-week-rcna592616",
+     "author": "Marlene Lenthang",
+     "kind": "news",
+     "published": "2026-08-14T20:28:18+00:00",
+     "summary": "Former Cambridge professor Jason Arday was found dead at his London home on Friday, one week after he resigned from his position after accusations of plagiarism."
+    },
+    {
+     "outlet": "dw",
+     "title": "Jason Arday: Ex-Cambridge professor at centre of plagiarism scandal found dead",
+     "url": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T20:03:00+00:00",
+     "summary": "Jason Arday, the youngest ever Black professor at Cambridge, was found unresponsive at an address in London. Arday had recently resigned in the midst of a plagiarism row."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Professor Recently Outed For Fraudulent Biography Found Dead",
+     "url": "https://www.dailywire.com/news/professor-recently-outed-for-fraudulent-biography-found-dead",
+     "author": "Brecca Stoll",
+     "kind": "opinion",
+     "published": "2026-08-14T16:57:09+00:00",
+     "summary": "Jason Arday, the Cambridge professor who resigned nine days ago over plagiarism allegations, was found dead in his London home. Authorities said in a statement that an ambulance was called to his residence after Arday had been found &#8220;unresponsive.&#8221; He was pronounced dead at the scene. Police added that the death was being treated as \u201cunexpected\u201d but is not believed to be suspicious, according to The Telegraph. Just nine days ago, Cambridge launched an investigation into Arday. \u201cThe University of Cambridge has begun an investigation following new information about Professor Arday\u2019s academic qualifications and honorary appointments,\u201d the statement from the university said. \u201cIn order to ensure a fair process, we will not comment further until this has concluded.&#8221; Cambridge was not initially keen on opening an investigation. Cambridge said Arday was \u201cthe victim of a vile campaign to undermine his credibility, which must stop.\u201d The school began to change its tune when reports emerged that Arday had filed a harassment claim against a journalist who was investigating his work. The day that Cambridge announced its investigation, Arday resigned. \u201cI no longer wish to feel a"
+    }
+   ]
+  },
+  {
+   "id": "9219c5838d",
+   "topic": "World",
+   "summary": "Shallow quake hit Indonesia\u2019s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least five people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 6,
+    "big": [],
+    "indie": [
+     "magnitude",
+     "five",
+     "people",
+     "struck",
+     "early",
+     "ground"
+    ]
+   },
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "Deadly earthquake strikes Indonesia and triggers mass evacuations",
+   "updated": "2026-08-15T05:36:19+00:00",
+   "outletCount": 7,
+   "counts": {
+    "pub": 5,
+    "corp": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 8,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Deadly earthquake strikes Indonesia and triggers mass evacuations",
+     "url": "https://www.france24.com/en/asia-pacific/20260815-deadly-earthquake-strikes-indonesia-and-triggers-mass-evacuations",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-15T05:36:19+00:00",
+     "summary": "A powerful 7.7-magnitude earthquake struck off Indonesia\u2019s eastern Flores island early Saturday, leaving at least 20 people dead and several others trapped beneath collapsed buildings. Emergency crews are racing to reach affected communities as landslides blocked roads and residents fled to higher ground amid fears of a tsunami."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "On the ground in Indonesia following 7.7 magnitude earthquake",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T04:49:47+00:00",
+     "summary": "A powerful 7.7 magnitude earthquake struck off eastern Indonesia early Saturday, killing at least five people."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "At least 5 dead after powerful earthquake strikes Indonesia",
+     "url": "https://www.cbsnews.com/news/indonesia-earthquake-tsunami-warning/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T04:43:38+00:00",
+     "summary": "Indonesian authorities issued, then lifted, a tsunami warning after the powerful earthquake hit Saturday morning."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
+     "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T04:12:55+00:00",
+     "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "At least five killed as magnitude 7.7 quake hits Indonesia",
+     "url": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T01:36:04+00:00",
+     "summary": "The death toll is expected to climb further as emergency teams continue search and rescue efforts."
+    },
+    {
+     "outlet": "dw",
+     "title": "Indonesia: Strong earthquake hits off coast of Flores island",
+     "url": "https://www.dw.com/en/indonesia-strong-earthquake-hits-off-coast-of-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T23:45:00+00:00",
+     "summary": "At least five people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftershocks. A tsunami warning has been lifted."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least five",
+     "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+     "author": "Guardian staff and agencies",
+     "kind": "news",
+     "published": "2026-08-14T23:43:18+00:00",
+     "summary": "Shallow quake hit Indonesia\u2019s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least five people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Continue reading..."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Magnitude-7.7 quake hits off coast of Indonesia, killing at least 2",
+     "url": "https://www.nbcnews.com/world/indonesia/earthquake-indonesia-rcna592638",
+     "author": "Babak Dehghanpisheh",
+     "kind": "news",
+     "published": "2026-08-14T22:58:37+00:00",
+     "summary": "A magnitude-7.7 earthquake hit off the coast of Indonesia in the eastern Flores region, the United States Geological Survey reported on Friday."
     }
    ]
   },
@@ -972,16 +1051,16 @@
     "bigCount": 4,
     "indieCount": 2,
     "big": [
-     "donald",
      "president",
-     "marco",
+     "donald",
+     "birthday",
+     "jobs",
      "gift",
-     "viral",
-     "meme"
+     "viral"
     ],
     "indie": [
-     "work",
-     "wall"
+     "wall",
+     "work"
     ]
    },
    "absent": [
@@ -1053,96 +1132,6 @@
      "kind": "news",
      "published": "2026-08-13T22:51:21+00:00",
      "summary": "Photo: Marc Caputo/Axios Marco Rubio has three official Trump administration jobs and a fourth unofficial title: Viral meme star. He's been featured in countless \"Rubio Realizing\" images doctored to capture his grim reaction to being \"assigned\" more jobs, depending on the news of the day or the crisis du jour in the White House. Why it matters: For his 55th birthday on May 28, White House staffers and President Trump gifted Rubio with a gold-framed collage of their 68 favorite \"Rubio Realizing\" memes. A photo of the gift went viral Wednesday when this Axios reporter posted it on X. Zoom in: For the past 18 months, Rubio memes have featured him as everything from a Kiss band member to a samurai to a \"Bachelorette\" contestant in homage to his roles as secretary of state, national security adviser and chair of the U.S. bid for the World Expo in 2035. The memes are based on a photo from one of the most awkward moments in the Trump White House \u2014 on Feb. 28, 2025, when the president and Vice President Vance excoriated Ukrainian President Volodymyr Zelensky over the war with Russia. As the two U.S. leaders savaged Zelensky, Rubio sat ramrod straight on an Oval Office couch without engagin"
-    }
-   ]
-  },
-  {
-   "id": "2cd2798a8b",
-   "topic": "World",
-   "summary": "Shallow quake hit Indonesia\u2019s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least five people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 4,
-    "big": [],
-    "indie": [
-     "magnitude",
-     "ground",
-     "higher",
-     "buildings",
-     "struck",
-     "residents"
-    ]
-   },
-   "absent": [
-    "family",
-    "coop"
-   ],
-   "headline": "7.7-magnitude earthquake strikes eastern Indonesia",
-   "updated": "2026-08-15T04:43:38+00:00",
-   "outletCount": 5,
-   "counts": {
-    "corp": 2,
-    "pub": 3,
-    "nonprofit": 1
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "At least 5 dead after powerful earthquake strikes Indonesia",
-     "url": "https://www.cbsnews.com/news/indonesia-earthquake-tsunami-warning/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T04:43:38+00:00",
-     "summary": "Indonesian authorities issued, then lifted, a tsunami warning after the powerful earthquake hit Saturday morning."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "7.7-magnitude earthquake strikes eastern Indonesia",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T02:03:22+00:00",
-     "summary": "A powerful 7.7-magnitude earthquake struck eastern Indonesia, damaging buildings and sending residents to higher ground."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "At least two killed as magnitude 7.7 quake hits Indonesia",
-     "url": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T01:36:04+00:00",
-     "summary": "Authorities urge coastal residents to move inland or to higher ground following the quake near Flores Island."
-    },
-    {
-     "outlet": "dw",
-     "title": "Indonesia: Strong earthquake hits off coast of Flores island",
-     "url": "https://www.dw.com/en/indonesia-strong-earthquake-hits-off-coast-of-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T23:45:00+00:00",
-     "summary": "At least five people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftershocks. A tsunami warning has been lifted."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least five",
-     "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-     "author": "Guardian staff and agencies",
-     "kind": "news",
-     "published": "2026-08-14T23:43:18+00:00",
-     "summary": "Shallow quake hit Indonesia\u2019s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least five people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Continue reading..."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Magnitude-7.7 quake hits off coast of Indonesia, killing at least 2",
-     "url": "https://www.nbcnews.com/world/indonesia/earthquake-indonesia-rcna592638",
-     "author": "Babak Dehghanpisheh",
-     "kind": "news",
-     "published": "2026-08-14T22:58:37+00:00",
-     "summary": "A magnitude-7.7 earthquake hit off the coast of Indonesia in the eastern Flores region, the United States Geological Survey reported on Friday."
     }
    ]
   },
@@ -1224,13 +1213,13 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "concerns",
      "legal",
+     "concerns",
      "filed"
     ],
     "indie": [
-     "company",
      "announced",
+     "company",
      "monetize"
     ]
    },
@@ -1379,9 +1368,9 @@
      "organization"
     ],
     "indie": [
-     "reunited",
-     "care",
      "october",
+     "care",
+     "reunited",
      "international"
     ]
    },
@@ -1445,6 +1434,66 @@
      "kind": "news",
      "published": "2026-08-14T10:18:02+00:00",
      "summary": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials."
+    }
+   ]
+  },
+  {
+   "id": "8e7934e6a9",
+   "topic": "Justice & Policing",
+   "summary": "Six people, including a suspected gunman, are dead in rural Missaukee County, Michigan , after a multi-scene shooting, according to state police. Earlier Friday, Michigan State Police shared on social media that officers were investigating a shooting in the area that was reported just before noon and that authorities were looking for Chad Hickman, 39, who they said should be considered \"armed and dangerous.\" Officers began investigating Friday morning when three people were found dead and another was wounded at a home near LaChance Road and Kelly Road in Richland Township. Missaukee County is located roughly three hours north of Detroit. NEW YORK STATE POLICE LAUNCH MANHUNT AFTER KILLING, HOUSE FIRE FOR 'ARMED AND DANGEROUS' SUSPECT A fourth person was found dead in another home. State police said that Hickman's car was seen near a wooded area where his body and that of another victim\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "At least six people dead and one wounded in mass shooting in rural Michigan",
+   "updated": "2026-08-15T05:23:35+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 2,
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Five people killed in Northern Michigan, officials say; suspect found dead",
+     "url": "https://www.cbsnews.com/news/police-investigate-homicide-northern-michigan-missaukee-county/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T05:23:35+00:00",
+     "summary": "Authorities are investigating the killings of five people Friday in rural Northern Michigan, officials said. The suspect in the case was also found dead."
+    },
+    {
+     "outlet": "guardian",
+     "title": "At least six people dead and one wounded in mass shooting in rural Michigan",
+     "url": "https://www.theguardian.com/us-news/2026/aug/14/michigan-mass-shooting-missaukee-county",
+     "author": "Uwa Ede-Osifo",
+     "kind": "news",
+     "published": "2026-08-14T23:32:00+00:00",
+     "summary": "Suspected gunman fled the scene, prompting a manhunt, before he and another individual were found deceased A mass shooting on Friday has left six people dead, including the suspected gunman, in Missaukee county, a rural area of northern Michigan, according to state police. Another person is in critical condition at a local hospital. Michigan state police identified the suspected gunman as 39-year-old Chad Hickman in a statement posted on social media. Continue reading..."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "5 people killed in rural Michigan; suspect found dead",
+     "url": "https://www.nbcnews.com/news/us-news/5-people-killed-rural-michigan-suspect-found-deceased-rcna592625",
+     "author": "Dennis Romero",
+     "kind": "news",
+     "published": "2026-08-14T23:27:29+00:00",
+     "summary": "Five people were found dead in rural northern Michigan on Friday, state police said."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Several people dead, including suspect, in rural Michigan multi-scene shooting: police",
+     "url": "https://www.foxnews.com/us/several-people-dead-including-suspect-rural-michigan-multi-scene-shooting-police",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T22:47:42+00:00",
+     "summary": "Six people, including a suspected gunman, are dead in rural Missaukee County, Michigan , after a multi-scene shooting, according to state police. Earlier Friday, Michigan State Police shared on social media that officers were investigating a shooting in the area that was reported just before noon and that authorities were looking for Chad Hickman, 39, who they said should be considered \"armed and dangerous.\" Officers began investigating Friday morning when three people were found dead and another was wounded at a home near LaChance Road and Kelly Road in Richland Township. Missaukee County is located roughly three hours north of Detroit. NEW YORK STATE POLICE LAUNCH MANHUNT AFTER KILLING, HOUSE FIRE FOR 'ARMED AND DANGEROUS' SUSPECT A fourth person was found dead in another home. State police said that Hickman's car was seen near a wooded area where his body and that of another victim were then found. Fox News Digital has reached out to Michigan State Police . Police said there is no ongoing danger to the public. \"Not only is this difficult for our investigators and our troopers, but it's very hard for this community. You know, this type of loss is tragic,\" MSP Public Information O"
     }
    ]
   },
@@ -1518,66 +1567,6 @@
    ]
   },
   {
-   "id": "8e7934e6a9",
-   "topic": "Justice & Policing",
-   "summary": "Six people, including a suspected gunman, are dead in rural Missaukee County, Michigan , after a multi-scene shooting, according to state police. Earlier Friday, Michigan State Police shared on social media that officers were investigating a shooting in the area that was reported just before noon and that authorities were looking for Chad Hickman, 39, who they said should be considered \"armed and dangerous.\" Officers began investigating Friday morning when three people were found dead and another was wounded at a home near LaChance Road and Kelly Road in Richland Township. Missaukee County is located roughly three hours north of Detroit. NEW YORK STATE POLICE LAUNCH MANHUNT AFTER KILLING, HOUSE FIRE FOR 'ARMED AND DANGEROUS' SUSPECT A fourth person was found dead in another home. State police said that Hickman's car was seen near a wooded area where his body and that of another victim\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "At least six people dead and one wounded in mass shooting in rural Michigan",
-   "updated": "2026-08-15T02:03:51+00:00",
-   "outletCount": 4,
-   "counts": {
-    "corp": 2,
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Five people killed in Northern Michigan, officials say; suspect found dead",
-     "url": "https://www.cbsnews.com/news/police-investigate-homicide-northern-michigan-missaukee-county/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T02:03:51+00:00",
-     "summary": "Authorities are investigating the killings of five people Friday in rural Northern Michigan, officials said. The suspect in the case was also found dead."
-    },
-    {
-     "outlet": "guardian",
-     "title": "At least six people dead and one wounded in mass shooting in rural Michigan",
-     "url": "https://www.theguardian.com/us-news/2026/aug/14/michigan-mass-shooting-missaukee-county",
-     "author": "Uwa Ede-Osifo",
-     "kind": "news",
-     "published": "2026-08-14T23:32:00+00:00",
-     "summary": "Suspected gunman fled the scene, prompting a manhunt, before he and another individual were found deceased A mass shooting on Friday has left six people dead, including the suspected gunman, in Missaukee county, a rural area of northern Michigan, according to state police. Another person is in critical condition at a local hospital. Michigan state police identified the suspected gunman as 39-year-old Chad Hickman in a statement posted on social media. Continue reading..."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "5 people killed in rural Michigan; suspect found dead",
-     "url": "https://www.nbcnews.com/news/us-news/5-people-killed-rural-michigan-suspect-found-deceased-rcna592625",
-     "author": "Dennis Romero",
-     "kind": "news",
-     "published": "2026-08-14T23:27:29+00:00",
-     "summary": "Five people were found dead in rural northern Michigan on Friday, state police said."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Several people dead, including suspect, in rural Michigan multi-scene shooting: police",
-     "url": "https://www.foxnews.com/us/several-people-dead-including-suspect-rural-michigan-multi-scene-shooting-police",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T22:47:42+00:00",
-     "summary": "Six people, including a suspected gunman, are dead in rural Missaukee County, Michigan , after a multi-scene shooting, according to state police. Earlier Friday, Michigan State Police shared on social media that officers were investigating a shooting in the area that was reported just before noon and that authorities were looking for Chad Hickman, 39, who they said should be considered \"armed and dangerous.\" Officers began investigating Friday morning when three people were found dead and another was wounded at a home near LaChance Road and Kelly Road in Richland Township. Missaukee County is located roughly three hours north of Detroit. NEW YORK STATE POLICE LAUNCH MANHUNT AFTER KILLING, HOUSE FIRE FOR 'ARMED AND DANGEROUS' SUSPECT A fourth person was found dead in another home. State police said that Hickman's car was seen near a wooded area where his body and that of another victim were then found. Fox News Digital has reached out to Michigan State Police . Police said there is no ongoing danger to the public. \"Not only is this difficult for our investigators and our troopers, but it's very hard for this community. You know, this type of loss is tragic,\" MSP Public Information O"
-    }
-   ]
-  },
-  {
    "id": "85bba0da8f",
    "topic": "Other",
    "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano)",
@@ -1647,8 +1636,8 @@
     "indieCount": 2,
     "big": [],
     "indie": [
-     "women",
-     "rule"
+     "rule",
+     "women"
     ]
    },
    "absent": [
@@ -1955,126 +1944,6 @@
    ]
   },
   {
-   "id": "50cf6ee900",
-   "topic": "Other",
-   "summary": "Just 10 minutes after takeoff, a Boeing 737\u2019s jet engine broke off and hit the side of the plane, breaking a passenger\u2019s window, which resulted in the passenger nearly getting sucked out as the plane was thousands of feet above ground. Sixty-one-year-old Ljubisa Karovi\u0107 was in a window seat in row 11F and was partially sucked out of the plane after the midair disaster on the July 10 flight, according to a report released by the National Transportation Safety Board on Thursday. His wife and other passengers grabbed hold of him and pulled his head and shoulders back inside the plane. The plane took off from Thessaloniki, Greece, and was headed toward Memmingen, Germany, but returned to Greece for an emergency landing. Just minutes before the engine broke off, pilots got a warning for high engine vibrations. Two minutes later, the pilots \u201cheard a loud bang\u201d and lost their autopilot\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "NTSB says broken engine parts shattered Ryanair plane window that a man's head got sucked into",
-   "updated": "2026-08-14T20:36:53+00:00",
-   "outletCount": 4,
-   "counts": {
-    "nonprofit": 2,
-    "family": 1,
-    "pub": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 1,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "pbsnewshour",
-     "title": "NTSB says broken engine parts shattered Ryanair plane window that a man's head got sucked into",
-     "url": "https://www.pbs.org/newshour/world/ntsb-says-broken-engine-parts-shattered-ryanair-plane-window-that-a-mans-head-got-sucked-into",
-     "author": "Rio Yamat, Associated Press",
-     "kind": "news",
-     "published": "2026-08-14T20:36:53+00:00",
-     "summary": "A fan blade in the Boeing 737-800's right engine broke loose, sending fragments flying out of the engine that broke the window and damaged the fuselage in several other places, according to a preliminary report by the National Transportation Safety Board."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Ryanair window that passenger was partly sucked out of was broken by engine debris, report finds",
-     "url": "https://www.theguardian.com/business/2026/aug/14/ryanair-engine-parts-shattered-window-passenger-partly-sucked-out-of-report",
-     "author": "Joanna Partridge",
-     "kind": "news",
-     "published": "2026-08-14T10:28:10+00:00",
-     "summary": "Fan blade broke off shortly after takeoff on 10 July flight from Greece to Germany, preliminary findings show Business live \u2013 latest updates Broken engine parts were responsible for shattering a window on a Ryanair plane, causing a passenger to be partly sucked out mid-flight in July, US investigators have said. A preliminary report by the National Transportation Safety Board (NTSB) found an engine fan blade broke off shortly after takeoff on the 10 July flight from Greece to Germany shattering the window and damaging the fuselage. Continue reading..."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Passenger Saved From Getting Sucked Out Of Plane After Midair Disaster",
-     "url": "https://www.dailywire.com/news/passenger-saved-from-getting-sucked-out-of-plane-after-midair-disaster",
-     "author": "Brecca Stoll",
-     "kind": "opinion",
-     "published": "2026-08-14T07:49:56+00:00",
-     "summary": "Just 10 minutes after takeoff, a Boeing 737\u2019s jet engine broke off and hit the side of the plane, breaking a passenger\u2019s window, which resulted in the passenger nearly getting sucked out as the plane was thousands of feet above ground. Sixty-one-year-old Ljubisa Karovi\u0107 was in a window seat in row 11F and was partially sucked out of the plane after the midair disaster on the July 10 flight, according to a report released by the National Transportation Safety Board on Thursday. His wife and other passengers grabbed hold of him and pulled his head and shoulders back inside the plane. The plane took off from Thessaloniki, Greece, and was headed toward Memmingen, Germany, but returned to Greece for an emergency landing. Just minutes before the engine broke off, pilots got a warning for high engine vibrations. Two minutes later, the pilots \u201cheard a loud bang\u201d and lost their autopilot capability. \u201cExamination of the airplane revealed that the No. 2 engine, a CFM International model CFM56-7B26, experienced a fan blade separation that resulted in engine fragments striking the fuselage and the right horizontal stabilizer,\u201d the NTSB report stated. The report also revealed bird remains were f"
-    },
-    {
-     "outlet": "bbc",
-     "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-     "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T21:43:47+00:00",
-     "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany."
-    }
-   ]
-  },
-  {
-   "id": "a0e8e13078",
-   "topic": "Politics",
-   "summary": "The son of former Mexican President Andres Manuel Lopez Obrador sent a rage-filled letter to U.S. President Donald Trump claiming that Secretary of State Marco Rubio and Deputy SOS Christopher Landau had acted in a Hitlerian manner by revoking his tourist visa as part of a political witch hunt aimed at targeting his father and Mexico\u2019s ruling party MORENA. The post Former Mexican President AMLO\u2019s Son&#8217;s U.S. Visa Revoked, Claims Innocence, Calls Marco Rubio Hitlerian Thug appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Son of Mexico\u2019s former president AMLO alleges US revoked his visa",
-   "updated": "2026-08-14T19:44:43+00:00",
-   "outletCount": 4,
-   "counts": {
-    "pub": 1,
-    "family": 2,
-    "corp": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Son of Mexico\u2019s former president AMLO alleges US revoked his visa",
-     "url": "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T19:44:43+00:00",
-     "summary": "The US has not confirmed the revocation which comes amid crackdown on Mexican politicians with alleged ties to cartels."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Former Mexican President AMLO\u2019s Son's U.S. Visa Revoked, Claims Innocence, Calls Marco Rubio Hitlerian Thug",
-     "url": "https://www.breitbart.com/border/2026/08/14/amlos-son-has-u-s-visa-revoked-claims-innocence-calls-marco-rubio-hitlerian-thug/",
-     "author": "Ildefonso Ortiz",
-     "kind": "news",
-     "published": "2026-08-14T18:45:25+00:00",
-     "summary": "The son of former Mexican President Andres Manuel Lopez Obrador sent a rage-filled letter to U.S. President Donald Trump claiming that Secretary of State Marco Rubio and Deputy SOS Christopher Landau had acted in a Hitlerian manner by revoking his tourist visa as part of a political witch hunt aimed at targeting his father and Mexico\u2019s ruling party MORENA. The post Former Mexican President AMLO\u2019s Son&#8217;s U.S. Visa Revoked, Claims Innocence, Calls Marco Rubio Hitlerian Thug appeared first on Breitbart ."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Son of former Mexican president says US revoked his visa, appeals directly to Trump",
-     "url": "https://abcnews.com/International/wireStory/son-former-mexican-president-lpez-obrador-us-revoked-135650248",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T17:57:23+00:00",
-     "summary": "Andr&eacute;s Manuel L&oacute;pez Beltr&aacute;n, son of former Mexican President Andr&eacute;s Manuel L&oacute;pez Obrador, says the United States has revoked his visa"
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "AMLO\u2019s Son Says US Revoked Visa, Putting Sheinbaum in Bind",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-14/amlo-s-son-says-us-revoked-his-visa-putting-sheinbaum-in-bind",
-     "author": "Gonzalo Soto",
-     "kind": "news",
-     "published": "2026-08-14T13:54:43+00:00",
-     "summary": "The son of Mexico\u2019s former president accused the US of revoking his visa for political reasons, increasing pressure on current leader Claudia Sheinbaum amid simmering tensions with Washington."
-    }
-   ]
-  },
-  {
    "id": "ad774f0314",
    "topic": "Justice & Policing",
    "summary": "WASHINGTON \u2014 President Donald Trump promised Friday that authorities are on the &#8220;trail&#8221; of vandals who graffitied the World War II Memorial. &#8220;Our beautiful World War II Memorial was just hit by Spray Painting Vandals,&#8221; the president wrote on Truth Social Friday morning. &#8220;THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD WAR II,&#8221; Trump added. &#8220;First the Reflecting Pool, now this. We are on their trail! Where do these animals come from???&#8221; Vandals spray-painted red graffiti on the memorial on Thursday, with the message &#8220;Clean Hands Dirty $,&#8221; and filled the memorial&#8217;s fountain with soap and bubbles. U.S. Park Police are investigating the vandalism. The White House referred The Daily Wire to the Department of the Interior when asked to comment on the matter. In a statement, Interior called the\u2026",
@@ -2271,6 +2140,145 @@
    ]
   },
   {
+   "id": "3a7e0cd62b",
+   "topic": "Politics",
+   "summary": "Two oil slicks have appeared in Iranian waters inside the Gulf, according to satellite imagery, with one spotted off the southern tip of Qeshm Island near the Strait of Hormuz. A smaller oil slick has also appeared near Sirri Island over 60 miles southwest of Qeshm in the center of the Gulf, where Iranian offshore oil and gas production takes place, according to Reuters . The imagery of the Qeshm slick was taken on August 10. The Sirri imagery is from August 13. These new slicks arrive as attacks on oil tankers and other vessels by Iran and the United States raise concerns about environmental damage across the Gulf. A separate, larger spill is already unfolding outside the Strait of Hormuz off Oman. The grounded tanker Caroline Bezengi is leaking Russian crude into a protected marine area, creating a slick some estimates put at nearly 800 square miles. That incident has not been\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Middle East live: Trump threatens US takeover of Hormuz as Iran vows to retain control",
+   "updated": "2026-08-15T05:12:23+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 1,
+    "corp": 1,
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 2,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Middle East live: Trump threatens US takeover of Hormuz as Iran vows to retain control",
+     "url": "https://www.france24.com/en/middle-east/20260815-middle-east-live-trump-threatens-us-takeover-of-hormuz-as-iran-vows-to-retain-control",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-15T05:12:23+00:00",
+     "summary": "US President Donald Trump threatened to declare the Strait of Hormuz US territory after vowing to \u201cfinish defeating\u201d Iran in a New York rally on Friday. Tehran rejected the claim on Saturday, with Deputy Foreign Minister Kazem Gharibabadi saying the strategic waterway \u201cwill remain Iranian\u201d and can be opened or closed only at Iran\u2019s command. Follow our live blog for the latest updates."
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Map Shows Areas Trump Has Sought to Control After Hormuz Remarks",
+     "url": "https://www.newsweek.com/strait-hormuz-iran-map-control-cuba-venezuela-canada-12325294",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T01:21:34+00:00",
+     "summary": "From Greenland to Gaza and now Hormuz, a look at areas Trump has proposed bringing under U.S. ownership or control."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "More Middle East Trouble: Massive Oil Leak Discovered In Ocean Near Strait Of Hormuz",
+     "url": "https://www.dailywire.com/news/more-middle-east-trouble-massive-oil-leak-discovered-in-ocean-near-strait-of-hormuz",
+     "author": "Leona Salinas",
+     "kind": "opinion",
+     "published": "2026-08-14T14:00:06+00:00",
+     "summary": "Two oil slicks have appeared in Iranian waters inside the Gulf, according to satellite imagery, with one spotted off the southern tip of Qeshm Island near the Strait of Hormuz. A smaller oil slick has also appeared near Sirri Island over 60 miles southwest of Qeshm in the center of the Gulf, where Iranian offshore oil and gas production takes place, according to Reuters . The imagery of the Qeshm slick was taken on August 10. The Sirri imagery is from August 13. These new slicks arrive as attacks on oil tankers and other vessels by Iran and the United States raise concerns about environmental damage across the Gulf. A separate, larger spill is already unfolding outside the Strait of Hormuz off Oman. The grounded tanker Caroline Bezengi is leaking Russian crude into a protected marine area, creating a slick some estimates put at nearly 800 square miles. That incident has not been connected to the conflict with Iran . On the Qeshm spill, environmental open-source researcher Wim Zwijnenburg of the Dutch peace organization PAX noted that the dark color in parts of the slick pointed to heavy fuel oil. A lighter, diluted portion of the slick stretched about 100 miles. Video verified by R"
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Trump Makes Unprecedented Move On The Strait Of Hormuz",
+     "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule",
+     "author": "Daily Wire",
+     "kind": "opinion",
+     "published": "2026-08-14T08:45:33+00:00",
+     "summary": null
+    }
+   ]
+  },
+  {
+   "id": "e6f0e6556f",
+   "topic": "Justice & Policing",
+   "summary": "FIRST ON FOX: Texas Gov. Greg Abbott on Friday directed a review of state grants to entities operating two major Texas airports over religious accommodations after Dallas Fort Worth International Airport said it would no longer move forward with a proposal to install Islamic washing stations. Abbott said the state will review grants to entities operating DFW and George Bush Intercontinental Airport in Houston for possible revocation and denial of future funding. He also referred both airports to the U.S. Department of Transportation for investigation. \"Government-owned airports cannot favor one religion over all others,\" Abbott wrote on X Friday. \"DFW plans to install Islamic wudu washing facilities are illegal. I've directed a review of all state grants to both airports for possible revocation, and referred DFW &amp; IAH to USDOT for investigation. \"Texas will not allow illegal\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 3,
+    "big": [
+     "airport",
+     "review"
+    ],
+    "indie": [
+     "order"
+    ]
+   },
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Greg Abbott threatens Dallas, Houston airports\u2019 grant funds over Islamic washing facilities",
+   "updated": "2026-08-15T04:21:36+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "nonprofit": 3
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "Texas Gov. Greg Abbott Orders Investigation of Muslim Facilities at State Airport",
+     "url": "https://www.breitbart.com/politics/2026/08/14/texas-gov-abbott-orders-investigation-muslim-facilities-state-airport/",
+     "author": "Mariane Angela",
+     "kind": "news",
+     "published": "2026-08-15T04:21:36+00:00",
+     "summary": "Gov. Greg Abbott (R-TX) ordered a review of state funding for airports across Texas over Islamic washing facilities at two of the state's largest airports. The post Texas Gov. Greg Abbott Orders Investigation of Muslim Facilities at State Airport appeared first on Breitbart ."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "DFW Airport scraps controversial Islamic foot-washing station plan as Texas Gov Abbott takes aim",
+     "url": "https://www.foxnews.com/politics/dfw-airport-scraps-controversial-islamic-footwashing-station-plan-texas-gov-abbott-takes-aim",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T00:54:03+00:00",
+     "summary": "FIRST ON FOX: Texas Gov. Greg Abbott on Friday directed a review of state grants to entities operating two major Texas airports over religious accommodations after Dallas Fort Worth International Airport said it would no longer move forward with a proposal to install Islamic washing stations. Abbott said the state will review grants to entities operating DFW and George Bush Intercontinental Airport in Houston for possible revocation and denial of future funding. He also referred both airports to the U.S. Department of Transportation for investigation. \"Government-owned airports cannot favor one religion over all others,\" Abbott wrote on X Friday. \"DFW plans to install Islamic wudu washing facilities are illegal. I've directed a review of all state grants to both airports for possible revocation, and referred DFW &amp; IAH to USDOT for investigation. \"Texas will not allow illegal religious discrimination at taxpayer-funded facilities.\" DALLAS-FORT WORTH AIRPORT TO INSTALL ISLAMIC FOOT WASH STATIONS INSIDE BATHROOMS DFW told Fox News Digital Friday it had been evaluating a proposal to add ablution washing stations on the pre-security side of Terminal D, its international terminal, bu"
+    },
+    {
+     "outlet": "texastribune",
+     "title": "Greg Abbott threatens Dallas, Houston airports\u2019 grant funds over Islamic washing facilities",
+     "url": "https://feeds.texastribune.org/link/16799/17418678/texas-greg-abbott-dfw-iah-airport-islam-ablution-facility-grant",
+     "author": "Ayden Runnels",
+     "kind": "news",
+     "published": "2026-08-15T00:45:20+00:00",
+     "summary": "DFW said late Friday that plans to install the religious washing station had been canceled."
+    },
+    {
+     "outlet": "texastribune",
+     "title": "Texas will audit up to 300 projects, mostly data centers, after Gov. Greg Abbott\u2019s order",
+     "url": "https://feeds.texastribune.org/link/16799/17418589/texas-data-center-approval-pause-ercot-power-grid",
+     "author": "Paul Cobler",
+     "kind": "news",
+     "published": "2026-08-14T22:03:09+00:00",
+     "summary": "The state\u2019s power grid operator had already planned on auditing several data center proposals, but Abbott\u2019s directive reworks the timeline and adds new requirements."
+    },
+    {
+     "outlet": "texastribune",
+     "title": "Limits on certain firearms, silencers lifted for some in Texas after judge\u2019s order takes effect",
+     "url": "https://feeds.texastribune.org/link/16799/17417632/texas-national-firearms-act-ruling-doj-no-emergency-appeal",
+     "author": "Alex Nguyen",
+     "kind": "news",
+     "published": "2026-08-13T23:36:55+00:00",
+     "summary": "The Trump administration declined to immediately appeal a ruling by a federal judge in Lubbock that invalidated parts of the 1934 National Firearms Act."
+    }
+   ]
+  },
+  {
    "id": "3dcdb27e4f",
    "topic": "Health",
    "summary": "The US has issued a serious health warning over the recalled eggs, saying exposure to the potentially contaminated products could cause severe illness or death.",
@@ -2322,26 +2330,26 @@
    ]
   },
   {
-   "id": "0c8db80c46",
+   "id": "32fc4d5513",
    "topic": "Politics",
    "summary": "Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentary The BBC is trying to subpoena Donald Trump\u2019s children as it builds its defense against the president\u2019s defamation lawsuit centered on a documentary on the January 6 insurrection. In a motion filed on Friday, the BBC sought authorization to serve Trump\u2019s two eldest children, Donald Trump Jr and Ivanka Trump, and son-in-law Jared Kushner, with subpoenas for testimony and their records on the events of 6 January 2021. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": null,
    "absent": [
-    "coop",
-    "pub"
+    "family",
+    "coop"
    ],
-   "headline": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
+   "headline": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
    "updated": "2026-08-15T03:06:54+00:00",
    "outletCount": 3,
    "counts": {
     "corp": 1,
-    "nonprofit": 1,
-    "family": 1
+    "pub": 1,
+    "nonprofit": 1
    },
    "newsCount": 3,
    "opinionCount": 0,
-   "underreported": false,
+   "underreported": true,
    "articles": [
     {
      "outlet": "thehill",
@@ -2353,6 +2361,15 @@
      "summary": "The BBC is seeking to subpoena three members of President Trump\u2019s family as it builds its defense to his $10 billion defamation lawsuit. In a Friday court filing, attorneys for the BBC argued that Trump\u2019s children, Donald Trump Jr. and Ivanka Trump, as well as his son-in-law, Jared Kushner, \u201chave personal knowledge and likely have..."
     },
     {
+     "outlet": "bbc",
+     "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+     "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T00:01:53+00:00",
+     "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021."
+    },
+    {
      "outlet": "guardian",
      "title": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
      "url": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
@@ -2360,15 +2377,6 @@
      "kind": "news",
      "published": "2026-08-14T21:05:47+00:00",
      "summary": "Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentary The BBC is trying to subpoena Donald Trump\u2019s children as it builds its defense against the president\u2019s defamation lawsuit centered on a documentary on the January 6 insurrection. In a motion filed on Friday, the BBC sought authorization to serve Trump\u2019s two eldest children, Donald Trump Jr and Ivanka Trump, and son-in-law Jared Kushner, with subpoenas for testimony and their records on the events of 6 January 2021. Continue reading..."
-    },
-    {
-     "outlet": "forbes",
-     "title": "BBC Says Secret Service Won\u2019t Let It Subpoena Ivanka, Don Jr. And Jared In Trump Defamation Case",
-     "url": "https://www.forbes.com/sites/alisondurkee/2026/08/14/bbc-says-secret-service-wont-let-it-subpoena-ivanka-don-jr-and-jared-in-trump-defamation-case/",
-     "author": "Alison Durkee, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-14T19:39:23+00:00",
-     "summary": "The court needs to allow them to be subpoenaed through \u201calternative\u201d means because of their Secret Service protection, the BBC argued."
     }
    ]
   },
@@ -2424,6 +2432,57 @@
    ]
   },
   {
+   "id": "50cf6ee900",
+   "topic": "Other",
+   "summary": "Just 10 minutes after takeoff, a Boeing 737\u2019s jet engine broke off and hit the side of the plane, breaking a passenger\u2019s window, which resulted in the passenger nearly getting sucked out as the plane was thousands of feet above ground. Sixty-one-year-old Ljubisa Karovi\u0107 was in a window seat in row 11F and was partially sucked out of the plane after the midair disaster on the July 10 flight, according to a report released by the National Transportation Safety Board on Thursday. His wife and other passengers grabbed hold of him and pulled his head and shoulders back inside the plane. The plane took off from Thessaloniki, Greece, and was headed toward Memmingen, Germany, but returned to Greece for an emergency landing. Just minutes before the engine broke off, pilots got a warning for high engine vibrations. Two minutes later, the pilots \u201cheard a loud bang\u201d and lost their autopilot\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "NTSB says broken engine parts shattered Ryanair plane window that a man's head got sucked into",
+   "updated": "2026-08-14T20:36:53+00:00",
+   "outletCount": 3,
+   "counts": {
+    "nonprofit": 2,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "pbsnewshour",
+     "title": "NTSB says broken engine parts shattered Ryanair plane window that a man's head got sucked into",
+     "url": "https://www.pbs.org/newshour/world/ntsb-says-broken-engine-parts-shattered-ryanair-plane-window-that-a-mans-head-got-sucked-into",
+     "author": "Rio Yamat, Associated Press",
+     "kind": "news",
+     "published": "2026-08-14T20:36:53+00:00",
+     "summary": "A fan blade in the Boeing 737-800's right engine broke loose, sending fragments flying out of the engine that broke the window and damaged the fuselage in several other places, according to a preliminary report by the National Transportation Safety Board."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Ryanair window that passenger was partly sucked out of was broken by engine debris, report finds",
+     "url": "https://www.theguardian.com/business/2026/aug/14/ryanair-engine-parts-shattered-window-passenger-partly-sucked-out-of-report",
+     "author": "Joanna Partridge",
+     "kind": "news",
+     "published": "2026-08-14T10:28:10+00:00",
+     "summary": "Fan blade broke off shortly after takeoff on 10 July flight from Greece to Germany, preliminary findings show Business live \u2013 latest updates Broken engine parts were responsible for shattering a window on a Ryanair plane, causing a passenger to be partly sucked out mid-flight in July, US investigators have said. A preliminary report by the National Transportation Safety Board (NTSB) found an engine fan blade broke off shortly after takeoff on the 10 July flight from Greece to Germany shattering the window and damaging the fuselage. Continue reading..."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Passenger Saved From Getting Sucked Out Of Plane After Midair Disaster",
+     "url": "https://www.dailywire.com/news/passenger-saved-from-getting-sucked-out-of-plane-after-midair-disaster",
+     "author": "Brecca Stoll",
+     "kind": "opinion",
+     "published": "2026-08-14T07:49:56+00:00",
+     "summary": "Just 10 minutes after takeoff, a Boeing 737\u2019s jet engine broke off and hit the side of the plane, breaking a passenger\u2019s window, which resulted in the passenger nearly getting sucked out as the plane was thousands of feet above ground. Sixty-one-year-old Ljubisa Karovi\u0107 was in a window seat in row 11F and was partially sucked out of the plane after the midair disaster on the July 10 flight, according to a report released by the National Transportation Safety Board on Thursday. His wife and other passengers grabbed hold of him and pulled his head and shoulders back inside the plane. The plane took off from Thessaloniki, Greece, and was headed toward Memmingen, Germany, but returned to Greece for an emergency landing. Just minutes before the engine broke off, pilots got a warning for high engine vibrations. Two minutes later, the pilots \u201cheard a loud bang\u201d and lost their autopilot capability. \u201cExamination of the airplane revealed that the No. 2 engine, a CFM International model CFM56-7B26, experienced a fan blade separation that resulted in engine fragments striking the fuselage and the right horizontal stabilizer,\u201d the NTSB report stated. The report also revealed bird remains were f"
+    }
+   ]
+  },
+  {
    "id": "f842e084fc",
    "topic": "Politics",
    "summary": "Americans do not know enough about the Cold War, and much of what they think they know is wrong. After the fall of the Soviet Union in 1991, Republicans took a victory lap, rightly noting that the Soviet collapse was unimaginable when President Ronald Reagan first took office. Liberal critics, however, argued\u2014also rightly\u2014that the Soviet Union was a decaying, economically crippled giant by the time Reagan was inaugurated. In the years since, explanations of the ending of that great conflict have been reduced to the equivalent of partisan bumper stickers: We crushed the Kremlin in the arms race , or The U.S.S.R. imploded without any pressure from the West . In October 1986, Reagan and Soviet General Secretary Mikhail Gorbachev met to discuss nuclear-arms control in Reykjavik, Iceland. At the time, I was a young scholar in Washington, training in Soviet affairs and international relations\u2026",
@@ -2471,6 +2530,57 @@
      "kind": "opinion",
      "published": "2026-08-13T13:12:35+00:00",
      "summary": "Walloping the global trading system is no way to help Ukraine"
+    }
+   ]
+  },
+  {
+   "id": "bcacbe2f5f",
+   "topic": "Politics",
+   "summary": "The son of former Mexican President Andres Manuel Lopez Obrador sent a rage-filled letter to U.S. President Donald Trump claiming that Secretary of State Marco Rubio and Deputy SOS Christopher Landau had acted in a Hitlerian manner by revoking his tourist visa as part of a political witch hunt aimed at targeting his father and Mexico\u2019s ruling party MORENA. The post Former Mexican President AMLO\u2019s Son&#8217;s U.S. Visa Revoked, Claims Innocence, Calls Marco Rubio Hitlerian Thug appeared first on Breitbart .",
+   "summaryFrom": "breitbart",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Former Mexican President AMLO\u2019s Son's U.S. Visa Revoked, Claims Innocence, Calls Marco Rubio Hitlerian Thug",
+   "updated": "2026-08-14T18:45:25+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "Former Mexican President AMLO\u2019s Son's U.S. Visa Revoked, Claims Innocence, Calls Marco Rubio Hitlerian Thug",
+     "url": "https://www.breitbart.com/border/2026/08/14/amlos-son-has-u-s-visa-revoked-claims-innocence-calls-marco-rubio-hitlerian-thug/",
+     "author": "Ildefonso Ortiz",
+     "kind": "news",
+     "published": "2026-08-14T18:45:25+00:00",
+     "summary": "The son of former Mexican President Andres Manuel Lopez Obrador sent a rage-filled letter to U.S. President Donald Trump claiming that Secretary of State Marco Rubio and Deputy SOS Christopher Landau had acted in a Hitlerian manner by revoking his tourist visa as part of a political witch hunt aimed at targeting his father and Mexico\u2019s ruling party MORENA. The post Former Mexican President AMLO\u2019s Son&#8217;s U.S. Visa Revoked, Claims Innocence, Calls Marco Rubio Hitlerian Thug appeared first on Breitbart ."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Son of former Mexican president says US revoked his visa, appeals directly to Trump",
+     "url": "https://abcnews.com/International/wireStory/son-former-mexican-president-lpez-obrador-us-revoked-135650248",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T17:57:23+00:00",
+     "summary": "Andr&eacute;s Manuel L&oacute;pez Beltr&aacute;n, son of former Mexican President Andr&eacute;s Manuel L&oacute;pez Obrador, says the United States has revoked his visa"
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "AMLO\u2019s Son Says US Revoked Visa, Putting Sheinbaum in Bind",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-14/amlo-s-son-says-us-revoked-his-visa-putting-sheinbaum-in-bind",
+     "author": "Gonzalo Soto",
+     "kind": "news",
+     "published": "2026-08-14T13:54:43+00:00",
+     "summary": "The son of Mexico\u2019s former president accused the US of revoking his visa for political reasons, increasing pressure on current leader Claudia Sheinbaum amid simmering tensions with Washington."
     }
    ]
   },
@@ -3261,66 +3371,6 @@
    ]
   },
   {
-   "id": "e6f0e6556f",
-   "topic": "Justice & Policing",
-   "summary": "FIRST ON FOX: Texas Gov. Greg Abbott on Friday directed a review of state grants to entities operating two major Texas airports over religious accommodations after Dallas Fort Worth International Airport said it would no longer move forward with a proposal to install Islamic washing stations. Abbott said the state will review grants to entities operating DFW and George Bush Intercontinental Airport in Houston for possible revocation and denial of future funding. He also referred both airports to the U.S. Department of Transportation for investigation. \"Government-owned airports cannot favor one religion over all others,\" Abbott wrote on X Friday. \"DFW plans to install Islamic wudu washing facilities are illegal. I've directed a review of all state grants to both airports for possible revocation, and referred DFW &amp; IAH to USDOT for investigation. \"Texas will not allow illegal\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Greg Abbott threatens Dallas, Houston airports\u2019 grant funds over Islamic washing facilities",
-   "updated": "2026-08-15T00:54:03+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "nonprofit": 3
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "DFW Airport scraps controversial Islamic foot-washing station plan as Texas Gov Abbott takes aim",
-     "url": "https://www.foxnews.com/politics/dfw-airport-scraps-controversial-islamic-footwashing-station-plan-texas-gov-abbott-takes-aim",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T00:54:03+00:00",
-     "summary": "FIRST ON FOX: Texas Gov. Greg Abbott on Friday directed a review of state grants to entities operating two major Texas airports over religious accommodations after Dallas Fort Worth International Airport said it would no longer move forward with a proposal to install Islamic washing stations. Abbott said the state will review grants to entities operating DFW and George Bush Intercontinental Airport in Houston for possible revocation and denial of future funding. He also referred both airports to the U.S. Department of Transportation for investigation. \"Government-owned airports cannot favor one religion over all others,\" Abbott wrote on X Friday. \"DFW plans to install Islamic wudu washing facilities are illegal. I've directed a review of all state grants to both airports for possible revocation, and referred DFW &amp; IAH to USDOT for investigation. \"Texas will not allow illegal religious discrimination at taxpayer-funded facilities.\" DALLAS-FORT WORTH AIRPORT TO INSTALL ISLAMIC FOOT WASH STATIONS INSIDE BATHROOMS DFW told Fox News Digital Friday it had been evaluating a proposal to add ablution washing stations on the pre-security side of Terminal D, its international terminal, bu"
-    },
-    {
-     "outlet": "texastribune",
-     "title": "Greg Abbott threatens Dallas, Houston airports\u2019 grant funds over Islamic washing facilities",
-     "url": "https://feeds.texastribune.org/link/16799/17418678/texas-greg-abbott-dfw-iah-airport-islam-ablution-facility-grant",
-     "author": "Ayden Runnels",
-     "kind": "news",
-     "published": "2026-08-15T00:45:20+00:00",
-     "summary": "DFW said late Friday that plans to install the religious washing station had been canceled."
-    },
-    {
-     "outlet": "texastribune",
-     "title": "Texas will audit up to 300 projects, mostly data centers, after Gov. Greg Abbott\u2019s order",
-     "url": "https://feeds.texastribune.org/link/16799/17418589/texas-data-center-approval-pause-ercot-power-grid",
-     "author": "Paul Cobler",
-     "kind": "news",
-     "published": "2026-08-14T22:03:09+00:00",
-     "summary": "The state\u2019s power grid operator had already planned on auditing several data center proposals, but Abbott\u2019s directive reworks the timeline and adds new requirements."
-    },
-    {
-     "outlet": "texastribune",
-     "title": "Limits on certain firearms, silencers lifted for some in Texas after judge\u2019s order takes effect",
-     "url": "https://feeds.texastribune.org/link/16799/17417632/texas-national-firearms-act-ruling-doj-no-emergency-appeal",
-     "author": "Alex Nguyen",
-     "kind": "news",
-     "published": "2026-08-13T23:36:55+00:00",
-     "summary": "The Trump administration declined to immediately appeal a ruling by a federal judge in Lubbock that invalidated parts of the 1934 National Firearms Act."
-    }
-   ]
-  },
-  {
    "id": "890544520f",
    "topic": "Justice & Policing",
    "summary": "A California teenager pleaded guilty Friday to repeatedly kicking a sea lion in the face and chasing the animal as it tried to escape, according to video of the attack. Tyler Muehl, 18, who lives in the San Diego seaside neighborhood of La Jolla, entered his plea in a federal courtroom to a misdemeanor violation of the Marine Mammal Protection Act\u2019s prohibition on harassing wildlife, the Justice Department said. \"Federal crime. Federal consequences,\" U.S. Attorney Adam Gordon wrote in a statement. SUSPECT IN VIRAL MONK SEAL HARASSMENT VIDEO SAYS HE WAS DOXXED AS FEDERAL COURT FIGHT BEGINS The incident was investigated by the National Oceanic and Atmospheric Administration (NOAA). Muehl admitted to kicking the sea lion on July 22 as the mammal was peacefully sitting on a seawall, federal prosecutors said. \"Intentionally striking or kicking a marine mammal is not only illegal, it is\u2026",
@@ -3443,6 +3493,48 @@
      "kind": "news",
      "published": "2026-08-14T10:00:00+00:00",
      "summary": "A young man serving time for the 2020 shooting of rapper Pop Smoke in the Hollywood Hills pleaded no contest to charges that accused him of smuggling fentanyl into juvenile hall."
+    }
+   ]
+  },
+  {
+   "id": "18286097d8",
+   "topic": "Politics",
+   "summary": "Vincent Carchietta / IMAGN IMAGES via Reuters Connect Ivanka Trump and her husband Jared Kushner are being sought to testify in Donald Trump\u2019s defamation lawsuit against the BBC, but they have so far avoided being served. In May, lawyers for the British broadcaster tried to serve subpoenas to the couple at their home in Miami, according to court filings, but they were blocked by police. The 80-year-old president filed a $10 billion lawsuit against the BBC over a documentary the network aired about the Jan. 6 riot, in which an edited version of the speech he gave during the rally before the riot was screened. Trump\u2019s lawsuit claims the edits made it appear as though his speech had spurred the crowd on, encouraging them to riot on the Capitol. Read more at The Daily Beast.",
+   "summaryFrom": "dailybeast",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Ivanka and Jared Dragged Into Trump\u2019s $10B Shakedown Lawsuit",
+   "updated": "2026-08-14T22:11:58+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "Ivanka and Jared Dragged Into Trump\u2019s $10B Shakedown Lawsuit",
+     "url": "https://www.thedailybeast.com/ivanka-trump-and-jared-kushner-called-to-testify-in-10b-lawsuit/",
+     "author": "Sarah-Jane Collins",
+     "kind": "news",
+     "published": "2026-08-14T22:11:58+00:00",
+     "summary": "Vincent Carchietta / IMAGN IMAGES via Reuters Connect Ivanka Trump and her husband Jared Kushner are being sought to testify in Donald Trump\u2019s defamation lawsuit against the BBC, but they have so far avoided being served. In May, lawyers for the British broadcaster tried to serve subpoenas to the couple at their home in Miami, according to court filings, but they were blocked by police. The 80-year-old president filed a $10 billion lawsuit against the BBC over a documentary the network aired about the Jan. 6 riot, in which an edited version of the speech he gave during the rally before the riot was screened. Trump\u2019s lawsuit claims the edits made it appear as though his speech had spurred the crowd on, encouraging them to riot on the Capitol. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "forbes",
+     "title": "BBC Says Secret Service Won\u2019t Let It Subpoena Ivanka, Don Jr. And Jared In Trump Defamation Case",
+     "url": "https://www.forbes.com/sites/alisondurkee/2026/08/14/bbc-says-secret-service-wont-let-it-subpoena-ivanka-don-jr-and-jared-in-trump-defamation-case/",
+     "author": "Alison Durkee, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-14T19:39:23+00:00",
+     "summary": "The court needs to allow them to be subpoenaed through \u201calternative\u201d means because of their Secret Service protection, the BBC argued."
     }
    ]
   },
@@ -3657,48 +3749,6 @@
    ]
   },
   {
-   "id": "75c5a547f8",
-   "topic": "Other",
-   "summary": "Sicily's Catania airport has suspended flights again as Mount Etna continues to spew lava and volcanic ash. The eruption has disrupted travel during the peak summer holiday season.",
-   "summaryFrom": "dw",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Mount Etna eruption and volcanic ash shut Sicily\u2019s busiest airport",
-   "updated": "2026-08-14T21:03:07+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Mount Etna eruption and volcanic ash shut Sicily\u2019s busiest airport",
-     "url": "https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T21:03:07+00:00",
-     "summary": "Flights will be suspended until at least Saturday afternoon, leaving hundreds of travellers stranded."
-    },
-    {
-     "outlet": "dw",
-     "title": "Italy: Etna eruption in Sicily halts Catania flights",
-     "url": "https://www.dw.com/en/italy-etna-eruption-in-sicily-halts-catania-flights/a-78338205?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T15:01:00+00:00",
-     "summary": "Sicily's Catania airport has suspended flights again as Mount Etna continues to spew lava and volcanic ash. The eruption has disrupted travel during the peak summer holiday season."
-    }
-   ]
-  },
-  {
    "id": "f4748ac525",
    "topic": "Justice & Policing",
    "summary": "Attorneys for the Olympian previously accused of vandalizing the Lincoln Memorial Reflecting Pool filed a motion Thursday to bar prosecutors from bringing further criminal charges against him related to the case, citing fears of \u201cprosecutorial harassment\" by President Trump. The legal team for Olympic canoeist David Hearn called for Judge Todd Edelman of the District...",
@@ -3779,48 +3829,6 @@
      "kind": "news",
      "published": "2026-08-14T15:23:29+00:00",
      "summary": "Firefighters discover body and say more than 40 people hurt in the Lokva Rogoznica and Omi\u0161 areas England has received just 4mm of rain so far in August, or 6% of the long-term average for the month , the Environment Agency said on Friday, as reported by PA. It follows the driest July on record for the country , when only 7mm of rain was measured, or 10% of the average. Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "1eee4d901b",
-   "topic": "Politics",
-   "summary": "The Justice Department is planning its next move after a federal judge in Boston dismissed its case accusing Harvard University of repeatedly turning a \"blind eye\" to antisemitism on campus. \"We disagree with the ruling and are assessing next steps,\" Assistant Attorney General for the Civil Rights Division Harmeet Dhillon said in a statement. \"The Civil Rights Division has an extensive and active portfolio of antisemitism enforcement, including indictments, prosecutions, settlements and investigations across the country.\" Judge Richard Stearns, who was appointed by President Bill Clinton, dismissed the Trump administration's lawsuit against the Ivy League school Thursday, determining the incidents of antisemitism were too isolated to establish a pattern showing that the school remained in violation of federal civil rights law after the federal government issued its complaint. DOJ SUES\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Judge\u2019s Harvard antisemitism ruling sends Trump Justice Department back to drawing board",
-   "updated": "2026-08-14T20:03:05+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Judge\u2019s Harvard antisemitism ruling sends Trump Justice Department back to drawing board",
-     "url": "https://www.foxnews.com/politics/judge-harvard-antisemitism-ruling-sends-trump-justice-department-back-drawing-board",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T20:03:05+00:00",
-     "summary": "The Justice Department is planning its next move after a federal judge in Boston dismissed its case accusing Harvard University of repeatedly turning a \"blind eye\" to antisemitism on campus. \"We disagree with the ruling and are assessing next steps,\" Assistant Attorney General for the Civil Rights Division Harmeet Dhillon said in a statement. \"The Civil Rights Division has an extensive and active portfolio of antisemitism enforcement, including indictments, prosecutions, settlements and investigations across the country.\" Judge Richard Stearns, who was appointed by President Bill Clinton, dismissed the Trump administration's lawsuit against the Ivy League school Thursday, determining the incidents of antisemitism were too isolated to establish a pattern showing that the school remained in violation of federal civil rights law after the federal government issued its complaint. DOJ SUES UCLA OVER ALLEGED \u2018JUDENREIN\u2019 CONDITIONS DURING ANTI-ISRAEL ENCAMPMENT \"Without diminishing any concern arising from these occurrences, the court finds them, singly and collectively, to be too isolated and episodic to support a plausible inference that any institutionalized noncompliance with Title VI"
-    },
-    {
-     "outlet": "latimes",
-     "title": "Judge dismisses suit over alleged Harvard antisemitism. What it could mean for UC cases",
-     "url": "https://www.latimes.com/world-nation/story/2026-08-13/judge-dismisses-trump-lawsuit-alleging-antisemitism-at-harvard",
-     "author": "Collin Binkley, Jaweed Kaleem",
-     "kind": "news",
-     "published": "2026-08-13T19:34:37+00:00",
-     "summary": "A judge tossed a Trump administration lawsuit alleging antisemitism at Harvard. The decision could potentially shape similar legal battles facing the UC."
     }
    ]
   }
