@@ -1,16 +1,16 @@
 {
- "generated": "2026-08-15T10:40:56.533667+00:00",
+ "generated": "2026-08-15T11:34:59.033357+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
   {
-   "id": "3e44303664",
+   "id": "c747f05e6b",
    "topic": "Justice & Policing",
    "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges. \"I shot Mr. Thompson,\" Mangione said during Friday's hearing, adding, \"I knew\u2026",
    "summaryFrom": "axios",
    "emphasis": {
-    "bigCount": 8,
+    "bigCount": 9,
     "indieCount": 7,
     "big": [
      "friday",
@@ -18,26 +18,36 @@
     ],
     "indie": [
      "death",
-     "pleading",
-     "year-old"
+     "fate",
+     "year-old",
+     "pleading"
     ]
    },
    "absent": [
     "coop"
    ],
-   "headline": "US : Luigi Mangione pleads guilty to killing UnitedHealthcare CEO",
-   "updated": "2026-08-15T09:47:03+00:00",
+   "headline": "Double jeopardy could spell end of state case after Luigi Mangione\u2019s guilty plea",
+   "updated": "2026-08-15T11:00:54+00:00",
    "outletCount": 14,
    "counts": {
-    "pub": 5,
-    "corp": 3,
-    "nonprofit": 2,
+    "nonprofit": 3,
+    "pub": 4,
+    "corp": 4,
     "family": 5
    },
-   "newsCount": 13,
+   "newsCount": 14,
    "opinionCount": 2,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Double jeopardy could spell end of state case after Luigi Mangione\u2019s guilty plea",
+     "url": "https://www.theguardian.com/us-news/2026/aug/15/luigi-mangione-double-jeopardy-state-case",
+     "author": "Victoria Bekiempis in New York",
+     "kind": "news",
+     "published": "2026-08-15T11:00:54+00:00",
+     "summary": "Defense argues New York cannot try Mangione over same act or offense as federal case \u2013 the killing of Brian Thompson Luigi Mangione \u2019s plea to federal stalking charges in UnitedHealthcare CEO Brian Thompson\u2019s death has spurred questions about the fate of the separate Manhattan murder case against him, with experts saying New York\u2019s double-jeopardy law could derail that trial. Mangione pleaded guilty to one count of interstate stalking resulting in death, and one count of cyberstalking through use of interstate facilities resulting in death, in connection with the 4 December 2024 shooting outside a Midtown hotel. Both charges carry a potential maximum life sentence. Continue reading..."
+    },
     {
      "outlet": "france24",
      "title": "US : Luigi Mangione pleads guilty to killing UnitedHealthcare CEO",
@@ -55,15 +65,6 @@
      "kind": "news",
      "published": "2026-08-15T03:48:41+00:00",
      "summary": "Luigi Mangione entered a guilty plea in his federal case at a court appearance in Manhattan Friday morning."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Mangione pleads guilty as polarising CEO killing reaches new phase",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T01:20:06+00:00",
-     "summary": "Luigi Mangione pleaded guilty to federal charges over the fatal shooting of UnitedHealthcare CEO Brian Thompson in 2024."
     },
     {
      "outlet": "nbcnews",
@@ -129,6 +130,15 @@
      "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges. \"I shot Mr. Thompson,\" Mangione said during Friday's hearing, adding, \"I knew what I was doing was illegal,\" per multiple reports. He described traveling to Manhattan ahead of the shooting, and seeking information about the conference Thompson was attending by posing as an investor. Mangione also described creating a gun with a 3D printer and attaching a silencer to it. Garnett "
     },
     {
+     "outlet": "cbsnews",
+     "title": "How double jeopardy could come into play after Mangione guilty plea",
+     "url": "https://www.cbsnews.com/news/mangione-guilty-plea-federal-case-jeopardize-state-murder-trial/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T18:56:00+00:00",
+     "summary": "Luigi Mangione pleaded guilty to two federal counts on Friday. His state trial is currently scheduled to begin on Sept. 8."
+    },
+    {
      "outlet": "breitbart",
      "title": "Nolte: Luigi Mangione Pleads Guilty to Federal Stalking Charges, Admits to Shooting CEO",
      "url": "https://www.breitbart.com/politics/2026/08/14/nolte-luigi-mangione-pleads-guilty-to-federal-stalking-charges-admits-to-shooting-ceo/",
@@ -176,184 +186,194 @@
    ]
   },
   {
-   "id": "f736c70d5b",
-   "topic": "Politics",
-   "summary": "FIRST ON FOX \u2014 The Kennedy Center Board of Trustees wants to name the famed arts institution\u2019s grounds the \"President Donald J. Trump Plaza,\" one of several new ways the board is seeking to honor the president as the center moves ahead with a sweeping renovation, Fox News Digital has learned. The board also wants the words \"Endowed by the Trump Kennedy Center Fund\" inscribed on the building once the fund reaches a $100 million endowment, according to information obtained by Fox News Digital. The previously unreported moves come after the board voted Thursday to add an inscription crediting Trump with restoring and renovating America's cultural center, and approved a partial closure of the complex for renovations. KENNEDY CENTER BOARD MEMBER KNOCKS SEN WHITEHOUSE FOR IGNORING INVITES AS DEM FEUDS WITH TRUMP-RUN LANDMARK The resolution recognizing Trump\u2019s contributions passed by a 20-3\u2026",
-   "summaryFrom": "foxnews",
+   "id": "71d8fca40f",
+   "topic": "World",
+   "summary": "An F/A-18F Super Hornet launches from the flight deck of aircraft carrier USS Abraham Lincoln in support of Operation Epic Fury on February 28, 2026 at Sea. Photo by U.S. Navy via Getty Images. Thursday, August 13, 2026 &#8211; &nbsp; Iranian Foreign Minister Abbas Araghchi warns of &#8220;even bigger miscalculation&#8221; on Hormuz after U.S. President Donald Trump claims U.S. has &#8220;total control.&#8221; Washington Post: U.S. intelligence viewed Israeli warning of Iranian plot to kill Trump as &#8220;low confidence.&#8221; Slight bump in Hormuz traffic. Iran reports oil pollution off Qeshm Island, calls for Hormuz environmental fees. Iran kills two accused of intelligence ties to U.S. and Israel. Yemen&#8217;s Saudi-backed government claims success against Ansarallah attack. Saudi tankers reroute around Africa as empty fleet heads toward Gulf. X suspends Ansarallah spokesperson\u2026",
+   "summaryFrom": "dropsite",
    "emphasis": {
-    "bigCount": 7,
-    "indieCount": 4,
+    "bigCount": 6,
+    "indieCount": 5,
     "big": [
-     "arts",
-     "waterway",
-     "getty",
-     "images",
-     "trustees",
-     "move"
+     "answers"
     ],
     "indie": [
-     "soon"
+     "concerns",
+     "saying",
+     "navy",
+     "donald"
     ]
    },
-   "absent": [
-    "coop"
-   ],
-   "headline": "US President Trump says he will declare Strait of Hormuz US territory",
-   "updated": "2026-08-15T02:25:09+00:00",
+   "absent": [],
+   "headline": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea \u2018not nearly enough\u2019 \u2013 as it happened",
+   "updated": "2026-08-15T10:59:50+00:00",
    "outletCount": 11,
    "counts": {
-    "pub": 3,
-    "family": 5,
-    "nonprofit": 1,
-    "corp": 2
+    "corp": 4,
+    "nonprofit": 2,
+    "family": 2,
+    "pub": 2,
+    "coop": 1
    },
-   "newsCount": 10,
-   "opinionCount": 1,
+   "newsCount": 11,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "aljazeera",
-     "title": "US President Trump says he will declare Strait of Hormuz US territory",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
+     "outlet": "cbsnews",
+     "title": "Trump says U.S. warship's 9-month deployment \"not nearly long enough\"",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-15T02:25:09+00:00",
-     "summary": "US President Donald Trump said he will \u201csoon\u201d declare the Strait of Hormuz a US territory."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Trump Says U.S. Will Declare Strait of Hormuz \u2018U.S. Territory\u2019 \u2014 \u2018After We Finish Defeating Iran\u2019",
-     "url": "https://www.breitbart.com/politics/2026/08/14/trump-declare-strait-hormuz-u-s-territory-finish-defeating-iran/",
-     "author": "Joshua Klein",
-     "kind": "news",
-     "published": "2026-08-15T00:24:38+00:00",
-     "summary": "President Donald Trump said Friday that the United States will declare the Strait of Hormuz \u201cU.S. territory\u201d after it finishes defeating Iran, escalating his assertion of American control over the strategic waterway as Tehran vowed that the strait \u201chas been Iranian, is Iranian, and will remain Iranian.\u201d The post Trump Says U.S. Will Declare Strait of Hormuz \u2018U.S. Territory\u2019 \u2014 \u2018After We Finish Defeating Iran\u2019 appeared first on Breitbart ."
-    },
-    {
-     "outlet": "dw",
-     "title": "Donald Trump to declare Hormuz US territory 'soon'",
-     "url": "https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T22:14:00+00:00",
-     "summary": "Donald Trump said the strait would become part of the US after Iran is defeated. He also told Americans to accept higher gas prices, which have soared since Iran closed Hormuz in response to US and Israeli attacks."
+     "published": "2026-08-15T10:59:50+00:00",
+     "summary": "The USS Abraham Lincoln has been deployed for almost nine months and is expected to be replaced in the Middle East."
     },
     {
      "outlet": "guardian",
-     "title": "Trump threatens to declare strait of Hormuz \u2018territory of the United States\u2019",
-     "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
-     "author": "Maya Yang",
+     "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea \u2018not nearly enough\u2019 \u2013 as it happened",
+     "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
+     "author": "Maanvi Singh, Shrai Popat, Marina Dunbar and Mabel Banfield-Nwachi",
      "kind": "news",
-     "published": "2026-08-14T21:38:17+00:00",
-     "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy \u200bposition, not clear Donald Trump has threatened to declare the strait of Hormuz as \u201ca territory of the United States\u201d as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would \u201cpretty soon\u201d designate the waterway \u2013 a crucial chokepoint for global trade, through which about a fifth of the world\u2019s seaborne oil supplies typically pass \u2013 a US territory. Continue reading..."
+     "published": "2026-08-15T01:31:53+00:00",
+     "summary": "This live blog is now closed. Trump downplays concerns about sailors deployed for record 250 days Sign up for the Breaking News US email The Trump administration, in its appeal to the supreme court today, said that \u201cthis case involves an extraordinary and unlawful injunction that will halt the ongoing construction of the integrated military complex including a totally secure ballroom space, at the East Wing of the White House, which is vitally required by national security.\u201d It\u2019s worth noting that the appeals court ruling blocks the above-ground construction of the ballroom, but would allow the work on the underground security structure to continue . Continue reading..."
     },
     {
-     "outlet": "dailybeast",
-     "title": "Trump Unveils Crackpot Scheme to Declare Waterway U.S. Territory",
-     "url": "https://www.thedailybeast.com/trump-wants-to-make-stretch-of-water-a-us-territory/",
-     "author": "Sarah Ewall-Wice",
+     "outlet": "nyt",
+     "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
+     "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
+     "author": "Erica L. Green and Maggie Haberman",
      "kind": "news",
-     "published": "2026-08-14T21:25:27+00:00",
-     "summary": "Samuel Corum/Getty Images President Donald Trump signaled the U.S. military could have a ramped-up presence in the Middle East to deal with Iran indefinitely as he sets his sights on a new \u201cterritory.\u201d Concern is deepening that the president has drawn the U.S. into a quagmire in the region as his war stretches into its sixth month and Trump struggles to reach a deal. Trump insisted while speaking on Long Island on Friday that Iran was being \u201cvery badly defeated\u201d after he has already repeatedly declared victory for months. Read more at The Daily Beast."
+     "published": "2026-08-15T01:04:40+00:00",
+     "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted \u201cnot nearly long enough.\u201d"
     },
     {
-     "outlet": "foxnews",
-     "title": "EXCLUSIVE: Kennedy Center board moves to name grounds \u2018President Donald J Trump Plaza'",
-     "url": "https://www.foxnews.com/politics/exclusive-kennedy-center-board-moves-name-grounds-president-donald-j-trump-plaza",
+     "outlet": "pbsnewshour",
+     "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
+     "url": "https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln",
+     "author": "Veronica Vela",
+     "kind": "news",
+     "published": "2026-08-14T22:55:06+00:00",
+     "summary": "Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' amid outcry from families",
+     "url": "https://www.latimes.com/politics/story/2026-08-14/uss-abraham-lincoln-deployment-conditions-families-trump-hegseth",
+     "author": "Christopher Buchanan, Ana Ceballos",
+     "kind": "news",
+     "published": "2026-08-14T21:13:51+00:00",
+     "summary": "Lawmakers are pressing for answers amid reports that sailors aboard the San Diego-based carrier have endured food shortages, plumbing failures and severe fatigue."
+    },
+    {
+     "outlet": "slate",
+     "title": "Trump on Long-Suffering Sailors: \u201cNot Nearly Long Enough\u201d",
+     "url": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html?via=rss",
+     "author": "Ian Prasad Philbrick",
+     "kind": "news",
+     "published": "2026-08-14T21:09:49+00:00",
+     "summary": "Sailors are suffering. Trump and his team are denying it."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump says record USS Lincoln deployment 'not nearly long enough'",
+     "url": "https://abcnews.com/Politics/trump-record-uss-lincoln-deployment-long/story?id=135652552",
      "author": null,
      "kind": "news",
-     "published": "2026-08-14T20:20:52+00:00",
-     "summary": "FIRST ON FOX \u2014 The Kennedy Center Board of Trustees wants to name the famed arts institution\u2019s grounds the \"President Donald J. Trump Plaza,\" one of several new ways the board is seeking to honor the president as the center moves ahead with a sweeping renovation, Fox News Digital has learned. The board also wants the words \"Endowed by the Trump Kennedy Center Fund\" inscribed on the building once the fund reaches a $100 million endowment, according to information obtained by Fox News Digital. The previously unreported moves come after the board voted Thursday to add an inscription crediting Trump with restoring and renovating America's cultural center, and approved a partial closure of the complex for renovations. KENNEDY CENTER BOARD MEMBER KNOCKS SEN WHITEHOUSE FOR IGNORING INVITES AS DEM FEUDS WITH TRUMP-RUN LANDMARK The resolution recognizing Trump\u2019s contributions passed by a 20-3 supermajority vote, while the partial-closure resolution passed 23-3, according to a source familiar with the matter. Sen. Sheldon Whitehouse , D-R.I., and Democratic Reps. Joyce Beatty of Ohio and Rick Larsen of Washington voted \"no\" on both resolutions, the source said. The board\u2019s resolution calls f"
+     "published": "2026-08-14T20:32:04+00:00",
+     "summary": "Trump said USS Lincoln family members are not concerned about conditions."
     },
     {
-     "outlet": "dailywire",
-     "title": "Trump Makes Unprecedented Move On The Strait Of Hormuz",
-     "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule",
-     "author": "Daily Wire",
-     "kind": "opinion",
-     "published": "2026-08-14T08:45:33+00:00",
-     "summary": null
+     "outlet": "france24",
+     "title": "Trump says record Navy deployment in Iran operations 'not nearly long enough'",
+     "url": "https://www.france24.com/en/middle-east/20260814-trump-says-record-navy-deployment-in-iran-operations-not-nearly-long-enough",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-14T20:17:38+00:00",
+     "summary": "US President Donald Trump on Friday dismissed concerns about the toll on sailors aboard the aircraft carrier USS Abraham Lincoln, who have endured a record deployment of almost nine months, saying that the deployment had been \u201cnot nearly long enough\u201d. The Lincoln has been supporting the US war against Iran, and reports have emerged of sailors struggling with mental health issues."
     },
     {
      "outlet": "bbc",
-     "title": "Kennedy Center board votes to put Trump's name back on building",
-     "url": "https://www.bbc.co.uk/news/articles/cn7n5l5xy5ro?at_medium=RSS&at_campaign=rss",
+     "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+     "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-13T22:21:36+00:00",
-     "summary": "The board on Thursday also voted to proceed with a two-year closure for proposed renovations, which was earlier blocked by a federal judge."
+     "published": "2026-08-13T23:06:23+00:00",
+     "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
     },
     {
-     "outlet": "time",
-     "title": "Kennedy Center Board Votes to Put Trump's Name Back on the Building, Testing Judge's Order",
-     "url": "https://time.com/article/2026/08/13/kennedy-center-trump-name-board-vote-judge-order/",
-     "author": "Connor Greene",
+     "outlet": "rollingstone",
+     "title": "Sailors Are Reportedly Trying to Go Overboard to Escape Squalid Conditions on Aircraft Carrier",
+     "url": "https://www.rollingstone.com/politics/politics-news/uss-abraham-lincoln-sailors-overboard-1235608057/",
+     "author": "Nikkimccannramirez",
      "kind": "news",
-     "published": "2026-08-13T22:02:14+00:00",
-     "summary": "A person walks past scaffolding and a large protective tarp covering the facade of the John F. Kennedy Center for the Performing Arts, guarded by two security guards, in Washington, D.C., on August 13, 2026. \u2014Brendan Smialowski\u2014AFP/Getty Images The Kennedy Center boardseon Thursday voted to put President Donald Trump\u2019s name back on the building\u2019s facade, setting the stage to test a judge\u2019s order from May that mandated its removal. The board, made up of mostly Trump loyalists , voted 20-3 to change the name of the building to \u201cThe John F. Kennedy Center for the Performing Arts Restored and Renovated by President Donald J. Trump\u201d while naming the center\u2019s grounds \u201cPresident Donald J. Trump Plaza,\u201d according to attendees of Thursday\u2019s meeting who spoke to multiple media outlets. The board also once again voted to close the performing arts center for up to two years for renovations. Operations are set to shift to the REACH, another building on the campus, while they are completed. \u201cThis morning\u2019s decision to close the Center and the surprise agenda item to put Donald Trump\u2019s name back on the building was more of the same,\u201d Democratic Rep. Joyce Beatty of Ohio, an ex-officio board membe"
+     "published": "2026-08-13T16:41:28+00:00",
+     "summary": "Democrats are demanding answers about what\u2019s going on with the USS Abraham Lincoln"
     },
     {
-     "outlet": "axios",
-     "title": "Kennedy Center board restores Trump's name, testing judge",
-     "url": "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order",
-     "author": "Cuneyt Dil",
+     "outlet": "dropsite",
+     "title": "USS Abraham Lincoln sailors try to jump overboard after 250 days at sea; Third person dies after Newark ICE facility detention; Israel sets wildfires in Lebanon",
+     "url": "https://www.dropsitenews.com/p/uss-abraham-lincoln-overboard-newark-ice-detention-israel-lebanon-wildfires",
+     "author": "Drop Site News",
      "kind": "news",
-     "published": "2026-08-13T21:36:42+00:00",
-     "summary": "The Kennedy Center board voted Thursday to again add President Trump's name to the John F. Kennedy Center for the Performing Arts, two anonymous sources told Axios. Why it matters: The move challenges a federal judge's ruling back in May that only Congress could change the name of the performing arts venue, and that Trump's name must be removed . That process was completed in June. U.S. District Judge Christopher Cooper concluded that the board had \"overstepped its statutory bounds by unilaterally renaming\" the center after the president. The administration has appealed the ruling. Zoom in: Thursday's vote won't make Trump's name part of the complex. Instead, an inscription will go below the Kennedy Center sign that reads \"Restored and Renovated by President Donald J. Trump,\" and the physical site will be renamed \"the President Donald J. Trump Plaza.\" The decision is likely meant to circumvent both the judge's ruling and a federal law that oversees the Kennedy Center, which reads in part, \"no additional memorials or plaques in the nature of memorials shall be designated or installed in the public areas.\" \"This latest development is a transparent effort to circumvent the Court's rul"
-    },
-    {
-     "outlet": "theatlantic",
-     "title": "Trump\u2019s New Plan to Get His Name Back on the Kennedy Center",
-     "url": "https://www.theatlantic.com/culture/2026/08/kennedy-center-trump-board/688276/?utm_source=feed",
-     "author": "Janay Kingsberry",
-     "kind": "news",
-     "published": "2026-08-13T20:38:00+00:00",
-     "summary": "Donald Trump just won\u2019t let go of his plans for the Kennedy Center. Less than three months after a federal judge ordered the president\u2019s name stripped from the national arts center, Trump\u2019s handpicked trustees have found a new way to try to put him back on the building. During a board meeting today, they voted in favor of a resolution that would return the president\u2019s name to the building\u2019s facade. It would read: The John F. Kennedy Memorial Center for the Performing Arts Restored and Renovated by President Donald Trump I obtained a copy of the resolution, which contains one more edit to the Kennedy Center\u2019s marble edifice. Once an obscure endowment known as the Trump Kennedy Center Fund reaches $100 million in donations, the resolution would expand the proposed signage\u2019s language to include a third line: Endowed by the Trump Kennedy Center Fund . The vote, which was not included on the agenda distributed before the meeting, will likely drag out a legal fight over Trump\u2019s transformation of the center and deepen an institutional crisis that has repelled audiences, artists, and donors since his takeover. Participants voted 20\u20133 to adopt the resolution, one person familiar with today\u2019"
+     "published": "2026-08-13T15:19:39+00:00",
+     "summary": "An F/A-18F Super Hornet launches from the flight deck of aircraft carrier USS Abraham Lincoln in support of Operation Epic Fury on February 28, 2026 at Sea. Photo by U.S. Navy via Getty Images. Thursday, August 13, 2026 &#8211; &nbsp; Iranian Foreign Minister Abbas Araghchi warns of &#8220;even bigger miscalculation&#8221; on Hormuz after U.S. President Donald Trump claims U.S. has &#8220;total control.&#8221; Washington Post: U.S. intelligence viewed Israeli warning of Iranian plot to kill Trump as &#8220;low confidence.&#8221; Slight bump in Hormuz traffic. Iran reports oil pollution off Qeshm Island, calls for Hormuz environmental fees. Iran kills two accused of intelligence ties to U.S. and Israel. Yemen&#8217;s Saudi-backed government claims success against Ansarallah attack. Saudi tankers reroute around Africa as empty fleet heads toward Gulf. X suspends Ansarallah spokesperson account. Israel kills Palestinian child in Gaza City strike. Israeli strikes kill two, including Gaza police chief. Israel detains Palestinians, destroys homes, and re-establishes settlement in occupied West Bank. Hamas says it will participate in Palestinian elections in November. Israeli forces blow "
     }
    ]
   },
   {
-   "id": "f974326cfb",
+   "id": "0956ef129e",
    "topic": "World",
-   "summary": "Shallow quake hit Indonesia\u2019s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least 38 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Indonesian authorities said that monitoring showed no significant sea level changes that could indicate a tsunami. Continue reading...",
+   "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake struck eastern Indonesia early on Saturday, killing at least 38 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Authorities issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one of magnitude of 6.1. Indonesian authorities said that monitoring showed no significant sea level changes that could indicate a tsunami. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": {
-    "bigCount": 4,
-    "indieCount": 8,
-    "big": [],
+    "bigCount": 5,
+    "indieCount": 5,
+    "big": [
+     "dead",
+     "geological",
+     "survey"
+    ],
     "indie": [
-     "ground",
-     "rescue",
-     "search",
-     "island",
+     "kills",
+     "seismic",
      "widespread",
-     "higher"
+     "ground",
+     "search",
+     "survivors"
     ]
    },
    "absent": [
     "coop"
    ],
-   "headline": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 38",
+   "headline": "Powerful earthquake kills at least 38 in eastern Indonesia",
    "updated": "2026-08-15T10:24:36+00:00",
    "outletCount": 10,
    "counts": {
     "nonprofit": 2,
+    "corp": 3,
     "family": 2,
-    "corp": 2,
-    "pub": 6
+    "pub": 3
    },
-   "newsCount": 12,
+   "newsCount": 10,
    "opinionCount": 0,
-   "underreported": true,
+   "underreported": false,
    "articles": [
     {
      "outlet": "guardian",
-     "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 38",
+     "title": "Powerful earthquake kills at least 38 in eastern Indonesia",
      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
      "author": "William Christou and agencies",
      "kind": "news",
      "published": "2026-08-15T10:24:36+00:00",
-     "summary": "Shallow quake hit Indonesia\u2019s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least 38 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Indonesian authorities said that monitoring showed no significant sea level changes that could indicate a tsunami. Continue reading..."
+     "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake struck eastern Indonesia early on Saturday, killing at least 38 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Authorities issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one of magnitude of 6.1. Indonesian authorities said that monitoring showed no significant sea level changes that could indicate a tsunami. Continue reading..."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Powerful 7.7 earthquake strikes off Indonesia",
+     "url": "https://abcnews.com/International/2-dead-after-powerful-77-earthquake-strikes-off/story?id=135664681",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T09:41:23+00:00",
+     "summary": "A powerful magnitude 7.7 earthquake struck off the coast of eastern Indonesia, according to the U.S. Geological Survey."
     },
     {
      "outlet": "nypost",
@@ -410,15 +430,6 @@
      "summary": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, killing at least 38 people, collapsing buildings as well as causing panic in a region prone to deadly quakes. (Image credit: BASARNAS via AP)"
     },
     {
-     "outlet": "france24",
-     "title": "Deadly earthquake strikes Indonesia and triggers mass evacuations",
-     "url": "https://www.france24.com/en/asia-pacific/20260815-deadly-earthquake-strikes-indonesia-and-triggers-mass-evacuations",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-15T05:36:19+00:00",
-     "summary": "A powerful 7.7-magnitude earthquake struck off Indonesia\u2019s eastern Flores island early Saturday, leaving at least 38 people dead and several others trapped beneath collapsed buildings. Emergency crews are racing to reach affected communities as landslides blocked roads and residents fled to higher ground amid fears of a tsunami."
-    },
-    {
      "outlet": "aljazeera",
      "title": "On the ground in Indonesia following 7.7 magnitude earthquake",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss",
@@ -428,24 +439,6 @@
      "summary": "A powerful 7.7 magnitude earthquake struck off eastern Indonesia early Saturday, killing at least five people."
     },
     {
-     "outlet": "aljazeera",
-     "title": "At least 20 killed as magnitude 7.7 quake hits Indonesia",
-     "url": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T01:36:04+00:00",
-     "summary": "The death toll is expected to climb further as emergency teams continue search and rescue efforts."
-    },
-    {
-     "outlet": "dw",
-     "title": "Indonesia: Strong earthquake hits off coast of Flores island",
-     "url": "https://www.dw.com/en/indonesia-strong-earthquake-hits-off-coast-of-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T23:45:00+00:00",
-     "summary": "At least 20 people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftershocks. A tsunami warning has been lifted."
-    },
-    {
      "outlet": "nbcnews",
      "title": "Magnitude-7.7 quake hits off coast of Indonesia, killing at least 20",
      "url": "https://www.nbcnews.com/world/indonesia/earthquake-indonesia-rcna592638",
@@ -453,133 +446,6 @@
      "kind": "news",
      "published": "2026-08-14T22:58:37+00:00",
      "summary": "A magnitude-7.7 earthquake hit off the coast of Indonesia in the eastern Flores region, the United States Geological Survey reported on Friday."
-    }
-   ]
-  },
-  {
-   "id": "71d8fca40f",
-   "topic": "World",
-   "summary": "An F/A-18F Super Hornet launches from the flight deck of aircraft carrier USS Abraham Lincoln in support of Operation Epic Fury on February 28, 2026 at Sea. Photo by U.S. Navy via Getty Images. Thursday, August 13, 2026 &#8211; &nbsp; Iranian Foreign Minister Abbas Araghchi warns of &#8220;even bigger miscalculation&#8221; on Hormuz after U.S. President Donald Trump claims U.S. has &#8220;total control.&#8221; Washington Post: U.S. intelligence viewed Israeli warning of Iranian plot to kill Trump as &#8220;low confidence.&#8221; Slight bump in Hormuz traffic. Iran reports oil pollution off Qeshm Island, calls for Hormuz environmental fees. Iran kills two accused of intelligence ties to U.S. and Israel. Yemen&#8217;s Saudi-backed government claims success against Ansarallah attack. Saudi tankers reroute around Africa as empty fleet heads toward Gulf. X suspends Ansarallah spokesperson\u2026",
-   "summaryFrom": "dropsite",
-   "emphasis": {
-    "bigCount": 5,
-    "indieCount": 5,
-    "big": [
-     "iran"
-    ],
-    "indie": [
-     "court",
-     "supreme",
-     "concerns",
-     "including",
-     "photo",
-     "donald"
-    ]
-   },
-   "absent": [],
-   "headline": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea \u2018not nearly enough\u2019 \u2013 as it happened",
-   "updated": "2026-08-15T10:00:00+00:00",
-   "outletCount": 9,
-   "counts": {
-    "corp": 2,
-    "nonprofit": 3,
-    "family": 3,
-    "pub": 1,
-    "coop": 1
-   },
-   "newsCount": 10,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "Father of USS Abraham Lincoln Sailor Criticizes Trump&#039;s Iran &#039;Forever War&#039;",
-     "url": "https://www.newsweek.com/father-of-uss-abraham-lincoln-sailor-criticizes-trumps-iran-forever-war-12324639",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T10:00:00+00:00",
-     "summary": "Jefferson Kelly&#039;s 20-year-old son has been on board the ship which is at the center of a debate around US Navy conditions."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea \u2018not nearly enough\u2019 \u2013 as it happened",
-     "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
-     "author": "Maanvi Singh, Shrai Popat, Marina Dunbar and Mabel Banfield-Nwachi",
-     "kind": "news",
-     "published": "2026-08-15T01:31:53+00:00",
-     "summary": "This live blog is now closed. Trump downplays concerns about sailors deployed for record 250 days Sign up for the Breaking News US email The Trump administration, in its appeal to the supreme court today, said that \u201cthis case involves an extraordinary and unlawful injunction that will halt the ongoing construction of the integrated military complex including a totally secure ballroom space, at the East Wing of the White House, which is vitally required by national security.\u201d It\u2019s worth noting that the appeals court ruling blocks the above-ground construction of the ballroom, but would allow the work on the underground security structure to continue . Continue reading..."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
-     "author": "Erica L. Green and Maggie Haberman",
-     "kind": "news",
-     "published": "2026-08-15T01:04:40+00:00",
-     "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted \u201cnot nearly long enough.\u201d"
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
-     "url": "https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln",
-     "author": "Veronica Vela",
-     "kind": "news",
-     "published": "2026-08-14T22:55:06+00:00",
-     "summary": "Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Navy and USS Lincoln\u2019s Problems Are Tied to Attacks on U.S. Base Early in War",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html",
-     "author": "John Ismay",
-     "kind": "news",
-     "published": "2026-08-14T22:35:07+00:00",
-     "summary": "Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy\u2019s logistics hub after Iran damaged a base in Bahrain."
-    },
-    {
-     "outlet": "semafor",
-     "title": "Leadership changes signal Iran expects a long war",
-     "url": "https://www.semafor.com/article/08/14/2026/amid-leadership-changes-iran-gears-up-for-a-long-war",
-     "author": "Prashant Rao",
-     "kind": "news",
-     "published": "2026-08-14T11:19:19+00:00",
-     "summary": "Iran\u2019s recent reshuffle, as well as its shifting battlefield tactics, suggest it is adapting for a lengthening conflict with the US. Tehran has reordered its leadership in part because of repeated assassinations of its top brass by American and Israeli strikes. But recent moves point to how Iran is \u201c preparing for a prolonged confrontation ,\u201d an expert wrote in Foreign Policy, noting that Iran was centralizing its military apparatus and increasing its focus on offensive operations. The use of a drone swarm against a US fighter jet, meanwhile, pointed to how \u201cIran has sought to learn and implement important lessons about the modern battlefield ,\u201d in particular from the Russia-Ukraine conflict, the Institute for the Study of War said. \u2014 Prashant Rao"
-    },
-    {
-     "outlet": "bbc",
-     "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-     "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T23:06:23+00:00",
-     "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
-    },
-    {
-     "outlet": "rollingstone",
-     "title": "Sailors Are Reportedly Trying to Go Overboard to Escape Squalid Conditions on Aircraft Carrier",
-     "url": "https://www.rollingstone.com/politics/politics-news/uss-abraham-lincoln-sailors-overboard-1235608057/",
-     "author": "Nikkimccannramirez",
-     "kind": "news",
-     "published": "2026-08-13T16:41:28+00:00",
-     "summary": "Democrats are demanding answers about what\u2019s going on with the USS Abraham Lincoln"
-    },
-    {
-     "outlet": "dropsite",
-     "title": "USS Abraham Lincoln sailors try to jump overboard after 250 days at sea; Third person dies after Newark ICE facility detention; Israel sets wildfires in Lebanon",
-     "url": "https://www.dropsitenews.com/p/uss-abraham-lincoln-overboard-newark-ice-detention-israel-lebanon-wildfires",
-     "author": "Drop Site News",
-     "kind": "news",
-     "published": "2026-08-13T15:19:39+00:00",
-     "summary": "An F/A-18F Super Hornet launches from the flight deck of aircraft carrier USS Abraham Lincoln in support of Operation Epic Fury on February 28, 2026 at Sea. Photo by U.S. Navy via Getty Images. Thursday, August 13, 2026 &#8211; &nbsp; Iranian Foreign Minister Abbas Araghchi warns of &#8220;even bigger miscalculation&#8221; on Hormuz after U.S. President Donald Trump claims U.S. has &#8220;total control.&#8221; Washington Post: U.S. intelligence viewed Israeli warning of Iranian plot to kill Trump as &#8220;low confidence.&#8221; Slight bump in Hormuz traffic. Iran reports oil pollution off Qeshm Island, calls for Hormuz environmental fees. Iran kills two accused of intelligence ties to U.S. and Israel. Yemen&#8217;s Saudi-backed government claims success against Ansarallah attack. Saudi tankers reroute around Africa as empty fleet heads toward Gulf. X suspends Ansarallah spokesperson account. Israel kills Palestinian child in Gaza City strike. Israeli strikes kill two, including Gaza police chief. Israel detains Palestinians, destroys homes, and re-establishes settlement in occupied West Bank. Hamas says it will participate in Palestinian elections in November. Israeli forces blow "
-    },
-    {
-     "outlet": "theconversation",
-     "title": "Trump\u2019s \u2018forever\u2019 tariffs are kicking in for the long haul \u2013 and US consumers are footing the bill",
-     "url": "https://theconversation.com/trumps-forever-tariffs-are-kicking-in-for-the-long-haul-and-us-consumers-are-footing-the-bill-289334",
-     "author": "Kent Jones, Professor Emeritus of Economics, Babson College",
-     "kind": "news",
-     "published": "2026-08-13T12:31:50+00:00",
-     "summary": "President Donald Trump's latest announcement of tariffs is intended to hold up better to legal scrutiny, including from the Supreme Court. AP Photo/Damian Dovarganes) President Donald Trump\u2019s tariff announcements no longer cause the market gyrations that they did in 2025. But their sticker shock for American consumers is becoming increasingly clear \u2013 just as economic sentiment is souring ahead of the November 2026 midterm elections. Many business groups had hoped that the tariff wars would end in February, when the Supreme Court overturned Trump\u2019s emergency tariffs. They got a rude awakening five months later, however, when Trump announced a raft of new import taxes to replace the levies that were struck down. Covering nearly all U.S. imports, the advantage of these tariffs in the Trump administration\u2019s view is that they\u2019re more firmly based on existing U.S. trade law, beyond the reach of the Supreme Court\u2019s review. And Trump has said he envisions enacting many more of these so-called trade law tariffs. As a trade economist who has been following the tariff wars, I believe that the longer these import taxes are in place, the more the consumers will bear their burden. The 2025 \u201cLibe"
     }
    ]
   },
@@ -690,6 +556,102 @@
    ]
   },
   {
+   "id": "cc3b730f3d",
+   "topic": "Politics",
+   "summary": "Jeff Merkley has a plan to save the republic from Donald Trump's \" authoritarian playbook \", or so says the senator from Oregon. \" This is a president trying to become a strongman authoritarian,\" said Merkley on the On NOTUS podcast this week. \"If we don't repair the Constitution, we don't have a republic.\" His \"For Our Republic Act\", which was introduced earlier this month , is a sprawling piece of legislation that aims at reversing many of the president's claims of executive authority and clamping down on some of the more novel forms of corruption we've seen under the president's second term. Its proposed reforms range from moving immigration judges from the executive branch to the judicial branch, requiring congressional approval of executive-led department shutterings and reorganizations, and banning executive officers from trading in prediction markets and hawking crypto products.\u2026",
+   "summaryFrom": "reason",
+   "emphasis": {
+    "bigCount": 4,
+    "indieCount": 3,
+    "big": [
+     "waterway"
+    ],
+    "indie": [
+     "become"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Donald Trump to declare Hormuz US territory 'soon'",
+   "updated": "2026-08-15T10:47:14+00:00",
+   "outletCount": 7,
+   "counts": {
+    "corp": 2,
+    "family": 2,
+    "pub": 1,
+    "nonprofit": 2
+   },
+   "newsCount": 5,
+   "opinionCount": 2,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nbcnews",
+     "title": "Iran rejects \u2018delusions\u2019 after Trump says he wants the Strait of Hormuz to be a U.S. territory",
+     "url": "https://www.nbcnews.com/world/iran/iran-rejects-delusions-trump-strait-hormuz-us-territory-rcna592666",
+     "author": "Amin Khodadadi",
+     "kind": "news",
+     "published": "2026-08-15T10:47:14+00:00",
+     "summary": "Iran called on the U.S. to \u201caccept the reality of defeat\u201d after President Donald Trump said he would declare the Strait of Hormuz a \u201cterritory\u201d of the U.S."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Trump Says U.S. Will Declare Strait of Hormuz \u2018U.S. Territory\u2019 \u2014 \u2018After We Finish Defeating Iran\u2019",
+     "url": "https://www.breitbart.com/politics/2026/08/14/trump-declare-strait-hormuz-u-s-territory-finish-defeating-iran/",
+     "author": "Joshua Klein",
+     "kind": "news",
+     "published": "2026-08-15T00:24:38+00:00",
+     "summary": "President Donald Trump said Friday that the United States will declare the Strait of Hormuz \u201cU.S. territory\u201d after it finishes defeating Iran, escalating his assertion of American control over the strategic waterway as Tehran vowed that the strait \u201chas been Iranian, is Iranian, and will remain Iranian.\u201d The post Trump Says U.S. Will Declare Strait of Hormuz \u2018U.S. Territory\u2019 \u2014 \u2018After We Finish Defeating Iran\u2019 appeared first on Breitbart ."
+    },
+    {
+     "outlet": "dw",
+     "title": "Donald Trump to declare Hormuz US territory 'soon'",
+     "url": "https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T22:14:00+00:00",
+     "summary": "Donald Trump said the strait would become part of the US after Iran is defeated. He also told Americans to accept higher gas prices, which have soared since Iran closed Hormuz in response to US and Israeli attacks."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump threatens to declare strait of Hormuz \u2018territory of the United States\u2019",
+     "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
+     "author": "Maya Yang",
+     "kind": "news",
+     "published": "2026-08-14T21:38:17+00:00",
+     "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy \u200bposition, not clear Donald Trump has threatened to declare the strait of Hormuz as \u201ca territory of the United States\u201d as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would \u201cpretty soon\u201d designate the waterway \u2013 a crucial chokepoint for global trade, through which about a fifth of the world\u2019s seaborne oil supplies typically pass \u2013 a US territory. Continue reading..."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Trump Unveils Crackpot Scheme to Declare Waterway U.S. Territory",
+     "url": "https://www.thedailybeast.com/trump-wants-to-make-stretch-of-water-a-us-territory/",
+     "author": "Sarah Ewall-Wice",
+     "kind": "news",
+     "published": "2026-08-14T21:25:27+00:00",
+     "summary": "Samuel Corum/Getty Images President Donald Trump signaled the U.S. military could have a ramped-up presence in the Middle East to deal with Iran indefinitely as he sets his sights on a new \u201cterritory.\u201d Concern is deepening that the president has drawn the U.S. into a quagmire in the region as his war stretches into its sixth month and Trump struggles to reach a deal. Trump insisted while speaking on Long Island on Friday that Iran was being \u201cvery badly defeated\u201d after he has already repeatedly declared victory for months. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "reason",
+     "title": "Jeff Merkley Wants To Save Big Government From Donald Trump",
+     "url": "https://reason.com/2026/08/14/jeff-merkley-wants-to-save-big-government-from-donald-trump/",
+     "author": "Christian Britschgi",
+     "kind": "opinion",
+     "published": "2026-08-14T17:40:24+00:00",
+     "summary": "Jeff Merkley has a plan to save the republic from Donald Trump's \" authoritarian playbook \", or so says the senator from Oregon. \" This is a president trying to become a strongman authoritarian,\" said Merkley on the On NOTUS podcast this week. \"If we don't repair the Constitution, we don't have a republic.\" His \"For Our Republic Act\", which was introduced earlier this month , is a sprawling piece of legislation that aims at reversing many of the president's claims of executive authority and clamping down on some of the more novel forms of corruption we've seen under the president's second term. Its proposed reforms range from moving immigration judges from the executive branch to the judicial branch, requiring congressional approval of executive-led department shutterings and reorganizations, and banning executive officers from trading in prediction markets and hawking crypto products. While Merkley claims the bill is intended to check all presidents, and not just the current one, the legislation does often read as a list of particular Democratic grievances against Trump. It would prohibit the Federal Communications Commission (FCC) from revoking broadcast licenses or taking action"
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Trump Makes Unprecedented Move On The Strait Of Hormuz",
+     "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule",
+     "author": "Daily Wire",
+     "kind": "opinion",
+     "published": "2026-08-14T08:45:33+00:00",
+     "summary": null
+    }
+   ]
+  },
+  {
    "id": "c4875c03b6",
    "topic": "Other",
    "summary": "Jason Arday, the ex-Cambridge professor who sparked an international controversy over plagiarism allegations, was found dead Friday, according to multiple reports. BBC News reported that a man at a south London address was found \"unresponsive\" and that, according to the Metropolitan Police, \"a 41-year-old man was pronounced dead at the scene and his next of kin have been informed.\" \"At this time, his death is being treated as unexpected, but is not believed to be suspicious,\" Met Police said in a statement to BBC News. \"We are desperately saddened to hear this tragic news,\" Cambridge University Vice Chancellor Professor Deborah Prentice told Fox News Digital . \"Our heartfelt sympathies go to Jason Arday's family and friends at this incredibly difficult time.\" CAMBRIDGE UNIVERSITY PROFESSOR RESIGNS AFTER MAJOR PLAGIARISM ACCUSATIONS PROMPT INVESTIGATION The Metropolitan Police did not\u2026",
@@ -703,8 +665,8 @@
      "resigning"
     ],
     "indie": [
-     "university",
-     "centre"
+     "centre",
+     "university"
     ]
    },
    "absent": [
@@ -888,87 +850,134 @@
    ]
   },
   {
-   "id": "887b91ebd9",
-   "topic": "Politics",
-   "summary": "US President Donald Trump on Friday dismissed concerns about the toll on sailors aboard the aircraft carrier USS Abraham Lincoln, who have endured a record deployment of almost nine months, saying that the deployment had been \u201cnot nearly long enough\u201d. The Lincoln has been supporting the US war against Iran, and reports have emerged of sailors struggling with mental health issues.",
-   "summaryFrom": "france24",
+   "id": "bd2f9fee11",
+   "topic": "World",
+   "summary": "In 2021, after nearly two decades, the United States abruptly withdrew military forces from Afghanistan , causing the nation to fall back under Taliban control. Almost five years later, it\u2019s hard to forget the images of crowds of people clinging on to planes in a desperate attempt to escape what lay ahead for their country. In the aftermath, many conservative evangelicals and veterans\u2019 advocates stood up for Afghans fleeing persecution and violence. But the job remains unfinished. Now is the time to renew our efforts and push for a lasting solution for our Afghan neighbors. As the Taliban retook Kabul, those allies were suddenly in grave danger. Their ranks included many translators, drivers and others who became targets because they worked with the United States. Many turned to the U.S. for such a chance at safety, and in 2021, a multi-agency, public-private effort mobilized to rally\u2026",
+   "summaryFrom": "foxnews",
    "emphasis": {
-    "bigCount": 5,
-    "indieCount": 2,
-    "big": [],
+    "bigCount": 2,
+    "indieCount": 3,
+    "big": [
+     "afghanistan"
+    ],
     "indie": [
-     "concerns"
+     "facing",
+     "lives",
+     "women",
+     "rule"
     ]
    },
    "absent": [
-    "coop"
+    "corp",
+    "coop",
+    "nonprofit"
    ],
-   "headline": "Trump says record Navy deployment in Iran operations 'not nearly long enough'",
-   "updated": "2026-08-15T09:44:55+00:00",
-   "outletCount": 6,
+   "headline": "What the Taliban achieved and failed to achieve in five years",
+   "updated": "2026-08-15T11:07:05+00:00",
+   "outletCount": 5,
    "counts": {
-    "corp": 4,
-    "family": 1,
-    "pub": 1,
-    "nonprofit": 1
+    "pub": 3,
+    "family": 2
    },
-   "newsCount": 7,
+   "newsCount": 3,
+   "opinionCount": 2,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "What the Taliban achieved and failed to achieve in five years",
+     "url": "https://www.aljazeera.com/opinions/2026/8/15/what-the-taliban-achieved-and-failed-to-achieve-in-five-years?traffic_source=rss",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-15T11:07:05+00:00",
+     "summary": "The Taliban government brought security and stability but is facing increasing alienation of the general population."
+    },
+    {
+     "outlet": "france24",
+     "title": "Afghans rebuild their lives in France five years after Taliban takeover",
+     "url": "https://www.france24.com/en/afghans-rebuild-their-lives-in-france-five-years-after-taliban-takeover",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-15T09:13:06+00:00",
+     "summary": "Five years after the Taliban seized power, thousands of Afghans who fled to France are rebuilding their lives while facing challenges including language, housing and employment. For women like refugee doctor Fardina Samadi, France offers freedoms denied under Taliban rule, but rebuilding a career and integrating into French society remain difficult."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+     "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T18:25:38+00:00",
+     "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Taliban Boasts It Operates 40 Embassies and Consulates Five Years After Takeover",
+     "url": "https://www.breitbart.com/asia/2026/08/14/taliban-boasts-it-operates-40-embassies-and-consulates-five-years-after-takeover/",
+     "author": "Frances Martel",
+     "kind": "news",
+     "published": "2026-08-14T18:09:18+00:00",
+     "summary": "Taliban \"foreign minister\" Amir Khan Muttaqi boasted in an interview with the BBC this week that the terrorist organization, which will mark five years since seizing power in Afghanistan on Saturday, has expanded its diplomatic outreach to include over 40 embassies and consulates around the world. The post Taliban Boasts It Operates 40 Embassies and Consulates Five Years After Takeover appeared first on Breitbart ."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "America\u2019s promise to our Afghan allies is still unfinished five years later",
+     "url": "https://www.foxnews.com/opinion/americas-promise-afghan-allies-unfinished-five-years-later",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-14T09:00:12+00:00",
+     "summary": "In 2021, after nearly two decades, the United States abruptly withdrew military forces from Afghanistan , causing the nation to fall back under Taliban control. Almost five years later, it\u2019s hard to forget the images of crowds of people clinging on to planes in a desperate attempt to escape what lay ahead for their country. In the aftermath, many conservative evangelicals and veterans\u2019 advocates stood up for Afghans fleeing persecution and violence. But the job remains unfinished. Now is the time to renew our efforts and push for a lasting solution for our Afghan neighbors. As the Taliban retook Kabul, those allies were suddenly in grave danger. Their ranks included many translators, drivers and others who became targets because they worked with the United States. Many turned to the U.S. for such a chance at safety, and in 2021, a multi-agency, public-private effort mobilized to rally around our allies. Both our organizations support Afghan evacuees in different ways. World Relief, in coordination with hundreds of local churches, has spent years resettling Afghan families in American communities, and AfghanEvac has fought to bring home the mission partners who served alongside our "
+    }
+   ]
+  },
+  {
+   "id": "fe62922edd",
+   "topic": "World",
+   "summary": "Prolonged deployment is coupled with reports of water shortages, plumbing issues and attempts to jump overboard Trump downplays concerns about sailors onboard USS Abraham Lincoln US navy veterans and military health experts are expressing concerns about the strain on sailors aboard the USS Abraham Lincoln, which has spent nearly nine months at sea supporting US operations in the Middle East, amid reports of poor living conditions and worsening mental health among its crew. The San Diego-based aircraft carrier left port on 21 November, originally bound for the Pacific, but was redirected to the Middle East as the US-Israel war with Iran began. It has now spent more than 250 consecutive days at sea without a significant port visit, with its deployment repeatedly extended. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "US navy veterans and military health experts express concern over USS Abraham Lincoln sailors",
+   "updated": "2026-08-15T11:00:55+00:00",
+   "outletCount": 5,
+   "counts": {
+    "nonprofit": 1,
+    "corp": 2,
+    "family": 2
+   },
+   "newsCount": 5,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "cbsnews",
-     "title": "Trump says U.S. warship's 9-month deployment \"not nearly long enough\"",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
+     "outlet": "guardian",
+     "title": "US navy veterans and military health experts express concern over USS Abraham Lincoln sailors",
+     "url": "https://www.theguardian.com/us-news/2026/aug/15/uss-abraham-lincoln-sailors-mental-health",
+     "author": "Anna Betts",
+     "kind": "news",
+     "published": "2026-08-15T11:00:55+00:00",
+     "summary": "Prolonged deployment is coupled with reports of water shortages, plumbing issues and attempts to jump overboard Trump downplays concerns about sailors onboard USS Abraham Lincoln US navy veterans and military health experts are expressing concerns about the strain on sailors aboard the USS Abraham Lincoln, which has spent nearly nine months at sea supporting US operations in the Middle East, amid reports of poor living conditions and worsening mental health among its crew. The San Diego-based aircraft carrier left port on 21 November, originally bound for the Pacific, but was redirected to the Middle East as the US-Israel war with Iran began. It has now spent more than 250 consecutive days at sea without a significant port visit, with its deployment repeatedly extended. Continue reading..."
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Father of USS Abraham Lincoln Sailor Criticizes Trump&#039;s Iran &#039;Forever War&#039;",
+     "url": "https://www.newsweek.com/father-of-uss-abraham-lincoln-sailor-criticizes-trumps-iran-forever-war-12324639",
      "author": null,
      "kind": "news",
-     "published": "2026-08-15T09:44:55+00:00",
-     "summary": "The USS Abraham Lincoln has been deployed for almost nine months and is expected to be replaced in the Middle East."
+     "published": "2026-08-15T10:00:00+00:00",
+     "summary": "Jefferson Kelly&#039;s 20-year-old son has been on board the ship which is at the center of a debate around US Navy conditions."
     },
     {
-     "outlet": "latimes",
-     "title": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' amid outcry from families",
-     "url": "https://www.latimes.com/politics/story/2026-08-14/uss-abraham-lincoln-deployment-conditions-families-trump-hegseth",
-     "author": "Christopher Buchanan, Ana Ceballos",
+     "outlet": "nyt",
+     "title": "Navy and USS Lincoln\u2019s Problems Are Tied to Attacks on U.S. Base Early in War",
+     "url": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html",
+     "author": "John Ismay",
      "kind": "news",
-     "published": "2026-08-14T21:13:51+00:00",
-     "summary": "Lawmakers are pressing for answers amid reports that sailors aboard the San Diego-based carrier have endured food shortages, plumbing failures and severe fatigue."
-    },
-    {
-     "outlet": "slate",
-     "title": "Trump on Long-Suffering Sailors: \u201cNot Nearly Long Enough\u201d",
-     "url": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html?via=rss",
-     "author": "Ian Prasad Philbrick",
-     "kind": "news",
-     "published": "2026-08-14T21:09:49+00:00",
-     "summary": "Sailors are suffering. Trump and his team are denying it."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump says record USS Lincoln deployment 'not nearly long enough'",
-     "url": "https://abcnews.com/Politics/trump-record-uss-lincoln-deployment-long/story?id=135652552",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T20:32:04+00:00",
-     "summary": "Trump said USS Lincoln family members are not concerned about conditions."
-    },
-    {
-     "outlet": "france24",
-     "title": "Trump says record Navy deployment in Iran operations 'not nearly long enough'",
-     "url": "https://www.france24.com/en/middle-east/20260814-trump-says-record-navy-deployment-in-iran-operations-not-nearly-long-enough",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-14T20:17:38+00:00",
-     "summary": "US President Donald Trump on Friday dismissed concerns about the toll on sailors aboard the aircraft carrier USS Abraham Lincoln, who have endured a record deployment of almost nine months, saying that the deployment had been \u201cnot nearly long enough\u201d. The Lincoln has been supporting the US war against Iran, and reports have emerged of sailors struggling with mental health issues."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "WATCH: Trump says USS Lincoln's deployment was 'not nearly long enough'",
-     "url": "https://www.pbs.org/newshour/politics/watch-trump-says-uss-lincolns-deployment-was-not-nearly-long-enough",
-     "author": "Aamer Madhani, Associated Press",
-     "kind": "news",
-     "published": "2026-08-14T19:17:17+00:00",
-     "summary": "Trump refuted that family members have raised concerns about the deployment's length and even said that the more than 260-day deployment is \"not nearly long enough.\""
+     "published": "2026-08-14T22:35:07+00:00",
+     "summary": "Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy\u2019s logistics hub after Iran damaged a base in Bahrain."
     },
     {
      "outlet": "cbsnews",
@@ -978,6 +987,15 @@
      "kind": "news",
      "published": "2026-08-14T14:04:27+00:00",
      "summary": "The USS Abraham Lincoln has been at sea for nine months, and sailors have maintained a grueling pace amid the war in Iran."
+    },
+    {
+     "outlet": "wapo",
+     "title": "U.S. military has lost roughly 25% of its Reaper drones as Iran war depletes arsenal",
+     "url": "https://www.washingtonpost.com/national-security/2026/08/13/us-military-has-lost-roughly-25-its-reaper-drones-iran-war-depletes-arsenal/",
+     "author": "Tara  Copp, Noah Robertson",
+     "kind": "news",
+     "published": "2026-08-13T15:39:43+00:00",
+     "summary": "The aircraft, which cost up to $50 million each, have seen heavy use around the Strait of Hormuz \u2014 but they are relatively easy targets for Iran and its proxies."
     }
    ]
   },
@@ -1137,14 +1155,14 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "legal",
      "concerns",
+     "legal",
      "filed"
     ],
     "indie": [
-     "company",
      "announced",
-     "monetize"
+     "monetize",
+     "company"
     ]
    },
    "absent": [
@@ -1219,16 +1237,16 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "appeared",
-     "donald",
      "president",
+     "donald",
+     "appeared",
      "images",
-     "marco",
-     "birthday"
+     "photo",
+     "marco"
     ],
     "indie": [
-     "work",
-     "wall"
+     "wall",
+     "work"
     ]
    },
    "absent": [
@@ -1364,6 +1382,195 @@
    ]
   },
   {
+   "id": "267e6bad1f",
+   "topic": "Politics",
+   "summary": "FIRST ON FOX \u2014 The Kennedy Center Board of Trustees wants to name the famed arts institution\u2019s grounds the \"President Donald J. Trump Plaza,\" one of several new ways the board is seeking to honor the president as the center moves ahead with a sweeping renovation, Fox News Digital has learned. The board also wants the words \"Endowed by the Trump Kennedy Center Fund\" inscribed on the building once the fund reaches a $100 million endowment, according to information obtained by Fox News Digital. The previously unreported moves come after the board voted Thursday to add an inscription crediting Trump with restoring and renovating America's cultural center, and approved a partial closure of the complex for renovations. KENNEDY CENTER BOARD MEMBER KNOCKS SEN WHITEHOUSE FOR IGNORING INVITES AS DEM FEUDS WITH TRUMP-RUN LANDMARK The resolution recognizing Trump\u2019s contributions passed by a 20-3\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Kennedy Center board votes to put Trump's name back on building",
+   "updated": "2026-08-14T20:20:52+00:00",
+   "outletCount": 5,
+   "counts": {
+    "family": 3,
+    "pub": 1,
+    "corp": 1
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "EXCLUSIVE: Kennedy Center board moves to name grounds \u2018President Donald J Trump Plaza'",
+     "url": "https://www.foxnews.com/politics/exclusive-kennedy-center-board-moves-name-grounds-president-donald-j-trump-plaza",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T20:20:52+00:00",
+     "summary": "FIRST ON FOX \u2014 The Kennedy Center Board of Trustees wants to name the famed arts institution\u2019s grounds the \"President Donald J. Trump Plaza,\" one of several new ways the board is seeking to honor the president as the center moves ahead with a sweeping renovation, Fox News Digital has learned. The board also wants the words \"Endowed by the Trump Kennedy Center Fund\" inscribed on the building once the fund reaches a $100 million endowment, according to information obtained by Fox News Digital. The previously unreported moves come after the board voted Thursday to add an inscription crediting Trump with restoring and renovating America's cultural center, and approved a partial closure of the complex for renovations. KENNEDY CENTER BOARD MEMBER KNOCKS SEN WHITEHOUSE FOR IGNORING INVITES AS DEM FEUDS WITH TRUMP-RUN LANDMARK The resolution recognizing Trump\u2019s contributions passed by a 20-3 supermajority vote, while the partial-closure resolution passed 23-3, according to a source familiar with the matter. Sen. Sheldon Whitehouse , D-R.I., and Democratic Reps. Joyce Beatty of Ohio and Rick Larsen of Washington voted \"no\" on both resolutions, the source said. The board\u2019s resolution calls f"
+    },
+    {
+     "outlet": "bbc",
+     "title": "Kennedy Center board votes to put Trump's name back on building",
+     "url": "https://www.bbc.co.uk/news/articles/cn7n5l5xy5ro?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T22:21:36+00:00",
+     "summary": "The board on Thursday also voted to proceed with a two-year closure for proposed renovations, which was earlier blocked by a federal judge."
+    },
+    {
+     "outlet": "time",
+     "title": "Kennedy Center Board Votes to Put Trump's Name Back on the Building, Testing Judge's Order",
+     "url": "https://time.com/article/2026/08/13/kennedy-center-trump-name-board-vote-judge-order/",
+     "author": "Connor Greene",
+     "kind": "news",
+     "published": "2026-08-13T22:02:14+00:00",
+     "summary": "A person walks past scaffolding and a large protective tarp covering the facade of the John F. Kennedy Center for the Performing Arts, guarded by two security guards, in Washington, D.C., on August 13, 2026. \u2014Brendan Smialowski\u2014AFP/Getty Images The Kennedy Center boardseon Thursday voted to put President Donald Trump\u2019s name back on the building\u2019s facade, setting the stage to test a judge\u2019s order from May that mandated its removal. The board, made up of mostly Trump loyalists , voted 20-3 to change the name of the building to \u201cThe John F. Kennedy Center for the Performing Arts Restored and Renovated by President Donald J. Trump\u201d while naming the center\u2019s grounds \u201cPresident Donald J. Trump Plaza,\u201d according to attendees of Thursday\u2019s meeting who spoke to multiple media outlets. The board also once again voted to close the performing arts center for up to two years for renovations. Operations are set to shift to the REACH, another building on the campus, while they are completed. \u201cThis morning\u2019s decision to close the Center and the surprise agenda item to put Donald Trump\u2019s name back on the building was more of the same,\u201d Democratic Rep. Joyce Beatty of Ohio, an ex-officio board membe"
+    },
+    {
+     "outlet": "axios",
+     "title": "Kennedy Center board restores Trump's name, testing judge",
+     "url": "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order",
+     "author": "Cuneyt Dil",
+     "kind": "news",
+     "published": "2026-08-13T21:36:42+00:00",
+     "summary": "The Kennedy Center board voted Thursday to again add President Trump's name to the John F. Kennedy Center for the Performing Arts, two anonymous sources told Axios. Why it matters: The move challenges a federal judge's ruling back in May that only Congress could change the name of the performing arts venue, and that Trump's name must be removed . That process was completed in June. U.S. District Judge Christopher Cooper concluded that the board had \"overstepped its statutory bounds by unilaterally renaming\" the center after the president. The administration has appealed the ruling. Zoom in: Thursday's vote won't make Trump's name part of the complex. Instead, an inscription will go below the Kennedy Center sign that reads \"Restored and Renovated by President Donald J. Trump,\" and the physical site will be renamed \"the President Donald J. Trump Plaza.\" The decision is likely meant to circumvent both the judge's ruling and a federal law that oversees the Kennedy Center, which reads in part, \"no additional memorials or plaques in the nature of memorials shall be designated or installed in the public areas.\" \"This latest development is a transparent effort to circumvent the Court's rul"
+    },
+    {
+     "outlet": "theatlantic",
+     "title": "Trump\u2019s New Plan to Get His Name Back on the Kennedy Center",
+     "url": "https://www.theatlantic.com/culture/2026/08/kennedy-center-trump-board/688276/?utm_source=feed",
+     "author": "Janay Kingsberry",
+     "kind": "news",
+     "published": "2026-08-13T20:38:00+00:00",
+     "summary": "Donald Trump just won\u2019t let go of his plans for the Kennedy Center. Less than three months after a federal judge ordered the president\u2019s name stripped from the national arts center, Trump\u2019s handpicked trustees have found a new way to try to put him back on the building. During a board meeting today, they voted in favor of a resolution that would return the president\u2019s name to the building\u2019s facade. It would read: The John F. Kennedy Memorial Center for the Performing Arts Restored and Renovated by President Donald Trump I obtained a copy of the resolution, which contains one more edit to the Kennedy Center\u2019s marble edifice. Once an obscure endowment known as the Trump Kennedy Center Fund reaches $100 million in donations, the resolution would expand the proposed signage\u2019s language to include a third line: Endowed by the Trump Kennedy Center Fund . The vote, which was not included on the agenda distributed before the meeting, will likely drag out a legal fight over Trump\u2019s transformation of the center and deepen an institutional crisis that has repelled audiences, artists, and donors since his takeover. Participants voted 20\u20133 to adopt the resolution, one person familiar with today\u2019"
+    }
+   ]
+  },
+  {
+   "id": "13c9ba8298",
+   "topic": "Justice & Policing",
+   "summary": "In 2022, Assistant Chief Adam Glueck, of the Cape Girardeau Police Department in southeastern Missouri, purchased electric shock gloves for his officers after learning about them at a trade show. And his employees, he said, couldn\u2019t get enough of them. \u201cIf I try to take away the gloves from those officers at this point I think we may have a mutiny on our hands,\u201d Glueck joked on a podcast interview a couple of years later. \u201cThey\u2019ve grown really attached.\u201d&nbsp; The shock gloves, he went on to explain, allow their wearer to inflict pain without leaving the sort of marks that could look bad to witnesses or leave an officer vulnerable to lawsuits.&nbsp; \u201cIn today&#8217;s society, you know, everybody&#8217;s filming everything, everybody has a cell phone,\u201d Glueck said. If an officer punches someone on camera, that can go viral in an instant; even a standard taser leaves puncture wounds. But\u2026",
+   "summaryFrom": "motherjones",
+   "emphasis": null,
+   "absent": [
+    "family"
+   ],
+   "headline": "The Orwellian Company Behind ICE\u2019s New Electric Shock Gloves",
+   "updated": "2026-08-15T11:30:00+00:00",
+   "outletCount": 4,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 1,
+    "coop": 1,
+    "corp": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "motherjones",
+     "title": "The Orwellian Company Behind ICE\u2019s New Electric Shock Gloves",
+     "url": "https://www.motherjones.com/politics/2026/08/ice-shock-gloves-torture-compliant-technologies-jeff-niklaus/",
+     "author": "Sophie Hurwitz",
+     "kind": "news",
+     "published": "2026-08-15T11:30:00+00:00",
+     "summary": "In 2022, Assistant Chief Adam Glueck, of the Cape Girardeau Police Department in southeastern Missouri, purchased electric shock gloves for his officers after learning about them at a trade show. And his employees, he said, couldn\u2019t get enough of them. \u201cIf I try to take away the gloves from those officers at this point I think we may have a mutiny on our hands,\u201d Glueck joked on a podcast interview a couple of years later. \u201cThey\u2019ve grown really attached.\u201d&nbsp; The shock gloves, he went on to explain, allow their wearer to inflict pain without leaving the sort of marks that could look bad to witnesses or leave an officer vulnerable to lawsuits.&nbsp; \u201cIn today&#8217;s society, you know, everybody&#8217;s filming everything, everybody has a cell phone,\u201d Glueck said. If an officer punches someone on camera, that can go viral in an instant; even a standard taser leaves puncture wounds. But \u201cthe glove is low optic, and it looks better on camera, and it looks better to those witnesses. With a glove, there are no burn marks or scars.\u201d&nbsp; The gloves, manufactured by a company called Compliant Technologies, have been used by police, sheriffs, jail wardens, and even school resource office"
+    },
+    {
+     "outlet": "bbc",
+     "title": "Watch: Why are ICE agents getting controversial shock gloves?",
+     "url": "https://www.bbc.co.uk/news/videos/c4gv9w7p347o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-12T21:33:40+00:00",
+     "summary": "The BBC\u2019s Sarah Smith looks at what the new equipment could mean for the agency as tensions over immigration enforcement continue to escalate."
+    },
+    {
+     "outlet": "404media",
+     "title": "Here's the Manual for ICE's Electric Shock Gloves",
+     "url": "https://www.404media.co/heres-the-manual-for-ices-electric-shock-gloves/",
+     "author": "Joseph Cox",
+     "kind": "news",
+     "published": "2026-08-12T20:39:23+00:00",
+     "summary": "Immigration and Customs Enforcement (ICE) plans to spend tens of millions of dollars on buying specialized gloves that pulse with electrical energy, which make it easier for agents to subdue people, the Associated Press reported on Tuesday . A user manual for G.L.O.V.E, or Generated Low Output Voltage Emitter, sold by a company called Compliant Technologies, provides more specifics on how the gloves are supposed to work and allegedly be used. &#x1f4a1; Do you know anything else about this device? I would love to hear from you. Using a non-work device, you can message me securely on Signal at joseph.404 or send me an email at joseph@404media.co."
+    },
+    {
+     "outlet": "axios",
+     "title": "ICE plans to put electric-shock gloves on officers' hands",
+     "url": "https://www.axios.com/2026/08/12/ice-electric-shock-gloves-millions",
+     "author": "Avery Lotz",
+     "kind": "news",
+     "published": "2026-08-12T17:54:18+00:00",
+     "summary": "Immigration and Customs Enforcement plans to begin using electric shock gloves designed to cause pain and disrupt a person's ability to react. The big picture: The gloves could give ICE officers a new way to use force as their tactics face intense scrutiny after several deaths and violent encounters . Driving the news: ICE plans to spend between $10 and $20 million on the gloves and issue them to Homeland Security Investigations and Enforcement Removal Operations officers and agents, per a Department of Homeland Security notice published Monday. The Associated Press was first to report the plan. The CTG-5 Generated Low Output Voltage Emitter, or G.L.O.V.E, is produced by Kentucky-based Compliant Technologies, which declined to comment. The device's user guide says it should not be used against verbal defiance or as a form of punishment. The manufacturer advises against using it on the elderly, children, pregnant women and those with serious disabilities. Friction point: Jenn Rolnick Borchetta, ACLU's deputy director on policing, raised concerns about how immigration agents could use the device. \"ICE spent the last year showing this country that they are willing to disregard the law"
+    }
+   ]
+  },
+  {
+   "id": "5fe4072bf5",
+   "topic": "World",
+   "summary": "Two airstrikes reportedly hit homes in Ansar and Deir al-Zahrani with rescue services trying to find survivors Nine people have been killed, including three children, and 11 injured in two Israeli airstrikes on south Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar in south Lebanon, killing seven people early on Saturday morning, flattening the home. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Israeli strikes on south Lebanon kill nine in worst toll since June",
+   "updated": "2026-08-15T11:00:50+00:00",
+   "outletCount": 4,
+   "counts": {
+    "family": 1,
+    "nonprofit": 1,
+    "pub": 2
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "Israeli Strikes in Lebanon Kill 9, Health Officials Say",
+     "url": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
+     "author": "Abdi Latif Dahir",
+     "kind": "news",
+     "published": "2026-08-15T11:00:50+00:00",
+     "summary": "The Lebanese health ministry said several children were killed in a strike overnight, one of the deadliest attacks in months. Israel\u2019s military said it was targeting Hezbollah infrastructure."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israeli strikes on south Lebanon kill nine in worst toll since June",
+     "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
+     "author": "William Christou",
+     "kind": "news",
+     "published": "2026-08-15T10:48:33+00:00",
+     "summary": "Two airstrikes reportedly hit homes in Ansar and Deir al-Zahrani with rescue services trying to find survivors Nine people have been killed, including three children, and 11 injured in two Israeli airstrikes on south Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar in south Lebanon, killing seven people early on Saturday morning, flattening the home. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading..."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Israeli strikes kill nine in southern Lebanon as attacks intensify",
+     "url": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T07:18:13+00:00",
+     "summary": "Deadliest Israeli attack in Lebanon since June agreements significantly reduced hostilities."
+    },
+    {
+     "outlet": "france24",
+     "title": "Middle East live: Israel strikes Lebanon in deadliest attack since June",
+     "url": "https://www.france24.com/en/middle-east/20260815-middle-east-live-trump-threatens-us-takeover-of-hormuz-as-iran-vows-to-retain-control",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-15T05:12:23+00:00",
+     "summary": "Seven people were killed and at least three injured in an Israeli air strike in southern Lebanon on Saturday, Lebanon's state news \u200cagency said. It is the worst toll since deals in June saw a lull in hostilities between Israel and Hezbollah. Follow our live blog for the latest updates."
+    }
+   ]
+  },
+  {
    "id": "93c3d10044",
    "topic": "Politics",
    "summary": "Florida Gov. Ron DeSantis on Friday became the latest elected Republican to declare he would not support Rep. Cory Mills's (R) reelection bid in Florida's 7th Congressional District. \u201cI have not endorsed Cory Mills, and I do not support Cory Mills,\u201d the Florida governor said when asked during a Friday press conference, captured by C-SPAN...",
@@ -1424,77 +1631,6 @@
    ]
   },
   {
-   "id": "f0d0cec2a4",
-   "topic": "World",
-   "summary": "In 2021, after nearly two decades, the United States abruptly withdrew military forces from Afghanistan , causing the nation to fall back under Taliban control. Almost five years later, it\u2019s hard to forget the images of crowds of people clinging on to planes in a desperate attempt to escape what lay ahead for their country. In the aftermath, many conservative evangelicals and veterans\u2019 advocates stood up for Afghans fleeing persecution and violence. But the job remains unfinished. Now is the time to renew our efforts and push for a lasting solution for our Afghan neighbors. As the Taliban retook Kabul, those allies were suddenly in grave danger. Their ranks included many translators, drivers and others who became targets because they worked with the United States. Many turned to the U.S. for such a chance at safety, and in 2021, a multi-agency, public-private effort mobilized to rally\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [
-     "afghanistan"
-    ],
-    "indie": [
-     "rule",
-     "women",
-     "lives"
-    ]
-   },
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Afghans rebuild their lives in France five years after Taliban takeover",
-   "updated": "2026-08-15T09:13:06+00:00",
-   "outletCount": 4,
-   "counts": {
-    "pub": 2,
-    "family": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "Afghans rebuild their lives in France five years after Taliban takeover",
-     "url": "https://www.france24.com/en/afghans-rebuild-their-lives-in-france-five-years-after-taliban-takeover",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-15T09:13:06+00:00",
-     "summary": "Five years after the Taliban seized power, thousands of Afghans who fled to France are rebuilding their lives while facing challenges including language, housing and employment. For women like refugee doctor Fardina Samadi, France offers freedoms denied under Taliban rule, but rebuilding a career and integrating into French society remain difficult."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-     "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T18:25:38+00:00",
-     "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Taliban Boasts It Operates 40 Embassies and Consulates Five Years After Takeover",
-     "url": "https://www.breitbart.com/asia/2026/08/14/taliban-boasts-it-operates-40-embassies-and-consulates-five-years-after-takeover/",
-     "author": "Frances Martel",
-     "kind": "news",
-     "published": "2026-08-14T18:09:18+00:00",
-     "summary": "Taliban \"foreign minister\" Amir Khan Muttaqi boasted in an interview with the BBC this week that the terrorist organization, which will mark five years since seizing power in Afghanistan on Saturday, has expanded its diplomatic outreach to include over 40 embassies and consulates around the world. The post Taliban Boasts It Operates 40 Embassies and Consulates Five Years After Takeover appeared first on Breitbart ."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "America\u2019s promise to our Afghan allies is still unfinished five years later",
-     "url": "https://www.foxnews.com/opinion/americas-promise-afghan-allies-unfinished-five-years-later",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-14T09:00:12+00:00",
-     "summary": "In 2021, after nearly two decades, the United States abruptly withdrew military forces from Afghanistan , causing the nation to fall back under Taliban control. Almost five years later, it\u2019s hard to forget the images of crowds of people clinging on to planes in a desperate attempt to escape what lay ahead for their country. In the aftermath, many conservative evangelicals and veterans\u2019 advocates stood up for Afghans fleeing persecution and violence. But the job remains unfinished. Now is the time to renew our efforts and push for a lasting solution for our Afghan neighbors. As the Taliban retook Kabul, those allies were suddenly in grave danger. Their ranks included many translators, drivers and others who became targets because they worked with the United States. Many turned to the U.S. for such a chance at safety, and in 2021, a multi-agency, public-private effort mobilized to rally around our allies. Both our organizations support Afghan evacuees in different ways. World Relief, in coordination with hundreds of local churches, has spent years resettling Afghan families in American communities, and AfghanEvac has fought to bring home the mission partners who served alongside our "
-    }
-   ]
-  },
-  {
    "id": "e6f0e6556f",
    "topic": "Justice & Policing",
    "summary": "FIRST ON FOX: Texas Gov. Greg Abbott on Friday directed a review of state grants to entities operating two major Texas airports over religious accommodations after Dallas Fort Worth International Airport said it would no longer move forward with a proposal to install Islamic washing stations. Abbott said the state will review grants to entities operating DFW and George Bush Intercontinental Airport in Houston for possible revocation and denial of future funding. He also referred both airports to the U.S. Department of Transportation for investigation. \"Government-owned airports cannot favor one religion over all others,\" Abbott wrote on X Friday. \"DFW plans to install Islamic wudu washing facilities are illegal. I've directed a review of all state grants to both airports for possible revocation, and referred DFW &amp; IAH to USDOT for investigation. \"Texas will not allow illegal\u2026",
@@ -1506,9 +1642,9 @@
      "airport",
      "review",
      "foot-washing",
-     "scraps",
+     "controversial",
      "ordered",
-     "grants"
+     "scraps"
     ],
     "indie": [
      "order"
@@ -1583,66 +1719,6 @@
      "kind": "news",
      "published": "2026-08-13T23:36:55+00:00",
      "summary": "The Trump administration declined to immediately appeal a ruling by a federal judge in Lubbock that invalidated parts of the 1934 National Firearms Act."
-    }
-   ]
-  },
-  {
-   "id": "8e7934e6a9",
-   "topic": "Justice & Policing",
-   "summary": "Six people, including a suspected gunman, are dead in rural Missaukee County, Michigan , after a multi-scene shooting, according to state police. Earlier Friday, Michigan State Police shared on social media that officers were investigating a shooting in the area that was reported just before noon and that authorities were looking for Chad Hickman, 39, who they said should be considered \"armed and dangerous.\" Officers began investigating Friday morning when three people were found dead and another was wounded at a home near LaChance Road and Kelly Road in Richland Township. Missaukee County is located roughly three hours north of Detroit. NEW YORK STATE POLICE LAUNCH MANHUNT AFTER KILLING, HOUSE FIRE FOR 'ARMED AND DANGEROUS' SUSPECT A fourth person was found dead in another home. State police said that Hickman's car was seen near a wooded area where his body and that of another victim\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "At least six people dead and one wounded in mass shooting in rural Michigan",
-   "updated": "2026-08-15T05:23:35+00:00",
-   "outletCount": 4,
-   "counts": {
-    "corp": 2,
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Five people killed in Northern Michigan, officials say; suspect found dead",
-     "url": "https://www.cbsnews.com/news/police-investigate-homicide-northern-michigan-missaukee-county/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T05:23:35+00:00",
-     "summary": "Authorities are investigating the killings of five people Friday in rural Northern Michigan, officials said. The suspect in the case was also found dead."
-    },
-    {
-     "outlet": "guardian",
-     "title": "At least six people dead and one wounded in mass shooting in rural Michigan",
-     "url": "https://www.theguardian.com/us-news/2026/aug/14/michigan-mass-shooting-missaukee-county",
-     "author": "Uwa Ede-Osifo",
-     "kind": "news",
-     "published": "2026-08-14T23:32:00+00:00",
-     "summary": "Suspected gunman fled the scene, prompting a manhunt, before he and another individual were found deceased A mass shooting on Friday has left six people dead, including the suspected gunman, in Missaukee county, a rural area of northern Michigan, according to state police. Another person is in critical condition at a local hospital. Michigan state police identified the suspected gunman as 39-year-old Chad Hickman in a statement posted on social media. Continue reading..."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "5 people killed in rural Michigan; suspect found dead",
-     "url": "https://www.nbcnews.com/news/us-news/5-people-killed-rural-michigan-suspect-found-deceased-rcna592625",
-     "author": "Dennis Romero",
-     "kind": "news",
-     "published": "2026-08-14T23:27:29+00:00",
-     "summary": "Five people were found dead in rural northern Michigan on Friday, state police said."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Several people dead, including suspect, in rural Michigan multi-scene shooting: police",
-     "url": "https://www.foxnews.com/us/several-people-dead-including-suspect-rural-michigan-multi-scene-shooting-police",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T22:47:42+00:00",
-     "summary": "Six people, including a suspected gunman, are dead in rural Missaukee County, Michigan , after a multi-scene shooting, according to state police. Earlier Friday, Michigan State Police shared on social media that officers were investigating a shooting in the area that was reported just before noon and that authorities were looking for Chad Hickman, 39, who they said should be considered \"armed and dangerous.\" Officers began investigating Friday morning when three people were found dead and another was wounded at a home near LaChance Road and Kelly Road in Richland Township. Missaukee County is located roughly three hours north of Detroit. NEW YORK STATE POLICE LAUNCH MANHUNT AFTER KILLING, HOUSE FIRE FOR 'ARMED AND DANGEROUS' SUSPECT A fourth person was found dead in another home. State police said that Hickman's car was seen near a wooded area where his body and that of another victim were then found. Fox News Digital has reached out to Michigan State Police . Police said there is no ongoing danger to the public. \"Not only is this difficult for our investigators and our troopers, but it's very hard for this community. You know, this type of loss is tragic,\" MSP Public Information O"
     }
    ]
   },
@@ -1971,8 +2047,8 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "announced",
      "trump",
+     "announced",
      "role"
     ],
     "indie": []
@@ -2032,27 +2108,36 @@
    ]
   },
   {
-   "id": "f39d4c878e",
+   "id": "267bc94440",
    "topic": "World",
-   "summary": "Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from Middle East hubs South Korea\u2019s Incheon airport has become the world\u2019s busiest airport for international passengers, in part owing to disruption in the Middle East caused by the Iran war. The airport, South Korea\u2019s main gateway, about 30 miles (48km) west of Seoul, handled 38.39 million international passengers in the first half of 2026, according to preliminary figures compiled by the Airports Council International (ACI), the global trade body for airports. Continue reading...",
-   "summaryFrom": "guardian",
+   "summary": "Japan\u2019s defense minister visited a shrine seen by Japan\u2019s neighbors as a symbol of its wartime militarism, drawing condemnation from China following months of tension between the countries.",
+   "summaryFrom": "bloomberg",
    "emphasis": null,
    "absent": [
     "corp",
-    "family",
-    "coop"
+    "coop",
+    "nonprofit"
    ],
-   "headline": "South Korea proposes talks to officially end war with North",
-   "updated": "2026-08-15T09:35:23+00:00",
+   "headline": "Japanese minister visits shrine to war dead, angering China, South Korea",
+   "updated": "2026-08-15T11:09:27+00:00",
    "outletCount": 3,
    "counts": {
     "pub": 2,
-    "nonprofit": 1
+    "family": 1
    },
    "newsCount": 3,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Japanese minister visits shrine to war dead, angering China, South Korea",
+     "url": "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T11:09:27+00:00",
+     "summary": "Defence Minister Koizumi&#039;s visit to Yasukuni Shrine comes on the 81st anniversary of Japan&#039;s surrender in WWII."
+    },
     {
      "outlet": "bbc",
      "title": "South Korea proposes talks to officially end war with North",
@@ -2063,22 +2148,64 @@
      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953."
     },
     {
-     "outlet": "aljazeera",
-     "title": "South Korea\u2019s president wants talks with North to end Korean War",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss",
+     "outlet": "bloomberg",
+     "title": "Japan Defense Minister Visits Yasukuni During China Tensions",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-15/japan-defense-minister-visits-yasukuni-as-china-tensions-simmer",
+     "author": "Taiga Uranaka",
+     "kind": "news",
+     "published": "2026-08-15T00:47:22+00:00",
+     "summary": "Japan\u2019s defense minister visited a shrine seen by Japan\u2019s neighbors as a symbol of its wartime militarism, drawing condemnation from China following months of tension between the countries."
+    }
+   ]
+  },
+  {
+   "id": "9219c5838d",
+   "topic": "World",
+   "summary": "A powerful 7.7-magnitude earthquake struck off Indonesia\u2019s eastern Flores island early Saturday, leaving at least 38 people dead and several others trapped beneath collapsed buildings. Emergency crews are racing to reach affected communities as landslides blocked roads and residents fled to higher ground amid fears of a tsunami.",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Deadly earthquake strikes Indonesia and triggers mass evacuations",
+   "updated": "2026-08-15T10:42:37+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "pub": 2
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "Videos Show Moment Building Collapses As Deadly Earthquake Hits Indonesia",
+     "url": "https://www.newsweek.com/videos-show-moment-building-collapses-as-deadly-earthquake-hits-indonesia-12326750",
      "author": null,
      "kind": "news",
-     "published": "2026-08-15T06:53:28+00:00",
-     "summary": "South Korean President Lee Jae Myung has proposed talks with North Korea to formally end the Korean War."
+     "published": "2026-08-15T10:42:37+00:00",
+     "summary": "Videos shared to social media show the impact of the 7.7 magnitude earthquake that hit Indonesia."
     },
     {
-     "outlet": "guardian",
-     "title": "South Korean airport becomes busiest in world for global traffic amid Iran war",
-     "url": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east",
-     "author": "Raphael Rashid in Seoul",
+     "outlet": "france24",
+     "title": "Deadly earthquake strikes Indonesia and triggers mass evacuations",
+     "url": "https://www.france24.com/en/asia-pacific/20260815-deadly-earthquake-strikes-indonesia-and-triggers-mass-evacuations",
+     "author": "FRANCE 24",
      "kind": "news",
-     "published": "2026-08-13T09:45:56+00:00",
-     "summary": "Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from Middle East hubs South Korea\u2019s Incheon airport has become the world\u2019s busiest airport for international passengers, in part owing to disruption in the Middle East caused by the Iran war. The airport, South Korea\u2019s main gateway, about 30 miles (48km) west of Seoul, handled 38.39 million international passengers in the first half of 2026, according to preliminary figures compiled by the Airports Council International (ACI), the global trade body for airports. Continue reading..."
+     "published": "2026-08-15T05:36:19+00:00",
+     "summary": "A powerful 7.7-magnitude earthquake struck off Indonesia\u2019s eastern Flores island early Saturday, leaving at least 38 people dead and several others trapped beneath collapsed buildings. Emergency crews are racing to reach affected communities as landslides blocked roads and residents fled to higher ground amid fears of a tsunami."
+    },
+    {
+     "outlet": "dw",
+     "title": "Indonesia: Strong earthquake hits off coast of Flores island",
+     "url": "https://www.dw.com/en/indonesia-strong-earthquake-hits-off-coast-of-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T23:45:00+00:00",
+     "summary": "At least 20 people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftershocks. A tsunami warning has been lifted."
     }
    ]
   },
@@ -2134,53 +2261,53 @@
    ]
   },
   {
-   "id": "3dcdb27e4f",
-   "topic": "Health",
-   "summary": "The US has issued a serious health warning over the recalled eggs, saying exposure to the potentially contaminated products could cause severe illness or death.",
-   "summaryFrom": "dw",
+   "id": "8e7934e6a9",
+   "topic": "Other",
+   "summary": "Suspected gunman fled the scene, prompting a manhunt, before he and another individual were found deceased A mass shooting on Friday has left six people dead, including the suspected gunman, in Missaukee county, a rural area of northern Michigan, according to state police. Another person is in critical condition at a local hospital. Michigan state police identified the suspected gunman as 39-year-old Chad Hickman in a statement posted on social media. Continue reading...",
+   "summaryFrom": "guardian",
    "emphasis": null,
    "absent": [
+    "family",
     "coop",
-    "nonprofit"
+    "pub"
    ],
-   "headline": "US: FDA recalls 19 million eggs over Salmonella risk",
-   "updated": "2026-08-15T03:49:00+00:00",
+   "headline": "At least six people dead and one wounded in mass shooting in rural Michigan",
+   "updated": "2026-08-15T05:23:35+00:00",
    "outletCount": 3,
    "counts": {
-    "pub": 1,
-    "family": 1,
-    "corp": 1
+    "corp": 2,
+    "nonprofit": 1
    },
    "newsCount": 3,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "dw",
-     "title": "US: FDA recalls 19 million eggs over Salmonella risk",
-     "url": "https://www.dw.com/en/us-fda-recalls-19-million-eggs-over-salmonella-risk/a-78378361?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T03:49:00+00:00",
-     "summary": "The US has issued a serious health warning over the recalled eggs, saying exposure to the potentially contaminated products could cause severe illness or death."
-    },
-    {
-     "outlet": "forbes",
-     "title": "1.5 Million Egg Cartons Recalled\u2014Alert Receives High Risk Designation From FDA",
-     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/14/15-million-egg-cartons-recalled-alert-receives-high-risk-designation-from-fda/",
-     "author": "Antonio Peque\u00f1o IV, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-14T19:37:32+00:00",
-     "summary": "The recall was announced in July and impacted states including Texas, Oklahoma, Arkansas, Louisiana, New Mexico and Mississippi."
-    },
-    {
      "outlet": "cbsnews",
-     "title": "Walmart tomato soup kits recalled over Listeria risk, FDA says",
-     "url": "https://www.cbsnews.com/news/walmart-tomato-soup-kits-listeria-recall/",
+     "title": "Five people killed in Northern Michigan, officials say; suspect found dead",
+     "url": "https://www.cbsnews.com/news/police-investigate-homicide-northern-michigan-missaukee-county/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-14T18:04:07+00:00",
-     "summary": "The 14oz soup kits were distributed at Walmart stores in 29 states between June 30 and July 7, according to the FDA."
+     "published": "2026-08-15T05:23:35+00:00",
+     "summary": "Authorities are investigating the killings of five people Friday in rural Northern Michigan, officials said. The suspect in the case was also found dead."
+    },
+    {
+     "outlet": "guardian",
+     "title": "At least six people dead and one wounded in mass shooting in rural Michigan",
+     "url": "https://www.theguardian.com/us-news/2026/aug/14/michigan-mass-shooting-missaukee-county",
+     "author": "Uwa Ede-Osifo",
+     "kind": "news",
+     "published": "2026-08-14T23:32:00+00:00",
+     "summary": "Suspected gunman fled the scene, prompting a manhunt, before he and another individual were found deceased A mass shooting on Friday has left six people dead, including the suspected gunman, in Missaukee county, a rural area of northern Michigan, according to state police. Another person is in critical condition at a local hospital. Michigan state police identified the suspected gunman as 39-year-old Chad Hickman in a statement posted on social media. Continue reading..."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "5 people killed in rural Michigan; suspect found dead",
+     "url": "https://www.nbcnews.com/news/us-news/5-people-killed-rural-michigan-suspect-found-deceased-rcna592625",
+     "author": "Dennis Romero",
+     "kind": "news",
+     "published": "2026-08-14T23:27:29+00:00",
+     "summary": "Five people were found dead in rural northern Michigan on Friday, state police said."
     }
    ]
   },
@@ -2389,6 +2516,57 @@
    ]
   },
   {
+   "id": "ad774f0314",
+   "topic": "Politics",
+   "summary": "WASHINGTON \u2014 President Donald Trump promised Friday that authorities are on the &#8220;trail&#8221; of vandals who graffitied the World War II Memorial. &#8220;Our beautiful World War II Memorial was just hit by Spray Painting Vandals,&#8221; the president wrote on Truth Social Friday morning. &#8220;THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD WAR II,&#8221; Trump added. &#8220;First the Reflecting Pool, now this. We are on their trail! Where do these animals come from???&#8221; Vandals spray-painted red graffiti on the memorial on Thursday, with the message &#8220;Clean Hands Dirty $,&#8221; and filled the memorial&#8217;s fountain with soap and bubbles. U.S. Park Police are investigating the vandalism. The White House referred The Daily Wire to the Department of the Interior when asked to comment on the matter. In a statement, Interior called the\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Woman arrested after second world war memorial in DC vandalized",
+   "updated": "2026-08-14T19:04:23+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "DOJ Charges Kentucky Woman in World War II Memorial Vandalism Case",
+     "url": "https://www.nytimes.com/2026/08/14/us/politics/world-war-2-memorial-vandalism.html",
+     "author": "Karoun Demirjian",
+     "kind": "news",
+     "published": "2026-08-14T19:04:23+00:00",
+     "summary": "Two felony charges have been filed against a Kentucky woman after spray paint was seen on the memorial in the capital."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Woman arrested after second world war memorial in DC vandalized",
+     "url": "https://www.theguardian.com/us-news/2026/aug/14/world-war-two-memorial-dc-vandalism",
+     "author": "Edward Helmore",
+     "kind": "news",
+     "published": "2026-08-14T18:43:30+00:00",
+     "summary": "Suspect faces two felony charges after memorial filled with bubbles and spray-paint reading \u2018Clean hands Dirty $\u2019 A woman was arrested on Friday morning in connection with the vandalization of the National World War Two Memorial on the National Mall in Washington DC , the capital\u2019s federal prosecutor announced. Jeanine Pirro, the US attorney for the District of Columbia, announced mid-morning that a suspect was in custody and had been charged with federal crimes. Continue reading..."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Trump Vows Authorities Will Track Down \u2018Animals\u2019 Who Desecrated World War II Memorial",
+     "url": "https://www.dailywire.com/news/trump-vows-authorities-will-track-down-animals-who-desecrated-world-war-ii-memorial",
+     "author": "Mary Margaret Olohan",
+     "kind": "opinion",
+     "published": "2026-08-14T11:08:46+00:00",
+     "summary": "WASHINGTON \u2014 President Donald Trump promised Friday that authorities are on the &#8220;trail&#8221; of vandals who graffitied the World War II Memorial. &#8220;Our beautiful World War II Memorial was just hit by Spray Painting Vandals,&#8221; the president wrote on Truth Social Friday morning. &#8220;THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD WAR II,&#8221; Trump added. &#8220;First the Reflecting Pool, now this. We are on their trail! Where do these animals come from???&#8221; Vandals spray-painted red graffiti on the memorial on Thursday, with the message &#8220;Clean Hands Dirty $,&#8221; and filled the memorial&#8217;s fountain with soap and bubbles. U.S. Park Police are investigating the vandalism. The White House referred The Daily Wire to the Department of the Interior when asked to comment on the matter. In a statement, Interior called the vandalism an &#8220;utter disgrace&#8221; and said the public deserves to know who was responsible. \u201cThe vandalism that occurred is an utter disgrace and will not be tolerated,\u201d an Interior Department spokesperson said in a statement. \u201cThe public should know we will find the person responsible for this disgu"
+    }
+   ]
+  },
+  {
    "id": "bcacbe2f5f",
    "topic": "Politics",
    "summary": "The son of former Mexican President Andres Manuel Lopez Obrador sent a rage-filled letter to U.S. President Donald Trump claiming that Secretary of State Marco Rubio and Deputy SOS Christopher Landau had acted in a Hitlerian manner by revoking his tourist visa as part of a political witch hunt aimed at targeting his father and Mexico\u2019s ruling party MORENA. The post Former Mexican President AMLO\u2019s Son&#8217;s U.S. Visa Revoked, Claims Innocence, Calls Marco Rubio Hitlerian Thug appeared first on Breitbart .",
@@ -2491,6 +2669,174 @@
    ]
   },
   {
+   "id": "f5147cc608",
+   "topic": "World",
+   "summary": "An overnight Israeli strike on a family home in Ansar, southern Lebanon, killed at least seven people.",
+   "summaryFrom": "aljazeera",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+   "updated": "2026-08-15T11:24:24+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+     "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T11:24:24+00:00",
+     "summary": "Among those killed in the strike on Ansar included three children and two women, state media reports."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "At scene of deadly Israeli strike on Lebanon home",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T10:18:40+00:00",
+     "summary": "An overnight Israeli strike on a family home in Ansar, southern Lebanon, killed at least seven people."
+    }
+   ]
+  },
+  {
+   "id": "c9e2da8a2c",
+   "topic": "Justice & Policing",
+   "summary": "\"It's kind of a cultural obsession,\" said Boston-based criminal defense attorney Peter Elikann. The Massachusetts mother at the center of an ongoing murder trial for the killings of her three children is captivating the internet and social media. Lindsay Clancy, 35, faces three counts of first-degree murder after her three children, Cora, Dawson and Callan \u2013 all under 6 years old \u2013 were found strangled to death in the family's Duxbury home in 2023. POSTPARTUM MOM LINDSAY CLANCY ON TRIAL FOR MURDER BRINGS COURT TO A HALT WITH SUDDEN BREAKDOWN She doesn't deny killing them; Clancy and her defense team maintain she was suffering from ongoing postpartum psychosis at the time of their deaths. She entered a plea of not guilty by reason of insanity. \"This isn't a case of having the blues, being down in the dumps and being depressed,\" Elikann, who is not involved in the trial, told Fox News\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Lindsay Clancy murder trial: prosecutors revive theory of faked suicide attempt",
+   "updated": "2026-08-15T11:00:56+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Lindsay Clancy murder trial: prosecutors revive theory of faked suicide attempt",
+     "url": "https://www.theguardian.com/us-news/2026/aug/15/lindsay-clancy-murder-trial-prosecutors",
+     "author": "Edward Helmore",
+     "kind": "news",
+     "published": "2026-08-15T11:00:56+00:00",
+     "summary": "Prosecutors pointed to internet searches made on the family computer in the months before the killings to make their case Prosecutors revived a theory in the Lindsay Clancy murder trial case this week, suggesting she had faked a suicide attempt after allegedly strangling her three children. While prosecutors have been arguing that Clancy acted intentionally and should be held criminally responsible, her defense has said she suffered from postpartum psychosis. Continue reading..."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Lindsay Clancy murder trial becomes social media obsession as TikTokers, sleuths debate controversial case",
+     "url": "https://www.foxnews.com/us/lindsay-clancy-murder-trial-social-media-obsession-tiktok-sleuths-debate-controversial-case",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T10:58:07+00:00",
+     "summary": "\"It's kind of a cultural obsession,\" said Boston-based criminal defense attorney Peter Elikann. The Massachusetts mother at the center of an ongoing murder trial for the killings of her three children is captivating the internet and social media. Lindsay Clancy, 35, faces three counts of first-degree murder after her three children, Cora, Dawson and Callan \u2013 all under 6 years old \u2013 were found strangled to death in the family's Duxbury home in 2023. POSTPARTUM MOM LINDSAY CLANCY ON TRIAL FOR MURDER BRINGS COURT TO A HALT WITH SUDDEN BREAKDOWN She doesn't deny killing them; Clancy and her defense team maintain she was suffering from ongoing postpartum psychosis at the time of their deaths. She entered a plea of not guilty by reason of insanity. \"This isn't a case of having the blues, being down in the dumps and being depressed,\" Elikann, who is not involved in the trial, told Fox News Digital. HEATED LINDSAY CLANCY COURTROOM EXCHANGE OVER 911 CALL, CRIME SCENE PHOTOS SETS STAGE FOR MOM\u2019S MURDER TRIAL He explained that the world is just beginning to understand the impacts of postpartum psychosis \u2013 which differs from postpartum depression . He referenced the Andrea Yates case from the "
+    }
+   ]
+  },
+  {
+   "id": "9731a02041",
+   "topic": "Justice & Policing",
+   "summary": "8/15/1938: Justice Stephen Breyer's Birthday. Justice Stephen Breyer &nbsp; The post Today in Supreme Court History: August 15, 1938 appeared first on Reason.com .",
+   "summaryFrom": "reason",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "Today in Supreme Court History: August 15, 1938",
+   "updated": "2026-08-15T11:00:43+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "corp": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "reason",
+     "title": "Today in Supreme Court History: August 15, 1938",
+     "url": "https://reason.com/volokh/2026/08/15/today-in-supreme-court-history-august-15-1938-6/",
+     "author": "Josh Blackman",
+     "kind": "opinion",
+     "published": "2026-08-15T11:00:43+00:00",
+     "summary": "8/15/1938: Justice Stephen Breyer's Birthday. Justice Stephen Breyer &nbsp; The post Today in Supreme Court History: August 15, 1938 appeared first on Reason.com ."
+    },
+    {
+     "outlet": "slate",
+     "title": "To Understand Today\u2019s Supreme Court, You Need to Understand One Particular Justice.",
+     "url": "https://slate.com/podcasts/amicus/2026/08/neil-gorsuchs-early-years-trumps-nomination-and-a-stolen-seat-on-the-supreme-court?via=rss",
+     "author": "Dahlia Lithwick",
+     "kind": "news",
+     "published": "2026-08-15T07:00:00+00:00",
+     "summary": "How a mild-mannered Westerner became the SCOTUS wild card."
+    }
+   ]
+  },
+  {
+   "id": "b6a1638935",
+   "topic": "Politics",
+   "summary": "President Trump's top political hands had some surprising advice for Senate Republicans last week: Talk more about health care. Why it matters: Trump and the MAGA base are fixated on the voter-ID and proof-of-citizenship SAVE Act . But Republican message testing from Trump's own pollster suggests candidates are better off focusing elsewhere. Driving the news: Top Trumpworld campaign officials, including James Blair, pollster Tony Fabrizio and Senate Leadership Fund executive director Alex Latcham, briefed senators and aides Aug. 5 on the midterms. They presented polling on the party's strongest potential campaign messages, according to slides viewed by Axios. One of the strongest: going after health insurance companies. Republicans had a 46-point advantage when calling for greater transparency around insurers' profits, claim denials and wait times for patient care while hitting\u2026",
+   "summaryFrom": "axios",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Trump Is Making Health Care Even Less Affordable",
+   "updated": "2026-08-15T11:00:07+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "Trump Is Making Health Care Even Less Affordable",
+     "url": "https://www.nytimes.com/2026/08/15/opinion/trump-health-care-cuts.html",
+     "author": "The Editorial Board",
+     "kind": "opinion",
+     "published": "2026-08-15T11:00:07+00:00",
+     "summary": "Republicans are taking deliberate steps to make health care less affordable."
+    },
+    {
+     "outlet": "axios",
+     "title": "Scoop: Trump team tells GOP to lean in on health care",
+     "url": "https://www.axios.com/2026/08/13/midterms-senate-health-care-republicans-trump",
+     "author": "Stef W. Kight",
+     "kind": "news",
+     "published": "2026-08-13T22:03:10+00:00",
+     "summary": "President Trump's top political hands had some surprising advice for Senate Republicans last week: Talk more about health care. Why it matters: Trump and the MAGA base are fixated on the voter-ID and proof-of-citizenship SAVE Act . But Republican message testing from Trump's own pollster suggests candidates are better off focusing elsewhere. Driving the news: Top Trumpworld campaign officials, including James Blair, pollster Tony Fabrizio and Senate Leadership Fund executive director Alex Latcham, briefed senators and aides Aug. 5 on the midterms. They presented polling on the party's strongest potential campaign messages, according to slides viewed by Axios. One of the strongest: going after health insurance companies. Republicans had a 46-point advantage when calling for greater transparency around insurers' profits, claim denials and wait times for patient care while hitting Democrats for \"lining insurers' pockets.\" Banning congressional stock trading and cracking down on fraud also emerged as potentially powerful issues, with 44- and 38-point advantages for Republicans, respectively. The intrigue: Messaging on the SAVE Act had far less upside, giving Republicans just a 14-point"
+    }
+   ]
+  },
+  {
    "id": "d2ba78c3ac",
    "topic": "Politics",
    "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too\u2026",
@@ -2529,6 +2875,48 @@
      "kind": "opinion",
      "published": "2026-08-14T19:16:44+00:00",
      "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too long.&#8221; Arday, 41, was found unresponsive in his South London home on Friday \u2014 just over a week after he left his position at the prestigious university. Prior to leaving his post, he&#8217;d been accused of plagiarism and of embellishing his life story ahead of the release of his memoir, &#8220;Great a"
+    }
+   ]
+  },
+  {
+   "id": "3dcdb27e4f",
+   "topic": "Health",
+   "summary": "The US has issued a serious health warning over the recalled eggs, saying exposure to the potentially contaminated products could cause severe illness or death.",
+   "summaryFrom": "dw",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "US: FDA recalls 19 million eggs over Salmonella risk",
+   "updated": "2026-08-15T10:03:31+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "forbes",
+     "title": "4 Active Salmonella Outbreaks. 2 With Sources ID\u2019d: Jalape\u00f1os, Eggs",
+     "url": "https://www.forbes.com/sites/brucelee/2026/08/15/4-active-salmonella-outbreaks-2-with-sources-idd-jalapeos-eggs/",
+     "author": "Bruce Y. Lee, Senior Contributor",
+     "kind": "news",
+     "published": "2026-08-15T10:03:31+00:00",
+     "summary": "The FDA currently lists 12 different ongoing foodborne illness outbreaks. Four are Salmonella ones with two triggering recalls of jalape\u00f1os and eggs so far."
+    },
+    {
+     "outlet": "dw",
+     "title": "US: FDA recalls 19 million eggs over Salmonella risk",
+     "url": "https://www.dw.com/en/us-fda-recalls-19-million-eggs-over-salmonella-risk/a-78378361?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T03:49:00+00:00",
+     "summary": "The US has issued a serious health warning over the recalled eggs, saying exposure to the potentially contaminated products could cause severe illness or death."
     }
    ]
   },
@@ -2649,7 +3037,7 @@
     },
     {
      "outlet": "forbes",
-     "title": "It\u2019s Official\u2014\u2019Obsession\u2019 Star Inde Navarrette Joins Marvel\u2019s \u2018X-Men\u2019 As Rogue",
+     "title": "It\u2019s Official\u2014\u2018Obsession\u2019 Star Inde Navarrette Joins Marvel\u2019s \u2018X-Men\u2019 As Rogue",
      "url": "https://www.forbes.com/sites/danidiplacido/2026/08/15/its-official-obsession-star-inde-navarrette-joins-marvels-x-men-as-rogue/",
      "author": "Dani Di Placido, Senior Contributor",
      "kind": "news",
@@ -2887,7 +3275,7 @@
    ]
   },
   {
-   "id": "8aad26f998",
+   "id": "a587334eb4",
    "topic": "World",
    "summary": "Washington and Tehran again presented sharply contrasting narratives over the Strait of Hormuz, underscoring skepticism over the reopening of the waterway. Hours after US President Donald Trump said his forces had \u201ctotal control\u201d over Hormuz , Iranian officials said his remarks \u201c do not change the reality \u201d of its closure. The Wall Street Journal said tracking data showed just 14 ships traversed the channel on Tuesday, barely a tenth of pre-war levels , though a leading Bloomberg columnist suggested that analysts were likely underestimating the volume of oil crossing Hormuz: He noted that visible oil spills pointed to a battle between Iran trying to keep the strait closed while others push to keep it open, \u201c perhaps more successfully than we think .\u201d \u2014 Prashant Rao",
    "summaryFrom": "semafor",
@@ -2898,7 +3286,7 @@
     "nonprofit",
     "pub"
    ],
-   "headline": "Hormuz Ship Attacks Mount as US Vows to Cripple Iran\u2019s Economy",
+   "headline": "Hormuz Ship Attacks Mount as US Vows to Cripple Iran Economy",
    "updated": "2026-08-15T09:13:03+00:00",
    "outletCount": 2,
    "counts": {
@@ -2910,9 +3298,9 @@
    "articles": [
     {
      "outlet": "bloomberg",
-     "title": "Hormuz Ship Attacks Mount as US Vows to Cripple Iran\u2019s Economy",
+     "title": "Hormuz Ship Attacks Mount as US Vows to Cripple Iran Economy",
      "url": "https://www.bloomberg.com/news/articles/2026-08-15/hormuz-ship-attacks-mount-as-us-vows-to-cripple-iran-s-economy",
-     "author": "Arsalan Shahla and Catherine Lucey",
+     "author": "Arsalan Shahla, Catherine Lucey and Sara Gharaibeh",
      "kind": "news",
      "published": "2026-08-15T09:13:03+00:00",
      "summary": "More ships have come under attack in the Strait of Hormuz as talks to end the war in the Middle East remain stalled and the US readies new economic measures to force Iran to capitulate."
@@ -3106,48 +3494,6 @@
    ]
   },
   {
-   "id": "bf4d5784cf",
-   "topic": "Justice & Policing",
-   "summary": "8/14/1935: President Roosevelt signs into law the Social Security Act of 1935. The Supreme Court upheld the constitutionality of this law in Helvering v. Davis (1937). President Franklin D. Roosevelt The post Today in Supreme Court History: August 14, 1935 appeared first on Reason.com .",
-   "summaryFrom": "reason",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Today in Supreme Court History: August 14, 1935",
-   "updated": "2026-08-15T07:00:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "slate",
-     "title": "To Understand Today\u2019s Supreme Court, You Need to Understand One Particular Justice.",
-     "url": "https://slate.com/podcasts/amicus/2026/08/neil-gorsuchs-early-years-trumps-nomination-and-a-stolen-seat-on-the-supreme-court?via=rss",
-     "author": "Dahlia Lithwick",
-     "kind": "news",
-     "published": "2026-08-15T07:00:00+00:00",
-     "summary": "How a mild-mannered Westerner became the SCOTUS wild card."
-    },
-    {
-     "outlet": "reason",
-     "title": "Today in Supreme Court History: August 14, 1935",
-     "url": "https://reason.com/volokh/2026/08/14/today-in-supreme-court-history-august-14-1935-6/",
-     "author": "Josh Blackman",
-     "kind": "opinion",
-     "published": "2026-08-14T11:00:41+00:00",
-     "summary": "8/14/1935: President Roosevelt signs into law the Social Security Act of 1935. The Supreme Court upheld the constitutionality of this law in Helvering v. Davis (1937). President Franklin D. Roosevelt The post Today in Supreme Court History: August 14, 1935 appeared first on Reason.com ."
-    }
-   ]
-  },
-  {
    "id": "57355a5b88",
    "topic": "Other",
    "summary": "KITTERY, Maine - Republican Sen. Susan Collins says her Democratic challenger in Maine's high-stakes U.S. Senate race apparently \"struggles to control his temper.\" Collins broke her silence about Democratic Senate nominee Troy Jackson on Friday after a newly resurfaced 1988 police record detailed accusations that Jackson assaulted a man and pushed his longtime partner during a late-night confrontation in Fort Kent, Maine. Jackson, a one-time logger and a former state Senate president, was chosen a couple of weeks ago by Maine Democrats to replace embattled oysterman Graham Platner , who won the June Democratic Senate nomination in a landslide before imploding and dropping out of the race last month amid rape allegations that he denied. WHAT THE NEW FOX NEWS POLL IN MAINE'S CRUCIAL SENATE RACE SHOWS Jackson is challenging Collins in a crucial race that's among a dozen that will determine\u2026",
@@ -3190,48 +3536,6 @@
    ]
   },
   {
-   "id": "f6585ffa8b",
-   "topic": "Other",
-   "summary": "A three-judge panel of the court had reversed Holberg\u2019s sentence in 2025, but Friday\u2019s split decision will keep the district court\u2019s decision to affirm her conviction.",
-   "summaryFrom": "texastribune",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Fifth Circuit reaffirms death row inmate Brittany Holberg\u2019s conviction",
-   "updated": "2026-08-15T04:01:24+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Tennessee death row inmate\u2019s last words to son who witnessed killer dad\u2019s execution",
-     "url": "https://nypost.com/2026/08/15/us-news/tennessee-death-row-inmates-last-words-to-son-who-witnessed-killer-dads-execution/",
-     "author": "Daniel Cody",
-     "kind": "news",
-     "published": "2026-08-15T04:01:24+00:00",
-     "summary": "As his son watched on, a Tennessee death row inmate executed by lethal injection offered a final message aimed at the witness gallery: \u201ctell my son hello.\u201d"
-    },
-    {
-     "outlet": "texastribune",
-     "title": "Fifth Circuit reaffirms death row inmate Brittany Holberg\u2019s conviction",
-     "url": "https://feeds.texastribune.org/link/16799/17418677/texas-death-row-brittany-holberg-appeal-denied-fifth-circuit",
-     "author": "Ayden Runnels",
-     "kind": "news",
-     "published": "2026-08-15T02:04:38+00:00",
-     "summary": "A three-judge panel of the court had reversed Holberg\u2019s sentence in 2025, but Friday\u2019s split decision will keep the district court\u2019s decision to affirm her conviction."
-    }
-   ]
-  },
-  {
    "id": "2045764898",
    "topic": "Politics",
    "summary": "My wife and I still chuckle about the time we toured the battlefield in Petersburg, Va., where 100,000 Union forces led by Ulysses S. Grant laid siege to 20,000 Confederate soldiers led by Robert E. Lee. It was the longest battle of the Civil War, lasting 292 days. Brutal trench warfare led to 70,000 casualties, as Union forces cut supply lines to the Confederate capital in nearby Richmond and precipitated the South's defeat. There was nothing funny about this brutal slice of American history, of course, but we were bemused by the National Park Service video that took an unequivocally pro-Southern stance. In particular, the narrator talked about the \"advancing Yankee hordes,\" which made an odd impression on two Pennsylvanians who grew up with a much different take on these events. Our tour was 43 years ago, so I imagine the video has since been updated to better reflect modern\u2026",
@@ -3270,90 +3574,6 @@
      "kind": "opinion",
      "published": "2026-08-14T11:30:00+00:00",
      "summary": "My wife and I still chuckle about the time we toured the battlefield in Petersburg, Va., where 100,000 Union forces led by Ulysses S. Grant laid siege to 20,000 Confederate soldiers led by Robert E. Lee. It was the longest battle of the Civil War, lasting 292 days. Brutal trench warfare led to 70,000 casualties, as Union forces cut supply lines to the Confederate capital in nearby Richmond and precipitated the South's defeat. There was nothing funny about this brutal slice of American history, of course, but we were bemused by the National Park Service video that took an unequivocally pro-Southern stance. In particular, the narrator talked about the \"advancing Yankee hordes,\" which made an odd impression on two Pennsylvanians who grew up with a much different take on these events. Our tour was 43 years ago, so I imagine the video has since been updated to better reflect modern sensibilities. We did not, however, get upset or complain to management. It added local color. Human beings have a knack for fighting over history, as we somehow believe that controlling the past's narrative will lead to a future in line with our preferences. For years, we've watched progressive snowflakes co"
-    }
-   ]
-  },
-  {
-   "id": "9b7becad9e",
-   "topic": "Other",
-   "summary": "Venezuela's government freed 131 detained \u200bprisoners on Friday, as human rights groups hailed releases of some \u200bpeople \u200cthey say were being held \u2060unjustly or for political reasons.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Venezuela says 131 political prisoners freed amid post-Maduro talks",
-   "updated": "2026-08-15T02:08:02+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Venezuela says 131 political prisoners freed amid post-Maduro talks",
-     "url": "https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T02:08:02+00:00",
-     "summary": "As detainees granted &#039;alternative&#039; to imprisonment, US welcomes release as crucial step for Venezuela&#039;s reconciliation."
-    },
-    {
-     "outlet": "france24",
-     "title": "'The nightmare is over': Families reunite as Venezuela frees political prisoners",
-     "url": "https://www.france24.com/en/americas/20260814-the-nightmare-is-over-families-reunite-as-venezuela-frees-political-prisoners",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-14T21:55:14+00:00",
-     "summary": "Venezuela's government freed 131 detained \u200bprisoners on Friday, as human rights groups hailed releases of some \u200bpeople \u200cthey say were being held \u2060unjustly or for political reasons."
-    }
-   ]
-  },
-  {
-   "id": "f03dca6bc6",
-   "topic": "Other",
-   "summary": "New footage shows the moment local authorities encountered a pilot who had ejected from a fighter jet before it crashed into a mountainside earlier this summer.",
-   "summaryFrom": "abcnews",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Video shows moment fighter jet crashed into mountain in Washington state",
-   "updated": "2026-08-15T01:36:07+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Video shows moment fighter jet crashed into mountain in Washington state",
-     "url": "https://www.cbsnews.com/video/video-shows-moment-fighter-jet-crashed-into-mountain-in-washington-state/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T01:36:07+00:00",
-     "summary": "A new video shows the moment a fighter jet crashed into a mountain in Washington State in June. The pilot survived. Mark Strassmann has the details."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "'Hey, buddy, I just crashed': Footage shows pilot walking away from fighter jet crash",
-     "url": "https://abcnews.com/US/hey-buddy-crashed-dramatic-new-video-footage-shows/story?id=135661850",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T01:25:47+00:00",
-     "summary": "New footage shows the moment local authorities encountered a pilot who had ejected from a fighter jet before it crashed into a mountainside earlier this summer."
     }
    ]
   },
@@ -3480,216 +3700,6 @@
      "kind": "news",
      "published": "2026-08-14T15:59:40+00:00",
      "summary": "24/7 coverage of breaking news and live events"
-    }
-   ]
-  },
-  {
-   "id": "6469911274",
-   "topic": "Politics",
-   "summary": "President Donald Trump stepped off the stage on Friday while making a speech in New York to comfort the family of a 12-year-old boy who was killed by a stray bullet in the Bronx. Trump was speaking to the Nassau County Police Academy when he mentioned Jacob Freytes , a boy who was killed late last month by a stray bullet while sitting on his bike outside a bodega. \"In a beautiful impromptu moment, President Trump exits the stage in the middle of his speech to embrace Migdalia Martinez and retired NYPD Sergeant Jesus Freytes, whose 12-year-old son Jacob was tragically killed by a stray bullet in the Bronx,\" White House press secretary Karoline Leavitt wrote on social media after capturing the moment on video. CRIME IS FALLING, OFFICIALS SAY \u2014 VICTIMS CLAIM REPORTING ISN\u2019T WORTH IT Before leaving the stage to meet his parents, Trump mentioned Freytes while talking about his\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Trump leaves stage mid-speech to embrace parents of 12-year-old killed by stray bullet in the Bronx",
-   "updated": "2026-08-14T22:19:30+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Trump leaves stage mid-speech to embrace parents of 12-year-old killed by stray bullet in the Bronx",
-     "url": "https://www.foxnews.com/politics/trump-leaves-stage-mid-speech-embrace-parents-12-year-old-killed-stray-bullet-bronx",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T22:19:30+00:00",
-     "summary": "President Donald Trump stepped off the stage on Friday while making a speech in New York to comfort the family of a 12-year-old boy who was killed by a stray bullet in the Bronx. Trump was speaking to the Nassau County Police Academy when he mentioned Jacob Freytes , a boy who was killed late last month by a stray bullet while sitting on his bike outside a bodega. \"In a beautiful impromptu moment, President Trump exits the stage in the middle of his speech to embrace Migdalia Martinez and retired NYPD Sergeant Jesus Freytes, whose 12-year-old son Jacob was tragically killed by a stray bullet in the Bronx,\" White House press secretary Karoline Leavitt wrote on social media after capturing the moment on video. CRIME IS FALLING, OFFICIALS SAY \u2014 VICTIMS CLAIM REPORTING ISN\u2019T WORTH IT Before leaving the stage to meet his parents, Trump mentioned Freytes while talking about his administration\u2019s effort to lower crime. \"Two weeks ago, a 12-year-old boy named Jacob Freytes \u2014 You read about this one? \u2014 was tragically shot and killed by a stray bullet fired by a repeat offender in a gun battle.\" He added: \"Jacob was the son of a loving mom and a retired New York City police detective, and the"
-    },
-    {
-     "outlet": "latimes",
-     "title": "A 15-year-old killed Pop Smoke \u2014 then got caught smuggling fentanyl into juvenile hall",
-     "url": "https://www.latimes.com/california/story/2026-08-14/teen-gunman-rapper-pop-smoke-fentanyl-juvenile-hall",
-     "author": "Matthew Ormseth",
-     "kind": "news",
-     "published": "2026-08-14T10:00:00+00:00",
-     "summary": "A young man serving time for the 2020 shooting of rapper Pop Smoke in the Hollywood Hills pleaded no contest to charges that accused him of smuggling fentanyl into juvenile hall."
-    }
-   ]
-  },
-  {
-   "id": "18286097d8",
-   "topic": "Politics",
-   "summary": "Vincent Carchietta / IMAGN IMAGES via Reuters Connect Ivanka Trump and her husband Jared Kushner are being sought to testify in Donald Trump\u2019s defamation lawsuit against the BBC, but they have so far avoided being served. In May, lawyers for the British broadcaster tried to serve subpoenas to the couple at their home in Miami, according to court filings, but they were blocked by police. The 80-year-old president filed a $10 billion lawsuit against the BBC over a documentary the network aired about the Jan. 6 riot, in which an edited version of the speech he gave during the rally before the riot was screened. Trump\u2019s lawsuit claims the edits made it appear as though his speech had spurred the crowd on, encouraging them to riot on the Capitol. Read more at The Daily Beast.",
-   "summaryFrom": "dailybeast",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Ivanka and Jared Dragged Into Trump\u2019s $10B Shakedown Lawsuit",
-   "updated": "2026-08-14T22:11:58+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dailybeast",
-     "title": "Ivanka and Jared Dragged Into Trump\u2019s $10B Shakedown Lawsuit",
-     "url": "https://www.thedailybeast.com/ivanka-trump-and-jared-kushner-called-to-testify-in-10b-lawsuit/",
-     "author": "Sarah-Jane Collins",
-     "kind": "news",
-     "published": "2026-08-14T22:11:58+00:00",
-     "summary": "Vincent Carchietta / IMAGN IMAGES via Reuters Connect Ivanka Trump and her husband Jared Kushner are being sought to testify in Donald Trump\u2019s defamation lawsuit against the BBC, but they have so far avoided being served. In May, lawyers for the British broadcaster tried to serve subpoenas to the couple at their home in Miami, according to court filings, but they were blocked by police. The 80-year-old president filed a $10 billion lawsuit against the BBC over a documentary the network aired about the Jan. 6 riot, in which an edited version of the speech he gave during the rally before the riot was screened. Trump\u2019s lawsuit claims the edits made it appear as though his speech had spurred the crowd on, encouraging them to riot on the Capitol. Read more at The Daily Beast."
-    },
-    {
-     "outlet": "forbes",
-     "title": "BBC Says Secret Service Won\u2019t Let It Subpoena Ivanka, Don Jr. And Jared In Trump Defamation Case",
-     "url": "https://www.forbes.com/sites/alisondurkee/2026/08/14/bbc-says-secret-service-wont-let-it-subpoena-ivanka-don-jr-and-jared-in-trump-defamation-case/",
-     "author": "Alison Durkee, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-14T19:39:23+00:00",
-     "summary": "The court needs to allow them to be subpoenaed through \u201calternative\u201d means because of their Secret Service protection, the BBC argued."
-    }
-   ]
-  },
-  {
-   "id": "2003cfd4ec",
-   "topic": "Politics",
-   "summary": "The Trump administration is stepping into the extraordinary surrogacy fight pitting a surrogate against a baby\u2019s biological parents, warning hospitals that the child, who was born with a heart defect, must receive life-saving care as a tense legal battle unfolds. The Department of Health and Human Services (HHS) submitted a letter to Children\u2019s Medical Center of Dallas and UT Southwestern Medical Center reminding them of their obligations to treat the child under federal disability civil rights law, according to Fox News. HHS said federal disability protections bar doctors from withholding care because of a patient\u2019s condition, including the belief that a disabled person\u2019s life is less worthy or that their care would place a burden on others, the outlet reported. McKenna West, a single mother of two children, delivered baby Gabriel Wednesday in the Dallas area after Texas Attorney\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Trump admin escalates fight against transgender care",
-   "updated": "2026-08-14T22:00:04+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "Trump admin escalates fight against transgender care",
-     "url": "https://thehill.com/newsletters/healthcare/6030921-trump-hhs-transgender-care/",
-     "author": "Nathaniel Weixel",
-     "kind": "news",
-     "published": "2026-08-14T22:00:04+00:00",
-     "summary": "Click in for more news from The Hill {beacon} Healthcare The Big Story Trump admin escalates fight against transgender care The Trump administration this week scaled up its fight against transgender health care, cutting Medicaid coverage and referring hospitals and clinics for potential prosecution. \u00a9 Photo credit The moves this week add to..."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Trump Admin Steps Into Surrogate\u2019s Fight For Newborn\u2019s Life-Saving Care",
-     "url": "https://www.dailywire.com/news/trump-admin-steps-into-surrogates-fight-for-newborns-life-saving-care",
-     "author": "Jacob Wheeler",
-     "kind": "opinion",
-     "published": "2026-08-14T10:28:37+00:00",
-     "summary": "The Trump administration is stepping into the extraordinary surrogacy fight pitting a surrogate against a baby\u2019s biological parents, warning hospitals that the child, who was born with a heart defect, must receive life-saving care as a tense legal battle unfolds. The Department of Health and Human Services (HHS) submitted a letter to Children\u2019s Medical Center of Dallas and UT Southwestern Medical Center reminding them of their obligations to treat the child under federal disability civil rights law, according to Fox News. HHS said federal disability protections bar doctors from withholding care because of a patient\u2019s condition, including the belief that a disabled person\u2019s life is less worthy or that their care would place a burden on others, the outlet reported. McKenna West, a single mother of two children, delivered baby Gabriel Wednesday in the Dallas area after Texas Attorney General Ken Paxton secured a court order requiring him to receive life-saving medical care when his surrogate rejected demands from his biological parents to abort him. At 20 weeks, Gabriel was diagnosed in utero with hypoplastic left heart syndrome (HLHS) \u2014 a serious but treatable congenital heart condit"
-    }
-   ]
-  },
-  {
-   "id": "11262c749c",
-   "topic": "Politics",
-   "summary": "The levee is seen at Santa Ana National Wildlife Refuge in Alamo, Texas on July 8, 2026. The current proposed border wall would replace the levee with a concrete wall as high as it is now to then erect the bollard metal wall on top of it. Activists argue that this will have a negative impact on wildlife.",
-   "summaryFrom": "texastribune",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Federal judge extends pause on border wall construction at South Texas wildlife refuge",
-   "updated": "2026-08-14T21:53:26+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "abcnews",
-     "title": "Judge refuses to block Trump administration from building border wall along tribe's reservation",
-     "url": "https://abcnews.com/US/wireStory/judge-refuses-block-trump-administration-building-border-wall-135659058",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T21:53:26+00:00",
-     "summary": "A federal judge has refused to block the Trump administration from taking steps to build 62 miles of international border wall along part of a Native American tribe&rsquo;s reservation without its consent"
-    },
-    {
-     "outlet": "texastribune",
-     "title": "Federal judge extends pause on border wall construction at South Texas wildlife refuge",
-     "url": "https://feeds.texastribune.org/link/16799/17417588/border-wall-construction-paused-santa-ana-refuge",
-     "author": "Berenice Garcia",
-     "kind": "news",
-     "published": "2026-08-13T21:45:24+00:00",
-     "summary": "The levee is seen at Santa Ana National Wildlife Refuge in Alamo, Texas on July 8, 2026. The current proposed border wall would replace the levee with a concrete wall as high as it is now to then erect the bollard metal wall on top of it. Activists argue that this will have a negative impact on wildlife."
-    }
-   ]
-  },
-  {
-   "id": "f4748ac525",
-   "topic": "Justice & Policing",
-   "summary": "Attorneys for the Olympian previously accused of vandalizing the Lincoln Memorial Reflecting Pool filed a motion Thursday to bar prosecutors from bringing further criminal charges against him related to the case, citing fears of \u201cprosecutorial harassment\" by President Trump. The legal team for Olympic canoeist David Hearn called for Judge Todd Edelman of the District...",
-   "summaryFrom": "thehill",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Accused Olympian seeks protection from future Reflecting Pool charges",
-   "updated": "2026-08-14T20:34:16+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "Accused Olympian seeks protection from future Reflecting Pool charges",
-     "url": "https://thehill.com/regulation/court-battles/6030609-accused-olympian-seeks-protection-from-future-reflecting-pool-charges/",
-     "author": "Mira Bhakta",
-     "kind": "news",
-     "published": "2026-08-14T20:34:16+00:00",
-     "summary": "Attorneys for the Olympian previously accused of vandalizing the Lincoln Memorial Reflecting Pool filed a motion Thursday to bar prosecutors from bringing further criminal charges against him related to the case, citing fears of \u201cprosecutorial harassment\" by President Trump. The legal team for Olympic canoeist David Hearn called for Judge Todd Edelman of the District..."
-    },
-    {
-     "outlet": "nyt",
-     "title": "David Hearn\u2019s Lawyers Ask Court to Bar Future Reflecting Pool Charges",
-     "url": "https://www.nytimes.com/2026/08/14/us/hearn-reflecting-pool-prosecutor-harassment.html",
-     "author": "Clarence Williams",
-     "kind": "news",
-     "published": "2026-08-14T13:11:46+00:00",
-     "summary": "Citing comments by President Trump, David Hearn raised the prospect of \u201cprosecutorial harassment.\u201d"
     }
    ]
   }
