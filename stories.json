@@ -1,43 +1,52 @@
 {
- "generated": "2026-08-15T09:42:36.491926+00:00",
+ "generated": "2026-08-15T10:40:56.533667+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
   {
-   "id": "5e1f0d9d97",
+   "id": "3e44303664",
    "topic": "Justice & Policing",
    "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges. \"I shot Mr. Thompson,\" Mangione said during Friday's hearing, adding, \"I knew\u2026",
    "summaryFrom": "axios",
    "emphasis": {
-    "bigCount": 9,
-    "indieCount": 6,
+    "bigCount": 8,
+    "indieCount": 7,
     "big": [
      "friday",
      "unitedhealth"
     ],
     "indie": [
      "death",
-     "year-old",
-     "pleading"
+     "pleading",
+     "year-old"
     ]
    },
    "absent": [
     "coop"
    ],
-   "headline": "Mangione pleads guilty as polarising CEO killing reaches new phase",
-   "updated": "2026-08-15T03:48:41+00:00",
-   "outletCount": 13,
+   "headline": "US : Luigi Mangione pleads guilty to killing UnitedHealthcare CEO",
+   "updated": "2026-08-15T09:47:03+00:00",
+   "outletCount": 14,
    "counts": {
+    "pub": 5,
     "corp": 3,
-    "pub": 4,
     "nonprofit": 2,
-    "family": 6
+    "family": 5
    },
    "newsCount": 13,
    "opinionCount": 2,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "france24",
+     "title": "US : Luigi Mangione pleads guilty to killing UnitedHealthcare CEO",
+     "url": "https://www.france24.com/en/us-luigi-mangione-pleads-guilty-to-killing-unitedhealthcare-ceo",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-15T09:47:03+00:00",
+     "summary": "Luigi Mangione has pleaded guilty to federal stalking charges and admitted killing UnitedHealthcare CEO Brian Thompson in New York in December 2024. His lawyers are seeking to have the state charges dropped under New York\u2019s double jeopardy protections, while prosecutors plan to seek a life sentence at his December sentencing."
+    },
     {
      "outlet": "cbsnews",
      "title": "Luigi Mangione pleads guilty in federal case, admits to shooting Brian Thompson",
@@ -73,15 +82,6 @@
      "kind": "news",
      "published": "2026-08-14T22:57:22+00:00",
      "summary": "In a surprise turn, Luigi Mangione pleaded guilty to the shooting death of UnitedHealthcare CEO Brian Thompson. Mangione admitted he stalked and shot Thompson in 2024 outside a Hilton hotel in Manhattan. He potentially faces life in prison. The 28-year-old is also still facing state murder charges for Thompson's death in New York. Justice correspondent Ali Rogin reports."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Luigi Mangione\u2019s Case Hit a Cultural Nerve",
-     "url": "https://www.nytimes.com/2026/08/14/nyregion/luigi-mangione-culture-shooting.html",
-     "author": "Miles G. Cohen and Alisha Haridasani Gupta",
-     "kind": "news",
-     "published": "2026-08-14T22:27:24+00:00",
-     "summary": "As the murder of Brian Thompson shocked most Americans, some people, many on social media, began showing Mr. Mangione sympathy and channeled their own frustration with the health care industry."
     },
     {
      "outlet": "bbc",
@@ -181,8 +181,8 @@
    "summary": "FIRST ON FOX \u2014 The Kennedy Center Board of Trustees wants to name the famed arts institution\u2019s grounds the \"President Donald J. Trump Plaza,\" one of several new ways the board is seeking to honor the president as the center moves ahead with a sweeping renovation, Fox News Digital has learned. The board also wants the words \"Endowed by the Trump Kennedy Center Fund\" inscribed on the building once the fund reaches a $100 million endowment, according to information obtained by Fox News Digital. The previously unreported moves come after the board voted Thursday to add an inscription crediting Trump with restoring and renovating America's cultural center, and approved a partial closure of the complex for renovations. KENNEDY CENTER BOARD MEMBER KNOCKS SEN WHITEHOUSE FOR IGNORING INVITES AS DEM FEUDS WITH TRUMP-RUN LANDMARK The resolution recognizing Trump\u2019s contributions passed by a 20-3\u2026",
    "summaryFrom": "foxnews",
    "emphasis": {
-    "bigCount": 8,
-    "indieCount": 5,
+    "bigCount": 7,
+    "indieCount": 4,
     "big": [
      "arts",
      "waterway",
@@ -192,8 +192,7 @@
      "move"
     ],
     "indie": [
-     "clear",
-     "earlier"
+     "soon"
     ]
    },
    "absent": [
@@ -201,15 +200,15 @@
    ],
    "headline": "US President Trump says he will declare Strait of Hormuz US territory",
    "updated": "2026-08-15T02:25:09+00:00",
-   "outletCount": 12,
+   "outletCount": 11,
    "counts": {
     "pub": 3,
     "family": 5,
-    "nonprofit": 2,
-    "corp": 3
+    "nonprofit": 1,
+    "corp": 2
    },
-   "newsCount": 11,
-   "opinionCount": 2,
+   "newsCount": 10,
+   "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
@@ -258,15 +257,6 @@
      "summary": "Samuel Corum/Getty Images President Donald Trump signaled the U.S. military could have a ramped-up presence in the Middle East to deal with Iran indefinitely as he sets his sights on a new \u201cterritory.\u201d Concern is deepening that the president has drawn the U.S. into a quagmire in the region as his war stretches into its sixth month and Trump struggles to reach a deal. Trump insisted while speaking on Long Island on Friday that Iran was being \u201cvery badly defeated\u201d after he has already repeatedly declared victory for months. Read more at The Daily Beast."
     },
     {
-     "outlet": "thehill",
-     "title": "Trump says he will declare Strait of Hormuz a US territory",
-     "url": "https://thehill.com/homenews/administration/6030671-trump-says-strait-of-hormuz-us-territory/",
-     "author": "Julia Manchester",
-     "kind": "news",
-     "published": "2026-08-14T20:24:22+00:00",
-     "summary": "President Trump claimed during remarks on Long Island, N.Y., on Friday that he will make the Strait of Hormuz a U.S. territory, despite the fact that Oman and Iran share jurisdiction of the waterway. \u201cPretty soon, I will be declaring the Hormuz Strait a territory of the United States,\u201d Trump said during an address highlighting..."
-    },
-    {
      "outlet": "foxnews",
      "title": "EXCLUSIVE: Kennedy Center board moves to name grounds \u2018President Donald J Trump Plaza'",
      "url": "https://www.foxnews.com/politics/exclusive-kennedy-center-board-moves-name-grounds-president-donald-j-trump-plaza",
@@ -274,15 +264,6 @@
      "kind": "news",
      "published": "2026-08-14T20:20:52+00:00",
      "summary": "FIRST ON FOX \u2014 The Kennedy Center Board of Trustees wants to name the famed arts institution\u2019s grounds the \"President Donald J. Trump Plaza,\" one of several new ways the board is seeking to honor the president as the center moves ahead with a sweeping renovation, Fox News Digital has learned. The board also wants the words \"Endowed by the Trump Kennedy Center Fund\" inscribed on the building once the fund reaches a $100 million endowment, according to information obtained by Fox News Digital. The previously unreported moves come after the board voted Thursday to add an inscription crediting Trump with restoring and renovating America's cultural center, and approved a partial closure of the complex for renovations. KENNEDY CENTER BOARD MEMBER KNOCKS SEN WHITEHOUSE FOR IGNORING INVITES AS DEM FEUDS WITH TRUMP-RUN LANDMARK The resolution recognizing Trump\u2019s contributions passed by a 20-3 supermajority vote, while the partial-closure resolution passed 23-3, according to a source familiar with the matter. Sen. Sheldon Whitehouse , D-R.I., and Democratic Reps. Joyce Beatty of Ohio and Rick Larsen of Washington voted \"no\" on both resolutions, the source said. The board\u2019s resolution calls f"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Donald Trump can\u2019t beat Iran and Nigel Farage can only beat a bin. When it counts, these populists are just losers | Jonathan Freedland",
-     "url": "https://www.theguardian.com/commentisfree/2026/aug/14/donald-trump-iran-nigel-farage-bin-populists-losers",
-     "author": "Jonathan Freedland",
-     "kind": "opinion",
-     "published": "2026-08-14T16:03:05+00:00",
-     "summary": "The pattern in the US and Britain is clear. They serve up stunt after stunt to mask incompetence and the betrayal of all those who trusted them It\u2019s a shame Nigel Farage ducked the announcement of his victory in the Clacton byelection, which confirmed his return as MP for the seat he had needlessly resigned from just a few weeks earlier. You\u2019d have thought he would have loved it. It was the culmination of a stunt, an exercise in politics as performance. It was a display animated by \u2013 and seeking to inflame \u2013 grievance, a million miles away from the hard, grinding work of tackling the problems that underlie those grievances. It was an attempt to deflect scrutiny, distract attention and evade responsibility. It was, in other words, everything nationalist populists like him excel at. Indeed, the only thing. Reform UK said Farage stayed away because Essex police had warned of a \u201c credible threat \u201d to his security, a claim swiftly denied by Essex police. (Add a flexible approach to the truth to that list of nationalist populists\u2019 talents.) Still, it was a slightly odd claim to make. Recall Farage\u2019s favoured explanation \u2013 there are others \u2013 for the undeclared \u00a35m gift he received from th"
     },
     {
      "outlet": "dailywire",
@@ -332,190 +313,56 @@
    ]
   },
   {
-   "id": "71d8fca40f",
+   "id": "f974326cfb",
    "topic": "World",
-   "summary": "An F/A-18F Super Hornet launches from the flight deck of aircraft carrier USS Abraham Lincoln in support of Operation Epic Fury on February 28, 2026 at Sea. Photo by U.S. Navy via Getty Images. Thursday, August 13, 2026 &#8211; &nbsp; Iranian Foreign Minister Abbas Araghchi warns of &#8220;even bigger miscalculation&#8221; on Hormuz after U.S. President Donald Trump claims U.S. has &#8220;total control.&#8221; Washington Post: U.S. intelligence viewed Israeli warning of Iranian plot to kill Trump as &#8220;low confidence.&#8221; Slight bump in Hormuz traffic. Iran reports oil pollution off Qeshm Island, calls for Hormuz environmental fees. Iran kills two accused of intelligence ties to U.S. and Israel. Yemen&#8217;s Saudi-backed government claims success against Ansarallah attack. Saudi tankers reroute around Africa as empty fleet heads toward Gulf. X suspends Ansarallah spokesperson\u2026",
-   "summaryFrom": "dropsite",
-   "emphasis": {
-    "bigCount": 7,
-    "indieCount": 5,
-    "big": [
-     "answers"
-    ],
-    "indie": [
-     "concerns",
-     "saying",
-     "navy",
-     "donald"
-    ]
-   },
-   "absent": [],
-   "headline": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea \u2018not nearly enough\u2019 \u2013 as it happened",
-   "updated": "2026-08-15T09:20:12+00:00",
-   "outletCount": 11,
-   "counts": {
-    "corp": 5,
-    "nonprofit": 2,
-    "family": 2,
-    "pub": 2,
-    "coop": 1
-   },
-   "newsCount": 12,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Trump says U.S. warship's 9-month deployment \"not nearly long enough\"",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T09:20:12+00:00",
-     "summary": "The USS Abraham Lincoln has been deployed for almost nine months and is expected to be replaced in the Middle East."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea \u2018not nearly enough\u2019 \u2013 as it happened",
-     "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
-     "author": "Maanvi Singh, Shrai Popat, Marina Dunbar and Mabel Banfield-Nwachi",
-     "kind": "news",
-     "published": "2026-08-15T01:31:53+00:00",
-     "summary": "This live blog is now closed. Trump downplays concerns about sailors deployed for record 250 days Sign up for the Breaking News US email The Trump administration, in its appeal to the supreme court today, said that \u201cthis case involves an extraordinary and unlawful injunction that will halt the ongoing construction of the integrated military complex including a totally secure ballroom space, at the East Wing of the White House, which is vitally required by national security.\u201d It\u2019s worth noting that the appeals court ruling blocks the above-ground construction of the ballroom, but would allow the work on the underground security structure to continue . Continue reading..."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
-     "author": "Erica L. Green and Maggie Haberman",
-     "kind": "news",
-     "published": "2026-08-15T01:04:40+00:00",
-     "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted \u201cnot nearly long enough.\u201d"
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
-     "url": "https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln",
-     "author": "Veronica Vela",
-     "kind": "news",
-     "published": "2026-08-14T22:55:06+00:00",
-     "summary": "Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' amid outcry from families",
-     "url": "https://www.latimes.com/politics/story/2026-08-14/uss-abraham-lincoln-deployment-conditions-families-trump-hegseth",
-     "author": "Christopher Buchanan, Ana Ceballos",
-     "kind": "news",
-     "published": "2026-08-14T21:13:51+00:00",
-     "summary": "Lawmakers are pressing for answers amid reports that sailors aboard the San Diego-based carrier have endured food shortages, plumbing failures and severe fatigue."
-    },
-    {
-     "outlet": "slate",
-     "title": "Trump on Long-Suffering Sailors: \u201cNot Nearly Long Enough\u201d",
-     "url": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html?via=rss",
-     "author": "Ian Prasad Philbrick",
-     "kind": "news",
-     "published": "2026-08-14T21:09:49+00:00",
-     "summary": "Sailors are suffering. Trump and his team are denying it."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump says record USS Lincoln deployment 'not nearly long enough'",
-     "url": "https://abcnews.com/Politics/trump-record-uss-lincoln-deployment-long/story?id=135652552",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T20:32:04+00:00",
-     "summary": "Trump said USS Lincoln family members are not concerned about conditions."
-    },
-    {
-     "outlet": "france24",
-     "title": "Trump says record Navy deployment in Iran operations 'not nearly long enough'",
-     "url": "https://www.france24.com/en/middle-east/20260814-trump-says-record-navy-deployment-in-iran-operations-not-nearly-long-enough",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-14T20:17:38+00:00",
-     "summary": "US President Donald Trump on Friday dismissed concerns about the toll on sailors aboard the aircraft carrier USS Abraham Lincoln, who have endured a record deployment of almost nine months, saying that the deployment had been \u201cnot nearly long enough\u201d. The Lincoln has been supporting the US war against Iran, and reports have emerged of sailors struggling with mental health issues."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Dad of USS Lincoln sailor worries about crew as deployment stretches on",
-     "url": "https://www.cbsnews.com/news/uss-abraham-lincoln-crew-deployment-concerns/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T14:04:27+00:00",
-     "summary": "The USS Abraham Lincoln has been at sea for nine months, and sailors have maintained a grueling pace amid the war in Iran."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-     "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T23:06:23+00:00",
-     "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
-    },
-    {
-     "outlet": "rollingstone",
-     "title": "Sailors Are Reportedly Trying to Go Overboard to Escape Squalid Conditions on Aircraft Carrier",
-     "url": "https://www.rollingstone.com/politics/politics-news/uss-abraham-lincoln-sailors-overboard-1235608057/",
-     "author": "Nikkimccannramirez",
-     "kind": "news",
-     "published": "2026-08-13T16:41:28+00:00",
-     "summary": "Democrats are demanding answers about what\u2019s going on with the USS Abraham Lincoln"
-    },
-    {
-     "outlet": "dropsite",
-     "title": "USS Abraham Lincoln sailors try to jump overboard after 250 days at sea; Third person dies after Newark ICE facility detention; Israel sets wildfires in Lebanon",
-     "url": "https://www.dropsitenews.com/p/uss-abraham-lincoln-overboard-newark-ice-detention-israel-lebanon-wildfires",
-     "author": "Drop Site News",
-     "kind": "news",
-     "published": "2026-08-13T15:19:39+00:00",
-     "summary": "An F/A-18F Super Hornet launches from the flight deck of aircraft carrier USS Abraham Lincoln in support of Operation Epic Fury on February 28, 2026 at Sea. Photo by U.S. Navy via Getty Images. Thursday, August 13, 2026 &#8211; &nbsp; Iranian Foreign Minister Abbas Araghchi warns of &#8220;even bigger miscalculation&#8221; on Hormuz after U.S. President Donald Trump claims U.S. has &#8220;total control.&#8221; Washington Post: U.S. intelligence viewed Israeli warning of Iranian plot to kill Trump as &#8220;low confidence.&#8221; Slight bump in Hormuz traffic. Iran reports oil pollution off Qeshm Island, calls for Hormuz environmental fees. Iran kills two accused of intelligence ties to U.S. and Israel. Yemen&#8217;s Saudi-backed government claims success against Ansarallah attack. Saudi tankers reroute around Africa as empty fleet heads toward Gulf. X suspends Ansarallah spokesperson account. Israel kills Palestinian child in Gaza City strike. Israeli strikes kill two, including Gaza police chief. Israel detains Palestinians, destroys homes, and re-establishes settlement in occupied West Bank. Hamas says it will participate in Palestinian elections in November. Israeli forces blow "
-    }
-   ]
-  },
-  {
-   "id": "4238a500db",
-   "topic": "World",
-   "summary": "Shallow quake hit Indonesia\u2019s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least 20 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Continue reading...",
+   "summary": "Shallow quake hit Indonesia\u2019s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least 38 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Indonesian authorities said that monitoring showed no significant sea level changes that could indicate a tsunami. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": {
     "bigCount": 4,
     "indieCount": 8,
     "big": [],
     "indie": [
-     "search",
-     "rescue",
-     "island",
      "ground",
-     "operation",
-     "survivors"
+     "rescue",
+     "search",
+     "island",
+     "widespread",
+     "higher"
     ]
    },
    "absent": [
     "coop"
    ],
-   "headline": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
-   "updated": "2026-08-15T09:38:51+00:00",
+   "headline": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 38",
+   "updated": "2026-08-15T10:24:36+00:00",
    "outletCount": 10,
    "counts": {
+    "nonprofit": 2,
     "family": 2,
     "corp": 2,
-    "pub": 6,
-    "nonprofit": 2
+    "pub": 6
    },
    "newsCount": 12,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
     {
+     "outlet": "guardian",
+     "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 38",
+     "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+     "author": "William Christou and agencies",
+     "kind": "news",
+     "published": "2026-08-15T10:24:36+00:00",
+     "summary": "Shallow quake hit Indonesia\u2019s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least 38 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Indonesian authorities said that monitoring showed no significant sea level changes that could indicate a tsunami. Continue reading..."
+    },
+    {
      "outlet": "nypost",
-     "title": "At least 20 dead, buildings toppled after magnitude 7.7 earthquake strikes off Indonesia\u2019s coast",
+     "title": "At least 38 dead, buildings toppled after magnitude 7.7 earthquake strikes off Indonesia\u2019s coast",
      "url": "https://nypost.com/2026/08/15/world-news/indonesia-earthquake-death-toll-at-least-20-people-buildings-collapse/",
      "author": "Associated Press",
      "kind": "news",
      "published": "2026-08-15T09:38:51+00:00",
-     "summary": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, killing at least 20 people, collapsing buildings and homes as well as causing panic in a region prone to deadly quakes."
+     "summary": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, killing at least 38 people, collapsing buildings and homes as well as causing panic in a region prone to deadly quakes."
     },
     {
      "outlet": "nyt",
@@ -555,12 +402,12 @@
     },
     {
      "outlet": "npr",
-     "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 20",
+     "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
      "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
      "author": "The Associated Press",
      "kind": "news",
      "published": "2026-08-15T08:29:20+00:00",
-     "summary": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, killing at least 20 people, collapsing buildings as well as causing panic in a region prone to deadly quakes. (Image credit: BASARNAS via AP)"
+     "summary": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, killing at least 38 people, collapsing buildings as well as causing panic in a region prone to deadly quakes. (Image credit: BASARNAS via AP)"
     },
     {
      "outlet": "france24",
@@ -599,15 +446,6 @@
      "summary": "At least 20 people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftershocks. A tsunami warning has been lifted."
     },
     {
-     "outlet": "guardian",
-     "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least 20",
-     "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-     "author": "Guardian staff and agencies",
-     "kind": "news",
-     "published": "2026-08-14T23:43:18+00:00",
-     "summary": "Shallow quake hit Indonesia\u2019s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least 20 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Continue reading..."
-    },
-    {
      "outlet": "nbcnews",
      "title": "Magnitude-7.7 quake hits off coast of Indonesia, killing at least 20",
      "url": "https://www.nbcnews.com/world/indonesia/earthquake-indonesia-rcna592638",
@@ -619,110 +457,129 @@
    ]
   },
   {
-   "id": "a422cbbbff",
-   "topic": "Politics",
-   "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation. The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle\u2026",
-   "summaryFrom": "axios",
+   "id": "71d8fca40f",
+   "topic": "World",
+   "summary": "An F/A-18F Super Hornet launches from the flight deck of aircraft carrier USS Abraham Lincoln in support of Operation Epic Fury on February 28, 2026 at Sea. Photo by U.S. Navy via Getty Images. Thursday, August 13, 2026 &#8211; &nbsp; Iranian Foreign Minister Abbas Araghchi warns of &#8220;even bigger miscalculation&#8221; on Hormuz after U.S. President Donald Trump claims U.S. has &#8220;total control.&#8221; Washington Post: U.S. intelligence viewed Israeli warning of Iranian plot to kill Trump as &#8220;low confidence.&#8221; Slight bump in Hormuz traffic. Iran reports oil pollution off Qeshm Island, calls for Hormuz environmental fees. Iran kills two accused of intelligence ties to U.S. and Israel. Yemen&#8217;s Saudi-backed government claims success against Ansarallah attack. Saudi tankers reroute around Africa as empty fleet heads toward Gulf. X suspends Ansarallah spokesperson\u2026",
+   "summaryFrom": "dropsite",
    "emphasis": {
-    "bigCount": 6,
-    "indieCount": 2,
+    "bigCount": 5,
+    "indieCount": 5,
     "big": [
-     "concerns",
-     "carrier",
-     "aircraft",
-     "families",
-     "nine",
-     "deployment"
+     "iran"
     ],
-    "indie": []
+    "indie": [
+     "court",
+     "supreme",
+     "concerns",
+     "including",
+     "photo",
+     "donald"
+    ]
    },
-   "absent": [
-    "coop"
-   ],
-   "headline": "What we know about the crisis aboard the USS Lincoln",
-   "updated": "2026-08-15T04:21:07+00:00",
-   "outletCount": 8,
+   "absent": [],
+   "headline": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea \u2018not nearly enough\u2019 \u2013 as it happened",
+   "updated": "2026-08-15T10:00:00+00:00",
+   "outletCount": 9,
    "counts": {
-    "pub": 1,
     "corp": 2,
-    "family": 4,
-    "nonprofit": 1
+    "nonprofit": 3,
+    "family": 3,
+    "pub": 1,
+    "coop": 1
    },
-   "newsCount": 8,
+   "newsCount": 10,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "aljazeera",
-     "title": "What we know about the crisis aboard the USS Lincoln",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss",
+     "outlet": "newsweek",
+     "title": "Father of USS Abraham Lincoln Sailor Criticizes Trump&#039;s Iran &#039;Forever War&#039;",
+     "url": "https://www.newsweek.com/father-of-uss-abraham-lincoln-sailor-criticizes-trumps-iran-forever-war-12324639",
      "author": null,
      "kind": "news",
-     "published": "2026-08-15T04:21:07+00:00",
-     "summary": "The US President has brushed off reports of dire conditions and a mental health crisis aboard the USS Abraham Lincoln."
-    },
-    {
-     "outlet": "thehill",
-     "title": "USS Abraham Lincoln returning home",
-     "url": "https://thehill.com/newsletters/defense-national-security/6030870-uss-abraham-lincoln-returning-home/",
-     "author": "Ellen Mitchell",
-     "kind": "news",
-     "published": "2026-08-14T21:39:25+00:00",
-     "summary": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story Amid reports of low morale, USS Abraham Lincoln returning home, Navy says Acting Navy Secretary Hung Cao announced on Friday that the USS Abraham Lincoln is returning to the U.S. as the aircraft carrier\u2019s long deployment..."
-    },
-    {
-     "outlet": "axios",
-     "title": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
-     "url": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
-     "author": "Donica Phifer",
-     "kind": "news",
-     "published": "2026-08-14T20:19:31+00:00",
-     "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation. The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle East deployment. While taking questions from the press Friday, a reporter mentioned families were worried, to which Trump replied \"no they're not.\" Zoom out: The Navy Times , The Military Times, and Stars and Stripes were among the first to report on conditions aboard the carrier. The ship hasn't made"
-    },
-    {
-     "outlet": "time",
-     "title": "What to Know About the Growing Concerns Over Conditions on the Long-Deployed USS Abraham Lincoln",
-     "url": "https://time.com/article/2026/08/14/uss-abraham-lincoln-conditions-trump-iran-war/",
-     "author": "Connor Greene",
-     "kind": "news",
-     "published": "2026-08-14T20:14:50+00:00",
-     "summary": "In this U.S. Navy released handout, An F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 14, makes an arrested landing on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72) in support of Operation Epic Fury, on February 28, 2026. \u2014U.S. Navy/Getty Images The USS Abraham Lincoln has been at sea in the Middle East for months, and with no clear end in sight for the war in Iran , concerns for those aboard the aircraft carrier\u2014and for the vessel itself\u2014have mounted amid a series of troubling reports. Another aircraft carrier, the USS George Washington, had begun making its way towards the Middle East as of Thursday to replace the Lincoln, multiple news outlets reported. President Donald Trump appeared to confirm the reported ship swap on Friday, saying that the Lincoln \"is moving right now, or very shortly and is being replaced with another very similar ship.\u201d The Washington\u2019s deployment comes as reports have emerged in recent months recounting worsening living conditions, mental health concerns, and supply shortages on board the Lincoln. Trump seemed to deny the reports on the state of the Lincoln and its crew on Friday, responding \u201cNo, they\u2019re n"
-    },
-    {
-     "outlet": "wapo",
-     "title": "Trump dismisses families\u2019 concerns about USS Abraham Lincoln conditions",
-     "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-dismisses-families-concerns-about-uss-abraham-lincoln-conditions/",
-     "author": "Cat Zakrzewski",
-     "kind": "news",
-     "published": "2026-08-14T19:19:15+00:00",
-     "summary": "President Donald Trump dismissed the concerns of military families about worsening conditions on the USS Abraham Lincoln."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Trump Dismisses Concerns Over Conditions Aboard USS Lincoln",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-14/trump-dismisses-concerns-over-conditions-on-uss-lincoln-carrier",
-     "author": "Sonya Dymova, Courtney Subramanian and Jen Judson",
-     "kind": "news",
-     "published": "2026-08-14T19:11:19+00:00",
-     "summary": "President Donald Trump downplayed concerns over conditions for sailors aboard the USS Abraham Lincoln, amid an uproar from service members\u2019 families as its deployment to the Middle East approaches nine months."
-    },
-    {
-     "outlet": "forbes",
-     "title": "Trump Says USS Lincoln Hasn\u2019t Been Deployed \u2018Nearly Long Enough\u2019\u2014Denies Families\u2019 Concerns",
-     "url": "https://www.forbes.com/sites/saradorn/2026/08/14/trump-says-uss-lincoln-hasnt-been-deployed-nearly-long-enough-denies-families-concerns/",
-     "author": "Sara Dorn, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-14T18:52:28+00:00",
-     "summary": "The aircraft carrier has been deployed for nearly nine months."
+     "published": "2026-08-15T10:00:00+00:00",
+     "summary": "Jefferson Kelly&#039;s 20-year-old son has been on board the ship which is at the center of a debate around US Navy conditions."
     },
     {
      "outlet": "guardian",
-     "title": "Trump\u2019s dismal Patriot Games were the Hunger Games ordered off Temu | Aaron Timms",
-     "url": "https://www.theguardian.com/sport/2026/aug/14/donald-trump-patriot-games-tv-review",
-     "author": "Aaron Timms",
+     "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea \u2018not nearly enough\u2019 \u2013 as it happened",
+     "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
+     "author": "Maanvi Singh, Shrai Popat, Marina Dunbar and Mabel Banfield-Nwachi",
      "kind": "news",
-     "published": "2026-08-14T14:16:48+00:00",
-     "summary": "Monkey bars, gawky teenagers and a presidential cameo \u2013 all given a prime-time showcase by ABC \u2013 combined for the most leaden hour of America\u2019s 250th birthday summer Culturally, it\u2019s been a tough few months for Donald Trump. The UFC night he held at the White House for his birthday got lost amid the froth and excitement of the World Cup. The Great American State Fair on the Washington DC National Mall was a dud . The president\u2019s jokes at the White House Correspondents\u2019 Dinner all bombed . Could the Patriot Games, a nationwide competition to find the American schoolchildren most adept at traversing a set of monkey bars, help rescue the summer? Last night we got our answer: no. A one-hour prime-time special brought us the best of the Patriot Games, and in a crowded field it managed to offer some of the most leaden TV of the American semiquincentennial. Freedom 250, the White House-backed non-profit that hosted the UFC fight at the White House and the Great American State Fair, produced the event, and put up the $125,000 in college scholarship winnings that went to each winner on the boys\u2019 and girls\u2019 side of the competition. The final round of the Games actually took place earlier thi"
+     "published": "2026-08-15T01:31:53+00:00",
+     "summary": "This live blog is now closed. Trump downplays concerns about sailors deployed for record 250 days Sign up for the Breaking News US email The Trump administration, in its appeal to the supreme court today, said that \u201cthis case involves an extraordinary and unlawful injunction that will halt the ongoing construction of the integrated military complex including a totally secure ballroom space, at the East Wing of the White House, which is vitally required by national security.\u201d It\u2019s worth noting that the appeals court ruling blocks the above-ground construction of the ballroom, but would allow the work on the underground security structure to continue . Continue reading..."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
+     "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
+     "author": "Erica L. Green and Maggie Haberman",
+     "kind": "news",
+     "published": "2026-08-15T01:04:40+00:00",
+     "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted \u201cnot nearly long enough.\u201d"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
+     "url": "https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln",
+     "author": "Veronica Vela",
+     "kind": "news",
+     "published": "2026-08-14T22:55:06+00:00",
+     "summary": "Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Navy and USS Lincoln\u2019s Problems Are Tied to Attacks on U.S. Base Early in War",
+     "url": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html",
+     "author": "John Ismay",
+     "kind": "news",
+     "published": "2026-08-14T22:35:07+00:00",
+     "summary": "Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy\u2019s logistics hub after Iran damaged a base in Bahrain."
+    },
+    {
+     "outlet": "semafor",
+     "title": "Leadership changes signal Iran expects a long war",
+     "url": "https://www.semafor.com/article/08/14/2026/amid-leadership-changes-iran-gears-up-for-a-long-war",
+     "author": "Prashant Rao",
+     "kind": "news",
+     "published": "2026-08-14T11:19:19+00:00",
+     "summary": "Iran\u2019s recent reshuffle, as well as its shifting battlefield tactics, suggest it is adapting for a lengthening conflict with the US. Tehran has reordered its leadership in part because of repeated assassinations of its top brass by American and Israeli strikes. But recent moves point to how Iran is \u201c preparing for a prolonged confrontation ,\u201d an expert wrote in Foreign Policy, noting that Iran was centralizing its military apparatus and increasing its focus on offensive operations. The use of a drone swarm against a US fighter jet, meanwhile, pointed to how \u201cIran has sought to learn and implement important lessons about the modern battlefield ,\u201d in particular from the Russia-Ukraine conflict, the Institute for the Study of War said. \u2014 Prashant Rao"
+    },
+    {
+     "outlet": "bbc",
+     "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+     "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T23:06:23+00:00",
+     "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+    },
+    {
+     "outlet": "rollingstone",
+     "title": "Sailors Are Reportedly Trying to Go Overboard to Escape Squalid Conditions on Aircraft Carrier",
+     "url": "https://www.rollingstone.com/politics/politics-news/uss-abraham-lincoln-sailors-overboard-1235608057/",
+     "author": "Nikkimccannramirez",
+     "kind": "news",
+     "published": "2026-08-13T16:41:28+00:00",
+     "summary": "Democrats are demanding answers about what\u2019s going on with the USS Abraham Lincoln"
+    },
+    {
+     "outlet": "dropsite",
+     "title": "USS Abraham Lincoln sailors try to jump overboard after 250 days at sea; Third person dies after Newark ICE facility detention; Israel sets wildfires in Lebanon",
+     "url": "https://www.dropsitenews.com/p/uss-abraham-lincoln-overboard-newark-ice-detention-israel-lebanon-wildfires",
+     "author": "Drop Site News",
+     "kind": "news",
+     "published": "2026-08-13T15:19:39+00:00",
+     "summary": "An F/A-18F Super Hornet launches from the flight deck of aircraft carrier USS Abraham Lincoln in support of Operation Epic Fury on February 28, 2026 at Sea. Photo by U.S. Navy via Getty Images. Thursday, August 13, 2026 &#8211; &nbsp; Iranian Foreign Minister Abbas Araghchi warns of &#8220;even bigger miscalculation&#8221; on Hormuz after U.S. President Donald Trump claims U.S. has &#8220;total control.&#8221; Washington Post: U.S. intelligence viewed Israeli warning of Iranian plot to kill Trump as &#8220;low confidence.&#8221; Slight bump in Hormuz traffic. Iran reports oil pollution off Qeshm Island, calls for Hormuz environmental fees. Iran kills two accused of intelligence ties to U.S. and Israel. Yemen&#8217;s Saudi-backed government claims success against Ansarallah attack. Saudi tankers reroute around Africa as empty fleet heads toward Gulf. X suspends Ansarallah spokesperson account. Israel kills Palestinian child in Gaza City strike. Israeli strikes kill two, including Gaza police chief. Israel detains Palestinians, destroys homes, and re-establishes settlement in occupied West Bank. Hamas says it will participate in Palestinian elections in November. Israeli forces blow "
+    },
+    {
+     "outlet": "theconversation",
+     "title": "Trump\u2019s \u2018forever\u2019 tariffs are kicking in for the long haul \u2013 and US consumers are footing the bill",
+     "url": "https://theconversation.com/trumps-forever-tariffs-are-kicking-in-for-the-long-haul-and-us-consumers-are-footing-the-bill-289334",
+     "author": "Kent Jones, Professor Emeritus of Economics, Babson College",
+     "kind": "news",
+     "published": "2026-08-13T12:31:50+00:00",
+     "summary": "President Donald Trump's latest announcement of tariffs is intended to hold up better to legal scrutiny, including from the Supreme Court. AP Photo/Damian Dovarganes) President Donald Trump\u2019s tariff announcements no longer cause the market gyrations that they did in 2025. But their sticker shock for American consumers is becoming increasingly clear \u2013 just as economic sentiment is souring ahead of the November 2026 midterm elections. Many business groups had hoped that the tariff wars would end in February, when the Supreme Court overturned Trump\u2019s emergency tariffs. They got a rude awakening five months later, however, when Trump announced a raft of new import taxes to replace the levies that were struck down. Covering nearly all U.S. imports, the advantage of these tariffs in the Trump administration\u2019s view is that they\u2019re more firmly based on existing U.S. trade law, beyond the reach of the Supreme Court\u2019s review. And Trump has said he envisions enacting many more of these so-called trade law tariffs. As a trade economist who has been following the tariff wars, I believe that the longer these import taxes are in place, the more the consumers will bear their burden. The 2025 \u201cLibe"
     }
    ]
   },
@@ -736,9 +593,7 @@
     "indieCount": 3,
     "big": [
      "fight",
-     "square-foot",
-     "friday",
-     "washington"
+     "square-foot"
     ],
     "indie": [
      "work"
@@ -824,13 +679,13 @@
      "summary": "The planned 90,000-square-foot ballroom is estimated to cost $400 million and is part of the president\u2019s broader effort to remake Washington in his own style."
     },
     {
-     "outlet": "nbcnews",
-     "title": "Trump asks Supreme Court to allow White House ballroom construction to continue",
-     "url": "https://www.nbcnews.com/politics/supreme-court/trump-appeals-supreme-court-white-house-ballroom-rcna266912",
-     "author": "Lawrence Hurley",
+     "outlet": "abcnews",
+     "title": "Trump admin says WH ballroom 'beyond the point of no return' in Supreme Court appeal",
+     "url": "https://abcnews.com/Politics/trump-appeals-supreme-court-white-house-ballroom-construction/story?id=135642539",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-14T13:22:51+00:00",
-     "summary": "WASHINGTON \u2014 President Donald Trump on Friday asked the Supreme Court to allow him to continue construction of a sprawling ballroom adjacent to the White House."
+     "published": "2026-08-14T16:52:25+00:00",
+     "summary": "The Trump administration is asking the Supreme Court to allow construction of the president's White House ballroom to continue."
     }
    ]
   },
@@ -843,8 +698,8 @@
     "bigCount": 4,
     "indieCount": 3,
     "big": [
-     "allegations",
      "scene",
+     "allegations",
      "resigning"
     ],
     "indie": [
@@ -934,6 +789,199 @@
    ]
   },
   {
+   "id": "a422cbbbff",
+   "topic": "Politics",
+   "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation. The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle\u2026",
+   "summaryFrom": "axios",
+   "emphasis": {
+    "bigCount": 5,
+    "indieCount": 2,
+    "big": [
+     "concerns",
+     "carrier",
+     "aircraft",
+     "families",
+     "friday",
+     "navy"
+    ],
+    "indie": []
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "What we know about the crisis aboard the USS Lincoln",
+   "updated": "2026-08-15T04:21:07+00:00",
+   "outletCount": 7,
+   "counts": {
+    "pub": 1,
+    "corp": 2,
+    "family": 3,
+    "nonprofit": 1
+   },
+   "newsCount": 7,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "What we know about the crisis aboard the USS Lincoln",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T04:21:07+00:00",
+     "summary": "The US President has brushed off reports of dire conditions and a mental health crisis aboard the USS Abraham Lincoln."
+    },
+    {
+     "outlet": "thehill",
+     "title": "USS Abraham Lincoln returning home",
+     "url": "https://thehill.com/newsletters/defense-national-security/6030870-uss-abraham-lincoln-returning-home/",
+     "author": "Ellen Mitchell",
+     "kind": "news",
+     "published": "2026-08-14T21:39:25+00:00",
+     "summary": "Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story Amid reports of low morale, USS Abraham Lincoln returning home, Navy says Acting Navy Secretary Hung Cao announced on Friday that the USS Abraham Lincoln is returning to the U.S. as the aircraft carrier\u2019s long deployment..."
+    },
+    {
+     "outlet": "axios",
+     "title": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
+     "url": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
+     "author": "Donica Phifer",
+     "kind": "news",
+     "published": "2026-08-14T20:19:31+00:00",
+     "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation. The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle East deployment. While taking questions from the press Friday, a reporter mentioned families were worried, to which Trump replied \"no they're not.\" Zoom out: The Navy Times , The Military Times, and Stars and Stripes were among the first to report on conditions aboard the carrier. The ship hasn't made"
+    },
+    {
+     "outlet": "time",
+     "title": "What to Know About the Growing Concerns Over Conditions on the Long-Deployed USS Abraham Lincoln",
+     "url": "https://time.com/article/2026/08/14/uss-abraham-lincoln-conditions-trump-iran-war/",
+     "author": "Connor Greene",
+     "kind": "news",
+     "published": "2026-08-14T20:14:50+00:00",
+     "summary": "In this U.S. Navy released handout, An F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 14, makes an arrested landing on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72) in support of Operation Epic Fury, on February 28, 2026. \u2014U.S. Navy/Getty Images The USS Abraham Lincoln has been at sea in the Middle East for months, and with no clear end in sight for the war in Iran , concerns for those aboard the aircraft carrier\u2014and for the vessel itself\u2014have mounted amid a series of troubling reports. Another aircraft carrier, the USS George Washington, had begun making its way towards the Middle East as of Thursday to replace the Lincoln, multiple news outlets reported. President Donald Trump appeared to confirm the reported ship swap on Friday, saying that the Lincoln \"is moving right now, or very shortly and is being replaced with another very similar ship.\u201d The Washington\u2019s deployment comes as reports have emerged in recent months recounting worsening living conditions, mental health concerns, and supply shortages on board the Lincoln. Trump seemed to deny the reports on the state of the Lincoln and its crew on Friday, responding \u201cNo, they\u2019re n"
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump dismisses families\u2019 concerns about USS Abraham Lincoln conditions",
+     "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-dismisses-families-concerns-about-uss-abraham-lincoln-conditions/",
+     "author": "Cat Zakrzewski",
+     "kind": "news",
+     "published": "2026-08-14T19:19:15+00:00",
+     "summary": "President Donald Trump dismissed the concerns of military families about worsening conditions on the USS Abraham Lincoln."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Trump Dismisses Concerns Over Conditions Aboard USS Lincoln",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-14/trump-dismisses-concerns-over-conditions-on-uss-lincoln-carrier",
+     "author": "Sonya Dymova, Courtney Subramanian and Jen Judson",
+     "kind": "news",
+     "published": "2026-08-14T19:11:19+00:00",
+     "summary": "President Donald Trump downplayed concerns over conditions for sailors aboard the USS Abraham Lincoln, amid an uproar from service members\u2019 families as its deployment to the Middle East approaches nine months."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump\u2019s dismal Patriot Games were the Hunger Games ordered off Temu | Aaron Timms",
+     "url": "https://www.theguardian.com/sport/2026/aug/14/donald-trump-patriot-games-tv-review",
+     "author": "Aaron Timms",
+     "kind": "news",
+     "published": "2026-08-14T14:16:48+00:00",
+     "summary": "Monkey bars, gawky teenagers and a presidential cameo \u2013 all given a prime-time showcase by ABC \u2013 combined for the most leaden hour of America\u2019s 250th birthday summer Culturally, it\u2019s been a tough few months for Donald Trump. The UFC night he held at the White House for his birthday got lost amid the froth and excitement of the World Cup. The Great American State Fair on the Washington DC National Mall was a dud . The president\u2019s jokes at the White House Correspondents\u2019 Dinner all bombed . Could the Patriot Games, a nationwide competition to find the American schoolchildren most adept at traversing a set of monkey bars, help rescue the summer? Last night we got our answer: no. A one-hour prime-time special brought us the best of the Patriot Games, and in a crowded field it managed to offer some of the most leaden TV of the American semiquincentennial. Freedom 250, the White House-backed non-profit that hosted the UFC fight at the White House and the Great American State Fair, produced the event, and put up the $125,000 in college scholarship winnings that went to each winner on the boys\u2019 and girls\u2019 side of the competition. The final round of the Games actually took place earlier thi"
+    }
+   ]
+  },
+  {
+   "id": "887b91ebd9",
+   "topic": "Politics",
+   "summary": "US President Donald Trump on Friday dismissed concerns about the toll on sailors aboard the aircraft carrier USS Abraham Lincoln, who have endured a record deployment of almost nine months, saying that the deployment had been \u201cnot nearly long enough\u201d. The Lincoln has been supporting the US war against Iran, and reports have emerged of sailors struggling with mental health issues.",
+   "summaryFrom": "france24",
+   "emphasis": {
+    "bigCount": 5,
+    "indieCount": 2,
+    "big": [],
+    "indie": [
+     "concerns"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Trump says record Navy deployment in Iran operations 'not nearly long enough'",
+   "updated": "2026-08-15T09:44:55+00:00",
+   "outletCount": 6,
+   "counts": {
+    "corp": 4,
+    "family": 1,
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 7,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Trump says U.S. warship's 9-month deployment \"not nearly long enough\"",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T09:44:55+00:00",
+     "summary": "The USS Abraham Lincoln has been deployed for almost nine months and is expected to be replaced in the Middle East."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' amid outcry from families",
+     "url": "https://www.latimes.com/politics/story/2026-08-14/uss-abraham-lincoln-deployment-conditions-families-trump-hegseth",
+     "author": "Christopher Buchanan, Ana Ceballos",
+     "kind": "news",
+     "published": "2026-08-14T21:13:51+00:00",
+     "summary": "Lawmakers are pressing for answers amid reports that sailors aboard the San Diego-based carrier have endured food shortages, plumbing failures and severe fatigue."
+    },
+    {
+     "outlet": "slate",
+     "title": "Trump on Long-Suffering Sailors: \u201cNot Nearly Long Enough\u201d",
+     "url": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html?via=rss",
+     "author": "Ian Prasad Philbrick",
+     "kind": "news",
+     "published": "2026-08-14T21:09:49+00:00",
+     "summary": "Sailors are suffering. Trump and his team are denying it."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump says record USS Lincoln deployment 'not nearly long enough'",
+     "url": "https://abcnews.com/Politics/trump-record-uss-lincoln-deployment-long/story?id=135652552",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T20:32:04+00:00",
+     "summary": "Trump said USS Lincoln family members are not concerned about conditions."
+    },
+    {
+     "outlet": "france24",
+     "title": "Trump says record Navy deployment in Iran operations 'not nearly long enough'",
+     "url": "https://www.france24.com/en/middle-east/20260814-trump-says-record-navy-deployment-in-iran-operations-not-nearly-long-enough",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-14T20:17:38+00:00",
+     "summary": "US President Donald Trump on Friday dismissed concerns about the toll on sailors aboard the aircraft carrier USS Abraham Lincoln, who have endured a record deployment of almost nine months, saying that the deployment had been \u201cnot nearly long enough\u201d. The Lincoln has been supporting the US war against Iran, and reports have emerged of sailors struggling with mental health issues."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "WATCH: Trump says USS Lincoln's deployment was 'not nearly long enough'",
+     "url": "https://www.pbs.org/newshour/politics/watch-trump-says-uss-lincolns-deployment-was-not-nearly-long-enough",
+     "author": "Aamer Madhani, Associated Press",
+     "kind": "news",
+     "published": "2026-08-14T19:17:17+00:00",
+     "summary": "Trump refuted that family members have raised concerns about the deployment's length and even said that the more than 260-day deployment is \"not nearly long enough.\""
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Dad of USS Lincoln sailor worries about crew as deployment stretches on",
+     "url": "https://www.cbsnews.com/news/uss-abraham-lincoln-crew-deployment-concerns/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T14:04:27+00:00",
+     "summary": "The USS Abraham Lincoln has been at sea for nine months, and sailors have maintained a grueling pace amid the war in Iran."
+    }
+   ]
+  },
+  {
    "id": "56a4d5a8c1",
    "topic": "Justice & Policing",
    "summary": "Constitutional council says curbs infringe freedom of expression and privacy as president vows to rework legislation France\u2019s top court has blocked a ban on social media access for under-15s, ruling that it infringed freedom of expression and privacy. The decision is a blow to President Emmanuel Macron as momentum builds around the world for Australian-style restrictions on children\u2019s use of social media. Continue reading...",
@@ -1004,13 +1052,13 @@
   },
   {
    "id": "d2b923cf60",
-   "topic": "Business & Economy",
-   "summary": "Settlers and soldiers cut off water and electricity to homes, and block medical care in campaign of terror Israeli militants have besieged two Palestinian families in their homes since the weekend, aiming to take over their properties in the West Bank village of Qusra through a campaign of terror. A group of settlers and soldiers set up a tent outside the home of Yousef Hassan\u2019s family on Sunday afternoon, trapping him inside with his wife and two young daughters. Continue reading...",
-   "summaryFrom": "guardian",
+   "topic": "Politics",
+   "summary": "Drop Site is a reader-funded, independent news outlet. Without your support, we can&#8217;t operate. Please consider becoming a paid subscriber or making a 501(c)(3) tax-deductible donation today . Subscribe now Israeli settlers continue their raids on the Palestinian village of Taybeh in the occupied West Bank despite the Israeli army declaring the area a 'closed military zone,' on August 10, 2026. Photo by Issam Rimawi/Anadolu via Getty Images. TAYBEH, Occupied West Bank*&#8212;On Sunday, the Israeli military declared the Palestinian village of Taybeh in the occupied West Bank a closed military zone, claiming the order was aimed to prevent escalating attacks by marauding Israeli settlers. It ostensibly bars Israelis and foreigners from entering the area. But residents of the village and the surrounding area told Drop Site News that the military order is designed to further isolate\u2026",
+   "summaryFrom": "dropsite",
    "emphasis": null,
    "absent": [
     "corp",
-    "coop"
+    "family"
    ],
    "headline": "US urges Netanyahu to condemn settlers besieging Palestinians in West Bank",
    "updated": "2026-08-15T08:52:10+00:00",
@@ -1018,7 +1066,7 @@
    "counts": {
     "pub": 3,
     "nonprofit": 2,
-    "family": 1
+    "coop": 1
    },
    "newsCount": 6,
    "opinionCount": 0,
@@ -1043,15 +1091,6 @@
      "summary": "The standoff in Qusra between Palestinian families and Israeli settlers who apparently want to push them out entered a new stage Friday as activists supporting the Palestinians marched toward the besieged homes to replenish their dwindling food and water supply."
     },
     {
-     "outlet": "nyt",
-     "title": "As Army Fails to Protect Palestinians, Israeli Leaders Sympathize With Settlers",
-     "url": "https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html",
-     "author": "David M. Halbfinger and Adam Rasgon",
-     "kind": "news",
-     "published": "2026-08-14T21:01:21+00:00",
-     "summary": "Defense Minister Katz called for the military to turn over to the police the responsibility for protecting Palestinians after two West Bank families were besieged by violent settlers."
-    },
-    {
      "outlet": "bbc",
      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
      "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
@@ -1071,12 +1110,21 @@
     },
     {
      "outlet": "guardian",
-     "title": "Israeli militants besiege two Palestinian families in their West Bank homes",
-     "url": "https://www.theguardian.com/world/2026/aug/12/israeli-militants-besiege-two-palestinian-families-in-their-west-bank-homes",
+     "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
+     "url": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
      "author": "Emma Graham-Harrison in Jerusalem",
      "kind": "news",
-     "published": "2026-08-13T06:45:27+00:00",
-     "summary": "Settlers and soldiers cut off water and electricity to homes, and block medical care in campaign of terror Israeli militants have besieged two Palestinian families in their homes since the weekend, aiming to take over their properties in the West Bank village of Qusra through a campaign of terror. A group of settlers and soldiers set up a tent outside the home of Yousef Hassan\u2019s family on Sunday afternoon, trapping him inside with his wife and two young daughters. Continue reading..."
+     "published": "2026-08-13T18:54:09+00:00",
+     "summary": "Former PM of Israel calls events \u2018concerted and meticulous attempt at ethnic cleansing\u2019 against Palestinians Israeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top Israeli commander personally promised he would end a violent settler campaign to drive them out. Israeli soldiers also took over eight other homes in Qusra early on Thursday, telling the village\u2019s mayor, Abdul Azim Wadi, that the buildings were needed for a days-long operation to remove the settlers. They later relinquished six. Settlers still roam the village. Continue reading..."
+    },
+    {
+     "outlet": "dropsite",
+     "title": "In West Bank Village, a New Israeli Order Enables Settler Attacks While Claiming to Prevent Them",
+     "url": "https://www.dropsitenews.com/p/taybeh-west-bank-closed-military-zone-settlers",
+     "author": "Sharif Abdel Kouddous",
+     "kind": "news",
+     "published": "2026-08-12T17:24:18+00:00",
+     "summary": "Drop Site is a reader-funded, independent news outlet. Without your support, we can&#8217;t operate. Please consider becoming a paid subscriber or making a 501(c)(3) tax-deductible donation today . Subscribe now Israeli settlers continue their raids on the Palestinian village of Taybeh in the occupied West Bank despite the Israeli army declaring the area a 'closed military zone,' on August 10, 2026. Photo by Issam Rimawi/Anadolu via Getty Images. TAYBEH, Occupied West Bank*&#8212;On Sunday, the Israeli military declared the Palestinian village of Taybeh in the occupied West Bank a closed military zone, claiming the order was aimed to prevent escalating attacks by marauding Israeli settlers. It ostensibly bars Israelis and foreigners from entering the area. But residents of the village and the surrounding area told Drop Site News that the military order is designed to further isolate Taybeh from the outside world, barring solidarity activists from the area while allowing settler attacks to continue. One of the few Christian-majority Palestinian villages in the West Bank, Taybeh has come under growing attacks by Israeli settlers who have expanded colonial outposts encircling it over "
     }
    ]
   },
@@ -1094,9 +1142,9 @@
      "filed"
     ],
     "indie": [
-     "monetize",
+     "company",
      "announced",
-     "company"
+     "monetize"
     ]
    },
    "absent": [
@@ -1171,12 +1219,12 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "president",
      "appeared",
      "donald",
+     "president",
      "images",
      "marco",
-     "jobs"
+     "birthday"
     ],
     "indie": [
      "work",
@@ -1247,84 +1295,131 @@
    ]
   },
   {
-   "id": "623022e5fd",
-   "topic": "Other",
-   "summary": "An American missionary held in captivity in Niger for nine months will soon reunite with his family. Christian missionary pilot Kevin Rideout is free and safe with American officials after his kidnapping last year, his mission organization said Friday. It is not yet known how he escaped captivity or what group was holding him, but Islamist terror groups run rampant in Niger. Rideout, a father of four, was working with the Evangelical organization Serving in Mission (SIM) when he was kidnapped from Niamey, Niger, on October 21, 2025. \u201cWe are grateful to confirm that our good friend and brother in Christ, Kevin Rideout, has been released after over nine months in captivity,\u201d the organization said in a statement. \u201cKevin is in good health in the care of US officials. He will soon be reunited with Krista [Rideout\u2019s wife], his children, and his extended family.\u201d President Donald Trump\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 3,
-    "big": [
-     "pilot",
-     "organization"
-    ],
-    "indie": [
-     "reunited",
-     "international",
-     "october",
-     "care"
-    ]
-   },
+   "id": "747ada6701",
+   "topic": "Politics",
+   "summary": "A cheap currency helps finance the US tech boom. Washington is intervening because allies matter only when they are useful Japan\u2019s yen has slid back towards 160 to the dollar, despite last month\u2019s extraordinary US-Japanese intervention. Traders are betting that its role as a cheap&nbsp;funding pipeline for global finance will continue.&nbsp;Earlier this month the Trump administration&nbsp;stepped in to help Tokyo stabilise its currency. \u201cJapan\u2019s been very good to us, with the exception, of course, of Pearl Harbor,\u201d Donald Trump explained . More help is likely to be on its way. But this is less a rescue of the yen than an attempt by Scott Bessent, the US treasury secretary, to preserve a cash spigot that benefits the US. Japan\u2019s ultra-cheap money has become a global funding utility: bankers borrow yen, sell them for dollars and buy higher-returning US assets, notably tech shares. Rising\u2026",
+   "summaryFrom": "guardian",
+   "emphasis": null,
    "absent": [
-    "corp",
-    "coop"
+    "coop",
+    "pub"
    ],
-   "headline": "American missionary kidnapped in Niger freed after nine months",
-   "updated": "2026-08-14T16:50:50+00:00",
+   "headline": "The Guardian view on Japan\u2019s yen: Trump wants to keep the easy-money machine running | Editorial",
+   "updated": "2026-08-14T21:29:14+00:00",
    "outletCount": 5,
    "counts": {
-    "family": 2,
-    "nonprofit": 2,
-    "pub": 1
+    "family": 3,
+    "corp": 1,
+    "nonprofit": 1
    },
    "newsCount": 4,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "nyt",
-     "title": "Kevin Rideout, American Missionary Kidnapped in Niger, Is Released",
-     "url": "https://www.nytimes.com/2026/08/14/world/africa/american-missionary-niger-rideout-released.html",
-     "author": "Ruth Maclean and Eric Schmitt",
+     "outlet": "bloomberg",
+     "title": "Trump to Attend Meeting with Crypto, Prediction Markets Execs",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-14/trump-to-attend-meeting-with-crypto-prediction-markets-execs",
+     "author": "Olga Kharif",
      "kind": "news",
-     "published": "2026-08-14T16:50:50+00:00",
-     "summary": "Kevin Rideout, a pilot, was abducted from his home in the country\u2019s capital, Niamey, last fall. His mission organization said he was in \u201cgood health\u201d after his release."
+     "published": "2026-08-14T21:29:14+00:00",
+     "summary": "President Donald Trump is expected to attend a meeting at the White House next Wednesday that will gather together high-level executives from crypto companies and prediction-market venues, according to a person familiar with the event."
+    },
+    {
+     "outlet": "semafor",
+     "title": "White House prepares to host crypto and prediction market execs",
+     "url": "https://www.semafor.com/article/08/14/2026/white-house-prepares-to-host-crypto-and-prediction-market-execs",
+     "author": "Eleanor Mueller",
+     "kind": "news",
+     "published": "2026-08-14T20:29:14+00:00",
+     "summary": "A White House meeting slated for Wednesday with cryptocurrency and prediction market players is expected to feature remarks from President Donald Trump as well as CFTC Chair Mike Selig, people familiar with the plans told Semafor. Attendees, according to those people, will include executives from cryptocurrency firms Coinbase, a16z, Ripple, and Chainlink, plus prediction market Kalshi and investment firm Paradigm (a Kalshi backer), as well as trade association Digital Chamber. Patrick Witt, executive director of the president\u2019s council of advisers for digital assets, will also be there. It\u2019s viewed as a small-group kick-off for the inaugural meeting of the CFTC\u2019s 35-person Innovation Advisory Committee on Thursday. (Coinbase, a16z, Ripple, Chainlink, Kalshi and Paradigm are members, as are others like CME Group and Intercontinental Exchange.) The White House and CFTC did not comment on the event, which Politico first reported ."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump wants to put golden seals on White House ballroom",
+     "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-wants-put-golden-seals-white-house-ballroom/",
+     "author": "Dan Diamond, Jonathan Edwards",
+     "kind": "news",
+     "published": "2026-08-14T19:50:02+00:00",
+     "summary": "The planned adornments, which were included in renderings submitted to the Supreme Court, break with tradition and the original vision for the White House grounds."
+    },
+    {
+     "outlet": "rollingstone",
+     "title": "Trump Is Spending Nearly $1 Billion in Taxpayer Money on Gaudy White House Renovations: Report",
+     "url": "https://www.rollingstone.com/politics/politics-news/trump-spending-billion-white-house-renovations-1235607598/",
+     "author": "Nikkimccannramirez",
+     "kind": "news",
+     "published": "2026-08-12T18:37:51+00:00",
+     "summary": "The White House is funneling millions into executive maintenance accounts without oversight or approval from Congress, The Washington Post reports"
     },
     {
      "outlet": "guardian",
-     "title": "American missionary kidnapped in Niger freed after nine months",
-     "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
-     "author": "Eromo Egbejule in Abidjan and agencies",
-     "kind": "news",
-     "published": "2026-08-14T14:55:17+00:00",
-     "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Serving in Mission International said Kevin Rideout \u201cis in good health in the care of US officials\u201d and would soon be reunited with his extended family. Continue reading..."
-    },
-    {
-     "outlet": "npr",
-     "title": "U.S. missionary who was kidnapped in Niger is released",
-     "url": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
-     "author": "Jewel Bright",
-     "kind": "news",
-     "published": "2026-08-14T12:11:50+00:00",
-     "summary": "Kevin Rideout \"is in good health in the care of US officials,\" SIM International said in a statement, adding he would soon be reunited with his family. (Image credit: AP Photo)"
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Kidnapped American Missionary\u2019s Family Gets The News They\u2019ve Waited Nine Months To Hear",
-     "url": "https://www.dailywire.com/news/kidnapped-american-missionarys-family-gets-the-news-theyve-waited-nine-months-to-hear",
-     "author": "Leif Le Mahieu",
+     "title": "The Guardian view on Japan\u2019s yen: Trump wants to keep the easy-money machine running | Editorial",
+     "url": "https://www.theguardian.com/commentisfree/2026/aug/12/the-guardian-view-on-japans-yen-trump-wants-to-keep-the-easy-money-machine-running",
+     "author": "Editorial",
      "kind": "opinion",
-     "published": "2026-08-14T10:25:19+00:00",
-     "summary": "An American missionary held in captivity in Niger for nine months will soon reunite with his family. Christian missionary pilot Kevin Rideout is free and safe with American officials after his kidnapping last year, his mission organization said Friday. It is not yet known how he escaped captivity or what group was holding him, but Islamist terror groups run rampant in Niger. Rideout, a father of four, was working with the Evangelical organization Serving in Mission (SIM) when he was kidnapped from Niamey, Niger, on October 21, 2025. \u201cWe are grateful to confirm that our good friend and brother in Christ, Kevin Rideout, has been released after over nine months in captivity,\u201d the organization said in a statement. \u201cKevin is in good health in the care of US officials. He will soon be reunited with Krista [Rideout\u2019s wife], his children, and his extended family.\u201d President Donald Trump celebrated Rideout&#8217;s freedom, noting that the White House aided the return. &#8220;I am proud to announce that Kevin Rideout, a wonderful Christian Missionary, is back in United States Custody. Kevin was kidnapped by Jihadi terrorists in West Africa \u2014 The epicenter of Islamist terrorism, where there h"
+     "published": "2026-08-12T17:39:46+00:00",
+     "summary": "A cheap currency helps finance the US tech boom. Washington is intervening because allies matter only when they are useful Japan\u2019s yen has slid back towards 160 to the dollar, despite last month\u2019s extraordinary US-Japanese intervention. Traders are betting that its role as a cheap&nbsp;funding pipeline for global finance will continue.&nbsp;Earlier this month the Trump administration&nbsp;stepped in to help Tokyo stabilise its currency. \u201cJapan\u2019s been very good to us, with the exception, of course, of Pearl Harbor,\u201d Donald Trump explained . More help is likely to be on its way. But this is less a rescue of the yen than an attempt by Scott Bessent, the US treasury secretary, to preserve a cash spigot that benefits the US. Japan\u2019s ultra-cheap money has become a global funding utility: bankers borrow yen, sell them for dollars and buy higher-returning US assets, notably tech shares. Rising American stock markets support collateral and&nbsp;investment. Japan\u2019s \u201ccarry trade\u201d is one of the reasons Wall Street can lever hundreds of billions into AI. Research suggests AI sucks up more than 1% of US GDP. Do you have an opinion on the issues raised in this article? If you would like to submit"
+    }
+   ]
+  },
+  {
+   "id": "93c3d10044",
+   "topic": "Politics",
+   "summary": "Florida Gov. Ron DeSantis on Friday became the latest elected Republican to declare he would not support Rep. Cory Mills's (R) reelection bid in Florida's 7th Congressional District. \u201cI have not endorsed Cory Mills, and I do not support Cory Mills,\u201d the Florida governor said when asked during a Friday press conference, captured by C-SPAN...",
+   "summaryFrom": "thehill",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "DeSantis\u2019 replacement, DSA push, ethics scandals and redistricting shakeout: What to watch in Florida\u2019s primary election",
+   "updated": "2026-08-15T10:09:11+00:00",
+   "outletCount": 4,
+   "counts": {
+    "family": 3,
+    "corp": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "DeSantis\u2019 replacement, DSA push, ethics scandals and redistricting shakeout: What to watch in Florida\u2019s primary election",
+     "url": "https://nypost.com/2026/08/15/us-news/desantis-replacement-dsa-push-ethics-scandals-and-redistricting-shakeout-what-to-watch-in-floridas-primary-election/",
+     "author": "Victor Nava",
+     "kind": "news",
+     "published": "2026-08-15T10:09:11+00:00",
+     "summary": "The Aug. 18 contests will also be the first since the Sunshine State implemented new congressional maps that experts believe will give Republicans an edge in four House districts come the November midterm elections."
     },
     {
-     "outlet": "bbc",
-     "title": "US missionary released following kidnap in Niger, Christian group says",
-     "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
-     "author": null,
+     "outlet": "thehill",
+     "title": "Gov. DeSantis latest to not support Rep. Mills ahead of Florida primary",
+     "url": "https://thehill.com/homenews/campaign/6030926-desantis-mills-denouncement-republican-primary-florida/",
+     "author": "Sarah Davis",
      "kind": "news",
-     "published": "2026-08-14T10:18:02+00:00",
-     "summary": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials."
+     "published": "2026-08-14T22:35:26+00:00",
+     "summary": "Florida Gov. Ron DeSantis on Friday became the latest elected Republican to declare he would not support Rep. Cory Mills's (R) reelection bid in Florida's 7th Congressional District. \u201cI have not endorsed Cory Mills, and I do not support Cory Mills,\u201d the Florida governor said when asked during a Friday press conference, captured by C-SPAN..."
+    },
+    {
+     "outlet": "wapo",
+     "title": "DeSantis says he doesn\u2019t support Republican Rep. Cory Mills in Tuesday\u2019s primary",
+     "url": "https://www.washingtonpost.com/politics/2026/08/14/desantis-says-he-doesnt-support-republican-rep-cory-mills-tuesdays-primary/",
+     "author": "Anna Liss-Roy",
+     "kind": "news",
+     "published": "2026-08-14T19:53:56+00:00",
+     "summary": "The congressman is running for a third term under a cloud of controversy."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Gov. Ron DeSantis: I Do Not Endorse or Support Cory Mills",
+     "url": "https://www.breitbart.com/politics/2026/08/14/gov-ron-desantis-i-do-not-endorse-support-cory-mills/",
+     "author": "Hannah Knudsen",
+     "kind": "news",
+     "published": "2026-08-14T19:29:26+00:00",
+     "summary": "Florida Gov. Ron DeSantis (R) said during a press conference on Friday that he does not support Rep. Cory Mills' (R-FL) reelection campaign. The post Gov. Ron DeSantis: I Do Not Endorse or Support Cory Mills appeared first on Breitbart ."
     }
    ]
   },
@@ -1340,9 +1435,9 @@
      "afghanistan"
     ],
     "indie": [
-     "lives",
      "rule",
-     "women"
+     "women",
+     "lives"
     ]
    },
    "absent": [
@@ -1408,12 +1503,12 @@
     "bigCount": 3,
     "indieCount": 3,
     "big": [
-     "review",
      "airport",
-     "ordered",
+     "review",
+     "foot-washing",
      "scraps",
-     "controversial",
-     "foot-washing"
+     "ordered",
+     "grants"
     ],
     "indie": [
      "order"
@@ -1681,126 +1776,6 @@
    ]
   },
   {
-   "id": "95490ee1ae",
-   "topic": "Justice & Policing",
-   "summary": "On this day in 2025, 37-year-old paralegal Sean Dunn was charged with felony assault for throwing a sandwich at an immigration agent in Washington, DC. In an early fiasco for Fox host turned DC U.S. attorney Jeanine Pirro, the charge was downgraded before Dunn was acquitted. Happy Thursday! Swin here. There&#8217;s an episode from the classic era of &#8216;The Simpsons&#8217; (yeah that&#8217;s right; I&#8217;m referencing the show again ) in which the billionaire Republican tyrant Mr. Burns jumps in an escape pod and mercilessly locks out his ultra-sycophantic assistant, Waylon Smithers , because Burns wants more leg room, all the while expecting his yes-man to keep on serving. Donald Trump did his version with his decoy Air Force One caper &#8211; and I&#8217;m very sorry, I simply cannot pretend it isn&#8217;t tremendously funny. In today&#8217;s &#8216; First Draft ,&#8217; we get\u2026",
-   "summaryFrom": "zeteo",
-   "emphasis": null,
-   "absent": [
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "DOJ refers to Air Force One threat as 'assassination attempt' in ballroom appeal",
-   "updated": "2026-08-15T00:21:02+00:00",
-   "outletCount": 4,
-   "counts": {
-    "corp": 2,
-    "family": 1,
-    "coop": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "DOJ refers to Air Force One threat as 'assassination attempt' in ballroom appeal",
-     "url": "https://thehill.com/homenews/administration/6031052-doj-refers-to-air-force-one-threat-as-assassination-attempt-in-ballroom-appeal/",
-     "author": "Sarah Davis",
-     "kind": "news",
-     "published": "2026-08-15T00:21:02+00:00",
-     "summary": "The Justice Department described the Iranian missile threat incident that led President Trump to secretly switch planes last month as an \u201cassassination attempt\u201d in a new court filing on Friday. U.S. Solicitor General John Sauer mentioned the incident in an emergency appeal to Supreme Court asking it to overturn a lower court\u2019s block on the..."
-    },
-    {
-     "outlet": "nyt",
-     "title": "How The New York Times Reported on Trump\u2019s Air Force One Ruse in Turkey",
-     "url": "https://www.nytimes.com/2026/08/14/insider/trump-air-force-one-decoy-reporters.html",
-     "author": "Megan DiTrolio, Peter Baker, Doug Mills and Richard W. Stevenson",
-     "kind": "news",
-     "published": "2026-08-14T19:20:46+00:00",
-     "summary": "President Donald Trump walked off Air Force One in Britain, but as was recently revealed he had not flown on the plane."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump admin says WH ballroom 'beyond the point of no return' in Supreme Court appeal",
-     "url": "https://abcnews.com/Politics/trump-appeals-supreme-court-white-house-ballroom-construction/story?id=135642539",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T16:52:25+00:00",
-     "summary": "The Trump administration is asking the Supreme Court to allow construction of the president's White House ballroom to continue."
-    },
-    {
-     "outlet": "zeteo",
-     "title": "\u2708\ufe0f \ud83d\ude9a Moronic Trump Thinks It\u2019s Funny He Left the Media on Death Force One",
-     "url": "https://zeteo.com/p/moronic-trump-thinks-its-funny-he",
-     "author": "Asawin Suebsaeng",
-     "kind": "news",
-     "published": "2026-08-13T11:33:22+00:00",
-     "summary": "On this day in 2025, 37-year-old paralegal Sean Dunn was charged with felony assault for throwing a sandwich at an immigration agent in Washington, DC. In an early fiasco for Fox host turned DC U.S. attorney Jeanine Pirro, the charge was downgraded before Dunn was acquitted. Happy Thursday! Swin here. There&#8217;s an episode from the classic era of &#8216;The Simpsons&#8217; (yeah that&#8217;s right; I&#8217;m referencing the show again ) in which the billionaire Republican tyrant Mr. Burns jumps in an escape pod and mercilessly locks out his ultra-sycophantic assistant, Waylon Smithers , because Burns wants more leg room, all the while expecting his yes-man to keep on serving. Donald Trump did his version with his decoy Air Force One caper &#8211; and I&#8217;m very sorry, I simply cannot pretend it isn&#8217;t tremendously funny. In today&#8217;s &#8216; First Draft ,&#8217; we get into the wild saga of Trump, his planes, and his apparently expendable aides. Plus, responses to a progressive defeat in Wisconsin and a progressive win in Minnesota suggest Democrats might just have read the memo about the overwhelming need for unity in the attempt to wrest Congress away from the GOP"
-    }
-   ]
-  },
-  {
-   "id": "1b9e6dc6b6",
-   "topic": "Other",
-   "summary": "Teenage British cyclist Finlay Tarling died Friday following a tragic incident in the Volta a Portugal race, NSN Cycling Team announced to social media. Tarling, 19, was run over by a car that entered the road, according to local reports. The driver reportedly missed the signs from stewards and entered the road going in the opposite direction of the race. \"We are heartbroken to announce the passing of Finlay Tarling at the Volta a Portugal today,\" NSN Cycling Team said on X. \"Fin was a much loved member of our team but most importantly, he was a son, a brother, and a friend to so many. He will be deeply missed.\" CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM The incident occurred during the eighth stage of the race, between Melga\u00e7o and Fafe in northern Portugal. Tarling was immediately attended to by doctors. It wasn\u2019t clear if other riders were involved. \"At this moment of profound\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "nonprofit"
-   ],
-   "headline": "Teenage British cyclist Finlay \u2060Tarling dies in Tour of Portugal accident",
-   "updated": "2026-08-14T23:51:30+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 2,
-    "pub": 1,
-    "coop": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "British Cyclist Finlay Tarling, 19, Killed in Crash at Volta a Portugal",
-     "url": "https://www.breitbart.com/sports/2026/08/14/british-cyclist-finlay-tarling-killed-crash-volta-a-portugal/",
-     "author": "Mariane Angela",
-     "kind": "news",
-     "published": "2026-08-14T23:51:30+00:00",
-     "summary": "British cyclist Finlay Tarling died Friday during the eighth stage of the Volta a Portugal, race organizers confirmed, leading officials to neutralize the remainder of the stage. The post British Cyclist Finlay Tarling, 19, Killed in Crash at Volta a Portugal appeared first on Breitbart ."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Teenage British cyclist Finlay Tarling dies after tragic incident in Volta a Portugal race",
-     "url": "https://www.foxnews.com/sports/teenage-british-cyclist-finlay-tarling-dies-tragic-incident-volta-portugal-race",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T22:05:39+00:00",
-     "summary": "Teenage British cyclist Finlay Tarling died Friday following a tragic incident in the Volta a Portugal race, NSN Cycling Team announced to social media. Tarling, 19, was run over by a car that entered the road, according to local reports. The driver reportedly missed the signs from stewards and entered the road going in the opposite direction of the race. \"We are heartbroken to announce the passing of Finlay Tarling at the Volta a Portugal today,\" NSN Cycling Team said on X. \"Fin was a much loved member of our team but most importantly, he was a son, a brother, and a friend to so many. He will be deeply missed.\" CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM The incident occurred during the eighth stage of the race, between Melga\u00e7o and Fafe in northern Portugal. Tarling was immediately attended to by doctors. It wasn\u2019t clear if other riders were involved. \"At this moment of profound dismay, the organization of the Volta a Portugal and the Portuguese Cycling Federation express their most heartfelt condolences to the family of Finlay Tarling, to his teammates, to the NSN Development Team, and to all his friends and loved ones,\" organizers said on X. ZERO BS. JUST DAKICH. TAKE THE"
-    },
-    {
-     "outlet": "france24",
-     "title": "Teenage British cyclist Finlay \u2060Tarling dies in Tour of Portugal accident",
-     "url": "https://www.france24.com/en/sport/20260814-teenage-british-cyclist-finlay-tarling-dies-in-tour-of-portugal-accident",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-14T17:41:09+00:00",
-     "summary": "19-year-old British cyclist Finlay \u2060Tarling died \u200bfollowing a \"serious accident\" during the eighth stage \u200bof the Tour of Portugal race, tour organisers and his team said on Friday."
-    },
-    {
-     "outlet": "escapecollective",
-     "title": "NSN's Finlay Tarling dies following Volta a Portugal crash",
-     "url": "https://escapecollective.com/nsns-finlay-tarling-dies-following-volta-a-portugal-crash/",
-     "author": "Caley Fretz",
-     "kind": "news",
-     "published": "2026-08-14T16:46:32+00:00",
-     "summary": "Finlay Tarling, a rider with the NSN Development team, has died following a crash on stage 8 of the Volta a Portugal, the race announced Friday. Tarling was 19. The statement from the race read: &#x201c;The organization of the 87th Volta a Portugal em Bicicleta Jogos Santa Casa deeply regrets to announce the passing of British cyclist Finlay Tarling, from the NSN Development Team, following a serious accident that occurred during the 8th stage of the race. In light of this tragic event, the race will be neutralized until reaching Fafe and, as a sign of respect and mourning, the podium ceremony scheduled for today will not take place.&#x201d; Born in Ceredigion in West Wales, Tarling raced for Great Britain on the road and track alongside his brother Josh, who races for Netcompany-Ineos. The circumstances of the crash have not yet been confirmed by authorities or the race, but according to Portuguese public broadcaster RTP , Tarling was struck and killed by a motorist who was unaffiliated with the event and traveling in the opposite direction from riders in the race. Portuguese prime minister Lu&#xed;s Montenegro addressed the incident in a post on X , calling it &quot;a piece of ne"
-    }
-   ]
-  },
-  {
    "id": "d9f9a4b05a",
    "topic": "Health",
    "summary": "The Ebola outbreak in the Democratic Republic of Congo spread to a sixth province as the overall death toll surpassed 2,100 and cases topped 4,500. Experts say the virus may have been transmitted undetected for months, while health workers have struggled to contain the outbreak with poor medical supplies and no approved vaccine for the new strain \u2014 though several are in the works. The head of the World Health Organization this week warned that the current outbreak threatens to be the biggest ever, with authorities playing catch-up to the disease after \u201c a big head start. \u201d During the previous deadliest outbreak, which killed 11,000 people between 2014 and 2016, authorities had recorded 755 cases at the same point . \u2014 Jeronimo Gonzalez",
@@ -1857,126 +1832,6 @@
      "kind": "news",
      "published": "2026-08-13T15:17:13+00:00",
      "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago. The current outbreak has killed more than 2,100 people out of more than 4,500 cases, according to the latest government figures released on Tuesday. At the same point in the 2014-16 outbreak in west Africa, the previous most deadly outbreak, 755 cases had been recorded, according to WHO data. Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "da71df6ae8",
-   "topic": "Politics",
-   "summary": "A White House meeting slated for Wednesday with cryptocurrency and prediction market players is expected to feature remarks from President Donald Trump as well as CFTC Chair Mike Selig, people familiar with the plans told Semafor. Attendees, according to those people, will include executives from cryptocurrency firms Coinbase, a16z, Ripple, and Chainlink, plus prediction market Kalshi and investment firm Paradigm (a Kalshi backer), as well as trade association Digital Chamber. Patrick Witt, executive director of the president\u2019s council of advisers for digital assets, will also be there. It\u2019s viewed as a small-group kick-off for the inaugural meeting of the CFTC\u2019s 35-person Innovation Advisory Committee on Thursday. (Coinbase, a16z, Ripple, Chainlink, Kalshi and Paradigm are members, as are others like CME Group and Intercontinental Exchange.) The White House and CFTC did not comment on\u2026",
-   "summaryFrom": "semafor",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Trump to Attend Meeting with Crypto, Prediction Markets Execs",
-   "updated": "2026-08-14T21:29:14+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 3,
-    "corp": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bloomberg",
-     "title": "Trump to Attend Meeting with Crypto, Prediction Markets Execs",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-14/trump-to-attend-meeting-with-crypto-prediction-markets-execs",
-     "author": "Olga Kharif",
-     "kind": "news",
-     "published": "2026-08-14T21:29:14+00:00",
-     "summary": "President Donald Trump is expected to attend a meeting at the White House next Wednesday that will gather together high-level executives from crypto companies and prediction-market venues, according to a person familiar with the event."
-    },
-    {
-     "outlet": "semafor",
-     "title": "White House prepares to host crypto and prediction market execs",
-     "url": "https://www.semafor.com/article/08/14/2026/white-house-prepares-to-host-crypto-and-prediction-market-execs",
-     "author": "Eleanor Mueller",
-     "kind": "news",
-     "published": "2026-08-14T20:29:14+00:00",
-     "summary": "A White House meeting slated for Wednesday with cryptocurrency and prediction market players is expected to feature remarks from President Donald Trump as well as CFTC Chair Mike Selig, people familiar with the plans told Semafor. Attendees, according to those people, will include executives from cryptocurrency firms Coinbase, a16z, Ripple, and Chainlink, plus prediction market Kalshi and investment firm Paradigm (a Kalshi backer), as well as trade association Digital Chamber. Patrick Witt, executive director of the president\u2019s council of advisers for digital assets, will also be there. It\u2019s viewed as a small-group kick-off for the inaugural meeting of the CFTC\u2019s 35-person Innovation Advisory Committee on Thursday. (Coinbase, a16z, Ripple, Chainlink, Kalshi and Paradigm are members, as are others like CME Group and Intercontinental Exchange.) The White House and CFTC did not comment on the event, which Politico first reported ."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Trump wants to put golden seals on White House ballroom",
-     "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-wants-put-golden-seals-white-house-ballroom/",
-     "author": "Dan Diamond, Jonathan Edwards",
-     "kind": "news",
-     "published": "2026-08-14T19:50:02+00:00",
-     "summary": "The planned adornments, which were included in renderings submitted to the Supreme Court, break with tradition and the original vision for the White House grounds."
-    },
-    {
-     "outlet": "rollingstone",
-     "title": "Trump Is Spending Nearly $1 Billion in Taxpayer Money on Gaudy White House Renovations: Report",
-     "url": "https://www.rollingstone.com/politics/politics-news/trump-spending-billion-white-house-renovations-1235607598/",
-     "author": "Nikkimccannramirez",
-     "kind": "news",
-     "published": "2026-08-12T18:37:51+00:00",
-     "summary": "The White House is funneling millions into executive maintenance accounts without oversight or approval from Congress, The Washington Post reports"
-    }
-   ]
-  },
-  {
-   "id": "ad774f0314",
-   "topic": "Justice & Policing",
-   "summary": "WASHINGTON \u2014 President Donald Trump promised Friday that authorities are on the &#8220;trail&#8221; of vandals who graffitied the World War II Memorial. &#8220;Our beautiful World War II Memorial was just hit by Spray Painting Vandals,&#8221; the president wrote on Truth Social Friday morning. &#8220;THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD WAR II,&#8221; Trump added. &#8220;First the Reflecting Pool, now this. We are on their trail! Where do these animals come from???&#8221; Vandals spray-painted red graffiti on the memorial on Thursday, with the message &#8220;Clean Hands Dirty $,&#8221; and filled the memorial&#8217;s fountain with soap and bubbles. U.S. Park Police are investigating the vandalism. The White House referred The Daily Wire to the Department of the Interior when asked to comment on the matter. In a statement, Interior called the\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Woman arrested after second world war memorial in DC vandalized",
-   "updated": "2026-08-14T19:04:23+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 2,
-    "nonprofit": 1,
-    "corp": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "DOJ Charges Kentucky Woman in World War II Memorial Vandalism Case",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/world-war-2-memorial-vandalism.html",
-     "author": "Karoun Demirjian",
-     "kind": "news",
-     "published": "2026-08-14T19:04:23+00:00",
-     "summary": "Two felony charges have been filed against a Kentucky woman after spray paint was seen on the memorial in the capital."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Woman arrested after second world war memorial in DC vandalized",
-     "url": "https://www.theguardian.com/us-news/2026/aug/14/world-war-two-memorial-dc-vandalism",
-     "author": "Edward Helmore",
-     "kind": "news",
-     "published": "2026-08-14T18:43:30+00:00",
-     "summary": "Suspect faces two felony charges after memorial filled with bubbles and spray-paint reading \u2018Clean hands Dirty $\u2019 A woman was arrested on Friday morning in connection with the vandalization of the National World War Two Memorial on the National Mall in Washington DC , the capital\u2019s federal prosecutor announced. Jeanine Pirro, the US attorney for the District of Columbia, announced mid-morning that a suspect was in custody and had been charged with federal crimes. Continue reading..."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Woman arrested and facing felony charges in World War II Memorial vandalism case, DOJ says",
-     "url": "https://www.nbcnews.com/politics/justice-department/woman-arrested-felony-charges-world-war-ii-memorial-vandalism-case-rcna592546",
-     "author": "Ryan J. Reilly",
-     "kind": "news",
-     "published": "2026-08-14T14:47:21+00:00",
-     "summary": "Vandalism can be seen at the World War II Memorial on August 13, 2026 in Washington D.C. Spray paint on the walls of the memorial states, \"Clean hands Dirty $\", and soap bubble over in the fountain below the graffiti."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Trump Vows Authorities Will Track Down \u2018Animals\u2019 Who Desecrated World War II Memorial",
-     "url": "https://www.dailywire.com/news/trump-vows-authorities-will-track-down-animals-who-desecrated-world-war-ii-memorial",
-     "author": "Mary Margaret Olohan",
-     "kind": "opinion",
-     "published": "2026-08-14T11:08:46+00:00",
-     "summary": "WASHINGTON \u2014 President Donald Trump promised Friday that authorities are on the &#8220;trail&#8221; of vandals who graffitied the World War II Memorial. &#8220;Our beautiful World War II Memorial was just hit by Spray Painting Vandals,&#8221; the president wrote on Truth Social Friday morning. &#8220;THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD WAR II,&#8221; Trump added. &#8220;First the Reflecting Pool, now this. We are on their trail! Where do these animals come from???&#8221; Vandals spray-painted red graffiti on the memorial on Thursday, with the message &#8220;Clean Hands Dirty $,&#8221; and filled the memorial&#8217;s fountain with soap and bubbles. U.S. Park Police are investigating the vandalism. The White House referred The Daily Wire to the Department of the Interior when asked to comment on the matter. In a statement, Interior called the vandalism an &#8220;utter disgrace&#8221; and said the public deserves to know who was responsible. \u201cThe vandalism that occurred is an utter disgrace and will not be tolerated,\u201d an Interior Department spokesperson said in a statement. \u201cThe public should know we will find the person responsible for this disgu"
     }
    ]
   },
@@ -2048,6 +1903,66 @@
    ]
   },
   {
+   "id": "623022e5fd",
+   "topic": "Other",
+   "summary": "An American missionary held in captivity in Niger for nine months will soon reunite with his family. Christian missionary pilot Kevin Rideout is free and safe with American officials after his kidnapping last year, his mission organization said Friday. It is not yet known how he escaped captivity or what group was holding him, but Islamist terror groups run rampant in Niger. Rideout, a father of four, was working with the Evangelical organization Serving in Mission (SIM) when he was kidnapped from Niamey, Niger, on October 21, 2025. \u201cWe are grateful to confirm that our good friend and brother in Christ, Kevin Rideout, has been released after over nine months in captivity,\u201d the organization said in a statement. \u201cKevin is in good health in the care of US officials. He will soon be reunited with Krista [Rideout\u2019s wife], his children, and his extended family.\u201d President Donald Trump\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "American missionary kidnapped in Niger freed after nine months",
+   "updated": "2026-08-14T14:55:17+00:00",
+   "outletCount": 4,
+   "counts": {
+    "nonprofit": 2,
+    "family": 1,
+    "pub": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 1,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "American missionary kidnapped in Niger freed after nine months",
+     "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+     "author": "Eromo Egbejule in Abidjan and agencies",
+     "kind": "news",
+     "published": "2026-08-14T14:55:17+00:00",
+     "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Serving in Mission International said Kevin Rideout \u201cis in good health in the care of US officials\u201d and would soon be reunited with his extended family. Continue reading..."
+    },
+    {
+     "outlet": "npr",
+     "title": "U.S. missionary who was kidnapped in Niger is released",
+     "url": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
+     "author": "Jewel Bright",
+     "kind": "news",
+     "published": "2026-08-14T12:11:50+00:00",
+     "summary": "Kevin Rideout \"is in good health in the care of US officials,\" SIM International said in a statement, adding he would soon be reunited with his family. (Image credit: AP Photo)"
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Kidnapped American Missionary\u2019s Family Gets The News They\u2019ve Waited Nine Months To Hear",
+     "url": "https://www.dailywire.com/news/kidnapped-american-missionarys-family-gets-the-news-theyve-waited-nine-months-to-hear",
+     "author": "Leif Le Mahieu",
+     "kind": "opinion",
+     "published": "2026-08-14T10:25:19+00:00",
+     "summary": "An American missionary held in captivity in Niger for nine months will soon reunite with his family. Christian missionary pilot Kevin Rideout is free and safe with American officials after his kidnapping last year, his mission organization said Friday. It is not yet known how he escaped captivity or what group was holding him, but Islamist terror groups run rampant in Niger. Rideout, a father of four, was working with the Evangelical organization Serving in Mission (SIM) when he was kidnapped from Niamey, Niger, on October 21, 2025. \u201cWe are grateful to confirm that our good friend and brother in Christ, Kevin Rideout, has been released after over nine months in captivity,\u201d the organization said in a statement. \u201cKevin is in good health in the care of US officials. He will soon be reunited with Krista [Rideout\u2019s wife], his children, and his extended family.\u201d President Donald Trump celebrated Rideout&#8217;s freedom, noting that the White House aided the return. &#8220;I am proud to announce that Kevin Rideout, a wonderful Christian Missionary, is back in United States Custody. Kevin was kidnapped by Jihadi terrorists in West Africa \u2014 The epicenter of Islamist terrorism, where there h"
+    },
+    {
+     "outlet": "bbc",
+     "title": "US missionary released following kidnap in Niger, Christian group says",
+     "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T10:18:02+00:00",
+     "summary": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials."
+    }
+   ]
+  },
+  {
    "id": "4a16daf682",
    "topic": "Politics",
    "summary": "With White House Press Secretary Karoline Leavitt set to step down from her role at the end of the month, the question of who will replace her is looming over Washington. Leavitt, 28, assumed the Press Secretary role at the beginning of President Donald Trump\u2019s second term last January, becoming the youngest person to ever hold the position. President Donald Trump announced Leavitt\u2019s departure in a post on Truth Social on Wednesday, saying that she would leave her role to focus on her family but that she would remain one of his \u201ctop advisors, and an influential voice within the Republican Party.\u201d Leavitt, who gave birth to her second child in May, thanked Trump in a lengthy post on X, in which she described her decision to focus on her two young children \u201cbittersweet.\u201d \u201cI will always remain a vocal advocate for MAGA and the Republican Party,\u201d Leavitt wrote. Read More: Karoline Leavitt\u2019s\u2026",
@@ -2056,9 +1971,9 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "role",
      "announced",
-     "trump"
+     "trump",
+     "role"
     ],
     "indie": []
    },
@@ -2168,108 +2083,6 @@
    ]
   },
   {
-   "id": "4dea841b58",
-   "topic": "Politics",
-   "summary": "Iranian officials and state media mocked President Donald Trump this week for switching planes during his trip to Turkey last month because the Secret Service was concerned about an assassination threat from Iran. The post Iranian State Media Mocks Trump for Secret Airplane Swap in Turkey appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Trump\u2019s secret plane swap, and a long-awaited Tupac trial: The news quiz",
-   "updated": "2026-08-15T09:15:00+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 2,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nbcnews",
-     "title": "Trump\u2019s secret plane swap, and a long-awaited Tupac trial: The news quiz",
-     "url": "https://www.nbcnews.com/news/news-quiz/trumps-secret-plane-swap-long-awaited-tupac-trial-news-quiz-rcna592371",
-     "author": "Josh Feldman",
-     "kind": "news",
-     "published": "2026-08-15T09:15:00+00:00",
-     "summary": "A pop star hits back at the White House, a total eclipse blankets much of Europe, and a dating app makes a big change."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Iranian State Media Mocks Trump for Secret Airplane Swap in Turkey",
-     "url": "https://www.breitbart.com/middle-east/2026/08/14/iranian-state-media-mocks-trump-for-secret-airplane-swap-in-turkey/",
-     "author": "John Hayward",
-     "kind": "news",
-     "published": "2026-08-14T19:11:30+00:00",
-     "summary": "Iranian officials and state media mocked President Donald Trump this week for switching planes during his trip to Turkey last month because the Secret Service was concerned about an assassination threat from Iran. The post Iranian State Media Mocks Trump for Secret Airplane Swap in Turkey appeared first on Breitbart ."
-    },
-    {
-     "outlet": "slate",
-     "title": "Did Trump really need to orchestrate the secret plane swap?",
-     "url": "https://slate.com/podcasts/political-gabfest/2026/08/politics-the-security-calculus-behind-the-trump-plane-swap?via=rss",
-     "author": "David Plotz, Emily Bazelon, and Juliette Kayyem",
-     "kind": "news",
-     "published": "2026-08-13T21:00:00+00:00",
-     "summary": "The rationale behind Trump\u2019s plane switch and whether an alternative could have protected the president without putting journalists in harm\u2019s way."
-    }
-   ]
-  },
-  {
-   "id": "a7ab091cf3",
-   "topic": "Justice & Policing",
-   "summary": "Drop Site is a reader-funded, independent news outlet. Without your support, we can&#8217;t operate. Please consider becoming a paid subscriber or making a 501(c)(3) tax-deductible donation today . Subscribe now Israeli settlers continue their raids on the Palestinian village of Taybeh in the occupied West Bank despite the Israeli army declaring the area a 'closed military zone,' on August 10, 2026. Photo by Issam Rimawi/Anadolu via Getty Images. TAYBEH, Occupied West Bank*&#8212;On Sunday, the Israeli military declared the Palestinian village of Taybeh in the occupied West Bank a closed military zone, claiming the order was aimed to prevent escalating attacks by marauding Israeli settlers. It ostensibly bars Israelis and foreigners from entering the area. But residents of the village and the surrounding area told Drop Site News that the military order is designed to further isolate\u2026",
-   "summaryFrom": "dropsite",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family"
-   ],
-   "headline": "Moment Israeli forces storm wedding hall in occupied West Bank",
-   "updated": "2026-08-15T07:13:11+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 1,
-    "nonprofit": 1,
-    "coop": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Moment Israeli forces storm wedding hall in occupied West Bank",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T07:13:11+00:00",
-     "summary": "Israeli forces stormed a wedding hall in al-Eizariya town in the occupied West Bank and assaulted Palestinian attendees."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
-     "url": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
-     "author": "Emma Graham-Harrison in Jerusalem",
-     "kind": "news",
-     "published": "2026-08-14T17:52:51+00:00",
-     "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading..."
-    },
-    {
-     "outlet": "dropsite",
-     "title": "In West Bank Village, a New Israeli Order Enables Settler Attacks While Claiming to Prevent Them",
-     "url": "https://www.dropsitenews.com/p/taybeh-west-bank-closed-military-zone-settlers",
-     "author": "Sharif Abdel Kouddous",
-     "kind": "news",
-     "published": "2026-08-12T17:24:18+00:00",
-     "summary": "Drop Site is a reader-funded, independent news outlet. Without your support, we can&#8217;t operate. Please consider becoming a paid subscriber or making a 501(c)(3) tax-deductible donation today . Subscribe now Israeli settlers continue their raids on the Palestinian village of Taybeh in the occupied West Bank despite the Israeli army declaring the area a 'closed military zone,' on August 10, 2026. Photo by Issam Rimawi/Anadolu via Getty Images. TAYBEH, Occupied West Bank*&#8212;On Sunday, the Israeli military declared the Palestinian village of Taybeh in the occupied West Bank a closed military zone, claiming the order was aimed to prevent escalating attacks by marauding Israeli settlers. It ostensibly bars Israelis and foreigners from entering the area. But residents of the village and the surrounding area told Drop Site News that the military order is designed to further isolate Taybeh from the outside world, barring solidarity activists from the area while allowing settler attacks to continue. One of the few Christian-majority Palestinian villages in the West Bank, Taybeh has come under growing attacks by Israeli settlers who have expanded colonial outposts encircling it over "
-    }
-   ]
-  },
-  {
    "id": "07516d5bdd",
    "topic": "Other",
    "summary": "Torero print, one of 30 known to exist signed by Picasso, was stolen from Bill DeLind\u2019s gallery in 2018 Bill DeLind thought the Picasso print that was stolen from his Milwaukee gallery in 2018 was gone forever. But then police called last week and asked him to look at an artwork that a local landlord found while cleaning out a vacant apartment. DeLind immediately recognized the stolen Torero print, one of 30 known to exist signed by Picasso. Continue reading...",
@@ -2317,57 +2130,6 @@
      "kind": "news",
      "published": "2026-08-14T10:00:01+00:00",
      "summary": "The print wasn\u2019t just any Picasso. In February 2018, it had vanished from a downtown Milwaukee art gallery."
-    }
-   ]
-  },
-  {
-   "id": "0dd9502fd4",
-   "topic": "Climate & Energy",
-   "summary": "The Taliban managed to retake power in Afghanistan on August 15, 2021. Now, they face armed factions who challenge the Taliban rule and strain their central claim of providing security.",
-   "summaryFrom": "dw",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Five years after the Taliban swept to power, does the West have any influence?",
-   "updated": "2026-08-15T04:01:19+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "pub": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Entrenched, Embattled and Defiant, the Taliban Celebrate 5 Years in Power",
-     "url": "https://www.nytimes.com/2026/08/15/world/asia/entrenched-embattled-and-defiant-the-taliban-celebrate-5-years-in-power.html",
-     "author": "Elian Peltier",
-     "kind": "news",
-     "published": "2026-08-15T04:01:19+00:00",
-     "summary": "The Taliban have Afghanistan in a chokehold that spares no one. But threats are starting to crack their veneer of stability and control."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Five years after the Taliban swept to power, does the West have any influence?",
-     "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T17:00:14+00:00",
-     "summary": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left"
-    },
-    {
-     "outlet": "dw",
-     "title": "Taliban pressured by insurgents after 5 years in power",
-     "url": "https://www.dw.com/en/taliban-pressured-by-insurgents-after-5-years-in-power/a-78371144?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T13:49:00+00:00",
-     "summary": "The Taliban managed to retake power in Afghanistan on August 15, 2021. Now, they face armed factions who challenge the Taliban rule and strain their central claim of providing security."
     }
    ]
   },
@@ -2525,53 +2287,53 @@
    ]
   },
   {
-   "id": "246a254587",
-   "topic": "Politics",
-   "summary": "Florida Gov. Ron DeSantis on Friday became the latest elected Republican to declare he would not support Rep. Cory Mills's (R) reelection bid in Florida's 7th Congressional District. \u201cI have not endorsed Cory Mills, and I do not support Cory Mills,\u201d the Florida governor said when asked during a Friday press conference, captured by C-SPAN...",
-   "summaryFrom": "thehill",
+   "id": "1b9e6dc6b6",
+   "topic": "Other",
+   "summary": "Finlay Tarling, a rider with the NSN Development team, has died following a crash on stage 8 of the Volta a Portugal, the race announced Friday. Tarling was 19. The statement from the race read: &#x201c;The organization of the 87th Volta a Portugal em Bicicleta Jogos Santa Casa deeply regrets to announce the passing of British cyclist Finlay Tarling, from the NSN Development Team, following a serious accident that occurred during the 8th stage of the race. In light of this tragic event, the race will be neutralized until reaching Fafe and, as a sign of respect and mourning, the podium ceremony scheduled for today will not take place.&#x201d; Born in Ceredigion in West Wales, Tarling raced for Great Britain on the road and track alongside his brother Josh, who races for Netcompany-Ineos. The circumstances of the crash have not yet been confirmed by authorities or the race, but according\u2026",
+   "summaryFrom": "escapecollective",
    "emphasis": null,
    "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
+    "corp",
+    "nonprofit"
    ],
-   "headline": "Gov. DeSantis latest to not support Rep. Mills ahead of Florida primary",
-   "updated": "2026-08-14T22:35:26+00:00",
+   "headline": "Teenage British cyclist Finlay \u2060Tarling dies in Tour of Portugal accident",
+   "updated": "2026-08-14T23:51:30+00:00",
    "outletCount": 3,
    "counts": {
-    "corp": 1,
-    "family": 2
+    "family": 1,
+    "pub": 1,
+    "coop": 1
    },
    "newsCount": 3,
    "opinionCount": 0,
-   "underreported": false,
+   "underreported": true,
    "articles": [
     {
-     "outlet": "thehill",
-     "title": "Gov. DeSantis latest to not support Rep. Mills ahead of Florida primary",
-     "url": "https://thehill.com/homenews/campaign/6030926-desantis-mills-denouncement-republican-primary-florida/",
-     "author": "Sarah Davis",
-     "kind": "news",
-     "published": "2026-08-14T22:35:26+00:00",
-     "summary": "Florida Gov. Ron DeSantis on Friday became the latest elected Republican to declare he would not support Rep. Cory Mills's (R) reelection bid in Florida's 7th Congressional District. \u201cI have not endorsed Cory Mills, and I do not support Cory Mills,\u201d the Florida governor said when asked during a Friday press conference, captured by C-SPAN..."
-    },
-    {
-     "outlet": "wapo",
-     "title": "DeSantis says he doesn\u2019t support Republican Rep. Cory Mills in Tuesday\u2019s primary",
-     "url": "https://www.washingtonpost.com/politics/2026/08/14/desantis-says-he-doesnt-support-republican-rep-cory-mills-tuesdays-primary/",
-     "author": "Anna Liss-Roy",
-     "kind": "news",
-     "published": "2026-08-14T19:53:56+00:00",
-     "summary": "The congressman is running for a third term under a cloud of controversy."
-    },
-    {
      "outlet": "breitbart",
-     "title": "Gov. Ron DeSantis: I Do Not Endorse or Support Cory Mills",
-     "url": "https://www.breitbart.com/politics/2026/08/14/gov-ron-desantis-i-do-not-endorse-support-cory-mills/",
-     "author": "Hannah Knudsen",
+     "title": "British Cyclist Finlay Tarling, 19, Killed in Crash at Volta a Portugal",
+     "url": "https://www.breitbart.com/sports/2026/08/14/british-cyclist-finlay-tarling-killed-crash-volta-a-portugal/",
+     "author": "Mariane Angela",
      "kind": "news",
-     "published": "2026-08-14T19:29:26+00:00",
-     "summary": "Florida Gov. Ron DeSantis (R) said during a press conference on Friday that he does not support Rep. Cory Mills' (R-FL) reelection campaign. The post Gov. Ron DeSantis: I Do Not Endorse or Support Cory Mills appeared first on Breitbart ."
+     "published": "2026-08-14T23:51:30+00:00",
+     "summary": "British cyclist Finlay Tarling died Friday during the eighth stage of the Volta a Portugal, race organizers confirmed, leading officials to neutralize the remainder of the stage. The post British Cyclist Finlay Tarling, 19, Killed in Crash at Volta a Portugal appeared first on Breitbart ."
+    },
+    {
+     "outlet": "france24",
+     "title": "Teenage British cyclist Finlay \u2060Tarling dies in Tour of Portugal accident",
+     "url": "https://www.france24.com/en/sport/20260814-teenage-british-cyclist-finlay-tarling-dies-in-tour-of-portugal-accident",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-14T17:41:09+00:00",
+     "summary": "19-year-old British cyclist Finlay \u2060Tarling died \u200bfollowing a \"serious accident\" during the eighth stage \u200bof the Tour of Portugal race, tour organisers and his team said on Friday."
+    },
+    {
+     "outlet": "escapecollective",
+     "title": "NSN's Finlay Tarling dies following Volta a Portugal crash",
+     "url": "https://escapecollective.com/nsns-finlay-tarling-dies-following-volta-a-portugal-crash/",
+     "author": "Caley Fretz",
+     "kind": "news",
+     "published": "2026-08-14T16:46:32+00:00",
+     "summary": "Finlay Tarling, a rider with the NSN Development team, has died following a crash on stage 8 of the Volta a Portugal, the race announced Friday. Tarling was 19. The statement from the race read: &#x201c;The organization of the 87th Volta a Portugal em Bicicleta Jogos Santa Casa deeply regrets to announce the passing of British cyclist Finlay Tarling, from the NSN Development Team, following a serious accident that occurred during the 8th stage of the race. In light of this tragic event, the race will be neutralized until reaching Fafe and, as a sign of respect and mourning, the podium ceremony scheduled for today will not take place.&#x201d; Born in Ceredigion in West Wales, Tarling raced for Great Britain on the road and track alongside his brother Josh, who races for Netcompany-Ineos. The circumstances of the crash have not yet been confirmed by authorities or the race, but according to Portuguese public broadcaster RTP , Tarling was struck and killed by a motorist who was unaffiliated with the event and traveling in the opposite direction from riders in the race. Portuguese prime minister Lu&#xed;s Montenegro addressed the incident in a post on X , calling it &quot;a piece of ne"
     }
    ]
   },
@@ -2627,57 +2389,6 @@
    ]
   },
   {
-   "id": "f842e084fc",
-   "topic": "Politics",
-   "summary": "Americans do not know enough about the Cold War, and much of what they think they know is wrong. After the fall of the Soviet Union in 1991, Republicans took a victory lap, rightly noting that the Soviet collapse was unimaginable when President Ronald Reagan first took office. Liberal critics, however, argued\u2014also rightly\u2014that the Soviet Union was a decaying, economically crippled giant by the time Reagan was inaugurated. In the years since, explanations of the ending of that great conflict have been reduced to the equivalent of partisan bumper stickers: We crushed the Kremlin in the arms race , or The U.S.S.R. imploded without any pressure from the West . In October 1986, Reagan and Soviet General Secretary Mikhail Gorbachev met to discuss nuclear-arms control in Reykjavik, Iceland. At the time, I was a young scholar in Washington, training in Soviet affairs and international relations\u2026",
-   "summaryFrom": "theatlantic",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "How Cold War Trauma And \u201870s Cinema Inspired Reagan-Gorbachev Drama \u2018The Brink Of War\u2019",
-   "updated": "2026-08-14T19:29:25+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 3
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "forbes",
-     "title": "How Cold War Trauma And \u201870s Cinema Inspired Reagan-Gorbachev Drama \u2018The Brink Of War\u2019",
-     "url": "https://www.forbes.com/sites/joshweiss/2026/08/14/how-cold-war-trauma-and-70s-cinema-inspired-reagan-gorbachev-drama-the-brink-of-war/",
-     "author": "Josh Weiss, Contributor",
-     "kind": "news",
-     "published": "2026-08-14T19:29:25+00:00",
-     "summary": "A dramatization of the 1986 Reykjav\u00edk Summit between Ronald Reagan and Mikhail Gorbachev, 'The Brink of War' stars Jeff Daniels, Jared Harris, and J.K. Simmons."
-    },
-    {
-     "outlet": "theatlantic",
-     "title": "A Cold War Movie That Gives Too Much Credit to Ronald Reagan",
-     "url": "https://www.theatlantic.com/ideas/2026/08/brink-of-war-reykjavik-summit/688279/?utm_source=feed",
-     "author": "Tom Nichols",
-     "kind": "news",
-     "published": "2026-08-14T12:00:00+00:00",
-     "summary": "Americans do not know enough about the Cold War, and much of what they think they know is wrong. After the fall of the Soviet Union in 1991, Republicans took a victory lap, rightly noting that the Soviet collapse was unimaginable when President Ronald Reagan first took office. Liberal critics, however, argued\u2014also rightly\u2014that the Soviet Union was a decaying, economically crippled giant by the time Reagan was inaugurated. In the years since, explanations of the ending of that great conflict have been reduced to the equivalent of partisan bumper stickers: We crushed the Kremlin in the arms race , or The U.S.S.R. imploded without any pressure from the West . In October 1986, Reagan and Soviet General Secretary Mikhail Gorbachev met to discuss nuclear-arms control in Reykjavik, Iceland. At the time, I was a young scholar in Washington, training in Soviet affairs and international relations at Georgetown University and working at the Center for Strategic and International Studies. (I was also a two-time Reagan voter.) When the Reykjavik meeting took place, no one was looking ahead to the collapse of the Soviet Union; Kremlin watchers were, mostly, relieved to see a Soviet general secre"
-    },
-    {
-     "outlet": "economist",
-     "title": "A bill to punish Putin gives too much power to Donald Trump",
-     "url": "https://www.economist.com/leaders/2026/08/13/a-bill-to-punish-putin-gives-too-much-power-to-donald-trump",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-13T13:12:35+00:00",
-     "summary": "Walloping the global trading system is no way to help Ukraine"
-    }
-   ]
-  },
-  {
    "id": "bcacbe2f5f",
    "topic": "Politics",
    "summary": "The son of former Mexican President Andres Manuel Lopez Obrador sent a rage-filled letter to U.S. President Donald Trump claiming that Secretary of State Marco Rubio and Deputy SOS Christopher Landau had acted in a Hitlerian manner by revoking his tourist visa as part of a political witch hunt aimed at targeting his father and Mexico\u2019s ruling party MORENA. The post Former Mexican President AMLO\u2019s Son&#8217;s U.S. Visa Revoked, Claims Innocence, Calls Marco Rubio Hitlerian Thug appeared first on Breitbart .",
@@ -2725,57 +2436,6 @@
      "kind": "news",
      "published": "2026-08-14T13:54:43+00:00",
      "summary": "The son of Mexico\u2019s former president accused the US of revoking his visa for political reasons, increasing pressure on current leader Claudia Sheinbaum amid simmering tensions with Washington."
-    }
-   ]
-  },
-  {
-   "id": "feb67c5925",
-   "topic": "Politics",
-   "summary": "Mark Lynch has endorsed Rep. Ralph Norman, R-S.C., the runner-up in South Carolina 's special Republican U.S. Senate primary, who will face first-place finisher Sen. Darline Graham, R-S.C., in a head-to-head runoff. Graham finished first in the Aug. 11 primary, with Norman advancing in second place. The runoff is scheduled for Aug. 25. Lynch \u2014 who finished second in the South Carolina Republican U.S. Senate primary that Sen. Lindsey Graham won in June \u2014 placed fifth in the special Republican U.S. Senate primary contest. \"I'm honored to receive Mark Lynch's support and endorsement in my race for U.S. Senate!\" Norman declared in a Wednesday post on X. SOUTH CAROLINA GOP SENATE SHOWDOWN HEADS TO RUNOFF IN RACE TO SUCCEED LINDSEY GRAHAM The post also included a statement, apparently from Lynch, stating, \"I am proud to endorse Ralph Norman for the United States Senate. Our country needs\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Russell Fry Backs Darline Graham in South Carolina Senate Runoff Amid Trump Pressure",
-   "updated": "2026-08-14T17:35:41+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 3
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Russell Fry Backs Darline Graham in South Carolina Senate Runoff Amid Trump Pressure",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/russell-fry-darline-graham-south-carolina.html",
-     "author": "Emily Davies",
-     "kind": "news",
-     "published": "2026-08-14T17:35:41+00:00",
-     "summary": "The president has been focused on the race since the death of Lindsey Graham in July. Ms. Graham, the late senator\u2019s sister, is competing against Representative Ralph Norman in a runoff on Aug. 25."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Amid intra-MAGA fight, Trump weighs going all in for Darline Graham",
-     "url": "https://www.washingtonpost.com/politics/2026/08/14/amid-intra-maga-fight-trump-weighs-going-all-darline-graham/",
-     "author": "Natalie Allison",
-     "kind": "news",
-     "published": "2026-08-14T16:08:56+00:00",
-     "summary": "The president is actively fighting for his endorsed candidate in the South Carolina Senate runoff, Sen. Darline Graham, the sister of the late Lindsey Graham."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Mark Lynch endorses Ralph Norman as congressman heads into runoff against Darline Graham",
-     "url": "https://www.foxnews.com/politics/ralph-norman-darline-graham-senate-runoff",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T10:13:09+00:00",
-     "summary": "Mark Lynch has endorsed Rep. Ralph Norman, R-S.C., the runner-up in South Carolina 's special Republican U.S. Senate primary, who will face first-place finisher Sen. Darline Graham, R-S.C., in a head-to-head runoff. Graham finished first in the Aug. 11 primary, with Norman advancing in second place. The runoff is scheduled for Aug. 25. Lynch \u2014 who finished second in the South Carolina Republican U.S. Senate primary that Sen. Lindsey Graham won in June \u2014 placed fifth in the special Republican U.S. Senate primary contest. \"I'm honored to receive Mark Lynch's support and endorsement in my race for U.S. Senate!\" Norman declared in a Wednesday post on X. SOUTH CAROLINA GOP SENATE SHOWDOWN HEADS TO RUNOFF IN RACE TO SUCCEED LINDSEY GRAHAM The post also included a statement, apparently from Lynch, stating, \"I am proud to endorse Ralph Norman for the United States Senate. Our country needs someone who will put America First, and the people of South Carolina have shown they are ready for a businessman and someone with a proven conservative record who will be their voice in Washington, D.C.\" Last month, South Carolina Gov. Henry McMaster appointed Darline Graham, the sister of the late Sen. "
     }
    ]
   },
@@ -2831,57 +2491,6 @@
    ]
   },
   {
-   "id": "39a35f8218",
-   "topic": "Tech",
-   "summary": "Sen. Bernie Sanders says he can\u2019t be everywhere at once \u2014 even though some of his allies want him to be. Democratic socialist Francesca Hong lost by less than 4,000 votes in Wisconsin\u2019s gubernatorial primary, an outcome several high-profile progressives are blaming on Sanders and other top national progressive leaders for staying out of the race . Some said his endorsement alone could have helped bring in badly needed resources for Hong. Others said the Vermont senator has a responsibility to play widely across the battle map. Sanders, in an interview, touted a series of progressive wins Tuesday night and brushed off the criticism. \u201cMy response is that we have limited resources and capabilities, and there are a lot of really great candidates who have run for office who we have not endorsed,\u201d Sanders told POLITICO on Wednesday. \u201cWe can\u2019t endorse every single candidate,\u201d he added. \u201cSo,\u2026",
-   "summaryFrom": "politico",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Francesca Hong\u2019s Loss in Wisconsin is a Win for AI Data Centers \u2014 for Now",
-   "updated": "2026-08-13T22:00:03+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "politico",
-     "title": "Bernie Sanders has a response for progressives upset over Hong\u2019s loss in Wisconsin",
-     "url": "https://www.politico.com/news/2026/08/13/bernie-sanders-wisconsin-progressives-hong-01037121",
-     "author": "By Meredith Lee Hill, Lisa Kashinsky, Will Steakin and Andrew Howard",
-     "kind": "news",
-     "published": "2026-08-13T22:00:03+00:00",
-     "summary": "Sen. Bernie Sanders says he can\u2019t be everywhere at once \u2014 even though some of his allies want him to be. Democratic socialist Francesca Hong lost by less than 4,000 votes in Wisconsin\u2019s gubernatorial primary, an outcome several high-profile progressives are blaming on Sanders and other top national progressive leaders for staying out of the race . Some said his endorsement alone could have helped bring in badly needed resources for Hong. Others said the Vermont senator has a responsibility to play widely across the battle map. Sanders, in an interview, touted a series of progressive wins Tuesday night and brushed off the criticism. \u201cMy response is that we have limited resources and capabilities, and there are a lot of really great candidates who have run for office who we have not endorsed,\u201d Sanders told POLITICO on Wednesday. \u201cWe can\u2019t endorse every single candidate,\u201d he added. \u201cSo, you know, we have to pick and choose and I think that Hong ran a very, very great, and very strong, grassroots campaign, got a lot of people involved and I applaud her for that.\u201d Hong ultimately lost to Milwaukee County Executive David Crowley, a major victory for establishment Democrats who worried sh"
-    },
-    {
-     "outlet": "intercept",
-     "title": "Francesca Hong\u2019s Loss in Wisconsin is a Win for AI Data Centers \u2014 for Now",
-     "url": "https://theintercept.com/2026/08/12/francesca-hong-wisconsin-governor-data-centers/",
-     "author": "Jessica Washington",
-     "kind": "news",
-     "published": "2026-08-12T21:25:10+00:00",
-     "summary": "Democratic Socialist Francesca Hong\u2019s narrow defeat in Wisconsin\u2019s Democratic gubernatorial primary on Tuesday night wasn\u2019t just a stinging blow to the left \u2014 it marks a political loss for a nonpartisan anti-data center movement that has been picking up significant steam across the country.&nbsp; Milwaukee County Executive David Crowley beat the odds to eke out a victory by less than a percentage point on election night, a surprise upset after Crowley, who would be Wisconsin&#8217;s first Black governor if he wins in November, dropped out of the race and then re-entered with the support of outgoing Democratic Wisconsin Gov. Tony Evers.&nbsp; The race became dominated in the final days by inane issues like whether Hong believed that Thanksgiving should exist, based on old tweets criticizing the holiday, echoing and accelerating the annual Fox News \u201cWar on Christmas\u201d panic . The sudden fury over old tweets was a distraction from a concrete issue that Hong had made a key focus of her public talking points and likely drove her surge in popularity: data centers. Related Francesca Hong\u2019s \u201cThanksgiving-Gate\u201d Shows Her Detractors Are Totally Out of Ideas Hong\u2019s campaign repeatedly emphasiz"
-    },
-    {
-     "outlet": "guardian",
-     "title": "What can we learn from Francesca Hong\u2019s loss in Wisconsin? | Ben Davis",
-     "url": "https://www.theguardian.com/commentisfree/2026/aug/12/francesca-hongs-defeat-wisconsin-lessons",
-     "author": "Ben Davis",
-     "kind": "opinion",
-     "published": "2026-08-12T18:00:35+00:00",
-     "summary": "A fairly overtly radical socialist winning about 40% of the vote in a primary like this was unthinkable even a few years ago The left\u2019s insurgency against the Democratic party establishment has hit its first serious bump in the road in Wisconsin. Democratic socialist Francesca Hong entered Tuesday up by big margins in the polls, the huge betting favorite. She left it just a few thousand votes short of the Democratic nomination. What happened, and how, offers extremely important lessons for both the left and the Democratic establishment. The first is that the party still matters. Its institutions and leaders matter. We saw that power in Democratic primaries in 2020. After Bernie Sanders won the Nevada caucuses and emerged as the frontrunner, party leaders rapidly consolidated around Joe Biden. Ben Davis works in political data in Washington DC. He worked on the data team for the Bernie Sanders 2020 campaign and is an active member of the Democratic Socialists of America Continue reading..."
-    }
-   ]
-  },
-  {
    "id": "d2ba78c3ac",
    "topic": "Politics",
    "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too\u2026",
@@ -2894,7 +2503,7 @@
     "pub"
    ],
    "headline": "Professor\u2019s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-   "updated": "2026-08-15T09:35:25+00:00",
+   "updated": "2026-08-15T10:35:44+00:00",
    "outletCount": 2,
    "counts": {
     "family": 2
@@ -2909,7 +2518,7 @@
      "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
      "author": "Mara Hvistendahl, Megan Specia, Leo Sands, Ali Watkins and Susan Dominus",
      "kind": "news",
-     "published": "2026-08-15T09:35:25+00:00",
+     "published": "2026-08-15T10:35:44+00:00",
      "summary": "Jason Arday, the school\u2019s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work."
     },
     {
@@ -2920,6 +2529,276 @@
      "kind": "opinion",
      "published": "2026-08-14T19:16:44+00:00",
      "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too long.&#8221; Arday, 41, was found unresponsive in his South London home on Friday \u2014 just over a week after he left his position at the prestigious university. Prior to leaving his post, he&#8217;d been accused of plagiarism and of embellishing his life story ahead of the release of his memoir, &#8220;Great a"
+    }
+   ]
+  },
+  {
+   "id": "ca8a28f6b2",
+   "topic": "Politics",
+   "summary": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich After the House passed its version of Donald Trump \u2019s One Big Beautiful Bill Act (OBBBA) last year \u2013 the one that paired a $5tn-plus tax cut with $1tn-plus of cuts from food stamps and Medicaid \u2013 the House speaker, Mike Johnson , explained that \u201cthis is not giving tax cuts to the millionaires\u201d. The beneficiaries, he said, were \u201csmall business owners\u201d that \u201cprovide the jobs in every community in America\u201d. Johnson was playing to the myth of the modest, sturdy Main Street job creator. It is an appealing story. It\u2019s also the most consequential piece of BS distorting American policy that deprives the government of tax revenue, stunts American capitalism, twists regulations, thwarts competition and overwhelmingly serves millionaires\u2019 interests. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Donald Trump doesn\u2019t just love billionaires, he loves multimillionaires too",
+   "updated": "2026-08-15T10:00:54+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Donald Trump doesn\u2019t just love billionaires, he loves multimillionaires too",
+     "url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
+     "author": "Eduardo Porter",
+     "kind": "news",
+     "published": "2026-08-15T10:00:54+00:00",
+     "summary": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich After the House passed its version of Donald Trump \u2019s One Big Beautiful Bill Act (OBBBA) last year \u2013 the one that paired a $5tn-plus tax cut with $1tn-plus of cuts from food stamps and Medicaid \u2013 the House speaker, Mike Johnson , explained that \u201cthis is not giving tax cuts to the millionaires\u201d. The beneficiaries, he said, were \u201csmall business owners\u201d that \u201cprovide the jobs in every community in America\u201d. Johnson was playing to the myth of the modest, sturdy Main Street job creator. It is an appealing story. It\u2019s also the most consequential piece of BS distorting American policy that deprives the government of tax revenue, stunts American capitalism, twists regulations, thwarts competition and overwhelmingly serves millionaires\u2019 interests. Continue reading..."
+    },
+    {
+     "outlet": "economist",
+     "title": "A bill to punish Putin gives too much power to Donald Trump",
+     "url": "https://www.economist.com/leaders/2026/08/13/a-bill-to-punish-putin-gives-too-much-power-to-donald-trump",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-13T13:12:35+00:00",
+     "summary": "Walloping the global trading system is no way to help Ukraine"
+    }
+   ]
+  },
+  {
+   "id": "6f1661f09a",
+   "topic": "Climate & Energy",
+   "summary": "Tropical Storm Lala could bring heavy rain, high winds and dangerous surf and rip currents to the Hawaiian Islands as a hurricane this weekend, forecasters say.",
+   "summaryFrom": "cbsnews",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Tropical Storm Lala Spaghetti Models As Hawaii Set To Be Hit In Hours",
+   "updated": "2026-08-15T09:59:35+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "Tropical Storm Lala Spaghetti Models As Hawaii Set To Be Hit In Hours",
+     "url": "https://www.newsweek.com/tropical-storm-lala-spaghetti-models-as-hawaii-set-to-be-hit-in-hours-12326703",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T09:59:35+00:00",
+     "summary": "Forecasters warn Lala is expected to reach hurricane strength as it approaches Hawaii\u2019s Big Island."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Hawaii under a hurricane warning as Tropical Storm Lala takes aim",
+     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T03:53:16+00:00",
+     "summary": "Tropical Storm Lala could bring heavy rain, high winds and dangerous surf and rip currents to the Hawaiian Islands as a hurricane this weekend, forecasters say."
+    }
+   ]
+  },
+  {
+   "id": "697dcc30d4",
+   "topic": "Other",
+   "summary": "Disney has announced at least part of its MCU X-Men cast, which include big names, upcoming names and a lot of surprises. Here are the actors.",
+   "summaryFrom": "forbes",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "\u2018X-Men\u2019 unveils Inde Navarrette, Adam Driver as part of star-studded cast at D23 Showcase",
+   "updated": "2026-08-15T09:52:52+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 3
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "\u2018X-Men\u2019 unveils Inde Navarrette, Adam Driver as part of star-studded cast at D23 Showcase",
+     "url": "https://pagesix.com/2026/08/15/entertainment/x-men-unveils-inde-navarrette-adam-driver-as-part-of-star-studded-cast-at-d23-showcase/",
+     "author": "Adam Silverstein",
+     "kind": "news",
+     "published": "2026-08-15T09:52:52+00:00",
+     "summary": "Marvel Studios president Kevin Feige unveiled the cast alongside star Sadie Sink."
+    },
+    {
+     "outlet": "forbes",
+     "title": "It\u2019s Official\u2014\u2019Obsession\u2019 Star Inde Navarrette Joins Marvel\u2019s \u2018X-Men\u2019 As Rogue",
+     "url": "https://www.forbes.com/sites/danidiplacido/2026/08/15/its-official-obsession-star-inde-navarrette-joins-marvels-x-men-as-rogue/",
+     "author": "Dani Di Placido, Senior Contributor",
+     "kind": "news",
+     "published": "2026-08-15T06:24:36+00:00",
+     "summary": "\u2018Obsession\u2019 star Inde Navarrette will play Rogue in the MCU\u2019s upcoming \u2018X-Men\u2019 reboot\u2014here\u2019s everything to know about the surprise casting."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Here Are The MCU X-Men Cast Members Revealed At D23",
+     "url": "https://www.forbes.com/sites/paultassi/2026/08/15/here-are-the-mcu-x-men-cast-members-revealed-at-d23/",
+     "author": "Paul Tassi, Senior Contributor",
+     "kind": "news",
+     "published": "2026-08-15T04:17:07+00:00",
+     "summary": "Disney has announced at least part of its MCU X-Men cast, which include big names, upcoming names and a lot of surprises. Here are the actors."
+    }
+   ]
+  },
+  {
+   "id": "e66e89fdb6",
+   "topic": "Other",
+   "summary": "NY Post readers discuss majority of third- to fifth-grade students in New York public schools failing their ELA test.",
+   "summaryFrom": "nypost",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Slate Mini Crossword for Aug. 15, 2026",
+   "updated": "2026-08-15T09:51:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "slate",
+     "title": "Slate Mini Crossword for Aug. 15, 2026",
+     "url": "https://slate.com/life/2026/08/crossword-slate-mini-daily-puzzle-aug-15-2026.html?via=rss",
+     "author": "Kavin Pawittranon",
+     "kind": "news",
+     "published": "2026-08-15T09:51:00+00:00",
+     "summary": "Take a quick break with our daily 5x5 grid."
+    },
+    {
+     "outlet": "nypost",
+     "title": "New York\u2019s literacy crisis: Letters to the Editor \u2014 Aug. 15, 2026",
+     "url": "https://nypost.com/2026/08/15/opinion/new-yorks-literacy-crisis-letters/",
+     "author": "Post readers",
+     "kind": "opinion",
+     "published": "2026-08-15T07:00:00+00:00",
+     "summary": "NY Post readers discuss majority of third- to fifth-grade students in New York public schools failing their ELA test."
+    },
+    {
+     "outlet": "slate",
+     "title": "Slate Crossword: Only Way to Travel from Antarctica (Five Letters)",
+     "url": "https://slate.com/life/2026/08/crossword-slate-daily-puzzle-aug-14-2026.html?via=rss",
+     "author": "Hemant Mehta",
+     "kind": "news",
+     "published": "2026-08-14T09:50:00+00:00",
+     "summary": "Ready for some wordplay? Sharpen your skills with Slate\u2019s puzzle for Aug. 14, 2026."
+    }
+   ]
+  },
+  {
+   "id": "463e87e366",
+   "topic": "Culture & Sport",
+   "summary": "Visma-Lease a Bike has confirmed that Fabio Jakobsen is joining the team with immediate effect after his departure from Picnic-PostNL at the start of the month. The 29-year-old Dutchman is now under contract through 2027. Jakobsen counts six Grand Tour stage wins on his career palmares. Two of those Grand Tour stage wins, including a Tour de France stage win in 2022, came after a life-threatening crash at the Tour of Poland in 2020. Recent years have been less successful for Jakobsen, who has battled various health issues, including iliac artery problems. &quot;We had been looking for a specialist for the pure flat sprints. The more we looked into Fabio&apos;s situation, the more convinced we became that there is still a great deal of untapped potential,&quot; said Visma head of performance Mathieu Heijboer. &quot;We believe we can create the right environment to help him unlock it. At\u2026",
+   "summaryFrom": "escapecollective",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Barcelona Confirms Landmark First Team Transfer",
+   "updated": "2026-08-15T09:44:56+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "coop": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "forbes",
+     "title": "Barcelona Confirms Landmark First Team Transfer",
+     "url": "https://www.forbes.com/sites/tomsanderson/2026/08/15/barcelona-confirms-landmark-first-team-transfer/",
+     "author": "Tom Sanderson, Senior Contributor",
+     "kind": "news",
+     "published": "2026-08-15T09:44:56+00:00",
+     "summary": "FC Barcelona has confirmed a landmark first team transfer via an email sent to the media and a statement published on its website."
+    },
+    {
+     "outlet": "escapecollective",
+     "title": "Visma confirms Jakobsen transfer with immediate effect",
+     "url": "https://escapecollective.com/visma-confirms-jakobsen-transfer-with-immediate-effect/",
+     "author": "Dane Cash",
+     "kind": "news",
+     "published": "2026-08-14T17:56:53+00:00",
+     "summary": "Visma-Lease a Bike has confirmed that Fabio Jakobsen is joining the team with immediate effect after his departure from Picnic-PostNL at the start of the month. The 29-year-old Dutchman is now under contract through 2027. Jakobsen counts six Grand Tour stage wins on his career palmares. Two of those Grand Tour stage wins, including a Tour de France stage win in 2022, came after a life-threatening crash at the Tour of Poland in 2020. Recent years have been less successful for Jakobsen, who has battled various health issues, including iliac artery problems. &quot;We had been looking for a specialist for the pure flat sprints. The more we looked into Fabio&apos;s situation, the more convinced we became that there is still a great deal of untapped potential,&quot; said Visma head of performance Mathieu Heijboer. &quot;We believe we can create the right environment to help him unlock it. At the same time, having Fabio join us now allows us to start working with Fabio straight away instead of waiting until next season.&quot;"
+    }
+   ]
+  },
+  {
+   "id": "8163a9d081",
+   "topic": "Justice & Policing",
+   "summary": "President Donald Trump scored a major legal victory Friday after a federal judge cleared the way for his administration to terminate temporary legal protections for thousands of Somali nationals living in the United States. U.S. District Judge Allison Burroughs in Boston lifted a stay that had prevented the Department of Homeland Security from terminating Somalia's Temporary Protected Status (TPS) designation, citing a June Supreme Court ruling that sharply limited judicial review of similar administration actions. The decision allows the Trump administration to move forward with ending TPS for Somalia, potentially exposing affected migrants who lack another lawful basis to remain in the U.S. to deportation . SUPREME COURT'S LATEST IMMIGRATION RULING WILL CAUSE AMERICANS TO 'DIE AND SUFFER' ATTORNEY WARNS Burroughs, an appointee of former President Barack Obama, had previously blocked\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Trump scores major immigration victory as judge clears way to end TPS protections for thousands of Somalis",
+   "updated": "2026-08-15T09:43:12+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "Trump scores major immigration victory as judge clears way to end TPS protections for thousands of Somalis",
+     "url": "https://www.foxnews.com/politics/trump-scores-major-immigration-victory-judge-clears-way-end-tps-protections-thousands-somalis",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T09:43:12+00:00",
+     "summary": "President Donald Trump scored a major legal victory Friday after a federal judge cleared the way for his administration to terminate temporary legal protections for thousands of Somali nationals living in the United States. U.S. District Judge Allison Burroughs in Boston lifted a stay that had prevented the Department of Homeland Security from terminating Somalia's Temporary Protected Status (TPS) designation, citing a June Supreme Court ruling that sharply limited judicial review of similar administration actions. The decision allows the Trump administration to move forward with ending TPS for Somalia, potentially exposing affected migrants who lack another lawful basis to remain in the U.S. to deportation . SUPREME COURT'S LATEST IMMIGRATION RULING WILL CAUSE AMERICANS TO 'DIE AND SUFFER' ATTORNEY WARNS Burroughs, an appointee of former President Barack Obama, had previously blocked the termination from taking effect in a lawsuit brought by four Somali nationals and two advocacy groups, including African Communities Together. The Trump administration announced in January that it planned to terminate Somalia's TPS designation, with then- Homeland Security Secretary Kristi Noem arg"
+    },
+    {
+     "outlet": "thehill",
+     "title": "Judge lifts order on Somalia TPS, clearing way for deportations",
+     "url": "https://thehill.com/homenews/administration/6030770-judge-lifts-somali-tps-stay-dhs/",
+     "author": "Rebecca Beitsch",
+     "kind": "news",
+     "published": "2026-08-14T21:10:15+00:00",
+     "summary": "A Massachusetts-based federal judge on Friday lifted her stay in a case brought by Somali holders of temporary protected status (TPS), clearing the way for the Trump administration to begin deporting them. The ruling from U.S. District Judge Allison Burroughs lifts an administrative stay she issued after the Supreme Court decided in a related case..."
     }
    ]
   },
@@ -2962,6 +2841,48 @@
      "kind": "news",
      "published": "2026-08-14T19:18:59+00:00",
      "summary": "Two middle schools received their fifth consecutive F grades from the Texas Education Agency."
+    }
+   ]
+  },
+  {
+   "id": "4dea841b58",
+   "topic": "Politics",
+   "summary": "Iranian officials and state media mocked President Donald Trump this week for switching planes during his trip to Turkey last month because the Secret Service was concerned about an assassination threat from Iran. The post Iranian State Media Mocks Trump for Secret Airplane Swap in Turkey appeared first on Breitbart .",
+   "summaryFrom": "breitbart",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Trump\u2019s secret plane swap, and a long-awaited Tupac trial: The news quiz",
+   "updated": "2026-08-15T09:15:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nbcnews",
+     "title": "Trump\u2019s secret plane swap, and a long-awaited Tupac trial: The news quiz",
+     "url": "https://www.nbcnews.com/news/news-quiz/trumps-secret-plane-swap-long-awaited-tupac-trial-news-quiz-rcna592371",
+     "author": "Josh Feldman",
+     "kind": "news",
+     "published": "2026-08-15T09:15:00+00:00",
+     "summary": "A pop star hits back at the White House, a total eclipse blankets much of Europe, and a dating app makes a big change."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Iranian State Media Mocks Trump for Secret Airplane Swap in Turkey",
+     "url": "https://www.breitbart.com/middle-east/2026/08/14/iranian-state-media-mocks-trump-for-secret-airplane-swap-in-turkey/",
+     "author": "John Hayward",
+     "kind": "news",
+     "published": "2026-08-14T19:11:30+00:00",
+     "summary": "Iranian officials and state media mocked President Donald Trump this week for switching planes during his trip to Turkey last month because the Secret Service was concerned about an assassination threat from Iran. The post Iranian State Media Mocks Trump for Secret Airplane Swap in Turkey appeared first on Breitbart ."
     }
    ]
   },
@@ -3092,44 +3013,44 @@
    ]
   },
   {
-   "id": "f173ecf8a9",
-   "topic": "Politics",
-   "summary": "ESPN host Stephen A. Smith said Thursday that Rep. Byron Donalds, R-Fla., could make him a Republican, praising the Trump-backed gubernatorial frontrunner days before Florida Republicans choose their nominee to succeed Gov. Ron DeSantis. \"And I ain't no d--- Republican. But that mean if anybody could make me one, it would be him. I'm just going to keep it a buck. I'm just letting you know,\" Smith said . \"He's the real deal. Make no mistake about it. I've seen him battling with Democrats. I've seen him battling with people on different shows, whatever. He ain't backing up. He knows his stuff. OK? I talk to him all the time. All the time. And I ain't got nothing bad to say about him.\" A Donalds campaign official confirmed to Fox News Digital Friday that Smith and Donalds are friends. Campaign communications director Gates McGavick said Donalds was attracting voters across demographic\u2026",
-   "summaryFrom": "foxnews",
+   "id": "a7ab091cf3",
+   "topic": "Justice & Policing",
+   "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading...",
+   "summaryFrom": "guardian",
    "emphasis": null,
    "absent": [
     "corp",
-    "coop",
-    "nonprofit",
-    "pub"
+    "family",
+    "coop"
    ],
-   "headline": "Stephen A. Smith admits Florida Rep. Byron Donalds could make him a Republican, calls him \u2018the real deal\u2019",
-   "updated": "2026-08-15T07:40:49+00:00",
+   "headline": "Moment Israeli forces storm wedding hall in occupied West Bank",
+   "updated": "2026-08-15T07:13:11+00:00",
    "outletCount": 2,
    "counts": {
-    "family": 2
+    "pub": 1,
+    "nonprofit": 1
    },
    "newsCount": 2,
    "opinionCount": 0,
-   "underreported": false,
+   "underreported": true,
    "articles": [
     {
-     "outlet": "nypost",
-     "title": "Stephen A. Smith admits Florida Rep. Byron Donalds could make him a Republican, calls him \u2018the real deal\u2019",
-     "url": "https://nypost.com/2026/08/15/media/stephen-a-smith-admits-florida-rep-byron-donalds-could-make-him-a-republican/",
-     "author": "Fox News",
-     "kind": "news",
-     "published": "2026-08-15T07:40:49+00:00",
-     "summary": "\"He's the real deal. Make no mistake about it. I've seen him battling with Democrats,\" Smith said."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Stephen A Smith admits Byron Donalds could make him a Republican, calls him \u2018the real deal\u2019",
-     "url": "https://www.foxnews.com/media/stephen-smith-admits-byron-donalds-could-make-him-republican-calls-him-real-deal",
+     "outlet": "aljazeera",
+     "title": "Moment Israeli forces storm wedding hall in occupied West Bank",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-14T22:00:23+00:00",
-     "summary": "ESPN host Stephen A. Smith said Thursday that Rep. Byron Donalds, R-Fla., could make him a Republican, praising the Trump-backed gubernatorial frontrunner days before Florida Republicans choose their nominee to succeed Gov. Ron DeSantis. \"And I ain't no d--- Republican. But that mean if anybody could make me one, it would be him. I'm just going to keep it a buck. I'm just letting you know,\" Smith said . \"He's the real deal. Make no mistake about it. I've seen him battling with Democrats. I've seen him battling with people on different shows, whatever. He ain't backing up. He knows his stuff. OK? I talk to him all the time. All the time. And I ain't got nothing bad to say about him.\" A Donalds campaign official confirmed to Fox News Digital Friday that Smith and Donalds are friends. Campaign communications director Gates McGavick said Donalds was attracting voters across demographic groups by focusing on affordability and public safety. FLORIDA GOP GUBERNATORIAL PRIMARY CANDIDATE SAYS AS GOVERNOR, HE'D 'SHUT DOWN' EVERY ABORTION CLINIC IN STATE \"Byron Donalds is drawing support from Floridians of all backgrounds because he has a clear vision to make Florida more affordable, keep Flo"
+     "published": "2026-08-15T07:13:11+00:00",
+     "summary": "Israeli forces stormed a wedding hall in al-Eizariya town in the occupied West Bank and assaulted Palestinian attendees."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+     "url": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+     "author": "Emma Graham-Harrison in Jerusalem",
+     "kind": "news",
+     "published": "2026-08-14T17:52:51+00:00",
+     "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading..."
     }
    ]
   },
@@ -3269,48 +3190,6 @@
    ]
   },
   {
-   "id": "d55114ffc3",
-   "topic": "Other",
-   "summary": "A man was charged with multiple hate crimes after allegedly disrupting Shabbat services at a New York City synagogue Friday, striking a congregant and attacking a member of the security team, authorities said. New York City Police Commissioner Jessica Tisch said the man disrupted services at Central Synagogue on Lexington Avenue in Manhattan. The NYPD later identified the suspect as Larry Montes, 46, of the Bronx, and said he was charged with two counts of assault as a hate crime and one count of criminal mischief as a hate crime, among other charges. NORTH CAROLINA WOMAN CHARGED IN ALLEGED HOUSTON SYNAGOGUE ATTACK PLOT AS INVESTIGATORS SEARCH FOR 2 OTHERS \"As synagogue security was escorting him out, he struck a member of the congregation, damaged synagogue property, and then spit at and headbutted a member of the security team,\" Tisch said in a statement posted on X. An NYPD sergeant\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Man charged with assault, hate crimes after allegedly disrupting Shabbat services at NYC synagogue",
-   "updated": "2026-08-15T04:27:46+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Man charged with assault, hate crimes after allegedly disrupting Shabbat services at NYC synagogue",
-     "url": "https://www.foxnews.com/us/man-charged-assault-hate-crimes-after-allegedly-disrupting-shabbat-services-nyc-synagogue",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T04:27:46+00:00",
-     "summary": "A man was charged with multiple hate crimes after allegedly disrupting Shabbat services at a New York City synagogue Friday, striking a congregant and attacking a member of the security team, authorities said. New York City Police Commissioner Jessica Tisch said the man disrupted services at Central Synagogue on Lexington Avenue in Manhattan. The NYPD later identified the suspect as Larry Montes, 46, of the Bronx, and said he was charged with two counts of assault as a hate crime and one count of criminal mischief as a hate crime, among other charges. NORTH CAROLINA WOMAN CHARGED IN ALLEGED HOUSTON SYNAGOGUE ATTACK PLOT AS INVESTIGATORS SEARCH FOR 2 OTHERS \"As synagogue security was escorting him out, he struck a member of the congregation, damaged synagogue property, and then spit at and headbutted a member of the security team,\" Tisch said in a statement posted on X. An NYPD sergeant working a paid detail at the synagogue immediately intervened and took Montes into custody, according to Tisch. No one was seriously injured, and the incident remains under investigation, Tisch said. \"I have spoken with the rabbi of the synagogue, and I'm relieved that no one was seriously injured,\" "
-    },
-    {
-     "outlet": "nyt",
-     "title": "Man Charged With Hate Crime After Disrupting Worship at N.Y.C. Synagogue",
-     "url": "https://www.nytimes.com/2026/08/14/nyregion/central-synagogue-shabbat-assault-arrest.html",
-     "author": "John Yoon",
-     "kind": "news",
-     "published": "2026-08-15T04:15:03+00:00",
-     "summary": "Larry Montes, 46, faces assault and hate crime charges after striking a congregation member and a security guard at Central Synagogue in Manhattan, the police said."
-    }
-   ]
-  },
-  {
    "id": "f6585ffa8b",
    "topic": "Other",
    "summary": "A three-judge panel of the court had reversed Holberg\u2019s sentence in 2025, but Friday\u2019s split decision will keep the district court\u2019s decision to affirm her conviction.",
@@ -3349,48 +3228,6 @@
      "kind": "news",
      "published": "2026-08-15T02:04:38+00:00",
      "summary": "A three-judge panel of the court had reversed Holberg\u2019s sentence in 2025, but Friday\u2019s split decision will keep the district court\u2019s decision to affirm her conviction."
-    }
-   ]
-  },
-  {
-   "id": "09933914b7",
-   "topic": "Climate & Energy",
-   "summary": "Storm expected to strengthen to hurricane as state of emergency declared amid danger of \u2018life-threatening\u2019 floods Tropical Storm Lala is set to hit Hawaii\u2019s Big Island with hurricane force in a matter of hours, bringing dangerous winds, heavy rainfall and high surf in a sign of what a strengthening \u201csuper\u201d El Ni\u00f1o in the Pacific may bring. The tropical storm is currently about 420 miles (675km) south-east of Hilo on the archipelago\u2019s largest island, the National Oceanic and Atmospheric Administration (Noaa) said in its latest advisory, packing winds of 60mph (97km/h). Lala is forecast to strengthen into a hurricane as it approaches the Big Island. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Hawaii braces for direct hit from Tropical Storm Lala",
-   "updated": "2026-08-15T03:53:16+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Hawaii under a hurricane warning as Tropical Storm Lala takes aim",
-     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T03:53:16+00:00",
-     "summary": "Tropical Storm Lala could bring heavy rain, high winds and dangerous surf and rip currents to the Hawaiian Islands as a hurricane this weekend, forecasters say."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Hawaii braces for direct hit from Tropical Storm Lala",
-     "url": "https://www.theguardian.com/us-news/2026/aug/14/hawaii-tropical-storm-lala",
-     "author": "Edward Helmore",
-     "kind": "news",
-     "published": "2026-08-14T18:17:25+00:00",
-     "summary": "Storm expected to strengthen to hurricane as state of emergency declared amid danger of \u2018life-threatening\u2019 floods Tropical Storm Lala is set to hit Hawaii\u2019s Big Island with hurricane force in a matter of hours, bringing dangerous winds, heavy rainfall and high surf in a sign of what a strengthening \u201csuper\u201d El Ni\u00f1o in the Pacific may bring. The tropical storm is currently about 420 miles (675km) south-east of Hilo on the archipelago\u2019s largest island, the National Oceanic and Atmospheric Administration (Noaa) said in its latest advisory, packing winds of 60mph (97km/h). Lala is forecast to strengthen into a hurricane as it approaches the Big Island. Continue reading..."
     }
    ]
   },
@@ -3731,18 +3568,102 @@
    ]
   },
   {
-   "id": "87636d74a2",
-   "topic": "Other",
-   "summary": "Halle Berry is stepping into her 60s in style. The \"X-Men\" actress shared a series of sultry photos on Instagram Thursday, the day before her birthday. \"Today\u2026.don\u2019t give a f---!\" she captioned the post. In the photos, Berry posed for the camera in a black robe with large red floral designs and lace along the edges and sleeves. EMILY RATAJKOWSKI'S SHREDDED RED BIRTHDAY DRESS LEAVES LITTLE TO THE IMAGINATION AT NYC CELEBRATION She wore the robe tied loosely around her waist, creating a plunging neckline that extended down to her belly button and slightly exposed her chest. Some of the photos show the \"Monster's Ball\" star indulging in chocolate-covered strawberries, while others show her smiling as she lounged on a daybed. Fans sang Berry's praises in the comments. \"Not a single f--- left in stock!! Carry on, @halleberry! \ud83d\udd25\" one fan wrote. Another added, \"Why are you so perfect? Ugh\u2026",
-   "summaryFrom": "foxnews",
+   "id": "2003cfd4ec",
+   "topic": "Politics",
+   "summary": "The Trump administration is stepping into the extraordinary surrogacy fight pitting a surrogate against a baby\u2019s biological parents, warning hospitals that the child, who was born with a heart defect, must receive life-saving care as a tense legal battle unfolds. The Department of Health and Human Services (HHS) submitted a letter to Children\u2019s Medical Center of Dallas and UT Southwestern Medical Center reminding them of their obligations to treat the child under federal disability civil rights law, according to Fox News. HHS said federal disability protections bar doctors from withholding care because of a patient\u2019s condition, including the belief that a disabled person\u2019s life is less worthy or that their care would place a burden on others, the outlet reported. McKenna West, a single mother of two children, delivered baby Gabriel Wednesday in the Dallas area after Texas Attorney\u2026",
+   "summaryFrom": "dailywire",
    "emphasis": null,
    "absent": [
     "coop",
     "nonprofit",
     "pub"
    ],
-   "headline": "Oscar-Winning Actress Celebrates 60th Birthday in See-Through Robe",
-   "updated": "2026-08-14T22:01:30+00:00",
+   "headline": "Trump admin escalates fight against transgender care",
+   "updated": "2026-08-14T22:00:04+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "Trump admin escalates fight against transgender care",
+     "url": "https://thehill.com/newsletters/healthcare/6030921-trump-hhs-transgender-care/",
+     "author": "Nathaniel Weixel",
+     "kind": "news",
+     "published": "2026-08-14T22:00:04+00:00",
+     "summary": "Click in for more news from The Hill {beacon} Healthcare The Big Story Trump admin escalates fight against transgender care The Trump administration this week scaled up its fight against transgender health care, cutting Medicaid coverage and referring hospitals and clinics for potential prosecution. \u00a9 Photo credit The moves this week add to..."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Trump Admin Steps Into Surrogate\u2019s Fight For Newborn\u2019s Life-Saving Care",
+     "url": "https://www.dailywire.com/news/trump-admin-steps-into-surrogates-fight-for-newborns-life-saving-care",
+     "author": "Jacob Wheeler",
+     "kind": "opinion",
+     "published": "2026-08-14T10:28:37+00:00",
+     "summary": "The Trump administration is stepping into the extraordinary surrogacy fight pitting a surrogate against a baby\u2019s biological parents, warning hospitals that the child, who was born with a heart defect, must receive life-saving care as a tense legal battle unfolds. The Department of Health and Human Services (HHS) submitted a letter to Children\u2019s Medical Center of Dallas and UT Southwestern Medical Center reminding them of their obligations to treat the child under federal disability civil rights law, according to Fox News. HHS said federal disability protections bar doctors from withholding care because of a patient\u2019s condition, including the belief that a disabled person\u2019s life is less worthy or that their care would place a burden on others, the outlet reported. McKenna West, a single mother of two children, delivered baby Gabriel Wednesday in the Dallas area after Texas Attorney General Ken Paxton secured a court order requiring him to receive life-saving medical care when his surrogate rejected demands from his biological parents to abort him. At 20 weeks, Gabriel was diagnosed in utero with hypoplastic left heart syndrome (HLHS) \u2014 a serious but treatable congenital heart condit"
+    }
+   ]
+  },
+  {
+   "id": "11262c749c",
+   "topic": "Politics",
+   "summary": "The levee is seen at Santa Ana National Wildlife Refuge in Alamo, Texas on July 8, 2026. The current proposed border wall would replace the levee with a concrete wall as high as it is now to then erect the bollard metal wall on top of it. Activists argue that this will have a negative impact on wildlife.",
+   "summaryFrom": "texastribune",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "Federal judge extends pause on border wall construction at South Texas wildlife refuge",
+   "updated": "2026-08-14T21:53:26+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "abcnews",
+     "title": "Judge refuses to block Trump administration from building border wall along tribe's reservation",
+     "url": "https://abcnews.com/US/wireStory/judge-refuses-block-trump-administration-building-border-wall-135659058",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T21:53:26+00:00",
+     "summary": "A federal judge has refused to block the Trump administration from taking steps to build 62 miles of international border wall along part of a Native American tribe&rsquo;s reservation without its consent"
+    },
+    {
+     "outlet": "texastribune",
+     "title": "Federal judge extends pause on border wall construction at South Texas wildlife refuge",
+     "url": "https://feeds.texastribune.org/link/16799/17417588/border-wall-construction-paused-santa-ana-refuge",
+     "author": "Berenice Garcia",
+     "kind": "news",
+     "published": "2026-08-13T21:45:24+00:00",
+     "summary": "The levee is seen at Santa Ana National Wildlife Refuge in Alamo, Texas on July 8, 2026. The current proposed border wall would replace the levee with a concrete wall as high as it is now to then erect the bollard metal wall on top of it. Activists argue that this will have a negative impact on wildlife."
+    }
+   ]
+  },
+  {
+   "id": "f4748ac525",
+   "topic": "Justice & Policing",
+   "summary": "Attorneys for the Olympian previously accused of vandalizing the Lincoln Memorial Reflecting Pool filed a motion Thursday to bar prosecutors from bringing further criminal charges against him related to the case, citing fears of \u201cprosecutorial harassment\" by President Trump. The legal team for Olympic canoeist David Hearn called for Judge Todd Edelman of the District...",
+   "summaryFrom": "thehill",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Accused Olympian seeks protection from future Reflecting Pool charges",
+   "updated": "2026-08-14T20:34:16+00:00",
    "outletCount": 2,
    "counts": {
     "corp": 1,
@@ -3753,22 +3674,22 @@
    "underreported": false,
    "articles": [
     {
-     "outlet": "dailybeast",
-     "title": "Oscar-Winning Actress Celebrates 60th Birthday in See-Through Robe",
-     "url": "https://www.thedailybeast.com/halle-berry-celebrates-60th-birthday-in-see-through-robe/",
-     "author": "Pia Bello",
+     "outlet": "thehill",
+     "title": "Accused Olympian seeks protection from future Reflecting Pool charges",
+     "url": "https://thehill.com/regulation/court-battles/6030609-accused-olympian-seeks-protection-from-future-reflecting-pool-charges/",
+     "author": "Mira Bhakta",
      "kind": "news",
-     "published": "2026-08-14T22:01:30+00:00",
-     "summary": "Michael Loccisano / Getty Images Halle Berry shared photos of the revealing vacation looks she wore for her romantic 60th birthday trip to Fiji with her fianc\u00e9, musician Van Hunt. The Oscar-winning actress shared another glimpse of her vacation on Instagram wearing a see-through lace-trimmed robe that flaunted her toned figure. She accessorized with a yellow gold Cartier love bracelet, black sunglasses, and her antique engagement ring. Read more at The Daily Beast."
+     "published": "2026-08-14T20:34:16+00:00",
+     "summary": "Attorneys for the Olympian previously accused of vandalizing the Lincoln Memorial Reflecting Pool filed a motion Thursday to bar prosecutors from bringing further criminal charges against him related to the case, citing fears of \u201cprosecutorial harassment\" by President Trump. The legal team for Olympic canoeist David Hearn called for Judge Todd Edelman of the District..."
     },
     {
-     "outlet": "foxnews",
-     "title": "Halle Berry celebrates 60th birthday in plunging robe with defiant message",
-     "url": "https://www.foxnews.com/entertainment/halle-berry-celebrates-60th-birthday-plunging-robe-defiant-message",
-     "author": null,
+     "outlet": "nyt",
+     "title": "David Hearn\u2019s Lawyers Ask Court to Bar Future Reflecting Pool Charges",
+     "url": "https://www.nytimes.com/2026/08/14/us/hearn-reflecting-pool-prosecutor-harassment.html",
+     "author": "Clarence Williams",
      "kind": "news",
-     "published": "2026-08-14T21:54:45+00:00",
-     "summary": "Halle Berry is stepping into her 60s in style. The \"X-Men\" actress shared a series of sultry photos on Instagram Thursday, the day before her birthday. \"Today\u2026.don\u2019t give a f---!\" she captioned the post. In the photos, Berry posed for the camera in a black robe with large red floral designs and lace along the edges and sleeves. EMILY RATAJKOWSKI'S SHREDDED RED BIRTHDAY DRESS LEAVES LITTLE TO THE IMAGINATION AT NYC CELEBRATION She wore the robe tied loosely around her waist, creating a plunging neckline that extended down to her belly button and slightly exposed her chest. Some of the photos show the \"Monster's Ball\" star indulging in chocolate-covered strawberries, while others show her smiling as she lounged on a daybed. Fans sang Berry's praises in the comments. \"Not a single f--- left in stock!! Carry on, @halleberry! \ud83d\udd25\" one fan wrote. Another added, \"Why are you so perfect? Ugh \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\" \"Perfection! Queen \u2764\ufe0f,\" one commenter wrote, as another said, \"My goodness\u2026 \ud83d\udd25.\" The actress also shared a photo kissing her fianc\u00e9, Van Hunt, as the two lounged on a sofa outside. On Friday, Berry took to Instagram to thank all her followers for the birthday wishes with a picture of her holding up"
+     "published": "2026-08-14T13:11:46+00:00",
+     "summary": "Citing comments by President Trump, David Hearn raised the prospect of \u201cprosecutorial harassment.\u201d"
     }
    ]
   }
