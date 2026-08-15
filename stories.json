@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T05:43:26.682055+00:00",
+ "generated": "2026-08-15T06:59:09.877108+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -21,8 +21,8 @@
     ],
     "indie": [
      "death",
-     "pleading",
-     "year-old"
+     "year-old",
+     "pleading"
     ]
    },
    "absent": [
@@ -208,7 +208,7 @@
    },
    "absent": [],
    "headline": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea \u2018not nearly enough\u2019 \u2013 as it happened",
-   "updated": "2026-08-15T02:33:55+00:00",
+   "updated": "2026-08-15T05:44:10+00:00",
    "outletCount": 13,
    "counts": {
     "corp": 6,
@@ -227,7 +227,7 @@
      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-15T02:33:55+00:00",
+     "published": "2026-08-15T05:44:10+00:00",
      "summary": "The USS Abraham Lincoln has been deployed for almost nine months and is expected to be replaced in the Middle East."
     },
     {
@@ -369,10 +369,10 @@
     "big": [
      "arts",
      "waterway",
-     "getty",
      "images",
+     "getty",
      "trustees",
-     "performing"
+     "john"
     ],
     "indie": [
      "clear",
@@ -516,8 +516,8 @@
     "big": [
      "concerns",
      "families",
-     "aircraft",
      "carrier",
+     "aircraft",
      "deployment",
      "friday"
     ],
@@ -694,7 +694,7 @@
     },
     {
      "outlet": "bbc",
-     "title": "Trump asks Supreme Court to allow ballroom work to continue",
+     "title": "Trump asks US Supreme Court to allow ballroom work to continue",
      "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
@@ -848,7 +848,7 @@
    ]
   },
   {
-   "id": "9219c5838d",
+   "id": "876499c78f",
    "topic": "World",
    "summary": "Shallow quake hit Indonesia\u2019s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least five people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Continue reading...",
    "summaryFrom": "guardian",
@@ -858,10 +858,10 @@
     "big": [],
     "indie": [
      "magnitude",
-     "five",
-     "people",
      "struck",
      "early",
+     "people",
+     "island",
      "ground"
     ]
    },
@@ -869,18 +869,36 @@
     "family",
     "coop"
    ],
-   "headline": "Deadly earthquake strikes Indonesia and triggers mass evacuations",
-   "updated": "2026-08-15T05:36:19+00:00",
+   "headline": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+   "updated": "2026-08-15T06:29:30+00:00",
    "outletCount": 7,
    "counts": {
-    "pub": 5,
     "corp": 2,
+    "pub": 5,
     "nonprofit": 1
    },
    "newsCount": 8,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "At least 20 dead after powerful earthquake strikes Indonesia",
+     "url": "https://www.cbsnews.com/news/indonesia-earthquake-tsunami-warning/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T06:29:30+00:00",
+     "summary": "Indonesian authorities issued, then lifted, a tsunami warning after the powerful earthquake hit Saturday morning."
+    },
+    {
+     "outlet": "bbc",
+     "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+     "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T06:21:31+00:00",
+     "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning."
+    },
     {
      "outlet": "france24",
      "title": "Deadly earthquake strikes Indonesia and triggers mass evacuations",
@@ -900,26 +918,8 @@
      "summary": "A powerful 7.7 magnitude earthquake struck off eastern Indonesia early Saturday, killing at least five people."
     },
     {
-     "outlet": "cbsnews",
-     "title": "At least 5 dead after powerful earthquake strikes Indonesia",
-     "url": "https://www.cbsnews.com/news/indonesia-earthquake-tsunami-warning/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T04:43:38+00:00",
-     "summary": "Indonesian authorities issued, then lifted, a tsunami warning after the powerful earthquake hit Saturday morning."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
-     "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T04:12:55+00:00",
-     "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning."
-    },
-    {
      "outlet": "aljazeera",
-     "title": "At least five killed as magnitude 7.7 quake hits Indonesia",
+     "title": "At least 20 killed as magnitude 7.7 quake hits Indonesia",
      "url": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
      "author": null,
      "kind": "news",
@@ -946,99 +946,12 @@
     },
     {
      "outlet": "nbcnews",
-     "title": "Magnitude-7.7 quake hits off coast of Indonesia, killing at least 2",
+     "title": "Magnitude-7.7 quake hits off coast of Indonesia, killing at least 20",
      "url": "https://www.nbcnews.com/world/indonesia/earthquake-indonesia-rcna592638",
      "author": "Babak Dehghanpisheh",
      "kind": "news",
      "published": "2026-08-14T22:58:37+00:00",
      "summary": "A magnitude-7.7 earthquake hit off the coast of Indonesia in the eastern Flores region, the United States Geological Survey reported on Friday."
-    }
-   ]
-  },
-  {
-   "id": "58fd31eb9e",
-   "topic": "Justice & Policing",
-   "summary": "Drop Site is a reader-funded, independent news outlet. Without your support, we can&#8217;t operate. Please consider becoming a paid subscriber or making a 501(c)(3) tax-deductible donation today . Subscribe now Israeli settlers continue their raids on the Palestinian village of Taybeh in the occupied West Bank despite the Israeli army declaring the area a 'closed military zone,' on August 10, 2026. Photo by Issam Rimawi/Anadolu via Getty Images. TAYBEH, Occupied West Bank*&#8212;On Sunday, the Israeli military declared the Palestinian village of Taybeh in the occupied West Bank a closed military zone, claiming the order was aimed to prevent escalating attacks by marauding Israeli settlers. It ostensibly bars Israelis and foreigners from entering the area. But residents of the village and the surrounding area told Drop Site News that the military order is designed to further isolate\u2026",
-   "summaryFrom": "dropsite",
-   "emphasis": null,
-   "absent": [
-    "corp"
-   ],
-   "headline": "Israeli soldiers accused of supporting \u2018terrorist\u2019 settlers in Qusra",
-   "updated": "2026-08-14T21:45:20+00:00",
-   "outletCount": 7,
-   "counts": {
-    "pub": 3,
-    "nonprofit": 2,
-    "family": 1,
-    "coop": 1
-   },
-   "newsCount": 7,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Israeli soldiers accused of supporting \u2018terrorist\u2019 settlers in Qusra",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T21:45:20+00:00",
-     "summary": "Israeli soldiers accused of supporting \u2018terrorist\u2019 settlers in Qusra"
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Palestinians besieged in West Bank village of Qusra fear Israeli settlers will seize their homes",
-     "url": "https://www.pbs.org/newshour/world/palestinians-besieged-in-west-bank-village-of-qusra-fear-israeli-settlers-will-seize-their-homes",
-     "author": "Aref Tufaha, Associated Press",
-     "kind": "news",
-     "published": "2026-08-14T21:43:06+00:00",
-     "summary": "The standoff in Qusra between Palestinian families and Israeli settlers who apparently want to push them out entered a new stage Friday as activists supporting the Palestinians marched toward the besieged homes to replenish their dwindling food and water supply."
-    },
-    {
-     "outlet": "nyt",
-     "title": "As Army Fails to Protect Palestinians, Israeli Leaders Sympathize With Settlers",
-     "url": "https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html",
-     "author": "David M. Halbfinger and Adam Rasgon",
-     "kind": "news",
-     "published": "2026-08-14T21:01:21+00:00",
-     "summary": "Defense Minister Katz called for the military to turn over to the police the responsibility for protecting Palestinians after two West Bank families were besieged by violent settlers."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
-     "url": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
-     "author": "Emma Graham-Harrison in Jerusalem",
-     "kind": "news",
-     "published": "2026-08-14T17:52:51+00:00",
-     "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-     "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T17:03:17+00:00",
-     "summary": "Two families have been trapped in their homes in the occupied West Bank for several days."
-    },
-    {
-     "outlet": "france24",
-     "title": "\u2018We never leave\u2019: Palestinians besieged in West Bank fear Israeli settlers will seize their homes",
-     "url": "https://www.france24.com/en/middle-east/20260814-israel-s-new-west-bank-settlements-bring-chaos-to-palestinians",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-14T16:15:18+00:00",
-     "summary": "For nearly a week, Israeli settlers have been surrounding homes in the West bank village of Qusra in a coordinated offensive to force Palestinian residents from their homes in order to seize new land."
-    },
-    {
-     "outlet": "dropsite",
-     "title": "In West Bank Village, a New Israeli Order Enables Settler Attacks While Claiming to Prevent Them",
-     "url": "https://www.dropsitenews.com/p/taybeh-west-bank-closed-military-zone-settlers",
-     "author": "Sharif Abdel Kouddous",
-     "kind": "news",
-     "published": "2026-08-12T17:24:18+00:00",
-     "summary": "Drop Site is a reader-funded, independent news outlet. Without your support, we can&#8217;t operate. Please consider becoming a paid subscriber or making a 501(c)(3) tax-deductible donation today . Subscribe now Israeli settlers continue their raids on the Palestinian village of Taybeh in the occupied West Bank despite the Israeli army declaring the area a 'closed military zone,' on August 10, 2026. Photo by Issam Rimawi/Anadolu via Getty Images. TAYBEH, Occupied West Bank*&#8212;On Sunday, the Israeli military declared the Palestinian village of Taybeh in the occupied West Bank a closed military zone, claiming the order was aimed to prevent escalating attacks by marauding Israeli settlers. It ostensibly bars Israelis and foreigners from entering the area. But residents of the village and the surrounding area told Drop Site News that the military order is designed to further isolate Taybeh from the outside world, barring solidarity activists from the area while allowing settler attacks to continue. One of the few Christian-majority Palestinian villages in the West Bank, Taybeh has come under growing attacks by Israeli settlers who have expanded colonial outposts encircling it over "
     }
    ]
   },
@@ -1051,16 +964,16 @@
     "bigCount": 4,
     "indieCount": 2,
     "big": [
-     "president",
      "donald",
-     "birthday",
-     "jobs",
+     "president",
      "gift",
-     "viral"
+     "birthday",
+     "marco",
+     "rubio"
     ],
     "indie": [
-     "wall",
-     "work"
+     "work",
+     "wall"
     ]
    },
    "absent": [
@@ -1132,6 +1045,84 @@
      "kind": "news",
      "published": "2026-08-13T22:51:21+00:00",
      "summary": "Photo: Marc Caputo/Axios Marco Rubio has three official Trump administration jobs and a fourth unofficial title: Viral meme star. He's been featured in countless \"Rubio Realizing\" images doctored to capture his grim reaction to being \"assigned\" more jobs, depending on the news of the day or the crisis du jour in the White House. Why it matters: For his 55th birthday on May 28, White House staffers and President Trump gifted Rubio with a gold-framed collage of their 68 favorite \"Rubio Realizing\" memes. A photo of the gift went viral Wednesday when this Axios reporter posted it on X. Zoom in: For the past 18 months, Rubio memes have featured him as everything from a Kiss band member to a samurai to a \"Bachelorette\" contestant in homage to his roles as secretary of state, national security adviser and chair of the U.S. bid for the World Expo in 2035. The memes are based on a photo from one of the most awkward moments in the Trump White House \u2014 on Feb. 28, 2025, when the president and Vice President Vance excoriated Ukrainian President Volodymyr Zelensky over the war with Russia. As the two U.S. leaders savaged Zelensky, Rubio sat ramrod straight on an Oval Office couch without engagin"
+    }
+   ]
+  },
+  {
+   "id": "10ef876a16",
+   "topic": "Justice & Policing",
+   "summary": "Drop Site is a reader-funded, independent news outlet. Without your support, we can&#8217;t operate. Please consider becoming a paid subscriber or making a 501(c)(3) tax-deductible donation today . Subscribe now Israeli settlers continue their raids on the Palestinian village of Taybeh in the occupied West Bank despite the Israeli army declaring the area a 'closed military zone,' on August 10, 2026. Photo by Issam Rimawi/Anadolu via Getty Images. TAYBEH, Occupied West Bank*&#8212;On Sunday, the Israeli military declared the Palestinian village of Taybeh in the occupied West Bank a closed military zone, claiming the order was aimed to prevent escalating attacks by marauding Israeli settlers. It ostensibly bars Israelis and foreigners from entering the area. But residents of the village and the surrounding area told Drop Site News that the military order is designed to further isolate\u2026",
+   "summaryFrom": "dropsite",
+   "emphasis": null,
+   "absent": [
+    "corp"
+   ],
+   "headline": "Palestinians besieged in West Bank village of Qusra fear Israeli settlers will seize their homes",
+   "updated": "2026-08-14T21:43:06+00:00",
+   "outletCount": 6,
+   "counts": {
+    "nonprofit": 2,
+    "family": 1,
+    "pub": 2,
+    "coop": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "pbsnewshour",
+     "title": "Palestinians besieged in West Bank village of Qusra fear Israeli settlers will seize their homes",
+     "url": "https://www.pbs.org/newshour/world/palestinians-besieged-in-west-bank-village-of-qusra-fear-israeli-settlers-will-seize-their-homes",
+     "author": "Aref Tufaha, Associated Press",
+     "kind": "news",
+     "published": "2026-08-14T21:43:06+00:00",
+     "summary": "The standoff in Qusra between Palestinian families and Israeli settlers who apparently want to push them out entered a new stage Friday as activists supporting the Palestinians marched toward the besieged homes to replenish their dwindling food and water supply."
+    },
+    {
+     "outlet": "nyt",
+     "title": "As Army Fails to Protect Palestinians, Israeli Leaders Sympathize With Settlers",
+     "url": "https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html",
+     "author": "David M. Halbfinger and Adam Rasgon",
+     "kind": "news",
+     "published": "2026-08-14T21:01:21+00:00",
+     "summary": "Defense Minister Katz called for the military to turn over to the police the responsibility for protecting Palestinians after two West Bank families were besieged by violent settlers."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+     "url": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+     "author": "Emma Graham-Harrison in Jerusalem",
+     "kind": "news",
+     "published": "2026-08-14T17:52:51+00:00",
+     "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+     "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T17:03:17+00:00",
+     "summary": "Two families have been trapped in their homes in the occupied West Bank for several days."
+    },
+    {
+     "outlet": "france24",
+     "title": "\u2018We never leave\u2019: Palestinians besieged in West Bank fear Israeli settlers will seize their homes",
+     "url": "https://www.france24.com/en/middle-east/20260814-israel-s-new-west-bank-settlements-bring-chaos-to-palestinians",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-14T16:15:18+00:00",
+     "summary": "For nearly a week, Israeli settlers have been surrounding homes in the West bank village of Qusra in a coordinated offensive to force Palestinian residents from their homes in order to seize new land."
+    },
+    {
+     "outlet": "dropsite",
+     "title": "In West Bank Village, a New Israeli Order Enables Settler Attacks While Claiming to Prevent Them",
+     "url": "https://www.dropsitenews.com/p/taybeh-west-bank-closed-military-zone-settlers",
+     "author": "Sharif Abdel Kouddous",
+     "kind": "news",
+     "published": "2026-08-12T17:24:18+00:00",
+     "summary": "Drop Site is a reader-funded, independent news outlet. Without your support, we can&#8217;t operate. Please consider becoming a paid subscriber or making a 501(c)(3) tax-deductible donation today . Subscribe now Israeli settlers continue their raids on the Palestinian village of Taybeh in the occupied West Bank despite the Israeli army declaring the area a 'closed military zone,' on August 10, 2026. Photo by Issam Rimawi/Anadolu via Getty Images. TAYBEH, Occupied West Bank*&#8212;On Sunday, the Israeli military declared the Palestinian village of Taybeh in the occupied West Bank a closed military zone, claiming the order was aimed to prevent escalating attacks by marauding Israeli settlers. It ostensibly bars Israelis and foreigners from entering the area. But residents of the village and the surrounding area told Drop Site News that the military order is designed to further isolate Taybeh from the outside world, barring solidarity activists from the area while allowing settler attacks to continue. One of the few Christian-majority Palestinian villages in the West Bank, Taybeh has come under growing attacks by Israeli settlers who have expanded colonial outposts encircling it over "
     }
    ]
   },
@@ -1218,9 +1209,9 @@
      "filed"
     ],
     "indie": [
-     "announced",
+     "monetize",
      "company",
-     "monetize"
+     "announced"
     ]
    },
    "absent": [
@@ -1364,14 +1355,14 @@
     "bigCount": 2,
     "indieCount": 3,
     "big": [
-     "pilot",
-     "organization"
+     "organization",
+     "pilot"
     ],
     "indie": [
      "october",
      "care",
-     "reunited",
-     "international"
+     "international",
+     "reunited"
     ]
    },
    "absent": [
@@ -1636,8 +1627,8 @@
     "indieCount": 2,
     "big": [],
     "indie": [
-     "rule",
-     "women"
+     "women",
+     "rule"
     ]
    },
    "absent": [
@@ -2079,9 +2070,9 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
+     "trump",
      "role",
-     "announced",
-     "trump"
+     "announced"
     ],
     "indie": []
    },
@@ -2136,6 +2127,57 @@
      "kind": "news",
      "published": "2026-08-12T20:10:29+00:00",
      "summary": "Karoline Leavitt will be stepping down from her role as White House press secretary at the end of the month, President Trump announced Wednesday in a Truth Social post. The big picture: Leavitt is leaving to spend more time with her family, the president said. A member of Trump's team who followed him from his presidential campaign to the White House, she's been a fiercely loyal face of the White House. Driving the news: Trump said in the surprise post that Leavitt will become one of his top outside advisers and \"an influential voice within the Republican Party\" heading into the midterm elections. Leavitt, 28, said in a post that being a mother and welcoming a new baby while serving as press secretary \"has been the most rewarding yet challenging season of my life, to say the least.\" She continued, \"The truth is since returning to the White House after the birth of my daughter, I have felt in my heart that I cannot be the best mom my two young children deserve while devoting the constant time, energy, and attention required of the White House Press Secretary.\" When reached for comment, the White House pointed to statements made by Leavitt and Trump. Zoom in: Leavitt made headlines f"
+    }
+   ]
+  },
+  {
+   "id": "07516d5bdd",
+   "topic": "Other",
+   "summary": "Torero print, one of 30 known to exist signed by Picasso, was stolen from Bill DeLind\u2019s gallery in 2018 Bill DeLind thought the Picasso print that was stolen from his Milwaukee gallery in 2018 was gone forever. But then police called last week and asked him to look at an artwork that a local landlord found while cleaning out a vacant apartment. DeLind immediately recognized the stolen Torero print, one of 30 known to exist signed by Picasso. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Picasso print stolen from Milwaukee art gallery in 2018 found by landlord while cleaning apartment",
+   "updated": "2026-08-15T06:14:37+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Picasso etching stolen from Milwaukee art gallery in 2018 found by landlord in vacant apartment",
+     "url": "https://nypost.com/2026/08/15/us-news/picasso-etching-torero-stolen-from-milwaukee-art-gallery-found-in-vacant-apartment/",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T06:14:37+00:00",
+     "summary": "Bill DeLind thought the Picasso print that was stolen from his gallery in 2018 was gone forever."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Picasso print stolen from Milwaukee art gallery in 2018 found by landlord while cleaning apartment",
+     "url": "https://www.theguardian.com/us-news/2026/aug/14/picasso-print-stolen-milwaukee",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T01:27:23+00:00",
+     "summary": "Torero print, one of 30 known to exist signed by Picasso, was stolen from Bill DeLind\u2019s gallery in 2018 Bill DeLind thought the Picasso print that was stolen from his Milwaukee gallery in 2018 was gone forever. But then police called last week and asked him to look at an artwork that a local landlord found while cleaning out a vacant apartment. DeLind immediately recognized the stolen Torero print, one of 30 known to exist signed by Picasso. Continue reading..."
+    },
+    {
+     "outlet": "wapo",
+     "title": "A landlord was cleaning out a vacant apartment, then found a lost Picasso",
+     "url": "https://www.washingtonpost.com/nation/2026/08/14/landlord-was-cleaning-out-vacant-apartment-then-he-found-lost-picasso/",
+     "author": "Cole Reynolds",
+     "kind": "news",
+     "published": "2026-08-14T10:00:01+00:00",
+     "summary": "The print wasn\u2019t just any Picasso. In February 2018, it had vanished from a downtown Milwaukee art gallery."
     }
    ]
   },
@@ -2208,8 +2250,8 @@
     "bigCount": 2,
     "indieCount": 3,
     "big": [
-     "airport",
-     "review"
+     "review",
+     "airport"
     ],
     "indie": [
      "order"
@@ -3088,7 +3130,7 @@
     "nonprofit"
    ],
    "headline": "Taliban pressured by insurgents after 5 years in power",
-   "updated": "2026-08-15T04:01:18+00:00",
+   "updated": "2026-08-15T04:01:19+00:00",
    "outletCount": 2,
    "counts": {
     "family": 1,
@@ -3104,7 +3146,7 @@
      "url": "https://www.nytimes.com/2026/08/15/world/asia/entrenched-embattled-and-defiant-the-taliban-celebrate-5-years-in-power.html",
      "author": "Elian Peltier",
      "kind": "news",
-     "published": "2026-08-15T04:01:18+00:00",
+     "published": "2026-08-15T04:01:19+00:00",
      "summary": "The Taliban have Afghanistan in a chokehold that spares no one. But threats are starting to crack their veneer of stability and control."
     },
     {
@@ -3325,48 +3367,6 @@
      "kind": "news",
      "published": "2026-08-14T22:50:56+00:00",
      "summary": "A potential disaster was averted Friday when a Phoenix air traffic controller recognized two American Airlines jets mistakenly were flying the same flight number and acted quickly to avoid confusion and keep them a safe distance apart."
-    }
-   ]
-  },
-  {
-   "id": "07516d5bdd",
-   "topic": "Other",
-   "summary": "Torero print, one of 30 known to exist signed by Picasso, was stolen from Bill DeLind\u2019s gallery in 2018 Bill DeLind thought the Picasso print that was stolen from his Milwaukee gallery in 2018 was gone forever. But then police called last week and asked him to look at an artwork that a local landlord found while cleaning out a vacant apartment. DeLind immediately recognized the stolen Torero print, one of 30 known to exist signed by Picasso. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Picasso print stolen from Milwaukee art gallery in 2018 found by landlord while cleaning apartment",
-   "updated": "2026-08-15T01:27:23+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Picasso print stolen from Milwaukee art gallery in 2018 found by landlord while cleaning apartment",
-     "url": "https://www.theguardian.com/us-news/2026/aug/14/picasso-print-stolen-milwaukee",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T01:27:23+00:00",
-     "summary": "Torero print, one of 30 known to exist signed by Picasso, was stolen from Bill DeLind\u2019s gallery in 2018 Bill DeLind thought the Picasso print that was stolen from his Milwaukee gallery in 2018 was gone forever. But then police called last week and asked him to look at an artwork that a local landlord found while cleaning out a vacant apartment. DeLind immediately recognized the stolen Torero print, one of 30 known to exist signed by Picasso. Continue reading..."
-    },
-    {
-     "outlet": "wapo",
-     "title": "A landlord was cleaning out a vacant apartment, then found a lost Picasso",
-     "url": "https://www.washingtonpost.com/nation/2026/08/14/landlord-was-cleaning-out-vacant-apartment-then-he-found-lost-picasso/",
-     "author": "Cole Reynolds",
-     "kind": "news",
-     "published": "2026-08-14T10:00:01+00:00",
-     "summary": "The print wasn\u2019t just any Picasso. In February 2018, it had vanished from a downtown Milwaukee art gallery."
     }
    ]
   },
