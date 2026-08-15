@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T17:36:23.653897+00:00",
+ "generated": "2026-08-15T18:48:35.237325+00:00",
  "storyCount": 60,
  "feedsOk": 68,
  "feedsTotal": 72,
@@ -10,33 +10,34 @@
    "summary": "As tensions between the U.S. and Iran remain unsettled more than five months since the start of the war, the number of ships transiting the Strait of Hormuz appears to be far below pre-conflict levels. \"Despite a brief recovery in late June, vessel traffic through the Strait of Hormuz remains significantly reduced, AIS [Automatic Identification System] transit information suggests operators increasingly favouring the Northern route following projectile attacks, ongoing security concerns, and heightened enforcement activity,\" a United Kingdom Maritime Trade Operations (UKMTO) voluntary reporting area overview noted. \"Traffic remains well below normal levels, with AIS-detected transits approximately 90% below pre-conflict baselines and declining since the 24-26 (June) peak.\" The trade intelligence company Kpler reported in part of a post Friday on X that \"Maritime traffic through the\u2026",
    "summaryFrom": "foxnews",
    "emphasis": {
-    "bigCount": 12,
+    "bigCount": 11,
     "indieCount": 5,
     "big": [
      "waterway",
      "ship",
-     "tehran",
      "control",
+     "children",
      "health",
-     "children"
+     "steps"
     ],
     "indie": [
+     "threats",
      "become",
      "trying"
     ]
    },
    "absent": [],
    "headline": "Is China seeking to copy Iran\u2019s Strait of Hormuz blockade around Taiwan?",
-   "updated": "2026-08-15T17:27:27+00:00",
-   "outletCount": 15,
+   "updated": "2026-08-15T18:13:48+00:00",
+   "outletCount": 14,
    "counts": {
-    "corp": 5,
+    "corp": 4,
     "family": 7,
     "pub": 2,
     "nonprofit": 2,
     "coop": 1
    },
-   "newsCount": 14,
+   "newsCount": 13,
    "opinionCount": 3,
    "underreported": false,
    "articles": [
@@ -46,17 +47,8 @@
      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-15T17:27:27+00:00",
+     "published": "2026-08-15T18:13:48+00:00",
      "summary": "Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children, according to the health ministry."
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Iran Blasts Trump&#039;s Plan to Claim Strait of Hormuz as US Territory",
-     "url": "https://www.newsweek.com/iran-blasts-trumps-plan-to-claim-strait-of-hormuz-as-us-territory-12327233",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T16:27:13+00:00",
-     "summary": "Iran&#039;s Deputy Foreign Minister Kazem Gharibabadi said Friday that Tehran would not be intimidated by threats."
     },
     {
      "outlet": "thehill",
@@ -196,6 +188,143 @@
    ]
   },
   {
+   "id": "25736d721e",
+   "topic": "Politics",
+   "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation. The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle\u2026",
+   "summaryFrom": "axios",
+   "emphasis": {
+    "bigCount": 8,
+    "indieCount": 3,
+    "big": [
+     "carrier",
+     "diego-based",
+     "food",
+     "enough'",
+     "lawmakers",
+     "members"
+    ],
+    "indie": [
+     "ship"
+    ]
+   },
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+   "updated": "2026-08-15T18:21:32+00:00",
+   "outletCount": 11,
+   "counts": {
+    "nonprofit": 3,
+    "family": 5,
+    "corp": 3
+   },
+   "newsCount": 11,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "npr",
+     "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+     "url": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
+     "author": "Ava Pukatch",
+     "kind": "news",
+     "published": "2026-08-15T18:21:32+00:00",
+     "summary": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful. (Image credit: Julia Demaree Nikhinson)"
+    },
+    {
+     "outlet": "nyt",
+     "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
+     "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
+     "author": "Erica L. Green and Maggie Haberman",
+     "kind": "news",
+     "published": "2026-08-15T01:04:40+00:00",
+     "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted \u201cnot nearly long enough.\u201d"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
+     "url": "https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln",
+     "author": "Veronica Vela",
+     "kind": "news",
+     "published": "2026-08-14T22:55:06+00:00",
+     "summary": "Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump downplays concerns about sailors onboard USS Abraham Lincoln amid record deployment",
+     "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-uss-abraham-lincoln-deployment",
+     "author": "Marina Dunbar and Joseph Gedeon",
+     "kind": "news",
+     "published": "2026-08-14T22:12:55+00:00",
+     "summary": "President said nine months at sea \u2018not nearly long enough\u2019 even as families call for attention to mental health crisis US navy veterans and military health experts express concern over USS Abraham Lincoln sailors Donald Trump has downplayed concerns about US sailors enduring a record-setting deployment of nearly nine months onboard the USS Abraham Lincoln on Friday, saying the deployment was \u201cnot nearly long enough\u201d as concerns mount over mental health and supply issues onboard the aircraft carrier. The US president made the comments during a brief exchange with reporters before flying to New York for an event highlighting falling violent crime rates across the US. Continue reading..."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' amid outcry from families",
+     "url": "https://www.latimes.com/politics/story/2026-08-14/uss-abraham-lincoln-deployment-conditions-families-trump-hegseth",
+     "author": "Christopher Buchanan, Ana Ceballos",
+     "kind": "news",
+     "published": "2026-08-14T21:13:51+00:00",
+     "summary": "Lawmakers are pressing for answers amid reports that sailors aboard the San Diego-based carrier have endured food shortages, plumbing failures and severe fatigue."
+    },
+    {
+     "outlet": "slate",
+     "title": "Trump on Long-Suffering Sailors: \u201cNot Nearly Long Enough\u201d",
+     "url": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html?via=rss",
+     "author": "Ian Prasad Philbrick",
+     "kind": "news",
+     "published": "2026-08-14T21:09:49+00:00",
+     "summary": "Sailors are suffering. Trump and his team are denying it."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump says record USS Lincoln deployment 'not nearly long enough'",
+     "url": "https://abcnews.com/Politics/trump-record-uss-lincoln-deployment-long/story?id=135652552",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T20:32:04+00:00",
+     "summary": "Trump said USS Lincoln family members are not concerned about conditions."
+    },
+    {
+     "outlet": "axios",
+     "title": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
+     "url": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
+     "author": "Donica Phifer",
+     "kind": "news",
+     "published": "2026-08-14T20:19:31+00:00",
+     "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation. The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle East deployment. While taking questions from the press Friday, a reporter mentioned families were worried, to which Trump replied \"no they're not.\" Zoom out: The Navy Times , The Military Times, and Stars and Stripes were among the first to report on conditions aboard the carrier. The ship hasn't made"
+    },
+    {
+     "outlet": "time",
+     "title": "What to Know About the Growing Concerns Over Conditions on the Long-Deployed USS Abraham Lincoln",
+     "url": "https://time.com/article/2026/08/14/uss-abraham-lincoln-conditions-trump-iran-war/",
+     "author": "Connor Greene",
+     "kind": "news",
+     "published": "2026-08-14T20:14:50+00:00",
+     "summary": "In this U.S. Navy released handout, An F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 14, makes an arrested landing on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72) in support of Operation Epic Fury, on February 28, 2026. \u2014U.S. Navy/Getty Images The USS Abraham Lincoln has been at sea in the Middle East for months, and with no clear end in sight for the war in Iran , concerns for those aboard the aircraft carrier\u2014and for the vessel itself\u2014have mounted amid a series of troubling reports. Another aircraft carrier, the USS George Washington, had begun making its way towards the Middle East as of Thursday to replace the Lincoln, multiple news outlets reported. President Donald Trump appeared to confirm the reported ship swap on Friday, saying that the Lincoln \"is moving right now, or very shortly and is being replaced with another very similar ship.\u201d The Washington\u2019s deployment comes as reports have emerged in recent months recounting worsening living conditions, mental health concerns, and supply shortages on board the Lincoln. Trump seemed to deny the reports on the state of the Lincoln and its crew on Friday, responding \u201cNo, they\u2019re n"
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump dismisses families\u2019 concerns about USS Abraham Lincoln conditions",
+     "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-dismisses-families-concerns-about-uss-abraham-lincoln-conditions/",
+     "author": "Cat Zakrzewski",
+     "kind": "news",
+     "published": "2026-08-14T19:19:15+00:00",
+     "summary": "President Donald Trump dismissed the concerns of military families about worsening conditions on the USS Abraham Lincoln."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Trump Dismisses Concerns Over Conditions Aboard USS Lincoln",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-14/trump-dismisses-concerns-over-conditions-on-uss-lincoln-carrier",
+     "author": "Sonya Dymova, Courtney Subramanian and Jen Judson",
+     "kind": "news",
+     "published": "2026-08-14T19:11:19+00:00",
+     "summary": "President Donald Trump downplayed concerns over conditions for sailors aboard the USS Abraham Lincoln, amid an uproar from service members\u2019 families as its deployment to the Middle East approaches nine months."
+    }
+   ]
+  },
+  {
    "id": "fc3549f0e2",
    "topic": "Justice & Policing",
    "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges. \"I shot Mr. Thompson,\" Mangione said during Friday's hearing, adding, \"I knew\u2026",
@@ -206,14 +335,14 @@
     "big": [
      "court",
      "friday",
-     "executive",
      "unitedhealth",
+     "executive",
      "connection"
     ],
     "indie": [
      "death",
-     "year-old",
-     "pleading"
+     "pleading",
+     "year-old"
     ]
    },
    "absent": [
@@ -335,14 +464,13 @@
   },
   {
    "id": "be78a49bbe",
-   "topic": "Politics",
-   "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too\u2026",
-   "summaryFrom": "dailywire",
+   "topic": "Other",
+   "summary": "Yesterday in London, Jason Arday, the controversy-plagued British academic and author, was found dead. Made famous as the youngest Black professor in Cambridge\u2019s more than 800-year history, Arday had been dogged by weeks of scrutiny amid accusations of plagiarism, fake qualifications, and a fabricated backstory filled with hard-to-believe details. He claimed to have been mute until age 11 and illiterate until 18, disadvantages that did not deter him from getting a Ph.D., which he earned by age 30. He claimed, too, that he had suffered from various medical conditions throughout his life, including autism, epilepsy, locked-in syndrome, testicular cancer, and a brain tumor. He was, by his account, a world-class endurance athlete who had racked up a variety of impressive feats, including running 600 miles in six days. Then there were his academic accomplishments: Arday was billed as a\u2026",
+   "summaryFrom": "theatlantic",
    "emphasis": {
-    "bigCount": 6,
+    "bigCount": 5,
     "indieCount": 5,
     "big": [
-     "school",
      "statement",
      "police"
     ],
@@ -354,18 +482,27 @@
     "coop"
    ],
    "headline": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
-   "updated": "2026-08-15T17:04:43+00:00",
+   "updated": "2026-08-15T17:42:00+00:00",
    "outletCount": 10,
    "counts": {
+    "family": 3,
     "nonprofit": 3,
     "corp": 2,
-    "pub": 2,
-    "family": 4
+    "pub": 2
    },
    "newsCount": 9,
-   "opinionCount": 2,
+   "opinionCount": 1,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "theatlantic",
+     "title": "The Truths That Failed Jason Arday",
+     "url": "https://www.theatlantic.com/culture/2026/08/jason-arday-cambridge-professor-death/688304/?utm_source=feed",
+     "author": "Tyler Austin Harper",
+     "kind": "news",
+     "published": "2026-08-15T17:42:00+00:00",
+     "summary": "Yesterday in London, Jason Arday, the controversy-plagued British academic and author, was found dead. Made famous as the youngest Black professor in Cambridge\u2019s more than 800-year history, Arday had been dogged by weeks of scrutiny amid accusations of plagiarism, fake qualifications, and a fabricated backstory filled with hard-to-believe details. He claimed to have been mute until age 11 and illiterate until 18, disadvantages that did not deter him from getting a Ph.D., which he earned by age 30. He claimed, too, that he had suffered from various medical conditions throughout his life, including autism, epilepsy, locked-in syndrome, testicular cancer, and a brain tumor. He was, by his account, a world-class endurance athlete who had racked up a variety of impressive feats, including running 600 miles in six days. Then there were his academic accomplishments: Arday was billed as a once-in-a-generation talent, whose research in his field\u2014the sociology of education\u2014was \u201cthe best in the world,\u201d according to Hilary Cremin, the head of Cambridge\u2019s faculty of education. He claimed to have received a book advance of 1.4 million in unspecified currency for his memoir, released this week by"
+    },
     {
      "outlet": "npr",
      "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
@@ -401,15 +538,6 @@
      "kind": "news",
      "published": "2026-08-15T12:22:48+00:00",
      "summary": "Andy Burnham calls for reflection after \u2018tragedy on so many levels\u2019 in comments echoed by London mayor Sadiq Khan Andy Burnham has called the death of Jason Arday, whose body was found at his home in south London on Friday, a \u201ctragedy on so many levels\u201d. Arday resigned as a professor at the University of Cambridge last week after allegations of plagiarism, which he denied. He was pronounced dead just after 3pm on Friday . Continue reading..."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Professor\u2019s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-     "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
-     "author": "Mara Hvistendahl, Megan Specia, Leo Sands, Ali Watkins and Susan Dominus",
-     "kind": "news",
-     "published": "2026-08-15T11:38:00+00:00",
-     "summary": "Jason Arday, the school\u2019s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work."
     },
     {
      "outlet": "dailybeast",
@@ -449,15 +577,6 @@
     },
     {
      "outlet": "dailywire",
-     "title": "Family Of Ex-Cambridge Professor Blames \u2018Campaign Of Misinformation\u2019 For His Death",
-     "url": "https://www.dailywire.com/news/family-of-ex-cambridge-professor-blames-campaign-of-misinformation-for-his-death",
-     "author": "Virginia Kruta",
-     "kind": "opinion",
-     "published": "2026-08-14T19:16:44+00:00",
-     "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too long.&#8221; Arday, 41, was found unresponsive in his South London home on Friday \u2014 just over a week after he left his position at the prestigious university. Prior to leaving his post, he&#8217;d been accused of plagiarism and of embellishing his life story ahead of the release of his memoir, &#8220;Great a"
-    },
-    {
-     "outlet": "dailywire",
      "title": "Professor Recently Outed For Fraudulent Biography Found Dead",
      "url": "https://www.dailywire.com/news/professor-recently-outed-for-fraudulent-biography-found-dead",
      "author": "Brecca Stoll",
@@ -468,217 +587,96 @@
    ]
   },
   {
-   "id": "5e61bbd39c",
+   "id": "1beb4d630e",
    "topic": "Politics",
-   "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation. The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle\u2026",
-   "summaryFrom": "axios",
+   "summary": "The planned adornments, which were included in renderings submitted to the Supreme Court, break with tradition and the original vision for the White House grounds.",
+   "summaryFrom": "wapo",
    "emphasis": {
-    "bigCount": 8,
+    "bigCount": 5,
     "indieCount": 2,
     "big": [
-     "carrier",
-     "enough'",
-     "lawmakers",
-     "food",
-     "diego-based",
-     "members"
+     "planned"
     ],
     "indie": []
    },
    "absent": [
     "coop",
-    "pub"
+    "nonprofit"
    ],
-   "headline": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
-   "updated": "2026-08-15T01:04:40+00:00",
-   "outletCount": 10,
+   "headline": "Trump asks Supreme Court to let White House ballroom construction continue",
+   "updated": "2026-08-15T17:38:25+00:00",
+   "outletCount": 6,
    "counts": {
-    "family": 5,
-    "nonprofit": 2,
-    "corp": 3
+    "family": 4,
+    "pub": 2,
+    "corp": 1
    },
-   "newsCount": 10,
+   "newsCount": 7,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "nyt",
-     "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
-     "author": "Erica L. Green and Maggie Haberman",
+     "outlet": "forbes",
+     "title": "Trump Tests Birthright Citizenship Again After Supreme Court Loss",
+     "url": "https://www.forbes.com/sites/andyjsemotiuk/2026/08/15/trump-tests-birthright-citizenship-again-after-supreme-court-loss/",
+     "author": "Andy J. Semotiuk, Contributor",
      "kind": "news",
-     "published": "2026-08-15T01:04:40+00:00",
-     "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted \u201cnot nearly long enough.\u201d"
+     "published": "2026-08-15T17:38:25+00:00",
+     "summary": "After the Supreme Court affirmed birthright citizenship, Trump has taken to proclamations to try to limit the impact of the decision. What is fair and what isn't?"
     },
     {
-     "outlet": "pbsnewshour",
-     "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
-     "url": "https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln",
-     "author": "Veronica Vela",
-     "kind": "news",
-     "published": "2026-08-14T22:55:06+00:00",
-     "summary": "Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump downplays concerns about sailors onboard USS Abraham Lincoln amid record deployment",
-     "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-uss-abraham-lincoln-deployment",
-     "author": "Marina Dunbar and Joseph Gedeon",
-     "kind": "news",
-     "published": "2026-08-14T22:12:55+00:00",
-     "summary": "President said nine months at sea \u2018not nearly long enough\u2019 even as families call for attention to mental health crisis US navy veterans and military health experts express concern over USS Abraham Lincoln sailors Donald Trump has downplayed concerns about US sailors enduring a record-setting deployment of nearly nine months onboard the USS Abraham Lincoln on Friday, saying the deployment was \u201cnot nearly long enough\u201d as concerns mount over mental health and supply issues onboard the aircraft carrier. The US president made the comments during a brief exchange with reporters before flying to New York for an event highlighting falling violent crime rates across the US. Continue reading..."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' amid outcry from families",
-     "url": "https://www.latimes.com/politics/story/2026-08-14/uss-abraham-lincoln-deployment-conditions-families-trump-hegseth",
-     "author": "Christopher Buchanan, Ana Ceballos",
-     "kind": "news",
-     "published": "2026-08-14T21:13:51+00:00",
-     "summary": "Lawmakers are pressing for answers amid reports that sailors aboard the San Diego-based carrier have endured food shortages, plumbing failures and severe fatigue."
-    },
-    {
-     "outlet": "slate",
-     "title": "Trump on Long-Suffering Sailors: \u201cNot Nearly Long Enough\u201d",
-     "url": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html?via=rss",
-     "author": "Ian Prasad Philbrick",
-     "kind": "news",
-     "published": "2026-08-14T21:09:49+00:00",
-     "summary": "Sailors are suffering. Trump and his team are denying it."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump says record USS Lincoln deployment 'not nearly long enough'",
-     "url": "https://abcnews.com/Politics/trump-record-uss-lincoln-deployment-long/story?id=135652552",
+     "outlet": "dw",
+     "title": "Trump asks Supreme Court to let White House ballroom construction continue",
+     "url": "https://www.dw.com/en/trump-asks-supreme-court-to-let-white-house-ballroom-construction-continue/a-78377695?maca=en-rss-en-all-1573-rdf",
      "author": null,
      "kind": "news",
-     "published": "2026-08-14T20:32:04+00:00",
-     "summary": "Trump said USS Lincoln family members are not concerned about conditions."
-    },
-    {
-     "outlet": "axios",
-     "title": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
-     "url": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
-     "author": "Donica Phifer",
-     "kind": "news",
-     "published": "2026-08-14T20:19:31+00:00",
-     "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation. The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle East deployment. While taking questions from the press Friday, a reporter mentioned families were worried, to which Trump replied \"no they're not.\" Zoom out: The Navy Times , The Military Times, and Stars and Stripes were among the first to report on conditions aboard the carrier. The ship hasn't made"
-    },
-    {
-     "outlet": "time",
-     "title": "What to Know About the Growing Concerns Over Conditions on the Long-Deployed USS Abraham Lincoln",
-     "url": "https://time.com/article/2026/08/14/uss-abraham-lincoln-conditions-trump-iran-war/",
-     "author": "Connor Greene",
-     "kind": "news",
-     "published": "2026-08-14T20:14:50+00:00",
-     "summary": "In this U.S. Navy released handout, An F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 14, makes an arrested landing on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72) in support of Operation Epic Fury, on February 28, 2026. \u2014U.S. Navy/Getty Images The USS Abraham Lincoln has been at sea in the Middle East for months, and with no clear end in sight for the war in Iran , concerns for those aboard the aircraft carrier\u2014and for the vessel itself\u2014have mounted amid a series of troubling reports. Another aircraft carrier, the USS George Washington, had begun making its way towards the Middle East as of Thursday to replace the Lincoln, multiple news outlets reported. President Donald Trump appeared to confirm the reported ship swap on Friday, saying that the Lincoln \"is moving right now, or very shortly and is being replaced with another very similar ship.\u201d The Washington\u2019s deployment comes as reports have emerged in recent months recounting worsening living conditions, mental health concerns, and supply shortages on board the Lincoln. Trump seemed to deny the reports on the state of the Lincoln and its crew on Friday, responding \u201cNo, they\u2019re n"
+     "published": "2026-08-14T22:02:00+00:00",
+     "summary": "Justice Department lawyers echoed the US president's claim that the $400 million White House ballroom \u200bproject is a security necessity."
     },
     {
      "outlet": "wapo",
-     "title": "Trump dismisses families\u2019 concerns about USS Abraham Lincoln conditions",
-     "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-dismisses-families-concerns-about-uss-abraham-lincoln-conditions/",
-     "author": "Cat Zakrzewski",
+     "title": "Trump wants to put golden seals on White House ballroom",
+     "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-wants-put-golden-seals-white-house-ballroom/",
+     "author": "Dan Diamond, Jonathan Edwards",
      "kind": "news",
-     "published": "2026-08-14T19:19:15+00:00",
-     "summary": "President Donald Trump dismissed the concerns of military families about worsening conditions on the USS Abraham Lincoln."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Trump Dismisses Concerns Over Conditions Aboard USS Lincoln",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-14/trump-dismisses-concerns-over-conditions-on-uss-lincoln-carrier",
-     "author": "Sonya Dymova, Courtney Subramanian and Jen Judson",
-     "kind": "news",
-     "published": "2026-08-14T19:11:19+00:00",
-     "summary": "President Donald Trump downplayed concerns over conditions for sailors aboard the USS Abraham Lincoln, amid an uproar from service members\u2019 families as its deployment to the Middle East approaches nine months."
-    }
-   ]
-  },
-  {
-   "id": "da52a265fa",
-   "topic": "Other",
-   "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 3,
-    "big": [
-     "involving",
-     "around",
-     "shot"
-    ],
-    "indie": [
-     "involved"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Five injured, one critically, in shooting at Virginia State University",
-   "updated": "2026-08-15T17:09:17+00:00",
-   "outletCount": 6,
-   "counts": {
-    "corp": 1,
-    "family": 2,
-    "pub": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "5 people injured in shooting at Virginia State University",
-     "url": "https://www.cbsnews.com/news/shooting-virginia-state-university/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T17:09:17+00:00",
-     "summary": "Five people were injured in the shooting involving multiple suspects. One person is currently listed in critical condition, the university said."
-    },
-    {
-     "outlet": "wapo",
-     "title": "5 wounded in Virginia State University shooting involving \u2018multiple suspects\u2019",
-     "url": "https://www.washingtonpost.com/nation/2026/08/15/five-people-shot-virginia-state-university/",
-     "author": "John Woodrow Cox",
-     "kind": "news",
-     "published": "2026-08-15T16:58:00+00:00",
-     "summary": "Five people were shot at around 1:30 a.m. Saturday at Virginia State University, prompting a campus lockdown that continued past dawn."
+     "published": "2026-08-14T19:50:02+00:00",
+     "summary": "The planned adornments, which were included in renderings submitted to the Supreme Court, break with tradition and the original vision for the White House grounds."
     },
     {
      "outlet": "bbc",
-     "title": "Five injured, one critically, in shooting at Virginia State University",
-     "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+     "title": "Trump asks US Supreme Court to allow ballroom work to continue",
+     "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-15T15:09:59+00:00",
-     "summary": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said."
+     "published": "2026-08-14T19:05:22+00:00",
+     "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says."
     },
     {
-     "outlet": "guardian",
-     "title": "Multiple people injured in shooting at Virginia State University",
-     "url": "https://www.theguardian.com/us-news/2026/aug/15/multiple-people-injured-virginia-state-university-shooting",
-     "author": "Adam Gabbatt",
+     "outlet": "wapo",
+     "title": "Trump officials ask Supreme Court to let ballroom construction continue",
+     "url": "https://www.washingtonpost.com/politics/2026/08/14/white-house-ballroom-trump-asks-supreme-court-let-work-go/",
+     "author": "Jonathan Edwards, Justin Jouvenal, Dan Diamond",
      "kind": "news",
-     "published": "2026-08-15T13:20:41+00:00",
-     "summary": "School said shooting involved \u2018multiple suspects\u2019 as campus was locked down and police responded to scene Multiple people were injured in a shooting at Virginia State University (VSU), police said on Saturday morning, with several suspects still at large. The campus, about 20 miles (32km) south of Richmond, was on lockdown when police released initial details about the shooting. Continue reading..."
+     "published": "2026-08-14T17:22:24+00:00",
+     "summary": "The request escalates the legal fight over the controversial project to the nation\u2019s highest court."
     },
     {
-     "outlet": "aljazeera",
-     "title": "Five wounded in shooting at Virginia State University, multiple suspects",
-     "url": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
+     "outlet": "nyt",
+     "title": "Trump Administration Asks Supreme Court to Greenlight White House Ballroom",
+     "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-ballroom-white-house-supreme-court.html",
+     "author": "Ann E. Marimow",
+     "kind": "news",
+     "published": "2026-08-14T17:11:24+00:00",
+     "summary": "The planned 90,000-square-foot ballroom is estimated to cost $400 million and is part of the president\u2019s broader effort to remake Washington in his own style."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump admin says WH ballroom 'beyond the point of no return' in Supreme Court appeal",
+     "url": "https://abcnews.com/Politics/trump-appeals-supreme-court-white-house-ballroom-construction/story?id=135642539",
      "author": null,
      "kind": "news",
-     "published": "2026-08-15T12:57:08+00:00",
-     "summary": "Police found the gunshot victims near the US university&#039;s halls of residence."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Multiple People Shot At Virginia State University",
-     "url": "https://www.dailywire.com/news/multiple-people-shot-at-virginia-state-university",
-     "author": "Zach Jewell",
-     "kind": "opinion",
-     "published": "2026-08-15T07:47:18+00:00",
-     "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant law enforcement presence remains on campus as the investigation into this morning&#8217;s shooting continues.&#8221; It appears that no suspects have been taken into custody as of time of publication, and the university urged anyone with information on the shooting to contact law enforcement. pic.twi"
+     "published": "2026-08-14T16:52:25+00:00",
+     "summary": "The Trump administration is asking the Supreme Court to allow construction of the president's White House ballroom to continue."
     }
    ]
   },
@@ -839,87 +837,332 @@
    ]
   },
   {
-   "id": "d06c63d7b8",
+   "id": "e6f0e6556f",
    "topic": "Politics",
-   "summary": "The Fifth U.S. Circuit Court of Appeals on Thursday dismissed as moot a challenge to President Donald Trump\u2019s use of the Alien Enemies Act to deport alleged Tren de Aragua members, leaving the legality of his invocation of the 18th-century law unresolved. The New Orleans-based court said the case became moot after all three Venezuelan plaintiffs, whom the administration alleged were members of Tren de Aragua , had already been removed from the United States under other immigration authorities. While the Alien Enemies Act dates back hundreds of years, prior to Trump, it was most recently invoked by President Harry Truman in 1946. The law allows the president, under specified wartime or invasion circumstances involving a foreign nation or government, to detain and remove certain non-naturalized individuals of that hostile power. The Trump administration has argued that Tren de Aragua\u2019s\u2026",
-   "summaryFrom": "foxnews",
+   "summary": "Dallas-Fort Worth International Airport has scrapped a proposal to add Islamic foot-washing stations to two Terminal D restrooms, backing off Friday night after Texas Governor Greg Abbott called the plan illegal and opened a review of every state grant flowing to the airport. &#8220;These ablution facilities appear designed to single out one subset of the population for special treatment based on religion. That is illegal,&#8221; Abbott wrote in a letter to Transportation Secretary Sean Duffy. &#8220;Both airports are government-owned facilities. The federal and state constitutions prohibit governments from facilitating this sort of discrimination. Just as the government cannot favor the secular over the sacred, it also cannot favor one religious view over all others.&#8221; In a separate letter to DFW CEO Christopher McLaughlin, Abbott warned that organizations found to have developed\u2026",
+   "summaryFrom": "dailywire",
    "emphasis": {
-    "bigCount": 3,
+    "bigCount": 4,
     "indieCount": 3,
     "big": [
-     "fight"
+     "airport",
+     "review",
+     "illegal",
+     "governor",
+     "ordered",
+     "worth"
     ],
-    "indie": []
+    "indie": [
+     "order"
+    ]
    },
    "absent": [
-    "corp",
-    "coop"
+    "coop",
+    "pub"
    ],
-   "headline": "Week in Politics: USS Lincoln; latest primaries and Democrats; White House ballroom",
-   "updated": "2026-08-15T11:40:15+00:00",
-   "outletCount": 6,
+   "headline": "Greg Abbott threatens Dallas, Houston airports\u2019 grant funds over Islamic washing facilities",
+   "updated": "2026-08-15T18:29:51+00:00",
+   "outletCount": 5,
    "counts": {
-    "nonprofit": 1,
-    "pub": 2,
-    "family": 3
+    "corp": 1,
+    "family": 3,
+    "nonprofit": 3
    },
    "newsCount": 6,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "Greg Abbott Threatens Airports Over Islamic Washing Facilities: &#039;Illegal&#039;",
+     "url": "https://www.newsweek.com/greg-abbott-threatens-airports-over-islamic-washing-facilities-illegal-12327283",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T18:29:51+00:00",
+     "summary": "The Texas governor ordered grant reviews of DFW and Houston airports after objecting to spaces used for ritual washing."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "DFW Airport Scraps Islamic Foot-Washing Stations After Governor Threatens Its Funding",
+     "url": "https://www.dailywire.com/news/dfw-airport-scraps-islamic-foot-washing-stations-after-governor-threatens-its-funding",
+     "author": "Brecca Stoll",
+     "kind": "opinion",
+     "published": "2026-08-15T09:00:45+00:00",
+     "summary": "Dallas-Fort Worth International Airport has scrapped a proposal to add Islamic foot-washing stations to two Terminal D restrooms, backing off Friday night after Texas Governor Greg Abbott called the plan illegal and opened a review of every state grant flowing to the airport. &#8220;These ablution facilities appear designed to single out one subset of the population for special treatment based on religion. That is illegal,&#8221; Abbott wrote in a letter to Transportation Secretary Sean Duffy. &#8220;Both airports are government-owned facilities. The federal and state constitutions prohibit governments from facilitating this sort of discrimination. Just as the government cannot favor the secular over the sacred, it also cannot favor one religious view over all others.&#8221; In a separate letter to DFW CEO Christopher McLaughlin, Abbott warned that organizations found to have developed or operated what he called exclusionary religious spaces could lose state grant funding and face further enforcement. Abbott referred both DFW and Houston&#8217;s George Bush Intercontinental Airport (IAH) to the U.S. Department of Transportation for investigation and enforcement, asking the departme"
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Texas Gov. Greg Abbott Orders Investigation of Muslim Facilities at State Airport",
+     "url": "https://www.breitbart.com/politics/2026/08/14/texas-gov-abbott-orders-investigation-muslim-facilities-state-airport/",
+     "author": "Mariane Angela",
+     "kind": "news",
+     "published": "2026-08-15T04:21:36+00:00",
+     "summary": "Gov. Greg Abbott (R-TX) ordered a review of state funding for airports across Texas over Islamic washing facilities at two of the state's largest airports. The post Texas Gov. Greg Abbott Orders Investigation of Muslim Facilities at State Airport appeared first on Breitbart ."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "DFW Airport scraps controversial Islamic foot-washing station plan as Texas Gov Abbott takes aim",
+     "url": "https://www.foxnews.com/politics/dfw-airport-scraps-controversial-islamic-footwashing-station-plan-texas-gov-abbott-takes-aim",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T00:54:03+00:00",
+     "summary": "FIRST ON FOX: Texas Gov. Greg Abbott on Friday directed a review of state grants to entities operating two major Texas airports over religious accommodations after Dallas Fort Worth International Airport said it would no longer move forward with a proposal to install Islamic washing stations. Abbott said the state will review grants to entities operating DFW and George Bush Intercontinental Airport in Houston for possible revocation and denial of future funding. He also referred both airports to the U.S. Department of Transportation for investigation. \"Government-owned airports cannot favor one religion over all others,\" Abbott wrote on X Friday. \"DFW plans to install Islamic wudu washing facilities are illegal. I've directed a review of all state grants to both airports for possible revocation, and referred DFW &amp; IAH to USDOT for investigation. \"Texas will not allow illegal religious discrimination at taxpayer-funded facilities.\" DALLAS-FORT WORTH AIRPORT TO INSTALL ISLAMIC FOOT WASH STATIONS INSIDE BATHROOMS DFW told Fox News Digital Friday it had been evaluating a proposal to add ablution washing stations on the pre-security side of Terminal D, its international terminal, bu"
+    },
+    {
+     "outlet": "texastribune",
+     "title": "Greg Abbott threatens Dallas, Houston airports\u2019 grant funds over Islamic washing facilities",
+     "url": "https://feeds.texastribune.org/link/16799/17418678/texas-greg-abbott-dfw-iah-airport-islam-ablution-facility-grant",
+     "author": "Ayden Runnels",
+     "kind": "news",
+     "published": "2026-08-15T00:45:20+00:00",
+     "summary": "DFW said late Friday that plans to install the religious washing station had been canceled."
+    },
+    {
+     "outlet": "texastribune",
+     "title": "Texas will audit up to 300 projects, mostly data centers, after Gov. Greg Abbott\u2019s order",
+     "url": "https://feeds.texastribune.org/link/16799/17418589/texas-data-center-approval-pause-ercot-power-grid",
+     "author": "Paul Cobler",
+     "kind": "news",
+     "published": "2026-08-14T22:03:09+00:00",
+     "summary": "The state\u2019s power grid operator had already planned on auditing several data center proposals, but Abbott\u2019s directive reworks the timeline and adds new requirements."
+    },
+    {
+     "outlet": "texastribune",
+     "title": "Limits on certain firearms, silencers lifted for some in Texas after judge\u2019s order takes effect",
+     "url": "https://feeds.texastribune.org/link/16799/17417632/texas-national-firearms-act-ruling-doj-no-emergency-appeal",
+     "author": "Alex Nguyen",
+     "kind": "news",
+     "published": "2026-08-13T23:36:55+00:00",
+     "summary": "The Trump administration declined to immediately appeal a ruling by a federal judge in Lubbock that invalidated parts of the 1934 National Firearms Act."
+    }
+   ]
+  },
+  {
+   "id": "1ccbc08460",
+   "topic": "Other",
+   "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to the epicentre, because roads were blocked by landslides and communications disrupted. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 3,
+    "big": [],
+    "indie": [
+     "flores",
+     "tsunami",
+     "people",
+     "dozens",
+     "kills",
+     "buildings"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Powerful earthquake kills dozens in eastern Indonesia",
+   "updated": "2026-08-15T18:06:05+00:00",
+   "outletCount": 5,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 1,
+    "pub": 2,
+    "family": 1
+   },
+   "newsCount": 5,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "npr",
-     "title": "Week in Politics: USS Lincoln; latest primaries and Democrats; White House ballroom",
-     "url": "https://www.npr.org/2026/08/15/nx-s1-5929131/week-in-politics-uss-lincoln-latest-primaries-and-democrats-white-house-ballroom",
-     "author": "Eyder Peralta",
-     "kind": "news",
-     "published": "2026-08-15T11:40:15+00:00",
-     "summary": "A shortage of some munitions as well as the problems with the USS Lincoln have the Trump administration on the defensive. Meanwhile, what the latest primaries show about Democratic enthusiasm."
-    },
-    {
-     "outlet": "dw",
-     "title": "Trump asks Supreme Court to let White House ballroom construction continue",
-     "url": "https://www.dw.com/en/trump-asks-supreme-court-to-let-white-house-ballroom-construction-continue/a-78377695?maca=en-rss-en-all-1573-rdf",
+     "outlet": "abcnews",
+     "title": "2nd earthquake hits Indonesia following powerful magnitude 7.7 quake",
+     "url": "https://abcnews.com/International/2-dead-after-powerful-77-earthquake-strikes-off/story?id=135664681",
      "author": null,
      "kind": "news",
-     "published": "2026-08-14T22:02:00+00:00",
-     "summary": "Justice Department lawyers echoed the US president's claim that the $400 million White House ballroom \u200bproject is a security necessity."
+     "published": "2026-08-15T18:06:05+00:00",
+     "summary": "A powerful magnitude 7.7 earthquake struck off the coast of eastern Indonesia, according to the U.S. Geological Survey."
     },
     {
-     "outlet": "foxnews",
-     "title": "Trump\u2019s fight over rarely used 18th-century deportation law lives on in latest court clash",
-     "url": "https://www.foxnews.com/politics/trumps-fight-rarely-used-18th-century-deportation-law-lives-latest-court-clash",
-     "author": null,
+     "outlet": "guardian",
+     "title": "Powerful earthquake kills dozens in eastern Indonesia",
+     "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+     "author": "William Christou and agencies",
      "kind": "news",
-     "published": "2026-08-14T21:21:46+00:00",
-     "summary": "The Fifth U.S. Circuit Court of Appeals on Thursday dismissed as moot a challenge to President Donald Trump\u2019s use of the Alien Enemies Act to deport alleged Tren de Aragua members, leaving the legality of his invocation of the 18th-century law unresolved. The New Orleans-based court said the case became moot after all three Venezuelan plaintiffs, whom the administration alleged were members of Tren de Aragua , had already been removed from the United States under other immigration authorities. While the Alien Enemies Act dates back hundreds of years, prior to Trump, it was most recently invoked by President Harry Truman in 1946. The law allows the president, under specified wartime or invasion circumstances involving a foreign nation or government, to detain and remove certain non-naturalized individuals of that hostile power. The Trump administration has argued that Tren de Aragua\u2019s gang activity amounts to an \"invasion or predatory incursion\" under the law and has sought to use the authority as part of its broader immigration agenda , including efforts to speed the removal of suspected gang members. DC APPEALS COURT ORDERS JUDGE BOASBERG TO HALT TRUMP CONTEMPT PROBE OVER DEPORTAT"
+     "published": "2026-08-15T15:34:38+00:00",
+     "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to the epicentre, because roads were blocked by landslides and communications disrupted. Continue reading..."
     },
     {
      "outlet": "bbc",
-     "title": "Trump asks US Supreme Court to allow ballroom work to continue",
-     "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+     "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+     "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-14T19:05:22+00:00",
-     "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Trump officials ask Supreme Court to let ballroom construction continue",
-     "url": "https://www.washingtonpost.com/politics/2026/08/14/white-house-ballroom-trump-asks-supreme-court-let-work-go/",
-     "author": "Jonathan Edwards, Justin Jouvenal, Dan Diamond",
-     "kind": "news",
-     "published": "2026-08-14T17:22:24+00:00",
-     "summary": "The request escalates the legal fight over the controversial project to the nation\u2019s highest court."
+     "published": "2026-08-15T13:35:57+00:00",
+     "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
     },
     {
      "outlet": "nyt",
-     "title": "Trump Administration Asks Supreme Court to Greenlight White House Ballroom",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-ballroom-white-house-supreme-court.html",
-     "author": "Ann E. Marimow",
+     "title": "At Least 47 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
+     "url": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
+     "author": "Muktita Suhartono, Hasya Nindita and Rin Hindryati",
      "kind": "news",
-     "published": "2026-08-14T17:11:24+00:00",
-     "summary": "The planned 90,000-square-foot ballroom is estimated to cost $400 million and is part of the president\u2019s broader effort to remake Washington in his own style."
+     "published": "2026-08-15T13:08:44+00:00",
+     "summary": "The temblor was one of the strongest the area had experienced in decades, an official said."
+    },
+    {
+     "outlet": "dw",
+     "title": "Indonesia: Dozens dead after earthquake off Flores island",
+     "url": "https://www.dw.com/en/indonesia-dozens-dead-after-earthquake-off-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T23:45:00+00:00",
+     "summary": "At least 47 people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftershocks. A tsunami warning has been lifted."
+    }
+   ]
+  },
+  {
+   "id": "cf3330e0bc",
+   "topic": "Other",
+   "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano)",
+   "summaryFrom": "npr",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
+   "updated": "2026-08-15T17:49:42+00:00",
+   "outletCount": 5,
+   "counts": {
+    "pub": 2,
+    "corp": 1,
+    "nonprofit": 2
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
+     "url": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T17:49:42+00:00",
+     "summary": "The USS Washington&#039;s movement comes amid reports of dire conditions on the USS Lincoln amid the ongoing Iran war."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "USS Washington aircraft carrier heads to Middle East to replace USS Lincoln",
+     "url": "https://www.cbsnews.com/news/aircraft-carrier-uss-george-washington-uss-lincoln-iran-middle-east/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T15:26:02+00:00",
+     "summary": "The USS George Washington aircraft carrier departed Vietnam last week and is headed to the Middle East to replace the USS Abraham Lincoln, according to a U.S. official."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
+     "url": "https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln",
+     "author": "Konstantin Toropin, Associated Press",
+     "kind": "news",
+     "published": "2026-08-14T23:10:05+00:00",
+     "summary": "The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days."
+    },
+    {
+     "outlet": "bbc",
+     "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
+     "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T17:36:27+00:00",
+     "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+    },
+    {
+     "outlet": "npr",
+     "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
+     "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-14T06:31:29+00:00",
+     "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano)"
+    }
+   ]
+  },
+  {
+   "id": "766f173698",
+   "topic": "Justice & Policing",
+   "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 3,
+    "big": [],
+    "indie": [
+     "halls",
+     "responded",
+     "residence",
+     "large"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Multiple suspects at large after five shot at Virginia State University, police say",
+   "updated": "2026-08-15T17:42:36+00:00",
+   "outletCount": 5,
+   "counts": {
+    "pub": 2,
+    "corp": 1,
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+     "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T17:42:36+00:00",
+     "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "5 people injured in shooting at Virginia State University",
+     "url": "https://www.cbsnews.com/news/shooting-virginia-state-university/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T17:09:17+00:00",
+     "summary": "Five people were injured in the shooting involving multiple suspects. One person is currently listed in critical condition, the university said."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Multiple people injured in shooting at Virginia State University",
+     "url": "https://www.theguardian.com/us-news/2026/aug/15/multiple-people-injured-virginia-state-university-shooting",
+     "author": "Adam Gabbatt",
+     "kind": "news",
+     "published": "2026-08-15T13:20:41+00:00",
+     "summary": "School said shooting involved \u2018multiple suspects\u2019 as campus was locked down and police responded to scene Multiple people were injured in a shooting at Virginia State University (VSU), police said on Saturday morning, with several suspects still at large. The campus, about 20 miles (32km) south of Richmond, was on lockdown when police released initial details about the shooting. Continue reading..."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Five wounded in shooting at Virginia State University, multiple suspects",
+     "url": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T12:57:08+00:00",
+     "summary": "Police found the gunshot victims near the US university&#039;s halls of residence."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Multiple People Shot At Virginia State University",
+     "url": "https://www.dailywire.com/news/multiple-people-shot-at-virginia-state-university",
+     "author": "Zach Jewell",
+     "kind": "opinion",
+     "published": "2026-08-15T07:47:18+00:00",
+     "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant law enforcement presence remains on campus as the investigation into this morning&#8217;s shooting continues.&#8221; It appears that no suspects have been taken into custody as of time of publication, and the university urged anyone with information on the shooting to contact law enforcement. pic.twi"
     }
    ]
   },
@@ -1034,12 +1277,12 @@
     },
     {
      "outlet": "pbsnewshour",
-     "title": "Israeli airstrikes on southern Lebanon kill 11 people, Health Ministry says",
+     "title": "Israeli airstrikes on southern Lebanon kill 11 people in another test to truce",
      "url": "https://www.pbs.org/newshour/world/israeli-airstrikes-on-southern-lebanon-kill-11-people-health-ministry-says",
      "author": "Bassem Mroue, Associated Press",
      "kind": "news",
      "published": "2026-08-15T15:47:14+00:00",
-     "summary": "Israel and the Lebanese government announced a \"framework agreement\" on June 26, laying out a plan for Israeli forces to withdraw from southern Lebanon, in exchange for the disarmament of the Iran-backed Hezbollah militant group."
+     "summary": "Israel and the Lebanese government announced a \"framework agreement\" on June 26, laying out a plan for Israeli forces to withdraw from southern Lebanon in exchange for the disarmament of the Iran-backed Hezbollah militant group."
     },
     {
      "outlet": "dw",
@@ -1062,232 +1305,6 @@
    ]
   },
   {
-   "id": "13c9ba8298",
-   "topic": "Justice & Policing",
-   "summary": "In 2022, Assistant Chief Adam Glueck, of the Cape Girardeau Police Department in southeastern Missouri, purchased electric shock gloves for his officers after learning about them at a trade show. And his employees, he said, couldn\u2019t get enough of them. \u201cIf I try to take away the gloves from those officers at this point I think we may have a mutiny on our hands,\u201d Glueck joked on a podcast interview a couple of years later. \u201cThey\u2019ve grown really attached.\u201d&nbsp; The shock gloves, he went on to explain, allow their wearer to inflict pain without leaving the sort of marks that could look bad to witnesses or leave an officer vulnerable to lawsuits.&nbsp; \u201cIn today&#8217;s society, you know, everybody&#8217;s filming everything, everybody has a cell phone,\u201d Glueck said. If an officer punches someone on camera, that can go viral in an instant; even a standard taser leaves puncture wounds. But\u2026",
-   "summaryFrom": "motherjones",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 3,
-    "big": [],
-    "indie": [
-     "company"
-    ]
-   },
-   "absent": [
-    "family"
-   ],
-   "headline": "The Orwellian Company Behind ICE\u2019s New Electric Shock Gloves",
-   "updated": "2026-08-15T16:00:00+00:00",
-   "outletCount": 5,
-   "counts": {
-    "corp": 2,
-    "nonprofit": 1,
-    "pub": 1,
-    "coop": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "ICE purchase\u00a0of electric shock gloves\u00a0prompts\u00a0Democratic outrage",
-     "url": "https://thehill.com/homenews/administration/6030574-democrats-outraged-ice-deportation-gloves/",
-     "author": "Rebecca Beitsch",
-     "kind": "news",
-     "published": "2026-08-15T16:00:00+00:00",
-     "summary": "Outrage is building among congressional Democrats who are alarmed by new plans from the Trump administration to buy gloves that will allow immigration agents to deliver a painful electric shock as they carry out deportations. U.S. Immigration and Customs Enforcement (ICE) on Monday published a notice of its plans to spend as much as $20..."
-    },
-    {
-     "outlet": "motherjones",
-     "title": "The Orwellian Company Behind ICE\u2019s New Electric Shock Gloves",
-     "url": "https://www.motherjones.com/politics/2026/08/ice-shock-gloves-torture-compliant-technologies-jeff-niklaus/",
-     "author": "Sophie Hurwitz",
-     "kind": "news",
-     "published": "2026-08-15T11:30:00+00:00",
-     "summary": "In 2022, Assistant Chief Adam Glueck, of the Cape Girardeau Police Department in southeastern Missouri, purchased electric shock gloves for his officers after learning about them at a trade show. And his employees, he said, couldn\u2019t get enough of them. \u201cIf I try to take away the gloves from those officers at this point I think we may have a mutiny on our hands,\u201d Glueck joked on a podcast interview a couple of years later. \u201cThey\u2019ve grown really attached.\u201d&nbsp; The shock gloves, he went on to explain, allow their wearer to inflict pain without leaving the sort of marks that could look bad to witnesses or leave an officer vulnerable to lawsuits.&nbsp; \u201cIn today&#8217;s society, you know, everybody&#8217;s filming everything, everybody has a cell phone,\u201d Glueck said. If an officer punches someone on camera, that can go viral in an instant; even a standard taser leaves puncture wounds. But \u201cthe glove is low optic, and it looks better on camera, and it looks better to those witnesses. With a glove, there are no burn marks or scars.\u201d&nbsp; The gloves, manufactured by a company called Compliant Technologies, have been used by police, sheriffs, jail wardens, and even school resource office"
-    },
-    {
-     "outlet": "bbc",
-     "title": "Watch: Why are ICE agents getting controversial shock gloves?",
-     "url": "https://www.bbc.co.uk/news/videos/c4gv9w7p347o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-12T21:33:40+00:00",
-     "summary": "The BBC\u2019s Sarah Smith looks at what the new equipment could mean for the agency as tensions over immigration enforcement continue to escalate."
-    },
-    {
-     "outlet": "404media",
-     "title": "Here's the Manual for ICE's Electric Shock Gloves",
-     "url": "https://www.404media.co/heres-the-manual-for-ices-electric-shock-gloves/",
-     "author": "Joseph Cox",
-     "kind": "news",
-     "published": "2026-08-12T20:39:23+00:00",
-     "summary": "Immigration and Customs Enforcement (ICE) plans to spend tens of millions of dollars on buying specialized gloves that pulse with electrical energy, which make it easier for agents to subdue people, the Associated Press reported on Tuesday . A user manual for G.L.O.V.E, or Generated Low Output Voltage Emitter, sold by a company called Compliant Technologies, provides more specifics on how the gloves are supposed to work and allegedly be used. &#x1f4a1; Do you know anything else about this device? I would love to hear from you. Using a non-work device, you can message me securely on Signal at joseph.404 or send me an email at joseph@404media.co."
-    },
-    {
-     "outlet": "axios",
-     "title": "ICE plans to put electric-shock gloves on officers' hands",
-     "url": "https://www.axios.com/2026/08/12/ice-electric-shock-gloves-millions",
-     "author": "Avery Lotz",
-     "kind": "news",
-     "published": "2026-08-12T17:54:18+00:00",
-     "summary": "Immigration and Customs Enforcement plans to begin using electric shock gloves designed to cause pain and disrupt a person's ability to react. The big picture: The gloves could give ICE officers a new way to use force as their tactics face intense scrutiny after several deaths and violent encounters . Driving the news: ICE plans to spend between $10 and $20 million on the gloves and issue them to Homeland Security Investigations and Enforcement Removal Operations officers and agents, per a Department of Homeland Security notice published Monday. The Associated Press was first to report the plan. The CTG-5 Generated Low Output Voltage Emitter, or G.L.O.V.E, is produced by Kentucky-based Compliant Technologies, which declined to comment. The device's user guide says it should not be used against verbal defiance or as a form of punishment. The manufacturer advises against using it on the elderly, children, pregnant women and those with serious disabilities. Friction point: Jenn Rolnick Borchetta, ACLU's deputy director on policing, raised concerns about how immigration agents could use the device. \"ICE spent the last year showing this country that they are willing to disregard the law"
-    }
-   ]
-  },
-  {
-   "id": "10dda13605",
-   "topic": "Justice & Policing",
-   "summary": "A Virginia man's anti-police license plate is at the center of what could be a landmark First Amendment case, following a federal appeals court ruling in his favor last month. Virginia motorist Curtis M. Whateley says he has a free speech right to keep his customized license plate, which reads \"FTP&amp;ATF,\" an abbreviation that foul-mouthed puzzle-solvers will decipher as \"Fuck the police and the Bureau of Alcohol, Tobacco, and Firearms.\" The State of Virginia argues that it has the right to revoke Whateley's plate because license plates are government-owned, not a public soapbox. The state says it's going to take its case to the Supreme Court. The case highlights a niche, often amusing, but still consequential issue in First Amendment law: whether a vanity license plate is private or government speech. The U.S. Supreme Court ruled in 2015 that Texas could deny a group's application\u2026",
-   "summaryFrom": "reason",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Virginia Man Argues His 'FTP&ATF' License Plate Is Free Speech. The Supreme Court Might Hear His Case.",
-   "updated": "2026-08-15T15:46:26+00:00",
-   "outletCount": 5,
-   "counts": {
-    "family": 1,
-    "corp": 3,
-    "nonprofit": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "forbes",
-     "title": "Trump Blasts \u2018TREASONISTS\u2019 Behind Ballroom Case In Late-Night Rant After Asking For Supreme Court Intervention",
-     "url": "https://www.forbes.com/sites/saradorn/2026/08/15/trump-blasts-treasonists-behind-ballroom-case-in-late-night-rant-after-asking-for-supreme-court-intervention/",
-     "author": "Sara Dorn, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-15T15:46:26+00:00",
-     "summary": "Trump also posted a bizarre AI rendering of him touring the renovated ballroom with George Washington."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Trump Rages at \u2018Treasonists\u2019 in Bonkers Ballroom Rant",
-     "url": "https://www.thedailybeast.com/trump-rages-at-treasonists-in-bonkers-ballroom-rant/",
-     "author": "Julia Ornedo",
-     "kind": "news",
-     "published": "2026-08-15T15:07:45+00:00",
-     "summary": "Ken Cedeno / REUTERS President Donald Trump is throwing another tantrum over his White House pet project. Trump, 80, unleashed an error-riddled Truth Social rant taking aim at The National Trust for Historic Preservation for suing to stop the construction of his 90,000-square-foot, $400 million vanity project that he has now rebranded as a \u201cmilitary complex.\u201d \u201cThese are the TREASONISTS that brought the suit against the Military Complex,\u201d Trump\u2019s 579-word diatribe began. \u201cThey revealed Top Military Secrets!\u201d Read more at The Daily Beast."
-    },
-    {
-     "outlet": "thehill",
-     "title": "Trump accuses nonprofit organization of revealing 'top military secrets' in ballroom case",
-     "url": "https://thehill.com/homenews/administration/6031322-trump-accuses-national-trust-revealing-info-ballroom/",
-     "author": "Sarah Davis",
-     "kind": "news",
-     "published": "2026-08-15T14:05:35+00:00",
-     "summary": "President Trump issued fresh criticism on Friday evening toward the nonprofit organization suing his administration over the White House ballroom project, accusing the National Trust for Historic Preservation of revealing \u201cTop Military Secrets\u201d in their lawsuit. \u201cThese are the TREASONISTS that brought the suit against the Military Complex,\u201d the president wrote in a Truth Social..."
-    },
-    {
-     "outlet": "reason",
-     "title": "Virginia Man Argues His 'FTP&ATF' License Plate Is Free Speech. The Supreme Court Might Hear His Case.",
-     "url": "https://reason.com/2026/08/14/virginia-man-argues-his-ftpatf-license-plate-is-free-speech-the-supreme-court-might-hear-his-case/",
-     "author": "C.J. Ciaramella",
-     "kind": "opinion",
-     "published": "2026-08-14T19:11:42+00:00",
-     "summary": "A Virginia man's anti-police license plate is at the center of what could be a landmark First Amendment case, following a federal appeals court ruling in his favor last month. Virginia motorist Curtis M. Whateley says he has a free speech right to keep his customized license plate, which reads \"FTP&amp;ATF,\" an abbreviation that foul-mouthed puzzle-solvers will decipher as \"Fuck the police and the Bureau of Alcohol, Tobacco, and Firearms.\" The State of Virginia argues that it has the right to revoke Whateley's plate because license plates are government-owned, not a public soapbox. The state says it's going to take its case to the Supreme Court. The case highlights a niche, often amusing, but still consequential issue in First Amendment law: whether a vanity license plate is private or government speech. The U.S. Supreme Court ruled in 2015 that Texas could deny a group's application for a specialty license plate design showing the Confederate flag. Most U.S. district courts and state courts interpreting the decision have held that, while government-run vanity plate programs are a nonpublic forum, the specific character combination of the plate is private speech, which restricts th"
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump admin says WH ballroom 'beyond the point of no return' in Supreme Court appeal",
-     "url": "https://abcnews.com/Politics/trump-appeals-supreme-court-white-house-ballroom-construction/story?id=135642539",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T16:52:25+00:00",
-     "summary": "The Trump administration is asking the Supreme Court to allow construction of the president's White House ballroom to continue."
-    }
-   ]
-  },
-  {
-   "id": "1ccbc08460",
-   "topic": "Other",
-   "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to the epicentre, because roads were blocked by landslides and communications disrupted. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 3,
-    "big": [],
-    "indie": [
-     "flores",
-     "tsunami",
-     "buildings",
-     "people",
-     "kills",
-     "dozens"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Powerful earthquake kills dozens in eastern Indonesia",
-   "updated": "2026-08-15T15:34:38+00:00",
-   "outletCount": 5,
-   "counts": {
-    "nonprofit": 1,
-    "corp": 1,
-    "pub": 2,
-    "family": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Powerful earthquake kills dozens in eastern Indonesia",
-     "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-     "author": "William Christou and agencies",
-     "kind": "news",
-     "published": "2026-08-15T15:34:38+00:00",
-     "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to the epicentre, because roads were blocked by landslides and communications disrupted. Continue reading..."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "2nd earthquake hits Indonesia following powerful magnitude 7.7 quake",
-     "url": "https://abcnews.com/International/2-dead-after-powerful-77-earthquake-strikes-off/story?id=135664681",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T14:50:49+00:00",
-     "summary": "A powerful magnitude 7.7 earthquake struck off the coast of eastern Indonesia, according to the U.S. Geological Survey."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-     "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T13:35:57+00:00",
-     "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
-    },
-    {
-     "outlet": "nyt",
-     "title": "At Least 47 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
-     "url": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
-     "author": "Muktita Suhartono, Hasya Nindita and Rin Hindryati",
-     "kind": "news",
-     "published": "2026-08-15T13:08:44+00:00",
-     "summary": "The temblor was one of the strongest the area had experienced in decades, an official said."
-    },
-    {
-     "outlet": "dw",
-     "title": "Indonesia: Dozens dead after earthquake off Flores island",
-     "url": "https://www.dw.com/en/indonesia-dozens-dead-after-earthquake-off-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T23:45:00+00:00",
-     "summary": "At least 47 people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftershocks. A tsunami warning has been lifted."
-    }
-   ]
-  },
-  {
    "id": "5e3a941b99",
    "topic": "Politics",
    "summary": "With White House Press Secretary Karoline Leavitt set to step down from her role at the end of the month, the question of who will replace her is looming over Washington. Leavitt, 28, assumed the Press Secretary role at the beginning of President Donald Trump\u2019s second term last January, becoming the youngest person to ever hold the position. President Donald Trump announced Leavitt\u2019s departure in a post on Truth Social on Wednesday, saying that she would leave her role to focus on her family but that she would remain one of his \u201ctop advisors, and an influential voice within the Republican Party.\u201d Leavitt, who gave birth to her second child in May, thanked Trump in a lengthy post on X, in which she described her decision to focus on her two young children \u201cbittersweet.\u201d \u201cI will always remain a vocal advocate for MAGA and the Republican Party,\u201d Leavitt wrote. Read More: Karoline Leavitt\u2019s\u2026",
@@ -1297,9 +1314,9 @@
     "indieCount": 2,
     "big": [
      "post",
-     "president",
+     "role",
      "announced",
-     "role"
+     "president"
     ],
     "indie": []
    },
@@ -1436,62 +1453,256 @@
    ]
   },
   {
-   "id": "85bba0da8f",
-   "topic": "Other",
-   "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano)",
-   "summaryFrom": "npr",
+   "id": "bde274b98e",
+   "topic": "Politics",
+   "summary": "AUSTIN \u2014 Democrats teed up South Carolina to lead a six-state gauntlet of early presidential contests, sealing a 2028 roadmap that pushes Black and Latino voters and labor to the front of the line for choosing the party\u2019s next national leader.",
+   "summaryFrom": "nbcnews",
    "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "South Carolina to hold first 2028 Democratic presidential primary",
+   "updated": "2026-08-15T18:41:12+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 3,
+    "family": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "South Carolina to hold first 2028 Democratic presidential primary",
+     "url": "https://www.cbsnews.com/news/democratic-national-committee-presidential-primary-south-carolina-vote/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T18:41:12+00:00",
+     "summary": "South Carolina's Democratic presidential primary will take place on Jan. 22, 2028. Nevada, New Hampshire, New Mexico, Michigan and Virginia will also hold early Democratic nominating contests."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
+     "url": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
+     "author": "Shane Goldmacher",
+     "kind": "news",
+     "published": "2026-08-15T18:27:45+00:00",
+     "summary": "The party\u2019s membership finalized the new order for the first six states to winnow the candidate field, pushing back Iowa and New Hampshire."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Democrats officially set their 2028 primary calendar, with South Carolina going first",
+     "url": "https://www.nbcnews.com/politics/2028-election/democrats-officially-set-2028-primary-calendar-south-carolina-going-fi-rcna592519",
+     "author": "Natasha Korecki",
+     "kind": "news",
+     "published": "2026-08-15T18:25:31+00:00",
+     "summary": "AUSTIN \u2014 Democrats teed up South Carolina to lead a six-state gauntlet of early presidential contests, sealing a 2028 roadmap that pushes Black and Latino voters and labor to the front of the line for choosing the party\u2019s next national leader."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "DNC to finalize controversial 2028 primary calendar, elevating South Carolina",
+     "url": "https://abcnews.com/Politics/dnc-set-finalize-controversial-2028-primary-calendar-elevating/story?id=135616869",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T09:41:06+00:00",
+     "summary": "The DNC is expected to vote on Saturday to approve the new order of states for the 2028 presidential nominating process, amidst controversy over some of those decisions."
+    }
+   ]
+  },
+  {
+   "id": "4f3a067458",
+   "topic": "Climate & Energy",
+   "summary": "Tropical Storm Lala continues to track through the central Pacific Ocean and is forecast to strengthen into a hurricane as it approaches the Big Island of Hawaii.",
+   "summaryFrom": "abcnews",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 2,
+    "big": [],
+    "indie": [
+     "rain"
+    ]
+   },
    "absent": [
     "family",
     "coop"
    ],
-   "headline": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
-   "updated": "2026-08-15T15:26:02+00:00",
+   "headline": "Tropical Storm Lala expected to strengthen as it nears Hawaii",
+   "updated": "2026-08-15T18:13:51+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 2,
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Tropical Storm Lala close to hurricane strength as it nears Hawaii",
+     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T18:13:51+00:00",
+     "summary": "Tropical Storm Lala is expected to become a hurricane and bring dangerous conditions to Hawaii this weekend, forecasters say."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Tropical Storm Lala expected to strengthen as it nears Hawaii",
+     "url": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T17:27:57+00:00",
+     "summary": "Authorities warn residents to take precautions as storm expected to bring rain and strong winds to the island chain."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Hawaii's Big Island lashed by rain and wind as Tropical Storm Lala closes in",
+     "url": "https://www.pbs.org/newshour/nation/hawaiis-big-island-lashed-by-rain-and-wind-as-tropical-storm-lala-closes-in",
+     "author": "Jennifer Sinco Kelleher, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T15:17:14+00:00",
+     "summary": "The National Hurricane Center issued a rare hurricane warning for the island, which hasn't experienced a direct hurricane landfall in 155 years."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Tropical Storm Lala forecast and track: Hawaii braces ahead of expected hurricane",
+     "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T04:38:08+00:00",
+     "summary": "Tropical Storm Lala continues to track through the central Pacific Ocean and is forecast to strengthen into a hurricane as it approaches the Big Island of Hawaii."
+    }
+   ]
+  },
+  {
+   "id": "cc0f5a9b70",
+   "topic": "Politics",
+   "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 2,
+    "big": [],
+    "indie": [
+     "former"
+    ]
+   },
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "UK's leader calls for reflection after the death of former Cambridge professor accused of plagiarism",
+   "updated": "2026-08-15T17:48:50+00:00",
+   "outletCount": 4,
+   "counts": {
+    "nonprofit": 1,
+    "family": 2,
+    "pub": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "pbsnewshour",
+     "title": "UK's leader calls for reflection after the death of former Cambridge professor accused of plagiarism",
+     "url": "https://www.pbs.org/newshour/world/uks-leader-calls-for-reflection-after-the-death-of-former-cambridge-professor-accused-of-plagiarism",
+     "author": "Sylvia Hui, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T17:48:50+00:00",
+     "summary": "Jason Arday, who became Cambridge's youngest Black professor in 2023, was found dead inside an address in south London on Friday."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Professor\u2019s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+     "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
+     "author": "Mara Hvistendahl, Megan Specia, Leo Sands, Ali Watkins and Susan Dominus",
+     "kind": "news",
+     "published": "2026-08-15T17:31:40+00:00",
+     "summary": "Jason Arday, the school\u2019s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "UK PM Burnham reacts to death of former Cambridge professor",
+     "url": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T17:19:12+00:00",
+     "summary": "Jason Arday was found dead on Friday, just days after resigning amid intense scrutiny over his academic work."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Family Of Ex-Cambridge Professor Blames \u2018Campaign Of Misinformation\u2019 For His Death",
+     "url": "https://www.dailywire.com/news/family-of-ex-cambridge-professor-blames-campaign-of-misinformation-for-his-death",
+     "author": "Virginia Kruta",
+     "kind": "opinion",
+     "published": "2026-08-14T19:16:44+00:00",
+     "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too long.&#8221; Arday, 41, was found unresponsive in his South London home on Friday \u2014 just over a week after he left his position at the prestigious university. Prior to leaving his post, he&#8217;d been accused of plagiarism and of embellishing his life story ahead of the release of his memoir, &#8220;Great a"
+    }
+   ]
+  },
+  {
+   "id": "13c9ba8298",
+   "topic": "Justice & Policing",
+   "summary": "In 2022, Assistant Chief Adam Glueck, of the Cape Girardeau Police Department in southeastern Missouri, purchased electric shock gloves for his officers after learning about them at a trade show. And his employees, he said, couldn\u2019t get enough of them. \u201cIf I try to take away the gloves from those officers at this point I think we may have a mutiny on our hands,\u201d Glueck joked on a podcast interview a couple of years later. \u201cThey\u2019ve grown really attached.\u201d&nbsp; The shock gloves, he went on to explain, allow their wearer to inflict pain without leaving the sort of marks that could look bad to witnesses or leave an officer vulnerable to lawsuits.&nbsp; \u201cIn today&#8217;s society, you know, everybody&#8217;s filming everything, everybody has a cell phone,\u201d Glueck said. If an officer punches someone on camera, that can go viral in an instant; even a standard taser leaves puncture wounds. But\u2026",
+   "summaryFrom": "motherjones",
+   "emphasis": null,
+   "absent": [
+    "family"
+   ],
+   "headline": "The Orwellian Company Behind ICE\u2019s New Electric Shock Gloves",
+   "updated": "2026-08-15T16:00:00+00:00",
    "outletCount": 4,
    "counts": {
     "corp": 1,
-    "nonprofit": 2,
-    "pub": 1
+    "nonprofit": 1,
+    "pub": 1,
+    "coop": 1
    },
    "newsCount": 4,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
     {
-     "outlet": "cbsnews",
-     "title": "USS Washington aircraft carrier heads to Middle East to replace USS Lincoln",
-     "url": "https://www.cbsnews.com/news/aircraft-carrier-uss-george-washington-uss-lincoln-iran-middle-east/",
-     "author": null,
+     "outlet": "thehill",
+     "title": "ICE purchase\u00a0of electric shock gloves\u00a0prompts\u00a0Democratic outrage",
+     "url": "https://thehill.com/homenews/administration/6030574-democrats-outraged-ice-deportation-gloves/",
+     "author": "Rebecca Beitsch",
      "kind": "news",
-     "published": "2026-08-15T15:26:02+00:00",
-     "summary": "The USS George Washington aircraft carrier departed Vietnam last week and is headed to the Middle East to replace the USS Abraham Lincoln, according to a U.S. official."
+     "published": "2026-08-15T16:00:00+00:00",
+     "summary": "Outrage is building among congressional Democrats who are alarmed by new plans from the Trump administration to buy gloves that will allow immigration agents to deliver a painful electric shock as they carry out deportations. U.S. Immigration and Customs Enforcement (ICE) on Monday published a notice of its plans to spend as much as $20..."
     },
     {
-     "outlet": "pbsnewshour",
-     "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
-     "url": "https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln",
-     "author": "Konstantin Toropin, Associated Press",
+     "outlet": "motherjones",
+     "title": "The Orwellian Company Behind ICE\u2019s New Electric Shock Gloves",
+     "url": "https://www.motherjones.com/politics/2026/08/ice-shock-gloves-torture-compliant-technologies-jeff-niklaus/",
+     "author": "Sophie Hurwitz",
      "kind": "news",
-     "published": "2026-08-14T23:10:05+00:00",
-     "summary": "The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days."
+     "published": "2026-08-15T11:30:00+00:00",
+     "summary": "In 2022, Assistant Chief Adam Glueck, of the Cape Girardeau Police Department in southeastern Missouri, purchased electric shock gloves for his officers after learning about them at a trade show. And his employees, he said, couldn\u2019t get enough of them. \u201cIf I try to take away the gloves from those officers at this point I think we may have a mutiny on our hands,\u201d Glueck joked on a podcast interview a couple of years later. \u201cThey\u2019ve grown really attached.\u201d&nbsp; The shock gloves, he went on to explain, allow their wearer to inflict pain without leaving the sort of marks that could look bad to witnesses or leave an officer vulnerable to lawsuits.&nbsp; \u201cIn today&#8217;s society, you know, everybody&#8217;s filming everything, everybody has a cell phone,\u201d Glueck said. If an officer punches someone on camera, that can go viral in an instant; even a standard taser leaves puncture wounds. But \u201cthe glove is low optic, and it looks better on camera, and it looks better to those witnesses. With a glove, there are no burn marks or scars.\u201d&nbsp; The gloves, manufactured by a company called Compliant Technologies, have been used by police, sheriffs, jail wardens, and even school resource office"
     },
     {
      "outlet": "bbc",
-     "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-     "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+     "title": "Watch: Why are ICE agents getting controversial shock gloves?",
+     "url": "https://www.bbc.co.uk/news/videos/c4gv9w7p347o?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-14T17:36:27+00:00",
-     "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+     "published": "2026-08-12T21:33:40+00:00",
+     "summary": "The BBC\u2019s Sarah Smith looks at what the new equipment could mean for the agency as tensions over immigration enforcement continue to escalate."
     },
     {
-     "outlet": "npr",
-     "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
-     "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
-     "author": "The Associated Press",
+     "outlet": "404media",
+     "title": "Here's the Manual for ICE's Electric Shock Gloves",
+     "url": "https://www.404media.co/heres-the-manual-for-ices-electric-shock-gloves/",
+     "author": "Joseph Cox",
      "kind": "news",
-     "published": "2026-08-14T06:31:29+00:00",
-     "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano)"
+     "published": "2026-08-12T20:39:23+00:00",
+     "summary": "Immigration and Customs Enforcement (ICE) plans to spend tens of millions of dollars on buying specialized gloves that pulse with electrical energy, which make it easier for agents to subdue people, the Associated Press reported on Tuesday . A user manual for G.L.O.V.E, or Generated Low Output Voltage Emitter, sold by a company called Compliant Technologies, provides more specifics on how the gloves are supposed to work and allegedly be used. &#x1f4a1; Do you know anything else about this device? I would love to hear from you. Using a non-work device, you can message me securely on Signal at joseph.404 or send me an email at joseph@404media.co."
     }
    ]
   },
@@ -1565,8 +1776,8 @@
     "indieCount": 2,
     "big": [],
     "indie": [
-     "wall",
-     "work"
+     "work",
+     "wall"
     ]
    },
    "absent": [
@@ -1620,66 +1831,6 @@
      "kind": "news",
      "published": "2026-08-14T14:20:18+00:00",
      "summary": "A tribal nonprofit and an outdoor recreation company filed the federal lawsuit, arguing the work threatens archeological sites and sacred grounds."
-    }
-   ]
-  },
-  {
-   "id": "4e7c8d1bfe",
-   "topic": "Culture & Sport",
-   "summary": "The year of Anne Hathaway is kicked into hyperdrive. Following the release of the legacy sequel \"The Devil Wears Prada 2,\" the indie art house film \"Mother Mary\" and on the heels of Christopher Nolan's epic \"The Odyssey,\" the Oscar winner now stars in the new movie \"The End of Oak Street\" (and she still has another movie slated for this fall!). She and Ewan McGregor are Denise and Greg Platt, a not-so-happy couple who put on a happy face for their two teenage children, Audrey and Brian (Maisy Stella and Christian Convery) in their idyllic neighborhood on \u2014 you guessed it \u2014 Oak Street in Summer 1982. One night, a mysterious light floods the outside of their home, and they wake up without any power, running water, and are not even picking up any radio stations. It doesn't take long after Denise and Greg leave the house to figure out something isn't right \u2014 there are dinosaurs everywhere.\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "The End of Oak Street Is a Nasty, Effective Exercise in Dino Terror",
-   "updated": "2026-08-15T12:00:50+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 3,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 2,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "'The End of Oak Street' Review: Anne Hathaway, Ewan McGregor fight dinosaurs in surprisingly fun movie",
-     "url": "https://www.foxnews.com/opinion/the-end-oak-street-review-anne-hathaway-ewan-mcgregor-fight-dinosaurs-surprisingly-fun-movie",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-15T12:00:50+00:00",
-     "summary": "The year of Anne Hathaway is kicked into hyperdrive. Following the release of the legacy sequel \"The Devil Wears Prada 2,\" the indie art house film \"Mother Mary\" and on the heels of Christopher Nolan's epic \"The Odyssey,\" the Oscar winner now stars in the new movie \"The End of Oak Street\" (and she still has another movie slated for this fall!). She and Ewan McGregor are Denise and Greg Platt, a not-so-happy couple who put on a happy face for their two teenage children, Audrey and Brian (Maisy Stella and Christian Convery) in their idyllic neighborhood on \u2014 you guessed it \u2014 Oak Street in Summer 1982. One night, a mysterious light floods the outside of their home, and they wake up without any power, running water, and are not even picking up any radio stations. It doesn't take long after Denise and Greg leave the house to figure out something isn't right \u2014 there are dinosaurs everywhere. \u2018ONE NIGHT ONLY\u2019 REVIEW: MONICA BARBARO AND CALLUM TURNER CHARM IN HIGH-CONCEPT ROM-COM The entirety of their neighborhood was somehow transported back to a prehistoric era where the end of the street is literally cut off by a giant cliff with jungles taking over people's backyards. The Platts must f"
-    },
-    {
-     "outlet": "time",
-     "title": "The End of Oak Street Is the Best Dinosaur Movie Since Jurassic Park",
-     "url": "https://time.com/article/2026/08/10/the-end-of-oak-street-jurassic-park-comparison/",
-     "author": "Megan McCluskey",
-     "kind": "news",
-     "published": "2026-08-14T14:35:56+00:00",
-     "summary": "(L-R): Ewan McGregor as Greg and Anne Hathaway as Denise in The End of Oak Street \u2014Warner Bros. Pictures It's been 33 years since the enduring cinematic masterpiece that is Jurassic Park first hit theaters in June 1993. Since that fateful summer, Steven Spielberg's sci-fi survival thriller has reigned supreme as the undisputed king of dinosaur films. Now, The End of Oak Street is proving a dino blockbuster that serves up prehistoric horror with a side of genuine pathos is still a worthy endeavor. Based on Michael Crichton's 1990 novel, Jurassic Park not only delivered some of the most memorable creature-feature scares in movie history, it was also a sharp cautionary tale about scientific hubris and the illusion of man's control over nature that was anchored by stellar performances from its core cast. But over the course of numerous sequels and reboots, the franchise largely shifted away from resonant character drama in favor of high-octane action sequences and increasingly monstrous beasts. Outside the Jurassic universe, there haven't been many successful attempts to reinvent the dinosaur wheel, so to speak. Brian (Christian Convery) and Audrey (Maisy Stella) flee from an Allosauru"
-    },
-    {
-     "outlet": "reason",
-     "title": "The End of Oak Street Is a Nasty, Effective Exercise in Dino Terror",
-     "url": "https://reason.com/2026/08/14/the-end-of-oak-street-is-a-nasty-effective-exercise-in-dino-terror/",
-     "author": "Peter Suderman",
-     "kind": "opinion",
-     "published": "2026-08-14T14:32:25+00:00",
-     "summary": "There's something primordially satisfying about watching a big-screen dinosaur get the what-for from the business end of a just-loaded shotgun. The recent run of Jurassic Park movies sometimes seems to have lost this primal pleasure, replacing it with ho-hum computer-generated spectacle and cheap nostalgic callbacks to the franchise's better days. They've forgotten that the franchise was founded on a combination of awe and white-knuckle terror\u2014the raw and relatable fear of a giant, toothy monster that stalks the earth with a sort of evolutionary arrogance that comes from a couple million years atop the food chain. Newsflash: Humans rule the planet now. It's fun to watch these ancient planetary powerhouses get taken down a peg. Sic semper Tyrannosaurus. The End of Oak Street remembers what the Jurassic Park franchise has largely forgotten. It leans into the animal terror of encountering a dinosaur on the streets of an ordinary suburb. Set in the early 1980s, the movie lifts brashly from early Steven Spielberg, especially E.T. , depicting a seemingly ordinary family with its own ordinary troubles who find themselves in a sort of dinosaur-ridden episode of The Twilight Zone. The End o"
-    },
-    {
-     "outlet": "latimes",
-     "title": "Wife finds a way in the Spielberg-poached dino-mayhem of 'The End of Oak Street'",
-     "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-08-12/end-of-oak-street-review-anne-hathaway-ewan-mcgregor-maisy-stella-david-robert-mitchell",
-     "author": "Amy Nicholson",
-     "kind": "news",
-     "published": "2026-08-12T18:01:40+00:00",
-     "summary": "Indie auteur David Robert Mitchell of \"It Follows\" drops his own signature for an '80s-style family adventure, zapping dinosaurs into a idyllic suburb."
     }
    ]
   },
@@ -1740,6 +1891,57 @@
      "kind": "news",
      "published": "2026-08-14T10:18:02+00:00",
      "summary": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials."
+    }
+   ]
+  },
+  {
+   "id": "4c4834d449",
+   "topic": "Culture & Sport",
+   "summary": "It is an NFL business fact that when its best players agree to new contracts, they break records as well as the bank. That's the case with Seattle Seahawks cornerback Devon Witherspoon, who on Saturday became the league's highest-paid cornerback. Witherspoon agreed to a four-year deal worth $132 million that includes more than $101 million in guarantees, according to a source. And this: It not only makes Witherspoon the league's highest paid player at his position today but also all-time. PATRICK MAHOMES LEAPS PAST DAK PRESCOTT AS NFL'S HIGHEST-PAID QB WITH RECORD CHIEFS EXTENSION WORTH $504.75M Witherspoon's deal will average $33 million per season on an annual average basis which beats the $31 million per season Denzel Ward got from the Cleveland Browns last month. That's not all. Witherspoon, a Pro Bowl selection all three years he's been in the NFL, is getting paid to stop opposing\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Seahawks Ink 3-Time Pro Bowl CB Devon Witherspoon to Record-Setting Deal",
+   "updated": "2026-08-15T18:26:54+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "family": 2
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "Seahawks Ink 3-Time Pro Bowl CB Devon Witherspoon to Record-Setting Deal",
+     "url": "https://www.newsweek.com/sports/nfl/seahawks-ink-3-time-pro-bowl-cb-devon-witherspoon-to-record-setting-deal-12327403",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T18:26:54+00:00",
+     "summary": "Devon Witherspoon and the Seahawks agreed to a four-year, $132 million extension, making him the NFL&#039;s highest-paid cornerback."
+    },
+    {
+     "outlet": "nypost",
+     "title": "Seahawks make Devon Witherspoon NFL\u2019s highest-paid corner with $132 million extension",
+     "url": "https://nypost.com/2026/08/15/sports/seahawks-devon-witherspoon-gets-four-year-132-million-extension/",
+     "author": "Andrew Crane",
+     "kind": "news",
+     "published": "2026-08-15T18:19:55+00:00",
+     "summary": "The NFL has a new highest-paid cornerback \u2014 again."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Seattle Seahawks make Devon Witherspoon NFL's highest-paid CB of all time, but probably not for long",
+     "url": "https://www.foxnews.com/sports/seattle-seahawks-devon-witherspoon-nfl-highest-paid-cb-all-time",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T16:27:39+00:00",
+     "summary": "It is an NFL business fact that when its best players agree to new contracts, they break records as well as the bank. That's the case with Seattle Seahawks cornerback Devon Witherspoon, who on Saturday became the league's highest-paid cornerback. Witherspoon agreed to a four-year deal worth $132 million that includes more than $101 million in guarantees, according to a source. And this: It not only makes Witherspoon the league's highest paid player at his position today but also all-time. PATRICK MAHOMES LEAPS PAST DAK PRESCOTT AS NFL'S HIGHEST-PAID QB WITH RECORD CHIEFS EXTENSION WORTH $504.75M Witherspoon's deal will average $33 million per season on an annual average basis which beats the $31 million per season Denzel Ward got from the Cleveland Browns last month. That's not all. Witherspoon, a Pro Bowl selection all three years he's been in the NFL, is getting paid to stop opposing wide receivers and quarterbacks. And this deal pays him more than many opposing wide receivers and quarterbacks. Consider that Witherspoon's deal pays more on an annual average than Aaron Rodgers gets from the Pittsburgh Steelers on an annual average \u2013 $22 million. It pays more than Kirk Cousins gets"
     }
    ]
   },
@@ -1846,53 +2048,53 @@
    ]
   },
   {
-   "id": "6139c6e185",
+   "id": "46ea5690f3",
    "topic": "Justice & Policing",
-   "summary": "Luigi Mangione pleaded guilty in federal court on Friday, admitting that he shot and killed UnitedHealthcare CEO Brian Thompson on the streets of Manhattan on December 4, 2024. The murder was astonishingly brazen. In case anyone has forgotten, Mangione followed Thompson, shot him from behind at point-blank range, then fled the scene, only to be caught in a Pennsylvania McDonald&#8217;s five days later. Technically, while Mangione admitted stalking resulting in the death of Thompson, he did not plead guilty to killing him, because that was not the charge he faced in federal court. (There were murder charges in the original federal indictment, but those charges were dismissed on technical grounds back in January.) Instead , Mangione pleaded guilty to &#8220;stalking&#8221; Thompson with the intent of killing him. We don&#8217;t know yet what sentence Mangione will receive. What we do know\u2026",
-   "summaryFrom": "freepress",
+   "summary": "CBS News chief correspondent Matt Gutman is facing sexual harassment allegations in a lawsuit filed by a former ABC News colleague, who claims he made inappropriate sexual remarks on two assignments during his time at that network. Former ABC News field producer Samira Said named Gutman, ABC News and parent company The Walt Disney Co. as defendants in the suit filed Friday in Los Angeles Superior Court. Said, who worked in ABC&#8217;s Los Angeles bureau from May 2021 until March 2025, alleges discrimination, hostile work environment harassment, retaliation, failure to accommodate her medical conditions and wrongful termination. Said alleges she was &#8220;placed on a male-only team including on-air correspondent Matt Gutman&#8221; and two other male crew members. &#8220;While the team waited in a public queue during the assignment, Gutman initiated a discussion rating a female\u2026",
+   "summaryFrom": "dailywire",
    "emphasis": null,
    "absent": [
-    "corp",
-    "coop"
+    "coop",
+    "nonprofit",
+    "pub"
    ],
-   "headline": "Luigi Mangione has pleaded guilty. What happens to his other trial?",
-   "updated": "2026-08-15T15:31:29+00:00",
+   "headline": "CBS News Star Accused of Harassment in Bombshell Lawsuit",
+   "updated": "2026-08-15T15:25:28+00:00",
    "outletCount": 3,
    "counts": {
-    "family": 1,
-    "pub": 1,
-    "nonprofit": 1
+    "corp": 1,
+    "family": 2
    },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
    "articles": [
     {
-     "outlet": "freepress",
-     "title": "Mangione Pleaded Guilty to Stalking. He\u2019s Still on the Hook for Murder.",
-     "url": "https://www.thefp.com/p/mangione-pleaded-guilty-stalking",
-     "author": "Jed Rubenfeld",
+     "outlet": "dailybeast",
+     "title": "CBS News Star Accused of Harassment in Bombshell Lawsuit",
+     "url": "https://www.thedailybeast.com/cbs-news-star-matt-gutman-accused-of-sexual-harassment-in-bombshell-lawsuit/",
+     "author": "Wiktoria Gucia",
      "kind": "news",
-     "published": "2026-08-15T15:31:29+00:00",
-     "summary": "Luigi Mangione pleaded guilty in federal court on Friday, admitting that he shot and killed UnitedHealthcare CEO Brian Thompson on the streets of Manhattan on December 4, 2024. The murder was astonishingly brazen. In case anyone has forgotten, Mangione followed Thompson, shot him from behind at point-blank range, then fled the scene, only to be caught in a Pennsylvania McDonald&#8217;s five days later. Technically, while Mangione admitted stalking resulting in the death of Thompson, he did not plead guilty to killing him, because that was not the charge he faced in federal court. (There were murder charges in the original federal indictment, but those charges were dismissed on technical grounds back in January.) Instead , Mangione pleaded guilty to &#8220;stalking&#8221; Thompson with the intent of killing him. We don&#8217;t know yet what sentence Mangione will receive. What we do know is that Mangione&#8217;s New York state court murder trial is set to begin on September 8. The timing of the surprise federal guilty plea strongly suggests that Mangione&#8217;s lawyers intend to argue that the state trial is now barred by double jeopardy, and according to some reports , they have a"
+     "published": "2026-08-15T15:25:28+00:00",
+     "summary": "Adela Loconte / Variety via Getty Images A chief correspondent at CBS News has been accused of making sexual comments on the job. Matt Gutman, who joined the network in January as the first on-air hire by the MAGA-curious CBS News boss Bari Weiss, is being sued by a former ABC News field producer, Samira Said, with whom he worked at the network. Said named Gutman, 48, in a wrongful termination lawsuit filed in Los Angeles and alleged that he created a hostile work environment by making inappropriate sexual remarks to her. Read more at The Daily Beast."
     },
     {
-     "outlet": "bbc",
-     "title": "Luigi Mangione has pleaded guilty. What happens to his other trial?",
-     "url": "https://www.bbc.co.uk/news/articles/ckg3763gy2ro?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T21:12:35+00:00",
-     "summary": "The 28-year-old's lawyers want his upcoming state murder trial thrown out as they argue he has already pleaded guilty in federal court."
+     "outlet": "dailywire",
+     "title": "CBS News Star Matt Gutman Accused Of Sexual Harassment In New Lawsuit",
+     "url": "https://www.dailywire.com/news/cbs-news-star-matt-gutman-accused-of-sexual-harassment-in-new-lawsuit",
+     "author": "Catherine Maxwell",
+     "kind": "opinion",
+     "published": "2026-08-15T13:19:09+00:00",
+     "summary": "CBS News chief correspondent Matt Gutman is facing sexual harassment allegations in a lawsuit filed by a former ABC News colleague, who claims he made inappropriate sexual remarks on two assignments during his time at that network. Former ABC News field producer Samira Said named Gutman, ABC News and parent company The Walt Disney Co. as defendants in the suit filed Friday in Los Angeles Superior Court. Said, who worked in ABC&#8217;s Los Angeles bureau from May 2021 until March 2025, alleges discrimination, hostile work environment harassment, retaliation, failure to accommodate her medical conditions and wrongful termination. Said alleges she was &#8220;placed on a male-only team including on-air correspondent Matt Gutman&#8221; and two other male crew members. &#8220;While the team waited in a public queue during the assignment, Gutman initiated a discussion rating a female correspondent&#8217;s appearance and reducing her professional standing to a numerical score based on her physical attributes,&#8221; the complaint states. The other crew members allegedly joined in and tried to draw Said into the conversation; she declined and said the discussion was inappropriate, according"
     },
     {
-     "outlet": "npr",
-     "title": "Mangione pleads guilty in federal court, leaving fate of state trial uncertain",
-     "url": "https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea",
-     "author": "Brian Mann",
+     "outlet": "latimes",
+     "title": "CBS News correspondent Matt Gutman accused of harassment in wrongful termination suit against ABC",
+     "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-14/cbs-news-matt-gutman-accused-sexual-harassment-lawsuit",
+     "author": "Stephen Battaglio",
      "kind": "news",
-     "published": "2026-08-14T16:05:24+00:00",
-     "summary": "Mangione has pleaded guilty to stalking charges in connection with the death of Brian Thompson, a health care executive. A separate judge will decide the future of Mangione's state trial. (Image credit: Steven Hirsch)"
+     "published": "2026-08-14T22:10:53+00:00",
+     "summary": "Gutman was included in a former ABC News producer's wrongful termination suit filed Friday in Los Angeles."
     }
    ]
   },
@@ -2152,53 +2354,53 @@
    ]
   },
   {
-   "id": "b765926ba4",
-   "topic": "Politics",
-   "summary": "Evan Barker&#8217;s great new book, Nothing Left: Confessions of a Democratic Operative , is about how identity politics destroyed the party for which she used to work as a successful fundraiser. It&#8217;s easy for a conservative like me to read it with self-satisfaction, thinking, We told you so! Because hey, we did. But Barker&#8217;s book ought to be read as a warning to the right as well. We had better pay attention. Barker, now 33, is a white woman from a working-class family in the Midwest. During one post-campaign period when she had no place to live before the next political cycle, Barker couldn&#8217;t go home, because there was no room for her in the house trailer where her mother and grandmother lived together to save money. Born with a rare and potentially fatal genetic condition, Barker got into Democratic politics in the hope of improving the healthcare system she had\u2026",
-   "summaryFrom": "freepress",
+   "id": "4e7c8d1bfe",
+   "topic": "Culture & Sport",
+   "summary": "The year of Anne Hathaway is kicked into hyperdrive. Following the release of the legacy sequel \"The Devil Wears Prada 2,\" the indie art house film \"Mother Mary\" and on the heels of Christopher Nolan's epic \"The Odyssey,\" the Oscar winner now stars in the new movie \"The End of Oak Street\" (and she still has another movie slated for this fall!). She and Ewan McGregor are Denise and Greg Platt, a not-so-happy couple who put on a happy face for their two teenage children, Audrey and Brian (Maisy Stella and Christian Convery) in their idyllic neighborhood on \u2014 you guessed it \u2014 Oak Street in Summer 1982. One night, a mysterious light floods the outside of their home, and they wake up without any power, running water, and are not even picking up any radio stations. It doesn't take long after Denise and Greg leave the house to figure out something isn't right \u2014 there are dinosaurs everywhere.\u2026",
+   "summaryFrom": "foxnews",
    "emphasis": null,
    "absent": [
+    "corp",
     "coop",
-    "nonprofit",
     "pub"
    ],
-   "headline": "What\u2019s next for Democrats \u2014 in November and 2027: From the Politics Desk",
-   "updated": "2026-08-15T01:54:08+00:00",
+   "headline": "The End of Oak Street Is a Nasty, Effective Exercise in Dino Terror",
+   "updated": "2026-08-15T12:00:50+00:00",
    "outletCount": 3,
    "counts": {
-    "corp": 1,
-    "family": 2
+    "family": 2,
+    "nonprofit": 1
    },
-   "newsCount": 3,
-   "opinionCount": 0,
+   "newsCount": 1,
+   "opinionCount": 2,
    "underreported": false,
    "articles": [
     {
-     "outlet": "nbcnews",
-     "title": "What\u2019s next for Democrats \u2014 in November and 2027: From the Politics Desk",
-     "url": "https://www.nbcnews.com/politics/politics-news/s-democrats-november-2027-politics-desk-rcna592655",
-     "author": "The Politics Desk",
-     "kind": "news",
-     "published": "2026-08-15T01:54:08+00:00",
-     "summary": "In today\u2019s edition, \u201cMeet the Press\u201d moderator Kristen Welker looks at Democrats\u2019 recent primary results and digs into what they might mean for governing next year."
+     "outlet": "foxnews",
+     "title": "'The End of Oak Street' Review: Anne Hathaway, Ewan McGregor fight dinosaurs in surprisingly fun movie",
+     "url": "https://www.foxnews.com/opinion/the-end-oak-street-review-anne-hathaway-ewan-mcgregor-fight-dinosaurs-surprisingly-fun-movie",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-15T12:00:50+00:00",
+     "summary": "The year of Anne Hathaway is kicked into hyperdrive. Following the release of the legacy sequel \"The Devil Wears Prada 2,\" the indie art house film \"Mother Mary\" and on the heels of Christopher Nolan's epic \"The Odyssey,\" the Oscar winner now stars in the new movie \"The End of Oak Street\" (and she still has another movie slated for this fall!). She and Ewan McGregor are Denise and Greg Platt, a not-so-happy couple who put on a happy face for their two teenage children, Audrey and Brian (Maisy Stella and Christian Convery) in their idyllic neighborhood on \u2014 you guessed it \u2014 Oak Street in Summer 1982. One night, a mysterious light floods the outside of their home, and they wake up without any power, running water, and are not even picking up any radio stations. It doesn't take long after Denise and Greg leave the house to figure out something isn't right \u2014 there are dinosaurs everywhere. \u2018ONE NIGHT ONLY\u2019 REVIEW: MONICA BARBARO AND CALLUM TURNER CHARM IN HIGH-CONCEPT ROM-COM The entirety of their neighborhood was somehow transported back to a prehistoric era where the end of the street is literally cut off by a giant cliff with jungles taking over people's backyards. The Platts must f"
     },
     {
-     "outlet": "latimes",
-     "title": "How Democrats plan to rein in Trump should they win in November",
-     "url": "https://www.latimes.com/politics/story/2026-08-13/how-democrats-plan-to-rein-in-trump-should-they-win-in-november",
-     "author": "Ana Ceballos",
+     "outlet": "time",
+     "title": "The End of Oak Street Is the Best Dinosaur Movie Since Jurassic Park",
+     "url": "https://time.com/article/2026/08/10/the-end-of-oak-street-jurassic-park-comparison/",
+     "author": "Megan McCluskey",
      "kind": "news",
-     "published": "2026-08-13T10:00:00+00:00",
-     "summary": "For Democrats, impeachment remains an option, but they are reluctant to make it a centerpiece of their agenda this time."
+     "published": "2026-08-14T14:35:56+00:00",
+     "summary": "(L-R): Ewan McGregor as Greg and Anne Hathaway as Denise in The End of Oak Street \u2014Warner Bros. Pictures It's been 33 years since the enduring cinematic masterpiece that is Jurassic Park first hit theaters in June 1993. Since that fateful summer, Steven Spielberg's sci-fi survival thriller has reigned supreme as the undisputed king of dinosaur films. Now, The End of Oak Street is proving a dino blockbuster that serves up prehistoric horror with a side of genuine pathos is still a worthy endeavor. Based on Michael Crichton's 1990 novel, Jurassic Park not only delivered some of the most memorable creature-feature scares in movie history, it was also a sharp cautionary tale about scientific hubris and the illusion of man's control over nature that was anchored by stellar performances from its core cast. But over the course of numerous sequels and reboots, the franchise largely shifted away from resonant character drama in favor of high-octane action sequences and increasingly monstrous beasts. Outside the Jurassic universe, there haven't been many successful attempts to reinvent the dinosaur wheel, so to speak. Brian (Christian Convery) and Audrey (Maisy Stella) flee from an Allosauru"
     },
     {
-     "outlet": "freepress",
-     "title": "Rod Dreher: Identity Politics Destroyed the Democrats. Republicans Are Next.",
-     "url": "https://www.thefp.com/p/rod-dreher-white-identity-politics-destroy-republican-party-warning-jd-vance",
-     "author": "Rod Dreher",
-     "kind": "news",
-     "published": "2026-08-13T00:23:11+00:00",
-     "summary": "Evan Barker&#8217;s great new book, Nothing Left: Confessions of a Democratic Operative , is about how identity politics destroyed the party for which she used to work as a successful fundraiser. It&#8217;s easy for a conservative like me to read it with self-satisfaction, thinking, We told you so! Because hey, we did. But Barker&#8217;s book ought to be read as a warning to the right as well. We had better pay attention. Barker, now 33, is a white woman from a working-class family in the Midwest. During one post-campaign period when she had no place to live before the next political cycle, Barker couldn&#8217;t go home, because there was no room for her in the house trailer where her mother and grandmother lived together to save money. Born with a rare and potentially fatal genetic condition, Barker got into Democratic politics in the hope of improving the healthcare system she had struggled with her whole life. She also wanted to see political programs address the economic precarity her extended family lived under. This is why she became a Bernie Gal in 2016, and discovered she had a real gift for campaign fundraising. As Barker details in Nothing Left (which The Free Press recen"
+     "outlet": "reason",
+     "title": "The End of Oak Street Is a Nasty, Effective Exercise in Dino Terror",
+     "url": "https://reason.com/2026/08/14/the-end-of-oak-street-is-a-nasty-effective-exercise-in-dino-terror/",
+     "author": "Peter Suderman",
+     "kind": "opinion",
+     "published": "2026-08-14T14:32:25+00:00",
+     "summary": "There's something primordially satisfying about watching a big-screen dinosaur get the what-for from the business end of a just-loaded shotgun. The recent run of Jurassic Park movies sometimes seems to have lost this primal pleasure, replacing it with ho-hum computer-generated spectacle and cheap nostalgic callbacks to the franchise's better days. They've forgotten that the franchise was founded on a combination of awe and white-knuckle terror\u2014the raw and relatable fear of a giant, toothy monster that stalks the earth with a sort of evolutionary arrogance that comes from a couple million years atop the food chain. Newsflash: Humans rule the planet now. It's fun to watch these ancient planetary powerhouses get taken down a peg. Sic semper Tyrannosaurus. The End of Oak Street remembers what the Jurassic Park franchise has largely forgotten. It leans into the animal terror of encountering a dinosaur on the streets of an ordinary suburb. Set in the early 1980s, the movie lifts brashly from early Steven Spielberg, especially E.T. , depicting a seemingly ordinary family with its own ordinary troubles who find themselves in a sort of dinosaur-ridden episode of The Twilight Zone. The End o"
     }
    ]
   },
@@ -2254,159 +2456,6 @@
    ]
   },
   {
-   "id": "da71df6ae8",
-   "topic": "Politics",
-   "summary": "A White House meeting slated for Wednesday with cryptocurrency and prediction market players is expected to feature remarks from President Donald Trump as well as CFTC Chair Mike Selig, people familiar with the plans told Semafor. Attendees, according to those people, will include executives from cryptocurrency firms Coinbase, a16z, Ripple, and Chainlink, plus prediction market Kalshi and investment firm Paradigm (a Kalshi backer), as well as trade association Digital Chamber. Patrick Witt, executive director of the president\u2019s council of advisers for digital assets, will also be there. It\u2019s viewed as a small-group kick-off for the inaugural meeting of the CFTC\u2019s 35-person Innovation Advisory Committee on Thursday. (Coinbase, a16z, Ripple, Chainlink, Kalshi and Paradigm are members, as are others like CME Group and Intercontinental Exchange.) The White House and CFTC did not comment on\u2026",
-   "summaryFrom": "semafor",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Trump to Attend Meeting with Crypto, Prediction Markets Execs",
-   "updated": "2026-08-14T21:29:14+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 3
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bloomberg",
-     "title": "Trump to Attend Meeting with Crypto, Prediction Markets Execs",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-14/trump-to-attend-meeting-with-crypto-prediction-markets-execs",
-     "author": "Olga Kharif",
-     "kind": "news",
-     "published": "2026-08-14T21:29:14+00:00",
-     "summary": "President Donald Trump is expected to attend a meeting at the White House next Wednesday that will gather together high-level executives from crypto companies and prediction-market venues, according to a person familiar with the event."
-    },
-    {
-     "outlet": "semafor",
-     "title": "White House prepares to host crypto and prediction market execs",
-     "url": "https://www.semafor.com/article/08/14/2026/white-house-prepares-to-host-crypto-and-prediction-market-execs",
-     "author": "Eleanor Mueller",
-     "kind": "news",
-     "published": "2026-08-14T20:29:14+00:00",
-     "summary": "A White House meeting slated for Wednesday with cryptocurrency and prediction market players is expected to feature remarks from President Donald Trump as well as CFTC Chair Mike Selig, people familiar with the plans told Semafor. Attendees, according to those people, will include executives from cryptocurrency firms Coinbase, a16z, Ripple, and Chainlink, plus prediction market Kalshi and investment firm Paradigm (a Kalshi backer), as well as trade association Digital Chamber. Patrick Witt, executive director of the president\u2019s council of advisers for digital assets, will also be there. It\u2019s viewed as a small-group kick-off for the inaugural meeting of the CFTC\u2019s 35-person Innovation Advisory Committee on Thursday. (Coinbase, a16z, Ripple, Chainlink, Kalshi and Paradigm are members, as are others like CME Group and Intercontinental Exchange.) The White House and CFTC did not comment on the event, which Politico first reported ."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Trump wants to put golden seals on White House ballroom",
-     "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-wants-put-golden-seals-white-house-ballroom/",
-     "author": "Dan Diamond, Jonathan Edwards",
-     "kind": "news",
-     "published": "2026-08-14T19:50:02+00:00",
-     "summary": "The planned adornments, which were included in renderings submitted to the Supreme Court, break with tradition and the original vision for the White House grounds."
-    }
-   ]
-  },
-  {
-   "id": "1aa53047ea",
-   "topic": "Politics",
-   "summary": "President Donald Trump turned a long-running joke into a birthday gift for Secretary of State Marco Rubio, who turned 55 on May 28. Trump has already tasked Rubio with several official jobs within the administration \u2014 which spawned constant speculation whenever a new vacancy appeared \u2014 and a viral meme was born. An Oval Office photo of Rubio slouched on a couch \u2014 wearing an expression that suggests he&#8217;s not thrilled with the way things are going \u2014 became the template for hundreds of potential new jobs for the Secretary of State/Acting National Security Adviser/acting administrator for the U.S. Agency for International Development (USAID)/acting archivist of the National Archives and Records Administration. Trump and other White House staffers capitalized on the popularity of the meme, and put together a collage \u2014 featuring dozens of iterations of the &#8220;Rubio realizing&#8221;\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Trump Turns Beloved Rubio Meme Into Birthday Gift",
-   "updated": "2026-08-14T19:47:25+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "corp": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dailywire",
-     "title": "Trump Turns Beloved Rubio Meme Into Birthday Gift",
-     "url": "https://www.dailywire.com/news/trump-turns-beloved-rubio-meme-into-birthday-gift",
-     "author": "Virginia Kruta",
-     "kind": "opinion",
-     "published": "2026-08-14T19:47:25+00:00",
-     "summary": "President Donald Trump turned a long-running joke into a birthday gift for Secretary of State Marco Rubio, who turned 55 on May 28. Trump has already tasked Rubio with several official jobs within the administration \u2014 which spawned constant speculation whenever a new vacancy appeared \u2014 and a viral meme was born. An Oval Office photo of Rubio slouched on a couch \u2014 wearing an expression that suggests he&#8217;s not thrilled with the way things are going \u2014 became the template for hundreds of potential new jobs for the Secretary of State/Acting National Security Adviser/acting administrator for the U.S. Agency for International Development (USAID)/acting archivist of the National Archives and Records Administration. Trump and other White House staffers capitalized on the popularity of the meme, and put together a collage \u2014 featuring dozens of iterations of the &#8220;Rubio realizing&#8221; meme. The finished product was framed in gold and presented to Rubio for his birthday. The White House made a Rubio Realizing Meme collage for his birthday (May 28), which the president &amp; others signed https://t.co/5oVDfTFaed pic.twitter.com/S2KsnRta3S \u2014 Marc Caputo (@MarcACaputo) August 13, 2026"
-    },
-    {
-     "outlet": "axios",
-     "title": "\"Rubio Realizing\" memes become a White House birthday gift",
-     "url": "https://www.axios.com/2026/08/13/marco-rubio-memes-birthday-gift",
-     "author": "Marc Caputo",
-     "kind": "news",
-     "published": "2026-08-13T22:51:21+00:00",
-     "summary": "Photo: Marc Caputo/Axios Marco Rubio has three official Trump administration jobs and a fourth unofficial title: Viral meme star. He's been featured in countless \"Rubio Realizing\" images doctored to capture his grim reaction to being \"assigned\" more jobs, depending on the news of the day or the crisis du jour in the White House. Why it matters: For his 55th birthday on May 28, White House staffers and President Trump gifted Rubio with a gold-framed collage of their 68 favorite \"Rubio Realizing\" memes. A photo of the gift went viral Wednesday when this Axios reporter posted it on X. Zoom in: For the past 18 months, Rubio memes have featured him as everything from a Kiss band member to a samurai to a \"Bachelorette\" contestant in homage to his roles as secretary of state, national security adviser and chair of the U.S. bid for the World Expo in 2035. The memes are based on a photo from one of the most awkward moments in the Trump White House \u2014 on Feb. 28, 2025, when the president and Vice President Vance excoriated Ukrainian President Volodymyr Zelensky over the war with Russia. As the two U.S. leaders savaged Zelensky, Rubio sat ramrod straight on an Oval Office couch without engagin"
-    },
-    {
-     "outlet": "rollingstone",
-     "title": "Trump Is Spending Nearly $1 Billion in Taxpayer Money on Gaudy White House Renovations: Report",
-     "url": "https://www.rollingstone.com/politics/politics-news/trump-spending-billion-white-house-renovations-1235607598/",
-     "author": "Nikkimccannramirez",
-     "kind": "news",
-     "published": "2026-08-12T18:37:51+00:00",
-     "summary": "The White House is funneling millions into executive maintenance accounts without oversight or approval from Congress, The Washington Post reports"
-    }
-   ]
-  },
-  {
-   "id": "84e5f96ec6",
-   "topic": "Other",
-   "summary": "After backlash to her egg-freezing stunt this week, New York Democratic Rep. Alexandria Ocasio-Cortez went after conservative men. In a rambling video following her social media post in which she showed herself freezing her eggs, the 36-year-old unmarried leftist pivoted from personal fertility updates to an all-out assault on Right-wing men, accusing them of creating a culture that devalues women and pressures them into dynamic-skewed relationships. Instead of sticking to biological facts or policy solutions, Ocasio-Cortez spent most of her post cooking up a sweeping, evidence-free indictment of conservative dating dynamics and male behavior. Ocasio-Cortez invented a bizarre conspiracy, claiming conservative culture doesn&#8217;t just encourage early marriage, but secretly pressures young women to marry men much older than them because Right-wingers &#8220;aren&#8217;t pressuring men\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "AOC\u2019s public egg-freezing shouldn\u2019t feel radical. But in today\u2019s US, it does | Moira Donegan",
-   "updated": "2026-08-14T08:39:45+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 2,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dailywire",
-     "title": "AOC Cooks Up Right-Wing Dating Conspiracy After Egg-Freezing Backlash",
-     "url": "https://www.dailywire.com/news/aoc-cooks-up-right-wing-dating-conspiracy-after-egg-freezing-backlash",
-     "author": "Hank Berrien",
-     "kind": "opinion",
-     "published": "2026-08-14T08:39:45+00:00",
-     "summary": "After backlash to her egg-freezing stunt this week, New York Democratic Rep. Alexandria Ocasio-Cortez went after conservative men. In a rambling video following her social media post in which she showed herself freezing her eggs, the 36-year-old unmarried leftist pivoted from personal fertility updates to an all-out assault on Right-wing men, accusing them of creating a culture that devalues women and pressures them into dynamic-skewed relationships. Instead of sticking to biological facts or policy solutions, Ocasio-Cortez spent most of her post cooking up a sweeping, evidence-free indictment of conservative dating dynamics and male behavior. Ocasio-Cortez invented a bizarre conspiracy, claiming conservative culture doesn&#8217;t just encourage early marriage, but secretly pressures young women to marry men much older than them because Right-wingers &#8220;aren&#8217;t pressuring men to be ready&#8221; at young ages. &#8220;I do think there&#8217;s a certain amount of anxiety or stress that can come with feeling like you are in a race against biology that men simply don&#8217;t have to engage in,&#8221; she said. &#8220;In straight relationships, who are women supposed to be havin"
-    },
-    {
-     "outlet": "guardian",
-     "title": "AOC\u2019s public egg-freezing shouldn\u2019t feel radical. But in today\u2019s US, it does | Moira Donegan",
-     "url": "https://www.theguardian.com/commentisfree/2026/aug/13/aoc-egg-freezing-announcement",
-     "author": "Moira Donegan",
-     "kind": "opinion",
-     "published": "2026-08-13T12:00:02+00:00",
-     "summary": "The congresswoman\u2019s decision is an assertion of women\u2019s freedom and dignity at a time when our status is rapidly eroding \u201cDon\u2019t be weird about this,\u201d Representative Alexandria Ocasio-Cortez, the progressive star and rumored 2028 presidential contender, said on her live video broadcast as she raised her shirt to angle the syringe into her abdomen. Then, with resignation, \u201ceven though I know all of you will be.\u201d The New York Democrat is 36 years old, and this week she revealed that she is beginning the process of freezing her eggs during Congress\u2019s August recess. In the video, Ocasio-Cortez said that she was seeking to destigmatize the realities of women\u2019s lives as they navigate the conflicting demands of professional aspiration and family building; she explained to viewers the process of the hormonal injections she was administering to herself, showing them the drugs and injector she was using arrayed on a paper towel, beside a disinfecting towelette. The procedure, Ocasio-Cortez explained, was not covered by her insurance, and she would be paying \u201c100% out of pocket\u201d. She had been saving to afford it for some time. \u201cThis is a choice that I am making to feel more in control of my li"
-    },
-    {
-     "outlet": "freepress",
-     "title": "Caitlin Flanagan on AOC and Egg Freezing. Revenge of the Democratic Establishment. Plus. . .",
-     "url": "https://www.thefp.com/p/caitlin-flanagan-aoc-egg-freezing-front-page",
-     "author": "The Free Press",
-     "kind": "news",
-     "published": "2026-08-13T10:00:36+00:00",
-     "summary": "It&#8217;s Thursday, August 13. This is The Front Page , your daily window into the world of The Free Press &#8212;and our take on the world at large. Today: The strange fate of Francesca Hong. What Rod Dreher learned from a Democratic operative. The high school student fighting his classmates&#8217; antisemitism. And much more. But first: AOC&#8217;s race against time. Heading into the 2026 midterms, the Democratic Party is plotting a rebrand, and 36-year-old congresswoman Alexandria Ocasio-Cortez is in the center of the action. And while she crisscrosses the country to stump for a new crop of socialist candidates, her personal life has suddenly spilled into view. Last Saturday, AOC went viral after she posted on Instagram that she had decided to start freezing her eggs. The next day, she went on a Sunday show and took a fertility shot in the green room. And on Monday, TMZ announced that she and her fianc&#233; had split. Her decision sparked a debate about women preserving their freedom into middle age&#8212;but our columnist Caitlin Flanagan has a different take. &#8220;It was like watching the cycle of life in reverse,&#8221; she writes. Read Caitlin&#8217;s essay on what&#8217"
-    }
-   ]
-  },
-  {
    "id": "467bd47da8",
    "topic": "Justice & Policing",
    "summary": "An F/A-18F Super Hornet launches from the flight deck of aircraft carrier USS Abraham Lincoln in support of Operation Epic Fury on February 28, 2026 at Sea. Photo by U.S. Navy via Getty Images. Thursday, August 13, 2026 &#8211; &nbsp; Iranian Foreign Minister Abbas Araghchi warns of &#8220;even bigger miscalculation&#8221; on Hormuz after U.S. President Donald Trump claims U.S. has &#8220;total control.&#8221; Washington Post: U.S. intelligence viewed Israeli warning of Iranian plot to kill Trump as &#8220;low confidence.&#8221; Slight bump in Hormuz traffic. Iran reports oil pollution off Qeshm Island, calls for Hormuz environmental fees. Iran kills two accused of intelligence ties to U.S. and Israel. Yemen&#8217;s Saudi-backed government claims success against Ansarallah attack. Saudi tankers reroute around Africa as empty fleet heads toward Gulf. X suspends Ansarallah spokesperson\u2026",
@@ -2458,7 +2507,133 @@
    ]
   },
   {
-   "id": "fa16d6abf2",
+   "id": "c5418985c2",
+   "topic": "Other",
+   "summary": "A large group of female activists, moms, and concerned citizens rallied again this week outside an Indiana Fever game in support of Sophie Cunningham and keeping women\u2019s sports female. On Friday evening just outside of the Gainbridge Fieldhouse, they made their voices heard. After traveling to Portland and Chicago, I witnessed firsthand how refreshingly normal Indiana Fever games felt both outside the arena and inside. The crowds were vocally supportive of the women, and the few men accompanying them. Many Fever fans gave the Cunningham rally crowd a thumbs up, some provided encouraging words, and others stopped to take photos with the almost life-size Sophie Cunningham poster. It was a nice change of pace compared to the radical, profane, aggressive trans protesters they have had to face in other cities. Shockingly to much of the WNBA and liberal media, this group isn\u2019t just a bunch of\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Sophie Cunningham belts out patriotic classic at Indiana bar after Fever win",
+   "updated": "2026-08-15T18:32:10+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Sophie Cunningham belts out patriotic classic at Indiana bar after Fever win",
+     "url": "https://nypost.com/2026/08/15/sports/sophie-cunningham-belts-out-patriotic-classic-at-indiana-bar-after-fever-win/",
+     "author": "Dylan Svoboda",
+     "kind": "news",
+     "published": "2026-08-15T18:32:10+00:00",
+     "summary": "Sophie Cunningham went from the hardwood to the bar top on Friday night."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Sophie Cunningham supporters rally in Indiana while displaying what makes America great",
+     "url": "https://www.foxnews.com/outkick-sports/sophie-cunningham-supporters-rally-indiana-displaying-makes-america-great",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T14:51:21+00:00",
+     "summary": "A large group of female activists, moms, and concerned citizens rallied again this week outside an Indiana Fever game in support of Sophie Cunningham and keeping women\u2019s sports female. On Friday evening just outside of the Gainbridge Fieldhouse, they made their voices heard. After traveling to Portland and Chicago, I witnessed firsthand how refreshingly normal Indiana Fever games felt both outside the arena and inside. The crowds were vocally supportive of the women, and the few men accompanying them. Many Fever fans gave the Cunningham rally crowd a thumbs up, some provided encouraging words, and others stopped to take photos with the almost life-size Sophie Cunningham poster. It was a nice change of pace compared to the radical, profane, aggressive trans protesters they have had to face in other cities. Shockingly to much of the WNBA and liberal media, this group isn\u2019t just a bunch of conservatives, who completely align on all of their politics. It\u2019s a diverse group of people that represent a beautiful mix of registered Democrats, conservatives and people from a wide range of backgrounds and communities. It\u2019s not some sort of MAGA coalition, which many love to claim. It\u2019s a group"
+    }
+   ]
+  },
+  {
+   "id": "11a011d2fe",
+   "topic": "Justice & Policing",
+   "summary": "Former U.S. Sen. Kyrsten Sinema testified that she repeatedly had sex with her then-married security guard while she was in office representing Arizona, according to federal court filings. Matthew Ammel's ex-wife, Heather Ammel, is suing the Democrat-turned-independent, who left office at the beginning of last year, for allegedly breaking up her 14-year marriage. Heather Ammel sued Sinema in a North Carolina court under the state\u2019s alienation-of-affection law. Sinema's legal team moved the case to federal court, then sought dismissal there, arguing her relationship with Matthew Ammel occurred outside North Carolina and that the federal court lacked personal jurisdiction over her. Sinema, who is unmarried, said in a July 31 deposition that she first had sex with Ammel around Memorial Day 2024. UTAH JUSTICE ALLEGEDLY SENT \u2018INAPPROPRIATE\u2019 TEXTS TO LAWYER IN KEY REDISTRICTING CASE,\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Senator Had Sex With Married Security Guard at CNN Star\u2019s Wedding",
+   "updated": "2026-08-15T18:18:21+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "Senator Had Sex With Married Security Guard at CNN Star\u2019s Wedding",
+     "url": "https://www.thedailybeast.com/senator-had-sex-with-married-security-guard-at-cnn-stars-wedding/",
+     "author": "Sarah-Jane Collins",
+     "kind": "news",
+     "published": "2026-08-15T18:18:21+00:00",
+     "summary": "SARAH SILBIGER / REUTERS Kyrsten Sinema\u2019s affair with her married bodyguard has been detailed in new court filings that reveal a secret tryst at a CNN host\u2019s wedding. The former senator opened up about her affair with Matthew Ammel in a deposition that took place on July 31 and was filed this week in the United States District Court in North Carolina, the Arizona Republic reported Saturday. Sinema is being sued for the affair by Ammel\u2019s ex-wife, Heather, who is accusing her of breaking up their 14-year marriage. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Court filings reveal Kyrsten Sinema had sex multiple times with married bodyguard while serving as senator",
+     "url": "https://www.foxnews.com/politics/court-filings-reveal-kyrsten-sinema-sex-multiple-times-married-bodyguard-serving-senator",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T17:44:14+00:00",
+     "summary": "Former U.S. Sen. Kyrsten Sinema testified that she repeatedly had sex with her then-married security guard while she was in office representing Arizona, according to federal court filings. Matthew Ammel's ex-wife, Heather Ammel, is suing the Democrat-turned-independent, who left office at the beginning of last year, for allegedly breaking up her 14-year marriage. Heather Ammel sued Sinema in a North Carolina court under the state\u2019s alienation-of-affection law. Sinema's legal team moved the case to federal court, then sought dismissal there, arguing her relationship with Matthew Ammel occurred outside North Carolina and that the federal court lacked personal jurisdiction over her. Sinema, who is unmarried, said in a July 31 deposition that she first had sex with Ammel around Memorial Day 2024. UTAH JUSTICE ALLEGEDLY SENT \u2018INAPPROPRIATE\u2019 TEXTS TO LAWYER IN KEY REDISTRICTING CASE, OFFICIALS LAUNCH PROBE \"We were staying at an Airbnb in Napa, California. We were outside. Matt kissed me. We went inside and had sex,\" Sinema said in her deposition, which took place at a law office in Raleigh. Sinema said she and Ammel were staying at the property with her friends Penny and Grant Croissant"
+    }
+   ]
+  },
+  {
+   "id": "4022d4c827",
+   "topic": "Justice & Policing",
+   "summary": "Shohei Ohtani threw 34 pitches off a bullpen mound before Friday's game against Milwaukee as the Dodgers' star works toward returning to the rotation.",
+   "summaryFrom": "latimes",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Aaron Judge takes major step toward Yankees return",
+   "updated": "2026-08-15T17:47:42+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Aaron Judge takes major step toward Yankees return",
+     "url": "https://nypost.com/2026/08/15/sports/aaron-judge-takes-major-step-toward-yankees-return/",
+     "author": "Greg Joyce",
+     "kind": "news",
+     "published": "2026-08-15T17:47:42+00:00",
+     "summary": "Aaron Judge\u2019s lengthy path back to the Yankees' lineup has taken another step."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Shohei Ohtani takes important step in his push to return to Dodgers' rotation",
+     "url": "https://www.latimes.com/sports/dodgers/story/2026-08-14/shohei-ohtani-dodgers-throws-bullpen-session-injury",
+     "author": "Maddie Lee",
+     "kind": "news",
+     "published": "2026-08-15T01:39:27+00:00",
+     "summary": "Shohei Ohtani threw 34 pitches off a bullpen mound before Friday's game against Milwaukee as the Dodgers' star works toward returning to the rotation."
+    }
+   ]
+  },
+  {
+   "id": "6736fdd7b6",
    "topic": "Justice & Policing",
    "summary": "Tyler Muehl from La Jolla was captured in a video that went viral, showing him kicking a sea lion in the head and body even as it tried to escape the attack.",
    "summaryFrom": "latimes",
@@ -2469,7 +2644,7 @@
     "nonprofit",
     "pub"
    ],
-   "headline": "SoCal leaders weight extreme measures after teen caught kicking sea lion: \u2018Completely out of control\u2019",
+   "headline": "SoCal leaders weigh extreme measures after teen caught kicking sea lion: \u2018Completely out of control\u2019",
    "updated": "2026-08-15T17:28:51+00:00",
    "outletCount": 2,
    "counts": {
@@ -2481,7 +2656,7 @@
    "articles": [
     {
      "outlet": "nypost",
-     "title": "SoCal leaders weight extreme measures after teen caught kicking sea lion: \u2018Completely out of control\u2019",
+     "title": "SoCal leaders weigh extreme measures after teen caught kicking sea lion: \u2018Completely out of control\u2019",
      "url": "https://nypost.com/2026/08/15/us-news/la-jolla-leaders-weight-extreme-measures-after-teen-caught-kicking-sea-lion/",
      "author": "Ross O'Keefe",
      "kind": "news",
@@ -2496,48 +2671,6 @@
      "kind": "news",
      "published": "2026-08-14T23:15:24+00:00",
      "summary": "Tyler Muehl from La Jolla was captured in a video that went viral, showing him kicking a sea lion in the head and body even as it tried to escape the attack."
-    }
-   ]
-  },
-  {
-   "id": "cf7313ebc6",
-   "topic": "Politics",
-   "summary": "President Donald Trump said Friday that far-left Democrats like Alexandria Ocasio-Cortez , D-N.Y., are now trying to distance themselves from some of the radical positions they once championed, noting he believes she may be after a 2028 bid for the White House. In an interview with Fox News correspondent Alexis McAdams, Trump was asked about Ocasio-Cortez's perceived shift away from her earlier calls to defund police departments and other soft-on-crime policies. \"If you really look at it, they're all saying the same thing,\" Trump said of progressive Democrats. \"They're all trying to disavow themselves from what they said about crime and, well, they're saying, \u2018We love sanctuary cities .\u2019\" When asked directly whether he thinks AOC is positioning herself for a presidential bid, Trump said he thinks AOC will run. The congresswoman has refused to rule out a run for president , but she\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Trump makes prediction on whether AOC will run for president",
-   "updated": "2026-08-15T17:07:21+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Trump makes prediction on whether AOC will run for president",
-     "url": "https://nypost.com/2026/08/15/us-news/trump-predicts-aoc-will-run-for-president/",
-     "author": "Geoff Earle",
-     "kind": "news",
-     "published": "2026-08-15T17:07:21+00:00",
-     "summary": "[nyp_video player=\"SPdDOYds\" platform=\"jw-player\" playlist=\"W5xXwQyA\" playlisttype=\"dynamic\" placement=\"true\" jwpropertyid=\"XDErnc08\" /]"
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Trump claims AOC may run for president as far-left Dems back away from extreme policy",
-     "url": "https://www.foxnews.com/politics/president-trump-claims-aoc-far-left-democrats-backing-away-controversial-positions",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T21:01:38+00:00",
-     "summary": "President Donald Trump said Friday that far-left Democrats like Alexandria Ocasio-Cortez , D-N.Y., are now trying to distance themselves from some of the radical positions they once championed, noting he believes she may be after a 2028 bid for the White House. In an interview with Fox News correspondent Alexis McAdams, Trump was asked about Ocasio-Cortez's perceived shift away from her earlier calls to defund police departments and other soft-on-crime policies. \"If you really look at it, they're all saying the same thing,\" Trump said of progressive Democrats. \"They're all trying to disavow themselves from what they said about crime and, well, they're saying, \u2018We love sanctuary cities .\u2019\" When asked directly whether he thinks AOC is positioning herself for a presidential bid, Trump said he thinks AOC will run. The congresswoman has refused to rule out a run for president , but she hasn't looked past November's midterm elections. ALEXANDRIA OCASIO-CORTEZ SHRUGS OFF PAST 'DEFUND THE POLICE' COMMENTS, JOKING 'WOKE 1 WAS CRAZY' During an interview with ABC's \"This Week\" on Sunday, the congresswoman attempted to dismiss the extreme rhetoric of the so-called \" Woke 1 \" era. The term is u"
     }
    ]
   },
@@ -2626,90 +2759,6 @@
    ]
   },
   {
-   "id": "0a6069b990",
-   "topic": "Other",
-   "summary": "Quick, what number did Jayden Daniels wear when he was at LSU? If you had to think about that for even a second, you might want to lock your doors, because it's very possible that someone from Daniels's inner circle is on the way to your house to kick your ass. I issue this warning because over the last few days we have discovered that the No. 5 jersey is extremely important to Daniels, or at least it is to someone who spends time handling his affairs. On Wednesday, ESPN reported that an attorney representing Daniels sent a letter to LSU, where Daniels played from 2022\u201323, informing the school that it can no longer use Daniels's name, image, or likeness in promotional materials. The letter was sent because Daniels is upset that LSU is allowing sophomore cornerback DJ Pickett to wear the No. 5 jersey this upcoming season. A spokesperson representing Daniels also released a statement,\u2026",
-   "summaryFrom": "defector",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "LSU Corner Responds to Jayden Daniels&#039; Number Critique",
-   "updated": "2026-08-15T16:49:40+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "coop": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "LSU Corner Responds to Jayden Daniels&#039; Number Critique",
-     "url": "https://www.newsweek.com/sports/ncaa/lsu-corner-responds-to-jayden-daniels-number-critique-12326559",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T16:49:40+00:00",
-     "summary": "Louisiana State University cornerback D.J. Pickett reveals that he has no intention of relinquishing the number 5."
-    },
-    {
-     "outlet": "defector",
-     "title": "Jayden Daniels Won\u2019t Tolerate Some Scrub Wearing The Same Number He Did On His Journey To The ReliaQuest Bowl",
-     "url": "https://defector.com/jayden-daniels-wont-tolerate-some-scrub-wearing-the-same-number-he-did-on-his-journey-to-the-reliaquest-bowl",
-     "author": "Tom Ley",
-     "kind": "news",
-     "published": "2026-08-14T13:02:04+00:00",
-     "summary": "Quick, what number did Jayden Daniels wear when he was at LSU? If you had to think about that for even a second, you might want to lock your doors, because it's very possible that someone from Daniels's inner circle is on the way to your house to kick your ass. I issue this warning because over the last few days we have discovered that the No. 5 jersey is extremely important to Daniels, or at least it is to someone who spends time handling his affairs. On Wednesday, ESPN reported that an attorney representing Daniels sent a letter to LSU, where Daniels played from 2022\u201323, informing the school that it can no longer use Daniels's name, image, or likeness in promotional materials. The letter was sent because Daniels is upset that LSU is allowing sophomore cornerback DJ Pickett to wear the No. 5 jersey this upcoming season. A spokesperson representing Daniels also released a statement, expressing the disappointment felt by the \"Daniels family\" at LSU's decision to let a guy wear a number. From ESPN: \"The Daniels family is deeply disappointed and feels profoundly disrespected by LSU's decision to give Jayden's number to another player,\" the statement from Daniels' spokesperson said. \"J"
-    }
-   ]
-  },
-  {
-   "id": "2df5ad935a",
-   "topic": "Climate & Energy",
-   "summary": "At least one person was killed and around 42 others were injured after a violent wildfire hit a coastal town in Croatia.",
-   "summaryFrom": "aljazeera",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "One killed, dozens injured after wildfire hits Croatian coast",
-   "updated": "2026-08-15T16:33:05+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "One killed, dozens injured after wildfire hits Croatian coast",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T16:33:05+00:00",
-     "summary": "At least one person was killed and around 42 others were injured after a violent wildfire hit a coastal town in Croatia."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Dozens injured and thousands evacuated in Croatia wildfire",
-     "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T20:22:56+00:00",
-     "summary": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history."
-    }
-   ]
-  },
-  {
    "id": "0dce5093a7",
    "topic": "Politics",
    "summary": "The Office of the Comptroller of the Currency granted preliminary approval Friday for World Liberty Financial, the cryptocurrency venture co-founded by President Trump and his sons, to establish a national trust bank that would issue and manage its USD1 stablecoin. The post Trump-Linked World Liberty Financial Wins Preliminary Approval for Bank Charter appeared first on Breitbart .",
@@ -2748,48 +2797,6 @@
      "kind": "news",
      "published": "2026-08-14T20:41:14+00:00",
      "summary": "The Office of the Comptroller of the Currency granted preliminary approval Friday for World Liberty Financial, the cryptocurrency venture co-founded by President Trump and his sons, to establish a national trust bank that would issue and manage its USD1 stablecoin. The post Trump-Linked World Liberty Financial Wins Preliminary Approval for Bank Charter appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
-   "id": "c265a55d68",
-   "topic": "Climate & Energy",
-   "summary": "The National Hurricane Center issued a rare hurricane warning for the island, which hasn't experienced a direct hurricane landfall in 155 years.",
-   "summaryFrom": "pbsnewshour",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Hawaii's Big Island lashed by rain and wind as Tropical Storm Lala closes in",
-   "updated": "2026-08-15T16:18:22+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Tropical Storm Lala begins lashing Hawaii's Big Island",
-     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T16:18:22+00:00",
-     "summary": "Tropical Storm Lala is expected to become a hurricane and bring dangerous conditions to Hawaii this weekend, forecasters say."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Hawaii's Big Island lashed by rain and wind as Tropical Storm Lala closes in",
-     "url": "https://www.pbs.org/newshour/nation/hawaiis-big-island-lashed-by-rain-and-wind-as-tropical-storm-lala-closes-in",
-     "author": "Jennifer Sinco Kelleher, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T15:17:14+00:00",
-     "summary": "The National Hurricane Center issued a rare hurricane warning for the island, which hasn't experienced a direct hurricane landfall in 155 years."
     }
    ]
   },
@@ -2836,6 +2843,48 @@
    ]
   },
   {
+   "id": "ab35692bcd",
+   "topic": "Health",
+   "summary": "Eggs displayed in refrigerated section of a grocery store. \u2014Lindsey Nicholson\u2014Universal Images Group An egg recall linked to a salmonella outbreak was upgraded to the highest possible risk level by the U.S. Food and Drug Administration (FDA) on Wednesday. Nearly 1.6 million dozen eggs were labeled \u201cClass I,\u201d which the agency defines as \u201ca situation in which there is a reasonable probability that the use of or exposure to a violative product will cause serious adverse health consequences or death.\u201d Symptoms of salmonella infection include \u201cfever, diarrhea (which may be bloody), nausea, vomiting, and abdominal pain,\u201d according to the FDA . \u201cIllness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella, and the symptoms usually last four to seven days,\u201d its website said, noting that children under 5, the elderly, and the immunocompromised were more\u2026",
+   "summaryFrom": "time",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Massive egg recall in US south and south-west due to salmonella outbreak",
+   "updated": "2026-08-15T16:01:10+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Massive egg recall in US south and south-west due to salmonella outbreak",
+     "url": "https://www.theguardian.com/us-news/2026/aug/15/egg-recall-us-south-and-south-west-salmonella-outbreak",
+     "author": "Marina Dunbar",
+     "kind": "news",
+     "published": "2026-08-15T16:01:10+00:00",
+     "summary": "1.6m dozen eggs from Texas recalled amid one of the largest recorded foodborne illness outbreaks in US history A massive egg recall affecting nearly 1.6m dozen eggs has been elevated to the US Food and Drug Administration\u2019s highest-risk warning as officials investigate a salmonella outbreak that has sickened nearly 100 people. The FDA on 12 August reclassified the recall of nearly 1.6m dozen white and brown cage-free eggs over concerns they may be contaminated with salmonella. Continue reading..."
+    },
+    {
+     "outlet": "time",
+     "title": "Salmonella Egg Recall Is Now Class I, the FDA\u2019s Highest Risk Level",
+     "url": "https://time.com/article/2026/08/15/eggs-recalled-for-salmonella-upgraded-to-highest-fda-risk-level/",
+     "author": "Rebecca Schneid",
+     "kind": "news",
+     "published": "2026-08-15T15:47:35+00:00",
+     "summary": "Eggs displayed in refrigerated section of a grocery store. \u2014Lindsey Nicholson\u2014Universal Images Group An egg recall linked to a salmonella outbreak was upgraded to the highest possible risk level by the U.S. Food and Drug Administration (FDA) on Wednesday. Nearly 1.6 million dozen eggs were labeled \u201cClass I,\u201d which the agency defines as \u201ca situation in which there is a reasonable probability that the use of or exposure to a violative product will cause serious adverse health consequences or death.\u201d Symptoms of salmonella infection include \u201cfever, diarrhea (which may be bloody), nausea, vomiting, and abdominal pain,\u201d according to the FDA . \u201cIllness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella, and the symptoms usually last four to seven days,\u201d its website said, noting that children under 5, the elderly, and the immunocompromised were more likely to have severe reactions. The U.S. Centers for Disease Control and Prevention (CDC) said that eggs contaminated with Salmonella Enteritidis had infected at least 98 people across 17 states. No deaths have been reported, but 26 people have been hospitalized. Read More: The Trump Administration Wan"
+    }
+   ]
+  },
+  {
    "id": "2783dfacff",
    "topic": "Other",
    "summary": "Rep. Rashida Tlaib , D-Mich., an outspoken critic of Israel, was set to headline a rally in South Florida boosting three progressive Democratic candidates before the Jewish-owned venue hosting the event backed out a day before. The \"Chomp the Oligarchy\" rally to support two U.S. House candidates and one Senate candidate was scheduled for Friday night at The Venue in Fort Lauderdale, just four days before Florida\u2019s primary election. State Rep. Michael Gottlieb, a Democrat, posted Thursday morning calling the event \"anti-Jew,\" while also accusing House candidates Elijah Manley and Oliver Larkin, along with state Rep. Angie Nixon \u2014 who is seeking the Democratic nomination for U.S. Senate \u2014 of being part of an \"Anti-Israel and Anti-Zionism coalition.\" Gottlieb then said Tlaib \"has by far the deepest record of antisemitic allegations and is being brought here to help these candidates raise\u2026",
@@ -2874,6 +2923,48 @@
      "kind": "news",
      "published": "2026-08-14T23:34:55+00:00",
      "summary": "Representative Rashida Tlaib, Democrat of Michigan, has drawn criticism, and a 2023 censure in Congress, for embracing a pro-Palestinian slogan that many Jews consider a call for the eradication of Israel."
+    }
+   ]
+  },
+  {
+   "id": "6139c6e185",
+   "topic": "Justice & Policing",
+   "summary": "Luigi Mangione pleaded guilty in federal court on Friday, admitting that he shot and killed UnitedHealthcare CEO Brian Thompson on the streets of Manhattan on December 4, 2024. The murder was astonishingly brazen. In case anyone has forgotten, Mangione followed Thompson, shot him from behind at point-blank range, then fled the scene, only to be caught in a Pennsylvania McDonald&#8217;s five days later. Technically, while Mangione admitted stalking resulting in the death of Thompson, he did not plead guilty to killing him, because that was not the charge he faced in federal court. (There were murder charges in the original federal indictment, but those charges were dismissed on technical grounds back in January.) Instead , Mangione pleaded guilty to &#8220;stalking&#8221; Thompson with the intent of killing him. We don&#8217;t know yet what sentence Mangione will receive. What we do know\u2026",
+   "summaryFrom": "freepress",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Luigi Mangione has pleaded guilty. What happens to his other trial?",
+   "updated": "2026-08-15T15:31:29+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "freepress",
+     "title": "Mangione Pleaded Guilty to Stalking. He\u2019s Still on the Hook for Murder.",
+     "url": "https://www.thefp.com/p/mangione-pleaded-guilty-stalking",
+     "author": "Jed Rubenfeld",
+     "kind": "news",
+     "published": "2026-08-15T15:31:29+00:00",
+     "summary": "Luigi Mangione pleaded guilty in federal court on Friday, admitting that he shot and killed UnitedHealthcare CEO Brian Thompson on the streets of Manhattan on December 4, 2024. The murder was astonishingly brazen. In case anyone has forgotten, Mangione followed Thompson, shot him from behind at point-blank range, then fled the scene, only to be caught in a Pennsylvania McDonald&#8217;s five days later. Technically, while Mangione admitted stalking resulting in the death of Thompson, he did not plead guilty to killing him, because that was not the charge he faced in federal court. (There were murder charges in the original federal indictment, but those charges were dismissed on technical grounds back in January.) Instead , Mangione pleaded guilty to &#8220;stalking&#8221; Thompson with the intent of killing him. We don&#8217;t know yet what sentence Mangione will receive. What we do know is that Mangione&#8217;s New York state court murder trial is set to begin on September 8. The timing of the surprise federal guilty plea strongly suggests that Mangione&#8217;s lawyers intend to argue that the state trial is now barred by double jeopardy, and according to some reports , they have a"
+    },
+    {
+     "outlet": "bbc",
+     "title": "Luigi Mangione has pleaded guilty. What happens to his other trial?",
+     "url": "https://www.bbc.co.uk/news/articles/ckg3763gy2ro?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T21:12:35+00:00",
+     "summary": "The 28-year-old's lawyers want his upcoming state murder trial thrown out as they argue he has already pleaded guilty in federal court."
     }
    ]
   },
@@ -3004,48 +3095,6 @@
    ]
   },
   {
-   "id": "94f6edb449",
-   "topic": "Justice & Policing",
-   "summary": "Adela Loconte / Variety via Getty Images A chief correspondent at CBS News has been accused of making sexual comments on the job. Matt Gutman, who joined the network in January as the first on-air hire by the MAGA-curious CBS News boss Bari Weiss, is being sued by a former ABC News field producer, Samira Said. Said named Gutman, 48, in a wrongful termination lawsuit filed in Los Angeles and alleged that he created a hostile work environment by making inappropriate sexual remarks to her. Read more at The Daily Beast.",
-   "summaryFrom": "dailybeast",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "CBS News Star Accused of Sexual Harassment in Bombshell Lawsuit",
-   "updated": "2026-08-15T15:25:28+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dailybeast",
-     "title": "CBS News Star Accused of Sexual Harassment in Bombshell Lawsuit",
-     "url": "https://www.thedailybeast.com/cbs-news-star-matt-gutman-accused-of-sexual-harassment-in-bombshell-lawsuit/",
-     "author": "Wiktoria Gucia",
-     "kind": "news",
-     "published": "2026-08-15T15:25:28+00:00",
-     "summary": "Adela Loconte / Variety via Getty Images A chief correspondent at CBS News has been accused of making sexual comments on the job. Matt Gutman, who joined the network in January as the first on-air hire by the MAGA-curious CBS News boss Bari Weiss, is being sued by a former ABC News field producer, Samira Said. Said named Gutman, 48, in a wrongful termination lawsuit filed in Los Angeles and alleged that he created a hostile work environment by making inappropriate sexual remarks to her. Read more at The Daily Beast."
-    },
-    {
-     "outlet": "latimes",
-     "title": "CBS News correspondent Matt Gutman accused of harassment in wrongful termination suit against ABC",
-     "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-14/cbs-news-matt-gutman-accused-sexual-harassment-lawsuit",
-     "author": "Stephen Battaglio",
-     "kind": "news",
-     "published": "2026-08-14T22:10:53+00:00",
-     "summary": "Gutman was included in a former ABC News producer's wrongful termination suit filed Friday in Los Angeles."
-    }
-   ]
-  },
-  {
    "id": "da52d42736",
    "topic": "Other",
    "summary": "This is an edition of The Wonder Reader, a newsletter in which our editors recommend a set of stories to spark your curiosity and fill you with delight. Sign up here to get it every Saturday morning. \u201cSummer always overstays its welcome by about a month,\u201d my colleague Elizabeth Bruenig wrote last week. \u201cAfter the Fourth of July, which has its charms, nothing but a stretch of relentless heat lies ahead, reaching toward Labor Day, and I begin to yearn for fall.\u201d That yearning is reflected in American consumer culture: \u201cBy mid-August, grocery stores are stocking their shelves with autumnal goods\u2014pumpkin-pie Pop-Tarts, cinnamon-maple Frosted Flakes, pumpkin-spice cinnamon rolls in pressurized cardboard tubes.\u201d This early push to transition into fall can make us lose sight of what\u2019s so special about the season we\u2019re in now. For Bruenig, it\u2019s accompanying her children on adventures and\u2026",
@@ -3172,48 +3221,6 @@
    ]
   },
   {
-   "id": "6e0af0b4b8",
-   "topic": "Other",
-   "summary": "In an interview, Afghanistan\u2019s foreign minister called on the U.S. to reopen its embassy and invest in the country \u2014 a near-impossible sell for now, analysts and former diplomats say.",
-   "summaryFrom": "nyt",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "No one should be sent back to Taliban rule",
-   "updated": "2026-08-15T13:00:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "No one should be sent back to Taliban rule",
-     "url": "https://thehill.com/opinion/international/6030093-afghanistan-taliban-returns-unsafe/",
-     "author": "Fereshta Abbasi, opinion contributor",
-     "kind": "opinion",
-     "published": "2026-08-15T13:00:00+00:00",
-     "summary": "It\u2019s the height of hypocrisy to condemn Taliban abuses in one breath and cooperate in sending people back to them in the next."
-    },
-    {
-     "outlet": "nyt",
-     "title": "The Taliban Kicked the U.S. Out of Afghanistan. Now They Want It Back.",
-     "url": "https://www.nytimes.com/2026/08/14/world/asia/afghanistan-us-taliban.html",
-     "author": "Elian Peltier",
-     "kind": "news",
-     "published": "2026-08-14T16:01:43+00:00",
-     "summary": "In an interview, Afghanistan\u2019s foreign minister called on the U.S. to reopen its embassy and invest in the country \u2014 a near-impossible sell for now, analysts and former diplomats say."
-    }
-   ]
-  },
-  {
    "id": "9d96b566e1",
    "topic": "World",
    "summary": "When Tyler Hall finished his tattoo artist apprenticeship in 2012, he got a massive torch inked onto the side of his face. It was his way of &#8220;giving thanks to the tattoo industry,&#8221; Hall, 34, told me. &#8220;It was my dedication. This is where I&#8217;m staying, and this is what I love. This is what I want to do for the rest of my life.&#8221; It was not Hall&#8217;s first face tattoo. That would be the umbrella under his right eye, which he got a few months before the torch, to &#8220;symbolize protection against obstacles in life.&#8221; There&#8217;s also the script Never Again , over his brow, lyrics borrowed from a song he loved as a teen. Also: a crescent moon, the word restless on his cheek, for his children and wife, and a long-stemmed rose under it, in honor of his youngest daughter, whose middle name is Rose. &#8220;I&#8217;ve got about seven or eight face tattoos\u2026",
@@ -3252,48 +3259,6 @@
      "kind": "news",
      "published": "2026-08-14T13:53:43+00:00",
      "summary": "When Tyler Hall finished his tattoo artist apprenticeship in 2012, he got a massive torch inked onto the side of his face. It was his way of &#8220;giving thanks to the tattoo industry,&#8221; Hall, 34, told me. &#8220;It was my dedication. This is where I&#8217;m staying, and this is what I love. This is what I want to do for the rest of my life.&#8221; It was not Hall&#8217;s first face tattoo. That would be the umbrella under his right eye, which he got a few months before the torch, to &#8220;symbolize protection against obstacles in life.&#8221; There&#8217;s also the script Never Again , over his brow, lyrics borrowed from a song he loved as a teen. Also: a crescent moon, the word restless on his cheek, for his children and wife, and a long-stemmed rose under it, in honor of his youngest daughter, whose middle name is Rose. &#8220;I&#8217;ve got about seven or eight face tattoos right now,&#8221; Hall said. (Jesse Barber for The Free Press .) All told, &#8220;I&#8217;ve got about seven or eight face tattoos right now,&#8221; he said. Does he have plans to get more face tattoos? &#8220;Not necessarily,&#8221; he said. &#8220;But you never know.&#8221; Hall tells me his face ta"
-    }
-   ]
-  },
-  {
-   "id": "46d0bf602d",
-   "topic": "Climate & Energy",
-   "summary": "A hurricane is forecast to hit the Big Island of Hawaii this weekend, bringing heavy rain and wind. Should it make landfall, Lala would be the first hurricane to hit the island since 1871.",
-   "summaryFrom": "dw",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Hawaii under state of emergency ahead of historic hurricane",
-   "updated": "2026-08-15T12:11:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Hawaii under state of emergency ahead of historic hurricane",
-     "url": "https://www.dw.com/en/hawaii-under-state-of-emergency-ahead-of-historic-hurricane/a-78382001?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T12:11:00+00:00",
-     "summary": "A hurricane is forecast to hit the Big Island of Hawaii this weekend, bringing heavy rain and wind. Should it make landfall, Lala would be the first hurricane to hit the island since 1871."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Tropical Storm Lala forecast and track: Hawaii braces ahead of expected hurricane",
-     "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T04:38:08+00:00",
-     "summary": "Tropical Storm Lala continues to track through the central Pacific Ocean and is forecast to strengthen into a hurricane as it approaches the Big Island of Hawaii."
     }
    ]
   },
@@ -3546,6 +3511,90 @@
      "kind": "opinion",
      "published": "2026-08-13T13:12:35+00:00",
      "summary": "Walloping the global trading system is no way to help Ukraine"
+    }
+   ]
+  },
+  {
+   "id": "9a4ef2d577",
+   "topic": "Other",
+   "summary": "Whether framed on an office wall, collecting dust in a box or still a distant dream, the college diploma is getting a hard reappraisal. Why it matters: College was once sold as a ticket to the American dream. But students today are taking a tougher look at the college tradeoff: burdensome debt and no guarantee of a dream career \u2014 or employment at all, as AI threatens the jobs the degrees were meant to unlock. \"People didn't ask whether college mattered 20 years ago,\" says Courtney Brown, the vice president of impact and planning at Lumina Foundation. Now, \"they're asking: Are today's students going to be prepared for tomorrow's jobs? Is it really helping them out?\" Confidence in higher education slipped among both parties and all levels of educational attainment this year, according to June Gallup polling . Job market fears are also surging: Gallup found just 19% of those with a college\u2026",
+   "summaryFrom": "axios",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "College loses its monopoly on the American Dream",
+   "updated": "2026-08-15T10:00:05+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "axios",
+     "title": "College loses its monopoly on the American Dream",
+     "url": "https://www.axios.com/2026/08/15/college-bachelors-degree-shift-ai-america",
+     "author": "Avery Lotz",
+     "kind": "news",
+     "published": "2026-08-15T10:00:05+00:00",
+     "summary": "Whether framed on an office wall, collecting dust in a box or still a distant dream, the college diploma is getting a hard reappraisal. Why it matters: College was once sold as a ticket to the American dream. But students today are taking a tougher look at the college tradeoff: burdensome debt and no guarantee of a dream career \u2014 or employment at all, as AI threatens the jobs the degrees were meant to unlock. \"People didn't ask whether college mattered 20 years ago,\" says Courtney Brown, the vice president of impact and planning at Lumina Foundation. Now, \"they're asking: Are today's students going to be prepared for tomorrow's jobs? Is it really helping them out?\" Confidence in higher education slipped among both parties and all levels of educational attainment this year, according to June Gallup polling . Job market fears are also surging: Gallup found just 19% of those with a college degree or more said it was a good time to find a quality job at the end of 2025, compared to 35% of those without one. But there's a college confidence paradox: Even as Americans sour on higher education, they keep sending their kids to campus. \"There is still massive pressure on them from their hig"
+    },
+    {
+     "outlet": "wapo",
+     "title": "What I learned about the American Dream from Europeans pretending to live in Ohio",
+     "url": "https://www.washingtonpost.com/nation/2026/08/15/what-fake-ohio-trailer-park-poland-taught-me-about-american-dream/",
+     "author": "Danielle Paquette",
+     "kind": "news",
+     "published": "2026-08-15T10:00:01+00:00",
+     "summary": "The state of the American Dream looks very different from inside a role-playing event deep in the woods of Poland."
+    }
+   ]
+  },
+  {
+   "id": "301acb8435",
+   "topic": "Other",
+   "summary": "Welcome back to Make It Nice , Defector's best interior design advice column. Today we have fancy track shelving, a moody bedroom makeover, and my favorite: does a non-ugly dog crate exist? Our first \u201cquestion\u201d comes from recent conversations I had with a few friends who had been admiring photos of Vitsoe \u201c606\u201d shelves online. Both of them were ready to give up their Big Shelf dreams because the Vitsoe would cost them thousands of dollars\u2014one friend was obsessing over a setup that would cost $10,000 minimum . Vitsoe has been making the 606 Shelving System for over 60 years and has captured the hearts of design freaks everywhere. The shelves are iconic, modular, and very, very expensive .&#160; I\u2019m maybe going to upset architects and creative directors everywhere, but Vitsoe is just really nice track shelving, and you can get track shelving anywhere. Vitsoe shelves look so good mostly\u2026",
+   "summaryFrom": "defector",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Restaurants Think They\u2019re Making This Classic Dish More \u201cAccessible.\u201d I\u2019m Not Sure That\u2019s Such a Good Thing.",
+   "updated": "2026-08-15T09:50:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "coop": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "slate",
+     "title": "Restaurants Think They\u2019re Making This Classic Dish More \u201cAccessible.\u201d I\u2019m Not Sure That\u2019s Such a Good Thing.",
+     "url": "https://slate.com/life/2026/08/crab-lobster-cracker-tool-set-boil-recipe.html?via=rss",
+     "author": "Maggie Hennessy",
+     "kind": "news",
+     "published": "2026-08-15T09:50:00+00:00",
+     "summary": "Hands cracking a crab claw with a red circle NO sign over everything."
+    },
+    {
+     "outlet": "defector",
+     "title": "Make It Nice: Is There Such A Thing As A Good-Looking Dog Crate?",
+     "url": "https://defector.com/make-it-nice-is-there-such-a-thing-as-a-good-looking-dog-crate",
+     "author": "Veronica de Souza",
+     "kind": "news",
+     "published": "2026-08-14T17:11:35+00:00",
+     "summary": "Welcome back to Make It Nice , Defector's best interior design advice column. Today we have fancy track shelving, a moody bedroom makeover, and my favorite: does a non-ugly dog crate exist? Our first \u201cquestion\u201d comes from recent conversations I had with a few friends who had been admiring photos of Vitsoe \u201c606\u201d shelves online. Both of them were ready to give up their Big Shelf dreams because the Vitsoe would cost them thousands of dollars\u2014one friend was obsessing over a setup that would cost $10,000 minimum . Vitsoe has been making the 606 Shelving System for over 60 years and has captured the hearts of design freaks everywhere. The shelves are iconic, modular, and very, very expensive .&#160; I\u2019m maybe going to upset architects and creative directors everywhere, but Vitsoe is just really nice track shelving, and you can get track shelving anywhere. Vitsoe shelves look so good mostly because of how they\u2019re styled . And that\u2019s something you can learn."
     }
    ]
   }
