@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-15T21:35:48.007567+00:00",
+ "generated": "2026-08-15T22:39:17.678939+00:00",
  "storyCount": 60,
- "feedsOk": 69,
+ "feedsOk": 68,
  "feedsTotal": 72,
  "stories": [
   {
@@ -10,15 +10,15 @@
    "summary": "As tensions between the U.S. and Iran remain unsettled more than five months since the start of the war, the number of ships transiting the Strait of Hormuz appears to be far below pre-conflict levels. \"Despite a brief recovery in late June, vessel traffic through the Strait of Hormuz remains significantly reduced, AIS [Automatic Identification System] transit information suggests operators increasingly favouring the Northern route following projectile attacks, ongoing security concerns, and heightened enforcement activity,\" a United Kingdom Maritime Trade Operations (UKMTO) voluntary reporting area overview noted. \"Traffic remains well below normal levels, with AIS-detected transits approximately 90% below pre-conflict baselines and declining since the 24-26 (June) peak.\" The trade intelligence company Kpler reported in part of a post Friday on X that \"Maritime traffic through the\u2026",
    "summaryFrom": "foxnews",
    "emphasis": {
-    "bigCount": 11,
+    "bigCount": 10,
     "indieCount": 4,
     "big": [
-     "waterway",
-     "ship",
      "health",
+     "ship",
      "reality",
-     "steps",
-     "children"
+     "waterway",
+     "children",
+     "steps"
     ],
     "indie": [
      "become",
@@ -28,15 +28,15 @@
    "absent": [],
    "headline": "Donald Trump to declare Hormuz US territory 'soon'",
    "updated": "2026-08-15T20:30:10+00:00",
-   "outletCount": 15,
+   "outletCount": 14,
    "counts": {
     "corp": 4,
-    "family": 7,
+    "family": 6,
     "pub": 1,
     "nonprofit": 2,
     "coop": 1
    },
-   "newsCount": 13,
+   "newsCount": 12,
    "opinionCount": 2,
    "underreported": false,
    "articles": [
@@ -75,15 +75,6 @@
      "kind": "news",
      "published": "2026-08-15T10:47:14+00:00",
      "summary": "Iran called on the U.S. to \u201caccept the reality of defeat\u201d after President Donald Trump said he would declare the Strait of Hormuz a \u201cterritory\u201d of the U.S."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Trump Says U.S. Will Declare Strait of Hormuz \u2018U.S. Territory\u2019 \u2014 \u2018After We Finish Defeating Iran\u2019",
-     "url": "https://www.breitbart.com/politics/2026/08/14/trump-declare-strait-hormuz-u-s-territory-finish-defeating-iran/",
-     "author": "Joshua Klein",
-     "kind": "news",
-     "published": "2026-08-15T00:24:38+00:00",
-     "summary": "President Donald Trump said Friday that the United States will declare the Strait of Hormuz \u201cU.S. territory\u201d after it finishes defeating Iran, escalating his assertion of American control over the strategic waterway as Tehran vowed that the strait \u201chas been Iranian, is Iranian, and will remain Iranian.\u201d The post Trump Says U.S. Will Declare Strait of Hormuz \u2018U.S. Territory\u2019 \u2014 \u2018After We Finish Defeating Iran\u2019 appeared first on Breitbart ."
     },
     {
      "outlet": "dw",
@@ -187,8 +178,8 @@
     "indieCount": 6,
     "big": [
      "concerns",
-     "families",
      "months",
+     "families",
      "nine",
      "dismisses"
     ],
@@ -198,7 +189,7 @@
      "reported",
      "jumping",
      "broken",
-     "thousands"
+     "shortages"
     ]
    },
    "absent": [],
@@ -327,293 +318,6 @@
    ]
   },
   {
-   "id": "3e44303664",
-   "topic": "Justice & Policing",
-   "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges. \"I shot Mr. Thompson,\" Mangione said during Friday's hearing, adding, \"I knew\u2026",
-   "summaryFrom": "axios",
-   "emphasis": {
-    "bigCount": 7,
-    "indieCount": 4,
-    "big": [
-     "court",
-     "friday",
-     "unitedhealth",
-     "executive",
-     "connection"
-    ],
-    "indie": [
-     "death",
-     "pleading",
-     "year-old"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "US : Luigi Mangione pleads guilty to killing UnitedHealthcare CEO",
-   "updated": "2026-08-15T15:31:17+00:00",
-   "outletCount": 11,
-   "counts": {
-    "corp": 3,
-    "pub": 3,
-    "nonprofit": 1,
-    "family": 4
-   },
-   "newsCount": 9,
-   "opinionCount": 2,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Luigi Mangione pleads guilty in federal case, admits to shooting Brian Thompson",
-     "url": "https://www.cbsnews.com/news/luigi-mangione-says-he-will-plead-guilty-in-federal-case/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T15:31:17+00:00",
-     "summary": "Luigi Mangione entered a guilty plea in his federal case at a court appearance in Manhattan Friday morning."
-    },
-    {
-     "outlet": "france24",
-     "title": "US : Luigi Mangione pleads guilty to killing UnitedHealthcare CEO",
-     "url": "https://www.france24.com/en/us-luigi-mangione-pleads-guilty-to-killing-unitedhealthcare-ceo",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-15T09:47:03+00:00",
-     "summary": "Luigi Mangione has pleaded guilty to federal stalking charges and admitted killing UnitedHealthcare CEO Brian Thompson in New York in December 2024. His lawyers are seeking to have the state charges dropped under New York\u2019s double jeopardy protections, while prosecutors plan to seek a life sentence at his December sentencing."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Luigi Mangione admits to killing CEO",
-     "url": "https://www.nbcnews.com/nightly-news/video/luigi-mangione-admits-to-killing-ceo-268342853771",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T23:07:24+00:00",
-     "summary": "Luigi Mangione pleaded guilty in federal court to stalking charges. He also admitted that he shot United Healthcare CEO Brian Thompson, but did not express remorse for the crime. NBC News\u2019 Stephanie Gosk reports."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Luigi Mangione reveals motive for CEO's killing after pleading guilty in federal case",
-     "url": "https://www.pbs.org/newshour/show/luigi-mangione-reveals-motive-for-ceos-killing-after-pleading-guilty-in-federal-case",
-     "author": "Andrew Merlis",
-     "kind": "news",
-     "published": "2026-08-14T22:57:22+00:00",
-     "summary": "In a surprise turn, Luigi Mangione pleaded guilty to the shooting death of UnitedHealthcare CEO Brian Thompson. Mangione admitted he stalked and shot Thompson in 2024 outside a Hilton hotel in Manhattan. He potentially faces life in prison. The 28-year-old is also still facing state murder charges for Thompson's death in New York. Justice correspondent Ali Rogin reports."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Outrage at UnitedHealth and Other Insurers Persists After Brian Thompson Killing",
-     "url": "https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html",
-     "author": "Reed Abelson",
-     "kind": "opinion",
-     "published": "2026-08-14T21:02:34+00:00",
-     "summary": "Stephen Hemsley, chief executive of UnitedHealth Group, left, was among the executives defending insurers\u2019 practices at congressional hearings in January. To his left were David Joyner, chairman of CVS Health, and Gail Boudreaux, chief executive of Elevance Health."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Mangione admits to shooting insurance CEO, pleads guilty to federal charges",
-     "url": "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/",
-     "author": "Tim Craig, Joanna Slater, Jeremy Roebuck",
-     "kind": "news",
-     "published": "2026-08-14T20:53:00+00:00",
-     "summary": "Mangione read a statement in court in which he described targeting UnitedHealthcare CEO Brian Thompson outside an investor conference in late 2024."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-     "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T19:20:43+00:00",
-     "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death."
-    },
-    {
-     "outlet": "axios",
-     "title": "Luigi Mangione pleads guilty to stalking UnitedHealthcare CEO, admits killing him",
-     "url": "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case",
-     "author": "Avery Lotz",
-     "kind": "news",
-     "published": "2026-08-14T19:15:57+00:00",
-     "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges. \"I shot Mr. Thompson,\" Mangione said during Friday's hearing, adding, \"I knew what I was doing was illegal,\" per multiple reports. He described traveling to Manhattan ahead of the shooting, and seeking information about the conference Thompson was attending by posing as an investor. Mangione also described creating a gun with a 3D printer and attaching a silencer to it. Garnett "
-    },
-    {
-     "outlet": "dw",
-     "title": "Luigi Mangione pleads guilty to federal stalking charges in Brian Thompson death",
-     "url": "https://www.dw.com/en/luigi-mangione-pleads-guilty-to-federal-stalking-charges-in-brian-thompson-death/a-78375740?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T15:49:00+00:00",
-     "summary": "The plea resolves the remaining federal charges tied to the killing of UnitedHealthcare CEO Brian Thompson and could affect a separate New York state case."
-    },
-    {
-     "outlet": "time",
-     "title": "Luigi Mangione Pleads Guilty to Federal Charges in UnitedHealthcare CEO's Fatal Shooting",
-     "url": "https://time.com/article/2026/08/14/luigi-mangione-guilty-plea-federal-case-unitedhealthcare-brian-thompson/",
-     "author": "Chantelle Lee",
-     "kind": "news",
-     "published": "2026-08-14T15:41:30+00:00",
-     "summary": "Luigi Mangione on Friday pleaded guilty to both federal stalking charges against him in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson, admitting in court that he shot the healthcare executive in 2024. Luigi Mangione on Friday pleaded guilty to both federal stalking charges against him in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson, admitting in court that he shot the healthcare executive in 2024. Mangione pleaded guilty to two charges that each carry a possible life sentence: interstate stalking resulting in death and stalking through use of interstate facilities resulting in death. The judge accepted his plea. \u201cI shot Mr. Thompson in Manhattan,\u201d Mangione told the judge on Friday, according to the New York Times. \u201cI understood that my actions would place him in fear of death or bodily injury. I knew what I was doing was illegal.\u201d He said during the hearing that he tracked down Thompson \u201cafter years of enduring severe pain from a broken back, navigating the obstacles of the health insurance system and witnessing similar experiences of countless others,\u201d The Associated Press reported. He said he had 3-D printed a gun and attac"
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Luigi Mangione Lays Out Chilling Step By Step Plot To Kill Brian Thompson",
-     "url": "https://www.dailywire.com/news/luigi-mangione-pleads-guilty-in-shocking-twist-ahead-of-murder-trial",
-     "author": "Jacob Wheeler",
-     "kind": "opinion",
-     "published": "2026-08-14T10:23:45+00:00",
-     "summary": "In a jaw-dropping courtroom confession, Luigi Mangione pleaded guilty Friday to federal stalking charges carrying a potential life sentence in connection with the killing of UnitedHealthcare CEO Brian Thompson, a move that could have major implications for his upcoming New York murder trial. &#8220;After years of enduring severe pain in my back and seeing others too, I learned UnitedHealth would hold its conference,\u201d Mangione said in a New York City courtroom. \u201cI researched the event online. I observed the conference of the largest health care company would be attended by executives, not doctors, nurses or patients. I traveled to Manhattan and emailed leadership posing as an investor managing $58 billion.\u201d &#8220;Before traveling to New York, I used a 3-D printer to make a gun. I traveled to New York with the intent to shoot Brian Thompson. On the morning of December 4, 2024, I shot Mr. Thompson in Manhattan. \u2026 I knew what I was doing,&#8221; he added. The guilty plea marks a dramatic turnaround for the 28-year-old, who has long maintained his innocence and is now pursuing a legal theory that could potentially derail his separate, high-stakes murder trial set to begin September 8 i"
-    }
-   ]
-  },
-  {
-   "id": "dfc97f274e",
-   "topic": "World",
-   "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to the epicentre, because roads were blocked by landslides and communications disrupted. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 8,
-    "big": [
-     "following",
-     "hits",
-     "survey",
-     "geological"
-    ],
-    "indie": [
-     "survivors",
-     "kills",
-     "search",
-     "tsunami",
-     "rescuers",
-     "operation"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-   "updated": "2026-08-15T20:27:24+00:00",
-   "outletCount": 10,
-   "counts": {
-    "family": 1,
-    "pub": 5,
-    "corp": 3,
-    "nonprofit": 3
-   },
-   "newsCount": 12,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "7.7-Magnitude Earthquake Strikes Indonesia, Killing at Least 40",
-     "url": "https://nypost.com/video/7-7-magnitude-earthquake-strikes-indonesia-killing-at-least-40/",
-     "author": "New York Post Video",
-     "kind": "news",
-     "published": "2026-08-15T20:27:24+00:00",
-     "summary": "A powerful 7.7-magnitude earthquake struck off the coast of Indonesia on Aug 15, killing at least 40 people and severely damaging buildings at a port in Maumere. Footage shows emergency crews carrying a body bag from the wreckage as rescue operations continue following the quake."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-     "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T20:00:15+00:00",
-     "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "2nd earthquake hits Indonesia following powerful magnitude 7.7 quake",
-     "url": "https://abcnews.com/International/2-dead-after-powerful-77-earthquake-strikes-off/story?id=135664681",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T18:06:05+00:00",
-     "summary": "A powerful magnitude 7.7 earthquake struck off the coast of eastern Indonesia, according to the U.S. Geological Survey."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Powerful earthquake kills dozens in eastern Indonesia",
-     "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-     "author": "William Christou and agencies",
-     "kind": "news",
-     "published": "2026-08-15T15:34:38+00:00",
-     "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to the epicentre, because roads were blocked by landslides and communications disrupted. Continue reading..."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47 and toppling buildings",
-     "url": "https://www.pbs.org/newshour/world/magnitude-7-7-earthquake-strikes-off-indonesias-coast-killing-at-least-47-and-toppling-buildings",
-     "author": "Yacob Herin, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T15:01:06+00:00",
-     "summary": "Authorities issued a tsunami warning and urged coastal residents to move to higher ground, but later lifted the warning when Indonesia's meteorological agency said monitoring showed no significant sea-level changes that posed a threat to coastal communities."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "2 powerful earthquakes hit Indonesia on same day, at least 47 dead",
-     "url": "https://www.cbsnews.com/news/indonesia-earthquake-tsunami-warning/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T14:56:00+00:00",
-     "summary": "With magnitudes of 7.7 and 6.4, two earthquakes struck different parts of Indonesia on the same day."
-    },
-    {
-     "outlet": "france24",
-     "title": "Indonesia hit by earthquake aftershock as rescuers search for survivors",
-     "url": "https://www.france24.com/en/indonesia-hit-by-earthquake-aftershock-as-rescuers-search-for-survivors",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-15T12:34:05+00:00",
-     "summary": "Fresh back from Indonesia, FRANCE 24 journalist Jamie Smith-Maillet assesses the damage caused by the 7.7-magnitude earthquake that struck the Flores region. Rescue teams are working to pull survivors from the rubble, while an aftershock has hit the area, raising fears of further casualties."
-    },
-    {
-     "outlet": "france24",
-     "title": "\ud83d\udd34 Indonesia hit by two powerful earthquakes",
-     "url": "https://www.france24.com/en/asia-pacific/20260815-deadly-earthquake-strikes-indonesia-and-triggers-mass-evacuations",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-15T11:49:36+00:00",
-     "summary": null
-    },
-    {
-     "outlet": "france24",
-     "title": "Indonesia earthquake kills at least 38 as rescue operation continues",
-     "url": "https://www.france24.com/en/indonesia-earthquake-kills-at-least-38-as-rescue-operation-continues",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-15T08:47:43+00:00",
-     "summary": "A powerful 7.7-magnitude earthquake struck off Indonesia\u2019s Flores region, killing at least 38 people and injuring six, while rescuers search through collapsed buildings for survivors. Aftershocks, power outages and widespread destruction are hampering rescue efforts, highlighting the persistent seismic risk faced by Indonesia, which lies on the Pacific Ring of Fire."
-    },
-    {
-     "outlet": "npr",
-     "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
-     "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T08:29:20+00:00",
-     "summary": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, killing at least 38 people, collapsing buildings as well as causing panic in a region prone to deadly quakes. (Image credit: BASARNAS via AP)"
-    },
-    {
-     "outlet": "dw",
-     "title": "Indonesia: Dozens dead after earthquake off Flores island",
-     "url": "https://www.dw.com/en/indonesia-dozens-dead-after-earthquake-off-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T23:45:00+00:00",
-     "summary": "At least 47 people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftershocks. A tsunami warning has been lifted."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Magnitude-7.7 quake hits off coast of Indonesia, killing at least 47",
-     "url": "https://www.nbcnews.com/world/indonesia/earthquake-indonesia-rcna592638",
-     "author": "Babak Dehghanpisheh",
-     "kind": "news",
-     "published": "2026-08-14T22:58:37+00:00",
-     "summary": "A magnitude-7.7 earthquake hit off the coast of Indonesia in the eastern Flores region, the United States Geological Survey reported on Friday."
-    }
-   ]
-  },
-  {
    "id": "be78a49bbe",
    "topic": "Other",
    "summary": "Yesterday in London, Jason Arday, the controversy-plagued British academic and author, was found dead. Made famous as the youngest Black professor in Cambridge\u2019s more than 800-year history, Arday had been dogged by weeks of scrutiny amid accusations of plagiarism, fake qualifications, and a fabricated backstory filled with hard-to-believe details. He claimed to have been mute until age 11 and illiterate until 18, disadvantages that did not deter him from getting a Ph.D., which he earned by age 30. He claimed, too, that he had suffered from various medical conditions throughout his life, including autism, epilepsy, locked-in syndrome, testicular cancer, and a brain tumor. He was, by his account, a world-class endurance athlete who had racked up a variety of impressive feats, including running 600 miles in six days. Then there were his academic accomplishments: Arday was billed as a\u2026",
@@ -623,8 +327,8 @@
     "indieCount": 5,
     "big": [
      "backstory",
-     "statement",
-     "police"
+     "police",
+     "statement"
     ],
     "indie": [
      "centre"
@@ -739,6 +443,135 @@
    ]
   },
   {
+   "id": "fc3549f0e2",
+   "topic": "Justice & Policing",
+   "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges. \"I shot Mr. Thompson,\" Mangione said during Friday's hearing, adding, \"I knew\u2026",
+   "summaryFrom": "axios",
+   "emphasis": {
+    "bigCount": 7,
+    "indieCount": 3,
+    "big": [
+     "court",
+     "friday",
+     "executive",
+     "unitedhealth",
+     "connection"
+    ],
+    "indie": [
+     "death",
+     "year-old",
+     "pleading"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Luigi Mangione reveals motive for CEO's killing after pleading guilty in federal case",
+   "updated": "2026-08-15T15:31:17+00:00",
+   "outletCount": 10,
+   "counts": {
+    "corp": 3,
+    "nonprofit": 1,
+    "family": 4,
+    "pub": 2
+   },
+   "newsCount": 8,
+   "opinionCount": 2,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Luigi Mangione pleads guilty in federal case, admits to shooting Brian Thompson",
+     "url": "https://www.cbsnews.com/news/luigi-mangione-says-he-will-plead-guilty-in-federal-case/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T15:31:17+00:00",
+     "summary": "Luigi Mangione entered a guilty plea in his federal case at a court appearance in Manhattan Friday morning."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Luigi Mangione admits to killing CEO",
+     "url": "https://www.nbcnews.com/nightly-news/video/luigi-mangione-admits-to-killing-ceo-268342853771",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T23:07:24+00:00",
+     "summary": "Luigi Mangione pleaded guilty in federal court to stalking charges. He also admitted that he shot United Healthcare CEO Brian Thompson, but did not express remorse for the crime. NBC News\u2019 Stephanie Gosk reports."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Luigi Mangione reveals motive for CEO's killing after pleading guilty in federal case",
+     "url": "https://www.pbs.org/newshour/show/luigi-mangione-reveals-motive-for-ceos-killing-after-pleading-guilty-in-federal-case",
+     "author": "Andrew Merlis",
+     "kind": "news",
+     "published": "2026-08-14T22:57:22+00:00",
+     "summary": "In a surprise turn, Luigi Mangione pleaded guilty to the shooting death of UnitedHealthcare CEO Brian Thompson. Mangione admitted he stalked and shot Thompson in 2024 outside a Hilton hotel in Manhattan. He potentially faces life in prison. The 28-year-old is also still facing state murder charges for Thompson's death in New York. Justice correspondent Ali Rogin reports."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Outrage at UnitedHealth and Other Insurers Persists After Brian Thompson Killing",
+     "url": "https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html",
+     "author": "Reed Abelson",
+     "kind": "opinion",
+     "published": "2026-08-14T21:02:34+00:00",
+     "summary": "Stephen Hemsley, chief executive of UnitedHealth Group, left, was among the executives defending insurers\u2019 practices at congressional hearings in January. To his left were David Joyner, chairman of CVS Health, and Gail Boudreaux, chief executive of Elevance Health."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Mangione admits to shooting insurance CEO, pleads guilty to federal charges",
+     "url": "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/",
+     "author": "Tim Craig, Joanna Slater, Jeremy Roebuck",
+     "kind": "news",
+     "published": "2026-08-14T20:53:00+00:00",
+     "summary": "Mangione read a statement in court in which he described targeting UnitedHealthcare CEO Brian Thompson outside an investor conference in late 2024."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+     "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T19:20:43+00:00",
+     "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death."
+    },
+    {
+     "outlet": "axios",
+     "title": "Luigi Mangione pleads guilty to stalking UnitedHealthcare CEO, admits killing him",
+     "url": "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case",
+     "author": "Avery Lotz",
+     "kind": "news",
+     "published": "2026-08-14T19:15:57+00:00",
+     "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges. \"I shot Mr. Thompson,\" Mangione said during Friday's hearing, adding, \"I knew what I was doing was illegal,\" per multiple reports. He described traveling to Manhattan ahead of the shooting, and seeking information about the conference Thompson was attending by posing as an investor. Mangione also described creating a gun with a 3D printer and attaching a silencer to it. Garnett "
+    },
+    {
+     "outlet": "dw",
+     "title": "Luigi Mangione pleads guilty to federal stalking charges in Brian Thompson death",
+     "url": "https://www.dw.com/en/luigi-mangione-pleads-guilty-to-federal-stalking-charges-in-brian-thompson-death/a-78375740?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T15:49:00+00:00",
+     "summary": "The plea resolves the remaining federal charges tied to the killing of UnitedHealthcare CEO Brian Thompson and could affect a separate New York state case."
+    },
+    {
+     "outlet": "time",
+     "title": "Luigi Mangione Pleads Guilty to Federal Charges in UnitedHealthcare CEO's Fatal Shooting",
+     "url": "https://time.com/article/2026/08/14/luigi-mangione-guilty-plea-federal-case-unitedhealthcare-brian-thompson/",
+     "author": "Chantelle Lee",
+     "kind": "news",
+     "published": "2026-08-14T15:41:30+00:00",
+     "summary": "Luigi Mangione on Friday pleaded guilty to both federal stalking charges against him in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson, admitting in court that he shot the healthcare executive in 2024. Luigi Mangione on Friday pleaded guilty to both federal stalking charges against him in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson, admitting in court that he shot the healthcare executive in 2024. Mangione pleaded guilty to two charges that each carry a possible life sentence: interstate stalking resulting in death and stalking through use of interstate facilities resulting in death. The judge accepted his plea. \u201cI shot Mr. Thompson in Manhattan,\u201d Mangione told the judge on Friday, according to the New York Times. \u201cI understood that my actions would place him in fear of death or bodily injury. I knew what I was doing was illegal.\u201d He said during the hearing that he tracked down Thompson \u201cafter years of enduring severe pain from a broken back, navigating the obstacles of the health insurance system and witnessing similar experiences of countless others,\u201d The Associated Press reported. He said he had 3-D printed a gun and attac"
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Luigi Mangione Lays Out Chilling Step By Step Plot To Kill Brian Thompson",
+     "url": "https://www.dailywire.com/news/luigi-mangione-pleads-guilty-in-shocking-twist-ahead-of-murder-trial",
+     "author": "Jacob Wheeler",
+     "kind": "opinion",
+     "published": "2026-08-14T10:23:45+00:00",
+     "summary": "In a jaw-dropping courtroom confession, Luigi Mangione pleaded guilty Friday to federal stalking charges carrying a potential life sentence in connection with the killing of UnitedHealthcare CEO Brian Thompson, a move that could have major implications for his upcoming New York murder trial. &#8220;After years of enduring severe pain in my back and seeing others too, I learned UnitedHealth would hold its conference,\u201d Mangione said in a New York City courtroom. \u201cI researched the event online. I observed the conference of the largest health care company would be attended by executives, not doctors, nurses or patients. I traveled to Manhattan and emailed leadership posing as an investor managing $58 billion.\u201d &#8220;Before traveling to New York, I used a 3-D printer to make a gun. I traveled to New York with the intent to shoot Brian Thompson. On the morning of December 4, 2024, I shot Mr. Thompson in Manhattan. \u2026 I knew what I was doing,&#8221; he added. The guilty plea marks a dramatic turnaround for the 28-year-old, who has long maintained his innocence and is now pursuing a legal theory that could potentially derail his separate, high-stakes murder trial set to begin September 8 i"
+    }
+   ]
+  },
+  {
    "id": "ac7085b98d",
    "topic": "Politics",
    "summary": "The Democratic National Committee (DNC) has voted to approve the 2028 presidential primary calendar, starting with South Carolina. The party okayed a plan that has the Palmetto State kicking off the cycle on Jan. 22, 2028, followed by Nevada on Feb. 1. New Hampshire, long a first-in-the-nation contest, will hold its primary third, on Feb....",
@@ -747,12 +580,12 @@
     "bigCount": 6,
     "indieCount": 2,
     "big": [
-     "hold",
      "hampshire",
-     "democrats",
+     "hold",
      "approve",
      "national",
-     "nominating"
+     "democrats",
+     "contests"
     ],
     "indie": []
    },
@@ -848,18 +681,15 @@
   },
   {
    "id": "25736d721e",
-   "topic": "World",
+   "topic": "Politics",
    "summary": "Prolonged deployment is coupled with reports of water shortages, plumbing issues and attempts to jump overboard Trump downplays concerns about sailors onboard USS Abraham Lincoln US navy veterans and military health experts are expressing concerns about the strain on sailors aboard the USS Abraham Lincoln, which has spent nearly nine months at sea supporting US operations in the Middle East, amid reports of poor living conditions and worsening mental health among its crew. The San Diego-based aircraft carrier left port on 21 November, originally bound for the Pacific, but was redirected to the Middle East as the US-Israel war with Iran began. It has now spent more than 250 consecutive days at sea without a significant port visit, with its deployment repeatedly extended. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": {
     "bigCount": 5,
-    "indieCount": 3,
-    "big": [
-     "carrier",
-     "food"
-    ],
+    "indieCount": 4,
+    "big": [],
     "indie": [
-     "ship",
+     "white",
      "concerns"
     ]
    },
@@ -868,25 +698,25 @@
     "pub"
    ],
    "headline": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
-   "updated": "2026-08-15T19:25:33+00:00",
+   "updated": "2026-08-15T22:16:12+00:00",
    "outletCount": 7,
    "counts": {
     "corp": 2,
-    "nonprofit": 3,
+    "nonprofit": 4,
     "family": 3
    },
-   "newsCount": 8,
+   "newsCount": 9,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
      "outlet": "thehill",
-     "title": "Maher on USS Abraham Lincoln conditions: 'It just makes my blood boil'",
-     "url": "https://thehill.com/policy/defense/6031563-maher-condemns-uss-abraham-lincoln-conditions/",
-     "author": "Finya Swai",
+     "title": "House Democrats question Navy Secretary on conditions aboard USS Abraham Lincoln",
+     "url": "https://thehill.com/homenews/house/6031642-house-democrats-probe-uss-lincoln/",
+     "author": "Mira Bhakta",
      "kind": "news",
-     "published": "2026-08-15T19:25:33+00:00",
-     "summary": "Comedian Bill Maher condemned the reported harsh conditions aboard the USS Abraham Lincoln on Friday, saying accounts of food shortages and broken toilets the sailors onboard have worked under made his \u201cblood boil.\u201d Acting Navy Secretary Hung Cao announced on Friday that the aircraft carrier would be returning to the U.S. from deployment after spending..."
+     "published": "2026-08-15T22:16:12+00:00",
+     "summary": "A group of House Democrats sent a letter Friday to the Acting Secretary of the Navy Hung Cao probing into conditions on the USS Abraham Lincoln, a ship that has been docked in the Middle East for over 260 days. The letter \u2013 sent by Reps. Joe Courtney (D-Conn.), Maggie Goodlander (D-N.H.), Wesley Bell (D-Mo.),..."
     },
     {
      "outlet": "npr",
@@ -896,6 +726,15 @@
      "kind": "news",
      "published": "2026-08-15T18:21:32+00:00",
      "summary": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful. (Image credit: Julia Demaree Nikhinson)"
+    },
+    {
+     "outlet": "npr",
+     "title": "Week in Politics: USS Lincoln; latest primaries and Democrats; White House ballroom",
+     "url": "https://www.npr.org/2026/08/15/nx-s1-5929131/week-in-politics-uss-lincoln-latest-primaries-and-democrats-white-house-ballroom",
+     "author": "Eyder Peralta",
+     "kind": "news",
+     "published": "2026-08-15T11:40:15+00:00",
+     "summary": "A shortage of some munitions as well as the problems with the USS Lincoln have the Trump administration on the defensive. Meanwhile, what the latest primaries show about Democratic enthusiasm."
     },
     {
      "outlet": "guardian",
@@ -954,84 +793,6 @@
    ]
   },
   {
-   "id": "52063f27a2",
-   "topic": "World",
-   "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
-   "updated": "2026-08-15T20:37:34+00:00",
-   "outletCount": 6,
-   "counts": {
-    "pub": 3,
-    "family": 1,
-    "nonprofit": 2
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
-     "url": "https://www.france24.com/en/middle-east/20260815-israeli-strikes-kill-11-in-southern-lebanon-hezbollah-threatens-to-retaliate",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-15T20:37:34+00:00",
-     "summary": "Israeli airstrikes on southern Lebanon killed at least 11 people Saturday, some of the deadliest since deals in June eased hostilities between Israel and Hezbollah. Israel's military said the strikes were in retaliation for an attack by Hezbollah on its troops in the country's south and the Iran-backed militant group said that the attacks would be \"met with what they deserve\"."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-     "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T20:21:14+00:00",
-     "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
-     "url": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
-     "author": "Abdi Latif Dahir",
-     "kind": "news",
-     "published": "2026-08-15T16:09:55+00:00",
-     "summary": "The Lebanese health ministry said children were among those killed. The Israeli prime minister\u2019s office said Hezbollah had struck first, injuring three Israeli soldiers."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Israeli airstrikes on southern Lebanon kill 11 people in another test to truce",
-     "url": "https://www.pbs.org/newshour/world/israeli-airstrikes-on-southern-lebanon-kill-11-people-health-ministry-says",
-     "author": "Bassem Mroue, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T15:47:14+00:00",
-     "summary": "Israel and the Lebanese government announced a \"framework agreement\" on June 26, laying out a plan for Israeli forces to withdraw from southern Lebanon in exchange for the disarmament of the Iran-backed Hezbollah militant group."
-    },
-    {
-     "outlet": "dw",
-     "title": "Lebanon says 11 killed in Israeli airstrikes",
-     "url": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T15:35:00+00:00",
-     "summary": "Lebanon's prime minister denounced the attacks on villages in southern Lebanon for targeting civilians in their homes. Israel said it was firing on Hezbollah infrastructure."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
-     "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
-     "author": "William Christou",
-     "kind": "news",
-     "published": "2026-08-15T13:55:28+00:00",
-     "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading..."
-    }
-   ]
-  },
-  {
    "id": "766f173698",
    "topic": "Justice & Policing",
    "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant\u2026",
@@ -1046,8 +807,8 @@
     ],
     "indie": [
      "responded",
-     "halls",
      "residence",
+     "halls",
      "large"
     ]
    },
@@ -1218,8 +979,77 @@
    ]
   },
   {
-   "id": "6c764dddeb",
+   "id": "0cc3e20e8a",
    "topic": "World",
+   "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+   "updated": "2026-08-15T20:21:14+00:00",
+   "outletCount": 5,
+   "counts": {
+    "pub": 2,
+    "family": 1,
+    "nonprofit": 2
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+     "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T20:21:14+00:00",
+     "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
+     "url": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
+     "author": "Abdi Latif Dahir",
+     "kind": "news",
+     "published": "2026-08-15T16:09:55+00:00",
+     "summary": "The Lebanese health ministry said children were among those killed. The Israeli prime minister\u2019s office said Hezbollah had struck first, injuring three Israeli soldiers."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Israeli airstrikes on southern Lebanon kill 11 people in another test to truce",
+     "url": "https://www.pbs.org/newshour/world/israeli-airstrikes-on-southern-lebanon-kill-11-people-health-ministry-says",
+     "author": "Bassem Mroue, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T15:47:14+00:00",
+     "summary": "Israel and the Lebanese government announced a \"framework agreement\" on June 26, laying out a plan for Israeli forces to withdraw from southern Lebanon in exchange for the disarmament of the Iran-backed Hezbollah militant group."
+    },
+    {
+     "outlet": "dw",
+     "title": "Lebanon says 11 killed in Israeli airstrikes",
+     "url": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T15:35:00+00:00",
+     "summary": "Lebanon's prime minister denounced the attacks on villages in southern Lebanon for targeting civilians in their homes. Israel said it was firing on Hezbollah infrastructure."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
+     "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
+     "author": "William Christou",
+     "kind": "news",
+     "published": "2026-08-15T13:55:28+00:00",
+     "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "6c764dddeb",
+   "topic": "Climate & Energy",
    "summary": "In this photograph taken on June 1, 2025, Gul Ajan Hotak offers prayers over the grave of his son Shafiullah Hotak, who died after falling from a U.S. Air Force C-17 aircraft amid the August 2021 panic-stricken evacuation to flee Taliban-led Afghanistan. Photo by Wakil Kohsar/AFP via Getty Images. Five years ago today, as the U.S. hurried to bring an end to its longest war and Afghanistan&#8217;s government collapsed, Taliban fighters swept into Kabul. The images were inescapable : desperate Afghans surrounding planes at Kabul airport, crowds pressed against its gates, the last American military aircraft leaving. Then, much of the world moved on. Subscribe now But for Afghans, Aug. 15, 2021 was far from the end of the story. In the five years since the Taliban recaptured power, hundreds of thousands promised pathways to the U.S. have remained stranded; the Taliban has systematically\u2026",
    "summaryFrom": "zeteo",
    "emphasis": null,
@@ -1229,13 +1059,13 @@
    ],
    "headline": "While Taliban leaders mark 5 years in power in Afghanistan, a UN official warns of a rights crisis",
    "updated": "2026-08-15T17:09:42+00:00",
-   "outletCount": 6,
+   "outletCount": 5,
    "counts": {
     "nonprofit": 1,
-    "pub": 4,
+    "pub": 3,
     "coop": 1
    },
-   "newsCount": 6,
+   "newsCount": 5,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
@@ -1267,15 +1097,6 @@
      "summary": "In this photograph taken on June 1, 2025, Gul Ajan Hotak offers prayers over the grave of his son Shafiullah Hotak, who died after falling from a U.S. Air Force C-17 aircraft amid the August 2021 panic-stricken evacuation to flee Taliban-led Afghanistan. Photo by Wakil Kohsar/AFP via Getty Images. Five years ago today, as the U.S. hurried to bring an end to its longest war and Afghanistan&#8217;s government collapsed, Taliban fighters swept into Kabul. The images were inescapable : desperate Afghans surrounding planes at Kabul airport, crowds pressed against its gates, the last American military aircraft leaving. Then, much of the world moved on. Subscribe now But for Afghans, Aug. 15, 2021 was far from the end of the story. In the five years since the Taliban recaptured power, hundreds of thousands promised pathways to the U.S. have remained stranded; the Taliban has systematically pushed women and girls out of public life; international aid has collapsed while hunger has skyrocketed; millions of refugees have been forced back into the country; and Afghanistan has once again become the center of major regional conflict. Here are seven things to know about Afghanistan, five years a"
     },
     {
-     "outlet": "france24",
-     "title": "Afghans rebuild their lives in France five years after Taliban takeover",
-     "url": "https://www.france24.com/en/afghans-rebuild-their-lives-in-france-five-years-after-taliban-takeover",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-15T09:13:06+00:00",
-     "summary": "Five years after the Taliban seized power, thousands of Afghans who fled to France are rebuilding their lives while facing challenges including language, housing and employment. For women like refugee doctor Fardina Samadi, France offers freedoms denied under Taliban rule, but rebuilding a career and integrating into French society remain difficult."
-    },
-    {
      "outlet": "bbc",
      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
      "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
@@ -1296,250 +1117,86 @@
    ]
   },
   {
-   "id": "40649a62e1",
-   "topic": "World",
-   "summary": "Israeli settlers run as they are chased by an Israeli military vehicle around Palestinian houses in the village of Qusra, south of Nablus, in the occupied West Bank, on Aug. 13, 2026. Photo by Zain Jaafar/AFP via Getty Images US Ambassador Mike Huckabee called settlers besieging a Palestinian American home in the occupied West Bank &#8220; Israeli terrorists .&#8221; It&#8217;s a welcome, rare rebuke from a U.S. official, but what kind of weight does it really have when the same official has been a long-time supporter of Israeli settlements? It wasn&#8217;t that long ago that Huckabee made similar comments about settler violence gripping the Palestinian Christian village of Taybeh , where attacks continue, or the settlers who beat Palestinian American Sayfollah Musallet to death (no one has been held accountable). Subscribe now What kind of weight do Huckabee&#8217;s comments really\u2026",
-   "summaryFrom": "zeteo",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family"
-   ],
-   "headline": "Israeli settlers besiege Palestinian families in occupied West Bank",
-   "updated": "2026-08-15T17:01:34+00:00",
-   "outletCount": 6,
-   "counts": {
-    "coop": 1,
-    "pub": 3,
-    "nonprofit": 2
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "zeteo",
-     "title": "This Week in Palestine: Israel Shoots 13-Year-Old as She \u2018Memorized the Quran\u2019 and Settlers Besiege Palestinian Families",
-     "url": "https://zeteo.com/p/this-week-in-palestine-israel-shoots",
-     "author": "Team Zeteo",
-     "kind": "news",
-     "published": "2026-08-15T17:01:34+00:00",
-     "summary": "Israeli settlers run as they are chased by an Israeli military vehicle around Palestinian houses in the village of Qusra, south of Nablus, in the occupied West Bank, on Aug. 13, 2026. Photo by Zain Jaafar/AFP via Getty Images US Ambassador Mike Huckabee called settlers besieging a Palestinian American home in the occupied West Bank &#8220; Israeli terrorists .&#8221; It&#8217;s a welcome, rare rebuke from a U.S. official, but what kind of weight does it really have when the same official has been a long-time supporter of Israeli settlements? It wasn&#8217;t that long ago that Huckabee made similar comments about settler violence gripping the Palestinian Christian village of Taybeh , where attacks continue, or the settlers who beat Palestinian American Sayfollah Musallet to death (no one has been held accountable). Subscribe now What kind of weight do Huckabee&#8217;s comments really have when, hours after using the phrase &#8220;Israeli terrorists,&#8221; he called the settlers &#8220; illegal trespassers &#8221; instead? Or when he defended the vast majority of settlers, saying they aren&#8217;t the problem, the &#8220; unsettlers &#8221; are, even though the settlements themselve"
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Israeli settlers besiege Palestinian families in occupied West Bank",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T15:48:07+00:00",
-     "summary": "Three Palestinian families say they have been trapped inside their homes in the occupied West Bank for nearly a week."
-    },
-    {
-     "outlet": "france24",
-     "title": "US urges Netanyahu to condemn settlers besieging Palestinians in West Bank",
-     "url": "https://www.france24.com/en/us-urges-netanyahu-to-condemn-settlers-besieging-palestinians-in-west-bank",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-15T08:52:10+00:00",
-     "summary": "The United States is urging Israeli Prime Minister Benjamin Netanyahu to publicly condemn Israeli settlers who have besieged Palestinian homes in Qusra, while France is calling for their arrest and prosecution. As residents remain cut off from food and other supplies, settler violence is putting further political pressure on Netanyahu ahead of Israel\u2019s election."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Palestinians besieged in West Bank village of Qusra fear Israeli settlers will seize their homes",
-     "url": "https://www.pbs.org/newshour/world/palestinians-besieged-in-west-bank-village-of-qusra-fear-israeli-settlers-will-seize-their-homes",
-     "author": "Aref Tufaha, Associated Press",
-     "kind": "news",
-     "published": "2026-08-14T21:43:06+00:00",
-     "summary": "The standoff in Qusra between Palestinian families and Israeli settlers who apparently want to push them out entered a new stage Friday as activists supporting the Palestinians marched toward the besieged homes to replenish their dwindling food and water supply."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
-     "url": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
-     "author": "Emma Graham-Harrison in Jerusalem",
-     "kind": "news",
-     "published": "2026-08-14T17:52:51+00:00",
-     "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-     "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T17:03:17+00:00",
-     "summary": "Two families have been trapped in their homes in the occupied West Bank for several days."
-    }
-   ]
-  },
-  {
-   "id": "e6f0e6556f",
+   "id": "166810adc6",
    "topic": "Politics",
-   "summary": "Dallas-Fort Worth International Airport has scrapped a proposal to add Islamic foot-washing stations to two Terminal D restrooms, backing off Friday night after Texas Governor Greg Abbott called the plan illegal and opened a review of every state grant flowing to the airport. &#8220;These ablution facilities appear designed to single out one subset of the population for special treatment based on religion. That is illegal,&#8221; Abbott wrote in a letter to Transportation Secretary Sean Duffy. &#8220;Both airports are government-owned facilities. The federal and state constitutions prohibit governments from facilitating this sort of discrimination. Just as the government cannot favor the secular over the sacred, it also cannot favor one religious view over all others.&#8221; In a separate letter to DFW CEO Christopher McLaughlin, Abbott warned that organizations found to have developed\u2026",
-   "summaryFrom": "dailywire",
+   "summary": "A bulldozer clears a pathway in Big Bend National Park, Texas, on August 12, 2026. | Kaylee Greenlee/Bloomberg via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: Remember President Donald Trump\u2019s first-term border wall? It\u2019s still being built \u2014 through a pristine Texas national park. What\u2019s happening? The Trump administration is preparing to build hundreds of miles of roads through Big Bend National Park in southwest Texas as part of its latest border security project, despite a bipartisan outcry over damage to the beloved park.&nbsp; Starting last week, bulldozers and heavy machinery began to clear land for the construction of about 200 miles of patrol road, new border barriers, and electronic\u2026",
+   "summaryFrom": "vox",
    "emphasis": {
-    "bigCount": 4,
-    "indieCount": 3,
+    "bigCount": 3,
+    "indieCount": 2,
     "big": [
-     "foot-washing",
-     "international",
-     "airport",
-     "stations",
-     "worth",
-     "ordered"
+     "appeared",
+     "president",
+     "images",
+     "donald",
+     "jobs",
+     "meme"
     ],
     "indie": [
-     "order"
+     "wall",
+     "work"
     ]
    },
    "absent": [
     "coop",
     "pub"
    ],
-   "headline": "Greg Abbott threatens Dallas, Houston airports\u2019 grant funds over Islamic washing facilities",
-   "updated": "2026-08-15T18:29:51+00:00",
-   "outletCount": 5,
-   "counts": {
-    "corp": 1,
-    "family": 3,
-    "nonprofit": 3
-   },
-   "newsCount": 6,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "Greg Abbott Threatens Airports Over Islamic Washing Facilities: &#039;Illegal&#039;",
-     "url": "https://www.newsweek.com/greg-abbott-threatens-airports-over-islamic-washing-facilities-illegal-12327283",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T18:29:51+00:00",
-     "summary": "The Texas governor ordered grant reviews of DFW and Houston airports after objecting to spaces used for ritual washing."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Texas: DFW Airport Backs Off Plan for Islamic Foot-Washing Stations as Gov. Greg Abbott Orders Investigation",
-     "url": "https://www.breitbart.com/faith/2026/08/15/texas-dfw-airport-backs-off-plan-for-islamic-foot-washing-stations-as-gov-greg-abbott-orders-investigation/",
-     "author": "Amy Furr",
-     "kind": "news",
-     "published": "2026-08-15T16:59:40+00:00",
-     "summary": "Dallas Fort Worth International Airport (DFW) in Texas has scrapped plans to install Islamic washing stations as Gov. Greg Abbott (R) has ordered an investigation into the matter. The post Texas: DFW Airport Backs Off Plan for Islamic Foot-Washing Stations as Gov. Greg Abbott Orders Investigation appeared first on Breitbart ."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "DFW Airport Scraps Islamic Foot-Washing Stations After Governor Threatens Its Funding",
-     "url": "https://www.dailywire.com/news/dfw-airport-scraps-islamic-foot-washing-stations-after-governor-threatens-its-funding",
-     "author": "Brecca Stoll",
-     "kind": "opinion",
-     "published": "2026-08-15T09:00:45+00:00",
-     "summary": "Dallas-Fort Worth International Airport has scrapped a proposal to add Islamic foot-washing stations to two Terminal D restrooms, backing off Friday night after Texas Governor Greg Abbott called the plan illegal and opened a review of every state grant flowing to the airport. &#8220;These ablution facilities appear designed to single out one subset of the population for special treatment based on religion. That is illegal,&#8221; Abbott wrote in a letter to Transportation Secretary Sean Duffy. &#8220;Both airports are government-owned facilities. The federal and state constitutions prohibit governments from facilitating this sort of discrimination. Just as the government cannot favor the secular over the sacred, it also cannot favor one religious view over all others.&#8221; In a separate letter to DFW CEO Christopher McLaughlin, Abbott warned that organizations found to have developed or operated what he called exclusionary religious spaces could lose state grant funding and face further enforcement. Abbott referred both DFW and Houston&#8217;s George Bush Intercontinental Airport (IAH) to the U.S. Department of Transportation for investigation and enforcement, asking the departme"
-    },
-    {
-     "outlet": "foxnews",
-     "title": "DFW Airport scraps controversial Islamic foot-washing station plan as Texas Gov Abbott takes aim",
-     "url": "https://www.foxnews.com/politics/dfw-airport-scraps-controversial-islamic-footwashing-station-plan-texas-gov-abbott-takes-aim",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T00:54:03+00:00",
-     "summary": "FIRST ON FOX: Texas Gov. Greg Abbott on Friday directed a review of state grants to entities operating two major Texas airports over religious accommodations after Dallas Fort Worth International Airport said it would no longer move forward with a proposal to install Islamic washing stations. Abbott said the state will review grants to entities operating DFW and George Bush Intercontinental Airport in Houston for possible revocation and denial of future funding. He also referred both airports to the U.S. Department of Transportation for investigation. \"Government-owned airports cannot favor one religion over all others,\" Abbott wrote on X Friday. \"DFW plans to install Islamic wudu washing facilities are illegal. I've directed a review of all state grants to both airports for possible revocation, and referred DFW &amp; IAH to USDOT for investigation. \"Texas will not allow illegal religious discrimination at taxpayer-funded facilities.\" DALLAS-FORT WORTH AIRPORT TO INSTALL ISLAMIC FOOT WASH STATIONS INSIDE BATHROOMS DFW told Fox News Digital Friday it had been evaluating a proposal to add ablution washing stations on the pre-security side of Terminal D, its international terminal, bu"
-    },
-    {
-     "outlet": "texastribune",
-     "title": "Greg Abbott threatens Dallas, Houston airports\u2019 grant funds over Islamic washing facilities",
-     "url": "https://feeds.texastribune.org/link/16799/17418678/texas-greg-abbott-dfw-iah-airport-islam-ablution-facility-grant",
-     "author": "Ayden Runnels",
-     "kind": "news",
-     "published": "2026-08-15T00:45:20+00:00",
-     "summary": "DFW said late Friday that plans to install the religious washing station had been canceled."
-    },
-    {
-     "outlet": "texastribune",
-     "title": "Texas will audit up to 300 projects, mostly data centers, after Gov. Greg Abbott\u2019s order",
-     "url": "https://feeds.texastribune.org/link/16799/17418589/texas-data-center-approval-pause-ercot-power-grid",
-     "author": "Paul Cobler",
-     "kind": "news",
-     "published": "2026-08-14T22:03:09+00:00",
-     "summary": "The state\u2019s power grid operator had already planned on auditing several data center proposals, but Abbott\u2019s directive reworks the timeline and adds new requirements."
-    },
-    {
-     "outlet": "texastribune",
-     "title": "Limits on certain firearms, silencers lifted for some in Texas after judge\u2019s order takes effect",
-     "url": "https://feeds.texastribune.org/link/16799/17417632/texas-national-firearms-act-ruling-doj-no-emergency-appeal",
-     "author": "Alex Nguyen",
-     "kind": "news",
-     "published": "2026-08-13T23:36:55+00:00",
-     "summary": "The Trump administration declined to immediately appeal a ruling by a federal judge in Lubbock that invalidated parts of the 1934 National Firearms Act."
-    }
-   ]
-  },
-  {
-   "id": "7cd0a05da8",
-   "topic": "Justice & Policing",
-   "summary": "WASHINGTON \u2014 President Donald Trump promised Friday that authorities are on the &#8220;trail&#8221; of vandals who graffitied the World War II Memorial. &#8220;Our beautiful World War II Memorial was just hit by Spray Painting Vandals,&#8221; the president wrote on Truth Social Friday morning. &#8220;THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD WAR II,&#8221; Trump added. &#8220;First the Reflecting Pool, now this. We are on their trail! Where do these animals come from???&#8221; Vandals spray-painted red graffiti on the memorial on Thursday, with the message &#8220;Clean Hands Dirty $,&#8221; and filled the memorial&#8217;s fountain with soap and bubbles. U.S. Park Police are investigating the vandalism. The White House referred The Daily Wire to the Department of the Interior when asked to comment on the matter. In a statement, Interior called the\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Trump targets El-Sayed, WWII Memorial vandalism in string of Truth Social posts",
-   "updated": "2026-08-15T15:50:55+00:00",
+   "headline": "\u2018Devastating\u2019: bulldozers plough through Big Bend national park as Trump\u2019s border work pushes ahead",
+   "updated": "2026-08-14T22:00:00+00:00",
    "outletCount": 5,
    "counts": {
     "corp": 2,
-    "family": 3
+    "family": 1,
+    "nonprofit": 2
    },
    "newsCount": 4,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "thehill",
-     "title": "Trump targets El-Sayed, WWII Memorial vandalism in string of Truth Social posts",
-     "url": "https://thehill.com/homenews/administration/6031396-trump-targets-el-sayed-truth-social/",
-     "author": "Finya Swai",
+     "outlet": "vox",
+     "title": "Why Trump is tearing up a beloved national park",
+     "url": "https://www.vox.com/the-logoff-newsletter-trump/499508/trump-big-bend-national-park-border-wall-security-construction",
+     "author": "Cameron Peters",
      "kind": "news",
-     "published": "2026-08-15T15:50:55+00:00",
-     "summary": "President Trump targeted several Democratic politicians in a series of Truth Social posts while also calling attention to vandalism at the World War II Memorial on Friday evening. Several of the posts focused on Michigan Democratic Senate candidate Abdul El-Sayed, a progressive labeled as \u201ccrazy\u201d in the past by members of the Trump administration. One..."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "VIDEO \u2014 U.S. Attorney Jeanine Pirro Charges Suspect for D.C. WWII Memorial Vandalism: 'A Despicable Attack'",
-     "url": "https://www.breitbart.com/crime/2026/08/15/video-u-s-attorney-jeanine-pirro-charges-suspect-for-d-c-wwii-memorial-vandalism-a-despicable-attack/",
-     "author": "Amy Furr",
-     "kind": "news",
-     "published": "2026-08-15T14:44:15+00:00",
-     "summary": "U.S. Attorney Jeanine Pirro's office has filed charges against the woman accused of vandalizing the World War II Memorial in Washington, DC. The post VIDEO \u2014 U.S. Attorney Jeanine Pirro Charges Suspect for D.C. WWII Memorial Vandalism: &#8216;A Despicable Attack&#8217; appeared first on Breitbart ."
-    },
-    {
-     "outlet": "nyt",
-     "title": "DOJ Charges Kentucky Woman in World War II Memorial Vandalism Case",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/world-war-2-memorial-vandalism.html",
-     "author": "Karoun Demirjian",
-     "kind": "news",
-     "published": "2026-08-14T19:04:23+00:00",
-     "summary": "Two felony charges have been filed against a Kentucky woman after spray paint was seen on the memorial in the capital."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Pirro announces arrest in WWII Memorial vandalism",
-     "url": "https://abcnews.com/Politics/pirro-announces-arrest-wwii-memorial-vandalism/story?id=135642645",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T17:15:04+00:00",
-     "summary": "Pirro said her office filed two felony charges against a woman who allegedly vandalized the WWII Memorial."
+     "published": "2026-08-14T22:00:00+00:00",
+     "summary": "A bulldozer clears a pathway in Big Bend National Park, Texas, on August 12, 2026. | Kaylee Greenlee/Bloomberg via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: Remember President Donald Trump\u2019s first-term border wall? It\u2019s still being built \u2014 through a pristine Texas national park. What\u2019s happening? The Trump administration is preparing to build hundreds of miles of roads through Big Bend National Park in southwest Texas as part of its latest border security project, despite a bipartisan outcry over damage to the beloved park.&nbsp; Starting last week, bulldozers and heavy machinery began to clear land for the construction of about 200 miles of patrol road, new border barriers, and electronic surveillance measures to cover the park\u2019s 118 miles of shared border with Mexico. The construction is proceeding after the administration overrode environmental laws intended to protect places like Big Bend earlier this year. What does a border wall look like in 2026? In this case, \u201cwall\u201d is a bit of a misnome"
     },
     {
      "outlet": "dailywire",
-     "title": "Trump Vows Authorities Will Track Down \u2018Animals\u2019 Who Desecrated World War II Memorial",
-     "url": "https://www.dailywire.com/news/trump-vows-authorities-will-track-down-animals-who-desecrated-world-war-ii-memorial",
-     "author": "Mary Margaret Olohan",
+     "title": "Trump Turns Beloved Rubio Meme Into Birthday Gift",
+     "url": "https://www.dailywire.com/news/trump-turns-beloved-rubio-meme-into-birthday-gift",
+     "author": "Virginia Kruta",
      "kind": "opinion",
-     "published": "2026-08-14T11:08:46+00:00",
-     "summary": "WASHINGTON \u2014 President Donald Trump promised Friday that authorities are on the &#8220;trail&#8221; of vandals who graffitied the World War II Memorial. &#8220;Our beautiful World War II Memorial was just hit by Spray Painting Vandals,&#8221; the president wrote on Truth Social Friday morning. &#8220;THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD WAR II,&#8221; Trump added. &#8220;First the Reflecting Pool, now this. We are on their trail! Where do these animals come from???&#8221; Vandals spray-painted red graffiti on the memorial on Thursday, with the message &#8220;Clean Hands Dirty $,&#8221; and filled the memorial&#8217;s fountain with soap and bubbles. U.S. Park Police are investigating the vandalism. The White House referred The Daily Wire to the Department of the Interior when asked to comment on the matter. In a statement, Interior called the vandalism an &#8220;utter disgrace&#8221; and said the public deserves to know who was responsible. \u201cThe vandalism that occurred is an utter disgrace and will not be tolerated,\u201d an Interior Department spokesperson said in a statement. \u201cThe public should know we will find the person responsible for this disgu"
+     "published": "2026-08-14T19:47:25+00:00",
+     "summary": "President Donald Trump turned a long-running joke into a birthday gift for Secretary of State Marco Rubio, who turned 55 on May 28. Trump has already tasked Rubio with several official jobs within the administration \u2014 which spawned constant speculation whenever a new vacancy appeared \u2014 and a viral meme was born. An Oval Office photo of Rubio slouched on a couch \u2014 wearing an expression that suggests he&#8217;s not thrilled with the way things are going \u2014 became the template for hundreds of potential new jobs for the Secretary of State/Acting National Security Adviser/acting administrator for the U.S. Agency for International Development (USAID)/acting archivist of the National Archives and Records Administration. Trump and other White House staffers capitalized on the popularity of the meme, and put together a collage \u2014 featuring dozens of iterations of the &#8220;Rubio realizing&#8221; meme. The finished product was framed in gold and presented to Rubio for his birthday. The White House made a Rubio Realizing Meme collage for his birthday (May 28), which the president &amp; others signed https://t.co/5oVDfTFaed pic.twitter.com/S2KsnRta3S \u2014 Marc Caputo (@MarcACaputo) August 13, 2026"
+    },
+    {
+     "outlet": "guardian",
+     "title": "\u2018Devastating\u2019: bulldozers plough through Big Bend national park as Trump\u2019s border work pushes ahead",
+     "url": "https://www.theguardian.com/us-news/2026/aug/14/bulldozers-big-bend-national-park-trump",
+     "author": "Roque Planas",
+     "kind": "news",
+     "published": "2026-08-14T19:27:08+00:00",
+     "summary": "Heavy machinery seen operating in famous Santa Elena Canyon amid outcry over new wall infrastructure in beloved Texas park Bulldozers have begun plowing up ground at the mouth of Big Bend national park\u2019s famed Santa Elena Canyon as part of the Trump administration\u2019s multibillion-dollar \u201csmart wall\u201d expansion on the US-Mexico border, according to new footage taken by activists who have been monitoring the site. Tensions have run high since the Trump administration announced plans to erect new border security infrastructure in the roughly 500-mile Big Bend region of south-west Texas, which includes the Lone Star State\u2019s largest and most-visited national park. Continue reading..."
+    },
+    {
+     "outlet": "texastribune",
+     "title": "Lawsuit seeks to stop Big Bend border wall construction",
+     "url": "https://feeds.texastribune.org/link/16799/17418172/texas-big-bend-border-wall-lawsuit-lipan-apache",
+     "author": "Ayden Runnels and Gabby Birenbaum",
+     "kind": "news",
+     "published": "2026-08-14T14:20:18+00:00",
+     "summary": "A tribal nonprofit and an outdoor recreation company filed the federal lawsuit, arguing the work threatens archeological sites and sacred grounds."
+    },
+    {
+     "outlet": "axios",
+     "title": "\"Rubio Realizing\" memes become a White House birthday gift",
+     "url": "https://www.axios.com/2026/08/13/marco-rubio-memes-birthday-gift",
+     "author": "Marc Caputo",
+     "kind": "news",
+     "published": "2026-08-13T22:51:21+00:00",
+     "summary": "Photo: Marc Caputo/Axios Marco Rubio has three official Trump administration jobs and a fourth unofficial title: Viral meme star. He's been featured in countless \"Rubio Realizing\" images doctored to capture his grim reaction to being \"assigned\" more jobs, depending on the news of the day or the crisis du jour in the White House. Why it matters: For his 55th birthday on May 28, White House staffers and President Trump gifted Rubio with a gold-framed collage of their 68 favorite \"Rubio Realizing\" memes. A photo of the gift went viral Wednesday when this Axios reporter posted it on X. Zoom in: For the past 18 months, Rubio memes have featured him as everything from a Kiss band member to a samurai to a \"Bachelorette\" contestant in homage to his roles as secretary of state, national security adviser and chair of the U.S. bid for the World Expo in 2035. The memes are based on a photo from one of the most awkward moments in the Trump White House \u2014 on Feb. 28, 2025, when the president and Vice President Vance excoriated Ukrainian President Volodymyr Zelensky over the war with Russia. As the two U.S. leaders savaged Zelensky, Rubio sat ramrod straight on an Oval Office couch without engagin"
     }
    ]
   },
@@ -1624,8 +1281,8 @@
      "becomes"
     ],
     "indie": [
-     "winds",
-     "strengthens"
+     "strengthens",
+     "winds"
     ]
    },
    "absent": [
@@ -1633,7 +1290,7 @@
     "coop"
    ],
    "headline": "Storm Lala strengthens into a Category 1 hurricane as it nears Hawaii",
-   "updated": "2026-08-15T21:33:25+00:00",
+   "updated": "2026-08-15T22:27:57+00:00",
    "outletCount": 4,
    "counts": {
     "corp": 2,
@@ -1645,22 +1302,22 @@
    "underreported": false,
    "articles": [
     {
-     "outlet": "cbsnews",
-     "title": "Lala becomes Category 1 hurricane as it bears down on Hawaii's Big Island",
-     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T21:33:25+00:00",
-     "summary": "Hurricane Lala is forecast to bring heavy rain and life-threatening flooding to Hawaii this weekend."
-    },
-    {
      "outlet": "abcnews",
      "title": "Lala becomes hurricane as it approaches Hawaii",
      "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
      "author": null,
      "kind": "news",
-     "published": "2026-08-15T21:07:52+00:00",
+     "published": "2026-08-15T22:27:57+00:00",
      "summary": "Lala has strengthened to a Category 1 hurricane as it continues to track through the central Pacific Ocean, approaching the Big Island of Hawaii on Saturday."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Lala becomes Category 1 hurricane as it bears down on Hawaii's Big Island",
+     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T21:33:00+00:00",
+     "summary": "Hurricane Lala is forecast to bring heavy rain and life-threatening flooding to Hawaii this weekend."
     },
     {
      "outlet": "aljazeera",
@@ -1683,62 +1340,122 @@
    ]
   },
   {
-   "id": "80daf3a1d1",
-   "topic": "Culture & Sport",
-   "summary": "St. Louis Cardinals rookie Joshua B\u00e1ez\u2019s first career game in the big leagues was something out of a movie. B\u00e1ez made Major League Baseball history by hitting a home run in each of his first three plate appearances in the Cardinals' game against the Chicago Cubs on Saturday afternoon at Wrigley Field. The 23-year-old wasted no time in his first-ever at bat, as he blasted the first pitch he saw in his major league career 450 feet to dead center field for a two-run homer to give the Cardinals a 3-0 lead. B\u00e1ez pummeled Cubs starter Matt Boyd\u2019s 93-mph fastball and sent the Cardinals\u2019 dugout into a frenzy. The rookie rounded the bases with a smile on his face the entire time. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM His second home run of the day came in the fourth inning, once again off Boyd. B\u00e1ez worked the count full and then hammered Boyd's 78-mph changeup 382 feet into the\u2026",
-   "summaryFrom": "foxnews",
+   "id": "a0ba21d917",
+   "topic": "Politics",
+   "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions\u2026",
+   "summaryFrom": "reason",
    "emphasis": null,
    "absent": [
     "corp",
-    "coop",
-    "pub"
+    "family",
+    "coop"
    ],
-   "headline": "Cardinals rookie Joshua B\u00e1ez makes MLB history with three homers in first three at-bats",
-   "updated": "2026-08-15T21:24:52+00:00",
+   "headline": "Israeli Settler \"Terrorists\" Unjustly Expel West Bank Palestinians From Their Land",
+   "updated": "2026-08-15T22:17:52+00:00",
    "outletCount": 4,
    "counts": {
-    "nonprofit": 1,
-    "family": 3
+    "nonprofit": 3,
+    "pub": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 1,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "reason",
+     "title": "Israeli Settler \"Terrorists\" Unjustly Expel West Bank Palestinians From Their Land",
+     "url": "https://reason.com/volokh/2026/08/15/israeli-settler-terrorists-unjustly-expel-west-bank-palestinians-from-their-land/",
+     "author": "Ilya Somin",
+     "kind": "opinion",
+     "published": "2026-08-15T22:17:52+00:00",
+     "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions are deeply unjust, amounting to ethnic cleansing and gross violations of private property rights. They also highlight broader dangers of ethno-nationalist claims to exclusive control over land. The T imes of Israel (a center-right Israeli publication) has a helpful overview of the recent settler violen"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Palestinians besieged in West Bank village of Qusra fear Israeli settlers will seize their homes",
+     "url": "https://www.pbs.org/newshour/world/palestinians-besieged-in-west-bank-village-of-qusra-fear-israeli-settlers-will-seize-their-homes",
+     "author": "Aref Tufaha, Associated Press",
+     "kind": "news",
+     "published": "2026-08-14T21:43:06+00:00",
+     "summary": "The standoff in Qusra between Palestinian families and Israeli settlers who apparently want to push them out entered a new stage Friday as activists supporting the Palestinians marched toward the besieged homes to replenish their dwindling food and water supply."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+     "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T17:03:17+00:00",
+     "summary": "Two families have been trapped in their homes in the occupied West Bank for several days."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
+     "url": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
+     "author": "Emma Graham-Harrison in Jerusalem",
+     "kind": "news",
+     "published": "2026-08-13T18:54:09+00:00",
+     "summary": "Former PM of Israel calls events \u2018concerted and meticulous attempt at ethnic cleansing\u2019 against Palestinians Israeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top Israeli commander personally promised he would end a violent settler campaign to drive them out. Israeli soldiers also took over eight other homes in Qusra early on Thursday, telling the village\u2019s mayor, Abdul Azim Wadi, that the buildings were needed for a days-long operation to remove the settlers. They later relinquished six. Settlers still roam the village. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "4922345dbb",
+   "topic": "Health",
+   "summary": "The Ebola outbreak in the Democratic Republic of Congo spread to a sixth province as the overall death toll surpassed 2,100 and cases topped 4,500. Experts say the virus may have been transmitted undetected for months, while health workers have struggled to contain the outbreak with poor medical supplies and no approved vaccine for the new strain \u2014 though several are in the works. The head of the World Health Organization this week warned that the current outbreak threatens to be the biggest ever, with authorities playing catch-up to the disease after \u201c a big head start. \u201d During the previous deadliest outbreak, which killed 11,000 people between 2014 and 2016, authorities had recorded 755 cases at the same point . \u2014 Jeronimo Gonzalez",
+   "summaryFrom": "semafor",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Why is the latest Ebola outbreak worsening?",
+   "updated": "2026-08-15T22:00:42+00:00",
+   "outletCount": 4,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 2,
+    "family": 1
    },
    "newsCount": 4,
    "opinionCount": 0,
-   "underreported": false,
+   "underreported": true,
    "articles": [
     {
-     "outlet": "guardian",
-     "title": "Cardinals rookie Joshua B\u00e1ez makes MLB history with three homers in first three at-bats",
-     "url": "https://www.theguardian.com/sport/2026/aug/15/joshua-baez-three-home-runs-cardinals-cubs-mlb-record",
-     "author": "Agencies",
-     "kind": "news",
-     "published": "2026-08-15T21:24:52+00:00",
-     "summary": "23-year-old hits home run on first pitch in majors B\u00e1ez drives in five during 8-4 victory over Cubs Rookie was called up from Triple-A earlier in day Joshua B\u00e1ez became the first player to hit three home runs in his first three at-bats in the major leagues, leading the St Louis Cardinals to an 8-4 victory over the Chicago Cubs on Saturday. The 23-year-old left fielder, called up from Triple-A Memphis earlier in the day, hit the first pitch he saw into the Wrigley Field bleachers, then homered in his next two at-bats. He also drove in five runs. Continue reading..."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Cardinals rookie makes MLB history by hitting a home run in each of his first three career plate appearances",
-     "url": "https://www.foxnews.com/sports/cardinals-rookie-makes-mlb-history-hitting-home-run-first-three-career-plate-appearances",
+     "outlet": "aljazeera",
+     "title": "Why is the latest Ebola outbreak worsening?",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-15T20:57:27+00:00",
-     "summary": "St. Louis Cardinals rookie Joshua B\u00e1ez\u2019s first career game in the big leagues was something out of a movie. B\u00e1ez made Major League Baseball history by hitting a home run in each of his first three plate appearances in the Cardinals' game against the Chicago Cubs on Saturday afternoon at Wrigley Field. The 23-year-old wasted no time in his first-ever at bat, as he blasted the first pitch he saw in his major league career 450 feet to dead center field for a two-run homer to give the Cardinals a 3-0 lead. B\u00e1ez pummeled Cubs starter Matt Boyd\u2019s 93-mph fastball and sent the Cardinals\u2019 dugout into a frenzy. The rookie rounded the bases with a smile on his face the entire time. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM His second home run of the day came in the fourth inning, once again off Boyd. B\u00e1ez worked the count full and then hammered Boyd's 78-mph changeup 382 feet into the left-field seats to give the Cardinals a 4-3 lead. B\u00e1ez's third home run also came off Boyd, this time off an 83-mph slider on the outside of the plate. The electrifying rookie hammered the ball 368 feet into the right-field seats for a two-run home run, giving the Cardinals a 6-3 lead. The Cardinals' d"
+     "published": "2026-08-15T22:00:42+00:00",
+     "summary": "Virus spreading in DRC faster than containment efforts."
     },
     {
-     "outlet": "nypost",
-     "title": "Cardinals\u2019 Joshua Baez makes history with three homers in first three MLB at-bats in eye-popping debut",
-     "url": "https://nypost.com/2026/08/15/sports/cardinals-joshua-baez-makes-mlb-history-with-three-homers-in-debut/",
-     "author": "Andrew Crane",
+     "outlet": "pbsnewshour",
+     "title": "Congo Ebola outbreak on track to become deadliest in history",
+     "url": "https://www.pbs.org/newshour/show/congo-ebola-outbreak-on-track-to-become-deadliest-in-history",
+     "author": "Solveig Rennan Sandbulte",
      "kind": "news",
-     "published": "2026-08-15T20:34:25+00:00",
-     "summary": "Talk about a first impression."
+     "published": "2026-08-14T22:45:49+00:00",
+     "summary": "The Ebola outbreak in the Democratic Republic of Congo continues to worsen, with the number of confirmed cases climbing to over 4,600. At least 2,100 people have died, a death toll that was reached almost three times faster than the outbreak over a decade ago. William Brangham discussed the crisis with epidemiologist Dr. Anne Rimoin, director of the Center for Global Health Security at UCLA."
     },
     {
-     "outlet": "forbes",
-     "title": "Cardinals Cut Rookie Infielder Amid Brutal Stretch At The Plate",
-     "url": "https://www.forbes.com/sites/peterchawaga/2026/08/15/cardinals-cut-rookie-infielder-amid-brutal-stretch-at-the-plate/",
-     "author": "Peter Chawaga, Contributor",
+     "outlet": "semafor",
+     "title": "Ebola outbreak spreads to new province in DR Congo",
+     "url": "https://www.semafor.com/article/08/14/2026/ebola-outbreak-spreads-to-new-province-in-dr-congo",
+     "author": "Jeronimo Gonzalez",
      "kind": "news",
-     "published": "2026-08-15T11:30:00+00:00",
-     "summary": "The St. Louis Cardinals made a difficult move with a young third baseman after a 0-for-27 start to the season."
+     "published": "2026-08-14T10:48:50+00:00",
+     "summary": "The Ebola outbreak in the Democratic Republic of Congo spread to a sixth province as the overall death toll surpassed 2,100 and cases topped 4,500. Experts say the virus may have been transmitted undetected for months, while health workers have struggled to contain the outbreak with poor medical supplies and no approved vaccine for the new strain \u2014 though several are in the works. The head of the World Health Organization this week warned that the current outbreak threatens to be the biggest ever, with authorities playing catch-up to the disease after \u201c a big head start. \u201d During the previous deadliest outbreak, which killed 11,000 people between 2014 and 2016, authorities had recorded 755 cases at the same point . \u2014 Jeronimo Gonzalez"
+    },
+    {
+     "outlet": "guardian",
+     "title": "DRC\u2019s fast-growing Ebola outbreak spreads to sixth province",
+     "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+     "author": "Rachel Savage and agencies",
+     "kind": "news",
+     "published": "2026-08-13T15:17:13+00:00",
+     "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago. The current outbreak has killed more than 2,100 people out of more than 4,500 cases, according to the latest government figures released on Tuesday. At the same point in the 2014-16 outbreak in west Africa, the previous most deadly outbreak, 755 cases had been recorded, according to WHO data. Continue reading..."
     }
    ]
   },
@@ -1937,62 +1654,154 @@
    ]
   },
   {
-   "id": "135c59537c",
-   "topic": "Health",
-   "summary": "The Ebola outbreak in the Democratic Republic of Congo spread to a sixth province as the overall death toll surpassed 2,100 and cases topped 4,500. Experts say the virus may have been transmitted undetected for months, while health workers have struggled to contain the outbreak with poor medical supplies and no approved vaccine for the new strain \u2014 though several are in the works. The head of the World Health Organization this week warned that the current outbreak threatens to be the biggest ever, with authorities playing catch-up to the disease after \u201c a big head start. \u201d During the previous deadliest outbreak, which killed 11,000 people between 2014 and 2016, authorities had recorded 755 cases at the same point . \u2014 Jeronimo Gonzalez",
-   "summaryFrom": "semafor",
-   "emphasis": null,
+   "id": "e6f0e6556f",
+   "topic": "Politics",
+   "summary": "Dallas-Fort Worth International Airport has scrapped a proposal to add Islamic foot-washing stations to two Terminal D restrooms, backing off Friday night after Texas Governor Greg Abbott called the plan illegal and opened a review of every state grant flowing to the airport. &#8220;These ablution facilities appear designed to single out one subset of the population for special treatment based on religion. That is illegal,&#8221; Abbott wrote in a letter to Transportation Secretary Sean Duffy. &#8220;Both airports are government-owned facilities. The federal and state constitutions prohibit governments from facilitating this sort of discrimination. Just as the government cannot favor the secular over the sacred, it also cannot favor one religious view over all others.&#8221; In a separate letter to DFW CEO Christopher McLaughlin, Abbott warned that organizations found to have developed\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 3,
+    "big": [
+     "stations",
+     "foot-washing",
+     "international",
+     "airport",
+     "worth",
+     "scrapped"
+    ],
+    "indie": [
+     "order"
+    ]
+   },
    "absent": [
     "corp",
-    "coop"
+    "coop",
+    "pub"
    ],
-   "headline": "Ebola outbreak in DR Congo: One death every 30 minutes",
-   "updated": "2026-08-15T14:46:49+00:00",
+   "headline": "Greg Abbott threatens Dallas, Houston airports\u2019 grant funds over Islamic washing facilities",
+   "updated": "2026-08-15T16:59:40+00:00",
    "outletCount": 4,
    "counts": {
-    "pub": 1,
-    "nonprofit": 2,
-    "family": 1
+    "family": 3,
+    "nonprofit": 3
    },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": true,
+   "newsCount": 5,
+   "opinionCount": 1,
+   "underreported": false,
    "articles": [
     {
-     "outlet": "france24",
-     "title": "Ebola outbreak in DR Congo: One death every 30 minutes",
-     "url": "https://www.france24.com/en/ebola-outbreak-in-dr-congo-one-death-every-30-minutes",
-     "author": "FRANCE24",
+     "outlet": "breitbart",
+     "title": "Texas: DFW Airport Backs Off Plan for Islamic Foot-Washing Stations as Gov. Greg Abbott Orders Investigation",
+     "url": "https://www.breitbart.com/faith/2026/08/15/texas-dfw-airport-backs-off-plan-for-islamic-foot-washing-stations-as-gov-greg-abbott-orders-investigation/",
+     "author": "Amy Furr",
      "kind": "news",
-     "published": "2026-08-15T14:46:49+00:00",
-     "summary": "The Ebola outbreak in eastern DR Congo is now the second-largest on record, with more than 2,100 deaths and the virus spreading to a sixth province. Health workers are struggling to contain the rapidly growing outbreak amid community resistance, misinformation, unpaid staff strikes and threats from rebel groups."
+     "published": "2026-08-15T16:59:40+00:00",
+     "summary": "Dallas Fort Worth International Airport (DFW) in Texas has scrapped plans to install Islamic washing stations as Gov. Greg Abbott (R) has ordered an investigation into the matter. The post Texas: DFW Airport Backs Off Plan for Islamic Foot-Washing Stations as Gov. Greg Abbott Orders Investigation appeared first on Breitbart ."
     },
     {
-     "outlet": "pbsnewshour",
-     "title": "Congo Ebola outbreak on track to become deadliest in history",
-     "url": "https://www.pbs.org/newshour/show/congo-ebola-outbreak-on-track-to-become-deadliest-in-history",
-     "author": "Solveig Rennan Sandbulte",
-     "kind": "news",
-     "published": "2026-08-14T22:45:49+00:00",
-     "summary": "The Ebola outbreak in the Democratic Republic of Congo continues to worsen, with the number of confirmed cases climbing to over 4,600. At least 2,100 people have died, a death toll that was reached almost three times faster than the outbreak over a decade ago. William Brangham discussed the crisis with epidemiologist Dr. Anne Rimoin, director of the Center for Global Health Security at UCLA."
+     "outlet": "dailywire",
+     "title": "DFW Airport Scraps Islamic Foot-Washing Stations After Governor Threatens Its Funding",
+     "url": "https://www.dailywire.com/news/dfw-airport-scraps-islamic-foot-washing-stations-after-governor-threatens-its-funding",
+     "author": "Brecca Stoll",
+     "kind": "opinion",
+     "published": "2026-08-15T09:00:45+00:00",
+     "summary": "Dallas-Fort Worth International Airport has scrapped a proposal to add Islamic foot-washing stations to two Terminal D restrooms, backing off Friday night after Texas Governor Greg Abbott called the plan illegal and opened a review of every state grant flowing to the airport. &#8220;These ablution facilities appear designed to single out one subset of the population for special treatment based on religion. That is illegal,&#8221; Abbott wrote in a letter to Transportation Secretary Sean Duffy. &#8220;Both airports are government-owned facilities. The federal and state constitutions prohibit governments from facilitating this sort of discrimination. Just as the government cannot favor the secular over the sacred, it also cannot favor one religious view over all others.&#8221; In a separate letter to DFW CEO Christopher McLaughlin, Abbott warned that organizations found to have developed or operated what he called exclusionary religious spaces could lose state grant funding and face further enforcement. Abbott referred both DFW and Houston&#8217;s George Bush Intercontinental Airport (IAH) to the U.S. Department of Transportation for investigation and enforcement, asking the departme"
     },
     {
-     "outlet": "semafor",
-     "title": "Ebola outbreak spreads to new province in DR Congo",
-     "url": "https://www.semafor.com/article/08/14/2026/ebola-outbreak-spreads-to-new-province-in-dr-congo",
-     "author": "Jeronimo Gonzalez",
+     "outlet": "foxnews",
+     "title": "DFW Airport scraps controversial Islamic foot-washing station plan as Texas Gov Abbott takes aim",
+     "url": "https://www.foxnews.com/politics/dfw-airport-scraps-controversial-islamic-footwashing-station-plan-texas-gov-abbott-takes-aim",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-14T10:48:50+00:00",
-     "summary": "The Ebola outbreak in the Democratic Republic of Congo spread to a sixth province as the overall death toll surpassed 2,100 and cases topped 4,500. Experts say the virus may have been transmitted undetected for months, while health workers have struggled to contain the outbreak with poor medical supplies and no approved vaccine for the new strain \u2014 though several are in the works. The head of the World Health Organization this week warned that the current outbreak threatens to be the biggest ever, with authorities playing catch-up to the disease after \u201c a big head start. \u201d During the previous deadliest outbreak, which killed 11,000 people between 2014 and 2016, authorities had recorded 755 cases at the same point . \u2014 Jeronimo Gonzalez"
+     "published": "2026-08-15T00:54:03+00:00",
+     "summary": "FIRST ON FOX: Texas Gov. Greg Abbott on Friday directed a review of state grants to entities operating two major Texas airports over religious accommodations after Dallas Fort Worth International Airport said it would no longer move forward with a proposal to install Islamic washing stations. Abbott said the state will review grants to entities operating DFW and George Bush Intercontinental Airport in Houston for possible revocation and denial of future funding. He also referred both airports to the U.S. Department of Transportation for investigation. \"Government-owned airports cannot favor one religion over all others,\" Abbott wrote on X Friday. \"DFW plans to install Islamic wudu washing facilities are illegal. I've directed a review of all state grants to both airports for possible revocation, and referred DFW &amp; IAH to USDOT for investigation. \"Texas will not allow illegal religious discrimination at taxpayer-funded facilities.\" DALLAS-FORT WORTH AIRPORT TO INSTALL ISLAMIC FOOT WASH STATIONS INSIDE BATHROOMS DFW told Fox News Digital Friday it had been evaluating a proposal to add ablution washing stations on the pre-security side of Terminal D, its international terminal, bu"
     },
     {
-     "outlet": "guardian",
-     "title": "DRC\u2019s fast-growing Ebola outbreak spreads to sixth province",
-     "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-     "author": "Rachel Savage and agencies",
+     "outlet": "texastribune",
+     "title": "Greg Abbott threatens Dallas, Houston airports\u2019 grant funds over Islamic washing facilities",
+     "url": "https://feeds.texastribune.org/link/16799/17418678/texas-greg-abbott-dfw-iah-airport-islam-ablution-facility-grant",
+     "author": "Ayden Runnels",
      "kind": "news",
-     "published": "2026-08-13T15:17:13+00:00",
-     "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago. The current outbreak has killed more than 2,100 people out of more than 4,500 cases, according to the latest government figures released on Tuesday. At the same point in the 2014-16 outbreak in west Africa, the previous most deadly outbreak, 755 cases had been recorded, according to WHO data. Continue reading..."
+     "published": "2026-08-15T00:45:20+00:00",
+     "summary": "DFW said late Friday that plans to install the religious washing station had been canceled."
+    },
+    {
+     "outlet": "texastribune",
+     "title": "Texas will audit up to 300 projects, mostly data centers, after Gov. Greg Abbott\u2019s order",
+     "url": "https://feeds.texastribune.org/link/16799/17418589/texas-data-center-approval-pause-ercot-power-grid",
+     "author": "Paul Cobler",
+     "kind": "news",
+     "published": "2026-08-14T22:03:09+00:00",
+     "summary": "The state\u2019s power grid operator had already planned on auditing several data center proposals, but Abbott\u2019s directive reworks the timeline and adds new requirements."
+    },
+    {
+     "outlet": "texastribune",
+     "title": "Limits on certain firearms, silencers lifted for some in Texas after judge\u2019s order takes effect",
+     "url": "https://feeds.texastribune.org/link/16799/17417632/texas-national-firearms-act-ruling-doj-no-emergency-appeal",
+     "author": "Alex Nguyen",
+     "kind": "news",
+     "published": "2026-08-13T23:36:55+00:00",
+     "summary": "The Trump administration declined to immediately appeal a ruling by a federal judge in Lubbock that invalidated parts of the 1934 National Firearms Act."
+    }
+   ]
+  },
+  {
+   "id": "2f0df6930f",
+   "topic": "Justice & Policing",
+   "summary": "WASHINGTON \u2014 President Donald Trump promised Friday that authorities are on the &#8220;trail&#8221; of vandals who graffitied the World War II Memorial. &#8220;Our beautiful World War II Memorial was just hit by Spray Painting Vandals,&#8221; the president wrote on Truth Social Friday morning. &#8220;THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD WAR II,&#8221; Trump added. &#8220;First the Reflecting Pool, now this. We are on their trail! Where do these animals come from???&#8221; Vandals spray-painted red graffiti on the memorial on Thursday, with the message &#8220;Clean Hands Dirty $,&#8221; and filled the memorial&#8217;s fountain with soap and bubbles. U.S. Park Police are investigating the vandalism. The White House referred The Daily Wire to the Department of the Interior when asked to comment on the matter. In a statement, Interior called the\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "VIDEO \u2014 U.S. Attorney Jeanine Pirro Charges Suspect for D.C. WWII Memorial Vandalism: 'A Despicable Attack'",
+   "updated": "2026-08-15T14:44:15+00:00",
+   "outletCount": 4,
+   "counts": {
+    "family": 3,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "VIDEO \u2014 U.S. Attorney Jeanine Pirro Charges Suspect for D.C. WWII Memorial Vandalism: 'A Despicable Attack'",
+     "url": "https://www.breitbart.com/crime/2026/08/15/video-u-s-attorney-jeanine-pirro-charges-suspect-for-d-c-wwii-memorial-vandalism-a-despicable-attack/",
+     "author": "Amy Furr",
+     "kind": "news",
+     "published": "2026-08-15T14:44:15+00:00",
+     "summary": "U.S. Attorney Jeanine Pirro's office has filed charges against the woman accused of vandalizing the World War II Memorial in Washington, DC. The post VIDEO \u2014 U.S. Attorney Jeanine Pirro Charges Suspect for D.C. WWII Memorial Vandalism: &#8216;A Despicable Attack&#8217; appeared first on Breitbart ."
+    },
+    {
+     "outlet": "nyt",
+     "title": "DOJ Charges Kentucky Woman in World War II Memorial Vandalism Case",
+     "url": "https://www.nytimes.com/2026/08/14/us/politics/world-war-2-memorial-vandalism.html",
+     "author": "Karoun Demirjian",
+     "kind": "news",
+     "published": "2026-08-14T19:04:23+00:00",
+     "summary": "Two felony charges have been filed against a Kentucky woman after spray paint was seen on the memorial in the capital."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Pirro announces arrest in WWII Memorial vandalism",
+     "url": "https://abcnews.com/Politics/pirro-announces-arrest-wwii-memorial-vandalism/story?id=135642645",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T17:15:04+00:00",
+     "summary": "Pirro said her office filed two felony charges against a woman who allegedly vandalized the WWII Memorial."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Trump Vows Authorities Will Track Down \u2018Animals\u2019 Who Desecrated World War II Memorial",
+     "url": "https://www.dailywire.com/news/trump-vows-authorities-will-track-down-animals-who-desecrated-world-war-ii-memorial",
+     "author": "Mary Margaret Olohan",
+     "kind": "opinion",
+     "published": "2026-08-14T11:08:46+00:00",
+     "summary": "WASHINGTON \u2014 President Donald Trump promised Friday that authorities are on the &#8220;trail&#8221; of vandals who graffitied the World War II Memorial. &#8220;Our beautiful World War II Memorial was just hit by Spray Painting Vandals,&#8221; the president wrote on Truth Social Friday morning. &#8220;THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD WAR II,&#8221; Trump added. &#8220;First the Reflecting Pool, now this. We are on their trail! Where do these animals come from???&#8221; Vandals spray-painted red graffiti on the memorial on Thursday, with the message &#8220;Clean Hands Dirty $,&#8221; and filled the memorial&#8217;s fountain with soap and bubbles. U.S. Park Police are investigating the vandalism. The White House referred The Daily Wire to the Department of the Interior when asked to comment on the matter. In a statement, Interior called the vandalism an &#8220;utter disgrace&#8221; and said the public deserves to know who was responsible. \u201cThe vandalism that occurred is an utter disgrace and will not be tolerated,\u201d an Interior Department spokesperson said in a statement. \u201cThe public should know we will find the person responsible for this disgu"
     }
    ]
   },
@@ -2065,74 +1874,6 @@
    ]
   },
   {
-   "id": "166810adc6",
-   "topic": "Politics",
-   "summary": "A bulldozer clears a pathway in Big Bend National Park, Texas, on August 12, 2026. | Kaylee Greenlee/Bloomberg via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: Remember President Donald Trump\u2019s first-term border wall? It\u2019s still being built \u2014 through a pristine Texas national park. What\u2019s happening? The Trump administration is preparing to build hundreds of miles of roads through Big Bend National Park in southwest Texas as part of its latest border security project, despite a bipartisan outcry over damage to the beloved park.&nbsp; Starting last week, bulldozers and heavy machinery began to clear land for the construction of about 200 miles of patrol road, new border barriers, and electronic\u2026",
-   "summaryFrom": "vox",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [],
-    "indie": [
-     "work",
-     "wall"
-    ]
-   },
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "\u2018Devastating\u2019: bulldozers plough through Big Bend national park as Trump\u2019s border work pushes ahead",
-   "updated": "2026-08-15T13:06:47+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 1,
-    "corp": 1,
-    "nonprofit": 2
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "What Is Happening at the Border in Big Bend National Park?",
-     "url": "https://www.nytimes.com/2026/08/15/us/border-big-bend-texas.html",
-     "author": "J. David Goodman",
-     "kind": "news",
-     "published": "2026-08-15T13:06:47+00:00",
-     "summary": "Over the objections of environmentalists, local sheriffs and some state leaders, the Trump administration appears to be moving ahead with border infrastructure in one of Texas\u2019 most beloved parks."
-    },
-    {
-     "outlet": "vox",
-     "title": "Why Trump is tearing up a beloved national park",
-     "url": "https://www.vox.com/the-logoff-newsletter-trump/499508/trump-big-bend-national-park-border-wall-security-construction",
-     "author": "Cameron Peters",
-     "kind": "news",
-     "published": "2026-08-14T22:00:00+00:00",
-     "summary": "A bulldozer clears a pathway in Big Bend National Park, Texas, on August 12, 2026. | Kaylee Greenlee/Bloomberg via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: Remember President Donald Trump\u2019s first-term border wall? It\u2019s still being built \u2014 through a pristine Texas national park. What\u2019s happening? The Trump administration is preparing to build hundreds of miles of roads through Big Bend National Park in southwest Texas as part of its latest border security project, despite a bipartisan outcry over damage to the beloved park.&nbsp; Starting last week, bulldozers and heavy machinery began to clear land for the construction of about 200 miles of patrol road, new border barriers, and electronic surveillance measures to cover the park\u2019s 118 miles of shared border with Mexico. The construction is proceeding after the administration overrode environmental laws intended to protect places like Big Bend earlier this year. What does a border wall look like in 2026? In this case, \u201cwall\u201d is a bit of a misnome"
-    },
-    {
-     "outlet": "guardian",
-     "title": "\u2018Devastating\u2019: bulldozers plough through Big Bend national park as Trump\u2019s border work pushes ahead",
-     "url": "https://www.theguardian.com/us-news/2026/aug/14/bulldozers-big-bend-national-park-trump",
-     "author": "Roque Planas",
-     "kind": "news",
-     "published": "2026-08-14T19:27:08+00:00",
-     "summary": "Heavy machinery seen operating in famous Santa Elena Canyon amid outcry over new wall infrastructure in beloved Texas park Bulldozers have begun plowing up ground at the mouth of Big Bend national park\u2019s famed Santa Elena Canyon as part of the Trump administration\u2019s multibillion-dollar \u201csmart wall\u201d expansion on the US-Mexico border, according to new footage taken by activists who have been monitoring the site. Tensions have run high since the Trump administration announced plans to erect new border security infrastructure in the roughly 500-mile Big Bend region of south-west Texas, which includes the Lone Star State\u2019s largest and most-visited national park. Continue reading..."
-    },
-    {
-     "outlet": "texastribune",
-     "title": "Lawsuit seeks to stop Big Bend border wall construction",
-     "url": "https://feeds.texastribune.org/link/16799/17418172/texas-big-bend-border-wall-lawsuit-lipan-apache",
-     "author": "Ayden Runnels and Gabby Birenbaum",
-     "kind": "news",
-     "published": "2026-08-14T14:20:18+00:00",
-     "summary": "A tribal nonprofit and an outdoor recreation company filed the federal lawsuit, arguing the work threatens archeological sites and sacred grounds."
-    }
-   ]
-  },
-  {
    "id": "623022e5fd",
    "topic": "Other",
    "summary": "An American missionary held in captivity in Niger for nine months will soon reunite with his family. Christian missionary pilot Kevin Rideout is free and safe with American officials after his kidnapping last year, his mission organization said Friday. It is not yet known how he escaped captivity or what group was holding him, but Islamist terror groups run rampant in Niger. Rideout, a father of four, was working with the Evangelical organization Serving in Mission (SIM) when he was kidnapped from Niamey, Niger, on October 21, 2025. \u201cWe are grateful to confirm that our good friend and brother in Christ, Kevin Rideout, has been released after over nine months in captivity,\u201d the organization said in a statement. \u201cKevin is in good health in the care of US officials. He will soon be reunited with Krista [Rideout\u2019s wife], his children, and his extended family.\u201d President Donald Trump\u2026",
@@ -2193,6 +1934,159 @@
    ]
   },
   {
+   "id": "c4ba65be80",
+   "topic": "Justice & Policing",
+   "summary": "Former U.S. Sen. Kyrsten Sinema testified that she repeatedly had sex with her then-married security guard while she was in office representing Arizona, according to federal court filings. Matthew Ammel's ex-wife, Heather Ammel, is suing the Democrat-turned-independent, who left office at the beginning of last year, for allegedly breaking up her 14-year marriage. Heather Ammel sued Sinema in a North Carolina court under the state\u2019s alienation-of-affection law. Sinema's legal team moved the case to federal court, then sought dismissal there, arguing her relationship with Matthew Ammel occurred outside North Carolina and that the federal court lacked personal jurisdiction over her. Sinema, who is unmarried, said in a July 31 deposition that she first had sex with Ammel around Memorial Day 2024. UTAH JUSTICE ALLEGEDLY SENT \u2018INAPPROPRIATE\u2019 TEXTS TO LAWYER IN KEY REDISTRICTING CASE,\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Ex-Senator Kyrsten Sinema Details Affair With Bodyguard",
+   "updated": "2026-08-15T22:31:32+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "family": 2
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "Ex-Senator Kyrsten Sinema Details Affair With Bodyguard",
+     "url": "https://www.newsweek.com/ex-senator-kyrsten-sinema-details-affair-with-bodyguard-12327831",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T22:31:32+00:00",
+     "summary": "The case stems from a lawsuit filed by Heather Ammel, accusing Sinema of helping break up her 14-year marriage to Matthew Ammel."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Court filings reveal Kyrsten Sinema had sex multiple times with married bodyguard while serving as senator",
+     "url": "https://www.foxnews.com/politics/court-filings-reveal-kyrsten-sinema-sex-multiple-times-married-bodyguard-serving-senator",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T17:44:14+00:00",
+     "summary": "Former U.S. Sen. Kyrsten Sinema testified that she repeatedly had sex with her then-married security guard while she was in office representing Arizona, according to federal court filings. Matthew Ammel's ex-wife, Heather Ammel, is suing the Democrat-turned-independent, who left office at the beginning of last year, for allegedly breaking up her 14-year marriage. Heather Ammel sued Sinema in a North Carolina court under the state\u2019s alienation-of-affection law. Sinema's legal team moved the case to federal court, then sought dismissal there, arguing her relationship with Matthew Ammel occurred outside North Carolina and that the federal court lacked personal jurisdiction over her. Sinema, who is unmarried, said in a July 31 deposition that she first had sex with Ammel around Memorial Day 2024. UTAH JUSTICE ALLEGEDLY SENT \u2018INAPPROPRIATE\u2019 TEXTS TO LAWYER IN KEY REDISTRICTING CASE, OFFICIALS LAUNCH PROBE \"We were staying at an Airbnb in Napa, California. We were outside. Matt kissed me. We went inside and had sex,\" Sinema said in her deposition, which took place at a law office in Raleigh. Sinema said she and Ammel were staying at the property with her friends Penny and Grant Croissant"
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Kyrsten Sinema Details Affair with Bodyguard in Legal Fight with His Ex-Wife: 'We Went Inside and Had Sex'",
+     "url": "https://www.breitbart.com/politics/2026/08/15/kyrsten-sinema-details-affair-with-bodyguard-in-legal-fight-with-his-ex-wife-we-went-inside-and-had-sex/",
+     "author": "Amy Furr",
+     "kind": "news",
+     "published": "2026-08-15T17:30:05+00:00",
+     "summary": "Former Democrat-turned-Independent Arizona senator Kyrsten Sinema has been open in court about her sexual relationship with a former bodyguard who is now her boyfriend. The post Kyrsten Sinema Details Affair with Bodyguard in Legal Fight with His Ex-Wife: &#8216;We Went Inside and Had Sex&#8217; appeared first on Breitbart ."
+    }
+   ]
+  },
+  {
+   "id": "f5ca3f92cb",
+   "topic": "Other",
+   "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to the epicentre, because roads were blocked by landslides and communications disrupted. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Rescuers search for survivors of powerful Indonesia earthquake",
+   "updated": "2026-08-15T21:49:12+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+     "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T21:49:12+00:00",
+     "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Powerful earthquake kills dozens in eastern Indonesia",
+     "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+     "author": "William Christou and agencies",
+     "kind": "news",
+     "published": "2026-08-15T15:34:38+00:00",
+     "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to the epicentre, because roads were blocked by landslides and communications disrupted. Continue reading..."
+    },
+    {
+     "outlet": "dw",
+     "title": "Indonesia: Dozens dead after earthquake off Flores island",
+     "url": "https://www.dw.com/en/indonesia-dozens-dead-after-earthquake-off-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T23:45:00+00:00",
+     "summary": "At least 47 people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftershocks. A tsunami warning has been lifted."
+    }
+   ]
+  },
+  {
+   "id": "80daf3a1d1",
+   "topic": "Culture & Sport",
+   "summary": "St. Louis Cardinals rookie Joshua B\u00e1ez\u2019s first career game in the big leagues was something out of a movie. B\u00e1ez made Major League Baseball history by hitting a home run in each of his first three plate appearances in the Cardinals' game against the Chicago Cubs on Saturday afternoon at Wrigley Field. The 23-year-old wasted no time in his first-ever at bat, as he blasted the first pitch he saw in his major league career 450 feet to dead center field for a two-run homer to give the Cardinals a 3-0 lead. B\u00e1ez pummeled Cubs starter Matt Boyd\u2019s 93-mph fastball and sent the Cardinals\u2019 dugout into a frenzy. The rookie rounded the bases with a smile on his face the entire time. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM His second home run of the day came in the fourth inning, once again off Boyd. B\u00e1ez worked the count full and then hammered Boyd's 78-mph changeup 382 feet into the\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Cardinals rookie Joshua B\u00e1ez makes MLB history with three homers in first three at-bats",
+   "updated": "2026-08-15T21:24:52+00:00",
+   "outletCount": 3,
+   "counts": {
+    "nonprofit": 1,
+    "family": 2
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Cardinals rookie Joshua B\u00e1ez makes MLB history with three homers in first three at-bats",
+     "url": "https://www.theguardian.com/sport/2026/aug/15/joshua-baez-three-home-runs-cardinals-cubs-mlb-record",
+     "author": "Agencies",
+     "kind": "news",
+     "published": "2026-08-15T21:24:52+00:00",
+     "summary": "23-year-old hits home run on first pitch in majors B\u00e1ez drives in five during 8-4 victory over Cubs Rookie was called up from Triple-A earlier in day Joshua B\u00e1ez became the first player to hit three home runs in his first three at-bats in the major leagues, leading the St Louis Cardinals to an 8-4 victory over the Chicago Cubs on Saturday. The 23-year-old left fielder, called up from Triple-A Memphis earlier in the day, hit the first pitch he saw into the Wrigley Field bleachers, then homered in his next two at-bats. He also drove in five runs. Continue reading..."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Cardinals rookie makes MLB history by hitting a home run in each of his first three career plate appearances",
+     "url": "https://www.foxnews.com/sports/cardinals-rookie-makes-mlb-history-hitting-home-run-first-three-career-plate-appearances",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T20:57:27+00:00",
+     "summary": "St. Louis Cardinals rookie Joshua B\u00e1ez\u2019s first career game in the big leagues was something out of a movie. B\u00e1ez made Major League Baseball history by hitting a home run in each of his first three plate appearances in the Cardinals' game against the Chicago Cubs on Saturday afternoon at Wrigley Field. The 23-year-old wasted no time in his first-ever at bat, as he blasted the first pitch he saw in his major league career 450 feet to dead center field for a two-run homer to give the Cardinals a 3-0 lead. B\u00e1ez pummeled Cubs starter Matt Boyd\u2019s 93-mph fastball and sent the Cardinals\u2019 dugout into a frenzy. The rookie rounded the bases with a smile on his face the entire time. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM His second home run of the day came in the fourth inning, once again off Boyd. B\u00e1ez worked the count full and then hammered Boyd's 78-mph changeup 382 feet into the left-field seats to give the Cardinals a 4-3 lead. B\u00e1ez's third home run also came off Boyd, this time off an 83-mph slider on the outside of the plate. The electrifying rookie hammered the ball 368 feet into the right-field seats for a two-run home run, giving the Cardinals a 6-3 lead. The Cardinals' d"
+    },
+    {
+     "outlet": "forbes",
+     "title": "Cardinals Cut Rookie Infielder Amid Brutal Stretch At The Plate",
+     "url": "https://www.forbes.com/sites/peterchawaga/2026/08/15/cardinals-cut-rookie-infielder-amid-brutal-stretch-at-the-plate/",
+     "author": "Peter Chawaga, Contributor",
+     "kind": "news",
+     "published": "2026-08-15T11:30:00+00:00",
+     "summary": "The St. Louis Cardinals made a difficult move with a young third baseman after a 0-for-27 start to the season."
+    }
+   ]
+  },
+  {
    "id": "c1e76dedcb",
    "topic": "Other",
    "summary": "A potential disaster was averted Friday when a Phoenix air traffic controller recognized two American Airlines jets mistakenly were flying the same flight number and acted quickly to avoid confusion and keep them a safe distance apart.",
@@ -2244,53 +2138,53 @@
    ]
   },
   {
-   "id": "11a011d2fe",
-   "topic": "Justice & Policing",
-   "summary": "Former U.S. Sen. Kyrsten Sinema testified that she repeatedly had sex with her then-married security guard while she was in office representing Arizona, according to federal court filings. Matthew Ammel's ex-wife, Heather Ammel, is suing the Democrat-turned-independent, who left office at the beginning of last year, for allegedly breaking up her 14-year marriage. Heather Ammel sued Sinema in a North Carolina court under the state\u2019s alienation-of-affection law. Sinema's legal team moved the case to federal court, then sought dismissal there, arguing her relationship with Matthew Ammel occurred outside North Carolina and that the federal court lacked personal jurisdiction over her. Sinema, who is unmarried, said in a July 31 deposition that she first had sex with Ammel around Memorial Day 2024. UTAH JUSTICE ALLEGEDLY SENT \u2018INAPPROPRIATE\u2019 TEXTS TO LAWYER IN KEY REDISTRICTING CASE,\u2026",
-   "summaryFrom": "foxnews",
+   "id": "cccf277238",
+   "topic": "Politics",
+   "summary": "Rep. Ralph Norman (R-SC) said he's willing to put in the work to win the Aug. 25 South Carolina Republican Senate runoff in an exclusive interview on Breitbart News Saturday. Norman said the country didn't have time to wait for someone who hasn't been involved in national issues and he was the \"known quantity\" for the Palmetto state's voters The post Exclusive \u2014 Ralph Norman: South Carolina Senate Runoff About Who Will Fight for SAVE America Act appeared first on Breitbart .",
+   "summaryFrom": "breitbart",
    "emphasis": null,
    "absent": [
+    "corp",
     "coop",
     "nonprofit",
     "pub"
    ],
-   "headline": "Senator Had Sex With Married Security Guard at CNN Star\u2019s Wedding",
-   "updated": "2026-08-15T18:18:21+00:00",
+   "headline": "Exclusive \u2014 Ralph Norman: South Carolina Senate Runoff About Who Will Fight for SAVE America Act",
+   "updated": "2026-08-15T20:26:01+00:00",
    "outletCount": 3,
    "counts": {
-    "corp": 1,
-    "family": 2
+    "family": 3
    },
    "newsCount": 3,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "dailybeast",
-     "title": "Senator Had Sex With Married Security Guard at CNN Star\u2019s Wedding",
-     "url": "https://www.thedailybeast.com/senator-had-sex-with-married-security-guard-at-cnn-stars-wedding/",
-     "author": "Sarah-Jane Collins",
-     "kind": "news",
-     "published": "2026-08-15T18:18:21+00:00",
-     "summary": "SARAH SILBIGER / REUTERS Kyrsten Sinema\u2019s affair with her married bodyguard has been detailed in new court filings that reveal a secret tryst at a CNN host\u2019s wedding. The former senator opened up about her affair with Matthew Ammel in a deposition that took place on July 31 and was filed this week in the United States District Court in North Carolina, the Arizona Republic reported Saturday. Sinema is being sued for the affair by Ammel\u2019s ex-wife, Heather, who is accusing her of breaking up their 14-year marriage. Read more at The Daily Beast."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Court filings reveal Kyrsten Sinema had sex multiple times with married bodyguard while serving as senator",
-     "url": "https://www.foxnews.com/politics/court-filings-reveal-kyrsten-sinema-sex-multiple-times-married-bodyguard-serving-senator",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T17:44:14+00:00",
-     "summary": "Former U.S. Sen. Kyrsten Sinema testified that she repeatedly had sex with her then-married security guard while she was in office representing Arizona, according to federal court filings. Matthew Ammel's ex-wife, Heather Ammel, is suing the Democrat-turned-independent, who left office at the beginning of last year, for allegedly breaking up her 14-year marriage. Heather Ammel sued Sinema in a North Carolina court under the state\u2019s alienation-of-affection law. Sinema's legal team moved the case to federal court, then sought dismissal there, arguing her relationship with Matthew Ammel occurred outside North Carolina and that the federal court lacked personal jurisdiction over her. Sinema, who is unmarried, said in a July 31 deposition that she first had sex with Ammel around Memorial Day 2024. UTAH JUSTICE ALLEGEDLY SENT \u2018INAPPROPRIATE\u2019 TEXTS TO LAWYER IN KEY REDISTRICTING CASE, OFFICIALS LAUNCH PROBE \"We were staying at an Airbnb in Napa, California. We were outside. Matt kissed me. We went inside and had sex,\" Sinema said in her deposition, which took place at a law office in Raleigh. Sinema said she and Ammel were staying at the property with her friends Penny and Grant Croissant"
-    },
-    {
      "outlet": "breitbart",
-     "title": "Kyrsten Sinema Details Affair with Bodyguard in Legal Fight with His Ex-Wife: 'We Went Inside and Had Sex'",
-     "url": "https://www.breitbart.com/politics/2026/08/15/kyrsten-sinema-details-affair-with-bodyguard-in-legal-fight-with-his-ex-wife-we-went-inside-and-had-sex/",
-     "author": "Amy Furr",
+     "title": "Exclusive \u2014 Ralph Norman: South Carolina Senate Runoff About Who Will Fight for SAVE America Act",
+     "url": "https://www.breitbart.com/politics/2026/08/15/exclusive-ralph-norman-south-carolina-senate-runoff-about-who-will-fight-for-save-america-act/",
+     "author": "Matt Mercer",
      "kind": "news",
-     "published": "2026-08-15T17:30:05+00:00",
-     "summary": "Former Democrat-turned-Independent Arizona senator Kyrsten Sinema has been open in court about her sexual relationship with a former bodyguard who is now her boyfriend. The post Kyrsten Sinema Details Affair with Bodyguard in Legal Fight with His Ex-Wife: &#8216;We Went Inside and Had Sex&#8217; appeared first on Breitbart ."
+     "published": "2026-08-15T20:26:01+00:00",
+     "summary": "Rep. Ralph Norman (R-SC) said he's willing to put in the work to win the Aug. 25 South Carolina Republican Senate runoff in an exclusive interview on Breitbart News Saturday. Norman said the country didn't have time to wait for someone who hasn't been involved in national issues and he was the \"known quantity\" for the Palmetto state's voters The post Exclusive \u2014 Ralph Norman: South Carolina Senate Runoff About Who Will Fight for SAVE America Act appeared first on Breitbart ."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Russell Fry Backs Darline Graham in South Carolina Senate Runoff Amid Trump Pressure",
+     "url": "https://www.nytimes.com/2026/08/14/us/politics/russell-fry-darline-graham-south-carolina.html",
+     "author": "Emily Davies",
+     "kind": "news",
+     "published": "2026-08-14T17:35:41+00:00",
+     "summary": "The president has been focused on the race since the death of Lindsey Graham in July. Ms. Graham, the late senator\u2019s sister, is competing against Representative Ralph Norman in a runoff on Aug. 25."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Amid intra-MAGA fight, Trump weighs going all in for Darline Graham",
+     "url": "https://www.washingtonpost.com/politics/2026/08/14/amid-intra-maga-fight-trump-weighs-going-all-darline-graham/",
+     "author": "Natalie Allison",
+     "kind": "news",
+     "published": "2026-08-14T16:08:56+00:00",
+     "summary": "The president is actively fighting for his endorsed candidate in the South Carolina Senate runoff, Sen. Darline Graham, the sister of the late Lindsey Graham."
     }
    ]
   },
@@ -2397,6 +2291,57 @@
    ]
   },
   {
+   "id": "40649a62e1",
+   "topic": "World",
+   "summary": "Israeli settlers run as they are chased by an Israeli military vehicle around Palestinian houses in the village of Qusra, south of Nablus, in the occupied West Bank, on Aug. 13, 2026. Photo by Zain Jaafar/AFP via Getty Images US Ambassador Mike Huckabee called settlers besieging a Palestinian American home in the occupied West Bank &#8220; Israeli terrorists .&#8221; It&#8217;s a welcome, rare rebuke from a U.S. official, but what kind of weight does it really have when the same official has been a long-time supporter of Israeli settlements? It wasn&#8217;t that long ago that Huckabee made similar comments about settler violence gripping the Palestinian Christian village of Taybeh , where attacks continue, or the settlers who beat Palestinian American Sayfollah Musallet to death (no one has been held accountable). Subscribe now What kind of weight do Huckabee&#8217;s comments really\u2026",
+   "summaryFrom": "zeteo",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family"
+   ],
+   "headline": "Israeli settlers besiege Palestinian families in occupied West Bank",
+   "updated": "2026-08-15T17:01:34+00:00",
+   "outletCount": 3,
+   "counts": {
+    "coop": 1,
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "zeteo",
+     "title": "This Week in Palestine: Israel Shoots 13-Year-Old as She \u2018Memorized the Quran\u2019 and Settlers Besiege Palestinian Families",
+     "url": "https://zeteo.com/p/this-week-in-palestine-israel-shoots",
+     "author": "Team Zeteo",
+     "kind": "news",
+     "published": "2026-08-15T17:01:34+00:00",
+     "summary": "Israeli settlers run as they are chased by an Israeli military vehicle around Palestinian houses in the village of Qusra, south of Nablus, in the occupied West Bank, on Aug. 13, 2026. Photo by Zain Jaafar/AFP via Getty Images US Ambassador Mike Huckabee called settlers besieging a Palestinian American home in the occupied West Bank &#8220; Israeli terrorists .&#8221; It&#8217;s a welcome, rare rebuke from a U.S. official, but what kind of weight does it really have when the same official has been a long-time supporter of Israeli settlements? It wasn&#8217;t that long ago that Huckabee made similar comments about settler violence gripping the Palestinian Christian village of Taybeh , where attacks continue, or the settlers who beat Palestinian American Sayfollah Musallet to death (no one has been held accountable). Subscribe now What kind of weight do Huckabee&#8217;s comments really have when, hours after using the phrase &#8220;Israeli terrorists,&#8221; he called the settlers &#8220; illegal trespassers &#8221; instead? Or when he defended the vast majority of settlers, saying they aren&#8217;t the problem, the &#8220; unsettlers &#8221; are, even though the settlements themselve"
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Israeli settlers besiege Palestinian families in occupied West Bank",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T15:48:07+00:00",
+     "summary": "Three Palestinian families say they have been trapped inside their homes in the occupied West Bank for nearly a week."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+     "url": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+     "author": "Emma Graham-Harrison in Jerusalem",
+     "kind": "news",
+     "published": "2026-08-14T17:52:51+00:00",
+     "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading..."
+    }
+   ]
+  },
+  {
    "id": "ab35692bcd",
    "topic": "Health",
    "summary": "Eggs displayed in refrigerated section of a grocery store. \u2014Lindsey Nicholson\u2014Universal Images Group An egg recall linked to a salmonella outbreak was upgraded to the highest possible risk level by the U.S. Food and Drug Administration (FDA) on Wednesday. Nearly 1.6 million dozen eggs were labeled \u201cClass I,\u201d which the agency defines as \u201ca situation in which there is a reasonable probability that the use of or exposure to a violative product will cause serious adverse health consequences or death.\u201d Symptoms of salmonella infection include \u201cfever, diarrhea (which may be bloody), nausea, vomiting, and abdominal pain,\u201d according to the FDA . \u201cIllness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella, and the symptoms usually last four to seven days,\u201d its website said, noting that children under 5, the elderly, and the immunocompromised were more\u2026",
@@ -2444,57 +2389,6 @@
      "kind": "news",
      "published": "2026-08-15T03:49:00+00:00",
      "summary": "The US has issued a serious health warning over the recalled eggs, saying exposure to the potentially contaminated products could cause severe illness or death."
-    }
-   ]
-  },
-  {
-   "id": "dded608d25",
-   "topic": "World",
-   "summary": "Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from Middle East hubs South Korea\u2019s Incheon airport has become the world\u2019s busiest airport for international passengers, in part owing to disruption in the Middle East caused by the Iran war. The airport, South Korea\u2019s main gateway, about 30 miles (48km) west of Seoul, handled 38.39 million international passengers in the first half of 2026, according to preliminary figures compiled by the Airports Council International (ACI), the global trade body for airports. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "South Korea president proposes talks with Pyongyang to formally end Korean War",
-   "updated": "2026-08-15T15:39:37+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "South Korea president proposes talks with Pyongyang to formally end Korean War",
-     "url": "https://www.france24.com/en/asia-pacific/20260815-south-korea-president-proposes-talks-with-pyongyang-to-formally-end-korean-war",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-15T15:39:37+00:00",
-     "summary": "South Korean President Lee Jae-myung proposed on Saturday that Pyongyang engage in dialogue to formally end the Korean War, which has technically been ongoing for more than 70 years due to the lack of a peace treaty."
-    },
-    {
-     "outlet": "bbc",
-     "title": "South Korea proposes talks to officially end war with North",
-     "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T14:40:15+00:00",
-     "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953."
-    },
-    {
-     "outlet": "guardian",
-     "title": "South Korean airport becomes busiest in world for global traffic amid Iran war",
-     "url": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east",
-     "author": "Raphael Rashid in Seoul",
-     "kind": "news",
-     "published": "2026-08-13T09:45:56+00:00",
-     "summary": "Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from Middle East hubs South Korea\u2019s Incheon airport has become the world\u2019s busiest airport for international passengers, in part owing to disruption in the Middle East caused by the Iran war. The airport, South Korea\u2019s main gateway, about 30 miles (48km) west of Seoul, handled 38.39 million international passengers in the first half of 2026, according to preliminary figures compiled by the Airports Council International (ACI), the global trade body for airports. Continue reading..."
     }
    ]
   },
@@ -2550,108 +2444,6 @@
    ]
   },
   {
-   "id": "bd4e89c47f",
-   "topic": "World",
-   "summary": "Washington signaled it will ramp up economic and military pressure on Tehran, dashing hopes of any imminent respite to the conflict. The US Treasury secretary said he would soon unveil restrictions \u201c that have never been seen ,\u201d while the country\u2019s defense chief insisted a naval blockade could be maintained \u201c indefinitely .\u201d Yet signs of strain are apparent: The Wall Street Journal reported that Washington will dispatch an aircraft carrier to relieve one that spent a record number of consecutive days at sea. The White House\u2019s growing focus on economic measures against Iran signals a return to a strategy deployed in the president\u2019s first term, Bloomberg noted, reflecting \u201c a marked pivot for an administration that has repeatedly threatened a stepped up military campaign.\u201d \u2014 Prashant Rao",
-   "summaryFrom": "semafor",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "What Bessent\u2019s Economic Isolation Of Iran Could Look Like",
-   "updated": "2026-08-15T13:30:00+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 3
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bloomberg",
-     "title": "What Bessent\u2019s Economic Isolation Of Iran Could Look Like",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-15/what-bessent-s-economic-isolation-of-iran-could-look-like",
-     "author": "Magdalena Del Valle",
-     "kind": "news",
-     "published": "2026-08-15T13:30:00+00:00",
-     "summary": "Treasury Secretary Scott Bessent says the US is getting ready to squeeze Iran with unprecedented economic pressure, a claim critics greeted with skepticism given the country is already subject to a naval blockade and thousands of sanctions."
-    },
-    {
-     "outlet": "semafor",
-     "title": "US to intensify economic and military pressure on Iran",
-     "url": "https://www.semafor.com/article/08/14/2026/us-to-intensify-economic-and-military-pressure-on-tehran",
-     "author": "Prashant Rao",
-     "kind": "news",
-     "published": "2026-08-14T11:15:39+00:00",
-     "summary": "Washington signaled it will ramp up economic and military pressure on Tehran, dashing hopes of any imminent respite to the conflict. The US Treasury secretary said he would soon unveil restrictions \u201c that have never been seen ,\u201d while the country\u2019s defense chief insisted a naval blockade could be maintained \u201c indefinitely .\u201d Yet signs of strain are apparent: The Wall Street Journal reported that Washington will dispatch an aircraft carrier to relieve one that spent a record number of consecutive days at sea. The White House\u2019s growing focus on economic measures against Iran signals a return to a strategy deployed in the president\u2019s first term, Bloomberg noted, reflecting \u201c a marked pivot for an administration that has repeatedly threatened a stepped up military campaign.\u201d \u2014 Prashant Rao"
-    },
-    {
-     "outlet": "breitbart",
-     "title": "\u2018Economic Fury\u2019: Treasury Secretary Bessent Says U.S. to Hit Iran with Measures \u2018Never Seen in History\u2019",
-     "url": "https://www.breitbart.com/politics/2026/08/14/economic-fury-treasury-secretary-bessent-says-u-s-to-hit-iran-with-measures-never-seen-in-history/",
-     "author": "Joshua Klein",
-     "kind": "news",
-     "published": "2026-08-14T08:02:51+00:00",
-     "summary": "President Donald Trump is preparing to dramatically escalate his \u201cEconomic Fury\u201d campaign against Iran, with new measures coming next week, Treasury Secretary Scott Bessent warned Thursday. The post \u2018Economic Fury\u2019: Treasury Secretary Bessent Says U.S. to Hit Iran with Measures \u2018Never Seen in History\u2019 appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
-   "id": "3cb53b867b",
-   "topic": "Justice & Policing",
-   "summary": "France\u2019s Constitutional Court has struck down a law that would have banned children under 15 from social media, ruling that it disproportionately infringed on freedom of expression and raised privacy concerns over age verification. The government plans to draft a revised bill, with Emmanuel Macron citing concerns over the impact of social media on children\u2019s mental and physical health.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "France\u2019s top court rejects social media ban for under-15s",
-   "updated": "2026-08-15T12:53:35+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 3
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "France\u2019s top court rejects social media ban for under-15s",
-     "url": "https://www.france24.com/en/france-s-top-court-rejects-social-media-ban-for-under-15s",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-15T12:53:35+00:00",
-     "summary": "France\u2019s Constitutional Court has struck down a law that would have banned children under 15 from social media, ruling that it disproportionately infringed on freedom of expression and raised privacy concerns over age verification. The government plans to draft a revised bill, with Emmanuel Macron citing concerns over the impact of social media on children\u2019s mental and physical health."
-    },
-    {
-     "outlet": "bbc",
-     "title": "France's top court blocks social media ban for under-15s",
-     "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T16:35:06+00:00",
-     "summary": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft."
-    },
-    {
-     "outlet": "dw",
-     "title": "France: Top watchdog blocks social media ban for children",
-     "url": "https://www.dw.com/en/france-top-watchdog-blocks-social-media-ban-for-children/a-78373812?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T14:22:00+00:00",
-     "summary": "Denying access to platforms such as Facebook, TikTok and YouTube for under-15s would infringe upon freedom of expression, the Constitutional Council has said."
-    }
-   ]
-  },
-  {
    "id": "4e7c8d1bfe",
    "topic": "Culture & Sport",
    "summary": "The year of Anne Hathaway has kicked into hyperdrive. After the release of the legacy sequel \"The Devil Wears Prada 2,\" the indie art house film \"Mother Mary\" and on the heels of Christopher Nolan's epic \"The Odyssey,\" the Oscar winner now stars in the new movie, \"The End of Oak Street,\" (and she still has another movie slated for this fall). She and Ewan McGregor are Denise and Greg Platt, a not-so-happy couple who put on a happy face for their two teenage children, Audrey and Brian (Maisy Stella and Christian Convery) in their idyllic neighborhood on \u2014 you guessed it \u2014 Oak Street in Summer 1982. \u2018ONE NIGHT ONLY\u2019 REVIEW: MONICA BARBARO AND CALLUM TURNER CHARM IN HIGH-CONCEPT ROM-COM One night, a mysterious light floods the outside of their home, and they wake up without power and running water and are not even picking up any radio stations. It doesn't take long after Denise and Greg\u2026",
@@ -2703,53 +2495,128 @@
    ]
   },
   {
-   "id": "1c773f7f77",
+   "id": "66cd5eed68",
    "topic": "World",
-   "summary": "A large-scale Ukrainian attack struck industrial infrastructure in Russia's southwestern Samara region Saturday, a Russian official said. The post Ukraine Attacks Russia&#8217;s Samara Industrial Site as Kyiv Ramps Up Long-Range Strikes appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
+   "summary": "Putin lost a staggering 42,860 men on the battlefield in July between soldiers killed and wounded, the most since January 2025 -- and the fourth bloodiest month since the start of the war in 2022.",
+   "summaryFrom": "nypost",
    "emphasis": null,
    "absent": [
-    "corp",
     "coop",
-    "nonprofit"
+    "nonprofit",
+    "pub"
    ],
-   "headline": "Ukraine attacks Russian air base and rocket plant in Samara region",
-   "updated": "2026-08-15T11:59:01+00:00",
-   "outletCount": 3,
+   "headline": "Putin loses 43K soldiers on Ukraine battlefield in one of bloodiest months since war\u2019s start",
+   "updated": "2026-08-15T22:27:37+00:00",
+   "outletCount": 2,
    "counts": {
-    "family": 2,
-    "pub": 1
+    "family": 1,
+    "corp": 1
    },
-   "newsCount": 3,
+   "newsCount": 2,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "breitbart",
-     "title": "Ukraine Attacks Russia's Samara Industrial Site as Kyiv Ramps Up Long-Range Strikes",
-     "url": "https://www.breitbart.com/europe/2026/08/15/ukraine-attacks-russias-samara-industrial-site-as-kyiv-ramps-up-long-range-strikes/",
-     "author": "Breitbart London",
+     "outlet": "nypost",
+     "title": "Putin loses 43K soldiers on Ukraine battlefield in one of bloodiest months since war\u2019s start",
+     "url": "https://nypost.com/2026/08/15/world-news/putin-loses-43k-soldiers-in-ukraine-in-one-of-wars-bloodiest-months/",
+     "author": "Gabrielle Fahmy",
      "kind": "news",
-     "published": "2026-08-15T11:59:01+00:00",
-     "summary": "A large-scale Ukrainian attack struck industrial infrastructure in Russia's southwestern Samara region Saturday, a Russian official said. The post Ukraine Attacks Russia&#8217;s Samara Industrial Site as Kyiv Ramps Up Long-Range Strikes appeared first on Breitbart ."
+     "published": "2026-08-15T22:27:37+00:00",
+     "summary": "Putin lost a staggering 42,860 men on the battlefield in July between soldiers killed and wounded, the most since January 2025 -- and the fourth bloodiest month since the start of the war in 2022."
     },
     {
-     "outlet": "france24",
-     "title": "Ukraine attacks Russian air base and rocket plant in Samara region",
-     "url": "https://www.france24.com/en/europe/20260815-ukraine-attacks-russian-air-base-and-rocket-plant-in-samara-region",
-     "author": "FRANCE 24",
+     "outlet": "cbsnews",
+     "title": "July was the deadliest month for Ukrainian civilians since start of Russia's war, U.N. says",
+     "url": "https://www.cbsnews.com/video/july-was-the-deadliest-month-for-ukrainian-civilians-since-start-of-russias-war-un-says/",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-15T11:43:15+00:00",
-     "summary": "Ukraine \u2060struck industrial infrastructure \u200bin Russia's \u200bSamara region on Saturday, local authorities said. Ukrainian President Volodymyr Zelensky confirmed the attack, saying a rocket plant and air base were hit."
+     "published": "2026-08-15T16:01:42+00:00",
+     "summary": "Aug. 15 marks one year since President Trump's high-stakes summit with Russian President Vladimir Putin in Alaska, where the two discussed the war in Ukraine. Sam Vinograd reports."
+    }
+   ]
+  },
+  {
+   "id": "1a04759e9d",
+   "topic": "Other",
+   "summary": "American clocks 23.49sec in Pan Pacs heats Douglass reclaims record from teammate Walsh Pair to meet again in Saturday night\u2019s final Kate Douglass shattered the women\u2019s 50m freestyle world record on Saturday, clocking 23.49sec in the heats at the Pan Pacific Championships to set a tantalizing showdown with former record-holder Gretchen Walsh. Douglass improved on the world mark of 23.55sec that fellow-American Walsh set on 28 June at the Sette Colli Trophy in Rome. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "American Kate Douglass reclaims 50m freestyle world record at Pan Pacs",
+   "updated": "2026-08-15T22:14:14+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "American Kate Douglass reclaims 50m freestyle world record at Pan Pacs",
+     "url": "https://www.theguardian.com/sport/2026/aug/15/kate-douglass-50m-freestyle-world-record-gretchen-walsh-pan-pacs",
+     "author": "Agencies",
+     "kind": "news",
+     "published": "2026-08-15T22:14:14+00:00",
+     "summary": "American clocks 23.49sec in Pan Pacs heats Douglass reclaims record from teammate Walsh Pair to meet again in Saturday night\u2019s final Kate Douglass shattered the women\u2019s 50m freestyle world record on Saturday, clocking 23.49sec in the heats at the Pan Pacific Championships to set a tantalizing showdown with former record-holder Gretchen Walsh. Douglass improved on the world mark of 23.55sec that fellow-American Walsh set on 28 June at the Sette Colli Trophy in Rome. Continue reading..."
     },
     {
-     "outlet": "bloomberg",
-     "title": "Zelenskyy Says Ukraine Strikes Russian Space Facility in Samara",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-15/zelenskyy-says-ukraine-strikes-russian-space-facility-in-samara",
-     "author": "Bloomberg News",
+     "outlet": "cbsnews",
+     "title": "American Kate Douglass sets 50-meter freestyle world record at Pan Pacific",
+     "url": "https://www.cbsnews.com/news/kate-douglass-50-free-world-record-pan-pacific-championships/",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-15T10:21:23+00:00",
-     "summary": "Ukraine said it attacked a production unit of the Roscosmos space agency as it continued strikes at military and related infrastructure deep within Russia."
+     "published": "2026-08-15T19:01:40+00:00",
+     "summary": "Kate Douglass, 24, is a five-time Olympic medalist."
+    }
+   ]
+  },
+  {
+   "id": "fe193dce4a",
+   "topic": "Other",
+   "summary": "On Saturday, The Las Vegas Raiders placed linebacker Brennan Jackson on the injured/reserve list with a foot injury sustained in Thursday&#8217;s preseason opener. That opened a roster spot, and the Raiders made use of it, signing a veteran offensive tackle ahead of their second preseason game against the Houston Texans. Las Vegas signed Folorunso Fatukasi...",
+   "summaryFrom": "nypost",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Raiders sign former Texans\u2019 starting DT to bolster defensive line",
+   "updated": "2026-08-15T22:05:31+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Raiders sign former Texans\u2019 starting DT to bolster defensive line",
+     "url": "https://nypost.com/2026/08/15/sports/raiders-sign-former-texans-starting-dt-to-bolster-defense/",
+     "author": "Valentina Martinez",
+     "kind": "news",
+     "published": "2026-08-15T22:05:31+00:00",
+     "summary": "On Saturday, The Las Vegas Raiders placed linebacker Brennan Jackson on the injured/reserve list with a foot injury sustained in Thursday&#8217;s preseason opener. That opened a roster spot, and the Raiders made use of it, signing a veteran offensive tackle ahead of their second preseason game against the Houston Texans. Las Vegas signed Folorunso Fatukasi..."
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Raiders Bolster Defensive Line With Veteran DT",
+     "url": "https://www.newsweek.com/sports/nfl/raiders-bolster-defensive-line-with-veteran-dt-12328056",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T21:39:13+00:00",
+     "summary": "The Las Vegas Raiders are still loading up for the 2026 NFL season."
     }
    ]
   },
@@ -2765,7 +2632,7 @@
     "nonprofit"
    ],
    "headline": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-   "updated": "2026-08-15T21:27:28+00:00",
+   "updated": "2026-08-15T21:56:10+00:00",
    "outletCount": 2,
    "counts": {
     "pub": 1,
@@ -2781,7 +2648,7 @@
      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-15T21:27:28+00:00",
+     "published": "2026-08-15T21:56:10+00:00",
      "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island."
     },
     {
@@ -2792,6 +2659,48 @@
      "kind": "news",
      "published": "2026-08-15T19:39:50+00:00",
      "summary": "Hurricane Iniki devastated Kauai, causing at least seven deaths and $1.8 billion in damage. It also got a cameo in a Spielberg movie."
+    }
+   ]
+  },
+  {
+   "id": "775b46e580",
+   "topic": "Other",
+   "summary": "The regular season hasn\u2019t started yet, but Jayden Daniels is already being blitzed. The New York Mets joined the masses on the internet who have made fun of the Washington Commanders star quarterback for sending a cease-and-desist letter earlier this month to his alma mater, LSU, over the use of his name, image and likeness. After the Mets\u2019 4-1 win over the Washington Nationals , who, like the Commanders, are in the DMV area, the Mets took a shot at Daniels on X. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM \"Stopped at 4 out of respect for Jayden Daniels ,\" the Mets wrote in the viral post. Daniels, who won the Heisman Trophy with LSU in 2023, and his camp reportedly felt that head coach Lane Kiffin allowing DJ Pickett to wear his No. 5 jersey was \"disrespectful.\" The former LSU star quarterback posted a statement on social media Thursday afternoon about the situation. \"I have\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Mets become latest on social media to troll Jayden Daniels amid No 5 jersey feud with LSU",
+   "updated": "2026-08-15T21:45:07+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "Mets become latest on social media to troll Jayden Daniels amid No 5 jersey feud with LSU",
+     "url": "https://www.foxnews.com/outkick-sports/mets-latest-social-media-troll-jayden-daniels-no-5-jersey-feud-lsu",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T21:45:07+00:00",
+     "summary": "The regular season hasn\u2019t started yet, but Jayden Daniels is already being blitzed. The New York Mets joined the masses on the internet who have made fun of the Washington Commanders star quarterback for sending a cease-and-desist letter earlier this month to his alma mater, LSU, over the use of his name, image and likeness. After the Mets\u2019 4-1 win over the Washington Nationals , who, like the Commanders, are in the DMV area, the Mets took a shot at Daniels on X. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM \"Stopped at 4 out of respect for Jayden Daniels ,\" the Mets wrote in the viral post. Daniels, who won the Heisman Trophy with LSU in 2023, and his camp reportedly felt that head coach Lane Kiffin allowing DJ Pickett to wear his No. 5 jersey was \"disrespectful.\" The former LSU star quarterback posted a statement on social media Thursday afternoon about the situation. \"I have been locked in on training camp and that's been my number one focus. I have a lot of gratitude for my time at LSU and I'm proud of what my teammates and I accomplished there,\" Daniels posted. \"Obviously there are issues to be worked out between my team and LSU and my hope is that it will get done privat"
+    },
+    {
+     "outlet": "newsweek",
+     "title": "LSU Alum Urges Jayden Daniels to \u2018Let It Go\u2019 Amid Jersey Controversy",
+     "url": "https://www.newsweek.com/sports/ncaa/lsu-alum-urges-jayden-daniels-to-let-it-go-amid-jersey-controversy-12327783",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T20:01:33+00:00",
+     "summary": "Former LSU star Leonard Fournette said Jayden Daniels needs to move on from the controversy involving his No. 5 LSU jersey."
     }
    ]
   },
@@ -3006,7 +2915,7 @@
    ]
   },
   {
-   "id": "81c92949ef",
+   "id": "6b64fba64d",
    "topic": "Justice & Policing",
    "summary": "Border security tightened after social media posts call for another mass crossing into Spain\u2019s north African territory Moroccan police have arrested 111 people as they tried to enter Spain\u2019s north African territory of Ceuta, amid \u2060tightened security on both sides after social media posts \u200bcalled for another mass crossing. The attempted crossing on Saturday came two weeks after more than 72,000 migrants surged into Ceuta , causing tensions within the EU and prompting anti-immigration rhetoric among far-right parties worldwide. At least 96 people died trying to \u2060reach European soil. Continue reading...",
    "summaryFrom": "guardian",
@@ -3016,7 +2925,7 @@
     "family",
     "coop"
    ],
-   "headline": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
+   "headline": "Moroccan police intercept migrants heading for Ceuta enclave",
    "updated": "2026-08-15T20:07:07+00:00",
    "outletCount": 2,
    "counts": {
@@ -3029,7 +2938,7 @@
    "articles": [
     {
      "outlet": "aljazeera",
-     "title": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
+     "title": "Moroccan police intercept migrants heading for Ceuta enclave",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
      "author": null,
      "kind": "news",
@@ -3174,6 +3083,48 @@
    ]
   },
   {
+   "id": "1b3f1eeb23",
+   "topic": "Other",
+   "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+   "updated": "2026-08-15T19:39:07+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+     "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+     "author": "Nadeem Badshah",
+     "kind": "news",
+     "published": "2026-08-15T19:39:07+00:00",
+     "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading..."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Death toll from Zimbabwe ferry disaster rises to 72",
+     "url": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T19:10:06+00:00",
+     "summary": "Police say 26 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday."
+    }
+   ]
+  },
+  {
    "id": "0e588c8183",
    "topic": "Culture & Sport",
    "summary": "The Arizona Cardinals will be without the No. 3 overall pick in the 2026 NFL Draft for at least a week. Head coach Mike LaFleur said Saturday that running back Jeremiyah Love suffered an ankle injury during the team\u2019s preseason game against the Las Vegas Raiders on Thursday. Love, despite not having much concern following the game, came into the building on Friday sore. \"He was in great spirits, even Friday,\" LaFleur said. \"But we'll keep him out this week as we let it heal. So, a little bit more sore than we were anticipating.\" CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM When asked how Love\u2019s injury could impact his Week 1 status, LaFleur declined to look further than Saturday\u2019s practice. \"This week and then we'll kind of go from there and reevaluate,\" LaFleur said. \"Honestly, all the focus is on August 15th, Saturday. Here we are in our Tempe block (of practice). We'll kind of\u2026",
@@ -3216,48 +3167,6 @@
    ]
   },
   {
-   "id": "aab1e6081b",
-   "topic": "Culture & Sport",
-   "summary": "Unfortunately for Toronto Blue Jays star Vladimir Guerrero Jr., baseball can sometimes be a contact sport. In the bottom of the sixth inning during the Blue Jays\u2019 3-1 win over the New York Yankees on Friday at the Rogers Centre, Guerrero took a knee to the head in a chaotic play. The Blue Jays were trailing 1-0 with runners on first and second base with one out and George Springer up to bat. Nathan Lukes was on second base, while Guerrero was on first. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM Springer rolled over on Gerrit Cole\u2019s fastball and hit a weak ground ball to third baseman Ryan McMahon. The Yankees\u2019 third baseman charged the ball, stepped on third base, retiring Lukes, and fired to first base to try to complete the inning-ending double play. Instead, McMahon threw it in the dirt, and first baseman Luis Garcia Jr. was unable to make the catch. When Garcia tried to pick\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Blue Jays Vladimir Guerrero Jr. Injured in Collision With Yankees Shortstop",
-   "updated": "2026-08-15T19:11:10+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "Blue Jays Vladimir Guerrero Jr. Injured in Collision With Yankees Shortstop",
-     "url": "https://www.newsweek.com/sports/mlb/blue-jays-vladimir-guerrero-jr-injured-in-collision-with-yankees-shortstop-12327750",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T19:11:10+00:00",
-     "summary": "The Blue Jays placed Vladimir Guerrero Jr. on the injured list one day after he collided with Yankees shortstop George Lombard Jr."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Blue Jays star Vladimir Guerrero Jr gets kneed in the head during chaotic play, leaves game",
-     "url": "https://www.foxnews.com/sports/blue-jays-star-vladimir-guerrero-jr-kneed-head-during-chaotic-play-leaves-game",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T18:13:44+00:00",
-     "summary": "Unfortunately for Toronto Blue Jays star Vladimir Guerrero Jr., baseball can sometimes be a contact sport. In the bottom of the sixth inning during the Blue Jays\u2019 3-1 win over the New York Yankees on Friday at the Rogers Centre, Guerrero took a knee to the head in a chaotic play. The Blue Jays were trailing 1-0 with runners on first and second base with one out and George Springer up to bat. Nathan Lukes was on second base, while Guerrero was on first. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM Springer rolled over on Gerrit Cole\u2019s fastball and hit a weak ground ball to third baseman Ryan McMahon. The Yankees\u2019 third baseman charged the ball, stepped on third base, retiring Lukes, and fired to first base to try to complete the inning-ending double play. Instead, McMahon threw it in the dirt, and first baseman Luis Garcia Jr. was unable to make the catch. When Garcia tried to pick the ball out of the dirt, his glove flew off and the ball went away from him. Guerrero looked to capitalize on the blunder and took off for third base. Garcia finally recovered, grabbed the ball and fired a bullet to third base. The problem? No one was covering the bag. Yankees shortstop George Lomb"
-    }
-   ]
-  },
-  {
    "id": "03737052e3",
    "topic": "Other",
    "summary": "Above Earth's atmosphere, an arms race is unfolding. Thousands of miles above the ground, satellites from different companies and nations are observing us and each other. To learn more, Olivia Gazis traveled to Vantor, a Colorado-based satellite technology company.",
@@ -3296,48 +3205,6 @@
      "kind": "news",
      "published": "2026-08-15T15:52:00+00:00",
      "summary": "Above Earth's atmosphere, an arms race is unfolding. Thousands of miles above the ground, satellites from different companies and nations are observing us and each other. To learn more, Olivia Gazis traveled to Vantor, a Colorado-based satellite technology company."
-    }
-   ]
-  },
-  {
-   "id": "1dba3ecb9c",
-   "topic": "Justice & Policing",
-   "summary": "A California actor and producer is facing 24 felony charges after investigators said he used online casting calls to contact minors as part of an alleged pattern of child sexual abuse spanning decades. Shane Ryan Gledhill, 46, of Lompoc, was arrested Aug. 3 after Santa Barbara County Sheriff's detectives spent nearly five years investigating accusations of exploitation. Gledhill, whose work involved projects connected to actors including Shelley Duvall, Tom Arnold, Richard Dreyfuss and Ed Harris , was initially booked on 15 felony charges. That total has now climbed to 24. TIMOTHY BUSFIELD INDICTED ON CHILD SEX ABUSE CHARGES IN NEW MEXICO The investigation began in November 2021, when a 17-year-old survivor approached Santa Barbara County Sheriff's investigators about what they described as suspicious and inappropriate conduct involving Gledhill when she was 15, according to\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "How American society shields perpetrators of child sexual abuse",
-   "updated": "2026-08-15T16:54:36+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Actor charged with 24 felony counts in alleged child sexual abuse case",
-     "url": "https://www.foxnews.com/entertainment/actor-charged-24-felony-counts-alleged-child-sexual-abuse-case",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T16:54:36+00:00",
-     "summary": "A California actor and producer is facing 24 felony charges after investigators said he used online casting calls to contact minors as part of an alleged pattern of child sexual abuse spanning decades. Shane Ryan Gledhill, 46, of Lompoc, was arrested Aug. 3 after Santa Barbara County Sheriff's detectives spent nearly five years investigating accusations of exploitation. Gledhill, whose work involved projects connected to actors including Shelley Duvall, Tom Arnold, Richard Dreyfuss and Ed Harris , was initially booked on 15 felony charges. That total has now climbed to 24. TIMOTHY BUSFIELD INDICTED ON CHILD SEX ABUSE CHARGES IN NEW MEXICO The investigation began in November 2021, when a 17-year-old survivor approached Santa Barbara County Sheriff's investigators about what they described as suspicious and inappropriate conduct involving Gledhill when she was 15, according to authorities. That initial report led to an investigation that eventually identified nine survivors, the Sheriff's Office said. All were minors at the time of the alleged offenses. In February 2022, investigators executed a search warrant at his residence in Lompoc. Investigators seized thousands of digital file"
-    },
-    {
-     "outlet": "theconversation",
-     "title": "How American society shields perpetrators of child sexual abuse",
-     "url": "https://theconversation.com/how-american-society-shields-perpetrators-of-child-sexual-abuse-287660",
-     "author": "Sarah K Lischer, Associate Professor Politics and International Affairs, Wake Forest University",
-     "kind": "news",
-     "published": "2026-08-13T12:32:06+00:00",
-     "summary": "Several pictures provided by the Department of Justice on Jan. 30, 2026, as part of the Jeffrey Epstein files. Martin Bureau/AFP via Getty Images Widespread denial accompanied the public exposure of Jeffrey Epstein\u2019s decades-long sexual abuse and trafficking of girls and women . After the U.S. Justice Department released millions of case documents on Epstein in January 2026, billionaires , politicians , heads of state and academics proclaimed their ignorance of Epstein\u2019s global network of sexual exploitation. Why would so many intelligent and powerful people repeatedly trumpet their lack of awareness, especially after Epstein\u2019s 2008 plea agreement to underage prostitution charges ? And what about all of Epstein\u2019s staffers and business associates who kept quiet about the suspicious behavior they observed? As a human rights researcher who has conducted genocide research on four continents, I think denials of human rights atrocities can help people understand the denial of crimes like child sexual abuse and trafficking. Avoiding accountability for atrocities requires two types of denial: by the perpetrator and by the community. It\u2019s easy to understand why mass murderers and child rapi"
     }
    ]
   },
@@ -3428,7 +3295,7 @@
   {
    "id": "2783dfacff",
    "topic": "Other",
-   "summary": "Rep. Rashida Tlaib , D-Mich., an outspoken critic of Israel, was set to headline a rally in South Florida boosting three progressive Democratic candidates before the Jewish-owned venue hosting the event backed out a day before. The \"Chomp the Oligarchy\" rally to support two U.S. House candidates and one Senate candidate was scheduled for Friday night at The Venue in Fort Lauderdale, just four days before Florida\u2019s primary election. State Rep. Michael Gottlieb, a Democrat, posted Thursday morning calling the event \"anti-Jew,\" while also accusing House candidates Elijah Manley and Oliver Larkin, along with state Rep. Angie Nixon \u2014 who is seeking the Democratic nomination for U.S. Senate \u2014 of being part of an \"Anti-Israel and Anti-Zionism coalition.\" Gottlieb then said Tlaib \"has by far the deepest record of antisemitic allegations and is being brought here to help these candidates raise\u2026",
+   "summary": "Rep. Rashida Tlaib , D-Mich., an outspoken critic of Israel, was set to headline a rally in South Florida boosting three progressive Democratic candidates before the Jewish-owned venue hosting the event backed out a day before. The Chomp the Oligarchy rally to support two U.S. House candidates and one Senate candidate was scheduled for Friday night at The Venue in Fort Lauderdale, just four days before Florida\u2019s primary election. State Rep. Michael Gottlieb, a Democrat , posted Thursday morning calling the event \"anti-Jew,\" while also accusing House candidates Elijah Manley and Oliver Larkin, along with state Rep. Angie Nixon, who is seeking the Democratic nomination for U.S. Senate, of being part of an \"Anti-Israel and Anti-Zionism coalition.\" Gottlieb then said Tlaib \"has by far the deepest record of antisemitic allegations and is being brought here to help these candidates raise\u2026",
    "summaryFrom": "foxnews",
    "emphasis": null,
    "absent": [
@@ -3454,7 +3321,7 @@
      "author": null,
      "kind": "news",
      "published": "2026-08-15T15:40:25+00:00",
-     "summary": "Rep. Rashida Tlaib , D-Mich., an outspoken critic of Israel, was set to headline a rally in South Florida boosting three progressive Democratic candidates before the Jewish-owned venue hosting the event backed out a day before. The \"Chomp the Oligarchy\" rally to support two U.S. House candidates and one Senate candidate was scheduled for Friday night at The Venue in Fort Lauderdale, just four days before Florida\u2019s primary election. State Rep. Michael Gottlieb, a Democrat, posted Thursday morning calling the event \"anti-Jew,\" while also accusing House candidates Elijah Manley and Oliver Larkin, along with state Rep. Angie Nixon \u2014 who is seeking the Democratic nomination for U.S. Senate \u2014 of being part of an \"Anti-Israel and Anti-Zionism coalition.\" Gottlieb then said Tlaib \"has by far the deepest record of antisemitic allegations and is being brought here to help these candidates raise funds for their campaigns.\" JEWISH CALIFORNIA CONGRESSIONAL CANDIDATE SAYS HARASSMENT FROM GAZA AGITATORS WENT \u2018BEYOND FREE SPEECH\u2019 Following Gottlieb's post, The Venue posted a statement Thursday night indicating that the event was canceled, citing \"increased security concerns.\" The statement did not"
+     "summary": "Rep. Rashida Tlaib , D-Mich., an outspoken critic of Israel, was set to headline a rally in South Florida boosting three progressive Democratic candidates before the Jewish-owned venue hosting the event backed out a day before. The Chomp the Oligarchy rally to support two U.S. House candidates and one Senate candidate was scheduled for Friday night at The Venue in Fort Lauderdale, just four days before Florida\u2019s primary election. State Rep. Michael Gottlieb, a Democrat , posted Thursday morning calling the event \"anti-Jew,\" while also accusing House candidates Elijah Manley and Oliver Larkin, along with state Rep. Angie Nixon, who is seeking the Democratic nomination for U.S. Senate, of being part of an \"Anti-Israel and Anti-Zionism coalition.\" Gottlieb then said Tlaib \"has by far the deepest record of antisemitic allegations and is being brought here to help these candidates raise funds for their campaigns.\" JEWISH CALIFORNIA CONGRESSIONAL CANDIDATE SAYS HARASSMENT FROM GAZA AGITATORS WENT \u2018BEYOND FREE SPEECH\u2019 After Gottlieb's post, The Venue posted a statement Thursday night indicating that the event was canceled, citing \"increased security concerns.\" The statement did not mentio"
     },
     {
      "outlet": "nyt",
@@ -3506,48 +3373,6 @@
      "kind": "news",
      "published": "2026-08-14T21:12:35+00:00",
      "summary": "The 28-year-old's lawyers want his upcoming state murder trial thrown out as they argue he has already pleaded guilty in federal court."
-    }
-   ]
-  },
-  {
-   "id": "c747f05e6b",
-   "topic": "Other",
-   "summary": "Defense argues New York cannot try Mangione over same act or offense as federal case \u2013 the killing of Brian Thompson Luigi Mangione \u2019s plea to federal stalking charges in UnitedHealthcare CEO Brian Thompson\u2019s death has spurred questions about the fate of the separate Manhattan murder case against him, with experts saying New York\u2019s double-jeopardy law could derail that trial. Mangione pleaded guilty to one count of interstate stalking resulting in death, and one count of cyberstalking through use of interstate facilities resulting in death, in connection with the 4 December 2024 shooting outside a Midtown hotel. Both charges carry a potential maximum life sentence. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Double jeopardy could spell end of state case after Luigi Mangione\u2019s guilty plea",
-   "updated": "2026-08-15T15:30:45+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "How double jeopardy could come into play after Mangione guilty plea",
-     "url": "https://www.cbsnews.com/news/mangione-guilty-plea-federal-case-jeopardize-state-murder-trial/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T15:30:45+00:00",
-     "summary": "Luigi Mangione pleaded guilty to two federal counts on Friday. His state trial is currently scheduled to begin on Sept. 8."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Double jeopardy could spell end of state case after Luigi Mangione\u2019s guilty plea",
-     "url": "https://www.theguardian.com/us-news/2026/aug/15/luigi-mangione-double-jeopardy-state-case",
-     "author": "Victoria Bekiempis in New York",
-     "kind": "news",
-     "published": "2026-08-15T11:00:54+00:00",
-     "summary": "Defense argues New York cannot try Mangione over same act or offense as federal case \u2013 the killing of Brian Thompson Luigi Mangione \u2019s plea to federal stalking charges in UnitedHealthcare CEO Brian Thompson\u2019s death has spurred questions about the fate of the separate Manhattan murder case against him, with experts saying New York\u2019s double-jeopardy law could derail that trial. Mangione pleaded guilty to one count of interstate stalking resulting in death, and one count of cyberstalking through use of interstate facilities resulting in death, in connection with the 4 December 2024 shooting outside a Midtown hotel. Both charges carry a potential maximum life sentence. Continue reading..."
     }
    ]
   },
@@ -3678,48 +3503,6 @@
    ]
   },
   {
-   "id": "07edf4abeb",
-   "topic": "Other",
-   "summary": "A French family was rescued after drifting for more than 16 hours off the coast of the Thai island of Koh Samui, where their jet ski had capsized, a local official told AFP on Saturday.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "French father and two children rescued after 16 hours adrift off Thai island",
-   "updated": "2026-08-15T15:09:37+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "French father and two children rescued after 16 hours adrift off Thai island",
-     "url": "https://www.france24.com/en/asia-pacific/20260815-french-father-and-two-children-rescued-after-16-hours-adrift-off-thai-island",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-15T15:09:37+00:00",
-     "summary": "A French family was rescued after drifting for more than 16 hours off the coast of the Thai island of Koh Samui, where their jet ski had capsized, a local official told AFP on Saturday."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Father and young sons rescued after 16 hours stranded off Thai island",
-     "url": "https://www.cbsnews.com/news/thailand-jet-ski-family-rescue/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T13:25:37+00:00",
-     "summary": "The father and his two sons had rented a jet ski from a local operator, but failed to return it at the agreed time."
-    }
-   ]
-  },
-  {
    "id": "e51eabc96f",
    "topic": "Other",
    "summary": "A stolen Pablo Picasso print worth $50,000 has been claimed by its rightful owner after it was discovered by a landlord in Wisconsin while cleaning out a vacant apartment. The post Valuable Stolen Picasso Found Hanging on Milwaukee Apartment Wall After Tenant Was Evicted appeared first on Breitbart .",
@@ -3800,6 +3583,48 @@
      "kind": "news",
      "published": "2026-08-14T21:49:50+00:00",
      "summary": "Former Representative Mary Peltola of Alaska did not appear to be happy that former Vice President Kamala Harris put out a fund-raising appeal on her behalf. Ms. Harris lost the 2024 presidential election in Alaska by 14 points."
+    }
+   ]
+  },
+  {
+   "id": "ff2af43008",
+   "topic": "World",
+   "summary": "Authorities issued a tsunami warning and urged coastal residents to move to higher ground, but later lifted the warning when Indonesia's meteorological agency said monitoring showed no significant sea-level changes that posed a threat to coastal communities.",
+   "summaryFrom": "pbsnewshour",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47 and toppling buildings",
+   "updated": "2026-08-15T15:01:06+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "pbsnewshour",
+     "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47 and toppling buildings",
+     "url": "https://www.pbs.org/newshour/world/magnitude-7-7-earthquake-strikes-off-indonesias-coast-killing-at-least-47-and-toppling-buildings",
+     "author": "Yacob Herin, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T15:01:06+00:00",
+     "summary": "Authorities issued a tsunami warning and urged coastal residents to move to higher ground, but later lifted the warning when Indonesia's meteorological agency said monitoring showed no significant sea-level changes that posed a threat to coastal communities."
+    },
+    {
+     "outlet": "npr",
+     "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47",
+     "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T08:29:20+00:00",
+     "summary": "A powerful earthquake struck off the coast of Indonesia early Saturday, collapsing buildings as well as causing panic in a region prone to deadly quakes. (Image credit: BASARNAS via AP)"
     }
    ]
   }
