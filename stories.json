@@ -1,50 +1,77 @@
 {
- "generated": "2026-08-16T15:36:32.795642+00:00",
+ "generated": "2026-08-16T16:43:42.906151+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
   {
    "id": "25736d721e",
-   "topic": "Politics",
+   "topic": "World",
    "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its\u2026",
    "summaryFrom": "axios",
    "emphasis": {
-    "bigCount": 8,
-    "indieCount": 4,
+    "bigCount": 12,
+    "indieCount": 5,
     "big": [
-     "concerns",
-     "going",
-     "lack",
-     "dismisses",
-     "lawmakers",
-     "diego-based"
+     "mental",
+     "morale",
+     "being",
+     "gallego",
+     "among",
+     "sunday"
     ],
     "indie": [
-     "reported",
-     "some",
-     "considering",
-     "jumping",
+     "overboard",
+     "supporting",
+     "reportedly",
+     "broken",
      "faced",
-     "thousands"
+     "considering"
     ]
    },
    "absent": [
     "coop"
    ],
    "headline": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
-   "updated": "2026-08-16T13:46:54+00:00",
-   "outletCount": 11,
+   "updated": "2026-08-16T16:36:31+00:00",
+   "outletCount": 13,
    "counts": {
-    "corp": 4,
-    "nonprofit": 2,
-    "family": 4,
+    "corp": 6,
+    "nonprofit": 3,
+    "family": 6,
     "pub": 2
    },
-   "newsCount": 12,
+   "newsCount": 17,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T16:36:31+00:00",
+     "summary": "Meanwhile, Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children."
+    },
+    {
+     "outlet": "thehill",
+     "title": "Gallego: USS Lincoln concerns prove Trump views servicemembers as 'toys'",
+     "url": "https://thehill.com/homenews/senate/6031946-gallego-criticizes-trump-uss-lincoln/",
+     "author": "Max Rego",
+     "kind": "news",
+     "published": "2026-08-16T15:25:17+00:00",
+     "summary": "Democratic Sen. Ruben Gallego (Ariz.) said Sunday the reported mental health concerns among servicemembers on board the USS Abraham Lincoln are proof that President Trump does not care about their well-being. \u201cThe president has shown that he just doesn't really care about the troops,\u201d Gallego told host Martha Raddatz on ABC\u2019s \u201cThis Week.\u201d \u201cHis\u2026 lackadaisical..."
+    },
+    {
+     "outlet": "thehill",
+     "title": "Former Joint Chiefs chair: Truth about issues on USS Abraham Lincoln 'somewhere in the middle'",
+     "url": "https://thehill.com/policy/defense/6031908-mullen-uss-abraham-lincoln-mental-health/",
+     "author": "Max Rego",
+     "kind": "news",
+     "published": "2026-08-16T14:55:49+00:00",
+     "summary": "Retired Adm. Mike Mullen, the former chairman of the Joint Chiefs of Staff, said Sunday the truth about the reported mental health concerns among service members on board the USS Abraham Lincoln is likely \u201csomewhere in the middle.\u201d During an interview on ABC\u2019s \u201cThis Week,\u201d Mullen said he had \u201cgreat concern\u201d about conditions on the..."
+    },
     {
      "outlet": "abcnews",
      "title": "Gallego blames Trump administration for Lincoln conditions: 'True lack of leadership'",
@@ -64,6 +91,15 @@
      "summary": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful. (Image credit: Julia Demaree Nikhinson)"
     },
     {
+     "outlet": "guardian",
+     "title": "US navy veterans and military health experts express concern over USS Abraham Lincoln sailors",
+     "url": "https://www.theguardian.com/us-news/2026/aug/15/uss-abraham-lincoln-sailors-mental-health",
+     "author": "Anna Betts",
+     "kind": "news",
+     "published": "2026-08-15T11:00:55+00:00",
+     "summary": "Prolonged deployment is coupled with reports of water shortages, plumbing issues and attempts to jump overboard Trump downplays concerns about sailors onboard USS Abraham Lincoln US navy veterans and military health experts are expressing concerns about the strain on sailors aboard the USS Abraham Lincoln, which has spent nearly nine months at sea supporting US operations in the Middle East, amid reports of poor living conditions and worsening mental health among its crew. The San Diego-based aircraft carrier left port on 21 November, originally bound for the Pacific, but was redirected to the Middle East as the US-Israel war with Iran began. It has now spent more than 250 consecutive days at sea without a significant port visit, with its deployment repeatedly extended. Continue reading..."
+    },
+    {
      "outlet": "nyt",
      "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
      "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
@@ -80,6 +116,15 @@
      "kind": "news",
      "published": "2026-08-14T23:10:05+00:00",
      "summary": "The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Navy and USS Lincoln\u2019s Problems Are Tied to Attacks on U.S. Base Early in War",
+     "url": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html",
+     "author": "John Ismay",
+     "kind": "news",
+     "published": "2026-08-14T22:35:07+00:00",
+     "summary": "Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy\u2019s logistics hub after Iran damaged a base in Bahrain."
     },
     {
      "outlet": "latimes",
@@ -145,60 +190,76 @@
      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
     },
     {
-     "outlet": "rollingstone",
-     "title": "Sailors Are Reportedly Trying to Go Overboard to Escape Squalid Conditions on Aircraft Carrier",
-     "url": "https://www.rollingstone.com/politics/politics-news/uss-abraham-lincoln-sailors-overboard-1235608057/",
-     "author": "Nikkimccannramirez",
+     "outlet": "time",
+     "title": "Trump Is Sued Over Selling Early Access to Truth Social Posts Amid Backlash Against Scheme",
+     "url": "https://time.com/article/2026/08/13/trump-sued-truth-social-posts-early-access-lawsuit-democrat-investigations/",
+     "author": "Tiago Ventura",
      "kind": "news",
-     "published": "2026-08-13T16:41:28+00:00",
-     "summary": "Democrats are demanding answers about what\u2019s going on with the USS Abraham Lincoln"
+     "published": "2026-08-13T16:55:49+00:00",
+     "summary": "President Donald Trump holds up a paper copy of one of his own Truth Social posts in the Oval Office of the White House on Feb. 25, 2025. \u2014Alex Wong\u2013\u2013Getty Images President Donald Trump is being sued over a new Truth Social service that sells early access to his posts to the tune of up to $100,000 a month. The lawsuit was filed Wednesday in a New York federal court by two media entities, The Intercept and the Freedom of the Press Foundation. The complaint claims the Truth API service offered by the Trump Media and Technology Group (TMTG) is \u201cprofoundly corrupt,\u201d as the President \u201cstands to gain financially by giving \u201cmarket-moving\u201d government information to those who are willing and able to pay his personal company.\u201d Since launching on Aug. 1, the service is offering paying subscribers early access to posts from high-profile accounts, including Trump\u2019s own, which boasts 13 million followers. TMTG previously said the commercial data feed will deliver posts to its customers in \u201cmilliseconds\u201d and that it had been designed \u201cfor organizations most impacted by the cost of a delay in information.\u201d The President has a history of disclosing market-sensitive news on the platform, from the an"
     }
    ]
   },
   {
-   "id": "c992c46af6",
+   "id": "c981a7f51a",
    "topic": "Climate & Energy",
-   "summary": "At least one person was killed in a storm-related car crash on Hawaii&#8217;s Big Island as Hurricane Lala struck late Saturday night. Gov. Josh Green confirmed the death, along with 19 roofs ripped off buildings after what he described as an &#8220;enormous storm.&#8221; Powerful waves pounded the Big Island\u2019s coast as Lala slowly passed by....",
-   "summaryFrom": "nypost",
+   "summary": "Hawaii has narrowly avoided a historic direct hit from Hurricane Lala, but torrential rain and hurricane-force winds are still causing widespread flooding, mudslides and power outages across the islands. Authorities are urging residents to shelter in place as the storm moves west and dangerous conditions persist.",
+   "summaryFrom": "france24",
    "emphasis": {
     "bigCount": 4,
-    "indieCount": 5,
-    "big": [
-     "saturday"
-    ],
+    "indieCount": 6,
+    "big": [],
     "indie": [
-     "strong",
-     "landfall",
-     "avoids",
-     "making",
      "across",
-     "conditions"
+     "landfall",
+     "making",
+     "strong",
+     "drenching",
+     "sending"
     ]
    },
    "absent": [
     "coop"
    ],
-   "headline": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
-   "updated": "2026-08-16T15:28:07+00:00",
-   "outletCount": 9,
+   "headline": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
+   "updated": "2026-08-16T16:37:12+00:00",
+   "outletCount": 10,
    "counts": {
-    "corp": 2,
+    "corp": 3,
+    "nonprofit": 2,
     "pub": 4,
-    "nonprofit": 1,
-    "family": 2
+    "family": 1
    },
-   "newsCount": 9,
+   "newsCount": 10,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "abcnews",
+     "title": "Lala weakens to tropical storm, brings heavy rain, wind, flooding to Hawaii",
+     "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T16:37:12+00:00",
+     "summary": "Lala has weakened to a tropical storm as it tracks through the central Pacific Ocean, approaching the Big Island of Hawaii on Sunday."
+    },
     {
      "outlet": "cbsnews",
      "title": "Lala is a tropical storm again after lashing past Hawaii's Big Island",
      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T15:28:07+00:00",
+     "published": "2026-08-16T15:58:03+00:00",
      "summary": "As a hurricane, Lala skirted past Hawaii's Big Island, where it brought heavy rain and the possibility of life-threatening flooding and mudslides."
+    },
+    {
+     "outlet": "npr",
+     "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
+     "url": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T15:47:58+00:00",
+     "summary": "Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn't done punishing the Big Island with hurricane-force gusts. (Image credit: Taylor Cozloff/AP)"
     },
     {
      "outlet": "aljazeera",
@@ -217,15 +278,6 @@
      "kind": "news",
      "published": "2026-08-16T14:44:14+00:00",
      "summary": "Tropical storm conditions were spreading westward Sunday from Maui to Oahu and then Kauai."
-    },
-    {
-     "outlet": "nypost",
-     "title": "Tropical storm Lala kills 1, sweeps away homes as flooding hits Hawaii",
-     "url": "https://nypost.com/2026/08/16/us-news/hurrican-lala-in-hawaii-kills-at-least-one-destroys-homes/",
-     "author": "Joe Burn, Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T14:21:06+00:00",
-     "summary": "At least one person was killed in a storm-related car crash on Hawaii&#8217;s Big Island as Hurricane Lala struck late Saturday night. Gov. Josh Green confirmed the death, along with 19 roofs ripped off buildings after what he described as an &#8220;enormous storm.&#8221; Powerful waves pounded the Big Island\u2019s coast as Lala slowly passed by...."
     },
     {
      "outlet": "newsweek",
@@ -275,47 +327,65 @@
    ]
   },
   {
-   "id": "dd55869c82",
+   "id": "8fac0f3c10",
    "topic": "World",
-   "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capital Ukraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian authorities. Russia\u2019s defence ministry said it had shot down 822 drones, while the mayor of Moscow, Sergei Sobyanin, reported that 600 drones were launched towards the capital\u2019s region, of which 201 were destroyed. Continue reading...",
+   "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capital Ukraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian authorities. The defence ministry in Moscow said it had shot down 1,478 Ukrainian drones in the past 24 hours \u2013 the highest ever total claimed \u2013 in an escalating air war in which seven Ukrainians were also killed as Russia bombed 13 locations inside the country. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": {
-    "bigCount": 2,
-    "indieCount": 6,
+    "bigCount": 3,
+    "indieCount": 7,
     "big": [],
     "indie": [
      "kyiv",
+     "ukrainian",
+     "attack",
      "overnight",
-     "moscow",
      "capital",
-     "strikes",
-     "killed"
+     "shot"
     ]
    },
    "absent": [
-    "corp",
     "coop"
    ],
-   "headline": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-   "updated": "2026-08-16T15:14:01+00:00",
-   "outletCount": 8,
+   "headline": "Ukrainian drone attack on Russia kills at least six, says Moscow",
+   "updated": "2026-08-16T16:10:19+00:00",
+   "outletCount": 10,
    "counts": {
-    "pub": 3,
     "nonprofit": 3,
+    "pub": 4,
+    "corp": 1,
     "family": 2
    },
-   "newsCount": 8,
+   "newsCount": 10,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Ukrainian drone attack on Russia kills at least six, says Moscow",
+     "url": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire",
+     "author": "Dan Sabbagh in Kyiv",
+     "kind": "news",
+     "published": "2026-08-16T16:10:19+00:00",
+     "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capital Ukraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian authorities. The defence ministry in Moscow said it had shot down 1,478 Ukrainian drones in the past 24 hours \u2013 the highest ever total claimed \u2013 in an escalating air war in which seven Ukrainians were also killed as Russia bombed 13 locations inside the country. Continue reading..."
+    },
     {
      "outlet": "bbc",
      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T15:14:01+00:00",
+     "published": "2026-08-16T15:50:12+00:00",
      "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T15:35:53+00:00",
+     "summary": "Ukraine launched hundreds of drones across Russia, killing at least six people and striking a Wildberries logistics hub."
     },
     {
      "outlet": "pbsnewshour",
@@ -327,6 +397,15 @@
      "summary": "Kyiv has stepped up its attacks on Russia this year, with long-range missiles and swarms of drones targeting military industries and energy facilities."
     },
     {
+     "outlet": "cbsnews",
+     "title": "Ukraine launches one of the largest aerial attacks on Russia yet",
+     "url": "https://www.cbsnews.com/news/ukraine-moscow-russia-drone-attack-largest-wildberries/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T11:45:40+00:00",
+     "summary": "Footage shows a large column of smoke after Ukraine struck a major logistics hub in the Moscow region."
+    },
+    {
      "outlet": "breitbart",
      "title": "Ukraine Launches One of Its Largest Aerial Attacks of War, Killing at Least Six in Russia",
      "url": "https://www.breitbart.com/europe/2026/08/16/ukraine-launches-one-of-its-largest-aerial-attacks-of-war-killing-at-least-six-in-russia/",
@@ -334,15 +413,6 @@
      "kind": "news",
      "published": "2026-08-16T11:05:26+00:00",
      "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war. The post Ukraine Launches One of Its Largest Aerial Attacks of War, Killing at Least Six in Russia appeared first on Breitbart ."
-    },
-    {
-     "outlet": "guardian",
-     "title": "\u2018Massive\u2019 Ukrainian drone attack on Russia kills at least six, says Moscow",
-     "url": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire",
-     "author": "Dan Sabbagh in Kyiv",
-     "kind": "news",
-     "published": "2026-08-16T11:04:00+00:00",
-     "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capital Ukraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian authorities. Russia\u2019s defence ministry said it had shot down 822 drones, while the mayor of Moscow, Sergei Sobyanin, reported that 600 drones were launched towards the capital\u2019s region, of which 201 were destroyed. Continue reading..."
     },
     {
      "outlet": "dw",
@@ -383,23 +453,99 @@
    ]
   },
   {
+   "id": "a11cd969e9",
+   "topic": "Politics",
+   "summary": "Photo Illustration by Eric Faison/The Daily Beast/Getty The investigation into Nancy Guthrie\u2019s kidnapping may have been hobbled from the start by inexperienced homicide detectives, friction with the FBI, and a decision to give the family control of the crime scene too soon, according to a local law enforcement union leader. Sgt. Aaron Cross, president of the Pima County Deputies Organization, detailed what he believes went wrong in the case in an interview with TMZ Cross\u2019s biggest concern is that local investigators relinquished control of Guthrie\u2019s crime scene to her family too soon. Read more at The Daily Beast.",
+   "summaryFrom": "dailybeast",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Blanche Refuses to Say He\u2019ll Always Be Independent of Trump as Attorney General",
+   "updated": "2026-08-16T16:14:13+00:00",
+   "outletCount": 6,
+   "counts": {
+    "family": 3,
+    "corp": 3
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "Blanche Refuses to Say He\u2019ll Always Be Independent of Trump as Attorney General",
+     "url": "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html",
+     "author": "Glenn Thrush",
+     "kind": "news",
+     "published": "2026-08-16T16:14:13+00:00",
+     "summary": "The new head of the Justice Department said on \u201cMeet the Press\u201d on Sunday that the president had never asked him to prosecute specific people \u2014 and never would."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Attorney General Todd Blanche says it wouldn\u2019t be the best course for the FBI to take over Nancy Guthrie investigation",
+     "url": "https://www.nbcnews.com/news/us-news/todd-blanche-best-course-fbi-takeover-nancy-guthrie-investigation-rcna592784",
+     "author": "Alexandra Marquez",
+     "kind": "news",
+     "published": "2026-08-16T16:03:19+00:00",
+     "summary": "Attorney General Todd Blanche said that he doesn\u2019t believe it would be the best course of action for the FBI to take over the investigation into the disappearance of Nancy Guthrie in Arizona"
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Todd Blanche Refuses to Pledge DOJ Independence From White House",
+     "url": "https://www.newsweek.com/todd-blanche-doj-independence-white-house-trump-12328916",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T15:35:44+00:00",
+     "summary": "The remarks are likely to reignite concerns about the DOJ&#039;s independence which were central to Blanche&#039;s confirmation battle."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Todd Blanche Refuses To Pledge Independence From White House As Trump\u2019s Attorney General",
+     "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/16/todd-blanche-refuses-to-pledge-independence-from-white-house-as-trumps-attorney-general/",
+     "author": "Zachary Folk, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-16T15:05:14+00:00",
+     "summary": "In a \u201cMeet the Press\u201d interview on Sunday, Blanche promised the Justice Department would \u201cact with integrity\u201d under his leadership."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Troubling New Details Revealed in Nancy Guthrie Investigation",
+     "url": "https://www.thedailybeast.com/troubling-new-details-revealed-in-nancy-guthrie-investigation/",
+     "author": "Mary Papenfuss",
+     "kind": "news",
+     "published": "2026-08-16T03:42:16+00:00",
+     "summary": "Photo Illustration by Eric Faison/The Daily Beast/Getty The investigation into Nancy Guthrie\u2019s kidnapping may have been hobbled from the start by inexperienced homicide detectives, friction with the FBI, and a decision to give the family control of the crime scene too soon, according to a local law enforcement union leader. Sgt. Aaron Cross, president of the Pima County Deputies Organization, detailed what he believes went wrong in the case in an interview with TMZ Cross\u2019s biggest concern is that local investigators relinquished control of Guthrie\u2019s crime scene to her family too soon. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump wants to put golden seals on White House ballroom",
+     "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-wants-put-golden-seals-white-house-ballroom/",
+     "author": "Dan Diamond, Jonathan Edwards",
+     "kind": "news",
+     "published": "2026-08-14T19:50:02+00:00",
+     "summary": "The planned adornments, which were included in renderings submitted to the Supreme Court, break with tradition and the original vision for the White House grounds."
+    }
+   ]
+  },
+  {
    "id": "47b37decde",
    "topic": "Justice & Policing",
    "summary": "Spain and Morocco have boosted security around Spain\u2019s African enclave Ceuta following calls for another Moroccan migrant border rush, two weeks after a migrant invasion left at least 96 people dead. Soldiers have been watching commercial and government buildings in Ceuta while police are patrolling main streets, according to Reuters. Along the Moroccan border, security guards were seen on the beaches of Fnideq, one of the primary locations from which migrants illegally rushed Ceuta, Fox News reported . Morocco has arrested multiple people who circulated calls on social media for another migrant invasion into both Ceuta and Melilla, another Spanish African enclave. \u201cThe Ministry of the Interior has detected, during the last few days, the circulation of anonymous publications and messages on certain social networks inciting the organization of attempts at collective and illegal crossing\u2026",
    "summaryFrom": "dailywire",
    "emphasis": {
-    "bigCount": 3,
+    "bigCount": 2,
     "indieCount": 4,
-    "big": [
-     "invasion"
-    ],
+    "big": [],
     "indie": [
-     "mass",
      "social",
-     "media",
+     "mass",
      "crossing",
+     "media",
      "attempted",
-     "enter"
+     "migrants"
     ]
    },
    "absent": [
@@ -408,15 +554,15 @@
    ],
    "headline": "Morocco tightens security as migrants gather near Ceuta border",
    "updated": "2026-08-16T13:01:57+00:00",
-   "outletCount": 7,
+   "outletCount": 6,
    "counts": {
-    "family": 3,
+    "family": 2,
     "pub": 3,
     "nonprofit": 1
    },
-   "newsCount": 6,
+   "newsCount": 5,
    "opinionCount": 1,
-   "underreported": false,
+   "underreported": true,
    "articles": [
     {
      "outlet": "bloomberg",
@@ -455,15 +601,6 @@
      "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
     },
     {
-     "outlet": "breitbart",
-     "title": "Pics: Thousands of Illegal Migrants Set Up Makeshift Garbage Huts on Beach of Spanish Ceuta, Weeks After Invasion",
-     "url": "https://www.breitbart.com/europe/2026/08/15/pics-thousands-of-illegal-migrants-set-up-garbage-huts-on-ceuta-beach-sparking-warnings-of-disease-outbreak/",
-     "author": "Kurt Zindulka",
-     "kind": "news",
-     "published": "2026-08-15T19:47:05+00:00",
-     "summary": "More than two weeks after tens of thousands of illegal migrants stormed the border of the Spanish exclave of Ceuta, thousands of migrants remain in the city, resulting in the area's once pristine beach being converted into a full-on encampment with dozens of makeshift huts being constructed out of garbage, and prompting warnings of potential disease outbreaks due to the unsanitary conditions. The post Pics: Thousands of Illegal Migrants Set Up Makeshift Garbage Huts on Beach of Spanish Ceuta, Weeks After Invasion appeared first on Breitbart ."
-    },
-    {
      "outlet": "guardian",
      "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
      "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
@@ -484,10 +621,171 @@
    ]
   },
   {
+   "id": "2c13ceccef",
+   "topic": "Politics",
+   "summary": "When President Donald Trump signed an executive order on childhood vaccines this week, Jayme Franklin stood nearby, repeatedly touching her pregnant belly. Franklin, 28, gave brief remarks at the signing and applauded Trump\u2019s order, which seeks to reduce the number of routine vaccines recommended to children. \u201cThis is what this country was built on: freedom for parents to make the decisions that best suit their kid,\u201d she said at the signing. \u201cAnd I\u2019m not anti-vaccine at all. I\u2019m pro-vaccine, but we want to be able to have the freedom to space it out and to choose which one works for our child. We don&#8217;t believe that there&#8217;s a one-size-fits-all solution for every child.\u201d Franklin is a co-founder of The Conservateur, a media brand for conservative women that includes a lifestyle publication and podcast. She\u2019s also a self-described MAHA mom \u2014 a subset of the electorate who lean\u2026",
+   "summaryFrom": "the19th",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "What Trump\u2019s vaccine order says about his relationship with MAHA moms",
+   "updated": "2026-08-16T15:52:50+00:00",
+   "outletCount": 5,
+   "counts": {
+    "family": 2,
+    "corp": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "GOP Sen. Bill Cassidy slams Trump\u2019s childhood vaccine order, warns kids may die: \u2018Crazy, stupid\u2019",
+     "url": "https://nypost.com/2026/08/16/us-news/gop-sen-bill-cassidy-slams-trumps-mmr-vaccine-order-warns-kids-may-die-crazy-stupid/",
+     "author": "Ryan King",
+     "kind": "news",
+     "published": "2026-08-16T15:52:50+00:00",
+     "summary": "Senate health boss Bill Cassidy excoriated President Trump's executive order last week requiring measles, mumps, and rubella vaccines to be administered to children separately."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "GOP Senator Savages Trump\u2019s \u2018Crazy Stupid\u2019 New Order",
+     "url": "https://www.thedailybeast.com/gop-senator-bill-cassidy-savages-trumps-crazy-stupid-new-order/",
+     "author": "Katie Francis",
+     "kind": "news",
+     "published": "2026-08-16T14:56:06+00:00",
+     "summary": "CNN Republican Sen. Bill Cassidy is raging against President Donald Trump\u2019s \u201cpotentially tragic\u201d overhaul of the childhood vaccine schedule. Cassidy, a physician, appeared on State of the Union Sunday, and was asked about Trump\u2019s claims that the current combined MMR vaccine could be \u201cquite lethal,\u201d and was comparable to \u201cpumping\u201d a child with \u201ca large vat\u201d or \u201cgallons\u201d of chemicals . \u201cYeah, that\u2019s a crazy, stupid thing,\u201d Cassidy said. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "GOP Sen. Bill Cassidy on Trump\u2019s vaccine executive order: \u2018Stupid thing to do\u2019",
+     "url": "https://abcnews.com/Politics/gop-sen-bill-cassidy-trumps-vaccine-executive-order/story?id=135685348",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T14:20:10+00:00",
+     "summary": "Republican Sen. Bill Cassidy said on ABC News' \"This Week\" that Trump's executive order on vaccines was a \"stupid thing to do.\""
+    },
+    {
+     "outlet": "the19th",
+     "title": "What Trump\u2019s vaccine order says about his relationship with MAHA moms",
+     "url": "https://19thnews.org/2026/08/trump-vaccine-order-maha-moms/",
+     "author": "Barbara Rodriguez",
+     "kind": "news",
+     "published": "2026-08-14T18:27:39+00:00",
+     "summary": "When President Donald Trump signed an executive order on childhood vaccines this week, Jayme Franklin stood nearby, repeatedly touching her pregnant belly. Franklin, 28, gave brief remarks at the signing and applauded Trump\u2019s order, which seeks to reduce the number of routine vaccines recommended to children. \u201cThis is what this country was built on: freedom for parents to make the decisions that best suit their kid,\u201d she said at the signing. \u201cAnd I\u2019m not anti-vaccine at all. I\u2019m pro-vaccine, but we want to be able to have the freedom to space it out and to choose which one works for our child. We don&#8217;t believe that there&#8217;s a one-size-fits-all solution for every child.\u201d Franklin is a co-founder of The Conservateur, a media brand for conservative women that includes a lifestyle publication and podcast. She\u2019s also a self-described MAHA mom \u2014 a subset of the electorate who lean into their identities as mothers to advocate for policies that they purport will make children healthier through the Make America Healthy Again movement. Its ranks include several high-ranking women in the White House, like press secretary Karoline Leavitt, who just announced she is leaving her job t"
+    },
+    {
+     "outlet": "theatlantic",
+     "title": "Trump\u2019s Latest Vaccine Order Is Making Things More Confusing",
+     "url": "https://www.theatlantic.com/newsletters/2026/08/us-childhood-vaccine-guidance-mess/688285/?utm_source=feed",
+     "author": "Will Gottsegen",
+     "kind": "news",
+     "published": "2026-08-13T22:49:00+00:00",
+     "summary": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here. In January, the Trump administration attempted to fundamentally change the way the United States handles childhood immunizations. Following a memo from the Department of Health and Human Services, the CDC updated its vaccine schedule to recommend that some shots no longer be given to all children. A federal court undid the effort in March. In an executive order in May, Donald Trump called on states to adopt the narrower schedule anyway. On Monday, Trump issued a new executive order on the same subject, focused on lowering the number of vaccines that the government recommends for all children. As I wrote earlier this week, this White House has a habit of doubling down when it doesn\u2019t get its way. But only states have the power to put these proposals into practice\u2014and many state policy makers, concerned that the White House is contradicting existing research, aren\u2019t keen to follow its guidance. According to the new executive order, preventive shots for hepatitis A, hepatitis B, dengue, and"
+    }
+   ]
+  },
+  {
+   "id": "3a54a4cbb7",
+   "topic": "Other",
+   "summary": "Roberto Serra - Iguana Press / Roberto Serra, Getty Images Thieves stole four works by Sicilian Renaissance painter Antonello da Messina from the MuMe regional museum in Sicily during Ferragosto, a major Italian public holiday. On Saturday evening, just before 10 p.m., they evaded the museum\u2019s alarm and security systems and made off with three of the five surviving panels of the 1473 San Gregorio Polyptych, and a double-sided Virgin Mary and Piet\u00e0 panel taken from an armored display case, according to the news agency LaPresse. \u201cWe are devastated by what happened. They were two of Antonello da Messina\u2019s most important and best-known works. It is a tremendous loss for the museum, the city, the community and the art world,\u201d MuMe director Marisa Mercurio said. Lynda Albertson, an art-crime analyst for the Association for Research into Crimes against Art, said the works will be difficult for\u2026",
+   "summaryFrom": "dailybeast",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 4,
+    "big": [
+     "stole",
+     "ferragosto"
+    ],
+    "indie": [
+     "stolen",
+     "paintings",
+     "authorities",
+     "overnight",
+     "italy"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Italy: Four Renaissance artworks stolen from Messina museum in Sicily",
+   "updated": "2026-08-16T15:49:59+00:00",
+   "outletCount": 5,
+   "counts": {
+    "pub": 3,
+    "corp": 1,
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Italy: Four Renaissance artworks stolen from Messina museum in Sicily",
+     "url": "https://www.france24.com/en/italy-four-renaissance-artworks-stolen-from-messina-museum-in-sicily",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T15:49:59+00:00",
+     "summary": "Four artworks by Renaissance painter Antonello da Messina have been stolen from the Museo Regionale in Messina, Sicily, overnight on August 15. The thieves took three panels from his Polittico di San Gregorio, depriving the city of part of the only surviving works by the painter still held in his hometown. Italian authorities have launched an investigation. FRANCE 24's Seema Gupta, correspondent in Italy, has the latest."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Thieves Pull Off Brazen Heist of Renaissance Artworks in Sicily",
+     "url": "https://www.thedailybeast.com/thieves-steal-four-antonello-da-messina-works-from-sicily-museum/",
+     "author": "Lauren Hartley",
+     "kind": "news",
+     "published": "2026-08-16T14:27:52+00:00",
+     "summary": "Roberto Serra - Iguana Press / Roberto Serra, Getty Images Thieves stole four works by Sicilian Renaissance painter Antonello da Messina from the MuMe regional museum in Sicily during Ferragosto, a major Italian public holiday. On Saturday evening, just before 10 p.m., they evaded the museum\u2019s alarm and security systems and made off with three of the five surviving panels of the 1473 San Gregorio Polyptych, and a double-sided Virgin Mary and Piet\u00e0 panel taken from an armored display case, according to the news agency LaPresse. \u201cWe are devastated by what happened. They were two of Antonello da Messina\u2019s most important and best-known works. It is a tremendous loss for the museum, the city, the community and the art world,\u201d MuMe director Marisa Mercurio said. Lynda Albertson, an art-crime analyst for the Association for Research into Crimes against Art, said the works will be difficult for thieves to sell because they are instantly recognizable. \u201cStealing an Antonello may be far easier than selling one. If these are ordinary thieves, they will soon discover that \u2014 to their cost,\u201d she said. She added that such famous artworks are often used as collateral for other illicit activity. In "
+    },
+    {
+     "outlet": "guardian",
+     "title": "Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
+     "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
+     "author": "Lorenzo Tondo in Palermo",
+     "kind": "news",
+     "published": "2026-08-16T13:44:29+00:00",
+     "summary": "Theft of four works on national holiday described as wound to historical memory and cultural identity of city of Messina Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina. Thieves gained access to the Regional Museum of Messina , or MuMe, on Saturday evening, possibly capitalising on attention being focused on La Vara, a huge religious festival that takes place in the city on 15 August, when Italy marks the Ferragosto national holiday. Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+     "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T13:34:38+00:00",
+     "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Thieves Steal Four Renaissance Artworks in Sicilian Museum Heist",
+     "url": "https://www.breitbart.com/europe/2026/08/16/thieves-steal-four-renaissance-artworks-in-sicilian-museum-heist/",
+     "author": "Breitbart London",
+     "kind": "news",
+     "published": "2026-08-16T13:07:27+00:00",
+     "summary": "Thieves stole four works attributed to the Sicilian Renaissance painter Antonello da Messina from a regional museum in the Sicilian city of Messina on the Italian Ferragosto holiday, the news agency LaPresse reported Sunday. The post Thieves Steal Four Renaissance Artworks in Sicilian Museum Heist appeared first on Breitbart ."
+    },
+    {
+     "outlet": "france24",
+     "title": "Italy recovers millions of euros worth of stolen Renoir, C\u00e9zanne and Matisse paintings",
+     "url": "https://www.france24.com/en/video/20260816-italy-recovers-millions-of-euros-worth-of-stolen-renoir-c%C3%A9zanne-and-matisse-paintings",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T08:56:50+00:00",
+     "summary": "Italian authorities have recovered three paintings by Renoir, C\u00e9zanne and Matisse, worth more than \u20ac9 million, months after they were stolen from a private museum near Parma. Five Moldovan suspects have been detained, with police saying the gang had carefully planned the heist and was equipped to disable the museum's security systems."
+    }
+   ]
+  },
+  {
    "id": "ac7085b98d",
    "topic": "Politics",
-   "summary": "AUSTIN, Texas \u2014 Democrats teed up South Carolina to lead a six-state gantlet of early presidential contests, sealing a 2028 road map that pushes Black and Latino voters and labor to the front of the line for choosing the party\u2019s next national leader.",
-   "summaryFrom": "nbcnews",
+   "summary": "South Carolina would hold its primary on Jan. 22, 2028 under the Democratic National Committee\u2019s plan. Nevada would follow on Feb. 1. The plan aims to give a bigger voice to Black and Latino voters.",
+   "summaryFrom": "wapo",
    "emphasis": null,
    "absent": [
     "coop",
@@ -495,13 +793,13 @@
    ],
    "headline": "Democrats' 2028 presidential calendar gives Black and Latino voters and union members an early say",
    "updated": "2026-08-16T14:22:06+00:00",
-   "outletCount": 6,
+   "outletCount": 5,
    "counts": {
-    "corp": 3,
+    "corp": 2,
     "family": 2,
     "nonprofit": 1
    },
-   "newsCount": 6,
+   "newsCount": 5,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -538,17 +836,8 @@
      "url": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
      "author": "Shane Goldmacher",
      "kind": "news",
-     "published": "2026-08-15T18:27:45+00:00",
+     "published": "2026-08-15T18:27:46+00:00",
      "summary": "The party\u2019s membership finalized the new order for the first six states to winnow the candidate field, pushing back Iowa and New Hampshire."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Democrats set their 2028 primary calendar, with South Carolina going first",
-     "url": "https://www.nbcnews.com/politics/2028-election/democrats-officially-set-2028-primary-calendar-south-carolina-going-fi-rcna592519",
-     "author": "Natasha Korecki",
-     "kind": "news",
-     "published": "2026-08-15T18:25:31+00:00",
-     "summary": "AUSTIN, Texas \u2014 Democrats teed up South Carolina to lead a six-state gantlet of early presidential contests, sealing a 2028 road map that pushes Black and Latino voters and labor to the front of the line for choosing the party\u2019s next national leader."
     },
     {
      "outlet": "abcnews",
@@ -558,94 +847,6 @@
      "kind": "news",
      "published": "2026-08-14T09:41:06+00:00",
      "summary": "The DNC is expected to vote on Saturday to approve the new order of states for the 2028 presidential nominating process, amidst controversy over some of those decisions."
-    }
-   ]
-  },
-  {
-   "id": "ef4b90933b",
-   "topic": "Politics",
-   "summary": "The board of the John F. Kennedy Center for the Performing Arts approved a plan on Thursday to enshrine President Donald Trump's name on the building, setting off a new battle in the war over what mark he should be able to leave on the institution. We have been down this road before. The Kennedy Center's board of trustees \"overstepped its statutory bounds by unilaterally renaming the Kennedy Center after President Trump,\" U.S. District Judge Christopher Cooper wrote in May. \"In 1964, Congress deliberately rechristened the 'National Cultural Center' the 'John F. Kennedy Center for the Performing Arts.' The text, structure, and evolution of the organic statute makes the institution's name abundantly clear.\" The center, as a result, was forced to remove Trump's name, which had been affixed to the facade as: THE DONALD J. TRUMP AND THE JOHN F. KENNEDY MEMORIAL CENTER FOR THE PERFORMING\u2026",
-   "summaryFrom": "reason",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 2,
-    "big": [
-     "trump",
-     "judge's",
-     "facade",
-     "testing"
-    ],
-    "indie": []
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Why Is the Kennedy Center Board Trying To Add Trump's Name to the Building\u2014Again?",
-   "updated": "2026-08-16T11:00:06+00:00",
-   "outletCount": 6,
-   "counts": {
-    "nonprofit": 1,
-    "family": 3,
-    "pub": 1,
-    "corp": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "reason",
-     "title": "Why Is the Kennedy Center Board Trying To Add Trump's Name to the Building\u2014Again?",
-     "url": "https://reason.com/2026/08/16/the-kennedy-center-board-is-trying-to-add-trumps-name-to-the-building-again-why/",
-     "author": "Billy Binion",
-     "kind": "opinion",
-     "published": "2026-08-16T11:00:06+00:00",
-     "summary": "The board of the John F. Kennedy Center for the Performing Arts approved a plan on Thursday to enshrine President Donald Trump's name on the building, setting off a new battle in the war over what mark he should be able to leave on the institution. We have been down this road before. The Kennedy Center's board of trustees \"overstepped its statutory bounds by unilaterally renaming the Kennedy Center after President Trump,\" U.S. District Judge Christopher Cooper wrote in May. \"In 1964, Congress deliberately rechristened the 'National Cultural Center' the 'John F. Kennedy Center for the Performing Arts.' The text, structure, and evolution of the organic statute makes the institution's name abundantly clear.\" The center, as a result, was forced to remove Trump's name, which had been affixed to the facade as: THE DONALD J. TRUMP AND THE JOHN F. KENNEDY MEMORIAL CENTER FOR THE PERFORMING ARTS. That addition came after the president took control of the Kennedy Center last year\u2014a grab, he maintained, that was necessary to combat alleged wokeness at the institution. \"We don't need woke at the Kennedy Center,\" he said in February 2025 aboard Air Force One. \"Some of the shows were terrible. T"
-    },
-    {
-     "outlet": "foxnews",
-     "title": "EXCLUSIVE: Kennedy Center board moves to name grounds \u2018President Donald J Trump Plaza'",
-     "url": "https://www.foxnews.com/politics/exclusive-kennedy-center-board-moves-name-grounds-president-donald-j-trump-plaza",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T20:20:52+00:00",
-     "summary": "FIRST ON FOX \u2014 The Kennedy Center Board of Trustees wants to name the famed arts institution\u2019s grounds the \"President Donald J. Trump Plaza,\" one of several new ways the board is seeking to honor the president as the center moves ahead with a sweeping renovation, Fox News Digital has learned. The board also wants the words \"Endowed by the Trump Kennedy Center Fund\" inscribed on the building once the fund reaches a $100 million endowment, according to information obtained by Fox News Digital. The previously unreported moves come after the board voted Thursday to add an inscription crediting Trump with restoring and renovating America's cultural center, and approved a partial closure of the complex for renovations. KENNEDY CENTER BOARD MEMBER KNOCKS SEN WHITEHOUSE FOR IGNORING INVITES AS DEM FEUDS WITH TRUMP-RUN LANDMARK The resolution recognizing Trump\u2019s contributions passed by a 20-3 supermajority vote, while the partial-closure resolution passed 23-3, according to a source familiar with the matter. Sen. Sheldon Whitehouse , D-R.I., and Democratic Reps. Joyce Beatty of Ohio and Rick Larsen of Washington voted \"no\" on both resolutions, the source said. The board\u2019s resolution calls f"
-    },
-    {
-     "outlet": "bbc",
-     "title": "Kennedy Center board votes to put Trump's name back on building",
-     "url": "https://www.bbc.co.uk/news/articles/cn7n5l5xy5ro?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T22:21:36+00:00",
-     "summary": "The board on Thursday also voted to proceed with a two-year closure for proposed renovations, which was earlier blocked by a federal judge."
-    },
-    {
-     "outlet": "time",
-     "title": "Kennedy Center Board Votes to Put Trump's Name Back on the Building, Testing Judge's Order",
-     "url": "https://time.com/article/2026/08/13/kennedy-center-trump-name-board-vote-judge-order/",
-     "author": "Connor Greene",
-     "kind": "news",
-     "published": "2026-08-13T22:02:14+00:00",
-     "summary": "A person walks past scaffolding and a large protective tarp covering the facade of the John F. Kennedy Center for the Performing Arts, guarded by two security guards, in Washington, D.C., on August 13, 2026. \u2014Brendan Smialowski\u2014AFP/Getty Images The Kennedy Center boardseon Thursday voted to put President Donald Trump\u2019s name back on the building\u2019s facade, setting the stage to test a judge\u2019s order from May that mandated its removal. The board, made up of mostly Trump loyalists , voted 20-3 to change the name of the building to \u201cThe John F. Kennedy Center for the Performing Arts Restored and Renovated by President Donald J. Trump\u201d while naming the center\u2019s grounds \u201cPresident Donald J. Trump Plaza,\u201d according to attendees of Thursday\u2019s meeting who spoke to multiple media outlets. The board also once again voted to close the performing arts center for up to two years for renovations. Operations are set to shift to the REACH, another building on the campus, while they are completed. \u201cThis morning\u2019s decision to close the Center and the surprise agenda item to put Donald Trump\u2019s name back on the building was more of the same,\u201d Democratic Rep. Joyce Beatty of Ohio, an ex-officio board membe"
-    },
-    {
-     "outlet": "axios",
-     "title": "Kennedy Center board restores Trump's name, testing judge",
-     "url": "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order",
-     "author": "Cuneyt Dil",
-     "kind": "news",
-     "published": "2026-08-13T21:36:42+00:00",
-     "summary": "The Kennedy Center board voted Thursday to again add President Trump's name to the John F. Kennedy Center for the Performing Arts, two anonymous sources told Axios. Why it matters: The move challenges a federal judge's ruling back in May that only Congress could change the name of the performing arts venue, and that Trump's name must be removed . That process was completed in June. U.S. District Judge Christopher Cooper concluded that the board had \"overstepped its statutory bounds by unilaterally renaming\" the center after the president. The administration has appealed the ruling. Zoom in: Thursday's vote won't make Trump's name part of the complex. Instead, an inscription will go below the Kennedy Center sign that reads \"Restored and Renovated by President Donald J. Trump,\" and the physical site will be renamed \"the President Donald J. Trump Plaza.\" The decision is likely meant to circumvent both the judge's ruling and a federal law that oversees the Kennedy Center, which reads in part, \"no additional memorials or plaques in the nature of memorials shall be designated or installed in the public areas.\" \"This latest development is a transparent effort to circumvent the Court's rul"
-    },
-    {
-     "outlet": "theatlantic",
-     "title": "Trump\u2019s New Plan to Get His Name Back on the Kennedy Center",
-     "url": "https://www.theatlantic.com/culture/2026/08/kennedy-center-trump-board/688276/?utm_source=feed",
-     "author": "Janay Kingsberry",
-     "kind": "news",
-     "published": "2026-08-13T20:38:00+00:00",
-     "summary": "Donald Trump just won\u2019t let go of his plans for the Kennedy Center. Less than three months after a federal judge ordered the president\u2019s name stripped from the national arts center, Trump\u2019s handpicked trustees have found a new way to try to put him back on the building. During a board meeting today, they voted in favor of a resolution that would return the president\u2019s name to the building\u2019s facade. It would read: The John F. Kennedy Memorial Center for the Performing Arts Restored and Renovated by President Donald Trump I obtained a copy of the resolution, which contains one more edit to the Kennedy Center\u2019s marble edifice. Once an obscure endowment known as the Trump Kennedy Center Fund reaches $100 million in donations, the resolution would expand the proposed signage\u2019s language to include a third line: Endowed by the Trump Kennedy Center Fund . The vote, which was not included on the agenda distributed before the meeting, will likely drag out a legal fight over Trump\u2019s transformation of the center and deepen an institutional crisis that has repelled audiences, artists, and donors since his takeover. Participants voted 20\u20133 to adopt the resolution, one person familiar with today\u2019"
     }
    ]
   },
@@ -719,6 +920,85 @@
    ]
   },
   {
+   "id": "ef4b90933b",
+   "topic": "Politics",
+   "summary": "The board of the John F. Kennedy Center for the Performing Arts approved a plan on Thursday to enshrine President Donald Trump's name on the building, setting off a new battle in the war over what mark he should be able to leave on the institution. We have been down this road before. The Kennedy Center's board of trustees \"overstepped its statutory bounds by unilaterally renaming the Kennedy Center after President Trump,\" U.S. District Judge Christopher Cooper wrote in May. \"In 1964, Congress deliberately rechristened the 'National Cultural Center' the 'John F. Kennedy Center for the Performing Arts.' The text, structure, and evolution of the organic statute makes the institution's name abundantly clear.\" The center, as a result, was forced to remove Trump's name, which had been affixed to the facade as: THE DONALD J. TRUMP AND THE JOHN F. KENNEDY MEMORIAL CENTER FOR THE PERFORMING\u2026",
+   "summaryFrom": "reason",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 2,
+    "big": [
+     "facade",
+     "trump",
+     "judge's",
+     "testing"
+    ],
+    "indie": []
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Why Is the Kennedy Center Board Trying To Add Trump's Name to the Building\u2014Again?",
+   "updated": "2026-08-16T11:00:06+00:00",
+   "outletCount": 5,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 1,
+    "family": 2,
+    "corp": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "reason",
+     "title": "Why Is the Kennedy Center Board Trying To Add Trump's Name to the Building\u2014Again?",
+     "url": "https://reason.com/2026/08/16/the-kennedy-center-board-is-trying-to-add-trumps-name-to-the-building-again-why/",
+     "author": "Billy Binion",
+     "kind": "opinion",
+     "published": "2026-08-16T11:00:06+00:00",
+     "summary": "The board of the John F. Kennedy Center for the Performing Arts approved a plan on Thursday to enshrine President Donald Trump's name on the building, setting off a new battle in the war over what mark he should be able to leave on the institution. We have been down this road before. The Kennedy Center's board of trustees \"overstepped its statutory bounds by unilaterally renaming the Kennedy Center after President Trump,\" U.S. District Judge Christopher Cooper wrote in May. \"In 1964, Congress deliberately rechristened the 'National Cultural Center' the 'John F. Kennedy Center for the Performing Arts.' The text, structure, and evolution of the organic statute makes the institution's name abundantly clear.\" The center, as a result, was forced to remove Trump's name, which had been affixed to the facade as: THE DONALD J. TRUMP AND THE JOHN F. KENNEDY MEMORIAL CENTER FOR THE PERFORMING ARTS. That addition came after the president took control of the Kennedy Center last year\u2014a grab, he maintained, that was necessary to combat alleged wokeness at the institution. \"We don't need woke at the Kennedy Center,\" he said in February 2025 aboard Air Force One. \"Some of the shows were terrible. T"
+    },
+    {
+     "outlet": "bbc",
+     "title": "Kennedy Center board votes to put Trump's name back on building",
+     "url": "https://www.bbc.co.uk/news/articles/cn7n5l5xy5ro?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T22:21:36+00:00",
+     "summary": "The board on Thursday also voted to proceed with a two-year closure for proposed renovations, which was earlier blocked by a federal judge."
+    },
+    {
+     "outlet": "time",
+     "title": "Kennedy Center Board Votes to Put Trump's Name Back on the Building, Testing Judge's Order",
+     "url": "https://time.com/article/2026/08/13/kennedy-center-trump-name-board-vote-judge-order/",
+     "author": "Connor Greene",
+     "kind": "news",
+     "published": "2026-08-13T22:02:14+00:00",
+     "summary": "A person walks past scaffolding and a large protective tarp covering the facade of the John F. Kennedy Center for the Performing Arts, guarded by two security guards, in Washington, D.C., on August 13, 2026. \u2014Brendan Smialowski\u2014AFP/Getty Images The Kennedy Center boardseon Thursday voted to put President Donald Trump\u2019s name back on the building\u2019s facade, setting the stage to test a judge\u2019s order from May that mandated its removal. The board, made up of mostly Trump loyalists , voted 20-3 to change the name of the building to \u201cThe John F. Kennedy Center for the Performing Arts Restored and Renovated by President Donald J. Trump\u201d while naming the center\u2019s grounds \u201cPresident Donald J. Trump Plaza,\u201d according to attendees of Thursday\u2019s meeting who spoke to multiple media outlets. The board also once again voted to close the performing arts center for up to two years for renovations. Operations are set to shift to the REACH, another building on the campus, while they are completed. \u201cThis morning\u2019s decision to close the Center and the surprise agenda item to put Donald Trump\u2019s name back on the building was more of the same,\u201d Democratic Rep. Joyce Beatty of Ohio, an ex-officio board membe"
+    },
+    {
+     "outlet": "axios",
+     "title": "Kennedy Center board restores Trump's name, testing judge",
+     "url": "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order",
+     "author": "Cuneyt Dil",
+     "kind": "news",
+     "published": "2026-08-13T21:36:42+00:00",
+     "summary": "The Kennedy Center board voted Thursday to again add President Trump's name to the John F. Kennedy Center for the Performing Arts, two anonymous sources told Axios. Why it matters: The move challenges a federal judge's ruling back in May that only Congress could change the name of the performing arts venue, and that Trump's name must be removed . That process was completed in June. U.S. District Judge Christopher Cooper concluded that the board had \"overstepped its statutory bounds by unilaterally renaming\" the center after the president. The administration has appealed the ruling. Zoom in: Thursday's vote won't make Trump's name part of the complex. Instead, an inscription will go below the Kennedy Center sign that reads \"Restored and Renovated by President Donald J. Trump,\" and the physical site will be renamed \"the President Donald J. Trump Plaza.\" The decision is likely meant to circumvent both the judge's ruling and a federal law that oversees the Kennedy Center, which reads in part, \"no additional memorials or plaques in the nature of memorials shall be designated or installed in the public areas.\" \"This latest development is a transparent effort to circumvent the Court's rul"
+    },
+    {
+     "outlet": "theatlantic",
+     "title": "Trump\u2019s New Plan to Get His Name Back on the Kennedy Center",
+     "url": "https://www.theatlantic.com/culture/2026/08/kennedy-center-trump-board/688276/?utm_source=feed",
+     "author": "Janay Kingsberry",
+     "kind": "news",
+     "published": "2026-08-13T20:38:00+00:00",
+     "summary": "Donald Trump just won\u2019t let go of his plans for the Kennedy Center. Less than three months after a federal judge ordered the president\u2019s name stripped from the national arts center, Trump\u2019s handpicked trustees have found a new way to try to put him back on the building. During a board meeting today, they voted in favor of a resolution that would return the president\u2019s name to the building\u2019s facade. It would read: The John F. Kennedy Memorial Center for the Performing Arts Restored and Renovated by President Donald Trump I obtained a copy of the resolution, which contains one more edit to the Kennedy Center\u2019s marble edifice. Once an obscure endowment known as the Trump Kennedy Center Fund reaches $100 million in donations, the resolution would expand the proposed signage\u2019s language to include a third line: Endowed by the Trump Kennedy Center Fund . The vote, which was not included on the agenda distributed before the meeting, will likely drag out a legal fight over Trump\u2019s transformation of the center and deepen an institutional crisis that has repelled audiences, artists, and donors since his takeover. Participants voted 20\u20133 to adopt the resolution, one person familiar with today\u2019"
+    }
+   ]
+  },
+  {
    "id": "fc3549f0e2",
    "topic": "Justice & Policing",
    "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense, arguing that the weapons and murder counts against him should not move forward. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges.\u2026",
@@ -731,10 +1011,10 @@
      "friday"
     ],
     "indie": [
-     "year-old",
-     "death",
      "pleading",
-     "manhattan"
+     "manhattan",
+     "year-old",
+     "death"
     ]
    },
    "absent": [
@@ -801,27 +1081,53 @@
    ]
   },
   {
-   "id": "d66d05d811",
+   "id": "40507e217d",
    "topic": "Other",
-   "summary": "Virginia police arrested a 19-year-old suspect in connection with a mass shooting at Virginia State University on Saturday. Authorities named Camron Harris of Henrico, Virginia , noting that he is not a student at the university. The Saturday shooting left five people wounded, one of whom was in critical condition. Police have not identified any of the victims, but said only one of them is a university student. There was an hours-long manhunt following the shooting, and police say they ultimately found Harris hiding in a closet inside one of the campus dorm buildings. POLICE ANNOUNCE ARREST AFTER 5 WOUNDED IN VIRGINIA STATE UNIVERSITY SHOOTING: REPORT Police obtained felony warrants for four counts of malicious wounding and four counts of use of a firearm in the commission of a felony. Harris is being held without bail at Chesterfield County Jail, according to authorities. They say he\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
+   "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 2,
+    "big": [
+     "opened",
+     "wounded",
+     "multiple",
+     "around",
+     "fire"
+    ],
+    "indie": [
+     "hiding",
+     "closet",
+     "year-old",
+     "arrested",
+     "shooting"
+    ]
+   },
    "absent": [
     "corp",
-    "coop",
-    "nonprofit"
+    "coop"
    ],
-   "headline": "Teenager arrested in Virginia State University shooting that injured five",
-   "updated": "2026-08-16T15:22:50+00:00",
+   "headline": "Suspect in Virginia State University shooting found hiding in dorm closet",
+   "updated": "2026-08-16T15:42:53+00:00",
    "outletCount": 4,
    "counts": {
+    "nonprofit": 1,
     "pub": 1,
-    "family": 3
+    "family": 2
    },
    "newsCount": 3,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Suspect in Virginia State University shooting found hiding in dorm closet",
+     "url": "https://www.theguardian.com/us-news/2026/aug/16/virginia-state-university-shooting-suspect-arrested",
+     "author": "Michael Sainato",
+     "kind": "news",
+     "published": "2026-08-16T15:42:53+00:00",
+     "summary": "Suspect, 19, who is not enrolled at the university arrested in connection with shooting of five people, authorities say A young man suspected in connection with the shooting of five people on Saturday on the campus of Virginia State University (VSU) hid in a dormitory closet for more than 14 hours being found and arrested, according to authorities. The suspect \u2013 identified as 19-year-old Camron Harris \u2013 was found in Seward Hall on VSU\u2019s campus at 4pm, local police Lt James Lamb said, according to the Virginia news outlet WTVR . The shooting occurred at about 1.30am on Saturday. Continue reading..."
+    },
     {
      "outlet": "bbc",
      "title": "Teenager arrested in Virginia State University shooting that injured five",
@@ -830,15 +1136,6 @@
      "kind": "news",
      "published": "2026-08-16T15:22:50+00:00",
      "summary": "The 19-year-old, who was not a student at the university, was found hiding in a closet on campus, according to police."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Virginia State University shooting suspect found hiding in dorm closet arrested",
-     "url": "https://www.foxnews.com/us/virginia-state-university-shooting-suspect-found-hiding-dorm-closet-arrested",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T11:58:38+00:00",
-     "summary": "Virginia police arrested a 19-year-old suspect in connection with a mass shooting at Virginia State University on Saturday. Authorities named Camron Harris of Henrico, Virginia , noting that he is not a student at the university. The Saturday shooting left five people wounded, one of whom was in critical condition. Police have not identified any of the victims, but said only one of them is a university student. There was an hours-long manhunt following the shooting, and police say they ultimately found Harris hiding in a closet inside one of the campus dorm buildings. POLICE ANNOUNCE ARREST AFTER 5 WOUNDED IN VIRGINIA STATE UNIVERSITY SHOOTING: REPORT Police obtained felony warrants for four counts of malicious wounding and four counts of use of a firearm in the commission of a felony. Harris is being held without bail at Chesterfield County Jail, according to authorities. They say he may face more charges. The shooting itself took place early Saturday morning, while Harris was arrested hours later. MANHUNT UNDERWAY AFTER COLLEGE STUDENT FATALLY SHOT CHASING ROBBERS WHO ALLEGEDLY STOLE HIS PHONE \"Officers responded to the 3300 block of Boisseau Street at approximately 1:28 a.m. and"
     },
     {
      "outlet": "breitbart",
@@ -861,122 +1158,71 @@
    ]
   },
   {
-   "id": "2c13ceccef",
+   "id": "a3d713383c",
    "topic": "Politics",
-   "summary": "When President Donald Trump signed an executive order on childhood vaccines this week, Jayme Franklin stood nearby, repeatedly touching her pregnant belly. Franklin, 28, gave brief remarks at the signing and applauded Trump\u2019s order, which seeks to reduce the number of routine vaccines recommended to children. \u201cThis is what this country was built on: freedom for parents to make the decisions that best suit their kid,\u201d she said at the signing. \u201cAnd I\u2019m not anti-vaccine at all. I\u2019m pro-vaccine, but we want to be able to have the freedom to space it out and to choose which one works for our child. We don&#8217;t believe that there&#8217;s a one-size-fits-all solution for every child.\u201d Franklin is a co-founder of The Conservateur, a media brand for conservative women that includes a lifestyle publication and podcast. She\u2019s also a self-described MAHA mom \u2014 a subset of the electorate who lean\u2026",
-   "summaryFrom": "the19th",
+   "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions\u2026",
+   "summaryFrom": "reason",
    "emphasis": null,
    "absent": [
-    "coop",
-    "pub"
+    "corp",
+    "family",
+    "coop"
    ],
-   "headline": "What Trump\u2019s vaccine order says about his relationship with MAHA moms",
-   "updated": "2026-08-16T14:56:06+00:00",
+   "headline": "West Bank: Activist recounts life under settler siege in Qusra",
+   "updated": "2026-08-16T14:38:57+00:00",
    "outletCount": 4,
    "counts": {
-    "corp": 2,
-    "nonprofit": 1,
-    "family": 1
+    "pub": 3,
+    "nonprofit": 2
    },
    "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
+   "opinionCount": 1,
+   "underreported": true,
    "articles": [
     {
-     "outlet": "dailybeast",
-     "title": "GOP Senator Savages Trump\u2019s \u2018Crazy Stupid\u2019 New Order",
-     "url": "https://www.thedailybeast.com/gop-senator-bill-cassidy-savages-trumps-crazy-stupid-new-order/",
-     "author": "Katie Francis",
+     "outlet": "france24",
+     "title": "West Bank: Activist recounts life under settler siege in Qusra",
+     "url": "https://www.france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra",
+     "author": "FRANCE24",
      "kind": "news",
-     "published": "2026-08-16T14:56:06+00:00",
-     "summary": "CNN Republican Sen. Bill Cassidy is raging against President Donald Trump\u2019s \u201cpotentially tragic\u201d overhaul of the childhood vaccine schedule. Cassidy, a physician, appeared on State of the Union Sunday, and was asked about Trump\u2019s claims that the current combined MMR vaccine could be \u201cquite lethal,\u201d and was comparable to \u201cpumping\u201d a child with \u201ca large vat\u201d or \u201cgallons\u201d of chemicals . \u201cYeah, that\u2019s a crazy, stupid thing,\u201d Cassidy said. Read more at The Daily Beast."
+     "published": "2026-08-16T14:38:57+00:00",
+     "summary": "A week after Israeli settlers began besieging Palestinian homes in the West Bank village of Qusra, human rights activist Netanael Hanadaro joined FRANCE 24 to recount what he witnessed there. He said he and other NGO members reached the isolated homes on foot and left food outside for the trapped residents, with the Israeli army saying it would deliver the supplies. Hanadaro described an extraordinary situation in which the homes, located on the outskirts of the village, have been surrounded by settlers while the army works to prevent clashes between the settlers and activists."
     },
     {
-     "outlet": "abcnews",
-     "title": "GOP Sen. Bill Cassidy on Trump\u2019s vaccine executive order: \u2018Stupid thing to do\u2019",
-     "url": "https://abcnews.com/Politics/gop-sen-bill-cassidy-trumps-vaccine-executive-order/story?id=135685348",
+     "outlet": "aljazeera",
+     "title": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
+     "url": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T14:20:10+00:00",
-     "summary": "Republican Sen. Bill Cassidy said on ABC News' \"This Week\" that Trump's executive order on vaccines was a \"stupid thing to do.\""
+     "published": "2026-08-16T13:17:57+00:00",
+     "summary": "Israeli settlers encircle Palestinian homes and cut off supplies, leading to a declaration of a military zone."
     },
     {
-     "outlet": "the19th",
-     "title": "What Trump\u2019s vaccine order says about his relationship with MAHA moms",
-     "url": "https://19thnews.org/2026/08/trump-vaccine-order-maha-moms/",
-     "author": "Barbara Rodriguez",
+     "outlet": "france24",
+     "title": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
+     "url": "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
+     "author": "FRANCE 24",
      "kind": "news",
-     "published": "2026-08-14T18:27:39+00:00",
-     "summary": "When President Donald Trump signed an executive order on childhood vaccines this week, Jayme Franklin stood nearby, repeatedly touching her pregnant belly. Franklin, 28, gave brief remarks at the signing and applauded Trump\u2019s order, which seeks to reduce the number of routine vaccines recommended to children. \u201cThis is what this country was built on: freedom for parents to make the decisions that best suit their kid,\u201d she said at the signing. \u201cAnd I\u2019m not anti-vaccine at all. I\u2019m pro-vaccine, but we want to be able to have the freedom to space it out and to choose which one works for our child. We don&#8217;t believe that there&#8217;s a one-size-fits-all solution for every child.\u201d Franklin is a co-founder of The Conservateur, a media brand for conservative women that includes a lifestyle publication and podcast. She\u2019s also a self-described MAHA mom \u2014 a subset of the electorate who lean into their identities as mothers to advocate for policies that they purport will make children healthier through the Make America Healthy Again movement. Its ranks include several high-ranking women in the White House, like press secretary Karoline Leavitt, who just announced she is leaving her job t"
+     "published": "2026-08-16T12:02:18+00:00",
+     "summary": "A solar eclipse seen across parts of Europe, ongoing search-and-rescue efforts in Colombia after a devastating earthquake killed at least 300 people and left hundreds missing, and escalating violence by Israeli settlers in the occupied West Bank, condemned by the US ambassador to Israel as \"acts of terror\": FRANCE 24 takes a look at the week's most striking images."
     },
     {
-     "outlet": "theatlantic",
-     "title": "Trump\u2019s Latest Vaccine Order Is Making Things More Confusing",
-     "url": "https://www.theatlantic.com/newsletters/2026/08/us-childhood-vaccine-guidance-mess/688285/?utm_source=feed",
-     "author": "Will Gottsegen",
-     "kind": "news",
-     "published": "2026-08-13T22:49:00+00:00",
-     "summary": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here. In January, the Trump administration attempted to fundamentally change the way the United States handles childhood immunizations. Following a memo from the Department of Health and Human Services, the CDC updated its vaccine schedule to recommend that some shots no longer be given to all children. A federal court undid the effort in March. In an executive order in May, Donald Trump called on states to adopt the narrower schedule anyway. On Monday, Trump issued a new executive order on the same subject, focused on lowering the number of vaccines that the government recommends for all children. As I wrote earlier this week, this White House has a habit of doubling down when it doesn\u2019t get its way. But only states have the power to put these proposals into practice\u2014and many state policy makers, concerned that the White House is contradicting existing research, aren\u2019t keen to follow its guidance. According to the new executive order, preventive shots for hepatitis A, hepatitis B, dengue, and"
-    }
-   ]
-  },
-  {
-   "id": "fe62922edd",
-   "topic": "World",
-   "summary": "Prolonged deployment is coupled with reports of water shortages, plumbing issues and attempts to jump overboard Trump downplays concerns about sailors onboard USS Abraham Lincoln US navy veterans and military health experts are expressing concerns about the strain on sailors aboard the USS Abraham Lincoln, which has spent nearly nine months at sea supporting US operations in the Middle East, amid reports of poor living conditions and worsening mental health among its crew. The San Diego-based aircraft carrier left port on 21 November, originally bound for the Pacific, but was redirected to the Middle East as the US-Israel war with Iran began. It has now spent more than 250 consecutive days at sea without a significant port visit, with its deployment repeatedly extended. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "US navy veterans and military health experts express concern over USS Abraham Lincoln sailors",
-   "updated": "2026-08-16T14:55:49+00:00",
-   "outletCount": 4,
-   "counts": {
-    "corp": 2,
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "Former Joint Chiefs chair: Truth about issues on USS Abraham Lincoln 'somewhere in the middle'",
-     "url": "https://thehill.com/policy/defense/6031908-mullen-uss-abraham-lincoln-mental-health/",
-     "author": "Max Rego",
-     "kind": "news",
-     "published": "2026-08-16T14:55:49+00:00",
-     "summary": "Retired Adm. Mike Mullen, the former chairman of the Joint Chiefs of Staff, said Sunday the truth about the reported mental health concerns among service members on board the USS Abraham Lincoln is likely \u201csomewhere in the middle.\u201d During an interview on ABC\u2019s \u201cThis Week,\u201d Mullen said he had \u201cgreat concern\u201d about conditions on the..."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T14:53:55+00:00",
-     "summary": "Meanwhile, Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children."
+     "outlet": "reason",
+     "title": "Israeli Settler \"Terrorists\" Unjustly Expel West Bank Palestinians From Their Land",
+     "url": "https://reason.com/volokh/2026/08/15/israeli-settler-terrorists-unjustly-expel-west-bank-palestinians-from-their-land/",
+     "author": "Ilya Somin",
+     "kind": "opinion",
+     "published": "2026-08-15T22:17:52+00:00",
+     "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions are deeply unjust, amounting to ethnic cleansing and gross violations of private property rights. They also highlight broader dangers of ethno-nationalist claims to exclusive control over land. The Times of Israel (a center-right Israeli publication) has a helpful overview of the recent settler violenc"
     },
     {
      "outlet": "guardian",
-     "title": "US navy veterans and military health experts express concern over USS Abraham Lincoln sailors",
-     "url": "https://www.theguardian.com/us-news/2026/aug/15/uss-abraham-lincoln-sailors-mental-health",
-     "author": "Anna Betts",
+     "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
+     "url": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
+     "author": "Emma Graham-Harrison in Jerusalem",
      "kind": "news",
-     "published": "2026-08-15T11:00:55+00:00",
-     "summary": "Prolonged deployment is coupled with reports of water shortages, plumbing issues and attempts to jump overboard Trump downplays concerns about sailors onboard USS Abraham Lincoln US navy veterans and military health experts are expressing concerns about the strain on sailors aboard the USS Abraham Lincoln, which has spent nearly nine months at sea supporting US operations in the Middle East, amid reports of poor living conditions and worsening mental health among its crew. The San Diego-based aircraft carrier left port on 21 November, originally bound for the Pacific, but was redirected to the Middle East as the US-Israel war with Iran began. It has now spent more than 250 consecutive days at sea without a significant port visit, with its deployment repeatedly extended. Continue reading..."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Navy and USS Lincoln\u2019s Problems Are Tied to Attacks on U.S. Base Early in War",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html",
-     "author": "John Ismay",
-     "kind": "news",
-     "published": "2026-08-14T22:35:07+00:00",
-     "summary": "Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy\u2019s logistics hub after Iran damaged a base in Bahrain."
+     "published": "2026-08-13T18:54:09+00:00",
+     "summary": "Former PM of Israel calls events \u2018concerted and meticulous attempt at ethnic cleansing\u2019 against Palestinians Israeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top Israeli commander personally promised he would end a violent settler campaign to drive them out. Israeli soldiers also took over eight other homes in Qusra early on Thursday, telling the village\u2019s mayor, Abdul Azim Wadi, that the buildings were needed for a days-long operation to remove the settlers. They later relinquished six. Settlers still roam the village. Continue reading..."
     }
    ]
   },
@@ -1097,126 +1343,6 @@
      "kind": "opinion",
      "published": "2026-08-14T16:57:09+00:00",
      "summary": "Jason Arday, the Cambridge professor who resigned nine days ago over plagiarism allegations, was found dead in his London home. Authorities said in a statement that an ambulance was called to his residence after Arday had been found &#8220;unresponsive.&#8221; He was pronounced dead at the scene. Police added that the death was being treated as \u201cunexpected\u201d but is not believed to be suspicious, according to The Telegraph. Just nine days ago, Cambridge launched an investigation into Arday. \u201cThe University of Cambridge has begun an investigation following new information about Professor Arday\u2019s academic qualifications and honorary appointments,\u201d the statement from the university said. \u201cIn order to ensure a fair process, we will not comment further until this has concluded.&#8221; Cambridge was not initially keen on opening an investigation. Cambridge said Arday was \u201cthe victim of a vile campaign to undermine his credibility, which must stop.\u201d The school began to change its tune when reports emerged that Arday had filed a harassment claim against a journalist who was investigating his work. The day that Cambridge announced its investigation, Arday resigned. \u201cI no longer wish to feel a"
-    }
-   ]
-  },
-  {
-   "id": "3a10444b79",
-   "topic": "Other",
-   "summary": "Theft of four works on national holiday described as wound to historical memory and cultural identity of city of Messina Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina. Thieves gained access to the Regional Museum of Messina , or MuMe, on Saturday evening, possibly capitalising on attention being focused on La Vara, a huge religious festival that takes place in the city on 15 August, when Italy marks the Ferragosto national holiday. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop"
-   ],
-   "headline": "Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
-   "updated": "2026-08-16T13:44:29+00:00",
-   "outletCount": 4,
-   "counts": {
-    "nonprofit": 1,
-    "pub": 2,
-    "corp": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
-     "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
-     "author": "Lorenzo Tondo in Palermo",
-     "kind": "news",
-     "published": "2026-08-16T13:44:29+00:00",
-     "summary": "Theft of four works on national holiday described as wound to historical memory and cultural identity of city of Messina Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina. Thieves gained access to the Regional Museum of Messina , or MuMe, on Saturday evening, possibly capitalising on attention being focused on La Vara, a huge religious festival that takes place in the city on 15 August, when Italy marks the Ferragosto national holiday. Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-     "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T13:34:38+00:00",
-     "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "4 Renaissance paintings stolen from museum in Italy",
-     "url": "https://www.cbsnews.com/news/renaissance-paintings-stolen-museum-italy/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T12:06:28+00:00",
-     "summary": "Local officials have expressed their dismay and sadness at the theft which occurred during celebrations of the Virgin Mary."
-    },
-    {
-     "outlet": "france24",
-     "title": "Italy recovers millions of euros worth of stolen Renoir, C\u00e9zanne and Matisse paintings",
-     "url": "https://www.france24.com/en/video/20260816-italy-recovers-millions-of-euros-worth-of-stolen-renoir-c%C3%A9zanne-and-matisse-paintings",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T08:56:50+00:00",
-     "summary": "Italian authorities have recovered three paintings by Renoir, C\u00e9zanne and Matisse, worth more than \u20ac9 million, months after they were stolen from a private museum near Parma. Five Moldovan suspects have been detained, with police saying the gang had carefully planned the heist and was equipped to disable the museum's security systems."
-    }
-   ]
-  },
-  {
-   "id": "d16fa363c0",
-   "topic": "Politics",
-   "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions\u2026",
-   "summaryFrom": "reason",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
-   "updated": "2026-08-16T13:17:57+00:00",
-   "outletCount": 4,
-   "counts": {
-    "pub": 2,
-    "nonprofit": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 1,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
-     "url": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T13:17:57+00:00",
-     "summary": "Israeli settlers encircle Palestinian homes and cut off supplies, leading to a declaration of a military zone."
-    },
-    {
-     "outlet": "france24",
-     "title": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
-     "url": "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-16T12:02:18+00:00",
-     "summary": "A solar eclipse seen across parts of Europe, ongoing search-and-rescue efforts in Colombia after a devastating earthquake killed at least 300 people and left hundreds missing, and escalating violence by Israeli settlers in the occupied West Bank, condemned by the US ambassador to Israel as \"acts of terror\": FRANCE 24 takes a look at the week's most striking images."
-    },
-    {
-     "outlet": "reason",
-     "title": "Israeli Settler \"Terrorists\" Unjustly Expel West Bank Palestinians From Their Land",
-     "url": "https://reason.com/volokh/2026/08/15/israeli-settler-terrorists-unjustly-expel-west-bank-palestinians-from-their-land/",
-     "author": "Ilya Somin",
-     "kind": "opinion",
-     "published": "2026-08-15T22:17:52+00:00",
-     "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions are deeply unjust, amounting to ethnic cleansing and gross violations of private property rights. They also highlight broader dangers of ethno-nationalist claims to exclusive control over land. The Times of Israel (a center-right Israeli publication) has a helpful overview of the recent settler violenc"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
-     "url": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
-     "author": "Emma Graham-Harrison in Jerusalem",
-     "kind": "news",
-     "published": "2026-08-13T18:54:09+00:00",
-     "summary": "Former PM of Israel calls events \u2018concerted and meticulous attempt at ethnic cleansing\u2019 against Palestinians Israeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top Israeli commander personally promised he would end a violent settler campaign to drive them out. Israeli soldiers also took over eight other homes in Qusra early on Thursday, telling the village\u2019s mayor, Abdul Azim Wadi, that the buildings were needed for a days-long operation to remove the settlers. They later relinquished six. Settlers still roam the village. Continue reading..."
     }
    ]
   },
@@ -1416,12 +1542,12 @@
     "bigCount": 3,
     "indieCount": 3,
     "big": [
-     "stations",
-     "worth",
      "airport",
      "foot-washing",
+     "worth",
+     "stations",
      "international",
-     "scrapped"
+     "fort"
     ],
     "indie": [
      "order"
@@ -1500,6 +1626,57 @@
    ]
   },
   {
+   "id": "acdb46edef",
+   "topic": "World",
+   "summary": "Editor&rsquo;s Note: Washington Week With The Atlantic is a partnership between NewsHour Productions, WETA, and The Atlantic airing every Friday on PBS stations nationwide. Check your local listings , watch full episodes here , or listen to the weekly podcast here . Secretary of Defense Pete Hegseth has said that the U.S. could maintain a blockade of Iran \u201cindefinitely.\u201d On Washington Week With The Atlantic , panelists joined to discuss the political consequences of the continued conflict, and more. The president has made \u201ca total miscalculation\u201d with Iran, Elisabeth Bumiller, a writer at large at The New York Times , argued last night. What has unfolded since the conflict began reflects \u201cthe reason that previous presidents did not do what Donald Trump did, because of the inevitable consequences\u201d of \u201cigniting a regional war in the Middle East and closing the Strait of Hormuz.\u201d Joining\u2026",
+   "summaryFrom": "theatlantic",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Short pants: The long and the short of it",
+   "updated": "2026-08-16T16:00:23+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "family": 2
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Short pants: The long and the short of it",
+     "url": "https://www.cbsnews.com/news/short-pants-the-long-and-the-short-of-it/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T16:00:23+00:00",
+     "summary": "The summer of 1936 saw a heat wave so dangerous at least five thousand people died. It also saw the popularization of a cooler fashion alternative \u2013 shorts \u2013 which, in some jurisdictions, were illegal."
+    },
+    {
+     "outlet": "theatlantic",
+     "title": "Iran\u2019s Long Shadow",
+     "url": "https://www.theatlantic.com/national/2026/08/political-consequences-iran-washington-week/688302/?utm_source=feed",
+     "author": "The Editors",
+     "kind": "news",
+     "published": "2026-08-15T14:25:00+00:00",
+     "summary": "Editor&rsquo;s Note: Washington Week With The Atlantic is a partnership between NewsHour Productions, WETA, and The Atlantic airing every Friday on PBS stations nationwide. Check your local listings , watch full episodes here , or listen to the weekly podcast here . Secretary of Defense Pete Hegseth has said that the U.S. could maintain a blockade of Iran \u201cindefinitely.\u201d On Washington Week With The Atlantic , panelists joined to discuss the political consequences of the continued conflict, and more. The president has made \u201ca total miscalculation\u201d with Iran, Elisabeth Bumiller, a writer at large at The New York Times , argued last night. What has unfolded since the conflict began reflects \u201cthe reason that previous presidents did not do what Donald Trump did, because of the inevitable consequences\u201d of \u201cigniting a regional war in the Middle East and closing the Strait of Hormuz.\u201d Joining the editor in chief of The Atlantic , Jeffrey Goldberg, to discuss this and more: Bumiller; Adam Harris, the host of Radio Atlantic ; Dan Lamothe, a national-security reporter at The Washington Post ; Liz Landers, a White House correspondent at PBS News Hour . Watch the full episode here ."
+    },
+    {
+     "outlet": "semafor",
+     "title": "Leadership changes signal Iran expects a long war",
+     "url": "https://www.semafor.com/article/08/14/2026/amid-leadership-changes-iran-gears-up-for-a-long-war",
+     "author": "Prashant Rao",
+     "kind": "news",
+     "published": "2026-08-14T11:19:19+00:00",
+     "summary": "Iran\u2019s recent reshuffle, as well as its shifting battlefield tactics, suggest it is adapting for a lengthening conflict with the US. Tehran has reordered its leadership in part because of repeated assassinations of its top brass by American and Israeli strikes. But recent moves point to how Iran is \u201c preparing for a prolonged confrontation ,\u201d an expert wrote in Foreign Policy, noting that Iran was centralizing its military apparatus and increasing its focus on offensive operations. The use of a drone swarm against a US fighter jet, meanwhile, pointed to how \u201cIran has sought to learn and implement important lessons about the modern battlefield ,\u201d in particular from the Russia-Ukraine conflict, the Institute for the Study of War said. \u2014 Prashant Rao"
+    }
+   ]
+  },
+  {
    "id": "80daf3a1d1",
    "topic": "Culture & Sport",
    "summary": "Mama probably never said there\u2019d be days like this . Newest St. Louis Cardinal Joshua Baez hit three homers in his first three plate appearances as a big leaguer yesterday in Chicago. According to Baseball Almanac , there have been 22,800 other MLBers since the National League\u2019s founding in 1876. None had a debut to match Baez\u2019s.&#160; In the top of the first inning against the Cubs, the Cards\u2019 outfielder hit the first big league pitch he ever saw 449 feet to center, almost leaving Wrigley Field. He faced Cubs\u2019 left-hander Matthew Boyd again in the third, and put a 3-2 pitch into the left field bleachers for his second HR. And he three-peated with a bomb to right in the top of the sixth. He finished the day 3-4, with 5 RBIs, in the Cards' 8-4 win. https://www.youtube.com/watch?v=2QJdGWANMdU",
@@ -1551,108 +1728,6 @@
    ]
   },
   {
-   "id": "9d70eb4ea5",
-   "topic": "Other",
-   "summary": "At least 47 people have been killed after a powerful 7.7-magnitude earthquake struck eastern Indonesia, triggering hundreds of aftershocks, widespread destruction and landslides. Rescue operations are underway as remote villages remain difficult to reach and the death toll is expected to rise.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Rescuers in Indonesia recover more bodies in earthquake aftermath, raising death toll to 53",
-   "updated": "2026-08-16T15:25:05+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 1,
-    "pub": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "pbsnewshour",
-     "title": "Rescuers in Indonesia recover more bodies in earthquake aftermath, raising death toll to 53",
-     "url": "https://www.pbs.org/newshour/world/rescuers-in-indonesia-recover-more-bodies-in-earthquake-aftermath-raising-death-toll-to-53",
-     "author": "Firdia Lisnawati, Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T15:25:05+00:00",
-     "summary": "More than 900 homes were destroyed and 450 more damaged in East Nusa Tenggara province, forcing about 5,000 people into temporary shelters."
-    },
-    {
-     "outlet": "france24",
-     "title": "Indonesian earthquake : Aid reaches Flores as death toll climbs",
-     "url": "https://www.france24.com/en/indonesian-earthquake-aid-reaches-flores-as-death-toll-climbs",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T08:46:45+00:00",
-     "summary": "At least 47 people have been killed after a powerful 7.7-magnitude earthquake struck eastern Indonesia, triggering hundreds of aftershocks, widespread destruction and landslides. Rescue operations are underway as remote villages remain difficult to reach and the death toll is expected to rise."
-    },
-    {
-     "outlet": "dw",
-     "title": "Indonesia: Dozens dead after earthquake off Flores island",
-     "url": "https://www.dw.com/en/indonesia-dozens-dead-after-earthquake-off-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T23:45:00+00:00",
-     "summary": "At least 47 people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftershocks. A tsunami warning has been lifted."
-    }
-   ]
-  },
-  {
-   "id": "0d2175ae5d",
-   "topic": "Justice & Policing",
-   "summary": "Former Sen. Kyrsten Sinema is continuing to challenge the lawsuit brought by the wife of her former security guard and lover, Matthew Ammel. Sinema has admitted to having an affair with Ammel while she was the Democratic senator from Arizona. Heather Ammel\u2019s lawsuit alleges the tort of alienation of affection, an action many may find outdated in our more open or indulgent culture. I start teaching my torts class this week, and the alienation tort remains a controversy at the intersection of tort and constitutional law. There was a time when most states had morality crimes that punished adultery or homosexuality. They have been largely scrubbed from our books due to constitutional challenges and changing social mores. However, a spouse can still sue civilly over a third party ruining a marriage through adultery. Such \"heart balm\" actions go back to the earliest days of tort liability.\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Ex-Sen. Kyrsten Sinema details repeated sex with bodyguard in \u2018homewrecker\u2019 case where ex-wife wants $75K",
-   "updated": "2026-08-16T14:45:19+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 3
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Ex-Sen. Kyrsten Sinema details repeated sex with bodyguard in \u2018homewrecker\u2019 case where ex-wife wants $75K",
-     "url": "https://nypost.com/2026/08/16/us-news/ex-sen-kyrsten-sinema-details-repeated-sex-with-bodyguard/",
-     "author": "Ryan King",
-     "kind": "news",
-     "published": "2026-08-16T14:45:19+00:00",
-     "summary": "Former Sen. Kyrsten Sinema opened up about the sordid details of her dalliance with her then-married ex-bodyguard during a deposition in the $75,000 \"homewrecker\" suit brought by his angry ex-wife."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "JONATHAN TURLEY: Former Sen Kyrsten Sinema fights affair lawsuit invoking centuries-old marriage tort",
-     "url": "https://www.foxnews.com/opinion/jonathan-turley-former-sen-kyrsten-sinema-fights-affair-lawsuit-invoking-centuries-old-marriage-tort",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-16T14:39:24+00:00",
-     "summary": "Former Sen. Kyrsten Sinema is continuing to challenge the lawsuit brought by the wife of her former security guard and lover, Matthew Ammel. Sinema has admitted to having an affair with Ammel while she was the Democratic senator from Arizona. Heather Ammel\u2019s lawsuit alleges the tort of alienation of affection, an action many may find outdated in our more open or indulgent culture. I start teaching my torts class this week, and the alienation tort remains a controversy at the intersection of tort and constitutional law. There was a time when most states had morality crimes that punished adultery or homosexuality. They have been largely scrubbed from our books due to constitutional challenges and changing social mores. However, a spouse can still sue civilly over a third party ruining a marriage through adultery. Such \"heart balm\" actions go back to the earliest days of tort liability. However, the tort has been abolished in 42 states, leaving Hawaii, North Carolina , Mississippi, New Mexico, South Dakota and Utah as the exceptions. COURT FILINGS REVEAL KYRSTEN SINEMA HAD SEX MULTIPLE TIMES WITH MARRIED BODYGUARD WHILE SERVING AS SENATOR Early tort cases spoke of two violative acts :"
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Kyrsten Sinema Details Affair with Bodyguard in Legal Fight with His Ex-Wife: 'We Went Inside and Had Sex'",
-     "url": "https://www.breitbart.com/politics/2026/08/15/kyrsten-sinema-details-affair-with-bodyguard-in-legal-fight-with-his-ex-wife-we-went-inside-and-had-sex/",
-     "author": "Amy Furr",
-     "kind": "news",
-     "published": "2026-08-15T17:30:05+00:00",
-     "summary": "Former Democrat-turned-Independent Arizona senator Kyrsten Sinema has been open in court about her sexual relationship with a former bodyguard who is now her boyfriend. The post Kyrsten Sinema Details Affair with Bodyguard in Legal Fight with His Ex-Wife: &#8216;We Went Inside and Had Sex&#8217; appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
    "id": "c2999d0648",
    "topic": "Health",
    "summary": "Tennis star Novak Djokovic alluded to a health condition after an early exit from the Cincinnati Open on Saturday, in which he lost to 25-year-old Thiago Agust\u00edn Tirante in the second round.",
@@ -1700,57 +1775,6 @@
      "kind": "news",
      "published": "2026-08-16T09:03:05+00:00",
      "summary": "Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Open in his first match since Wimbledon."
-    }
-   ]
-  },
-  {
-   "id": "04bf212d3d",
-   "topic": "World",
-   "summary": "Editor&rsquo;s Note: Washington Week With The Atlantic is a partnership between NewsHour Productions, WETA, and The Atlantic airing every Friday on PBS stations nationwide. Check your local listings , watch full episodes here , or listen to the weekly podcast here . Secretary of Defense Pete Hegseth has said that the U.S. could maintain a blockade of Iran \u201cindefinitely.\u201d On Washington Week With The Atlantic , panelists joined to discuss the political consequences of the continued conflict, and more. The president has made \u201ca total miscalculation\u201d with Iran, Elisabeth Bumiller, a writer at large at The New York Times , argued last night. What has unfolded since the conflict began reflects \u201cthe reason that previous presidents did not do what Donald Trump did, because of the inevitable consequences\u201d of \u201cigniting a regional war in the Middle East and closing the Strait of Hormuz.\u201d Joining\u2026",
-   "summaryFrom": "theatlantic",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Short pants: The long and the short of it",
-   "updated": "2026-08-16T13:57:16+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 1,
-    "family": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Short pants: The long and the short of it",
-     "url": "https://www.cbsnews.com/video/short-pants-the-long-and-the-short-of-it/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T13:57:16+00:00",
-     "summary": "The summer of 1936 saw a heat wave so dangerous at least five thousand people died. It also saw the popularization of a cooler fashion alternative: shorts. Correspondent Mo Rocca looks at the long history of short pants; how at one time, in Yonkers, N.Y., the wearing of shorts was illegal; and how hot pants and Daisy Dukes became high fashion."
-    },
-    {
-     "outlet": "theatlantic",
-     "title": "Iran\u2019s Long Shadow",
-     "url": "https://www.theatlantic.com/national/2026/08/political-consequences-iran-washington-week/688302/?utm_source=feed",
-     "author": "The Editors",
-     "kind": "news",
-     "published": "2026-08-15T14:25:00+00:00",
-     "summary": "Editor&rsquo;s Note: Washington Week With The Atlantic is a partnership between NewsHour Productions, WETA, and The Atlantic airing every Friday on PBS stations nationwide. Check your local listings , watch full episodes here , or listen to the weekly podcast here . Secretary of Defense Pete Hegseth has said that the U.S. could maintain a blockade of Iran \u201cindefinitely.\u201d On Washington Week With The Atlantic , panelists joined to discuss the political consequences of the continued conflict, and more. The president has made \u201ca total miscalculation\u201d with Iran, Elisabeth Bumiller, a writer at large at The New York Times , argued last night. What has unfolded since the conflict began reflects \u201cthe reason that previous presidents did not do what Donald Trump did, because of the inevitable consequences\u201d of \u201cigniting a regional war in the Middle East and closing the Strait of Hormuz.\u201d Joining the editor in chief of The Atlantic , Jeffrey Goldberg, to discuss this and more: Bumiller; Adam Harris, the host of Radio Atlantic ; Dan Lamothe, a national-security reporter at The Washington Post ; Liz Landers, a White House correspondent at PBS News Hour . Watch the full episode here ."
-    },
-    {
-     "outlet": "semafor",
-     "title": "Leadership changes signal Iran expects a long war",
-     "url": "https://www.semafor.com/article/08/14/2026/amid-leadership-changes-iran-gears-up-for-a-long-war",
-     "author": "Prashant Rao",
-     "kind": "news",
-     "published": "2026-08-14T11:19:19+00:00",
-     "summary": "Iran\u2019s recent reshuffle, as well as its shifting battlefield tactics, suggest it is adapting for a lengthening conflict with the US. Tehran has reordered its leadership in part because of repeated assassinations of its top brass by American and Israeli strikes. But recent moves point to how Iran is \u201c preparing for a prolonged confrontation ,\u201d an expert wrote in Foreign Policy, noting that Iran was centralizing its military apparatus and increasing its focus on offensive operations. The use of a drone swarm against a US fighter jet, meanwhile, pointed to how \u201cIran has sought to learn and implement important lessons about the modern battlefield ,\u201d in particular from the Russia-Ukraine conflict, the Institute for the Study of War said. \u2014 Prashant Rao"
     }
    ]
   },
@@ -1853,108 +1877,6 @@
      "kind": "news",
      "published": "2026-08-13T22:04:30+00:00",
      "summary": "The Sunshine Protection Act would enact a sweeping change to the current system by making Daylight Saving Time year-round across the country. \u2014Kinga Krzeminska\u2014Getty Images President Donald Trump is renewing his support for a bill that would make the U.S. observe Daylight Saving Time year-round. In a Truth Social post on Wednesday evening, the President said he was \u201cproud\u201d that the House passed a bill last month that would make Daylight Saving Time permanent, and proceeded to call on the Senate to pass the measure. \u201cPeople are sick and tired of having to change their clocks twice a year. It is foolish, inconvenient and, in some cases, very costly,\u201d Trump said. He went on to argue that the practice \u201cis also bad for your health in the anxiety it creates,\u201d and claimed that permanent Daylight Saving Time would have many benefits, including that it would \u201chelp Decrease Robbery and Murder Rates, Reduce Car Accidents (especially those involving Pedestrians!), Lower Risk for Cardiac Issues, Stroke, and Seasonal Depression, Make it Safer for Children to Walk Home from School.\u201d \u201cThis is an issue that Republicans, Dumocrats, and Independents can unite behind,\u201d he continued. \u201cI am asking Repub"
-    }
-   ]
-  },
-  {
-   "id": "6b9bc31e3b",
-   "topic": "Politics",
-   "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy \u200bposition, not clear Donald Trump has threatened to declare the strait of Hormuz as \u201ca territory of the United States\u201d as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would \u201cpretty soon\u201d designate the waterway \u2013 a crucial chokepoint for global trade, through which about a fifth of the world\u2019s seaborne oil supplies typically pass \u2013 a US territory. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
-   "updated": "2026-08-16T11:14:23+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
-     "url": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T11:14:23+00:00",
-     "summary": "US president has yet another outlandish threat for Iran, with no end to war in sight."
-    },
-    {
-     "outlet": "dw",
-     "title": "Donald Trump to declare Hormuz US territory 'soon'",
-     "url": "https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T22:14:00+00:00",
-     "summary": "Donald Trump said the strait would become part of the US after Iran is defeated. He also told Americans to accept higher gas prices, which have soared since Iran closed Hormuz in response to US and Israeli attacks."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump threatens to declare strait of Hormuz \u2018territory of the United States\u2019",
-     "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
-     "author": "Maya Yang",
-     "kind": "news",
-     "published": "2026-08-14T21:38:17+00:00",
-     "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy \u200bposition, not clear Donald Trump has threatened to declare the strait of Hormuz as \u201ca territory of the United States\u201d as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would \u201cpretty soon\u201d designate the waterway \u2013 a crucial chokepoint for global trade, through which about a fifth of the world\u2019s seaborne oil supplies typically pass \u2013 a US territory. Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "f618742a5f",
-   "topic": "Justice & Policing",
-   "summary": "The Supreme Court\u2019s emergency docket has flared up in the thick of the justices\u2019 summer recess. President Trump is urging the justices to revive his mail ballot restrictions and allow White House ballroom construction to resume. It again puts the high court in the hot seat after its string of key rulings on other aspects of...",
-   "summaryFrom": "thehill",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Today in Supreme Court History: August 16, 1933",
-   "updated": "2026-08-16T11:00:44+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 1,
-    "corp": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "reason",
-     "title": "Today in Supreme Court History: August 16, 1933",
-     "url": "https://reason.com/volokh/2026/08/16/today-in-supreme-court-history-august-16-1933-6/",
-     "author": "Josh Blackman",
-     "kind": "opinion",
-     "published": "2026-08-16T11:00:44+00:00",
-     "summary": "8/16/1933: President Roosevelt adopts the Code of Fair Competition for the Governance of the Petroleum Industry. The Supreme Court declared those codes unconstitutional in Panama Refining Co. v. Ryan (1935). President Franklin D. Roosevelt The post Today in Supreme Court History: August 16, 1933 appeared first on Reason.com ."
-    },
-    {
-     "outlet": "thehill",
-     "title": "Supreme Court emergency docket roars back",
-     "url": "https://thehill.com/regulation/court-battles/6030687-supreme-court-emergency-docket-trump-ballroom-mail-ballots/",
-     "author": "Zach Schonfeld",
-     "kind": "news",
-     "published": "2026-08-16T10:00:00+00:00",
-     "summary": "The Supreme Court\u2019s emergency docket has flared up in the thick of the justices\u2019 summer recess. President Trump is urging the justices to revive his mail ballot restrictions and allow White House ballroom construction to resume. It again puts the high court in the hot seat after its string of key rulings on other aspects of..."
-    },
-    {
-     "outlet": "slate",
-     "title": "To Understand Today\u2019s Supreme Court, You Need to Understand One Particular Justice.",
-     "url": "https://slate.com/podcasts/amicus/2026/08/neil-gorsuchs-early-years-trumps-nomination-and-a-stolen-seat-on-the-supreme-court?via=rss",
-     "author": "Dahlia Lithwick",
-     "kind": "news",
-     "published": "2026-08-15T07:00:00+00:00",
-     "summary": "How a mild-mannered Westerner became the SCOTUS wild card."
     }
    ]
   },
@@ -2367,6 +2289,225 @@
    ]
   },
   {
+   "id": "51880ccd1c",
+   "topic": "Culture & Sport",
+   "summary": "Neill won for his performance in legal thriller The Twelve: Cape Rock Killer, at a ceremony dominated by wins for the ABC Logies 2026 ceremony: the best moments and red carpet looks \u2013 in pictures Sam Neill has won a posthumous best actor award at Australia\u2019s biggest television awards, the Logies, with comedian Sam Pang taking home the night\u2019s top honour, the Gold Logie award for most popular personality. Neill, who died in July , won his posthumous Logie for best lead actor in a drama, for his performance in legal thriller The Twelve: Cape Rock Killer. His close friend, the actor Heather Mitchell, accepted the award on his behalf. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Logies 2026: Sam Pang wins gold and Sam Neill wins posthumous best actor at Australia\u2019s TV awards",
+   "updated": "2026-08-16T16:35:20+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Inside the 2026 Emmy race for best comedy \u2014 the awards\u2019 most dramatic competition",
+     "url": "https://pagesix.com/2026/08/16/hollywood/inside-2026-emmy-race-for-best-comedy-hacks-widows-bay/",
+     "author": "mliss1578",
+     "kind": "news",
+     "published": "2026-08-16T16:35:20+00:00",
+     "summary": "The most dramatic showdown at this year\u2019s Emmys will be in the comedy race between \"Hacks\" and \"Widow's Bay.\""
+    },
+    {
+     "outlet": "guardian",
+     "title": "Logies 2026: Sam Pang wins gold and Sam Neill wins posthumous best actor at Australia\u2019s TV awards",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/aug/17/logies-2026-sam-pang-gold-logie-sam-neill-win-awards",
+     "author": "Sian Cain",
+     "kind": "news",
+     "published": "2026-08-16T14:01:53+00:00",
+     "summary": "Neill won for his performance in legal thriller The Twelve: Cape Rock Killer, at a ceremony dominated by wins for the ABC Logies 2026 ceremony: the best moments and red carpet looks \u2013 in pictures Sam Neill has won a posthumous best actor award at Australia\u2019s biggest television awards, the Logies, with comedian Sam Pang taking home the night\u2019s top honour, the Gold Logie award for most popular personality. Neill, who died in July , won his posthumous Logie for best lead actor in a drama, for his performance in legal thriller The Twelve: Cape Rock Killer. His close friend, the actor Heather Mitchell, accepted the award on his behalf. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "546ce39b05",
+   "topic": "World",
+   "summary": "The Watergate-era maxim still applies today: follow the money. In American education, the question is not how much money is spent, but where the money goes. Does funding follow institutions, or does it follow children? Does it serve adult interests, or truly benefit students? This distinction increasingly explains why some states spend more without producing better results, while others see academic gains by empowering parents with meaningful educational choices. New York City is a striking example. In 2024, its Department of Education spent roughly $40 billion, about $36,000 per pupil, one of the highest levels in the nation. Despite this massive investment, student literacy outcomes remain dire. Recent reports found that in 503 of 906 NYC schools studied, most students failed both reading and math exams. State data revealed only 29% of eighth graders were proficient in reading. This\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Gallego says Congress boosting Iran war funding 'like giving a drunk more money and hoping that they'll stop drinking'",
+   "updated": "2026-08-16T15:53:08+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "Gallego says Congress boosting Iran war funding 'like giving a drunk more money and hoping that they'll stop drinking'",
+     "url": "https://thehill.com/homenews/senate/6031966-gallego-criticizes-iran-war/",
+     "author": "Max Rego",
+     "kind": "news",
+     "published": "2026-08-16T15:53:08+00:00",
+     "summary": "Democratic Sen. Ruben Gallego (Ariz.) on Sunday expressed strong opposition to Congress giving the Pentagon more funding amid the Iran war. During an interview on ABC\u2019s \u201cThis Week,\u201d Gallego pivoted when host Martha Raddatz asked him about the Trump administration asking lawmakers for $17 billion in military operational costs. \u201cWe are more focused on making..."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "STEVE MOORE, ED POZZUOLI: Stop funding school systems. Let the money follow the child",
+     "url": "https://www.foxnews.com/opinion/steve-moore-ed-pozzuoli-stop-funding-school-systems-let-money-follow-child",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-14T11:00:46+00:00",
+     "summary": "The Watergate-era maxim still applies today: follow the money. In American education, the question is not how much money is spent, but where the money goes. Does funding follow institutions, or does it follow children? Does it serve adult interests, or truly benefit students? This distinction increasingly explains why some states spend more without producing better results, while others see academic gains by empowering parents with meaningful educational choices. New York City is a striking example. In 2024, its Department of Education spent roughly $40 billion, about $36,000 per pupil, one of the highest levels in the nation. Despite this massive investment, student literacy outcomes remain dire. Recent reports found that in 503 of 906 NYC schools studied, most students failed both reading and math exams. State data revealed only 29% of eighth graders were proficient in reading. This means more than seven out of 10 students cannot read at grade level, despite the city\u2019s unprecedented spending. If one of the nation\u2019s highest-funded school systems still leaves most students struggling to read proficiently, should policymakers continue focusing solely on increasing funding? Or should"
+    }
+   ]
+  },
+  {
+   "id": "337f697244",
+   "topic": "Other",
+   "summary": "More than two weeks after tens of thousands of illegal migrants stormed the border of the Spanish exclave of Ceuta, thousands of migrants remain in the city, resulting in the area's once pristine beach being converted into a full-on encampment with dozens of makeshift huts being constructed out of garbage, and prompting warnings of potential disease outbreaks due to the unsanitary conditions. The post Pics: Thousands of Illegal Migrants Set Up Makeshift Garbage Huts on Beach of Spanish Ceuta, Weeks After Invasion appeared first on Breitbart .",
+   "summaryFrom": "breitbart",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
+   "updated": "2026-08-16T15:51:26+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T15:51:26+00:00",
+     "summary": "Moroccan migrants are protesting in Ceuta, demanding asylum two weeks after more than a massive migrant surge."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Pics: Thousands of Illegal Migrants Set Up Makeshift Garbage Huts on Beach of Spanish Ceuta, Weeks After Invasion",
+     "url": "https://www.breitbart.com/europe/2026/08/15/pics-thousands-of-illegal-migrants-set-up-garbage-huts-on-ceuta-beach-sparking-warnings-of-disease-outbreak/",
+     "author": "Kurt Zindulka",
+     "kind": "news",
+     "published": "2026-08-15T19:47:05+00:00",
+     "summary": "More than two weeks after tens of thousands of illegal migrants stormed the border of the Spanish exclave of Ceuta, thousands of migrants remain in the city, resulting in the area's once pristine beach being converted into a full-on encampment with dozens of makeshift huts being constructed out of garbage, and prompting warnings of potential disease outbreaks due to the unsanitary conditions. The post Pics: Thousands of Illegal Migrants Set Up Makeshift Garbage Huts on Beach of Spanish Ceuta, Weeks After Invasion appeared first on Breitbart ."
+    }
+   ]
+  },
+  {
+   "id": "27fd257a4d",
+   "topic": "Other",
+   "summary": "Girl called police after she was shot four times in shooting spree that left six dead, including gunman A 13-year-old girl in Michigan survived being shot four times in a shooting spree that left six people dead \u2013 including the suspected attacker \u2013 and called emergency help herself shortly before investigators identified the gunman, according to a state police official and her family. Those actions made the teen a \u201chero\u201d, said a relative of hers as well as two of the dead victims. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "\u2018She is a hero\u2019: 13-year-old survivor of Michigan shooting rampage called 911",
+   "updated": "2026-08-16T15:47:23+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "\u2018She is a hero\u2019: 13-year-old survivor of Michigan shooting rampage called 911",
+     "url": "https://www.theguardian.com/us-news/2026/aug/16/michigan-shooting-girl-survives",
+     "author": "Michael Sainato",
+     "kind": "news",
+     "published": "2026-08-16T15:47:23+00:00",
+     "summary": "Girl called police after she was shot four times in shooting spree that left six dead, including gunman A 13-year-old girl in Michigan survived being shot four times in a shooting spree that left six people dead \u2013 including the suspected attacker \u2013 and called emergency help herself shortly before investigators identified the gunman, according to a state police official and her family. Those actions made the teen a \u201chero\u201d, said a relative of hers as well as two of the dead victims. Continue reading..."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "13-year-old survivor of Michigan rampage called 911 to report she\u2019d been shot",
+     "url": "https://www.nbcnews.com/news/us-news/13-year-old-survivor-michigan-rampage-called-911-rcna592709",
+     "author": "Marin Scott",
+     "kind": "news",
+     "published": "2026-08-15T19:57:46+00:00",
+     "summary": "A 13-year-old girl \u2014 the only survivor of a shooting rampage in rural Michigan \u2014 called 911 on Friday after she was shot four times, state police official and her family said Saturday."
+    }
+   ]
+  },
+  {
+   "id": "9c87a1796c",
+   "topic": "World",
+   "summary": "President Trump's envoy Jared Kushner met Hamas leaders in Egypt on Sunday to press them to carry out their commitment to disarm , according to two sources familiar with the meeting. Why it matters: This was Kushner's first meeting with Hamas leaders since the signing of the agreement to end the war in Gaza last October . The unusual meeting came as the White House and Trump's Board of Peace push both Hamas and Israel to move to the next phase of the U.S. 20-point peace plan. Kushner is expected to visit Israel on Monday and meet Israeli Prime Minister Benjamin Netanyahu to discuss \"corresponding steps\" Israel must take, the source said. Behind the scenes: Board of Peace high representative Nickolay Mladenov and former British Prime Minister Tony Blair who is also a member of the board joined Kushner in the meeting. Hamas political leader Khalil Al-Hayya attended alongside Egyptian\u2026",
+   "summaryFrom": "axios",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Kushner, Hamas delegation in Egypt for talks on Gaza peace plan",
+   "updated": "2026-08-16T15:44:49+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2,
+    "pub": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "axios",
+     "title": "Kushner meets Hamas leaders to push Gaza demilitarization",
+     "url": "https://www.axios.com/2026/08/16/kushner-hamas-gaza-disarmament-egypt-israel",
+     "author": "Barak Ravid",
+     "kind": "news",
+     "published": "2026-08-16T15:44:49+00:00",
+     "summary": "President Trump's envoy Jared Kushner met Hamas leaders in Egypt on Sunday to press them to carry out their commitment to disarm , according to two sources familiar with the meeting. Why it matters: This was Kushner's first meeting with Hamas leaders since the signing of the agreement to end the war in Gaza last October . The unusual meeting came as the White House and Trump's Board of Peace push both Hamas and Israel to move to the next phase of the U.S. 20-point peace plan. Kushner is expected to visit Israel on Monday and meet Israeli Prime Minister Benjamin Netanyahu to discuss \"corresponding steps\" Israel must take, the source said. Behind the scenes: Board of Peace high representative Nickolay Mladenov and former British Prime Minister Tony Blair who is also a member of the board joined Kushner in the meeting. Hamas political leader Khalil Al-Hayya attended alongside Egyptian intelligence chief Hassan Rashad, Qatari diplomat Ali al-Thawadi and a senior Turkish official. A source with knowledge of the meeting said the objective was \"translating\" Hamas' obligations to demilitarize Gaza \"into concrete, verifiable steps.\" Zoom in: The source said these steps to maintain the cease"
+    },
+    {
+     "outlet": "france24",
+     "title": "Kushner, Hamas delegation in Egypt for talks on Gaza peace plan",
+     "url": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-16T11:33:32+00:00",
+     "summary": "A Hamas delegation began a meeting with Egypt's spy chief on Sunday to discuss ways to advance the implementation of a post-war plan for Gaza while US envoy Jared Kushner met with Egyptian President Abdel Fattah al-Sissi."
+    },
+    {
+     "outlet": "axios",
+     "title": "Kushner set to visit Israel, Egypt next week for Gaza talks",
+     "url": "https://www.axios.com/2026/08/13/kushner-israel-gaza-netanyahu",
+     "author": "Barak Ravid",
+     "kind": "news",
+     "published": "2026-08-13T21:44:47+00:00",
+     "summary": "Jared Kushner, President Trump's envoy and son-in-law, is planning to visit Israel next week for talks on the situation in Gaza , according to five sources with knowledge of the plan. Why it matters: This would be Kushner's first trip to Israel since January. It comes as the White House and Trump's Board of Peace are trying to push forward with the next phase of the Gaza plan, which focuses on disarming Hamas and a potential Israeli withdrawal. The Netanyahu government is highly skeptical of the U.S. Gaza plan, and the upcoming election in October is making the issue even more politically sensitive. \"We see eye-to-eye on the strategic goal, but Israel has expressed some doubts about the plan and we want to talk to them in order to make sure we are coordinated,\" a U.S. official said, while noting the exact dates of the trip could change. Driving the news: Trump announced two weeks ago that his Board of Peace had reached an agreement with Hamas to disarm and transfer civilian and security control of Gaza to a new Palestinian technocratic government. On Sunday, under pressure from his coalition partners and political opponents, Netanyahu publicly rejected the plan for disarming Hamas."
+    }
+   ]
+  },
+  {
    "id": "223a0cff2f",
    "topic": "Politics",
    "summary": "Existing laws in Colorado reduce the administrative and regulatory costs of building new housing. Helen H. Richardson/The Denver Post via Getty Images In Colorado, a full-time worker must earn US$36.44 an hour to afford a modest two-bedroom apartment without spending more than 30% of their income on rent, according to a recent report from the National Low Income Housing Coalition. The state\u2019s minimum wage is $15.16. Someone earning that would have to work 96 hours a week, more than two full-time jobs, to cover rent. The report ranks Colorado as the 12th-least-affordable state in the country for renters. In July 2026, Congress offered state and local leaders a new set of tools to expand housing supply when it passed the 21st Century ROAD to Housing Act , the most significant federal housing legislation in decades . It authorizes relatively little new spending. Instead it offers\u2026",
@@ -2409,44 +2550,44 @@
    ]
   },
   {
-   "id": "a3cabd9bf6",
-   "topic": "Other",
-   "summary": "This week on \"Face the Nation with Margaret Brennan,\" amid a number of socialist candidates in the Democratic Party, President Trump has found his rallying cry for the midterm elections. Democratic Gov. Andy Beshear of Kentucky and GOP Rep. Don Bacon join, plus a new poll from CBS News executive director of elections and surveys Anthony Salvanto.",
-   "summaryFrom": "cbsnews",
+   "id": "340f7498e5",
+   "topic": "Business & Economy",
+   "summary": "Belgium battling biggest fire in more than a century as flames near German border and 600 people told to evacuate Two people have died in fires on the Greek island of Salamis as firefighting aircraft were called on to help tame the biggest blaze in Belgium in more than a century in the latest wave of European wildfires. The bodies of two people were recovered from the Peristeria beach area of Salamis on Sunday after two fires broke out on the island, a fire department spokesperson told Agence France-Presse. Hundreds of people have been ordered to evacuate. Continue reading...",
+   "summaryFrom": "guardian",
    "emphasis": null,
    "absent": [
+    "corp",
     "family",
-    "coop",
-    "nonprofit",
-    "pub"
+    "coop"
    ],
-   "headline": "Open: This is \"Face the Nation with Margaret Brennan,\" Aug. 16, 2026",
-   "updated": "2026-08-16T15:20:58+00:00",
+   "headline": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+   "updated": "2026-08-16T15:25:38+00:00",
    "outletCount": 2,
    "counts": {
-    "corp": 2
+    "pub": 1,
+    "nonprofit": 1
    },
    "newsCount": 2,
    "opinionCount": 0,
-   "underreported": false,
+   "underreported": true,
    "articles": [
     {
-     "outlet": "cbsnews",
-     "title": "Open: This is \"Face the Nation with Margaret Brennan,\" Aug. 16, 2026",
-     "url": "https://www.cbsnews.com/video/open-this-is-face-the-nation-with-margaret-brennan-aug-16-2026/",
+     "outlet": "bbc",
+     "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+     "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T15:20:58+00:00",
-     "summary": "This week on \"Face the Nation with Margaret Brennan,\" amid a number of socialist candidates in the Democratic Party, President Trump has found his rallying cry for the midterm elections. Democratic Gov. Andy Beshear of Kentucky and GOP Rep. Don Bacon join, plus a new poll from CBS News executive director of elections and surveys Anthony Salvanto."
+     "published": "2026-08-16T15:25:38+00:00",
+     "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park."
     },
     {
-     "outlet": "slate",
-     "title": "Slate Mini Crossword for Aug. 16, 2026",
-     "url": "https://slate.com/life/2026/08/crossword-slate-mini-daily-puzzle-aug-16-2026.html?via=rss",
-     "author": "Quiara Vasquez",
+     "outlet": "guardian",
+     "title": "Greek wildfire kills two people as aircraft deployed to blaze at Belgian nature reserve",
+     "url": "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
+     "author": "Angela Giuffrida and agencies",
      "kind": "news",
-     "published": "2026-08-16T09:51:00+00:00",
-     "summary": "Take a quick break with our daily 5x5 grid."
+     "published": "2026-08-16T15:16:45+00:00",
+     "summary": "Belgium battling biggest fire in more than a century as flames near German border and 600 people told to evacuate Two people have died in fires on the Greek island of Salamis as firefighting aircraft were called on to help tame the biggest blaze in Belgium in more than a century in the latest wave of European wildfires. The bodies of two people were recovered from the Peristeria beach area of Salamis on Sunday after two fires broke out on the island, a fire department spokesperson told Agence France-Presse. Hundreds of people have been ordered to evacuate. Continue reading..."
     }
    ]
   },
@@ -2577,44 +2718,128 @@
    ]
   },
   {
-   "id": "e92c657bc8",
-   "topic": "Other",
-   "summary": "Roberto Serra - Iguana Press / Roberto Serra, Getty Images Thieves stole four works by Sicilian Renaissance painter Antonello da Messina from the MuMe regional museum in Sicily during Ferragosto, a major Italian public holiday. On Saturday evening, just before 10 p.m., they evaded the museum\u2019s alarm and security systems and made off with three of the five surviving panels of the 1473 San Gregorio Polyptych, and a double-sided Virgin Mary and Piet\u00e0 panel taken from an armored display case, according to the news agency LaPresse. \u201cWe are devastated by what happened. They were two of Antonello da Messina\u2019s most important and best-known works. It is a tremendous loss for the museum, the city, the community and the art world,\u201d MuMe director Marisa Mercurio said. Lynda Albertson, an art-crime analyst, said the works will be difficult for thieves to sell because they are instantly recognizable.\u2026",
-   "summaryFrom": "dailybeast",
+   "id": "426629b0c0",
+   "topic": "Justice & Policing",
+   "summary": "Indian Prime Minister Narendra Modi put young people at the heart of his development agenda in a speech marking India\u2019s Independence Day on Saturday. He announced free online coaching for competitive exams and plans to train 10 million young people in artificial intelligence over the next year. The speech comes amid growing criticism of Modi\u2019s Hindu nationalist policies and recent youth-led protests against his government, as analyzed by FRANCE 24's, Jamie Smith-Maillet.",
+   "summaryFrom": "france24",
    "emphasis": null,
    "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "India: Modi courts youth amid growing criticism",
+   "updated": "2026-08-16T14:44:11+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "India: Modi courts youth amid growing criticism",
+     "url": "https://www.france24.com/en/india-modi-courts-youth-amid-growing-criticism",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T14:44:11+00:00",
+     "summary": "Indian Prime Minister Narendra Modi put young people at the heart of his development agenda in a speech marking India\u2019s Independence Day on Saturday. He announced free online coaching for competitive exams and plans to train 10 million young people in artificial intelligence over the next year. The speech comes amid growing criticism of Modi\u2019s Hindu nationalist policies and recent youth-led protests against his government, as analyzed by FRANCE 24's, Jamie Smith-Maillet."
+    },
+    {
+     "outlet": "dw",
+     "title": "India: Modi promises free exam coaching, AI training for youth after protests",
+     "url": "https://www.dw.com/en/india-modi-promises-free-exam-coaching-ai-training-for-youth-after-protests/a-78378982?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T08:25:00+00:00",
+     "summary": "Speaking on India's Independence Day, PM Modi announced free online coaching for competitive exams and AI training for 10 million youths, weeks after protests over alleged exam paper leaks and recruitment irregularities."
+    }
+   ]
+  },
+  {
+   "id": "2c766f0800",
+   "topic": "World",
+   "summary": "Kyiv was hit by Russian strikes on Sunday, killing at least four people and injuring six, while a popular outdoor book market was destroyed. Vendors rushed to the scene to assess the damage, with some saying they had lost their shops and their livelihoods.",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Ukraine: Russian strike destroys Kyiv book market",
+   "updated": "2026-08-16T14:40:52+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Ukraine: Russian strike destroys Kyiv book market",
+     "url": "https://www.france24.com/en/video/20260816-ukraine-russian-strike-destroys-kyiv-book-market",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T14:40:52+00:00",
+     "summary": "Kyiv was hit by Russian strikes on Sunday, killing at least four people and injuring six, while a popular outdoor book market was destroyed. Vendors rushed to the scene to assess the damage, with some saying they had lost their shops and their livelihoods."
+    },
+    {
+     "outlet": "bbc",
+     "title": "BBC visits smouldering Kyiv market after Russian strikes",
+     "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T12:18:09+00:00",
+     "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools."
+    }
+   ]
+  },
+  {
+   "id": "3551a71ec7",
+   "topic": "Justice & Policing",
+   "summary": "Former Sen. Kyrsten Sinema is continuing to challenge the lawsuit brought by the wife of her former security guard and lover, Matthew Ammel. Sinema has admitted to having an affair with Ammel while she was the Democratic senator from Arizona. Heather Ammel\u2019s lawsuit alleges the tort of alienation of affection, an action many may find outdated in our more open or indulgent culture. I start teaching my torts class this week, and the alienation tort remains a controversy at the intersection of tort and constitutional law. There was a time when most states had morality crimes that punished adultery or homosexuality. They have been largely scrubbed from our books due to constitutional challenges and changing social mores. However, a spouse can still sue civilly over a third party ruining a marriage through adultery. Such \"heart balm\" actions go back to the earliest days of tort liability.\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
     "coop",
     "nonprofit",
     "pub"
    ],
-   "headline": "Thieves Pull Off Brazen Heist of Renaissance Artworks in Sicily",
-   "updated": "2026-08-16T14:27:52+00:00",
+   "headline": "JONATHAN TURLEY: Former Sen Kyrsten Sinema fights affair lawsuit invoking centuries-old marriage tort",
+   "updated": "2026-08-16T14:39:24+00:00",
    "outletCount": 2,
    "counts": {
-    "corp": 1,
-    "family": 1
+    "family": 2
    },
-   "newsCount": 2,
-   "opinionCount": 0,
+   "newsCount": 1,
+   "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "dailybeast",
-     "title": "Thieves Pull Off Brazen Heist of Renaissance Artworks in Sicily",
-     "url": "https://www.thedailybeast.com/thieves-steal-four-antonello-da-messina-works-from-sicily-museum/",
-     "author": "Lauren Hartley",
-     "kind": "news",
-     "published": "2026-08-16T14:27:52+00:00",
-     "summary": "Roberto Serra - Iguana Press / Roberto Serra, Getty Images Thieves stole four works by Sicilian Renaissance painter Antonello da Messina from the MuMe regional museum in Sicily during Ferragosto, a major Italian public holiday. On Saturday evening, just before 10 p.m., they evaded the museum\u2019s alarm and security systems and made off with three of the five surviving panels of the 1473 San Gregorio Polyptych, and a double-sided Virgin Mary and Piet\u00e0 panel taken from an armored display case, according to the news agency LaPresse. \u201cWe are devastated by what happened. They were two of Antonello da Messina\u2019s most important and best-known works. It is a tremendous loss for the museum, the city, the community and the art world,\u201d MuMe director Marisa Mercurio said. Lynda Albertson, an art-crime analyst, said the works will be difficult for thieves to sell because they are instantly recognizable. \u201cStealing an Antonello may be far easier than selling one. If these are ordinary thieves, they will soon discover that \u2014 to their cost,\u201d she said. She added that such famous artworks are often used as collateral for other illicit activity. In March, the Italian government bought Messina\u2019s \u201cEcce Homo"
+     "outlet": "foxnews",
+     "title": "JONATHAN TURLEY: Former Sen Kyrsten Sinema fights affair lawsuit invoking centuries-old marriage tort",
+     "url": "https://www.foxnews.com/opinion/jonathan-turley-former-sen-kyrsten-sinema-fights-affair-lawsuit-invoking-centuries-old-marriage-tort",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-16T14:39:24+00:00",
+     "summary": "Former Sen. Kyrsten Sinema is continuing to challenge the lawsuit brought by the wife of her former security guard and lover, Matthew Ammel. Sinema has admitted to having an affair with Ammel while she was the Democratic senator from Arizona. Heather Ammel\u2019s lawsuit alleges the tort of alienation of affection, an action many may find outdated in our more open or indulgent culture. I start teaching my torts class this week, and the alienation tort remains a controversy at the intersection of tort and constitutional law. There was a time when most states had morality crimes that punished adultery or homosexuality. They have been largely scrubbed from our books due to constitutional challenges and changing social mores. However, a spouse can still sue civilly over a third party ruining a marriage through adultery. Such \"heart balm\" actions go back to the earliest days of tort liability. However, the tort has been abolished in 42 states, leaving Hawaii, North Carolina , Mississippi, New Mexico, South Dakota and Utah as the exceptions. COURT FILINGS REVEAL KYRSTEN SINEMA HAD SEX MULTIPLE TIMES WITH MARRIED BODYGUARD WHILE SERVING AS SENATOR Early tort cases spoke of two violative acts :"
     },
     {
      "outlet": "breitbart",
-     "title": "Thieves Steal Four Renaissance Artworks in Sicilian Museum Heist",
-     "url": "https://www.breitbart.com/europe/2026/08/16/thieves-steal-four-renaissance-artworks-in-sicilian-museum-heist/",
-     "author": "Breitbart London",
+     "title": "Kyrsten Sinema Details Affair with Bodyguard in Legal Fight with His Ex-Wife: 'We Went Inside and Had Sex'",
+     "url": "https://www.breitbart.com/politics/2026/08/15/kyrsten-sinema-details-affair-with-bodyguard-in-legal-fight-with-his-ex-wife-we-went-inside-and-had-sex/",
+     "author": "Amy Furr",
      "kind": "news",
-     "published": "2026-08-16T13:07:27+00:00",
-     "summary": "Thieves stole four works attributed to the Sicilian Renaissance painter Antonello da Messina from a regional museum in the Sicilian city of Messina on the Italian Ferragosto holiday, the news agency LaPresse reported Sunday. The post Thieves Steal Four Renaissance Artworks in Sicilian Museum Heist appeared first on Breitbart ."
+     "published": "2026-08-15T17:30:05+00:00",
+     "summary": "Former Democrat-turned-Independent Arizona senator Kyrsten Sinema has been open in court about her sexual relationship with a former bodyguard who is now her boyfriend. The post Kyrsten Sinema Details Affair with Bodyguard in Legal Fight with His Ex-Wife: &#8216;We Went Inside and Had Sex&#8217; appeared first on Breitbart ."
     }
    ]
   },
@@ -2661,49 +2886,7 @@
    ]
   },
   {
-   "id": "4eee6f3aab",
-   "topic": "Justice & Policing",
-   "summary": "Evelyn Hockstein / REUTERS Democratic lawmakers are taking aim at the Supreme Court to curb its rightward shift. They\u2019ve grown increasingly frustrated by the court, as it has delivered sweeping conservative victories in recent years, erasing decades of progress, including scaling back the 1965 Voting Rights Act, overturning the constitutional right to an abortion, loosening campaign finance rules, and increasing executive power. Some in the party have argued that recent rulings from the high court are more about politics, and less about the interpretation of the law. \u201cThere\u2019s constant and building dismay about the increasingly appalling record of the court,\u201d Sen. Sheldon Whitehouse, a Democrat from Rhode Island, told The Washington Post. Read more at The Daily Beast.",
-   "summaryFrom": "dailybeast",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Supreme Court Fight Erupts Over Plot to End MAGA\u2019s Grip",
-   "updated": "2026-08-16T14:11:10+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dailybeast",
-     "title": "Supreme Court Fight Erupts Over Plot to End MAGA\u2019s Grip",
-     "url": "https://www.thedailybeast.com/supreme-court-fight-erupts-over-plot-to-end-magas-grip/",
-     "author": "Annabella Rosciglione",
-     "kind": "news",
-     "published": "2026-08-16T14:11:10+00:00",
-     "summary": "Evelyn Hockstein / REUTERS Democratic lawmakers are taking aim at the Supreme Court to curb its rightward shift. They\u2019ve grown increasingly frustrated by the court, as it has delivered sweeping conservative victories in recent years, erasing decades of progress, including scaling back the 1965 Voting Rights Act, overturning the constitutional right to an abortion, loosening campaign finance rules, and increasing executive power. Some in the party have argued that recent rulings from the high court are more about politics, and less about the interpretation of the law. \u201cThere\u2019s constant and building dismay about the increasingly appalling record of the court,\u201d Sen. Sheldon Whitehouse, a Democrat from Rhode Island, told The Washington Post. Read more at The Daily Beast."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Attorney General Todd Blanche says the DOJ may take states\u2019 voter-roll fight to Supreme Court",
-     "url": "https://www.nbcnews.com/meet-the-press/video/attorney-general-todd-blanche-says-the-doj-may-take-states-voter-roll-fight-to-supreme-court-268371525962",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T13:47:27+00:00",
-     "summary": "In an interview with Meet the Press, Attorney General Todd Blanche says \"absolutely it's a possibility\" that the Department of Justice may take the Trump administration's fight over voter rolls to the Supreme Court."
-    }
-   ]
-  },
-  {
-   "id": "dc1bc23744",
+   "id": "a006a6971d",
    "topic": "Politics",
    "summary": "US Attorney General Todd Blanche defended Jeanine Pirro for dismissing a federal vandalism case in a decision that angered President Donald Trump, saying the top prosecutor in Washington, DC, should be judged fairly.",
    "summaryFrom": "bloomberg",
@@ -2713,7 +2896,7 @@
     "nonprofit",
     "pub"
    ],
-   "headline": "Blanche Defends DC Reflecting Pool Prosecutor Who Angered Trump",
+   "headline": "Blanche Defends Reflecting Pool Prosecutor Who Angered Trump",
    "updated": "2026-08-16T14:09:24+00:00",
    "outletCount": 2,
    "counts": {
@@ -2726,7 +2909,7 @@
    "articles": [
     {
      "outlet": "bloomberg",
-     "title": "Blanche Defends DC Reflecting Pool Prosecutor Who Angered Trump",
+     "title": "Blanche Defends Reflecting Pool Prosecutor Who Angered Trump",
      "url": "https://www.bloomberg.com/news/articles/2026-08-16/blanche-defends-dc-reflecting-pool-prosecutor-who-angered-trump",
      "author": "Tony Czuczka",
      "kind": "news",
@@ -2783,90 +2966,6 @@
      "kind": "news",
      "published": "2026-08-15T19:39:07+00:00",
      "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "27fd257a4d",
-   "topic": "Other",
-   "summary": "Girl called police after she was shot four times in shooting spree that left six dead, including gunman A 13-year-old girl in Michigan survived being shot four times in a shooting spree that left six people dead \u2013 including the suspected attacker \u2013 and called emergency help herself shortly before investigators identified the gunman, according to a state police official and her family. Those actions made the teen a \u201chero\u201d, said a relative of hers as well as two of the dead victims. The Associated Press contributed Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "\u2018She is a hero\u2019: 13-year-old survivor of Michigan shooting rampage called 911",
-   "updated": "2026-08-16T14:01:06+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "\u2018She is a hero\u2019: 13-year-old survivor of Michigan shooting rampage called 911",
-     "url": "https://www.theguardian.com/us-news/2026/aug/16/michigan-shooting-girl-survives",
-     "author": "Michael Sainato",
-     "kind": "news",
-     "published": "2026-08-16T14:01:06+00:00",
-     "summary": "Girl called police after she was shot four times in shooting spree that left six dead, including gunman A 13-year-old girl in Michigan survived being shot four times in a shooting spree that left six people dead \u2013 including the suspected attacker \u2013 and called emergency help herself shortly before investigators identified the gunman, according to a state police official and her family. Those actions made the teen a \u201chero\u201d, said a relative of hers as well as two of the dead victims. The Associated Press contributed Continue reading..."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "13-year-old survivor of Michigan rampage called 911 to report she\u2019d been shot",
-     "url": "https://www.nbcnews.com/news/us-news/13-year-old-survivor-michigan-rampage-called-911-rcna592709",
-     "author": "Marin Scott",
-     "kind": "news",
-     "published": "2026-08-15T19:57:46+00:00",
-     "summary": "A 13-year-old girl \u2014 the only survivor of a shooting rampage in rural Michigan \u2014 called 911 on Friday after she was shot four times, state police official and her family said Saturday."
-    }
-   ]
-  },
-  {
-   "id": "ff7c984702",
-   "topic": "Other",
-   "summary": "A nearly eight-year-old clip of Charlie Kirk ripping Left-wing streamer Hasan Piker&#8217;s communist dream went viral on social media again this week. In the exchange, which took place during a Politicon debate in Los Angeles on October 20, 2018 \u2014 the pair&#8217;s second meeting at the convention \u2014 Kirk asked Piker why he doesn&#8217;t live by the communist vision he calls for America to embrace. &#8220;Why don&#8217;t you give 95% of your money away and go live on a commune?&#8221; Kirk asked the America-hating communist streamer. &#8220;Do you really think that that&#8217;s how it works?&#8221; Piker replied. &#8220;Why not? Go live what you preach,&#8221; Kirk said as Piker attempted to interrupt the Turning Point USA founder. &#8220;I live what I practice,&#8221; Kirk added. &#8220;I am a free-market capitalist, I employ people, I took a risk, I have my own start-up business. Every\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "The secret communist messages hidden in the outfits of DSA pretty-boy Hasan Piker and his radical pals",
-   "updated": "2026-08-16T14:00:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 0,
-   "opinionCount": 2,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "The secret communist messages hidden in the outfits of DSA pretty-boy Hasan Piker and his radical pals",
-     "url": "https://nypost.com/2026/08/16/opinion/the-secret-communist-messages-hidden-in-hasan-pikers-outfits/",
-     "author": "Isabella Redjai",
-     "kind": "opinion",
-     "published": "2026-08-16T14:00:00+00:00",
-     "summary": "Beware the red carpet."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "FLASHBACK: Watch Charlie Kirk Expose Absurdity Of Hasan Piker\u2019s Communist Dream",
-     "url": "https://www.dailywire.com/news/flashback-watch-charlie-kirk-expose-absurdity-of-hasan-pikers-communist-dream",
-     "author": "Zach Jewell",
-     "kind": "opinion",
-     "published": "2026-08-15T11:57:28+00:00",
-     "summary": "A nearly eight-year-old clip of Charlie Kirk ripping Left-wing streamer Hasan Piker&#8217;s communist dream went viral on social media again this week. In the exchange, which took place during a Politicon debate in Los Angeles on October 20, 2018 \u2014 the pair&#8217;s second meeting at the convention \u2014 Kirk asked Piker why he doesn&#8217;t live by the communist vision he calls for America to embrace. &#8220;Why don&#8217;t you give 95% of your money away and go live on a commune?&#8221; Kirk asked the America-hating communist streamer. &#8220;Do you really think that that&#8217;s how it works?&#8221; Piker replied. &#8220;Why not? Go live what you preach,&#8221; Kirk said as Piker attempted to interrupt the Turning Point USA founder. &#8220;I live what I practice,&#8221; Kirk added. &#8220;I am a free-market capitalist, I employ people, I took a risk, I have my own start-up business. Every single day, I practice what I preach. He wants other people to contribute to what he considers to be a good idea, what he considers will make the world a better place.&#8221; &#8220;You have the freedom to go live as a socialist. Go do it, Hasan. What&#8217;s stopping you?&#8221; Piker called the ex"
     }
    ]
   },
@@ -3249,90 +3348,6 @@
    ]
   },
   {
-   "id": "9bd89b638d",
-   "topic": "Politics",
-   "summary": "President Donald Trump said Friday that far-left Democrats like Alexandria Ocasio-Cortez , D-N.Y., are now trying to distance themselves from some of the radical positions they once championed, noting he believes she may be after a 2028 bid for the White House. In an interview with Fox News correspondent Alexis McAdams, Trump was asked about Ocasio-Cortez's perceived shift away from her earlier calls to defund police departments and other soft-on-crime policies. \"If you really look at it, they're all saying the same thing,\" Trump said of progressive Democrats. \"They're all trying to disavow themselves from what they said about crime and, well, they're saying, \u2018We love sanctuary cities .\u2019\" When asked directly whether he thinks AOC is positioning herself for a presidential bid, Trump said he thinks AOC will run. The congresswoman has refused to rule out a run for president , but she\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Europeans are sour on Trump, but they increasingly back his immigration policy",
-   "updated": "2026-08-16T12:00:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "Europeans are sour on Trump, but they increasingly back his immigration policy",
-     "url": "https://thehill.com/opinion/immigration/6030226-europeans-are-sour-on-trump-but-they-support-his-immigration-policy/",
-     "author": "David Wippman and Glenn Altschuler, opinion contributors",
-     "kind": "opinion",
-     "published": "2026-08-16T12:00:00+00:00",
-     "summary": "It took only a few days for Europe's latest immigration crisis to threaten one of the European Union's core principles. After 72,000 migrants from Morocco entered Ceuta, a Spanish territory in North Africa, Italy imposed temporary border restrictions against travelers from Spain. Spain promptly reciprocated, jeopardizing the freedom of movement that has been a cornerstone..."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Trump claims AOC may run for president as far-left Dems back away from extreme policy",
-     "url": "https://www.foxnews.com/politics/president-trump-claims-aoc-far-left-democrats-backing-away-controversial-positions",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T21:01:38+00:00",
-     "summary": "President Donald Trump said Friday that far-left Democrats like Alexandria Ocasio-Cortez , D-N.Y., are now trying to distance themselves from some of the radical positions they once championed, noting he believes she may be after a 2028 bid for the White House. In an interview with Fox News correspondent Alexis McAdams, Trump was asked about Ocasio-Cortez's perceived shift away from her earlier calls to defund police departments and other soft-on-crime policies. \"If you really look at it, they're all saying the same thing,\" Trump said of progressive Democrats. \"They're all trying to disavow themselves from what they said about crime and, well, they're saying, \u2018We love sanctuary cities .\u2019\" When asked directly whether he thinks AOC is positioning herself for a presidential bid, Trump said he thinks AOC will run. The congresswoman has refused to rule out a run for president , but she hasn't looked past November's midterm elections. ALEXANDRIA OCASIO-CORTEZ SHRUGS OFF PAST 'DEFUND THE POLICE' COMMENTS, JOKING 'WOKE 1 WAS CRAZY' During an interview with ABC's \"This Week\" on Sunday, the congresswoman attempted to dismiss the extreme rhetoric of the so-called \" Woke 1 \" era. The term is u"
-    }
-   ]
-  },
-  {
-   "id": "14fdfb6fc9",
-   "topic": "Culture & Sport",
-   "summary": "Before rookie Ty Simpson's NFL debut for the Los Angeles Rams on Saturday, his father texted him some sage advice. \"My dad just talked to me like I was four years old again,\" Simpson said of the message from his father Jason \"He told me to catch every snap, make the easy ones easy, go do what you love, and I love you.\" Simpson is a good son because he did exactly as instructed. He made his first pro game, against the Kansas City Chiefs no less, seem easy. RAIDERS ROOKIE FERNANDO MENDOZA THANKS GOD FOR AN NFL DEBUT THAT COMPARES FAVORABLY TO 'MR BRADY' Simpson completed 21-of-25 passes for 190 yards in three quarters of work after Stetson Bennett started and played the first quarter. Simpson threw 2 touchdown passes without an interception and that kind of efficiency earned him a whopping 125.0 passer rating. \"It was a really good day for him,\" Coach Sean McVay crowed. \"I just felt like\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "It's wise not to trust the NFL preseason but, holy moly, Rams QB Ty Simpson looks like a stud",
-   "updated": "2026-08-16T11:59:04+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "It's wise not to trust the NFL preseason but, holy moly, Rams QB Ty Simpson looks like a stud",
-     "url": "https://www.foxnews.com/sports/wise-not-trust-nfl-preseason-holy-moly-rams-qb-ty-simpson-looks-like-stud",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T11:59:04+00:00",
-     "summary": "Before rookie Ty Simpson's NFL debut for the Los Angeles Rams on Saturday, his father texted him some sage advice. \"My dad just talked to me like I was four years old again,\" Simpson said of the message from his father Jason \"He told me to catch every snap, make the easy ones easy, go do what you love, and I love you.\" Simpson is a good son because he did exactly as instructed. He made his first pro game, against the Kansas City Chiefs no less, seem easy. RAIDERS ROOKIE FERNANDO MENDOZA THANKS GOD FOR AN NFL DEBUT THAT COMPARES FAVORABLY TO 'MR BRADY' Simpson completed 21-of-25 passes for 190 yards in three quarters of work after Stetson Bennett started and played the first quarter. Simpson threw 2 touchdown passes without an interception and that kind of efficiency earned him a whopping 125.0 passer rating. \"It was a really good day for him,\" Coach Sean McVay crowed. \"I just felt like he was in good command and it was cool to see a good smile on his face.\" Those facts and reaction beg context. So, let's examine ... The old adage among NFL scouts, coaches and smart scribes is that the preseason does not present the truth. It lies. The NFL's August stars could be waiting tables in O"
-    },
-    {
-     "outlet": "latimes",
-     "title": "Ty Simpson impresses in his Rams debut during preseason win over Chiefs",
-     "url": "https://www.latimes.com/sports/rams/story/2026-08-15/ty-simpson-sharp-performance-rams-chiefs-preseason",
-     "author": "Gary Klein",
-     "kind": "news",
-     "published": "2026-08-15T23:21:28+00:00",
-     "summary": "Rams rookie quarterback Ty Simpson puts in a solid debut and avoids making any major mistakes in a 20-12 preseason win over the Kansas City Chiefs."
-    }
-   ]
-  },
-  {
    "id": "9791317016",
    "topic": "World",
    "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading...",
@@ -3371,6 +3386,90 @@
      "kind": "news",
      "published": "2026-08-14T17:52:51+00:00",
      "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "6b9bc31e3b",
+   "topic": "Politics",
+   "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy \u200bposition, not clear Donald Trump has threatened to declare the strait of Hormuz as \u201ca territory of the United States\u201d as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would \u201cpretty soon\u201d designate the waterway \u2013 a crucial chokepoint for global trade, through which about a fifth of the world\u2019s seaborne oil supplies typically pass \u2013 a US territory. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
+   "updated": "2026-08-16T11:14:23+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
+     "url": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T11:14:23+00:00",
+     "summary": "US president has yet another outlandish threat for Iran, with no end to war in sight."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump threatens to declare strait of Hormuz \u2018territory of the United States\u2019",
+     "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
+     "author": "Maya Yang",
+     "kind": "news",
+     "published": "2026-08-14T21:38:17+00:00",
+     "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy \u200bposition, not clear Donald Trump has threatened to declare the strait of Hormuz as \u201ca territory of the United States\u201d as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would \u201cpretty soon\u201d designate the waterway \u2013 a crucial chokepoint for global trade, through which about a fifth of the world\u2019s seaborne oil supplies typically pass \u2013 a US territory. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "f618742a5f",
+   "topic": "Justice & Policing",
+   "summary": "8/16/1933: President Roosevelt adopts the Code of Fair Competition for the Governance of the Petroleum Industry. The Supreme Court declared those codes unconstitutional in Panama Refining Co. v. Ryan (1935). President Franklin D. Roosevelt The post Today in Supreme Court History: August 16, 1933 appeared first on Reason.com .",
+   "summaryFrom": "reason",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "Today in Supreme Court History: August 16, 1933",
+   "updated": "2026-08-16T11:00:44+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "corp": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "reason",
+     "title": "Today in Supreme Court History: August 16, 1933",
+     "url": "https://reason.com/volokh/2026/08/16/today-in-supreme-court-history-august-16-1933-6/",
+     "author": "Josh Blackman",
+     "kind": "opinion",
+     "published": "2026-08-16T11:00:44+00:00",
+     "summary": "8/16/1933: President Roosevelt adopts the Code of Fair Competition for the Governance of the Petroleum Industry. The Supreme Court declared those codes unconstitutional in Panama Refining Co. v. Ryan (1935). President Franklin D. Roosevelt The post Today in Supreme Court History: August 16, 1933 appeared first on Reason.com ."
+    },
+    {
+     "outlet": "slate",
+     "title": "To Understand Today\u2019s Supreme Court, You Need to Understand One Particular Justice.",
+     "url": "https://slate.com/podcasts/amicus/2026/08/neil-gorsuchs-early-years-trumps-nomination-and-a-stolen-seat-on-the-supreme-court?via=rss",
+     "author": "Dahlia Lithwick",
+     "kind": "news",
+     "published": "2026-08-15T07:00:00+00:00",
+     "summary": "How a mild-mannered Westerner became the SCOTUS wild card."
     }
    ]
   }
