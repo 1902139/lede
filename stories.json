@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T10:41:39.910661+00:00",
+ "generated": "2026-08-16T11:35:05.733216+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -14,15 +14,15 @@
     "indieCount": 7,
     "big": [
      "released",
-     "answers",
+     "lawmakers",
      "diego-based",
-     "lawmakers"
+     "answers"
     ],
     "indie": [
      "image",
      "credit",
-     "supporting",
      "jump",
+     "supporting",
      "reported",
      "some"
     ]
@@ -180,104 +180,387 @@
    ]
   },
   {
-   "id": "766f173698",
-   "topic": "Justice & Policing",
-   "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant\u2026",
-   "summaryFrom": "dailywire",
+   "id": "8c7bd71cb5",
+   "topic": "Climate & Energy",
+   "summary": "Hawaii has narrowly avoided a historic direct hit from Hurricane Lala, but torrential rain and hurricane-force winds are still causing widespread flooding, mudslides and power outages across the islands. Authorities are urging residents to shelter in place as the storm moves west and dangerous conditions persist.",
+   "summaryFrom": "france24",
    "emphasis": {
-    "bigCount": 5,
-    "indieCount": 2,
+    "bigCount": 4,
+    "indieCount": 4,
     "big": [
-     "wounded",
-     "arrested",
-     "suspect",
-     "left",
-     "found",
-     "early"
+     "saturday",
+     "life-threatening"
     ],
     "indie": [
-     "responded",
-     "large"
+     "winds",
+     "strong",
+     "torrential",
+     "direct",
+     "landfall",
+     "making"
     ]
    },
    "absent": [
     "coop"
    ],
-   "headline": "Multiple suspects at large after five shot at Virginia State University, police say",
-   "updated": "2026-08-16T07:41:28+00:00",
-   "outletCount": 7,
+   "headline": "US : Hawaii narrowly avoids direct hit as Hurricane Lala brings strong weather",
+   "updated": "2026-08-16T10:42:52+00:00",
+   "outletCount": 8,
    "counts": {
-    "corp": 3,
-    "pub": 1,
+    "corp": 2,
+    "pub": 3,
     "family": 2,
     "nonprofit": 1
    },
-   "newsCount": 6,
+   "newsCount": 8,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "abcnews",
+     "title": "Hurricane Lala, a Category 1 storm, brings heavy rain, wind, flooding to Hawaii",
+     "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T10:42:52+00:00",
+     "summary": "Lala strengthened to a Category 1 hurricane as it tracked through the central Pacific Ocean, approaching the Big Island of Hawaii on Saturday."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "One dead as Hurricane Lala lashes Hawaii's Big Island as a Category 1 storm",
+     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T10:33:20+00:00",
+     "summary": "Hurricane Lala slammed Hawaii's Big Island, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides."
+    },
+    {
+     "outlet": "france24",
+     "title": "US : Hawaii narrowly avoids direct hit as Hurricane Lala brings strong weather",
+     "url": "https://www.france24.com/en/us-hawaii-narrowly-avoids-direct-hit-as-hurricane-lala-brings-severe-weather",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T08:53:56+00:00",
+     "summary": "Hawaii has narrowly avoided a historic direct hit from Hurricane Lala, but torrential rain and hurricane-force winds are still causing widespread flooding, mudslides and power outages across the islands. Authorities are urging residents to shelter in place as the storm moves west and dangerous conditions persist."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+     "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T08:49:32+00:00",
+     "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years."
+    },
+    {
+     "outlet": "dw",
+     "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
+     "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T05:57:00+00:00",
+     "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is expected to weaken gradually. However, the hurricane caused roads to flood and turned rivers into raging torrents."
+    },
+    {
+     "outlet": "nypost",
+     "title": "Hurricane Lala leaves thousands without power in Hawaii amid \u2018life-threatening\u2019 conditions",
+     "url": "https://nypost.com/2026/08/16/us-news/hurricane-lala-leaves-thousands-without-power-in-hawaii-amid-life-threatening-conditions/",
+     "author": "Reuters",
+     "kind": "news",
+     "published": "2026-08-16T04:33:06+00:00",
+     "summary": "Hawaiian Electric warned customers to expect \u201cpossible extended outages, potentially overnight,\u201d as the storm system made its way westward across Hawaii."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Flights between L.A. and Hawaii disrupted as Hurricane Lala approaches the Big Island",
+     "url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
+     "author": "Josh Rottenberg",
+     "kind": "news",
+     "published": "2026-08-16T00:56:14+00:00",
+     "summary": "Several flights from LAX to Hawaii were canceled Saturday, including service to Kona, Maui, Kauai and Honolulu."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
+     "url": "https://www.pbs.org/newshour/nation/hawaiis-big-island-lashed-by-rain-and-wind-as-tropical-storm-lala-closes-in",
+     "author": "Ed White, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T15:17:14+00:00",
+     "summary": "The National Hurricane Center said Lala's maximum sustained winds increased to 75 mph, making it a Category 1 hurricane."
+    }
+   ]
+  },
+  {
+   "id": "1ad32f471c",
+   "topic": "World",
+   "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
+   "updated": "2026-08-16T10:59:10+00:00",
+   "outletCount": 7,
+   "counts": {
+    "pub": 5,
+    "corp": 1,
+    "nonprofit": 2
+   },
+   "newsCount": 8,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
+     "url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T10:59:10+00:00",
+     "summary": "At least 11 people killed in one day of Israeli attacks despite truce extension brokered by US in June."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Iran strikes another ship in Strait of Hormuz as Israel steps up Lebanon attacks",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T09:04:21+00:00",
+     "summary": "Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children, according to the health ministry."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Israel strikes south Lebanon again as families flee north",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T04:43:21+00:00",
+     "summary": "Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids."
+    },
+    {
+     "outlet": "france24",
+     "title": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
+     "url": "https://www.france24.com/en/middle-east/20260815-israeli-strikes-kill-11-in-southern-lebanon-hezbollah-threatens-to-retaliate",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-15T20:37:34+00:00",
+     "summary": "Israeli airstrikes on southern Lebanon killed at least 11 people Saturday, some of the deadliest since deals in June eased hostilities between Israel and Hezbollah. Israel's military said the strikes were in retaliation for an attack by Hezbollah on its troops in the country's south and the Iran-backed militant group said that the attacks would be \"met with what they deserve\"."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+     "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T20:21:14+00:00",
+     "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Israeli airstrikes on southern Lebanon kill 11 people in another test to truce",
+     "url": "https://www.pbs.org/newshour/world/israeli-airstrikes-on-southern-lebanon-kill-11-people-health-ministry-says",
+     "author": "Bassem Mroue, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T15:47:14+00:00",
+     "summary": "Israel and the Lebanese government announced a \"framework agreement\" on June 26, laying out a plan for Israeli forces to withdraw from southern Lebanon in exchange for the disarmament of the Iran-backed Hezbollah militant group."
+    },
+    {
+     "outlet": "dw",
+     "title": "Lebanon says 11 killed in Israeli airstrikes",
+     "url": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T15:35:00+00:00",
+     "summary": "Lebanon's prime minister denounced the attacks on villages in southern Lebanon for targeting civilians in their homes. Israel said it was firing on Hezbollah infrastructure."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
+     "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
+     "author": "William Christou",
+     "kind": "news",
+     "published": "2026-08-15T13:55:28+00:00",
+     "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "ef4b90933b",
+   "topic": "Politics",
+   "summary": "The board of the John F. Kennedy Center for the Performing Arts approved a plan on Thursday to enshrine President Donald Trump's name on the building, setting off a new battle in the war over what mark he should be able to leave on the institution. We have been down this road before. The Kennedy Center's board of trustees \"overstepped its statutory bounds by unilaterally renaming the Kennedy Center after President Trump,\" U.S. District Judge Christopher Cooper wrote in May. \"In 1964, Congress deliberately rechristened the 'National Cultural Center' the 'John F. Kennedy Center for the Performing Arts.' The text, structure, and evolution of the organic statute makes the institution's name abundantly clear.\" The center, as a result, was forced to remove Trump's name, which had been affixed to the facade as: THE DONALD J. TRUMP AND THE JOHN F. KENNEDY MEMORIAL CENTER FOR THE PERFORMING\u2026",
+   "summaryFrom": "reason",
+   "emphasis": {
+    "bigCount": 4,
+    "indieCount": 2,
+    "big": [
+     "trump",
+     "testing",
+     "judge's",
+     "facade"
+    ],
+    "indie": []
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Why Is the Kennedy Center Board Trying To Add Trump's Name to the Building\u2014Again?",
+   "updated": "2026-08-16T11:00:06+00:00",
+   "outletCount": 6,
+   "counts": {
+    "nonprofit": 1,
+    "family": 3,
+    "pub": 1,
+    "corp": 1
+   },
+   "newsCount": 5,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "newsweek",
-     "title": "Camron Harris Identified as Virginia State Shooting Suspect",
-     "url": "https://www.newsweek.com/who-is-camron-harris-virginia-state-shooting-suspect-identified-12328485",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T07:41:28+00:00",
-     "summary": "A 19-year-old was arrested in connection to the shooting that left five people wounded. He is not a student at VSU."
+     "outlet": "reason",
+     "title": "Why Is the Kennedy Center Board Trying To Add Trump's Name to the Building\u2014Again?",
+     "url": "https://reason.com/2026/08/16/the-kennedy-center-board-is-trying-to-add-trumps-name-to-the-building-again-why/",
+     "author": "Billy Binion",
+     "kind": "opinion",
+     "published": "2026-08-16T11:00:06+00:00",
+     "summary": "The board of the John F. Kennedy Center for the Performing Arts approved a plan on Thursday to enshrine President Donald Trump's name on the building, setting off a new battle in the war over what mark he should be able to leave on the institution. We have been down this road before. The Kennedy Center's board of trustees \"overstepped its statutory bounds by unilaterally renaming the Kennedy Center after President Trump,\" U.S. District Judge Christopher Cooper wrote in May. \"In 1964, Congress deliberately rechristened the 'National Cultural Center' the 'John F. Kennedy Center for the Performing Arts.' The text, structure, and evolution of the organic statute makes the institution's name abundantly clear.\" The center, as a result, was forced to remove Trump's name, which had been affixed to the facade as: THE DONALD J. TRUMP AND THE JOHN F. KENNEDY MEMORIAL CENTER FOR THE PERFORMING ARTS. That addition came after the president took control of the Kennedy Center last year\u2014a grab, he maintained, that was necessary to combat alleged wokeness at the institution. \"We don't need woke at the Kennedy Center,\" he said in February 2025 aboard Air Force One. \"Some of the shows were terrible. T"
     },
     {
-     "outlet": "abcnews",
-     "title": "Va. State shooting: Suspect arrested, found hiding in dorm closet, police say",
-     "url": "https://abcnews.com/US/5-injured-shooting-virginia-state-university-arrests-made/story?id=135669705",
+     "outlet": "foxnews",
+     "title": "EXCLUSIVE: Kennedy Center board moves to name grounds \u2018President Donald J Trump Plaza'",
+     "url": "https://www.foxnews.com/politics/exclusive-kennedy-center-board-moves-name-grounds-president-donald-j-trump-plaza",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T04:37:35+00:00",
-     "summary": "A suspect in the shooting at Virginia State University early Saturday that left five people wounded, including one critically, has been arrested, according to police."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "5 people injured in shooting at Virginia State University, 1 suspect arrested",
-     "url": "https://www.cbsnews.com/news/shooting-virginia-state-university/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T01:41:45+00:00",
-     "summary": "Five people were injured in the shooting involving multiple suspects. One person is currently listed in critical condition, the university said."
+     "published": "2026-08-14T20:20:52+00:00",
+     "summary": "FIRST ON FOX \u2014 The Kennedy Center Board of Trustees wants to name the famed arts institution\u2019s grounds the \"President Donald J. Trump Plaza,\" one of several new ways the board is seeking to honor the president as the center moves ahead with a sweeping renovation, Fox News Digital has learned. The board also wants the words \"Endowed by the Trump Kennedy Center Fund\" inscribed on the building once the fund reaches a $100 million endowment, according to information obtained by Fox News Digital. The previously unreported moves come after the board voted Thursday to add an inscription crediting Trump with restoring and renovating America's cultural center, and approved a partial closure of the complex for renovations. KENNEDY CENTER BOARD MEMBER KNOCKS SEN WHITEHOUSE FOR IGNORING INVITES AS DEM FEUDS WITH TRUMP-RUN LANDMARK The resolution recognizing Trump\u2019s contributions passed by a 20-3 supermajority vote, while the partial-closure resolution passed 23-3, according to a source familiar with the matter. Sen. Sheldon Whitehouse , D-R.I., and Democratic Reps. Joyce Beatty of Ohio and Rick Larsen of Washington voted \"no\" on both resolutions, the source said. The board\u2019s resolution calls f"
     },
     {
      "outlet": "bbc",
-     "title": "Multiple suspects at large after five shot at Virginia State University, police say",
-     "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+     "title": "Kennedy Center board votes to put Trump's name back on building",
+     "url": "https://www.bbc.co.uk/news/articles/cn7n5l5xy5ro?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-15T19:34:22+00:00",
-     "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday."
+     "published": "2026-08-13T22:21:36+00:00",
+     "summary": "The board on Thursday also voted to proceed with a two-year closure for proposed renovations, which was earlier blocked by a federal judge."
     },
     {
-     "outlet": "breitbart",
-     "title": "Numerous People Injured After Multiple Shooters Open Fire at Virginia State University",
-     "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/numerous-people-injured-after-multiple-shooters-open-fire-virginia-state-university/",
-     "author": "AWR Hawkins",
+     "outlet": "time",
+     "title": "Kennedy Center Board Votes to Put Trump's Name Back on the Building, Testing Judge's Order",
+     "url": "https://time.com/article/2026/08/13/kennedy-center-trump-name-board-vote-judge-order/",
+     "author": "Connor Greene",
      "kind": "news",
-     "published": "2026-08-15T15:39:06+00:00",
-     "summary": "Five people were wounded after multiple shooters opened fire on the Virginia State University (VSU) campus Saturday around 1:30 a.m. The post Numerous People Injured After Multiple Shooters Open Fire at Virginia State University appeared first on Breitbart ."
+     "published": "2026-08-13T22:02:14+00:00",
+     "summary": "A person walks past scaffolding and a large protective tarp covering the facade of the John F. Kennedy Center for the Performing Arts, guarded by two security guards, in Washington, D.C., on August 13, 2026. \u2014Brendan Smialowski\u2014AFP/Getty Images The Kennedy Center boardseon Thursday voted to put President Donald Trump\u2019s name back on the building\u2019s facade, setting the stage to test a judge\u2019s order from May that mandated its removal. The board, made up of mostly Trump loyalists , voted 20-3 to change the name of the building to \u201cThe John F. Kennedy Center for the Performing Arts Restored and Renovated by President Donald J. Trump\u201d while naming the center\u2019s grounds \u201cPresident Donald J. Trump Plaza,\u201d according to attendees of Thursday\u2019s meeting who spoke to multiple media outlets. The board also once again voted to close the performing arts center for up to two years for renovations. Operations are set to shift to the REACH, another building on the campus, while they are completed. \u201cThis morning\u2019s decision to close the Center and the surprise agenda item to put Donald Trump\u2019s name back on the building was more of the same,\u201d Democratic Rep. Joyce Beatty of Ohio, an ex-officio board membe"
     },
     {
-     "outlet": "guardian",
-     "title": "Multiple people injured in shooting at Virginia State University",
-     "url": "https://www.theguardian.com/us-news/2026/aug/15/multiple-people-injured-virginia-state-university-shooting",
-     "author": "Adam Gabbatt",
+     "outlet": "axios",
+     "title": "Kennedy Center board restores Trump's name, testing judge",
+     "url": "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order",
+     "author": "Cuneyt Dil",
      "kind": "news",
-     "published": "2026-08-15T13:20:41+00:00",
-     "summary": "School said shooting involved \u2018multiple suspects\u2019 as campus was locked down and police responded to scene Multiple people were injured in a shooting at Virginia State University (VSU), police said on Saturday morning, with several suspects still at large. The campus, about 20 miles (32km) south of Richmond, was temporarily put on lockdown as police released initial details about the shooting. Continue reading..."
+     "published": "2026-08-13T21:36:42+00:00",
+     "summary": "The Kennedy Center board voted Thursday to again add President Trump's name to the John F. Kennedy Center for the Performing Arts, two anonymous sources told Axios. Why it matters: The move challenges a federal judge's ruling back in May that only Congress could change the name of the performing arts venue, and that Trump's name must be removed . That process was completed in June. U.S. District Judge Christopher Cooper concluded that the board had \"overstepped its statutory bounds by unilaterally renaming\" the center after the president. The administration has appealed the ruling. Zoom in: Thursday's vote won't make Trump's name part of the complex. Instead, an inscription will go below the Kennedy Center sign that reads \"Restored and Renovated by President Donald J. Trump,\" and the physical site will be renamed \"the President Donald J. Trump Plaza.\" The decision is likely meant to circumvent both the judge's ruling and a federal law that oversees the Kennedy Center, which reads in part, \"no additional memorials or plaques in the nature of memorials shall be designated or installed in the public areas.\" \"This latest development is a transparent effort to circumvent the Court's rul"
     },
     {
-     "outlet": "dailywire",
-     "title": "Multiple People Shot At Virginia State University",
-     "url": "https://www.dailywire.com/news/multiple-people-shot-at-virginia-state-university",
-     "author": "Zach Jewell",
-     "kind": "opinion",
-     "published": "2026-08-15T07:47:18+00:00",
-     "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant law enforcement presence remains on campus as the investigation into this morning&#8217;s shooting continues.&#8221; It appears that no suspects have been taken into custody as of time of publication, and the university urged anyone with information on the shooting to contact law enforcement. pic.twi"
+     "outlet": "theatlantic",
+     "title": "Trump\u2019s New Plan to Get His Name Back on the Kennedy Center",
+     "url": "https://www.theatlantic.com/culture/2026/08/kennedy-center-trump-board/688276/?utm_source=feed",
+     "author": "Janay Kingsberry",
+     "kind": "news",
+     "published": "2026-08-13T20:38:00+00:00",
+     "summary": "Donald Trump just won\u2019t let go of his plans for the Kennedy Center. Less than three months after a federal judge ordered the president\u2019s name stripped from the national arts center, Trump\u2019s handpicked trustees have found a new way to try to put him back on the building. During a board meeting today, they voted in favor of a resolution that would return the president\u2019s name to the building\u2019s facade. It would read: The John F. Kennedy Memorial Center for the Performing Arts Restored and Renovated by President Donald Trump I obtained a copy of the resolution, which contains one more edit to the Kennedy Center\u2019s marble edifice. Once an obscure endowment known as the Trump Kennedy Center Fund reaches $100 million in donations, the resolution would expand the proposed signage\u2019s language to include a third line: Endowed by the Trump Kennedy Center Fund . The vote, which was not included on the agenda distributed before the meeting, will likely drag out a legal fight over Trump\u2019s transformation of the center and deepen an institutional crisis that has repelled audiences, artists, and donors since his takeover. Participants voted 20\u20133 to adopt the resolution, one person familiar with today\u2019"
+    }
+   ]
+  },
+  {
+   "id": "913fb93ef8",
+   "topic": "World",
+   "summary": "Russia says hundreds of drones targeted Moscow overnight, with six fatalities in the capital and southern Rostov region. Five people were killed in strikes across Ukraine.",
+   "summaryFrom": "dw",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 4,
+    "big": [],
+    "indie": [
+     "drones",
+     "across",
+     "five",
+     "killed",
+     "hundreds",
+     "people"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Ukraine launches one of its largest attacks of war",
+   "updated": "2026-08-16T10:59:00+00:00",
+   "outletCount": 6,
+   "counts": {
+    "pub": 3,
+    "nonprofit": 1,
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "Ukraine launches one of its largest attacks of war",
+     "url": "https://www.dw.com/en/ukraine-launches-one-of-its-largest-attacks-of-war/a-78386779?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T10:59:00+00:00",
+     "summary": "Russia says hundreds of drones targeted Moscow overnight, with six fatalities in the capital and southern Rostov region. Five people were killed in strikes across Ukraine."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T10:52:08+00:00",
+     "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit."
+    },
+    {
+     "outlet": "npr",
+     "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+     "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T10:12:09+00:00",
+     "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war. (Image credit: Francisco Seco)"
+    },
+    {
+     "outlet": "forbes",
+     "title": "Russia\u2019s War Toll Mounts In Ukraine Amid A Possible Mobilization",
+     "url": "https://www.forbes.com/sites/marktemnycky/2026/08/16/russias-war-toll-mounts-in-ukraine-amid-a-possible-mobilization/",
+     "author": "Mark Temnycky, Senior Contributor",
+     "kind": "news",
+     "published": "2026-08-16T10:00:00+00:00",
+     "summary": "Russia faces mounting casualties and economic strain from its full-scale invasion of Ukraine. Despite this, some observers warn of another possible Russian mobilization."
+    },
+    {
+     "outlet": "france24",
+     "title": "\ud83d\udd34 Live: Ukraine launches 600 drones at Russia, one of its largest aerial attacks of the war",
+     "url": "https://www.france24.com/en/europe/20260816-live-moscow-targeted-by-600-drones-overnight-explosions-heard-in-kyiv",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T09:53:40+00:00",
+     "summary": null
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Ukraine launches one of the largest aerial attacks on Russia yet",
+     "url": "https://www.cbsnews.com/news/ukraine-moscow-russia-drone-attack-largest-wildberries/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T09:34:49+00:00",
+     "summary": "Footage shows a large column of smoke after Ukraine struck a major logistics hub in the Moscow region."
     }
    ]
   },
@@ -294,10 +577,10 @@
      "along"
     ],
     "indie": [
+     "media",
+     "mass",
      "crossing",
      "social",
-     "mass",
-     "media",
      "enter",
      "attempted"
     ]
@@ -375,6 +658,84 @@
    ]
   },
   {
+   "id": "766f173698",
+   "topic": "Justice & Policing",
+   "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Multiple suspects at large after five shot at Virginia State University, police say",
+   "updated": "2026-08-16T07:41:28+00:00",
+   "outletCount": 6,
+   "counts": {
+    "corp": 3,
+    "pub": 1,
+    "family": 2
+   },
+   "newsCount": 5,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "Camron Harris Identified as Virginia State Shooting Suspect",
+     "url": "https://www.newsweek.com/who-is-camron-harris-virginia-state-shooting-suspect-identified-12328485",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T07:41:28+00:00",
+     "summary": "A 19-year-old was arrested in connection to the shooting that left five people wounded. He is not a student at VSU."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Va. State shooting: Suspect arrested, found hiding in dorm closet, police say",
+     "url": "https://abcnews.com/US/5-injured-shooting-virginia-state-university-arrests-made/story?id=135669705",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T04:37:35+00:00",
+     "summary": "A suspect in the shooting at Virginia State University early Saturday that left five people wounded, including one critically, has been arrested, according to police."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "5 people injured in shooting at Virginia State University, 1 suspect arrested",
+     "url": "https://www.cbsnews.com/news/shooting-virginia-state-university/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T01:41:45+00:00",
+     "summary": "Five people were injured in the shooting involving multiple suspects. One person is currently listed in critical condition, the university said."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+     "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T19:34:22+00:00",
+     "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Numerous People Injured After Multiple Shooters Open Fire at Virginia State University",
+     "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/numerous-people-injured-after-multiple-shooters-open-fire-virginia-state-university/",
+     "author": "AWR Hawkins",
+     "kind": "news",
+     "published": "2026-08-15T15:39:06+00:00",
+     "summary": "Five people were wounded after multiple shooters opened fire on the Virginia State University (VSU) campus Saturday around 1:30 a.m. The post Numerous People Injured After Multiple Shooters Open Fire at Virginia State University appeared first on Breitbart ."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Multiple People Shot At Virginia State University",
+     "url": "https://www.dailywire.com/news/multiple-people-shot-at-virginia-state-university",
+     "author": "Zach Jewell",
+     "kind": "opinion",
+     "published": "2026-08-15T07:47:18+00:00",
+     "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant law enforcement presence remains on campus as the investigation into this morning&#8217;s shooting continues.&#8221; It appears that no suspects have been taken into custody as of time of publication, and the university urged anyone with information on the shooting to contact law enforcement. pic.twi"
+    }
+   ]
+  },
+  {
    "id": "fc3549f0e2",
    "topic": "Justice & Policing",
    "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense, arguing that the weapons and murder counts against him should not move forward. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges.\u2026",
@@ -388,9 +749,9 @@
      "plea"
     ],
     "indie": [
+     "year-old",
      "pleading",
-     "death",
-     "year-old"
+     "death"
     ]
    },
    "absent": [
@@ -466,87 +827,6 @@
    ]
   },
   {
-   "id": "8c7bd71cb5",
-   "topic": "Climate & Energy",
-   "summary": "Hawaii has narrowly avoided a historic direct hit from Hurricane Lala, but torrential rain and hurricane-force winds are still causing widespread flooding, mudslides and power outages across the islands. Authorities are urging residents to shelter in place as the storm moves west and dangerous conditions persist.",
-   "summaryFrom": "france24",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 3,
-    "big": [],
-    "indie": [
-     "strong",
-     "winds",
-     "direct",
-     "torrential",
-     "brings",
-     "landfall"
-    ]
-   },
-   "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "US : Hawaii narrowly avoids direct hit as Hurricane Lala brings strong weather",
-   "updated": "2026-08-16T09:49:47+00:00",
-   "outletCount": 5,
-   "counts": {
-    "corp": 1,
-    "pub": 3,
-    "family": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "abcnews",
-     "title": "Hurricane Lala closes in on Hawaii bringing heavy rain, wind",
-     "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T09:49:47+00:00",
-     "summary": "Lala has strengthened to a Category 1 hurricane as it continues to track through the central Pacific Ocean, approaching the Big Island of Hawaii on Saturday."
-    },
-    {
-     "outlet": "france24",
-     "title": "US : Hawaii narrowly avoids direct hit as Hurricane Lala brings strong weather",
-     "url": "https://www.france24.com/en/us-hawaii-narrowly-avoids-direct-hit-as-hurricane-lala-brings-severe-weather",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T08:53:56+00:00",
-     "summary": "Hawaii has narrowly avoided a historic direct hit from Hurricane Lala, but torrential rain and hurricane-force winds are still causing widespread flooding, mudslides and power outages across the islands. Authorities are urging residents to shelter in place as the storm moves west and dangerous conditions persist."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-     "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T08:49:32+00:00",
-     "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years."
-    },
-    {
-     "outlet": "dw",
-     "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
-     "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T05:57:00+00:00",
-     "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is expected to weaken gradually. However, the hurricane caused roads to flood and turned rivers into raging torrents."
-    },
-    {
-     "outlet": "nypost",
-     "title": "Hurricane Lala leaves thousands without power in Hawaii amid \u2018life-threatening\u2019 conditions",
-     "url": "https://nypost.com/2026/08/16/us-news/hurricane-lala-leaves-thousands-without-power-in-hawaii-amid-life-threatening-conditions/",
-     "author": "Reuters",
-     "kind": "news",
-     "published": "2026-08-16T04:33:06+00:00",
-     "summary": "Hawaiian Electric warned customers to expect \u201cpossible extended outages, potentially overnight,\u201d as the storm system made its way westward across Hawaii."
-    }
-   ]
-  },
-  {
    "id": "94b16acd94",
    "topic": "World",
    "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions\u2026",
@@ -618,19 +898,16 @@
   {
    "id": "cc3b730f3d",
    "topic": "Politics",
-   "summary": "Jeff Merkley has a plan to save the republic from Donald Trump's \" authoritarian playbook \", or so says the senator from Oregon. \" This is a president trying to become a strongman authoritarian,\" said Merkley on the On NOTUS podcast this week. \"If we don't repair the Constitution, we don't have a republic.\" His \"For Our Republic Act\", which was introduced earlier this month , is a sprawling piece of legislation that aims at reversing many of the president's claims of executive authority and clamping down on some of the more novel forms of corruption we've seen under the president's second term. Its proposed reforms range from moving immigration judges from the executive branch to the judicial branch, requiring congressional approval of executive-led department shutterings and reorganizations, and banning executive officers from trading in prediction markets and hawking crypto products.\u2026",
-   "summaryFrom": "reason",
+   "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy \u200bposition, not clear Donald Trump has threatened to declare the strait of Hormuz as \u201ca territory of the United States\u201d as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would \u201cpretty soon\u201d designate the waterway \u2013 a crucial chokepoint for global trade, through which about a fifth of the world\u2019s seaborne oil supplies typically pass \u2013 a US territory. Continue reading...",
+   "summaryFrom": "guardian",
    "emphasis": {
     "bigCount": 3,
-    "indieCount": 3,
+    "indieCount": 2,
     "big": [
-     "reality",
-     "called",
-     "defeat",
-     "delusions"
+     "reality"
     ],
     "indie": [
-     "become"
+     "donald"
     ]
    },
    "absent": [
@@ -640,13 +917,13 @@
    "updated": "2026-08-15T22:47:44+00:00",
    "outletCount": 5,
    "counts": {
-    "corp": 2,
-    "family": 1,
+    "corp": 1,
+    "family": 2,
     "pub": 1,
-    "nonprofit": 2
+    "nonprofit": 1
    },
    "newsCount": 5,
-   "opinionCount": 1,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
@@ -668,13 +945,13 @@
      "summary": "Trump urged Americans on Friday to accept higher gasoline prices as a result of the war."
     },
     {
-     "outlet": "nbcnews",
-     "title": "Iran rejects \u2018delusions\u2019 after Trump says he wants the Strait of Hormuz to be a U.S. territory",
-     "url": "https://www.nbcnews.com/world/iran/iran-rejects-delusions-trump-strait-hormuz-us-territory-rcna592666",
-     "author": "Henry Austin",
+     "outlet": "bloomberg",
+     "title": "Iran, Oman Home In on Hormuz Strait Deal as Ship Attacks Mount",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-15/iran-oman-hone-in-on-hormuz-strait-deal-as-ship-attacks-mount",
+     "author": "Arsalan Shahla, Sara Gharaibeh and Catherine Lucey",
      "kind": "news",
-     "published": "2026-08-15T10:47:14+00:00",
-     "summary": "Iran called on the U.S. to \u201caccept the reality of defeat\u201d after President Donald Trump said he would declare the Strait of Hormuz a \u201cterritory\u201d of the U.S."
+     "published": "2026-08-15T13:00:56+00:00",
+     "summary": "Iran and Oman appear to be edging closer to a deal on how the Strait of Hormuz should be managed, agreeing on routes through the key waterway that\u2019s proved a major stumbling block in efforts to end almost six months of war between the Islamic Republic and the US."
     },
     {
      "outlet": "dw",
@@ -693,84 +970,6 @@
      "kind": "news",
      "published": "2026-08-14T21:38:17+00:00",
      "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy \u200bposition, not clear Donald Trump has threatened to declare the strait of Hormuz as \u201ca territory of the United States\u201d as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would \u201cpretty soon\u201d designate the waterway \u2013 a crucial chokepoint for global trade, through which about a fifth of the world\u2019s seaborne oil supplies typically pass \u2013 a US territory. Continue reading..."
-    },
-    {
-     "outlet": "reason",
-     "title": "Jeff Merkley Wants To Save Big Government From Donald Trump",
-     "url": "https://reason.com/2026/08/14/jeff-merkley-wants-to-save-big-government-from-donald-trump/",
-     "author": "Christian Britschgi",
-     "kind": "opinion",
-     "published": "2026-08-14T17:40:24+00:00",
-     "summary": "Jeff Merkley has a plan to save the republic from Donald Trump's \" authoritarian playbook \", or so says the senator from Oregon. \" This is a president trying to become a strongman authoritarian,\" said Merkley on the On NOTUS podcast this week. \"If we don't repair the Constitution, we don't have a republic.\" His \"For Our Republic Act\", which was introduced earlier this month , is a sprawling piece of legislation that aims at reversing many of the president's claims of executive authority and clamping down on some of the more novel forms of corruption we've seen under the president's second term. Its proposed reforms range from moving immigration judges from the executive branch to the judicial branch, requiring congressional approval of executive-led department shutterings and reorganizations, and banning executive officers from trading in prediction markets and hawking crypto products. While Merkley claims the bill is intended to check all presidents, and not just the current one, the legislation does often read as a list of particular Democratic grievances against Trump. It would prohibit the Federal Communications Commission (FCC) from revoking broadcast licenses or taking action"
-    }
-   ]
-  },
-  {
-   "id": "52063f27a2",
-   "topic": "World",
-   "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
-   "updated": "2026-08-15T20:37:34+00:00",
-   "outletCount": 5,
-   "counts": {
-    "pub": 3,
-    "nonprofit": 2
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
-     "url": "https://www.france24.com/en/middle-east/20260815-israeli-strikes-kill-11-in-southern-lebanon-hezbollah-threatens-to-retaliate",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-15T20:37:34+00:00",
-     "summary": "Israeli airstrikes on southern Lebanon killed at least 11 people Saturday, some of the deadliest since deals in June eased hostilities between Israel and Hezbollah. Israel's military said the strikes were in retaliation for an attack by Hezbollah on its troops in the country's south and the Iran-backed militant group said that the attacks would be \"met with what they deserve\"."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-     "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T20:21:14+00:00",
-     "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Israeli airstrikes on southern Lebanon kill 11 people in another test to truce",
-     "url": "https://www.pbs.org/newshour/world/israeli-airstrikes-on-southern-lebanon-kill-11-people-health-ministry-says",
-     "author": "Bassem Mroue, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T15:47:14+00:00",
-     "summary": "Israel and the Lebanese government announced a \"framework agreement\" on June 26, laying out a plan for Israeli forces to withdraw from southern Lebanon in exchange for the disarmament of the Iran-backed Hezbollah militant group."
-    },
-    {
-     "outlet": "dw",
-     "title": "Lebanon says 11 killed in Israeli airstrikes",
-     "url": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T15:35:00+00:00",
-     "summary": "Lebanon's prime minister denounced the attacks on villages in southern Lebanon for targeting civilians in their homes. Israel said it was firing on Hezbollah infrastructure."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
-     "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
-     "author": "William Christou",
-     "kind": "news",
-     "published": "2026-08-15T13:55:28+00:00",
-     "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading..."
     }
    ]
   },
@@ -840,279 +1039,6 @@
      "kind": "news",
      "published": "2026-08-14T09:41:06+00:00",
      "summary": "The DNC is expected to vote on Saturday to approve the new order of states for the 2028 presidential nominating process, amidst controversy over some of those decisions."
-    }
-   ]
-  },
-  {
-   "id": "166810adc6",
-   "topic": "Politics",
-   "summary": "A bulldozer clears a pathway in Big Bend National Park, Texas, on August 12, 2026. | Kaylee Greenlee/Bloomberg via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: Remember President Donald Trump\u2019s first-term border wall? It\u2019s still being built \u2014 through a pristine Texas national park. What\u2019s happening? The Trump administration is preparing to build hundreds of miles of roads through Big Bend National Park in southwest Texas as part of its latest border security project, despite a bipartisan outcry over damage to the beloved park.&nbsp; Starting last week, bulldozers and heavy machinery began to clear land for the construction of about 200 miles of patrol road, new border barriers, and electronic\u2026",
-   "summaryFrom": "vox",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 2,
-    "big": [
-     "donald",
-     "images",
-     "president",
-     "appeared",
-     "meme",
-     "official"
-    ],
-    "indie": [
-     "work",
-     "wall"
-    ]
-   },
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "\u2018Devastating\u2019: bulldozers plough through Big Bend national park as Trump\u2019s border work pushes ahead",
-   "updated": "2026-08-14T22:00:00+00:00",
-   "outletCount": 5,
-   "counts": {
-    "corp": 2,
-    "family": 1,
-    "nonprofit": 2
-   },
-   "newsCount": 4,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "vox",
-     "title": "Why Trump is tearing up a beloved national park",
-     "url": "https://www.vox.com/the-logoff-newsletter-trump/499508/trump-big-bend-national-park-border-wall-security-construction",
-     "author": "Cameron Peters",
-     "kind": "news",
-     "published": "2026-08-14T22:00:00+00:00",
-     "summary": "A bulldozer clears a pathway in Big Bend National Park, Texas, on August 12, 2026. | Kaylee Greenlee/Bloomberg via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: Remember President Donald Trump\u2019s first-term border wall? It\u2019s still being built \u2014 through a pristine Texas national park. What\u2019s happening? The Trump administration is preparing to build hundreds of miles of roads through Big Bend National Park in southwest Texas as part of its latest border security project, despite a bipartisan outcry over damage to the beloved park.&nbsp; Starting last week, bulldozers and heavy machinery began to clear land for the construction of about 200 miles of patrol road, new border barriers, and electronic surveillance measures to cover the park\u2019s 118 miles of shared border with Mexico. The construction is proceeding after the administration overrode environmental laws intended to protect places like Big Bend earlier this year. What does a border wall look like in 2026? In this case, \u201cwall\u201d is a bit of a misnome"
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Trump Turns Beloved Rubio Meme Into Birthday Gift",
-     "url": "https://www.dailywire.com/news/trump-turns-beloved-rubio-meme-into-birthday-gift",
-     "author": "Virginia Kruta",
-     "kind": "opinion",
-     "published": "2026-08-14T19:47:25+00:00",
-     "summary": "President Donald Trump turned a long-running joke into a birthday gift for Secretary of State Marco Rubio, who turned 55 on May 28. Trump has already tasked Rubio with several official jobs within the administration \u2014 which spawned constant speculation whenever a new vacancy appeared \u2014 and a viral meme was born. An Oval Office photo of Rubio slouched on a couch \u2014 wearing an expression that suggests he&#8217;s not thrilled with the way things are going \u2014 became the template for hundreds of potential new jobs for the Secretary of State/Acting National Security Adviser/acting administrator for the U.S. Agency for International Development (USAID)/acting archivist of the National Archives and Records Administration. Trump and other White House staffers capitalized on the popularity of the meme, and put together a collage \u2014 featuring dozens of iterations of the &#8220;Rubio realizing&#8221; meme. The finished product was framed in gold and presented to Rubio for his birthday. The White House made a Rubio Realizing Meme collage for his birthday (May 28), which the president &amp; others signed https://t.co/5oVDfTFaed pic.twitter.com/S2KsnRta3S \u2014 Marc Caputo (@MarcACaputo) August 13, 2026"
-    },
-    {
-     "outlet": "guardian",
-     "title": "\u2018Devastating\u2019: bulldozers plough through Big Bend national park as Trump\u2019s border work pushes ahead",
-     "url": "https://www.theguardian.com/us-news/2026/aug/14/bulldozers-big-bend-national-park-trump",
-     "author": "Roque Planas",
-     "kind": "news",
-     "published": "2026-08-14T19:27:08+00:00",
-     "summary": "Heavy machinery seen operating in famous Santa Elena Canyon amid outcry over new wall infrastructure in beloved Texas park Bulldozers have begun plowing up ground at the mouth of Big Bend national park\u2019s famed Santa Elena Canyon as part of the Trump administration\u2019s multibillion-dollar \u201csmart wall\u201d expansion on the US-Mexico border, according to new footage taken by activists who have been monitoring the site. Tensions have run high since the Trump administration announced plans to erect new border security infrastructure in the roughly 500-mile Big Bend region of south-west Texas, which includes the Lone Star State\u2019s largest and most-visited national park. Continue reading..."
-    },
-    {
-     "outlet": "texastribune",
-     "title": "Lawsuit seeks to stop Big Bend border wall construction",
-     "url": "https://feeds.texastribune.org/link/16799/17418172/texas-big-bend-border-wall-lawsuit-lipan-apache",
-     "author": "Ayden Runnels and Gabby Birenbaum",
-     "kind": "news",
-     "published": "2026-08-14T14:20:18+00:00",
-     "summary": "A tribal nonprofit and an outdoor recreation company filed the federal lawsuit, arguing the work threatens archeological sites and sacred grounds."
-    },
-    {
-     "outlet": "axios",
-     "title": "\"Rubio Realizing\" memes become a White House birthday gift",
-     "url": "https://www.axios.com/2026/08/13/marco-rubio-memes-birthday-gift",
-     "author": "Marc Caputo",
-     "kind": "news",
-     "published": "2026-08-13T22:51:21+00:00",
-     "summary": "Photo: Marc Caputo/Axios Marco Rubio has three official Trump administration jobs and a fourth unofficial title: Viral meme star. He's been featured in countless \"Rubio Realizing\" images doctored to capture his grim reaction to being \"assigned\" more jobs, depending on the news of the day or the crisis du jour in the White House. Why it matters: For his 55th birthday on May 28, White House staffers and President Trump gifted Rubio with a gold-framed collage of their 68 favorite \"Rubio Realizing\" memes. A photo of the gift went viral Wednesday when this Axios reporter posted it on X. Zoom in: For the past 18 months, Rubio memes have featured him as everything from a Kiss band member to a samurai to a \"Bachelorette\" contestant in homage to his roles as secretary of state, national security adviser and chair of the U.S. bid for the World Expo in 2035. The memes are based on a photo from one of the most awkward moments in the Trump White House \u2014 on Feb. 28, 2025, when the president and Vice President Vance excoriated Ukrainian President Volodymyr Zelensky over the war with Russia. As the two U.S. leaders savaged Zelensky, Rubio sat ramrod straight on an Oval Office couch without engagin"
-    }
-   ]
-  },
-  {
-   "id": "267e6bad1f",
-   "topic": "Politics",
-   "summary": "FIRST ON FOX \u2014 The Kennedy Center Board of Trustees wants to name the famed arts institution\u2019s grounds the \"President Donald J. Trump Plaza,\" one of several new ways the board is seeking to honor the president as the center moves ahead with a sweeping renovation, Fox News Digital has learned. The board also wants the words \"Endowed by the Trump Kennedy Center Fund\" inscribed on the building once the fund reaches a $100 million endowment, according to information obtained by Fox News Digital. The previously unreported moves come after the board voted Thursday to add an inscription crediting Trump with restoring and renovating America's cultural center, and approved a partial closure of the complex for renovations. KENNEDY CENTER BOARD MEMBER KNOCKS SEN WHITEHOUSE FOR IGNORING INVITES AS DEM FEUDS WITH TRUMP-RUN LANDMARK The resolution recognizing Trump\u2019s contributions passed by a 20-3\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Kennedy Center board votes to put Trump's name back on building",
-   "updated": "2026-08-14T20:20:52+00:00",
-   "outletCount": 5,
-   "counts": {
-    "family": 3,
-    "pub": 1,
-    "corp": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "EXCLUSIVE: Kennedy Center board moves to name grounds \u2018President Donald J Trump Plaza'",
-     "url": "https://www.foxnews.com/politics/exclusive-kennedy-center-board-moves-name-grounds-president-donald-j-trump-plaza",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T20:20:52+00:00",
-     "summary": "FIRST ON FOX \u2014 The Kennedy Center Board of Trustees wants to name the famed arts institution\u2019s grounds the \"President Donald J. Trump Plaza,\" one of several new ways the board is seeking to honor the president as the center moves ahead with a sweeping renovation, Fox News Digital has learned. The board also wants the words \"Endowed by the Trump Kennedy Center Fund\" inscribed on the building once the fund reaches a $100 million endowment, according to information obtained by Fox News Digital. The previously unreported moves come after the board voted Thursday to add an inscription crediting Trump with restoring and renovating America's cultural center, and approved a partial closure of the complex for renovations. KENNEDY CENTER BOARD MEMBER KNOCKS SEN WHITEHOUSE FOR IGNORING INVITES AS DEM FEUDS WITH TRUMP-RUN LANDMARK The resolution recognizing Trump\u2019s contributions passed by a 20-3 supermajority vote, while the partial-closure resolution passed 23-3, according to a source familiar with the matter. Sen. Sheldon Whitehouse , D-R.I., and Democratic Reps. Joyce Beatty of Ohio and Rick Larsen of Washington voted \"no\" on both resolutions, the source said. The board\u2019s resolution calls f"
-    },
-    {
-     "outlet": "bbc",
-     "title": "Kennedy Center board votes to put Trump's name back on building",
-     "url": "https://www.bbc.co.uk/news/articles/cn7n5l5xy5ro?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T22:21:36+00:00",
-     "summary": "The board on Thursday also voted to proceed with a two-year closure for proposed renovations, which was earlier blocked by a federal judge."
-    },
-    {
-     "outlet": "time",
-     "title": "Kennedy Center Board Votes to Put Trump's Name Back on the Building, Testing Judge's Order",
-     "url": "https://time.com/article/2026/08/13/kennedy-center-trump-name-board-vote-judge-order/",
-     "author": "Connor Greene",
-     "kind": "news",
-     "published": "2026-08-13T22:02:14+00:00",
-     "summary": "A person walks past scaffolding and a large protective tarp covering the facade of the John F. Kennedy Center for the Performing Arts, guarded by two security guards, in Washington, D.C., on August 13, 2026. \u2014Brendan Smialowski\u2014AFP/Getty Images The Kennedy Center boardseon Thursday voted to put President Donald Trump\u2019s name back on the building\u2019s facade, setting the stage to test a judge\u2019s order from May that mandated its removal. The board, made up of mostly Trump loyalists , voted 20-3 to change the name of the building to \u201cThe John F. Kennedy Center for the Performing Arts Restored and Renovated by President Donald J. Trump\u201d while naming the center\u2019s grounds \u201cPresident Donald J. Trump Plaza,\u201d according to attendees of Thursday\u2019s meeting who spoke to multiple media outlets. The board also once again voted to close the performing arts center for up to two years for renovations. Operations are set to shift to the REACH, another building on the campus, while they are completed. \u201cThis morning\u2019s decision to close the Center and the surprise agenda item to put Donald Trump\u2019s name back on the building was more of the same,\u201d Democratic Rep. Joyce Beatty of Ohio, an ex-officio board membe"
-    },
-    {
-     "outlet": "axios",
-     "title": "Kennedy Center board restores Trump's name, testing judge",
-     "url": "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order",
-     "author": "Cuneyt Dil",
-     "kind": "news",
-     "published": "2026-08-13T21:36:42+00:00",
-     "summary": "The Kennedy Center board voted Thursday to again add President Trump's name to the John F. Kennedy Center for the Performing Arts, two anonymous sources told Axios. Why it matters: The move challenges a federal judge's ruling back in May that only Congress could change the name of the performing arts venue, and that Trump's name must be removed . That process was completed in June. U.S. District Judge Christopher Cooper concluded that the board had \"overstepped its statutory bounds by unilaterally renaming\" the center after the president. The administration has appealed the ruling. Zoom in: Thursday's vote won't make Trump's name part of the complex. Instead, an inscription will go below the Kennedy Center sign that reads \"Restored and Renovated by President Donald J. Trump,\" and the physical site will be renamed \"the President Donald J. Trump Plaza.\" The decision is likely meant to circumvent both the judge's ruling and a federal law that oversees the Kennedy Center, which reads in part, \"no additional memorials or plaques in the nature of memorials shall be designated or installed in the public areas.\" \"This latest development is a transparent effort to circumvent the Court's rul"
-    },
-    {
-     "outlet": "theatlantic",
-     "title": "Trump\u2019s New Plan to Get His Name Back on the Kennedy Center",
-     "url": "https://www.theatlantic.com/culture/2026/08/kennedy-center-trump-board/688276/?utm_source=feed",
-     "author": "Janay Kingsberry",
-     "kind": "news",
-     "published": "2026-08-13T20:38:00+00:00",
-     "summary": "Donald Trump just won\u2019t let go of his plans for the Kennedy Center. Less than three months after a federal judge ordered the president\u2019s name stripped from the national arts center, Trump\u2019s handpicked trustees have found a new way to try to put him back on the building. During a board meeting today, they voted in favor of a resolution that would return the president\u2019s name to the building\u2019s facade. It would read: The John F. Kennedy Memorial Center for the Performing Arts Restored and Renovated by President Donald Trump I obtained a copy of the resolution, which contains one more edit to the Kennedy Center\u2019s marble edifice. Once an obscure endowment known as the Trump Kennedy Center Fund reaches $100 million in donations, the resolution would expand the proposed signage\u2019s language to include a third line: Endowed by the Trump Kennedy Center Fund . The vote, which was not included on the agenda distributed before the meeting, will likely drag out a legal fight over Trump\u2019s transformation of the center and deepen an institutional crisis that has repelled audiences, artists, and donors since his takeover. Participants voted 20\u20133 to adopt the resolution, one person familiar with today\u2019"
-    }
-   ]
-  },
-  {
-   "id": "25b3c74a74",
-   "topic": "World",
-   "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war. (Image credit: Francisco Seco)",
-   "summaryFrom": "npr",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop"
-   ],
-   "headline": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-   "updated": "2026-08-16T10:12:09+00:00",
-   "outletCount": 4,
-   "counts": {
-    "nonprofit": 1,
-    "pub": 2,
-    "corp": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "npr",
-     "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-     "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T10:12:09+00:00",
-     "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war. (Image credit: Francisco Seco)"
-    },
-    {
-     "outlet": "bbc",
-     "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-     "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T10:09:10+00:00",
-     "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit."
-    },
-    {
-     "outlet": "france24",
-     "title": "\ud83d\udd34 Live: Ukraine launches 600 drones at Russia, one of its largest aerial attacks of the war",
-     "url": "https://www.france24.com/en/europe/20260816-live-moscow-targeted-by-600-drones-overnight-explosions-heard-in-kyiv",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T09:53:40+00:00",
-     "summary": null
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Ukraine launches one of the largest aerial attacks on Russia yet",
-     "url": "https://www.cbsnews.com/news/ukraine-moscow-russia-drone-attack-largest-wildberries/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T09:34:49+00:00",
-     "summary": "Footage shows a large column of smoke after Ukraine struck a major logistics hub in the Moscow region."
-    }
-   ]
-  },
-  {
-   "id": "1c94345e95",
-   "topic": "Other",
-   "summary": "Police say they have arrested the driver of a bus that crashed in Hungary, killing at least 12 people. The bus was carrying Polish pilgrims, media report.",
-   "summaryFrom": "dw",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Bus crash in Hungary kills at least 12",
-   "updated": "2026-08-16T09:47:00+00:00",
-   "outletCount": 4,
-   "counts": {
-    "pub": 3,
-    "family": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Bus crash in Hungary kills at least 12",
-     "url": "https://www.dw.com/en/bus-crash-in-hungary-kills-at-least-12/a-78387230?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T09:47:00+00:00",
-     "summary": "Police say they have arrested the driver of a bus that crashed in Hungary, killing at least 12 people. The bus was carrying Polish pilgrims, media report."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "At least 12 people killed in Hungary bus crash",
-     "url": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T08:50:30+00:00",
-     "summary": "Bus carrying Polish tourists overturns, killing 12 people and injuring 10 others on the M3 motorway near Mezokeresztes."
-    },
-    {
-     "outlet": "nypost",
-     "title": "12 killed and at least 10 injured in Polish bus crash in Hungary",
-     "url": "https://nypost.com/2026/08/16/world-news/polish-bus-crash-leaves-12-dead-at-least-10-injured-in-hungary/",
-     "author": "Reuters",
-     "kind": "news",
-     "published": "2026-08-16T07:39:18+00:00",
-     "summary": "The bus ran into a ditch and tipped over early on Sunday \u200bnear the town of Mezokeresztes in eastern Hungary, police said."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-     "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T07:04:17+00:00",
-     "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning."
     }
    ]
   },
@@ -1251,134 +1177,6 @@
    ]
   },
   {
-   "id": "de3990c6ff",
-   "topic": "Politics",
-   "summary": "Former Rep. Mary Peltola\u2019s (D-AK) Senate campaign made clear this week that it wants nothing to do with former Vice President Kamala Harris\u2019s message of support. On Wednesday, Harris\u2019s Fight for the People PAC sent an email urging supporters to \u201cstand behind Mary,\u201d The New York Times reported . It called the Alaska contest a \u201cmust-win race\u201d for Democrats hoping to retake the Senate and declared, \u201cIf there\u2019s anyone who can flip Alaska and secure the Senate majority for Democrats \u2014 it\u2019s Mary.\u201d The message linked to a page asking donors to split contributions between Peltola\u2019s campaign and Harris\u2019s own committee. Peltola\u2019s team responded immediately. The campaign said it had not approved the email and had no knowledge of it before it went out. \u201cMary isn\u2019t seeking endorsements from anyone from the Lower 48 \u2014 her focus is and always will be Alaska,\u201d the statement read, citing support she has\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Alaska candidate for US Senate rejects Kamala Harris\u2019s unsolicited support",
-   "updated": "2026-08-15T18:16:22+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 3,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dailywire",
-     "title": "Dem Senate Hopeful Runs From Kamala Harris Support",
-     "url": "https://www.dailywire.com/news/dem-senate-hopeful-runs-from-kamala-harris-support",
-     "author": "Leona Salinas",
-     "kind": "opinion",
-     "published": "2026-08-15T18:16:22+00:00",
-     "summary": "Former Rep. Mary Peltola\u2019s (D-AK) Senate campaign made clear this week that it wants nothing to do with former Vice President Kamala Harris\u2019s message of support. On Wednesday, Harris\u2019s Fight for the People PAC sent an email urging supporters to \u201cstand behind Mary,\u201d The New York Times reported . It called the Alaska contest a \u201cmust-win race\u201d for Democrats hoping to retake the Senate and declared, \u201cIf there\u2019s anyone who can flip Alaska and secure the Senate majority for Democrats \u2014 it\u2019s Mary.\u201d The message linked to a page asking donors to split contributions between Peltola\u2019s campaign and Harris\u2019s own committee. Peltola\u2019s team responded immediately. The campaign said it had not approved the email and had no knowledge of it before it went out. \u201cMary isn\u2019t seeking endorsements from anyone from the Lower 48 \u2014 her focus is and always will be Alaska,\u201d the statement read, citing support she has received from several Alaska labor groups. Peltola did not endorse Harris in 2024. Peltola, a former congresswoman, is running against incumbent Senator Dan Sullivan (R-AK). Limited polling thus far shows the race to be competitive, but Peltola would need to far outperform Harris\u2019s 2024 showing in t"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Alaska candidate for US Senate rejects Kamala Harris\u2019s unsolicited support",
-     "url": "https://www.theguardian.com/us-news/2026/aug/15/alaska-mary-peltola-rejects-kamala-harris-unsolicited-support",
-     "author": "Adam Gabbatt",
-     "kind": "news",
-     "published": "2026-08-15T15:07:54+00:00",
-     "summary": "Former VP sent fundraising appeal for Democrat Mary Peltola\u2019s campaign \u2013 with half of donations going to Harris\u2019s organization Alaska US Senate candidate Mary Peltola has rejected the support of Kamala Harris , her fellow Democrat, after the 2024 presidential candidate sent out a seemingly unsolicited fundraising appeal on Peltola\u2019s behalf. Harris, who lost Alaska \u2013 typically a Republican-voting state \u2013 by 13 points during her unsuccessful White House run, on Wednesday sent an email from her political organization to supporters of Peltola, a former US House member. Continue reading..."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Top Dem operative brushes off latest scandal plaguing Maine Senate candidate as 'salacious gossip'",
-     "url": "https://www.foxnews.com/politics/top-dem-operative-brushes-off-latest-scandal-plaguing-maine-senate-candidate-salacious-gossip",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T11:00:46+00:00",
-     "summary": "High-profile Democrats aren't backing off their support for Maine Senate candidate Troy Jackson following reports he fathered children with his cousin. Former Democratic National Committee Chairwoman Donna Brazile was among the chorus of party voices throwing cold water on the claims about Jackson in a scandal-plagued Senate race that was already upended after former far-left candidate Graham Platner dropped out earlier this summer after a series of controversies that culminated in a rape allegation. Now, Jackson is facing even more turmoil with the most recent revelations of a 1988 police report accusing him of assault. \"There\u2019s a lot of people who are doing a lot of gossip as news, and I don't want to break news that might not be true \u2014 especially on something so personal \u2014 that's not what I do,\" Brazile told Fox News Digital when asked about a report Jackson had two children with his cousin and longtime partner Lana Pelletier. INTERNET ERUPTS OVER REPORT THAT PLATNER'S REPLACEMENT IN KEY SENATE RACE FATHERED CHILDREN WITH SECOND COUSIN Jackson became the Democrat nominee for Senate in Maine despite Platner winning the June 9 primary race. Platner formally dropped out on July 10,"
-    },
-    {
-     "outlet": "nyt",
-     "title": "Alaska Democrat Mary Peltola Pushes Back Against Endorsement From Kamala Harris",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/kamala-harris-mary-peltola-endorsement.html",
-     "author": "Tim Balk",
-     "kind": "news",
-     "published": "2026-08-14T21:49:50+00:00",
-     "summary": "Former Representative Mary Peltola of Alaska did not appear to be happy that former Vice President Kamala Harris put out a fund-raising appeal on her behalf. Ms. Harris lost the 2024 presidential election in Alaska by 14 points."
-    }
-   ]
-  },
-  {
-   "id": "cc0f5a9b70",
-   "topic": "Politics",
-   "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [
-     "ex-cambridge",
-     "blames"
-    ],
-    "indie": []
-   },
-   "absent": [
-    "corp",
-    "pub"
-   ],
-   "headline": "UK's leader calls for reflection after the death of former Cambridge professor accused of plagiarism",
-   "updated": "2026-08-15T17:48:50+00:00",
-   "outletCount": 4,
-   "counts": {
-    "nonprofit": 1,
-    "family": 2,
-    "coop": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "pbsnewshour",
-     "title": "UK's leader calls for reflection after the death of former Cambridge professor accused of plagiarism",
-     "url": "https://www.pbs.org/newshour/world/uks-leader-calls-for-reflection-after-the-death-of-former-cambridge-professor-accused-of-plagiarism",
-     "author": "Sylvia Hui, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T17:48:50+00:00",
-     "summary": "Jason Arday, who became Cambridge's youngest Black professor in 2023, was found dead inside an address in south London on Friday."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "UK Left Blames Death of Ex-Cambridge Professor Arday on 'Racism', Media Scrutiny of Plagiarism Claims",
-     "url": "https://www.breitbart.com/europe/2026/08/15/uk-left-blames-death-of-ex-cambridge-professor-arday-on-racism-media-scrutiny-of-plagiarism-claims/",
-     "author": "Kurt Zindulka",
-     "kind": "news",
-     "published": "2026-08-15T15:58:25+00:00",
-     "summary": "British leftists have attempted to blame racism and media scrutiny for the untimely death of former Cambridge professor Jason Arday, who sensationally resigned last week amid plagiarism allegations and accusations of fabricating his backstory. The post UK Left Blames Death of Ex-Cambridge Professor Arday on &#8216;Racism&#8217;, Media Scrutiny of Plagiarism Claims appeared first on Breitbart ."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Family Of Ex-Cambridge Professor Blames \u2018Campaign Of Misinformation\u2019 For His Death",
-     "url": "https://www.dailywire.com/news/family-of-ex-cambridge-professor-blames-campaign-of-misinformation-for-his-death",
-     "author": "Virginia Kruta",
-     "kind": "opinion",
-     "published": "2026-08-14T19:16:44+00:00",
-     "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too long.&#8221; Arday, 41, was found unresponsive in his South London home on Friday \u2014 just over a week after he left his position at the prestigious university. Prior to leaving his post, he&#8217;d been accused of plagiarism and of embellishing his life story ahead of the release of his memoir, &#8220;Great a"
-    },
-    {
-     "outlet": "zeteo",
-     "title": "\u2708\ufe0f \ud83d\ude9a Moronic Trump Thinks It\u2019s Funny He Left the Media on Death Force One",
-     "url": "https://zeteo.com/p/moronic-trump-thinks-its-funny-he",
-     "author": "Asawin Suebsaeng",
-     "kind": "news",
-     "published": "2026-08-13T11:33:22+00:00",
-     "summary": "On this day in 2025, 37-year-old paralegal Sean Dunn was charged with felony assault for throwing a sandwich at an immigration agent in Washington, DC. In an early fiasco for Fox host turned DC U.S. attorney Jeanine Pirro, the charge was downgraded before Dunn was acquitted. Happy Thursday! Swin here. There&#8217;s an episode from the classic era of &#8216;The Simpsons&#8217; (yeah that&#8217;s right; I&#8217;m referencing the show again ) in which the billionaire Republican tyrant Mr. Burns jumps in an escape pod and mercilessly locks out his ultra-sycophantic assistant, Waylon Smithers , because Burns wants more leg room, all the while expecting his yes-man to keep on serving. Donald Trump did his version with his decoy Air Force One caper &#8211; and I&#8217;m very sorry, I simply cannot pretend it isn&#8217;t tremendously funny. In today&#8217;s &#8216; First Draft ,&#8217; we get into the wild saga of Trump, his planes, and his apparently expendable aides. Plus, responses to a progressive defeat in Wisconsin and a progressive win in Minnesota suggest Democrats might just have read the memo about the overwhelming need for unity in the attempt to wrest Congress away from the GOP"
-    }
-   ]
-  },
-  {
    "id": "1e0423bcc5",
    "topic": "Justice & Policing",
    "summary": "After the Supreme Court affirmed birthright citizenship, Trump has taken to proclamations to try to limit the impact of the decision. What is fair and what isn't?",
@@ -1448,10 +1246,10 @@
     "indieCount": 3,
     "big": [
      "stations",
-     "airport",
-     "foot-washing",
-     "international",
      "worth",
+     "foot-washing",
+     "airport",
+     "international",
      "scrapped"
     ],
     "indie": [
@@ -1667,10 +1465,10 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "called",
-     "pronounced",
      "statement",
-     "police"
+     "called",
+     "police",
+     "pronounced"
     ],
     "indie": []
    },
@@ -1729,72 +1527,21 @@
    ]
   },
   {
-   "id": "fd481c993c",
-   "topic": "Climate & Energy",
-   "summary": "Hurricane Lala slammed Hawaii's Big Island, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides.",
-   "summaryFrom": "cbsnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
-   "updated": "2026-08-16T10:33:20+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 1,
-    "family": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "One dead as Hurricane Lala lashes Hawaii's Big Island as a Category 1 storm",
-     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T10:33:20+00:00",
-     "summary": "Hurricane Lala slammed Hawaii's Big Island, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Flights between L.A. and Hawaii disrupted as Hurricane Lala approaches the Big Island",
-     "url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
-     "author": "Josh Rottenberg",
-     "kind": "news",
-     "published": "2026-08-16T00:56:14+00:00",
-     "summary": "Several flights from LAX to Hawaii were canceled Saturday, including service to Kona, Maui, Kauai and Honolulu."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
-     "url": "https://www.pbs.org/newshour/nation/hawaiis-big-island-lashed-by-rain-and-wind-as-tropical-storm-lala-closes-in",
-     "author": "Ed White, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T15:17:14+00:00",
-     "summary": "The National Hurricane Center said Lala's maximum sustained winds increased to 75 mph, making it a Category 1 hurricane."
-    }
-   ]
-  },
-  {
-   "id": "53e6392a6d",
+   "id": "4d5eb51799",
    "topic": "World",
-   "summary": "Iran and Oman appear to be edging closer to a deal on how the Strait of Hormuz should be managed, agreeing on routes through the key waterway that\u2019s proved a major stumbling block in efforts to end almost six months of war between the Islamic Republic and the US.",
-   "summaryFrom": "bloomberg",
+   "summary": "Jared Kushner, President Trump's envoy and son-in-law, is planning to visit Israel next week for talks on the situation in Gaza , according to five sources with knowledge of the plan. Why it matters: This would be Kushner's first trip to Israel since January. It comes as the White House and Trump's Board of Peace are trying to push forward with the next phase of the Gaza plan, which focuses on disarming Hamas and a potential Israeli withdrawal. The Netanyahu government is highly skeptical of the U.S. Gaza plan, and the upcoming election in October is making the issue even more politically sensitive. \"We see eye-to-eye on the strategic goal, but Israel has expressed some doubts about the plan and we want to talk to them in order to make sure we are coordinated,\" a U.S. official said, while noting the exact dates of the trip could change. Driving the news: Trump announced two weeks ago\u2026",
+   "summaryFrom": "axios",
    "emphasis": null,
    "absent": [
     "coop",
     "nonprofit"
    ],
-   "headline": "Israel strikes south Lebanon again as families flee north",
-   "updated": "2026-08-16T09:04:21+00:00",
+   "headline": "Hamas begins crucial talks with Egypt on Trump's Gaza peace plan",
+   "updated": "2026-08-16T11:33:32+00:00",
    "outletCount": 3,
    "counts": {
-    "corp": 1,
     "pub": 1,
+    "corp": 1,
     "family": 1
    },
    "newsCount": 3,
@@ -1802,56 +1549,65 @@
    "underreported": false,
    "articles": [
     {
-     "outlet": "cbsnews",
-     "title": "Iran strikes another ship in Strait of Hormuz as Israel steps up Lebanon attacks",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
-     "author": null,
+     "outlet": "france24",
+     "title": "Hamas begins crucial talks with Egypt on Trump's Gaza peace plan",
+     "url": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
+     "author": "FRANCE 24",
      "kind": "news",
-     "published": "2026-08-16T09:04:21+00:00",
-     "summary": "Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children, according to the health ministry."
+     "published": "2026-08-16T11:33:32+00:00",
+     "summary": "A Hamas delegation began a meeting with Egypt's spy chief on Sunday to discuss ways to advance the implementation of a post-war plan for Gaza, an official from the Palestinian group told AFP."
     },
     {
-     "outlet": "aljazeera",
-     "title": "Israel strikes south Lebanon again as families flee north",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
-     "author": null,
+     "outlet": "axios",
+     "title": "Kushner set to visit Israel, Egypt next week for Gaza talks",
+     "url": "https://www.axios.com/2026/08/13/kushner-israel-gaza-netanyahu",
+     "author": "Barak Ravid",
      "kind": "news",
-     "published": "2026-08-16T04:43:21+00:00",
-     "summary": "Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids."
+     "published": "2026-08-13T21:44:47+00:00",
+     "summary": "Jared Kushner, President Trump's envoy and son-in-law, is planning to visit Israel next week for talks on the situation in Gaza , according to five sources with knowledge of the plan. Why it matters: This would be Kushner's first trip to Israel since January. It comes as the White House and Trump's Board of Peace are trying to push forward with the next phase of the Gaza plan, which focuses on disarming Hamas and a potential Israeli withdrawal. The Netanyahu government is highly skeptical of the U.S. Gaza plan, and the upcoming election in October is making the issue even more politically sensitive. \"We see eye-to-eye on the strategic goal, but Israel has expressed some doubts about the plan and we want to talk to them in order to make sure we are coordinated,\" a U.S. official said, while noting the exact dates of the trip could change. Driving the news: Trump announced two weeks ago that his Board of Peace had reached an agreement with Hamas to disarm and transfer civilian and security control of Gaza to a new Palestinian technocratic government. On Sunday, under pressure from his coalition partners and political opponents, Netanyahu publicly rejected the plan for disarming Hamas."
     },
     {
-     "outlet": "bloomberg",
-     "title": "Iran, Oman Home In on Hormuz Strait Deal as Ship Attacks Mount",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-15/iran-oman-hone-in-on-hormuz-strait-deal-as-ship-attacks-mount",
-     "author": "Arsalan Shahla, Sara Gharaibeh and Catherine Lucey",
+     "outlet": "semafor",
+     "title": "US-backed peace plan under scrutiny as Israel launches strike on Gaza",
+     "url": "https://www.semafor.com/article/08/13/2026/us-backed-peace-plan-under-scrutiny-as-israel-launches-strike-on-gaza",
+     "author": "Prashant Rao",
      "kind": "news",
-     "published": "2026-08-15T13:00:56+00:00",
-     "summary": "Iran and Oman appear to be edging closer to a deal on how the Strait of Hormuz should be managed, agreeing on routes through the key waterway that\u2019s proved a major stumbling block in efforts to end almost six months of war between the Islamic Republic and the US."
+     "published": "2026-08-13T12:59:53+00:00",
+     "summary": "Israel launched its first strike on Gaza in a week, intensifying questions over the prospects for a renewed US-backed peace effort. One person was wounded in the attack ; overall, more than 1,250 people have been killed in the territory since October, when Washington unveiled a plan to end the Gaza war. Israel\u2019s prime minister over the weekend rejected the latest push to curb violence in the territory, though the White House downplayed the remarks as political posturing ahead of October elections . In the West Bank, meanwhile, 76 Palestinians and three Israelis have been killed this year as tensions have surged over what the UN described as \u201c unprecedented levels \u201d of violence by Israeli settlers there. \u2014 Prashant Rao"
     }
    ]
   },
   {
-   "id": "f6c256e5fd",
+   "id": "adeb646bf4",
    "topic": "World",
-   "summary": "A Wildberries warehouse near Moscow caught fire after a Ukrainian drone strike, the regional governor said, part of one of the largest recent attacks on the broader capital area.",
-   "summaryFrom": "bloomberg",
+   "summary": "A Spanish fighter jet on Sunday shot down a drone that breached Romania's airspace near the border with Ukraine and Moldova, Romania's defence ministry said, in the latest incident to highlight the challenges facing NATO states bordering Ukraine.",
+   "summaryFrom": "france24",
    "emphasis": null,
    "absent": [
     "coop",
     "nonprofit"
    ],
-   "headline": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
-   "updated": "2026-08-16T08:13:59+00:00",
+   "headline": "Spanish fighter jet downs drone breaching Romania's airspace",
+   "updated": "2026-08-16T11:13:52+00:00",
    "outletCount": 3,
    "counts": {
-    "family": 1,
     "corp": 1,
+    "family": 1,
     "pub": 1
    },
    "newsCount": 3,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "NATO fighter jet shoots down drone in Romania near border with Ukraine",
+     "url": "https://www.cbsnews.com/news/nato-fighter-jet-shoots-down-drone-romania-ukraine/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T11:13:52+00:00",
+     "summary": "It is the latest in a series of similar incidents involving drone incursions into NATO airspace from Ukraine"
+    },
     {
      "outlet": "bloomberg",
      "title": "Wildberries Depot Ablaze Near Moscow as Drone Downed in Romania",
@@ -1862,22 +1618,115 @@
      "summary": "A Wildberries warehouse near Moscow caught fire after a Ukrainian drone strike, the regional governor said, part of one of the largest recent attacks on the broader capital area."
     },
     {
-     "outlet": "cbsnews",
-     "title": "NATO fighter jet shoots down drone in Romania near border with Ukraine",
-     "url": "https://www.cbsnews.com/news/nato-fighter-jet-shoots-down-drone-romania-ukraine/",
+     "outlet": "france24",
+     "title": "Spanish fighter jet downs drone breaching Romania's airspace",
+     "url": "https://www.france24.com/en/europe/20260816-spanish-fighter-jet-downs-drone-breaching-romania-s-airspace",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-16T07:50:35+00:00",
+     "summary": "A Spanish fighter jet on Sunday shot down a drone that breached Romania's airspace near the border with Ukraine and Moldova, Romania's defence ministry said, in the latest incident to highlight the challenges facing NATO states bordering Ukraine."
+    }
+   ]
+  },
+  {
+   "id": "f618742a5f",
+   "topic": "Justice & Policing",
+   "summary": "The Supreme Court\u2019s emergency docket has flared up in the thick of the justices\u2019 summer recess. President Trump is urging the justices to revive his mail ballot restrictions and allow White House ballroom construction to resume. It again puts the high court in the hot seat after its string of key rulings on other aspects of...",
+   "summaryFrom": "thehill",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "Today in Supreme Court History: August 16, 1933",
+   "updated": "2026-08-16T11:00:44+00:00",
+   "outletCount": 3,
+   "counts": {
+    "nonprofit": 1,
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "reason",
+     "title": "Today in Supreme Court History: August 16, 1933",
+     "url": "https://reason.com/volokh/2026/08/16/today-in-supreme-court-history-august-16-1933-6/",
+     "author": "Josh Blackman",
+     "kind": "opinion",
+     "published": "2026-08-16T11:00:44+00:00",
+     "summary": "8/16/1933: President Roosevelt adopts the Code of Fair Competition for the Governance of the Petroleum Industry. The Supreme Court declared those codes unconstitutional in Panama Refining Co. v. Ryan (1935). President Franklin D. Roosevelt The post Today in Supreme Court History: August 16, 1933 appeared first on Reason.com ."
+    },
+    {
+     "outlet": "thehill",
+     "title": "Supreme Court emergency docket roars back",
+     "url": "https://thehill.com/regulation/court-battles/6030687-supreme-court-emergency-docket-trump-ballroom-mail-ballots/",
+     "author": "Zach Schonfeld",
+     "kind": "news",
+     "published": "2026-08-16T10:00:00+00:00",
+     "summary": "The Supreme Court\u2019s emergency docket has flared up in the thick of the justices\u2019 summer recess. President Trump is urging the justices to revive his mail ballot restrictions and allow White House ballroom construction to resume. It again puts the high court in the hot seat after its string of key rulings on other aspects of..."
+    },
+    {
+     "outlet": "slate",
+     "title": "To Understand Today\u2019s Supreme Court, You Need to Understand One Particular Justice.",
+     "url": "https://slate.com/podcasts/amicus/2026/08/neil-gorsuchs-early-years-trumps-nomination-and-a-stolen-seat-on-the-supreme-court?via=rss",
+     "author": "Dahlia Lithwick",
+     "kind": "news",
+     "published": "2026-08-15T07:00:00+00:00",
+     "summary": "How a mild-mannered Westerner became the SCOTUS wild card."
+    }
+   ]
+  },
+  {
+   "id": "1c94345e95",
+   "topic": "Other",
+   "summary": "Police say they have arrested the driver of a bus that crashed in Hungary, killing at least 12 people. The bus was carrying Polish pilgrims, media report.",
+   "summaryFrom": "dw",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Bus crash in Hungary kills at least 12",
+   "updated": "2026-08-16T09:47:00+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 2,
+    "family": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "Bus crash in Hungary kills at least 12",
+     "url": "https://www.dw.com/en/bus-crash-in-hungary-kills-at-least-12/a-78387230?maca=en-rss-en-all-1573-rdf",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T06:23:43+00:00",
-     "summary": "It is the latest in a series of similar incidents involving drone incursions into NATO airspace from Ukraine"
+     "published": "2026-08-16T09:47:00+00:00",
+     "summary": "Police say they have arrested the driver of a bus that crashed in Hungary, killing at least 12 people. The bus was carrying Polish pilgrims, media report."
     },
     {
      "outlet": "aljazeera",
-     "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
-     "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+     "title": "At least 12 people killed in Hungary bus crash",
+     "url": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T04:54:33+00:00",
-     "summary": "Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region in the escalating conflict."
+     "published": "2026-08-16T08:50:30+00:00",
+     "summary": "Bus carrying Polish tourists overturns, killing 12 people and injuring 10 others on the M3 motorway near Mezokeresztes."
+    },
+    {
+     "outlet": "nypost",
+     "title": "12 killed and at least 10 injured in Polish bus crash in Hungary",
+     "url": "https://nypost.com/2026/08/16/world-news/polish-bus-crash-leaves-12-dead-at-least-10-injured-in-hungary/",
+     "author": "Reuters",
+     "kind": "news",
+     "published": "2026-08-16T07:39:18+00:00",
+     "summary": "The bus ran into a ditch and tipped over early on Sunday \u200bnear the town of Mezokeresztes in eastern Hungary, police said."
     }
    ]
   },
@@ -2035,6 +1884,57 @@
    ]
   },
   {
+   "id": "cc0f5a9b70",
+   "topic": "Politics",
+   "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "UK's leader calls for reflection after the death of former Cambridge professor accused of plagiarism",
+   "updated": "2026-08-15T17:48:50+00:00",
+   "outletCount": 3,
+   "counts": {
+    "nonprofit": 1,
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "pbsnewshour",
+     "title": "UK's leader calls for reflection after the death of former Cambridge professor accused of plagiarism",
+     "url": "https://www.pbs.org/newshour/world/uks-leader-calls-for-reflection-after-the-death-of-former-cambridge-professor-accused-of-plagiarism",
+     "author": "Sylvia Hui, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T17:48:50+00:00",
+     "summary": "Jason Arday, who became Cambridge's youngest Black professor in 2023, was found dead inside an address in south London on Friday."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "UK Left Blames Death of Ex-Cambridge Professor Arday on 'Racism', Media Scrutiny of Plagiarism Claims",
+     "url": "https://www.breitbart.com/europe/2026/08/15/uk-left-blames-death-of-ex-cambridge-professor-arday-on-racism-media-scrutiny-of-plagiarism-claims/",
+     "author": "Kurt Zindulka",
+     "kind": "news",
+     "published": "2026-08-15T15:58:25+00:00",
+     "summary": "British leftists have attempted to blame racism and media scrutiny for the untimely death of former Cambridge professor Jason Arday, who sensationally resigned last week amid plagiarism allegations and accusations of fabricating his backstory. The post UK Left Blames Death of Ex-Cambridge Professor Arday on &#8216;Racism&#8217;, Media Scrutiny of Plagiarism Claims appeared first on Breitbart ."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Family Of Ex-Cambridge Professor Blames \u2018Campaign Of Misinformation\u2019 For His Death",
+     "url": "https://www.dailywire.com/news/family-of-ex-cambridge-professor-blames-campaign-of-misinformation-for-his-death",
+     "author": "Virginia Kruta",
+     "kind": "opinion",
+     "published": "2026-08-14T19:16:44+00:00",
+     "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too long.&#8221; Arday, 41, was found unresponsive in his South London home on Friday \u2014 just over a week after he left his position at the prestigious university. Prior to leaving his post, he&#8217;d been accused of plagiarism and of embellishing his life story ahead of the release of his memoir, &#8220;Great a"
+    }
+   ]
+  },
+  {
    "id": "ab35692bcd",
    "topic": "Health",
    "summary": "Eggs displayed in refrigerated section of a grocery store. \u2014Lindsey Nicholson\u2014Universal Images Group An egg recall linked to a salmonella outbreak was upgraded to the highest possible risk level by the U.S. Food and Drug Administration (FDA) on Wednesday. Nearly 1.6 million dozen eggs were labeled \u201cClass I,\u201d which the agency defines as \u201ca situation in which there is a reasonable probability that the use of or exposure to a violative product will cause serious adverse health consequences or death.\u201d Symptoms of salmonella infection include \u201cfever, diarrhea (which may be bloody), nausea, vomiting, and abdominal pain,\u201d according to the FDA . \u201cIllness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella, and the symptoms usually last four to seven days,\u201d its website said, noting that children under 5, the elderly, and the immunocompromised were more\u2026",
@@ -2137,6 +2037,57 @@
    ]
   },
   {
+   "id": "d3b357bdbe",
+   "topic": "Politics",
+   "summary": "A bulldozer clears a pathway in Big Bend National Park, Texas, on August 12, 2026. | Kaylee Greenlee/Bloomberg via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: Remember President Donald Trump\u2019s first-term border wall? It\u2019s still being built \u2014 through a pristine Texas national park. What\u2019s happening? The Trump administration is preparing to build hundreds of miles of roads through Big Bend National Park in southwest Texas as part of its latest border security project, despite a bipartisan outcry over damage to the beloved park.&nbsp; Starting last week, bulldozers and heavy machinery began to clear land for the construction of about 200 miles of patrol road, new border barriers, and electronic\u2026",
+   "summaryFrom": "vox",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Why Trump is tearing up a beloved national park",
+   "updated": "2026-08-14T22:00:00+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 2,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "vox",
+     "title": "Why Trump is tearing up a beloved national park",
+     "url": "https://www.vox.com/the-logoff-newsletter-trump/499508/trump-big-bend-national-park-border-wall-security-construction",
+     "author": "Cameron Peters",
+     "kind": "news",
+     "published": "2026-08-14T22:00:00+00:00",
+     "summary": "A bulldozer clears a pathway in Big Bend National Park, Texas, on August 12, 2026. | Kaylee Greenlee/Bloomberg via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: Remember President Donald Trump\u2019s first-term border wall? It\u2019s still being built \u2014 through a pristine Texas national park. What\u2019s happening? The Trump administration is preparing to build hundreds of miles of roads through Big Bend National Park in southwest Texas as part of its latest border security project, despite a bipartisan outcry over damage to the beloved park.&nbsp; Starting last week, bulldozers and heavy machinery began to clear land for the construction of about 200 miles of patrol road, new border barriers, and electronic surveillance measures to cover the park\u2019s 118 miles of shared border with Mexico. The construction is proceeding after the administration overrode environmental laws intended to protect places like Big Bend earlier this year. What does a border wall look like in 2026? In this case, \u201cwall\u201d is a bit of a misnome"
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Trump Turns Beloved Rubio Meme Into Birthday Gift",
+     "url": "https://www.dailywire.com/news/trump-turns-beloved-rubio-meme-into-birthday-gift",
+     "author": "Virginia Kruta",
+     "kind": "opinion",
+     "published": "2026-08-14T19:47:25+00:00",
+     "summary": "President Donald Trump turned a long-running joke into a birthday gift for Secretary of State Marco Rubio, who turned 55 on May 28. Trump has already tasked Rubio with several official jobs within the administration \u2014 which spawned constant speculation whenever a new vacancy appeared \u2014 and a viral meme was born. An Oval Office photo of Rubio slouched on a couch \u2014 wearing an expression that suggests he&#8217;s not thrilled with the way things are going \u2014 became the template for hundreds of potential new jobs for the Secretary of State/Acting National Security Adviser/acting administrator for the U.S. Agency for International Development (USAID)/acting archivist of the National Archives and Records Administration. Trump and other White House staffers capitalized on the popularity of the meme, and put together a collage \u2014 featuring dozens of iterations of the &#8220;Rubio realizing&#8221; meme. The finished product was framed in gold and presented to Rubio for his birthday. The White House made a Rubio Realizing Meme collage for his birthday (May 28), which the president &amp; others signed https://t.co/5oVDfTFaed pic.twitter.com/S2KsnRta3S \u2014 Marc Caputo (@MarcACaputo) August 13, 2026"
+    },
+    {
+     "outlet": "axios",
+     "title": "\"Rubio Realizing\" memes become a White House birthday gift",
+     "url": "https://www.axios.com/2026/08/13/marco-rubio-memes-birthday-gift",
+     "author": "Marc Caputo",
+     "kind": "news",
+     "published": "2026-08-13T22:51:21+00:00",
+     "summary": "Photo: Marc Caputo/Axios Marco Rubio has three official Trump administration jobs and a fourth unofficial title: Viral meme star. He's been featured in countless \"Rubio Realizing\" images doctored to capture his grim reaction to being \"assigned\" more jobs, depending on the news of the day or the crisis du jour in the White House. Why it matters: For his 55th birthday on May 28, White House staffers and President Trump gifted Rubio with a gold-framed collage of their 68 favorite \"Rubio Realizing\" memes. A photo of the gift went viral Wednesday when this Axios reporter posted it on X. Zoom in: For the past 18 months, Rubio memes have featured him as everything from a Kiss band member to a samurai to a \"Bachelorette\" contestant in homage to his roles as secretary of state, national security adviser and chair of the U.S. bid for the World Expo in 2035. The memes are based on a photo from one of the most awkward moments in the Trump White House \u2014 on Feb. 28, 2025, when the president and Vice President Vance excoriated Ukrainian President Volodymyr Zelensky over the war with Russia. As the two U.S. leaders savaged Zelensky, Rubio sat ramrod straight on an Oval Office couch without engagin"
+    }
+   ]
+  },
+  {
    "id": "623022e5fd",
    "topic": "Other",
    "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Serving in Mission International said Kevin Rideout \u201cis in good health in the care of US officials\u201d and would soon be reunited with his extended family. Continue reading...",
@@ -2188,95 +2139,170 @@
    ]
   },
   {
-   "id": "1d526e010b",
-   "topic": "Politics",
-   "summary": "Trump Media &amp; Technology Group\u2014the company owned by President Donald Trump that operates Truth Social\u2014is facing a lawsuit alleging that its plan to monetize access to the social media posts of the president and his closest advisers through its Truth API tool is unconstitutional. Announced in July and rolled out at the start of August, Trump Media describes its API as a data feed that \"provides licensed, real-time access to posts from the highest-ranking Truth Social accounts.\" It does so at prices ranging from $60,000 to $100,000 per month, according to Trump Media CEO Kevin McGurn. Under the terms of the licensing agreement, Truth API subscribers will receive posts from the Trump administration delivered directly to their devices in \"milliseconds,\" giving them an edge over regular users scrolling through their social feeds. Filed by The Intercept and the Freedom of the Press\u2026",
-   "summaryFrom": "reason",
+   "id": "423655000c",
+   "topic": "World",
+   "summary": "Belgium is battling what has been described as the country's largest wildfire in modern history, forcing hundreds of villagers to evacuate near the German border. Firefighters, EU reinforcements and local farmers are working to contain the blaze as shifting winds and extreme heat complicate efforts.",
+   "summaryFrom": "france24",
    "emphasis": null,
    "absent": [
     "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Trump Media Is Selling Early Access to the President's Truth Social Posts for $100,000 a Month",
-   "updated": "2026-08-14T14:32:00+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "wapo",
-     "title": "Truth Social\u2019s sale of fast access to Trump posts draws legal concerns",
-     "url": "https://www.washingtonpost.com/politics/2026/08/14/truth-socials-sale-fast-access-trump-posts-draws-legal-concerns/",
-     "author": "Riley Beggin, Cat Zakrzewski",
-     "kind": "news",
-     "published": "2026-08-14T14:32:00+00:00",
-     "summary": "A lawsuit filed this week alleges that the product is unconstitutional, and other experts warn it could violate securities laws."
-    },
-    {
-     "outlet": "reason",
-     "title": "Trump Media Is Selling Early Access to the President's Truth Social Posts for $100,000 a Month",
-     "url": "https://reason.com/2026/08/13/trump-media-is-selling-early-access-to-the-presidents-truth-social-posts-for-100000-a-month/",
-     "author": "Tosin Akintola",
-     "kind": "opinion",
-     "published": "2026-08-13T17:21:10+00:00",
-     "summary": "Trump Media &amp; Technology Group\u2014the company owned by President Donald Trump that operates Truth Social\u2014is facing a lawsuit alleging that its plan to monetize access to the social media posts of the president and his closest advisers through its Truth API tool is unconstitutional. Announced in July and rolled out at the start of August, Trump Media describes its API as a data feed that \"provides licensed, real-time access to posts from the highest-ranking Truth Social accounts.\" It does so at prices ranging from $60,000 to $100,000 per month, according to Trump Media CEO Kevin McGurn. Under the terms of the licensing agreement, Truth API subscribers will receive posts from the Trump administration delivered directly to their devices in \"milliseconds,\" giving them an edge over regular users scrolling through their social feeds. Filed by The Intercept and the Freedom of the Press Foundation, the lawsuit states that the president's monetization of government information is \"profoundly corrupt\" and violates the First and Fifth Amendments. The groups argue they have a \"right to access President Trump's public comments on equal terms with other members of the press and public,\" which i"
-    },
-    {
-     "outlet": "time",
-     "title": "Trump Is Sued Over Selling Early Access to Truth Social Posts Amid Backlash Against Scheme",
-     "url": "https://time.com/article/2026/08/13/trump-sued-truth-social-posts-early-access-lawsuit-democrat-investigations/",
-     "author": "Tiago Ventura",
-     "kind": "news",
-     "published": "2026-08-13T16:55:49+00:00",
-     "summary": "President Donald Trump holds up a paper copy of one of his own Truth Social posts in the Oval Office of the White House on Feb. 25, 2025. \u2014Alex Wong\u2013\u2013Getty Images President Donald Trump is being sued over a new Truth Social service that sells early access to his posts to the tune of up to $100,000 a month. The lawsuit was filed Wednesday in a New York federal court by two media entities, The Intercept and the Freedom of the Press Foundation. The complaint claims the Truth API service offered by the Trump Media and Technology Group (TMTG) is \u201cprofoundly corrupt,\u201d as the President \u201cstands to gain financially by giving \u201cmarket-moving\u201d government information to those who are willing and able to pay his personal company.\u201d Since launching on Aug. 1, the service is offering paying subscribers early access to posts from high-profile accounts, including Trump\u2019s own, which boasts 13 million followers. TMTG previously said the commercial data feed will deliver posts to its customers in \u201cmilliseconds\u201d and that it had been designed \u201cfor organizations most impacted by the cost of a delay in information.\u201d The President has a history of disclosing market-sensitive news on the platform, from the an"
-    }
-   ]
-  },
-  {
-   "id": "dd2dc87818",
-   "topic": "Justice & Policing",
-   "summary": "The Supreme Court\u2019s emergency docket has flared up in the thick of the justices\u2019 summer recess. President Trump is urging the justices to revive his mail ballot restrictions and allow White House ballroom construction to resume. It again puts the high court in the hot seat after its string of key rulings on other aspects of...",
-   "summaryFrom": "thehill",
-   "emphasis": null,
-   "absent": [
     "family",
     "coop",
     "nonprofit"
    ],
-   "headline": "Why is Australia's mushroom killer back in court this week?",
-   "updated": "2026-08-16T10:00:00+00:00",
+   "headline": "Hundreds flee as Belgium battles wildfire at German border",
+   "updated": "2026-08-16T11:05:00+00:00",
    "outletCount": 2,
    "counts": {
-    "corp": 1,
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "Hundreds flee as Belgium battles wildfire at German border",
+     "url": "https://www.dw.com/en/hundreds-flee-as-belgium-battles-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T11:05:00+00:00",
+     "summary": "A rapidly spreading wildfire has scorched about 2,700 hectares in the High Fens nature reserve near Belgium's border with Germany. The German town of Monschau has also warned residents of possible evacuation orders."
+    },
+    {
+     "outlet": "france24",
+     "title": "Belgium battles its largest wildfire in modern history",
+     "url": "https://www.france24.com/en/belgium-battles-its-largest-wildfire-in-modern-history",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T08:51:58+00:00",
+     "summary": "Belgium is battling what has been described as the country's largest wildfire in modern history, forcing hundreds of villagers to evacuate near the German border. Firefighters, EU reinforcements and local farmers are working to contain the blaze as shifting winds and extreme heat complicate efforts."
+    }
+   ]
+  },
+  {
+   "id": "c1899cdbf5",
+   "topic": "World",
+   "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capital Ukraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian authorities. Russia\u2019s defence ministry said it had shot down 822 drones, while the mayor of Moscow, Sergei Sobyanin, reported that 600 drones were flying towards the capital\u2019s region, of which 201 were destroyed. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "\u2018Massive\u2019 Ukrainian drone attack on Russia kills at least six, says Moscow",
+   "updated": "2026-08-16T11:04:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
     "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "\u2018Massive\u2019 Ukrainian drone attack on Russia kills at least six, says Moscow",
+     "url": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire",
+     "author": "Dan Sabbagh in Kyiv",
+     "kind": "news",
+     "published": "2026-08-16T11:04:00+00:00",
+     "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capital Ukraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian authorities. Russia\u2019s defence ministry said it had shot down 822 drones, while the mayor of Moscow, Sergei Sobyanin, reported that 600 drones were flying towards the capital\u2019s region, of which 201 were destroyed. Continue reading..."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
+     "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T04:54:33+00:00",
+     "summary": "Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region in the escalating conflict."
+    }
+   ]
+  },
+  {
+   "id": "2e52b41d45",
+   "topic": "Other",
+   "summary": "Follow updates from the Community Shield, including the build-up, analysis and live text commentary of the game.",
+   "summaryFrom": "aljazeera",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Arsenal vs Manchester City LIVE: FA Community Shield",
+   "updated": "2026-08-16T11:00:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "family": 1
    },
    "newsCount": 2,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "thehill",
-     "title": "Supreme Court emergency docket roars back",
-     "url": "https://thehill.com/regulation/court-battles/6030687-supreme-court-emergency-docket-trump-ballroom-mail-ballots/",
-     "author": "Zach Schonfeld",
-     "kind": "news",
-     "published": "2026-08-16T10:00:00+00:00",
-     "summary": "The Supreme Court\u2019s emergency docket has flared up in the thick of the justices\u2019 summer recess. President Trump is urging the justices to revive his mail ballot restrictions and allow White House ballroom construction to resume. It again puts the high court in the hot seat after its string of key rulings on other aspects of..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Why is Australia's mushroom killer back in court this week?",
-     "url": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
+     "outlet": "aljazeera",
+     "title": "Arsenal vs Manchester City LIVE: FA Community Shield",
+     "url": "https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-15T18:02:30+00:00",
-     "summary": "The BBC\u2019s Katy Watson explains why triple-murder Erin Patterson is back in court this week trying to overturn her conviction."
+     "published": "2026-08-16T11:00:00+00:00",
+     "summary": "Follow updates from the Community Shield, including the build-up, analysis and live text commentary of the game."
+    },
+    {
+     "outlet": "nypost",
+     "title": "How to watch Arsenal vs. Manchester City FA Community Shield match for free",
+     "url": "https://nypost.com/2026/08/16/sports/fa-community-shield-how-to-watch-arsenal-vs-man-city-for-free/",
+     "author": "Angela Tricarico",
+     "kind": "news",
+     "published": "2026-08-16T10:00:00+00:00",
+     "summary": "Following today's match, the Premier League kicks off in one week."
+    }
+   ]
+  },
+  {
+   "id": "464eedb07a",
+   "topic": "Politics",
+   "summary": "When Tyler Hall finished his tattoo artist apprenticeship in 2012, he got a massive torch inked onto the side of his face. It was his way of &#8220;giving thanks to the tattoo industry,&#8221; Hall, 34, told me. &#8220;It was my dedication. This is where I&#8217;m staying, and this is what I love. This is what I want to do for the rest of my life.&#8221; It was not Hall&#8217;s first face tattoo. That would be the umbrella under his right eye, which he got a few months before the torch, to &#8220;symbolize protection against obstacles in life.&#8221; There&#8217;s also the script Never Again , over his brow, lyrics borrowed from a song he loved as a teen. Also: a crescent moon, the word restless on his cheek, for his children and wife, and a long-stemmed rose under it, in honor of his youngest daughter, whose middle name is Rose. &#8220;I&#8217;ve got about seven or eight face tattoos\u2026",
+   "summaryFrom": "freepress",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Brazil election: Lula and the new face of Bolsonaro's right",
+   "updated": "2026-08-16T10:46:32+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Brazil election: Lula and the new face of Bolsonaro's right",
+     "url": "https://www.france24.com/en/brazil-election-lula-and-the-new-face-of-bolsonaro-s-right",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T10:46:32+00:00",
+     "summary": "Brazil's October presidential election is shaping up as another battle between the Lula and Bolsonaro camps, with incumbent Luiz In\u00e1cio Lula da Silva seeking a fourth term and Fl\u00e1vio Bolsonaro stepping in for his imprisoned father. The two frontrunners are running close in the polls, as Lula focuses on Brazil's sovereignty amid tensions with Washington, while Fl\u00e1vio leans on his family's far-right support and ties to Donald Trump."
+    },
+    {
+     "outlet": "freepress",
+     "title": "It\u2019s Your Right to Get a Face Tattoo",
+     "url": "https://www.thefp.com/p/its-your-right-to-get-a-face-tattoo",
+     "author": "Suzy Weiss",
+     "kind": "news",
+     "published": "2026-08-14T13:53:43+00:00",
+     "summary": "When Tyler Hall finished his tattoo artist apprenticeship in 2012, he got a massive torch inked onto the side of his face. It was his way of &#8220;giving thanks to the tattoo industry,&#8221; Hall, 34, told me. &#8220;It was my dedication. This is where I&#8217;m staying, and this is what I love. This is what I want to do for the rest of my life.&#8221; It was not Hall&#8217;s first face tattoo. That would be the umbrella under his right eye, which he got a few months before the torch, to &#8220;symbolize protection against obstacles in life.&#8221; There&#8217;s also the script Never Again , over his brow, lyrics borrowed from a song he loved as a teen. Also: a crescent moon, the word restless on his cheek, for his children and wife, and a long-stemmed rose under it, in honor of his youngest daughter, whose middle name is Rose. &#8220;I&#8217;ve got about seven or eight face tattoos right now,&#8221; Hall said. (Jesse Barber for The Free Press .) All told, &#8220;I&#8217;ve got about seven or eight face tattoos right now,&#8221; he said. Does he have plans to get more face tattoos? &#8220;Not necessarily,&#8221; he said. &#8220;But you never know.&#8221; Hall tells me his face ta"
     }
    ]
   },
@@ -2529,48 +2555,6 @@
      "kind": "news",
      "published": "2026-08-14T14:56:04+00:00",
      "summary": "Police released the CCTV footage after the art, which was stolen in March, was recovered."
-    }
-   ]
-  },
-  {
-   "id": "4a3af95da8",
-   "topic": "World",
-   "summary": "Belgium is battling what has been described as the country's largest wildfire in modern history, forcing hundreds of villagers to evacuate near the German border. Firefighters, EU reinforcements and local farmers are working to contain the blaze as shifting winds and extreme heat complicate efforts.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Belgium battles its largest wildfire in modern history",
-   "updated": "2026-08-16T08:51:58+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "Belgium battles its largest wildfire in modern history",
-     "url": "https://www.france24.com/en/belgium-battles-its-largest-wildfire-in-modern-history",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T08:51:58+00:00",
-     "summary": "Belgium is battling what has been described as the country's largest wildfire in modern history, forcing hundreds of villagers to evacuate near the German border. Firefighters, EU reinforcements and local farmers are working to contain the blaze as shifting winds and extreme heat complicate efforts."
-    },
-    {
-     "outlet": "dw",
-     "title": "Belgium battles record wildfire at German border",
-     "url": "https://www.dw.com/en/belgium-battles-record-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T02:49:00+00:00",
-     "summary": "A rapidly spreading wildfire in the High Fens nature reserve near Belgium's border with Germany has scorched around 2,700 hectares. The German town of Monschau has also warned residents of possible evacuation orders."
     }
    ]
   },
@@ -2929,48 +2913,6 @@
    ]
   },
   {
-   "id": "adb8e5ecb1",
-   "topic": "Other",
-   "summary": "Jessica Simpson is giving fans a peek at her birthday trip to the Turks and Caicos Islands. The 46-year-old singer took to Instagram to share a series of photos from her birthday trip to paradise, including one of her lounging in her bikini. Among the photos included in the post is a black-and-white picture of the \"With You\" singer smiling as she posed for a selfie while lying on a lounge chair in a black bikini with small white polka dots. She paired the bikini with a pair of black sunglasses and a necklace which went down the center of her chest. JULIANNE HOUGH FLAUNTS HER TONED FIGURE IN BIKINIS AS SHE SHARES SNAPS FROM HER TRIP TO SARDINIA \"Take me back to Turks and Caicos,\" she captioned the post. \"Thank you @lacurevillas and @pavilionluxuryvillas for an unforgettable stay. We\u2019ll be seein\u2019 y\u2019all again very very soon.\" Other photos feature the singer standing in a black dress in\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Jessica Simpson turns heads in bikini photos from trip to Turks and Caicos",
-   "updated": "2026-08-16T03:52:30+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Jessica Simpson turns heads in bikini photos from trip to Turks and Caicos",
-     "url": "https://pagesix.com/2026/08/15/style/jessica-simpson-shares-bikini-photos-from-birthday-trip-to-turks-and-caicos/",
-     "author": "Fox News",
-     "kind": "news",
-     "published": "2026-08-16T03:52:30+00:00",
-     "summary": "Jessica Simpson is giving fans a peek at her birthday trip to the Turks and Caicos Islands."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Jessica Simpson turns heads in bikini photos from trip to Turks and Caicos",
-     "url": "https://www.foxnews.com/entertainment/jessica-simpson-turns-heads-bikini-photos-trip-turks-caicos",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T00:45:24+00:00",
-     "summary": "Jessica Simpson is giving fans a peek at her birthday trip to the Turks and Caicos Islands. The 46-year-old singer took to Instagram to share a series of photos from her birthday trip to paradise, including one of her lounging in her bikini. Among the photos included in the post is a black-and-white picture of the \"With You\" singer smiling as she posed for a selfie while lying on a lounge chair in a black bikini with small white polka dots. She paired the bikini with a pair of black sunglasses and a necklace which went down the center of her chest. JULIANNE HOUGH FLAUNTS HER TONED FIGURE IN BIKINIS AS SHE SHARES SNAPS FROM HER TRIP TO SARDINIA \"Take me back to Turks and Caicos,\" she captioned the post. \"Thank you @lacurevillas and @pavilionluxuryvillas for an unforgettable stay. We\u2019ll be seein\u2019 y\u2019all again very very soon.\" Other photos feature the singer standing in a black dress in front of a swimming pool, posing with the staff, coming out of the ocean in a black bikini and cover-up, as well as a video of the oceanic scenery around her. \"You have never looked better!! Healthy and happy and stunning!\" one fan wrote in the comments section. Another added, \"Absolutely stunning as al"
-    }
-   ]
-  },
-  {
    "id": "8c191ad31d",
    "topic": "Other",
    "summary": "Rams rookie quarterback Ty Simpson puts in a solid debut and avoids making any major mistakes in a 20-12 preseason win over the Kansas City Chiefs.",
@@ -3265,48 +3207,6 @@
    ]
   },
   {
-   "id": "5882e361d1",
-   "topic": "Other",
-   "summary": "U.S. Attorney\u2019s Office An 18-year-old California man has admitted to repeatedly kicking a sea lion in a horrific viral video. Tyler Muehl pleaded guilty to a federal charge of violating the Marine Mammal Protection Act, which carries a sentence of up to a year in federal prison and up to $100,000 in fines. He violated the act when he brazenly kicked a sea lion as it sat peacefully at San Diego\u2019s La Jolla Cove on the night of July 22. In the video, Muehl refers to himself as UFC featherweight champion Max Holloway. It shows him kicking the sea lion twice, then pursuing it as it tried to escape, all while his friends laugh in the background. As the sea lion fled, the video shows Muehl kicking the mammal a third and fourth time before it managed to escape. Muehl admitted in court that the chilling video was \u201ca fair and accurate recording of what occurred.\u201d He will be sentenced on October\u2026",
-   "summaryFrom": "dailybeast",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Teenager pleads guilty to attacking California sea lion in viral video",
-   "updated": "2026-08-15T19:48:03+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dailybeast",
-     "title": "Teen Admits to Repeatedly Attacking Sea Lion in Viral Video",
-     "url": "https://www.thedailybeast.com/teenager-tyler-muehl-admits-to-repeatedly-attacking-sea-lion-in-viral-video/",
-     "author": "Fiona O'Reilly",
-     "kind": "news",
-     "published": "2026-08-15T19:48:03+00:00",
-     "summary": "U.S. Attorney\u2019s Office An 18-year-old California man has admitted to repeatedly kicking a sea lion in a horrific viral video. Tyler Muehl pleaded guilty to a federal charge of violating the Marine Mammal Protection Act, which carries a sentence of up to a year in federal prison and up to $100,000 in fines. He violated the act when he brazenly kicked a sea lion as it sat peacefully at San Diego\u2019s La Jolla Cove on the night of July 22. In the video, Muehl refers to himself as UFC featherweight champion Max Holloway. It shows him kicking the sea lion twice, then pursuing it as it tried to escape, all while his friends laugh in the background. As the sea lion fled, the video shows Muehl kicking the mammal a third and fourth time before it managed to escape. Muehl admitted in court that the chilling video was \u201ca fair and accurate recording of what occurred.\u201d He will be sentenced on October 20. La Jolla Teen Pleads Guilty to Harassing La Jolla Sea Lion https://t.co/3kKTix8WUt The attached video was admitted as Exhibit A to the plea agreement and shows the defendant repeatedly kicking at the sea lion in La Jolla Cove. pic.twitter.com/t5zXepghQ5 &mdash; US Attorney CAS (@SDCAnews) August 1"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Teenager pleads guilty to attacking California sea lion in viral video",
-     "url": "https://www.theguardian.com/us-news/2026/aug/15/teen-pleas-guilty-california-sea-lion-attack",
-     "author": "Ramon Antonio Vargas",
-     "kind": "news",
-     "published": "2026-08-15T13:54:58+00:00",
-     "summary": "Tyler Muehl, 18, could face a year in prison for kicking marine animal four times on La Jolla coast An 18-year-old California man has admitted he kicked a sea lion in a video that went viral recently \u2013 while referring to himself by the name of an Ultimate Fighting Championship (UFC) competitor \u2013 and has pleaded guilty to a federal crime. Tyler Muehl, of San Diego\u2019s La Jolla neighborhood, faces up to a year in prison and a $100,000 fine after acknowledging in court on Thursday that he violated the Marine Mammal Protection Act\u2019s prohibition on harassment of wildlife, federal prosecutors said in a statement. Continue reading..."
-    }
-   ]
-  },
-  {
    "id": "81135d987c",
    "topic": "Other",
    "summary": "The new X-Men MCU cast on stage at D-23. | Image: Marvel Entertainment With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for its upcoming, untitled X-Men film, which is scheduled to hit theaters on May 5th of 2028. Though, seeing as that's quite far into the future, we wouldn't be surprised if that date shifted slightly before then. In addition to Sink, the film will star Kit Connor as Scott Summers (Cyclops), Christopher Abbott as Charles Xavier (Professor X), Samara Weaving as Emma Frost, Maya Boyd as Storm, and Inde Navarrette as Rogue. \u2026 Read the full story at The Verge.",
@@ -3429,6 +3329,90 @@
      "kind": "news",
      "published": "2026-08-14T17:00:14+00:00",
      "summary": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left"
+    }
+   ]
+  },
+  {
+   "id": "5c6cb2e16c",
+   "topic": "Politics",
+   "summary": "President Donald Trump said Friday that far-left Democrats like Alexandria Ocasio-Cortez , D-N.Y., are now trying to distance themselves from some of the radical positions they once championed, noting he believes she may be after a 2028 bid for the White House. In an interview with Fox News correspondent Alexis McAdams, Trump was asked about Ocasio-Cortez's perceived shift away from her earlier calls to defund police departments and other soft-on-crime policies. \"If you really look at it, they're all saying the same thing,\" Trump said of progressive Democrats. \"They're all trying to disavow themselves from what they said about crime and, well, they're saying, \u2018We love sanctuary cities .\u2019\" When asked directly whether he thinks AOC is positioning herself for a presidential bid, Trump said he thinks AOC will run. The congresswoman has refused to rule out a run for president , but she\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Maher: Moderate Dems Afraid of Extreme Left",
+   "updated": "2026-08-15T15:45:38+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "Maher: Moderate Dems Afraid of Extreme Left",
+     "url": "https://www.breitbart.com/clips/2026/08/15/maher-moderate-dems-afraid-of-extreme-left/",
+     "author": "Ian Hanchett",
+     "kind": "news",
+     "published": "2026-08-15T15:45:38+00:00",
+     "summary": "On Friday&#8217;s broadcast of HBO&#8217;s &#8220;Real Time,&#8221; host Bill Maher said that moderates in the Democratic Party are afraid of the extreme left and also dismissed attempts by members of the Democratic Party to justify the far left as just The post Maher: Moderate Dems Afraid of Extreme Left appeared first on Breitbart ."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Trump claims AOC may run for president as far-left Dems back away from extreme policy",
+     "url": "https://www.foxnews.com/politics/president-trump-claims-aoc-far-left-democrats-backing-away-controversial-positions",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T21:01:38+00:00",
+     "summary": "President Donald Trump said Friday that far-left Democrats like Alexandria Ocasio-Cortez , D-N.Y., are now trying to distance themselves from some of the radical positions they once championed, noting he believes she may be after a 2028 bid for the White House. In an interview with Fox News correspondent Alexis McAdams, Trump was asked about Ocasio-Cortez's perceived shift away from her earlier calls to defund police departments and other soft-on-crime policies. \"If you really look at it, they're all saying the same thing,\" Trump said of progressive Democrats. \"They're all trying to disavow themselves from what they said about crime and, well, they're saying, \u2018We love sanctuary cities .\u2019\" When asked directly whether he thinks AOC is positioning herself for a presidential bid, Trump said he thinks AOC will run. The congresswoman has refused to rule out a run for president , but she hasn't looked past November's midterm elections. ALEXANDRIA OCASIO-CORTEZ SHRUGS OFF PAST 'DEFUND THE POLICE' COMMENTS, JOKING 'WOKE 1 WAS CRAZY' During an interview with ABC's \"This Week\" on Sunday, the congresswoman attempted to dismiss the extreme rhetoric of the so-called \" Woke 1 \" era. The term is u"
+    }
+   ]
+  },
+  {
+   "id": "2783dfacff",
+   "topic": "Other",
+   "summary": "Rep. Rashida Tlaib , D-Mich., an outspoken critic of Israel, was set to headline a rally in South Florida boosting three progressive Democratic candidates before the Jewish-owned venue hosting the event backed out a day before. The Chomp the Oligarchy rally to support two U.S. House candidates and one Senate candidate was scheduled for Friday night at The Venue in Fort Lauderdale, just four days before Florida\u2019s primary election. State Rep. Michael Gottlieb, a Democrat , posted Thursday morning calling the event \"anti-Jew,\" while also accusing House candidates Elijah Manley and Oliver Larkin, along with state Rep. Angie Nixon, who is seeking the Democratic nomination for U.S. Senate, of being part of an \"Anti-Israel and Anti-Zionism coalition.\" Gottlieb then said Tlaib \"has by far the deepest record of antisemitic allegations and is being brought here to help these candidates raise\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Rashida Tlaib rally moved after Jewish-owned Florida venue cancels event, cites 'increased security concerns'",
+   "updated": "2026-08-15T15:40:25+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "Rashida Tlaib rally moved after Jewish-owned Florida venue cancels event, cites 'increased security concerns'",
+     "url": "https://www.foxnews.com/politics/rashida-tlaib-rally-moved-jewish-owned-florida-venue-cancels-event-cites-increased-security-concerns",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T15:40:25+00:00",
+     "summary": "Rep. Rashida Tlaib , D-Mich., an outspoken critic of Israel, was set to headline a rally in South Florida boosting three progressive Democratic candidates before the Jewish-owned venue hosting the event backed out a day before. The Chomp the Oligarchy rally to support two U.S. House candidates and one Senate candidate was scheduled for Friday night at The Venue in Fort Lauderdale, just four days before Florida\u2019s primary election. State Rep. Michael Gottlieb, a Democrat , posted Thursday morning calling the event \"anti-Jew,\" while also accusing House candidates Elijah Manley and Oliver Larkin, along with state Rep. Angie Nixon, who is seeking the Democratic nomination for U.S. Senate, of being part of an \"Anti-Israel and Anti-Zionism coalition.\" Gottlieb then said Tlaib \"has by far the deepest record of antisemitic allegations and is being brought here to help these candidates raise funds for their campaigns.\" JEWISH CALIFORNIA CONGRESSIONAL CANDIDATE SAYS HARASSMENT FROM GAZA AGITATORS WENT \u2018BEYOND FREE SPEECH\u2019 After Gottlieb's post, The Venue posted a statement Thursday night indicating that the event was canceled, citing \"increased security concerns.\" The statement did not mentio"
+    },
+    {
+     "outlet": "nyt",
+     "title": "South Florida Venue Cancels Rally With a Pro-Palestinian Congresswoman",
+     "url": "https://www.nytimes.com/2026/08/14/us/politics/florida-senate-nixon-tlaib.html",
+     "author": "Tim Balk",
+     "kind": "news",
+     "published": "2026-08-14T23:34:55+00:00",
+     "summary": "Representative Rashida Tlaib, Democrat of Michigan, has drawn criticism, and a 2023 censure in Congress, for embracing a pro-Palestinian slogan that many Jews consider a call for the eradication of Israel."
     }
    ]
   }
