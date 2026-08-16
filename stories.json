@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T22:37:46.967679+00:00",
+ "generated": "2026-08-16T23:35:21.380947+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -11,40 +11,42 @@
    "summaryFrom": "foxnews",
    "emphasis": {
     "bigCount": 9,
-    "indieCount": 6,
+    "indieCount": 5,
     "big": [
-     "iran",
      "centcom",
+     "iran",
+     "middle",
+     "east",
      "central",
-     "command",
-     "poor",
-     "record"
+     "command"
     ],
-    "indie": [
-     "broken",
-     "considering",
-     "some",
-     "food",
-     "faced",
-     "jumping"
-    ]
+    "indie": []
    },
    "absent": [
     "coop"
    ],
    "headline": "US commander says mental health a 'priority' on USS Lincoln",
-   "updated": "2026-08-16T22:25:26+00:00",
+   "updated": "2026-08-16T23:14:15+00:00",
    "outletCount": 12,
    "counts": {
-    "family": 6,
     "corp": 3,
-    "pub": 4,
+    "family": 6,
+    "pub": 3,
     "nonprofit": 2
    },
-   "newsCount": 14,
+   "newsCount": 13,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T23:14:15+00:00",
+     "summary": "Meanwhile, Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children."
+    },
     {
      "outlet": "semafor",
      "title": "US to relieve USS Abraham Lincoln, leaving Pacific without carrier",
@@ -55,22 +57,13 @@
      "summary": "US President Donald Trump dismissed reports of poor living conditions on the USS Abraham Lincoln, escalating a fight in Washington over the aircraft carrier\u2019s record 260-plus-day stretch at sea. Multiple sailors have reportedly attempted to jump overboard during the deployment, which was extended to support the Iran war. The US\u2019 top Middle East commander visited the vessel as the military prepared to replace it with the USS George Washington \u2014 a rotation that leaves the US without a carrier in the Pacific, signaling \u201c the exact opposite \u201d of Washington\u2019s stated goal of pulling out of the Middle East and refocusing efforts in Asia, a CSIS expert told The Associated Press. The Pentagon\u2019s policy chief visited Southeast Asia last week to address concerns about Washington\u2019s reliability. \u2014 Brendan Ruberry"
     },
     {
-     "outlet": "cbsnews",
-     "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T22:03:57+00:00",
-     "summary": "Meanwhile, Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children."
-    },
-    {
      "outlet": "thehill",
      "title": "Centcom commander addresses mental health concerns for troops on USS Abraham Lincoln",
      "url": "https://thehill.com/policy/defense/6032334-lincoln-crew-mental-health-concerns/",
      "author": "Ryan Mancini",
      "kind": "news",
      "published": "2026-08-16T21:54:00+00:00",
-     "summary": "U.S. Central Command (Centcom) commander Adm. Brad Cooper on Sunday addressed concerns over the mental health of service members aboard the USS Abraham Lincoln as it returns home after 265 days in the Iran War. Cooper called his visit to the ship on Saturday \"awe-inspiring\" in a statement, saying Americans would \"beam with pride\" over..."
+     "summary": "U.S. Central Command (Centcom) commander Adm. Brad Cooper on Sunday addressed concerns about the mental health of service members aboard the USS Abraham Lincoln as the aircraft carrier returns home after being docked in the Middle East for more than 260 days. Cooper called his visit to the ship on Saturday \"awe-inspiring\" in a statement,..."
     },
     {
      "outlet": "foxnews",
@@ -170,15 +163,6 @@
      "kind": "news",
      "published": "2026-08-14T17:36:27+00:00",
      "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-     "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T23:06:23+00:00",
-     "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
     }
    ]
   },
@@ -188,15 +172,15 @@
    "summary": "President Trump said Sunday he instructed Defense Secretary Pete Hegseth to \"substantially reduce\" U.S. military exercises with South Korea. The big picture: Trump cited his \"very good relationship\" with North Korean leader Kim Jong-un for condemning the drills \u2014 and also noted on Truth Social that South Korea declined his request to help the U.S. denuclearize Iran . What he's saying: \"These exercises are not only costly, with much of these costs paid for by the United States of America (as usual!), but send a signal that is totally inappropriate and hostile,\" Trump wrote. Context: The U.S. and South Korean militaries were due to start regular military drills on Monday in an exercise known as \"Ulchi Freedom Shield.\" The drills have been held annually under that name since 2022, though the U.S.-South Korea summertime exercises they evolved from date back decades. Friction point: On\u2026",
    "summaryFrom": "axios",
    "emphasis": {
-    "bigCount": 8,
+    "bigCount": 9,
     "indieCount": 2,
     "big": [
      "president",
-     "sunday",
-     "truth",
+     "reduce",
      "substantially",
-     "told",
-     "jong"
+     "jong",
+     "sunday",
+     "citing"
     ],
     "indie": []
    },
@@ -204,15 +188,15 @@
     "coop"
    ],
    "headline": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-   "updated": "2026-08-16T22:34:10+00:00",
-   "outletCount": 10,
+   "updated": "2026-08-16T23:28:14+00:00",
+   "outletCount": 11,
    "counts": {
     "pub": 1,
+    "corp": 6,
     "family": 3,
-    "corp": 5,
     "nonprofit": 1
    },
-   "newsCount": 10,
+   "newsCount": 11,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -222,8 +206,17 @@
      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T22:34:10+00:00",
-     "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran."
+     "published": "2026-08-16T23:28:14+00:00",
+     "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Trump orders military to \u2018substantially reduce\u2019 joint exercises with South Korea",
+     "url": "https://www.nbcnews.com/politics/trump-administration/trump-orders-military-substantially-reduce-joint-exercises-south-korea-rcna592832",
+     "author": "Raquel Coronell Uribe",
+     "kind": "news",
+     "published": "2026-08-16T23:16:31+00:00",
+     "summary": "The president said he has directed the Pentagon to scale down the exercises, citing South Korea\u2019s refusal to join the war in Iran and his \u201cvery good\u201d relationship with North Korea\u2019s Kim Jong Un."
     },
     {
      "outlet": "nyt",
@@ -231,8 +224,26 @@
      "url": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html",
      "author": "Helene Cooper",
      "kind": "news",
-     "published": "2026-08-16T22:32:46+00:00",
+     "published": "2026-08-16T23:13:42+00:00",
      "summary": "In his post on Sunday, President Trump did not mention a rift in relations with North Korea in 2017, when Kim Jong Un called him a \u201cmentally deranged dotard.\u201d"
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Trump orders Pentagon to \"substantially reduce\" military exercises with South Korea",
+     "url": "https://www.cbsnews.com/news/trump-scale-back-south-korea-military-exercises/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T23:09:47+00:00",
+     "summary": "President Trump said Sunday that the joint military exercises with South Korea are costly and they \"send a signal that is totally inappropriate and hostile\" to North Korea."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump reduces military exercises with South Korea, citing good ties with Kim Jong Un",
+     "url": "https://www.washingtonpost.com/politics/2026/08/16/trump-reduces-military-exercises-with-south-korea-citing-good-ties-with-kim-jong-un/",
+     "author": "Cat Zakrzewski",
+     "kind": "news",
+     "published": "2026-08-16T22:52:51+00:00",
+     "summary": "The president cited the cost of the drills and said he did not want to send a signal that is \"totally inappropriate and hostile\" to North Korea. He also criticized South Korea for not helping him on Iran."
     },
     {
      "outlet": "abcnews",
@@ -240,7 +251,7 @@
      "url": "https://abcnews.com/US/wireStory/trump-orders-pentagon-scale-back-joint-exercises-south-135694217",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T22:26:25+00:00",
+     "published": "2026-08-16T22:50:26+00:00",
      "summary": "President Donald Trump has ordered the Pentagon to scale back planned joint military exercises with South Korea after the Republican president said it declined to help denuclearize Iran"
     },
     {
@@ -268,16 +279,7 @@
      "author": "Rebecca Falconer",
      "kind": "news",
      "published": "2026-08-16T21:59:59+00:00",
-     "summary": "President Trump said Sunday he instructed Defense Secretary Pete Hegseth to \"substantially reduce\" U.S. military exercises with South Korea. The big picture: Trump cited his \"very good relationship\" with North Korean leader Kim Jong-un for condemning the drills \u2014 and also noted on Truth Social that South Korea declined his request to help the U.S. denuclearize Iran . What he's saying: \"These exercises are not only costly, with much of these costs paid for by the United States of America (as usual!), but send a signal that is totally inappropriate and hostile,\" Trump wrote. Context: The U.S. and South Korean militaries were due to start regular military drills on Monday in an exercise known as \"Ulchi Freedom Shield.\" The drills have been held annually under that name since 2022, though the U.S.-South Korea summertime exercises they evolved from date back decades. Friction point: On Wednesday, North Korea conducted a ballistic missile test for the first time since June, which experts and military officials assessed as an apparent protest against the drills. The U.S., Japan and South Korea condemned the missile launch. Editor's note: This is a breaking news story. Please check back fo"
-    },
-    {
-     "outlet": "nypost",
-     "title": "Trump instructs Pentagon to reduce military exercises with South Korea",
-     "url": "https://nypost.com/2026/08/16/world-news/trump-instructs-pentagon-to-reduce-military-exercises-with-south-korea/",
-     "author": "Reuters",
-     "kind": "news",
-     "published": "2026-08-16T21:57:01+00:00",
-     "summary": "Trump said in a post on his Truth Social site that, although it was too late to cancel the exercises entirely, he was \"not happy\" that the United States had previously agreed to participate."
+     "summary": "President Trump said Sunday he instructed Defense Secretary Pete Hegseth to \"substantially reduce\" U.S. military exercises with South Korea. The big picture: Trump cited his \"very good relationship\" with North Korean leader Kim Jong-un for condemning the drills \u2014 and also noted on Truth Social that South Korea declined his request to help the U.S. denuclearize Iran . What he's saying: \"These exercises are not only costly, with much of these costs paid for by the United States of America (as usual!), but send a signal that is totally inappropriate and hostile,\" Trump wrote. Context: The U.S. and South Korean militaries were due to start regular military drills on Monday in an exercise known as \"Ulchi Freedom Shield.\" The drills have been held annually under that name since 2022, though the U.S.-South Korea summertime exercises they evolved from date back decades. Friction point: On Wednesday, North Korea conducted a ballistic missile test for the first time since June, which experts and military officials assessed as an apparent protest against the drills. The U.S., Japan and South Korea condemned the missile launch. What we're watching: The Japan-based USS George Washington is bein"
     },
     {
      "outlet": "thehill",
@@ -296,33 +298,142 @@
      "kind": "news",
      "published": "2026-08-16T21:32:16+00:00",
      "summary": "President Donald Trump said he told the Pentagon to \u201csubstantially reduce\u201d joint military exercises with South Korea and suggested his shift was driven by frustration that the longtime US ally hadn\u2019t provided more support for his war with Iran."
+    }
+   ]
+  },
+  {
+   "id": "65efee68b5",
+   "topic": "Politics",
+   "summary": "Trump\u2019s son-in-law and envoy held rare meeting with Hamas chief in Egypt in push for progress on ceasefire Donald Trump\u2019s son-in-law and envoy, Jared Kushner , held a rare meeting with Hamas \u2019s political chief on Sunday in Egypt , in a new diplomatic effort to make progress in the stalled Gaza ceasefire. Kushner will meet on Monday with Benjamin Netanyahu, who is under pressure after rejecting the new 15-point, US-backed road map. The talks aim to salvage the plan for Hamas to disarm and Israel to withdraw from the Palestinian territory shattered by war . Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 7,
+    "big": [
+     "israeli"
+    ],
+    "indie": [
+     "meeting",
+     "talks",
+     "envoy",
+     "rare",
+     "held",
+     "effort"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
+   "updated": "2026-08-16T22:07:32+00:00",
+   "outletCount": 9,
+   "counts": {
+    "nonprofit": 3,
+    "family": 1,
+    "corp": 1,
+    "pub": 4
+   },
+   "newsCount": 9,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
+     "url": "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T22:07:32+00:00",
+     "summary": "Trump\u2019s son-in-law and envoy held rare meeting with Hamas chief in Egypt in push for progress on ceasefire Donald Trump\u2019s son-in-law and envoy, Jared Kushner , held a rare meeting with Hamas \u2019s political chief on Sunday in Egypt , in a new diplomatic effort to make progress in the stalled Gaza ceasefire. Kushner will meet on Monday with Benjamin Netanyahu, who is under pressure after rejecting the new 15-point, US-backed road map. The talks aim to salvage the plan for Hamas to disarm and Israel to withdraw from the Palestinian territory shattered by war . Continue reading..."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Kushner Meets With Hamas to Advance Trump\u2019s Gaza Plan",
+     "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
+     "author": "Aaron Boxerman and Zolan Kanno-Youngs",
+     "kind": "news",
+     "published": "2026-08-16T21:16:17+00:00",
+     "summary": "The president\u2019s son-in-law met the Palestinian militant group\u2019s leaders in Egypt, officials said. He will soon see Benjamin Netanyahu, the Israeli leader."
     },
     {
      "outlet": "cbsnews",
-     "title": "Rep. Don Bacon says Trump was \"setting maybe false expectations\" in initial days of Iran war",
-     "url": "https://www.cbsnews.com/video/rep-don-bacon-says-trump-was-setting-maybe-false-expectations-in-initial-days-of-iran-war/",
+     "title": "Jared Kushner met with Hamas leaders in Egypt to discuss Gaza peace deal",
+     "url": "https://www.cbsnews.com/news/jared-kushner-hamas-netanyahu-gaza-peace-deal-negotiations/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T16:06:13+00:00",
-     "summary": "Republican Rep. Don Bacon of Nebraska, who is not running for reelection, told \"Face the Nation with Margaret Brennan\" that President Trump's comments about gas prices amid the Iran war are \"honest,\" and that the president was \"setting maybe false expectations in the previous months, during the initial parts of this campaign with Iran.\""
+     "published": "2026-08-16T20:24:43+00:00",
+     "summary": "Jared Kushner, who is President Trump's son-in-law, is set to meet next with Israeli Prime Minister Benjamin Netanyahu, who rejected the latest peace proposal last week."
+    },
+    {
+     "outlet": "npr",
+     "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
+     "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T20:20:22+00:00",
+     "summary": "Jared Kushner, President Trump's son-in-law, held a rare meeting with Hamas leadership Sunday in Egypt, in a new diplomatic effort to make progress in the stalled Gaza ceasefire. (Image credit: Alex Brandon)"
+    },
+    {
+     "outlet": "bbc",
+     "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+     "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T19:58:14+00:00",
+     "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Kushner meets Hamas leaders in Egypt to push Trump\u2019s Gaza plan",
+     "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T19:23:28+00:00",
+     "summary": "After meeting with the US envoy, Hamas says it called on the Board of Peace to \u2018compel\u2019 Israel to accept the plan."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Kushner has rare meeting with Hamas' leader on Gaza road map. A meeting with Netanyahu is next",
+     "url": "https://www.pbs.org/newshour/world/kushner-has-rare-meeting-with-hamas-leader-on-gaza-road-map-a-meeting-with-netanyahu-is-next",
+     "author": "Cara Anna, Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T18:11:31+00:00",
+     "summary": "The talks aim to salvage the new 15-point, U.S.-backed road map for Hamas to disarm in Gaza and Israel to withdraw from the Palestinian territory shattered by war."
+    },
+    {
+     "outlet": "dw",
+     "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
+     "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T17:31:00+00:00",
+     "summary": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators and Hamas in Egypt."
+    },
+    {
+     "outlet": "france24",
+     "title": "Kushner, Hamas delegation in Egypt for talks on Gaza peace plan",
+     "url": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-16T11:33:32+00:00",
+     "summary": "A Hamas delegation held talks with Egyptian intelligence chief Hassan Rashad in Egypt on Sunday, followed by talks with US envoy Jared Kushner. Kushner had met shortly before with President Abdel Fattah al-Sisi in an effort to break the deadlock over the US-brockered peace plan for Gaza."
     }
    ]
   },
   {
    "id": "b120e655fe",
    "topic": "Health",
-   "summary": "Tommy John, the former MLB pitcher whose elbow surgery set the standard in baseball and helped lengthen the careers of countless players, has died. He was 83. Mike Maguire, his agent, announced John\u2019s death in a statement. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! \"Thomas Edward \u2018Tommy\u2019 John Jr. passed away peacefully at his home in Lakewood Ranch last night surrounded by his loving wife, Cheryl, and his sister-in-laws Judith Florentino and Karen Jordan,\" the statement read. \"A private celebration of life will be held in Florida.\" John\u2019s death comes about a week after he released a farewell message to fans on New York Yankees\u2019 Old-Timers\u2019 Day . He said in his message he was \"saying goodbye\" as the team revealed he had been battling health issues. \"I want to thank the Yankees organization &amp; the Steinbrenner family for giving me this opportunity to\u2026",
-   "summaryFrom": "foxnews",
+   "summary": "John was first player to undergo pioneering operation New York Yankees pay tribute to four-time All-Star Tommy John, the namesake of a ligament-replacement surgery that paved a path to recovery for injured baseball players, has died. He was 83. TMZ.com reported that the pitcher died at his home in Florida, surrounded by his family, including his wife, Cheryl. John \u2060had recently been in hospice \u2060care. Continue reading...",
+   "summaryFrom": "guardian",
    "emphasis": {
-    "bigCount": 7,
+    "bigCount": 6,
     "indieCount": 2,
     "big": [
-     "former",
      "name",
      "giving",
+     "former",
      "procedure",
-     "dodgers",
-     "countless"
+     "dodgers"
     ],
     "indie": [
      "namesake",
@@ -335,13 +446,13 @@
    ],
    "headline": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
    "updated": "2026-08-16T21:25:43+00:00",
-   "outletCount": 9,
+   "outletCount": 8,
    "counts": {
     "corp": 3,
     "nonprofit": 2,
-    "family": 4
+    "family": 3
    },
-   "newsCount": 9,
+   "newsCount": 8,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -416,111 +527,6 @@
      "kind": "news",
      "published": "2026-08-16T17:45:42+00:00",
      "summary": "Tommy John, who ruptured a ligament in his left elbow in 1974, agreed to a radical surgery that revived his career and changed baseball. He pitched for 26 years."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Famed ex-Yankees pitcher Tommy John dead at 83 after sending farewell message to fans",
-     "url": "https://www.foxnews.com/sports/famed-ex-yankees-pitcher-tommy-john-dead-83-farewell-message-fans",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T17:17:40+00:00",
-     "summary": "Tommy John, the former MLB pitcher whose elbow surgery set the standard in baseball and helped lengthen the careers of countless players, has died. He was 83. Mike Maguire, his agent, announced John\u2019s death in a statement. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! \"Thomas Edward \u2018Tommy\u2019 John Jr. passed away peacefully at his home in Lakewood Ranch last night surrounded by his loving wife, Cheryl, and his sister-in-laws Judith Florentino and Karen Jordan,\" the statement read. \"A private celebration of life will be held in Florida.\" John\u2019s death comes about a week after he released a farewell message to fans on New York Yankees\u2019 Old-Timers\u2019 Day . He said in his message he was \"saying goodbye\" as the team revealed he had been battling health issues. \"I want to thank the Yankees organization &amp; the Steinbrenner family for giving me this opportunity to say goodbye to everyone, along with all the friends &amp; fans who followed me throughout my 26-year career,\" John\u2019s message read. \"Thanks to Dr. Jobe, who saved my arm &amp; made it possible for me to continue pitching. That surgery has since gone on to save the careers of countless pitchers, includi"
-    }
-   ]
-  },
-  {
-   "id": "65efee68b5",
-   "topic": "Politics",
-   "summary": "Trump\u2019s son-in-law and envoy held rare meeting with Hamas chief in Egypt in push for progress on ceasefire Donald Trump\u2019s son-in-law and envoy, Jared Kushner , held a rare meeting with Hamas \u2019s political chief on Sunday in Egypt , in a new diplomatic effort to make progress in the stalled Gaza ceasefire. Kushner will meet on Monday with Benjamin Netanyahu, who is under pressure after rejecting the new 15-point, US-backed road map. The talks aim to salvage the plan for Hamas to disarm and Israel to withdraw from the Palestinian territory shattered by war . Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop"
-   ],
-   "headline": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
-   "updated": "2026-08-16T22:07:32+00:00",
-   "outletCount": 8,
-   "counts": {
-    "nonprofit": 3,
-    "corp": 1,
-    "pub": 4
-   },
-   "newsCount": 8,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
-     "url": "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T22:07:32+00:00",
-     "summary": "Trump\u2019s son-in-law and envoy held rare meeting with Hamas chief in Egypt in push for progress on ceasefire Donald Trump\u2019s son-in-law and envoy, Jared Kushner , held a rare meeting with Hamas \u2019s political chief on Sunday in Egypt , in a new diplomatic effort to make progress in the stalled Gaza ceasefire. Kushner will meet on Monday with Benjamin Netanyahu, who is under pressure after rejecting the new 15-point, US-backed road map. The talks aim to salvage the plan for Hamas to disarm and Israel to withdraw from the Palestinian territory shattered by war . Continue reading..."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Jared Kushner met with Hamas leaders in Egypt to discuss Gaza peace deal",
-     "url": "https://www.cbsnews.com/news/jared-kushner-hamas-netanyahu-gaza-peace-deal-negotiations/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T20:24:43+00:00",
-     "summary": "Jared Kushner, who is President Trump's son-in-law, is set to meet next with Israeli Prime Minister Benjamin Netanyahu, who rejected the latest peace proposal last week."
-    },
-    {
-     "outlet": "npr",
-     "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
-     "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T20:20:22+00:00",
-     "summary": "Jared Kushner, President Trump's son-in-law, held a rare meeting with Hamas leadership Sunday in Egypt, in a new diplomatic effort to make progress in the stalled Gaza ceasefire. (Image credit: Alex Brandon)"
-    },
-    {
-     "outlet": "bbc",
-     "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-     "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T19:58:14+00:00",
-     "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Kushner meets Hamas leaders in Egypt to push Trump\u2019s Gaza plan",
-     "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T19:23:28+00:00",
-     "summary": "Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Kushner has rare meeting with Hamas' leader on Gaza road map. A meeting with Netanyahu is next",
-     "url": "https://www.pbs.org/newshour/world/kushner-has-rare-meeting-with-hamas-leader-on-gaza-road-map-a-meeting-with-netanyahu-is-next",
-     "author": "Cara Anna, Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T18:11:31+00:00",
-     "summary": "The talks aim to salvage the new 15-point, U.S.-backed road map for Hamas to disarm in Gaza and Israel to withdraw from the Palestinian territory shattered by war."
-    },
-    {
-     "outlet": "dw",
-     "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
-     "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T17:31:00+00:00",
-     "summary": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators and Hamas in Egypt."
-    },
-    {
-     "outlet": "france24",
-     "title": "Kushner, Hamas delegation in Egypt for talks on Gaza peace plan",
-     "url": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-16T11:33:32+00:00",
-     "summary": "A Hamas delegation held talks with Egyptian intelligence chief Hassan Rashad in Egypt on Sunday, followed by talks with US envoy Jared Kushner. Kushner had met shortly before with President Abdel Fattah al-Sisi in an effort to break the deadlock over the US-brockered peace plan for Gaza."
     }
    ]
   },
@@ -536,9 +542,9 @@
      "wind"
     ],
     "indie": [
+     "making",
      "landfall",
      "winds",
-     "making",
      "again",
      "sending"
     ]
@@ -633,15 +639,15 @@
     "bigCount": 2,
     "indieCount": 5,
     "big": [
-     "ferragosto",
-     "stole"
+     "stole",
+     "ferragosto"
     ],
     "indie": [
      "stolen",
      "paintings",
-     "hometown",
-     "took",
      "italy",
+     "took",
+     "hometown",
      "overnight"
     ]
    },
@@ -733,20 +739,20 @@
    "summaryFrom": "time",
    "emphasis": null,
    "absent": [
+    "corp",
     "coop"
    ],
    "headline": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
    "updated": "2026-08-16T19:00:17+00:00",
-   "outletCount": 7,
+   "outletCount": 6,
    "counts": {
     "family": 2,
     "nonprofit": 2,
-    "corp": 1,
     "pub": 2
    },
-   "newsCount": 7,
+   "newsCount": 6,
    "opinionCount": 0,
-   "underreported": false,
+   "underreported": true,
    "articles": [
     {
      "outlet": "time",
@@ -765,15 +771,6 @@
      "kind": "news",
      "published": "2026-08-16T15:05:50+00:00",
      "summary": "Kyiv has stepped up its attacks on Russia this year, with long-range missiles and swarms of drones targeting military industries and energy facilities."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Ukraine launches one of the largest aerial attacks on Russia yet",
-     "url": "https://www.cbsnews.com/news/ukraine-moscow-russia-drone-attack-largest-wildberries/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T11:45:40+00:00",
-     "summary": "Footage shows a large column of smoke after Ukraine struck a major logistics hub in the Moscow region."
     },
     {
      "outlet": "breitbart",
@@ -810,6 +807,84 @@
      "kind": "news",
      "published": "2026-08-16T09:53:40+00:00",
      "summary": null
+    }
+   ]
+  },
+  {
+   "id": "d06c63d7b8",
+   "topic": "Politics",
+   "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its\u2026",
+   "summaryFrom": "axios",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Week in Politics: USS Lincoln; latest primaries and Democrats; White House ballroom",
+   "updated": "2026-08-16T18:46:11+00:00",
+   "outletCount": 6,
+   "counts": {
+    "family": 3,
+    "nonprofit": 1,
+    "corp": 2
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "wapo",
+     "title": "Trump says White House needs \u2018military complex\u2019 as courts block his ballroom",
+     "url": "https://www.washingtonpost.com/politics/2026/08/16/trump-says-white-house-needs-military-complex-courts-block-his-ballroom/",
+     "author": "Dan Diamond",
+     "kind": "news",
+     "published": "2026-08-16T18:46:11+00:00",
+     "summary": "When Trump first unveiled his plans for the new East Wing addition, he said it was needed to host VIP guests. More recently, he is calling it a \u201cdesperately needed National Security structure.\u201d"
+    },
+    {
+     "outlet": "npr",
+     "title": "Week in Politics: USS Lincoln; latest primaries and Democrats; White House ballroom",
+     "url": "https://www.npr.org/2026/08/15/nx-s1-5929131/week-in-politics-uss-lincoln-latest-primaries-and-democrats-white-house-ballroom",
+     "author": "Eyder Peralta",
+     "kind": "news",
+     "published": "2026-08-15T11:40:15+00:00",
+     "summary": "A shortage of some munitions as well as the problems with the USS Lincoln have the Trump administration on the defensive. Meanwhile, what the latest primaries show about Democratic enthusiasm."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' amid outcry from families",
+     "url": "https://www.latimes.com/politics/story/2026-08-14/uss-abraham-lincoln-deployment-conditions-families-trump-hegseth",
+     "author": "Christopher Buchanan, Ana Ceballos",
+     "kind": "news",
+     "published": "2026-08-14T21:13:51+00:00",
+     "summary": "Lawmakers are pressing for answers amid reports that sailors aboard the San Diego-based carrier have endured food shortages, plumbing failures and severe fatigue."
+    },
+    {
+     "outlet": "slate",
+     "title": "Trump on Long-Suffering Sailors: \u201cNot Nearly Long Enough\u201d",
+     "url": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html?via=rss",
+     "author": "Ian Prasad Philbrick",
+     "kind": "news",
+     "published": "2026-08-14T21:09:49+00:00",
+     "summary": "Sailors are suffering. Trump and his team are denying it."
+    },
+    {
+     "outlet": "axios",
+     "title": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
+     "url": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
+     "author": "Donica Phifer",
+     "kind": "news",
+     "published": "2026-08-14T20:19:31+00:00",
+     "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle East deployment. While taking questions from the press Friday, a reporter mentioned families were worried, to which Trump replied \"no they're not.\" Zoom out: The Navy Times , The Military Times, and Stars and Stripes were among the first to report on conditions aboard the carrier. The ship hasn't m"
+    },
+    {
+     "outlet": "time",
+     "title": "What to Know About the Growing Concerns Over Conditions on the Long-Deployed USS Abraham Lincoln",
+     "url": "https://time.com/article/2026/08/14/uss-abraham-lincoln-conditions-trump-iran-war/",
+     "author": "Connor Greene",
+     "kind": "news",
+     "published": "2026-08-14T20:14:50+00:00",
+     "summary": "In this U.S. Navy released handout, An F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 14, makes an arrested landing on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72) in support of Operation Epic Fury, on February 28, 2026. \u2014U.S. Navy/Getty Images The USS Abraham Lincoln has been at sea in the Middle East for months, and with no clear end in sight for the war in Iran , concerns for those aboard the aircraft carrier\u2014and for the vessel itself\u2014have mounted amid a series of troubling reports. Another aircraft carrier, the USS George Washington, had begun making its way towards the Middle East as of Thursday to replace the Lincoln, multiple news outlets reported. President Donald Trump appeared to confirm the reported ship swap on Friday, saying that the Lincoln \"is moving right now, or very shortly and is being replaced with another very similar ship.\u201d The Washington\u2019s deployment comes as reports have emerged in recent months recounting worsening living conditions, mental health concerns, and supply shortages on board the Lincoln. Trump seemed to deny the reports on the state of the Lincoln and its crew on Friday, responding \u201cNo, they\u2019re n"
     }
    ]
   },
@@ -883,75 +958,6 @@
    ]
   },
   {
-   "id": "68878b208a",
-   "topic": "Politics",
-   "summary": "When President Donald Trump signed an executive order on childhood vaccines this week, Jayme Franklin stood nearby, repeatedly touching her pregnant belly. Franklin, 28, gave brief remarks at the signing and applauded Trump\u2019s order, which seeks to reduce the number of routine vaccines recommended to children. \u201cThis is what this country was built on: freedom for parents to make the decisions that best suit their kid,\u201d she said at the signing. \u201cAnd I\u2019m not anti-vaccine at all. I\u2019m pro-vaccine, but we want to be able to have the freedom to space it out and to choose which one works for our child. We don&#8217;t believe that there&#8217;s a one-size-fits-all solution for every child.\u201d Franklin is a co-founder of The Conservateur, a media brand for conservative women that includes a lifestyle publication and podcast. She\u2019s also a self-described MAHA mom \u2014 a subset of the electorate who lean\u2026",
-   "summaryFrom": "the19th",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Republican senator denounces Trump\u2019s \u2018crazy, stupid\u2019 claims about MMR vaccine safety",
-   "updated": "2026-08-16T19:58:31+00:00",
-   "outletCount": 5,
-   "counts": {
-    "nonprofit": 2,
-    "corp": 2,
-    "family": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Republican senator denounces Trump\u2019s \u2018crazy, stupid\u2019 claims about MMR vaccine safety",
-     "url": "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims",
-     "author": "Robert Mackey",
-     "kind": "news",
-     "published": "2026-08-16T19:58:31+00:00",
-     "summary": "Outgoing Louisiana senator Bill Cassidy, a medical doctor, voted to confirm anti-vaccine activist RFK Jr as health secretary before speaking out Republican senator Bill Cassidy \u2013 a medical doctor who voted to confirm anti-vaccine activist Robert F Kennedy as federal health secretary in early 2025 \u2013 on Sunday denounced Donald Trump \u2019s \u201ccrazy, stupid\u201d claims about the safety of the combined MMR vaccine for undermining faith in immunization. When Trump recently ordered changes to the recommended childhood vaccination schedule, with Kennedy by his side, the president called for two shots of the combined Measles, Mumps and Rubella vaccine to be scrapped in favor of two doses of three separate vaccines, claiming that the MMR shots are \u201csort of like a nuclear weapon\u201d that could be \u201cquite lethal\u201d. Continue reading..."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "GOP Senator Savages Trump\u2019s \u2018Crazy Stupid\u2019 New Order",
-     "url": "https://www.thedailybeast.com/gop-senator-bill-cassidy-savages-trumps-crazy-stupid-new-order/",
-     "author": "Katie Francis",
-     "kind": "news",
-     "published": "2026-08-16T14:56:06+00:00",
-     "summary": "CNN Republican Sen. Bill Cassidy is raging against President Donald Trump\u2019s \u201cpotentially tragic\u201d overhaul of the childhood vaccine schedule. Cassidy, a physician, appeared on State of the Union Sunday, and was asked about Trump\u2019s claims that the current combined MMR vaccine could be \u201cquite lethal,\u201d and was comparable to \u201cpumping\u201d a child with \u201ca large vat\u201d or \u201cgallons\u201d of chemicals . \u201cYeah, that\u2019s a crazy, stupid thing,\u201d Cassidy said. Read more at The Daily Beast."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "GOP Sen. Bill Cassidy on Trump\u2019s vaccine executive order: \u2018Stupid thing to do\u2019",
-     "url": "https://abcnews.com/Politics/gop-sen-bill-cassidy-trumps-vaccine-executive-order/story?id=135685348",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T14:20:10+00:00",
-     "summary": "Republican Sen. Bill Cassidy said on ABC News' \"This Week\" that Trump's executive order on vaccines was a \"stupid thing to do.\""
-    },
-    {
-     "outlet": "the19th",
-     "title": "What Trump\u2019s vaccine order says about his relationship with MAHA moms",
-     "url": "https://19thnews.org/2026/08/trump-vaccine-order-maha-moms/",
-     "author": "Barbara Rodriguez",
-     "kind": "news",
-     "published": "2026-08-14T18:27:39+00:00",
-     "summary": "When President Donald Trump signed an executive order on childhood vaccines this week, Jayme Franklin stood nearby, repeatedly touching her pregnant belly. Franklin, 28, gave brief remarks at the signing and applauded Trump\u2019s order, which seeks to reduce the number of routine vaccines recommended to children. \u201cThis is what this country was built on: freedom for parents to make the decisions that best suit their kid,\u201d she said at the signing. \u201cAnd I\u2019m not anti-vaccine at all. I\u2019m pro-vaccine, but we want to be able to have the freedom to space it out and to choose which one works for our child. We don&#8217;t believe that there&#8217;s a one-size-fits-all solution for every child.\u201d Franklin is a co-founder of The Conservateur, a media brand for conservative women that includes a lifestyle publication and podcast. She\u2019s also a self-described MAHA mom \u2014 a subset of the electorate who lean into their identities as mothers to advocate for policies that they purport will make children healthier through the Make America Healthy Again movement. Its ranks include several high-ranking women in the White House, like press secretary Karoline Leavitt, who just announced she is leaving her job t"
-    },
-    {
-     "outlet": "theatlantic",
-     "title": "Trump\u2019s Latest Vaccine Order Is Making Things More Confusing",
-     "url": "https://www.theatlantic.com/newsletters/2026/08/us-childhood-vaccine-guidance-mess/688285/?utm_source=feed",
-     "author": "Will Gottsegen",
-     "kind": "news",
-     "published": "2026-08-13T22:49:00+00:00",
-     "summary": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here. In January, the Trump administration attempted to fundamentally change the way the United States handles childhood immunizations. Following a memo from the Department of Health and Human Services, the CDC updated its vaccine schedule to recommend that some shots no longer be given to all children. A federal court undid the effort in March. In an executive order in May, Donald Trump called on states to adopt the narrower schedule anyway. On Monday, Trump issued a new executive order on the same subject, focused on lowering the number of vaccines that the government recommends for all children. As I wrote earlier this week, this White House has a habit of doubling down when it doesn\u2019t get its way. But only states have the power to put these proposals into practice\u2014and many state policy makers, concerned that the White House is contradicting existing research, aren\u2019t keen to follow its guidance. According to the new executive order, preventive shots for hepatitis A, hepatitis B, dengue, and"
-    }
-   ]
-  },
-  {
    "id": "9b9c847d9d",
    "topic": "Politics",
    "summary": "US attorney general says no one in his role \u2018should ever\u2019 make this vow amid concern over Trump steering DoJ US attorney general Todd Blanche on Sunday declined to assure that the federal justice department he helms would always act independently of the White House and Donald Trump . \u201cNo, I\u2019m not going to pledge that,\u201d he said when asked about the topic by NBC\u2019s Meet the Press host, Kristen Welker. \u201cAnd no attorney general should ever pledge that.\u201d Continue reading...",
@@ -1021,19 +1027,138 @@
    ]
   },
   {
+   "id": "355b94c1a1",
+   "topic": "Justice & Policing",
+   "summary": "A federal judge in Arizona cleared the path for border wall construction in the state after a Native American tribe attempted to block its construction. The Tohono O'odham Nation had argued that constructing the border wall along its southern border with Mexico would constitute illegal trespassing on tribal lands as well as effectively shrink the reservation. Judge Richard Leon noted in his ruling a federal proclamation in 1907 that the first 60 feet of the reservation could be taken for federal use. \"Given the national security and foreign policy considerations related to the border wall, deference to the government is warranted,\" he said. 'AMERICA FIRST' IMMIGRATION OVERHAUL BILL WOULD CODIFY TRUMP'S CAMPAIGN PROMISES ONCE AND FOR ALL Members of the Tohono O'odham Nation had erected \"no trespassing\" signs in reaction to federal workers visiting the border sites to scope out\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Lawsuit seeks to stop Big Bend border wall construction",
+   "updated": "2026-08-16T23:06:00+00:00",
+   "outletCount": 4,
+   "counts": {
+    "family": 2,
+    "corp": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Border wall construction on Native American reservation greenlit due to 1907 Theodore Roosevelt proclamation",
+     "url": "https://nypost.com/2026/08/16/us-news/border-wall-construction-on-reservation-greenlit/",
+     "author": "Fox News",
+     "kind": "news",
+     "published": "2026-08-16T23:06:00+00:00",
+     "summary": "Members of the Tohono O'odham Nation had erected \"no trespassing\" signs in reaction to federal workers visiting the border sites to scope out construction."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Federal judge clears path for border wall construction in Arizona",
+     "url": "https://www.foxnews.com/politics/federal-judge-clears-path-border-wall-construction-arizona",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T16:51:58+00:00",
+     "summary": "A federal judge in Arizona cleared the path for border wall construction in the state after a Native American tribe attempted to block its construction. The Tohono O'odham Nation had argued that constructing the border wall along its southern border with Mexico would constitute illegal trespassing on tribal lands as well as effectively shrink the reservation. Judge Richard Leon noted in his ruling a federal proclamation in 1907 that the first 60 feet of the reservation could be taken for federal use. \"Given the national security and foreign policy considerations related to the border wall, deference to the government is warranted,\" he said. 'AMERICA FIRST' IMMIGRATION OVERHAUL BILL WOULD CODIFY TRUMP'S CAMPAIGN PROMISES ONCE AND FOR ALL Members of the Tohono O'odham Nation had erected \"no trespassing\" signs in reaction to federal workers visiting the border sites to scope out construction. The reservation's shared border with Mexico extends roughly 62 miles. \"ANY construction related activities to the illegal and destructive border wall be warned, informed of trespass and escorted off the Nation's land by law enforcement,\" the tribe wrote on its Facebook page on Aug. 8. Judge Leon "
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Judge refuses to block Trump administration from building border wall along tribe's reservation",
+     "url": "https://abcnews.com/US/wireStory/judge-refuses-block-trump-administration-building-border-wall-135659058",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T21:53:26+00:00",
+     "summary": "A federal judge has refused to block the Trump administration from taking steps to build 62 miles of international border wall along part of a Native American tribe&rsquo;s reservation without its consent"
+    },
+    {
+     "outlet": "texastribune",
+     "title": "Lawsuit seeks to stop Big Bend border wall construction",
+     "url": "https://feeds.texastribune.org/link/16799/17418172/texas-big-bend-border-wall-lawsuit-lipan-apache",
+     "author": "Ayden Runnels and Gabby Birenbaum",
+     "kind": "news",
+     "published": "2026-08-14T14:20:18+00:00",
+     "summary": "A tribal nonprofit and an outdoor recreation company filed the federal lawsuit, arguing the work threatens archeological sites and sacred grounds."
+    }
+   ]
+  },
+  {
+   "id": "68878b208a",
+   "topic": "Politics",
+   "summary": "When President Donald Trump signed an executive order on childhood vaccines this week, Jayme Franklin stood nearby, repeatedly touching her pregnant belly. Franklin, 28, gave brief remarks at the signing and applauded Trump\u2019s order, which seeks to reduce the number of routine vaccines recommended to children. \u201cThis is what this country was built on: freedom for parents to make the decisions that best suit their kid,\u201d she said at the signing. \u201cAnd I\u2019m not anti-vaccine at all. I\u2019m pro-vaccine, but we want to be able to have the freedom to space it out and to choose which one works for our child. We don&#8217;t believe that there&#8217;s a one-size-fits-all solution for every child.\u201d Franklin is a co-founder of The Conservateur, a media brand for conservative women that includes a lifestyle publication and podcast. She\u2019s also a self-described MAHA mom \u2014 a subset of the electorate who lean\u2026",
+   "summaryFrom": "the19th",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "Republican senator denounces Trump\u2019s \u2018crazy, stupid\u2019 claims about MMR vaccine safety",
+   "updated": "2026-08-16T19:58:31+00:00",
+   "outletCount": 4,
+   "counts": {
+    "nonprofit": 2,
+    "corp": 2
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Republican senator denounces Trump\u2019s \u2018crazy, stupid\u2019 claims about MMR vaccine safety",
+     "url": "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims",
+     "author": "Robert Mackey",
+     "kind": "news",
+     "published": "2026-08-16T19:58:31+00:00",
+     "summary": "Outgoing Louisiana senator Bill Cassidy, a medical doctor, voted to confirm anti-vaccine activist RFK Jr as health secretary before speaking out Republican senator Bill Cassidy \u2013 a medical doctor who voted to confirm anti-vaccine activist Robert F Kennedy as federal health secretary in early 2025 \u2013 on Sunday denounced Donald Trump \u2019s \u201ccrazy, stupid\u201d claims about the safety of the combined MMR vaccine for undermining faith in immunization. When Trump recently ordered changes to the recommended childhood vaccination schedule, with Kennedy by his side, the president called for two shots of the combined Measles, Mumps and Rubella vaccine to be scrapped in favor of two doses of three separate vaccines, claiming that the MMR shots are \u201csort of like a nuclear weapon\u201d that could be \u201cquite lethal\u201d. Continue reading..."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "GOP Senator Savages Trump\u2019s \u2018Crazy Stupid\u2019 New Order",
+     "url": "https://www.thedailybeast.com/gop-senator-bill-cassidy-savages-trumps-crazy-stupid-new-order/",
+     "author": "Katie Francis",
+     "kind": "news",
+     "published": "2026-08-16T14:56:06+00:00",
+     "summary": "CNN Republican Sen. Bill Cassidy is raging against President Donald Trump\u2019s \u201cpotentially tragic\u201d overhaul of the childhood vaccine schedule. Cassidy, a physician, appeared on State of the Union Sunday, and was asked about Trump\u2019s claims that the current combined MMR vaccine could be \u201cquite lethal,\u201d and was comparable to \u201cpumping\u201d a child with \u201ca large vat\u201d or \u201cgallons\u201d of chemicals . \u201cYeah, that\u2019s a crazy, stupid thing,\u201d Cassidy said. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "GOP Sen. Bill Cassidy on Trump\u2019s vaccine executive order: \u2018Stupid thing to do\u2019",
+     "url": "https://abcnews.com/Politics/gop-sen-bill-cassidy-trumps-vaccine-executive-order/story?id=135685348",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T14:20:10+00:00",
+     "summary": "Republican Sen. Bill Cassidy said on ABC News' \"This Week\" that Trump's executive order on vaccines was a \"stupid thing to do.\""
+    },
+    {
+     "outlet": "the19th",
+     "title": "What Trump\u2019s vaccine order says about his relationship with MAHA moms",
+     "url": "https://19thnews.org/2026/08/trump-vaccine-order-maha-moms/",
+     "author": "Barbara Rodriguez",
+     "kind": "news",
+     "published": "2026-08-14T18:27:39+00:00",
+     "summary": "When President Donald Trump signed an executive order on childhood vaccines this week, Jayme Franklin stood nearby, repeatedly touching her pregnant belly. Franklin, 28, gave brief remarks at the signing and applauded Trump\u2019s order, which seeks to reduce the number of routine vaccines recommended to children. \u201cThis is what this country was built on: freedom for parents to make the decisions that best suit their kid,\u201d she said at the signing. \u201cAnd I\u2019m not anti-vaccine at all. I\u2019m pro-vaccine, but we want to be able to have the freedom to space it out and to choose which one works for our child. We don&#8217;t believe that there&#8217;s a one-size-fits-all solution for every child.\u201d Franklin is a co-founder of The Conservateur, a media brand for conservative women that includes a lifestyle publication and podcast. She\u2019s also a self-described MAHA mom \u2014 a subset of the electorate who lean into their identities as mothers to advocate for policies that they purport will make children healthier through the Make America Healthy Again movement. Its ranks include several high-ranking women in the White House, like press secretary Karoline Leavitt, who just announced she is leaving her job t"
+    }
+   ]
+  },
+  {
    "id": "40507e217d",
    "topic": "Other",
-   "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant\u2026",
+   "summary": "A 19-year-old man was arrested Saturday in connection with a shooting that wounded five people at Virginia State University after authorities found him hiding inside a campus dormitory closet, police said. Camron Harris of Henrico, Virginia, was found hiding in a closet inside Seward Hall at approximately 4 p.m., more than 14 hours after the shooting erupted near university residence halls early Saturday morning, according to the Associated Press. Harris is not a student at Virginia State University. Camron Harris (Chesterfield County Police via AP) Police obtained eight felony warrants for Harris: four counts of malicious wounding and four counts of using a firearm in the commission of a felony. He was taken to the Chesterfield County Jail and is being held without bond. Authorities said additional charges may be filed, according to WTVR. The shooting occurred at approximately 1:28\u2026",
    "summaryFrom": "dailywire",
    "emphasis": {
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "multiple",
-     "wounded",
-     "opened",
-     "fire",
-     "around"
+     "erupted",
+     "early",
+     "near",
+     "wounded"
     ],
     "indie": []
    },
@@ -1042,15 +1167,15 @@
    ],
    "headline": "Suspect in Virginia State University shooting found hiding in dorm closet",
    "updated": "2026-08-16T19:39:03+00:00",
-   "outletCount": 5,
+   "outletCount": 4,
    "counts": {
     "nonprofit": 1,
     "pub": 1,
     "corp": 1,
     "family": 2
    },
-   "newsCount": 4,
-   "opinionCount": 1,
+   "newsCount": 3,
+   "opinionCount": 2,
    "underreported": false,
    "articles": [
     {
@@ -1081,13 +1206,13 @@
      "summary": "A 19-year-old man has been arrested as a suspect in the shooting of five people at Virginia State University after he was found hiding in a closet."
     },
     {
-     "outlet": "breitbart",
-     "title": "Numerous People Injured After Multiple Shooters Open Fire at Virginia State University",
-     "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/numerous-people-injured-after-multiple-shooters-open-fire-virginia-state-university/",
-     "author": "AWR Hawkins",
-     "kind": "news",
-     "published": "2026-08-15T15:39:06+00:00",
-     "summary": "Five people were wounded after multiple shooters opened fire on the Virginia State University (VSU) campus Saturday around 1:30 a.m. The post Numerous People Injured After Multiple Shooters Open Fire at Virginia State University appeared first on Breitbart ."
+     "outlet": "dailywire",
+     "title": "Virginia State Shooting Suspect Found Hiding On Campus",
+     "url": "https://www.dailywire.com/news/virginia-state-shooting-suspect-found-hiding-on-campus",
+     "author": "Drew Berkemeyer",
+     "kind": "opinion",
+     "published": "2026-08-16T17:47:42+00:00",
+     "summary": "A 19-year-old man was arrested Saturday in connection with a shooting that wounded five people at Virginia State University after authorities found him hiding inside a campus dormitory closet, police said. Camron Harris of Henrico, Virginia, was found hiding in a closet inside Seward Hall at approximately 4 p.m., more than 14 hours after the shooting erupted near university residence halls early Saturday morning, according to the Associated Press. Harris is not a student at Virginia State University. Camron Harris (Chesterfield County Police via AP) Police obtained eight felony warrants for Harris: four counts of malicious wounding and four counts of using a firearm in the commission of a felony. He was taken to the Chesterfield County Jail and is being held without bond. Authorities said additional charges may be filed, according to WTVR. The shooting occurred at approximately 1:28 a.m. Saturday near the university&#8217;s residence halls. Officers responding to the scene found five people suffering from gunshot wounds. One victim, a 21-year-old man who is not a VSU student, remains in critical condition. The other four victims, ranging in age from 17 to 23, suffered non-life-thre"
     },
     {
      "outlet": "dailywire",
@@ -1097,204 +1222,6 @@
      "kind": "opinion",
      "published": "2026-08-15T07:47:18+00:00",
      "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant law enforcement presence remains on campus as the investigation into this morning&#8217;s shooting continues.&#8221; It appears that no suspects have been taken into custody as of time of publication, and the university urged anyone with information on the shooting to contact law enforcement. pic.twi"
-    }
-   ]
-  },
-  {
-   "id": "ac7085b98d",
-   "topic": "Politics",
-   "summary": "South Carolina would hold its primary on Jan. 22, 2028 under the Democratic National Committee\u2019s plan. Nevada would follow on Feb. 1. The plan aims to give a bigger voice to Black and Latino voters.",
-   "summaryFrom": "wapo",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Democrats' 2028 presidential calendar gives Black and Latino voters and union members an early say",
-   "updated": "2026-08-16T14:22:06+00:00",
-   "outletCount": 5,
-   "counts": {
-    "corp": 2,
-    "family": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "South Carolina to hold first 2028 Democratic presidential primary",
-     "url": "https://www.cbsnews.com/news/democratic-national-committee-presidential-primary-south-carolina-vote/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T14:22:06+00:00",
-     "summary": "South Carolina's Democratic presidential primary will take place on Jan. 22, 2028. Nevada, New Hampshire, New Mexico, Michigan and Virginia will also hold early Democratic nominating contests."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Democrats approve 2028 primary calendar that puts South Carolina first",
-     "url": "https://www.washingtonpost.com/politics/2026/08/15/democrats-approve-2028-primary-calendar-that-puts-south-carolina-first/",
-     "author": "Sammy Westfall",
-     "kind": "news",
-     "published": "2026-08-15T19:39:15+00:00",
-     "summary": "South Carolina would hold its primary on Jan. 22, 2028 under the Democratic National Committee\u2019s plan. Nevada would follow on Feb. 1. The plan aims to give a bigger voice to Black and Latino voters."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Democrats' 2028 presidential calendar gives Black and Latino voters and union members an early say",
-     "url": "https://www.pbs.org/newshour/politics/democrats-2028-presidential-calendar-gives-black-and-latino-voters-and-union-members-an-early-say",
-     "author": "Bill Barrow, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T19:00:56+00:00",
-     "summary": "The primary lineup pushes Iowa from the traditional top spot and makes South Carolina the leadoff state, voting on Jan. 22, 2028, followed by Nevada on Feb. 1."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
-     "url": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
-     "author": "Shane Goldmacher",
-     "kind": "news",
-     "published": "2026-08-15T18:27:46+00:00",
-     "summary": "The party\u2019s membership finalized the new order for the first six states to winnow the candidate field, pushing back Iowa and New Hampshire."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "DNC to finalize controversial 2028 primary calendar, elevating South Carolina",
-     "url": "https://abcnews.com/Politics/dnc-set-finalize-controversial-2028-primary-calendar-elevating/story?id=135616869",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T09:41:06+00:00",
-     "summary": "The DNC is expected to vote on Saturday to approve the new order of states for the 2028 presidential nominating process, amidst controversy over some of those decisions."
-    }
-   ]
-  },
-  {
-   "id": "e3ca7d9791",
-   "topic": "World",
-   "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "South Lebanon: How will Israeli strikes affect negotiations?",
-   "updated": "2026-08-16T13:00:14+00:00",
-   "outletCount": 5,
-   "counts": {
-    "pub": 3,
-    "nonprofit": 2
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "South Lebanon: How will Israeli strikes affect negotiations?",
-     "url": "https://www.france24.com/en/south-lebanon-how-will-israeli-strikes-affect-negotiations",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T13:00:14+00:00",
-     "summary": "Israel killed 11 people in strikes on southern Lebanon on Saturday, in what has been described as the biggest threat to the peace talks since the June agreement. Ziad Majed, Professor of Middle East Studies at the American University of Paris, spoke to FRANCE 24 about the potential impact of the strikes on the negotiations underway in Rome, the role of the United States, and Israel's policy towards Lebanon and especially Hezbollah."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-     "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T20:21:14+00:00",
-     "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Israeli airstrikes on southern Lebanon kill 11 people in another test to truce",
-     "url": "https://www.pbs.org/newshour/world/israeli-airstrikes-on-southern-lebanon-kill-11-people-health-ministry-says",
-     "author": "Bassem Mroue, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T15:47:14+00:00",
-     "summary": "Israel and the Lebanese government announced a \"framework agreement\" on June 26, laying out a plan for Israeli forces to withdraw from southern Lebanon in exchange for the disarmament of the Iran-backed Hezbollah militant group."
-    },
-    {
-     "outlet": "dw",
-     "title": "Lebanon says 11 killed in Israeli airstrikes",
-     "url": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T15:35:00+00:00",
-     "summary": "Lebanon's prime minister denounced the attacks on villages in southern Lebanon for targeting civilians in their homes. Israel said it was firing on Hezbollah infrastructure."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
-     "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
-     "author": "William Christou",
-     "kind": "news",
-     "published": "2026-08-15T13:55:28+00:00",
-     "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "d06c63d7b8",
-   "topic": "Politics",
-   "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its\u2026",
-   "summaryFrom": "axios",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Week in Politics: USS Lincoln; latest primaries and Democrats; White House ballroom",
-   "updated": "2026-08-16T18:46:11+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 2,
-    "nonprofit": 1,
-    "corp": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "wapo",
-     "title": "Trump says White House needs \u2018military complex\u2019 as courts block his ballroom",
-     "url": "https://www.washingtonpost.com/politics/2026/08/16/trump-says-white-house-needs-military-complex-courts-block-his-ballroom/",
-     "author": "Dan Diamond",
-     "kind": "news",
-     "published": "2026-08-16T18:46:11+00:00",
-     "summary": "When Trump first unveiled his plans for the new East Wing addition, he said it was needed to host VIP guests. More recently, he is calling it a \u201cdesperately needed National Security structure.\u201d"
-    },
-    {
-     "outlet": "npr",
-     "title": "Week in Politics: USS Lincoln; latest primaries and Democrats; White House ballroom",
-     "url": "https://www.npr.org/2026/08/15/nx-s1-5929131/week-in-politics-uss-lincoln-latest-primaries-and-democrats-white-house-ballroom",
-     "author": "Eyder Peralta",
-     "kind": "news",
-     "published": "2026-08-15T11:40:15+00:00",
-     "summary": "A shortage of some munitions as well as the problems with the USS Lincoln have the Trump administration on the defensive. Meanwhile, what the latest primaries show about Democratic enthusiasm."
-    },
-    {
-     "outlet": "axios",
-     "title": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
-     "url": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
-     "author": "Donica Phifer",
-     "kind": "news",
-     "published": "2026-08-14T20:19:31+00:00",
-     "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle East deployment. While taking questions from the press Friday, a reporter mentioned families were worried, to which Trump replied \"no they're not.\" Zoom out: The Navy Times , The Military Times, and Stars and Stripes were among the first to report on conditions aboard the carrier. The ship hasn't m"
-    },
-    {
-     "outlet": "time",
-     "title": "What to Know About the Growing Concerns Over Conditions on the Long-Deployed USS Abraham Lincoln",
-     "url": "https://time.com/article/2026/08/14/uss-abraham-lincoln-conditions-trump-iran-war/",
-     "author": "Connor Greene",
-     "kind": "news",
-     "published": "2026-08-14T20:14:50+00:00",
-     "summary": "In this U.S. Navy released handout, An F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 14, makes an arrested landing on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72) in support of Operation Epic Fury, on February 28, 2026. \u2014U.S. Navy/Getty Images The USS Abraham Lincoln has been at sea in the Middle East for months, and with no clear end in sight for the war in Iran , concerns for those aboard the aircraft carrier\u2014and for the vessel itself\u2014have mounted amid a series of troubling reports. Another aircraft carrier, the USS George Washington, had begun making its way towards the Middle East as of Thursday to replace the Lincoln, multiple news outlets reported. President Donald Trump appeared to confirm the reported ship swap on Friday, saying that the Lincoln \"is moving right now, or very shortly and is being replaced with another very similar ship.\u201d The Washington\u2019s deployment comes as reports have emerged in recent months recounting worsening living conditions, mental health concerns, and supply shortages on board the Lincoln. Trump seemed to deny the reports on the state of the Lincoln and its crew on Friday, responding \u201cNo, they\u2019re n"
     }
    ]
   },
@@ -1359,6 +1286,126 @@
    ]
   },
   {
+   "id": "e3ca7d9791",
+   "topic": "World",
+   "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "South Lebanon: How will Israeli strikes affect negotiations?",
+   "updated": "2026-08-16T13:00:14+00:00",
+   "outletCount": 4,
+   "counts": {
+    "pub": 3,
+    "nonprofit": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "South Lebanon: How will Israeli strikes affect negotiations?",
+     "url": "https://www.france24.com/en/south-lebanon-how-will-israeli-strikes-affect-negotiations",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T13:00:14+00:00",
+     "summary": "Israel killed 11 people in strikes on southern Lebanon on Saturday, in what has been described as the biggest threat to the peace talks since the June agreement. Ziad Majed, Professor of Middle East Studies at the American University of Paris, spoke to FRANCE 24 about the potential impact of the strikes on the negotiations underway in Rome, the role of the United States, and Israel's policy towards Lebanon and especially Hezbollah."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+     "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T20:21:14+00:00",
+     "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
+    },
+    {
+     "outlet": "dw",
+     "title": "Lebanon says 11 killed in Israeli airstrikes",
+     "url": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T15:35:00+00:00",
+     "summary": "Lebanon's prime minister denounced the attacks on villages in southern Lebanon for targeting civilians in their homes. Israel said it was firing on Hezbollah infrastructure."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
+     "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
+     "author": "William Christou",
+     "kind": "news",
+     "published": "2026-08-15T13:55:28+00:00",
+     "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "2dd6812758",
+   "topic": "Politics",
+   "summary": "South Carolina would hold its primary on Jan. 22, 2028 under the Democratic National Committee\u2019s plan. Nevada would follow on Feb. 1. The plan aims to give a bigger voice to Black and Latino voters.",
+   "summaryFrom": "wapo",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Politics chat: Democrats take lessons from the primaries, set 2028 calendar",
+   "updated": "2026-08-16T11:46:22+00:00",
+   "outletCount": 4,
+   "counts": {
+    "nonprofit": 1,
+    "family": 2,
+    "corp": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "npr",
+     "title": "Politics chat: Democrats take lessons from the primaries, set 2028 calendar",
+     "url": "https://www.npr.org/2026/08/16/nx-s1-5929152/politics-chat-democrats-take-lessons-from-the-primaries-set-2028-calendar",
+     "author": "Danielle Kurtzleben",
+     "kind": "news",
+     "published": "2026-08-16T11:46:22+00:00",
+     "summary": "We look at how the Democrats are gearing up for the 2028 presidential primaries, as well as their takeaways from the current batch of primary races."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Democrats approve 2028 primary calendar that puts South Carolina first",
+     "url": "https://www.washingtonpost.com/politics/2026/08/15/democrats-approve-2028-primary-calendar-that-puts-south-carolina-first/",
+     "author": "Sammy Westfall",
+     "kind": "news",
+     "published": "2026-08-15T19:39:15+00:00",
+     "summary": "South Carolina would hold its primary on Jan. 22, 2028 under the Democratic National Committee\u2019s plan. Nevada would follow on Feb. 1. The plan aims to give a bigger voice to Black and Latino voters."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
+     "url": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
+     "author": "Shane Goldmacher",
+     "kind": "news",
+     "published": "2026-08-15T18:27:46+00:00",
+     "summary": "The party\u2019s membership finalized the new order for the first six states to winnow the candidate field, pushing back Iowa and New Hampshire."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "DNC to finalize controversial 2028 primary calendar, elevating South Carolina",
+     "url": "https://abcnews.com/Politics/dnc-set-finalize-controversial-2028-primary-calendar-elevating/story?id=135616869",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T09:41:06+00:00",
+     "summary": "The DNC is expected to vote on Saturday to approve the new order of states for the 2028 presidential nominating process, amidst controversy over some of those decisions."
+    }
+   ]
+  },
+  {
    "id": "c26019a127",
    "topic": "Justice & Policing",
    "summary": "CBS News chief correspondent Matt Gutman is facing sexual harassment allegations in a lawsuit filed by a former ABC News colleague, who claims he made inappropriate sexual remarks on two assignments during his time at that network. Former ABC News field producer Samira Said named Gutman, ABC News and parent company The Walt Disney Co. as defendants in the suit filed Friday in Los Angeles Superior Court. Said, who worked in ABC&#8217;s Los Angeles bureau from May 2021 until March 2025, alleges discrimination, hostile work environment harassment, retaliation, failure to accommodate her medical conditions and wrongful termination. Said alleges she was &#8220;placed on a male-only team including on-air correspondent Matt Gutman&#8221; and two other male crew members. &#8220;While the team waited in a public queue during the assignment, Gutman initiated a discussion rating a female\u2026",
@@ -1419,145 +1466,53 @@
    ]
   },
   {
-   "id": "e6f0e6556f",
-   "topic": "Politics",
-   "summary": "Dallas-Fort Worth International Airport has scrapped a proposal to add Islamic foot-washing stations to two Terminal D restrooms, backing off Friday night after Texas Governor Greg Abbott called the plan illegal and opened a review of every state grant flowing to the airport. &#8220;These ablution facilities appear designed to single out one subset of the population for special treatment based on religion. That is illegal,&#8221; Abbott wrote in a letter to Transportation Secretary Sean Duffy. &#8220;Both airports are government-owned facilities. The federal and state constitutions prohibit governments from facilitating this sort of discrimination. Just as the government cannot favor the secular over the sacred, it also cannot favor one religious view over all others.&#8221; In a separate letter to DFW CEO Christopher McLaughlin, Abbott warned that organizations found to have developed\u2026",
+   "id": "549e3339af",
+   "topic": "Culture & Sport",
+   "summary": "The road to the Little League World Series is supposed to be a celebration of youth baseball. Instead, one state\u2019s path to Williamsport this year has descended into a scandal involving an ineligible player, disputed tournament administration, improper fees, missing eligibility paperwork, and demands for the removal of state and regional Little League officials. The controversy centers on Tulsa National Little League, which was disqualified from the Southwest Region Tournament on Monday while representing Oklahoma after Little League International determined that one of its players was ineligible. A Texas judge briefly allowed the team to continue competing before vacating the order Tuesday, clearing the way for the tournament to proceed without the team from Oklahoma. According to documents obtained by Sports Illustrated , Tulsa National&#8217;s eligibility problems were not confined to\u2026",
    "summaryFrom": "dailywire",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 3,
-    "big": [
-     "international",
-     "stations",
-     "worth",
-     "foot-washing",
-     "airport",
-     "scrapped"
-    ],
-    "indie": [
-     "order"
-    ]
-   },
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Greg Abbott threatens Dallas, Houston airports\u2019 grant funds over Islamic washing facilities",
-   "updated": "2026-08-15T16:59:40+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 3,
-    "nonprofit": 3
-   },
-   "newsCount": 5,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Texas: DFW Airport Backs Off Plan for Islamic Foot-Washing Stations as Gov. Greg Abbott Orders Investigation",
-     "url": "https://www.breitbart.com/faith/2026/08/15/texas-dfw-airport-backs-off-plan-for-islamic-foot-washing-stations-as-gov-greg-abbott-orders-investigation/",
-     "author": "Amy Furr",
-     "kind": "news",
-     "published": "2026-08-15T16:59:40+00:00",
-     "summary": "Dallas Fort Worth International Airport (DFW) in Texas has scrapped plans to install Islamic washing stations as Gov. Greg Abbott (R) has ordered an investigation into the matter. The post Texas: DFW Airport Backs Off Plan for Islamic Foot-Washing Stations as Gov. Greg Abbott Orders Investigation appeared first on Breitbart ."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "DFW Airport Scraps Islamic Foot-Washing Stations After Governor Threatens Its Funding",
-     "url": "https://www.dailywire.com/news/dfw-airport-scraps-islamic-foot-washing-stations-after-governor-threatens-its-funding",
-     "author": "Brecca Stoll",
-     "kind": "opinion",
-     "published": "2026-08-15T09:00:45+00:00",
-     "summary": "Dallas-Fort Worth International Airport has scrapped a proposal to add Islamic foot-washing stations to two Terminal D restrooms, backing off Friday night after Texas Governor Greg Abbott called the plan illegal and opened a review of every state grant flowing to the airport. &#8220;These ablution facilities appear designed to single out one subset of the population for special treatment based on religion. That is illegal,&#8221; Abbott wrote in a letter to Transportation Secretary Sean Duffy. &#8220;Both airports are government-owned facilities. The federal and state constitutions prohibit governments from facilitating this sort of discrimination. Just as the government cannot favor the secular over the sacred, it also cannot favor one religious view over all others.&#8221; In a separate letter to DFW CEO Christopher McLaughlin, Abbott warned that organizations found to have developed or operated what he called exclusionary religious spaces could lose state grant funding and face further enforcement. Abbott referred both DFW and Houston&#8217;s George Bush Intercontinental Airport (IAH) to the U.S. Department of Transportation for investigation and enforcement, asking the departme"
-    },
-    {
-     "outlet": "foxnews",
-     "title": "DFW Airport scraps controversial Islamic foot-washing station plan as Texas Gov Abbott takes aim",
-     "url": "https://www.foxnews.com/politics/dfw-airport-scraps-controversial-islamic-footwashing-station-plan-texas-gov-abbott-takes-aim",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T00:54:03+00:00",
-     "summary": "FIRST ON FOX: Texas Gov. Greg Abbott on Friday directed a review of state grants to entities operating two major Texas airports over religious accommodations after Dallas Fort Worth International Airport said it would no longer move forward with a proposal to install Islamic washing stations. Abbott said the state will review grants to entities operating DFW and George Bush Intercontinental Airport in Houston for possible revocation and denial of future funding. He also referred both airports to the U.S. Department of Transportation for investigation. \"Government-owned airports cannot favor one religion over all others,\" Abbott wrote on X Friday. \"DFW plans to install Islamic wudu washing facilities are illegal. I've directed a review of all state grants to both airports for possible revocation, and referred DFW &amp; IAH to USDOT for investigation. \"Texas will not allow illegal religious discrimination at taxpayer-funded facilities.\" DALLAS-FORT WORTH AIRPORT TO INSTALL ISLAMIC FOOT WASH STATIONS INSIDE BATHROOMS DFW told Fox News Digital Friday it had been evaluating a proposal to add ablution washing stations on the pre-security side of Terminal D, its international terminal, bu"
-    },
-    {
-     "outlet": "texastribune",
-     "title": "Greg Abbott threatens Dallas, Houston airports\u2019 grant funds over Islamic washing facilities",
-     "url": "https://feeds.texastribune.org/link/16799/17418678/texas-greg-abbott-dfw-iah-airport-islam-ablution-facility-grant",
-     "author": "Ayden Runnels",
-     "kind": "news",
-     "published": "2026-08-15T00:45:20+00:00",
-     "summary": "DFW said late Friday that plans to install the religious washing station had been canceled."
-    },
-    {
-     "outlet": "texastribune",
-     "title": "Texas will audit up to 300 projects, mostly data centers, after Gov. Greg Abbott\u2019s order",
-     "url": "https://feeds.texastribune.org/link/16799/17418589/texas-data-center-approval-pause-ercot-power-grid",
-     "author": "Paul Cobler",
-     "kind": "news",
-     "published": "2026-08-14T22:03:09+00:00",
-     "summary": "The state\u2019s power grid operator had already planned on auditing several data center proposals, but Abbott\u2019s directive reworks the timeline and adds new requirements."
-    },
-    {
-     "outlet": "texastribune",
-     "title": "Limits on certain firearms, silencers lifted for some in Texas after judge\u2019s order takes effect",
-     "url": "https://feeds.texastribune.org/link/16799/17417632/texas-national-firearms-act-ruling-doj-no-emergency-appeal",
-     "author": "Alex Nguyen",
-     "kind": "news",
-     "published": "2026-08-13T23:36:55+00:00",
-     "summary": "The Trump administration declined to immediately appeal a ruling by a federal judge in Lubbock that invalidated parts of the 1934 National Firearms Act."
-    }
-   ]
-  },
-  {
-   "id": "b84a4b7943",
-   "topic": "Other",
-   "summary": "Gillian Anderson is looking back at the sacrifices she made as her Hollywood career took off \u2014 and acknowledging that some of those choices came at a cost for her family. In a new interview with The Sunday Times , the 58-year-old actress \u2014 who became a household name playing FBI Special Agent Dana Scully on \"The X-Files\" \u2014 opened up about her regrets as a young mother and explained how the show\u2019s grueling production schedule affected her ability to be present for her daughter. \"I have absolutely no regrets in my life,\" Anderson initially told the outlet before reconsidering. \"No, there are a couple of things, in terms of early parenting, that I now would say, I wish I\u2019d thought this through or I wish I\u2019d been less selfish.\" SCARLETT JOHANSSON, WHO EARNED $43 MILLION IN 2025, SAYS LIFE IS A CONSTANT 'DEFICIT' AT HOME Anderson became a mother at 26, welcoming daughter Piper with her first\u2026",
-   "summaryFrom": "foxnews",
    "emphasis": null,
    "absent": [
+    "corp",
     "coop",
     "nonprofit",
     "pub"
    ],
-   "headline": "\u2018X-Files\u2019 star Gillian Anderson reveals parenting regret, says she wishes she was 'less selfish'",
-   "updated": "2026-08-16T21:40:41+00:00",
+   "headline": "Iowa\u2019s Little League World Series team accused of sign stealing in wild drama",
+   "updated": "2026-08-16T22:59:06+00:00",
    "outletCount": 3,
    "counts": {
-    "family": 2,
-    "corp": 1
+    "family": 3
    },
-   "newsCount": 3,
-   "opinionCount": 0,
+   "newsCount": 2,
+   "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "foxnews",
-     "title": "\u2018X-Files\u2019 star Gillian Anderson reveals parenting regret, says she wishes she was 'less selfish'",
-     "url": "https://www.foxnews.com/entertainment/x-files-star-gillian-anderson-reveals-parenting-regret-says-she-wishes-she-less-selfish",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T21:40:41+00:00",
-     "summary": "Gillian Anderson is looking back at the sacrifices she made as her Hollywood career took off \u2014 and acknowledging that some of those choices came at a cost for her family. In a new interview with The Sunday Times , the 58-year-old actress \u2014 who became a household name playing FBI Special Agent Dana Scully on \"The X-Files\" \u2014 opened up about her regrets as a young mother and explained how the show\u2019s grueling production schedule affected her ability to be present for her daughter. \"I have absolutely no regrets in my life,\" Anderson initially told the outlet before reconsidering. \"No, there are a couple of things, in terms of early parenting, that I now would say, I wish I\u2019d thought this through or I wish I\u2019d been less selfish.\" SCARLETT JOHANSSON, WHO EARNED $43 MILLION IN 2025, SAYS LIFE IS A CONSTANT 'DEFICIT' AT HOME Anderson became a mother at 26, welcoming daughter Piper with her first husband, \"The X-Files\" assistant art director Clyde Klotz, just over a year after she began filming the hit Fox sci-fi series. Her career was rapidly accelerating at the time, with \"The X-Files\" becoming a global phenomenon and Anderson facing grueling days on set. CLICK HERE TO SIGN UP FOR THE ENTE"
-    },
-    {
      "outlet": "nypost",
-     "title": "Gillian Anderson reveals \u2018secret\u2019 same-sex relationship as a teen as actress makes rare comments about her sexuality",
-     "url": "https://pagesix.com/2026/08/16/celebrity-news/gillian-anderson-reveals-secret-same-sex-relationship-as-a-teen-in-rare-comments-on-her-sexuality/",
-     "author": "Antoinette Bueno",
+     "title": "Iowa\u2019s Little League World Series team accused of sign stealing in wild drama",
+     "url": "https://nypost.com/2026/08/16/sports/iowas-little-league-world-series-team-accused-of-sign-stealing/",
+     "author": "Bryan Fonseca",
      "kind": "news",
-     "published": "2026-08-16T21:06:17+00:00",
-     "summary": "The \"X-Files\" alum also revealed she dated a 24-year-old man when she was 15 years old."
+     "published": "2026-08-16T22:59:06+00:00",
+     "summary": "Iowa's Davenport Northwest is accused of stealing signs during its 7-6 regional final win over Wisconsin to reach the Little League World Series."
     },
     {
-     "outlet": "dailybeast",
-     "title": "Ailing Action Star Bruce Willis Makes Rare Appearance",
-     "url": "https://www.thedailybeast.com/ailing-action-star-bruce-willis-makes-rare-appearance/",
-     "author": "Sarah-Jane Collins",
+     "outlet": "forbes",
+     "title": "ESPN Castoff, Little League World Series Icon Offers \u2018Surreal\u2019 Update After Sudden Layoffs",
+     "url": "https://www.forbes.com/sites/peterchawaga/2026/08/16/espn-castoff-little-league-world-series-icon-offers-surreal-update-after-sudden-layoffs/",
+     "author": "Peter Chawaga, Contributor",
      "kind": "news",
-     "published": "2026-08-15T21:14:17+00:00",
-     "summary": "REUTERS/Fred Prouser Bruce Willis has appeared in more than 100 films over the four decades of his career, but the Die Hard star has largely retreated from public view after he was diagnosed with dementia in 2023. Fans have only had glimpses of him through the social media accounts of his family, including his ex-wife Demi Moore and their daughters, Rumer, Scout, and Tallulah. But Willis was in attendance at the recent wedding of Tallulah, and Vogue was on hand to document the day. On Friday the magazine posted an article on its website with 97 photos. The third one was a smiling, but clearly frail Willis, with his daughter and her new husband, Justin Acee. Willis is wearing a short-sleeved linen shirt and a straw hat, his outfit classic and summery alongside his daughter\u2019s wedding gown and son-in-law\u2019s suit. The picture was also posted to Vogue\u2019s Instagram account . View this post on Instagram Read it at Vogue Read more at The Daily Beast."
+     "published": "2026-08-16T18:11:35+00:00",
+     "summary": "ESPN icon Karl Ravech broke his silence about a high-profile termination from ESPN, offering a Little League World Series update."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "An Illegal Player And A Sham Tournament: Scandal Rocks The Little League World Series",
+     "url": "https://www.dailywire.com/news/an-illegal-player-and-a-sham-tournament-scandal-rocks-the-little-league-world-series",
+     "author": "Drew Berkemeyer",
+     "kind": "opinion",
+     "published": "2026-08-15T07:45:30+00:00",
+     "summary": "The road to the Little League World Series is supposed to be a celebration of youth baseball. Instead, one state\u2019s path to Williamsport this year has descended into a scandal involving an ineligible player, disputed tournament administration, improper fees, missing eligibility paperwork, and demands for the removal of state and regional Little League officials. The controversy centers on Tulsa National Little League, which was disqualified from the Southwest Region Tournament on Monday while representing Oklahoma after Little League International determined that one of its players was ineligible. A Texas judge briefly allowed the team to continue competing before vacating the order Tuesday, clearing the way for the tournament to proceed without the team from Oklahoma. According to documents obtained by Sports Illustrated , Tulsa National&#8217;s eligibility problems were not confined to one player or the Southwest Region Tournament. The evidence suggests that Oklahoma&#8217;s entire state tournament may have been improperly administered, with two of the three participating teams allegedly ineligible to compete for the state&#8217;s berth in the international tournament. Tulsa Natio"
     }
    ]
   },
@@ -1970,57 +1925,6 @@
    ]
   },
   {
-   "id": "355b94c1a1",
-   "topic": "Justice & Policing",
-   "summary": "A federal judge in Arizona cleared the path for border wall construction in the state after a Native American tribe attempted to block its construction. The Tohono O'odham Nation had argued that constructing the border wall along its southern border with Mexico would constitute illegal trespassing on tribal lands as well as effectively shrink the reservation. Judge Richard Leon noted in his ruling a federal proclamation in 1907 that the first 60 feet of the reservation could be taken for federal use. \"Given the national security and foreign policy considerations related to the border wall, deference to the government is warranted,\" he said. 'AMERICA FIRST' IMMIGRATION OVERHAUL BILL WOULD CODIFY TRUMP'S CAMPAIGN PROMISES ONCE AND FOR ALL Members of the Tohono O'odham Nation had erected \"no trespassing\" signs in reaction to federal workers visiting the border sites to scope out\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Lawsuit seeks to stop Big Bend border wall construction",
-   "updated": "2026-08-16T16:51:58+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Federal judge clears path for border wall construction in Arizona",
-     "url": "https://www.foxnews.com/politics/federal-judge-clears-path-border-wall-construction-arizona",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T16:51:58+00:00",
-     "summary": "A federal judge in Arizona cleared the path for border wall construction in the state after a Native American tribe attempted to block its construction. The Tohono O'odham Nation had argued that constructing the border wall along its southern border with Mexico would constitute illegal trespassing on tribal lands as well as effectively shrink the reservation. Judge Richard Leon noted in his ruling a federal proclamation in 1907 that the first 60 feet of the reservation could be taken for federal use. \"Given the national security and foreign policy considerations related to the border wall, deference to the government is warranted,\" he said. 'AMERICA FIRST' IMMIGRATION OVERHAUL BILL WOULD CODIFY TRUMP'S CAMPAIGN PROMISES ONCE AND FOR ALL Members of the Tohono O'odham Nation had erected \"no trespassing\" signs in reaction to federal workers visiting the border sites to scope out construction. The reservation's shared border with Mexico extends roughly 62 miles. \"ANY construction related activities to the illegal and destructive border wall be warned, informed of trespass and escorted off the Nation's land by law enforcement,\" the tribe wrote on its Facebook page on Aug. 8. Judge Leon "
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Judge refuses to block Trump administration from building border wall along tribe's reservation",
-     "url": "https://abcnews.com/US/wireStory/judge-refuses-block-trump-administration-building-border-wall-135659058",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T21:53:26+00:00",
-     "summary": "A federal judge has refused to block the Trump administration from taking steps to build 62 miles of international border wall along part of a Native American tribe&rsquo;s reservation without its consent"
-    },
-    {
-     "outlet": "texastribune",
-     "title": "Lawsuit seeks to stop Big Bend border wall construction",
-     "url": "https://feeds.texastribune.org/link/16799/17418172/texas-big-bend-border-wall-lawsuit-lipan-apache",
-     "author": "Ayden Runnels and Gabby Birenbaum",
-     "kind": "news",
-     "published": "2026-08-14T14:20:18+00:00",
-     "summary": "A tribal nonprofit and an outdoor recreation company filed the federal lawsuit, arguing the work threatens archeological sites and sacred grounds."
-    }
-   ]
-  },
-  {
    "id": "3ec1bf5278",
    "topic": "World",
    "summary": "As Mexico\u2019s political elite are acting offended after the U.S. revoked the visa of the son of former Mexican President Andres Manuel Lopez Obrador (AMLO), a top diplomat from the U.S. Department of State took to social media to troll them, claiming that more controversy is in the works. The post U.S. State Department Trolls Mexico\u2019s Ruling Party&#8217;s Acting Offended After Visa Revocation of Former President\u2019s Son appeared first on Breitbart .",
@@ -2068,57 +1972,6 @@
      "kind": "news",
      "published": "2026-08-14T17:57:23+00:00",
      "summary": "Andr&eacute;s Manuel L&oacute;pez Beltr&aacute;n, son of former Mexican President Andr&eacute;s Manuel L&oacute;pez Obrador, says the United States has revoked his visa"
-    }
-   ]
-  },
-  {
-   "id": "acdb46edef",
-   "topic": "World",
-   "summary": "Editor&rsquo;s Note: Washington Week With The Atlantic is a partnership between NewsHour Productions, WETA, and The Atlantic airing every Friday on PBS stations nationwide. Check your local listings , watch full episodes here , or listen to the weekly podcast here . Secretary of Defense Pete Hegseth has said that the U.S. could maintain a blockade of Iran \u201cindefinitely.\u201d On Washington Week With The Atlantic , panelists joined to discuss the political consequences of the continued conflict, and more. The president has made \u201ca total miscalculation\u201d with Iran, Elisabeth Bumiller, a writer at large at The New York Times , argued last night. What has unfolded since the conflict began reflects \u201cthe reason that previous presidents did not do what Donald Trump did, because of the inevitable consequences\u201d of \u201cigniting a regional war in the Middle East and closing the Strait of Hormuz.\u201d Joining\u2026",
-   "summaryFrom": "theatlantic",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Short pants: The long and the short of it",
-   "updated": "2026-08-16T16:00:23+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 1,
-    "family": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Short pants: The long and the short of it",
-     "url": "https://www.cbsnews.com/news/short-pants-the-long-and-the-short-of-it/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T16:00:23+00:00",
-     "summary": "The summer of 1936 saw a heat wave so dangerous at least five thousand people died. It also saw the popularization of a cooler fashion alternative \u2013 shorts \u2013 which, in some jurisdictions, were illegal."
-    },
-    {
-     "outlet": "theatlantic",
-     "title": "Iran\u2019s Long Shadow",
-     "url": "https://www.theatlantic.com/national/2026/08/political-consequences-iran-washington-week/688302/?utm_source=feed",
-     "author": "The Editors",
-     "kind": "news",
-     "published": "2026-08-15T14:25:00+00:00",
-     "summary": "Editor&rsquo;s Note: Washington Week With The Atlantic is a partnership between NewsHour Productions, WETA, and The Atlantic airing every Friday on PBS stations nationwide. Check your local listings , watch full episodes here , or listen to the weekly podcast here . Secretary of Defense Pete Hegseth has said that the U.S. could maintain a blockade of Iran \u201cindefinitely.\u201d On Washington Week With The Atlantic , panelists joined to discuss the political consequences of the continued conflict, and more. The president has made \u201ca total miscalculation\u201d with Iran, Elisabeth Bumiller, a writer at large at The New York Times , argued last night. What has unfolded since the conflict began reflects \u201cthe reason that previous presidents did not do what Donald Trump did, because of the inevitable consequences\u201d of \u201cigniting a regional war in the Middle East and closing the Strait of Hormuz.\u201d Joining the editor in chief of The Atlantic , Jeffrey Goldberg, to discuss this and more: Bumiller; Adam Harris, the host of Radio Atlantic ; Dan Lamothe, a national-security reporter at The Washington Post ; Liz Landers, a White House correspondent at PBS News Hour . Watch the full episode here ."
-    },
-    {
-     "outlet": "semafor",
-     "title": "Leadership changes signal Iran expects a long war",
-     "url": "https://www.semafor.com/article/08/14/2026/amid-leadership-changes-iran-gears-up-for-a-long-war",
-     "author": "Prashant Rao",
-     "kind": "news",
-     "published": "2026-08-14T11:19:19+00:00",
-     "summary": "Iran\u2019s recent reshuffle, as well as its shifting battlefield tactics, suggest it is adapting for a lengthening conflict with the US. Tehran has reordered its leadership in part because of repeated assassinations of its top brass by American and Israeli strikes. But recent moves point to how Iran is \u201c preparing for a prolonged confrontation ,\u201d an expert wrote in Foreign Policy, noting that Iran was centralizing its military apparatus and increasing its focus on offensive operations. The use of a drone swarm against a US fighter jet, meanwhile, pointed to how \u201cIran has sought to learn and implement important lessons about the modern battlefield ,\u201d in particular from the Russia-Ukraine conflict, the Institute for the Study of War said. \u2014 Prashant Rao"
     }
    ]
   },
@@ -2327,53 +2180,85 @@
    ]
   },
   {
-   "id": "d3b357bdbe",
+   "id": "e6f0e6556f",
    "topic": "Politics",
-   "summary": "A bulldozer clears a pathway in Big Bend National Park, Texas, on August 12, 2026. | Kaylee Greenlee/Bloomberg via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: Remember President Donald Trump\u2019s first-term border wall? It\u2019s still being built \u2014 through a pristine Texas national park. What\u2019s happening? The Trump administration is preparing to build hundreds of miles of roads through Big Bend National Park in southwest Texas as part of its latest border security project, despite a bipartisan outcry over damage to the beloved park.&nbsp; Starting last week, bulldozers and heavy machinery began to clear land for the construction of about 200 miles of patrol road, new border barriers, and electronic\u2026",
-   "summaryFrom": "vox",
-   "emphasis": null,
+   "summary": "Dallas-Fort Worth International Airport has scrapped a proposal to add Islamic foot-washing stations to two Terminal D restrooms, backing off Friday night after Texas Governor Greg Abbott called the plan illegal and opened a review of every state grant flowing to the airport. &#8220;These ablution facilities appear designed to single out one subset of the population for special treatment based on religion. That is illegal,&#8221; Abbott wrote in a letter to Transportation Secretary Sean Duffy. &#8220;Both airports are government-owned facilities. The federal and state constitutions prohibit governments from facilitating this sort of discrimination. Just as the government cannot favor the secular over the sacred, it also cannot favor one religious view over all others.&#8221; In a separate letter to DFW CEO Christopher McLaughlin, Abbott warned that organizations found to have developed\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 3,
+    "big": [
+     "proposal",
+     "airport",
+     "review",
+     "stations",
+     "foot-washing",
+     "scraps"
+    ],
+    "indie": [
+     "order"
+    ]
+   },
    "absent": [
+    "corp",
     "coop",
-    "nonprofit",
     "pub"
    ],
-   "headline": "Why Trump is tearing up a beloved national park",
-   "updated": "2026-08-14T22:00:00+00:00",
+   "headline": "Greg Abbott threatens Dallas, Houston airports\u2019 grant funds over Islamic washing facilities",
+   "updated": "2026-08-15T09:00:45+00:00",
    "outletCount": 3,
    "counts": {
-    "corp": 2,
-    "family": 1
+    "family": 2,
+    "nonprofit": 3
    },
-   "newsCount": 2,
+   "newsCount": 4,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "vox",
-     "title": "Why Trump is tearing up a beloved national park",
-     "url": "https://www.vox.com/the-logoff-newsletter-trump/499508/trump-big-bend-national-park-border-wall-security-construction",
-     "author": "Cameron Peters",
-     "kind": "news",
-     "published": "2026-08-14T22:00:00+00:00",
-     "summary": "A bulldozer clears a pathway in Big Bend National Park, Texas, on August 12, 2026. | Kaylee Greenlee/Bloomberg via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: Remember President Donald Trump\u2019s first-term border wall? It\u2019s still being built \u2014 through a pristine Texas national park. What\u2019s happening? The Trump administration is preparing to build hundreds of miles of roads through Big Bend National Park in southwest Texas as part of its latest border security project, despite a bipartisan outcry over damage to the beloved park.&nbsp; Starting last week, bulldozers and heavy machinery began to clear land for the construction of about 200 miles of patrol road, new border barriers, and electronic surveillance measures to cover the park\u2019s 118 miles of shared border with Mexico. The construction is proceeding after the administration overrode environmental laws intended to protect places like Big Bend earlier this year. What does a border wall look like in 2026? In this case, \u201cwall\u201d is a bit of a misnome"
-    },
-    {
      "outlet": "dailywire",
-     "title": "Trump Turns Beloved Rubio Meme Into Birthday Gift",
-     "url": "https://www.dailywire.com/news/trump-turns-beloved-rubio-meme-into-birthday-gift",
-     "author": "Virginia Kruta",
+     "title": "DFW Airport Scraps Islamic Foot-Washing Stations After Governor Threatens Its Funding",
+     "url": "https://www.dailywire.com/news/dfw-airport-scraps-islamic-foot-washing-stations-after-governor-threatens-its-funding",
+     "author": "Brecca Stoll",
      "kind": "opinion",
-     "published": "2026-08-14T19:47:25+00:00",
-     "summary": "President Donald Trump turned a long-running joke into a birthday gift for Secretary of State Marco Rubio, who turned 55 on May 28. Trump has already tasked Rubio with several official jobs within the administration \u2014 which spawned constant speculation whenever a new vacancy appeared \u2014 and a viral meme was born. An Oval Office photo of Rubio slouched on a couch \u2014 wearing an expression that suggests he&#8217;s not thrilled with the way things are going \u2014 became the template for hundreds of potential new jobs for the Secretary of State/Acting National Security Adviser/acting administrator for the U.S. Agency for International Development (USAID)/acting archivist of the National Archives and Records Administration. Trump and other White House staffers capitalized on the popularity of the meme, and put together a collage \u2014 featuring dozens of iterations of the &#8220;Rubio realizing&#8221; meme. The finished product was framed in gold and presented to Rubio for his birthday. The White House made a Rubio Realizing Meme collage for his birthday (May 28), which the president &amp; others signed https://t.co/5oVDfTFaed pic.twitter.com/S2KsnRta3S \u2014 Marc Caputo (@MarcACaputo) August 13, 2026"
+     "published": "2026-08-15T09:00:45+00:00",
+     "summary": "Dallas-Fort Worth International Airport has scrapped a proposal to add Islamic foot-washing stations to two Terminal D restrooms, backing off Friday night after Texas Governor Greg Abbott called the plan illegal and opened a review of every state grant flowing to the airport. &#8220;These ablution facilities appear designed to single out one subset of the population for special treatment based on religion. That is illegal,&#8221; Abbott wrote in a letter to Transportation Secretary Sean Duffy. &#8220;Both airports are government-owned facilities. The federal and state constitutions prohibit governments from facilitating this sort of discrimination. Just as the government cannot favor the secular over the sacred, it also cannot favor one religious view over all others.&#8221; In a separate letter to DFW CEO Christopher McLaughlin, Abbott warned that organizations found to have developed or operated what he called exclusionary religious spaces could lose state grant funding and face further enforcement. Abbott referred both DFW and Houston&#8217;s George Bush Intercontinental Airport (IAH) to the U.S. Department of Transportation for investigation and enforcement, asking the departme"
     },
     {
-     "outlet": "axios",
-     "title": "\"Rubio Realizing\" memes become a White House birthday gift",
-     "url": "https://www.axios.com/2026/08/13/marco-rubio-memes-birthday-gift",
-     "author": "Marc Caputo",
+     "outlet": "foxnews",
+     "title": "DFW Airport scraps controversial Islamic foot-washing station plan as Texas Gov Abbott takes aim",
+     "url": "https://www.foxnews.com/politics/dfw-airport-scraps-controversial-islamic-footwashing-station-plan-texas-gov-abbott-takes-aim",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-13T22:51:21+00:00",
-     "summary": "Photo: Marc Caputo/Axios Marco Rubio has three official Trump administration jobs and a fourth unofficial title: Viral meme star. He's been featured in countless \"Rubio Realizing\" images doctored to capture his grim reaction to being \"assigned\" more jobs, depending on the news of the day or the crisis du jour in the White House. Why it matters: For his 55th birthday on May 28, White House staffers and President Trump gifted Rubio with a gold-framed collage of their 68 favorite \"Rubio Realizing\" memes. A photo of the gift went viral Wednesday when this Axios reporter posted it on X. Zoom in: For the past 18 months, Rubio memes have featured him as everything from a Kiss band member to a samurai to a \"Bachelorette\" contestant in homage to his roles as secretary of state, national security adviser and chair of the U.S. bid for the World Expo in 2035. The memes are based on a photo from one of the most awkward moments in the Trump White House \u2014 on Feb. 28, 2025, when the president and Vice President Vance excoriated Ukrainian President Volodymyr Zelensky over the war with Russia. As the two U.S. leaders savaged Zelensky, Rubio sat ramrod straight on an Oval Office couch without engagin"
+     "published": "2026-08-15T00:54:03+00:00",
+     "summary": "FIRST ON FOX: Texas Gov. Greg Abbott on Friday directed a review of state grants to entities operating two major Texas airports over religious accommodations after Dallas Fort Worth International Airport said it would no longer move forward with a proposal to install Islamic washing stations. Abbott said the state will review grants to entities operating DFW and George Bush Intercontinental Airport in Houston for possible revocation and denial of future funding. He also referred both airports to the U.S. Department of Transportation for investigation. \"Government-owned airports cannot favor one religion over all others,\" Abbott wrote on X Friday. \"DFW plans to install Islamic wudu washing facilities are illegal. I've directed a review of all state grants to both airports for possible revocation, and referred DFW &amp; IAH to USDOT for investigation. \"Texas will not allow illegal religious discrimination at taxpayer-funded facilities.\" DALLAS-FORT WORTH AIRPORT TO INSTALL ISLAMIC FOOT WASH STATIONS INSIDE BATHROOMS DFW told Fox News Digital Friday it had been evaluating a proposal to add ablution washing stations on the pre-security side of Terminal D, its international terminal, bu"
+    },
+    {
+     "outlet": "texastribune",
+     "title": "Greg Abbott threatens Dallas, Houston airports\u2019 grant funds over Islamic washing facilities",
+     "url": "https://feeds.texastribune.org/link/16799/17418678/texas-greg-abbott-dfw-iah-airport-islam-ablution-facility-grant",
+     "author": "Ayden Runnels",
+     "kind": "news",
+     "published": "2026-08-15T00:45:20+00:00",
+     "summary": "DFW said late Friday that plans to install the religious washing station had been canceled."
+    },
+    {
+     "outlet": "texastribune",
+     "title": "Texas will audit up to 300 projects, mostly data centers, after Gov. Greg Abbott\u2019s order",
+     "url": "https://feeds.texastribune.org/link/16799/17418589/texas-data-center-approval-pause-ercot-power-grid",
+     "author": "Paul Cobler",
+     "kind": "news",
+     "published": "2026-08-14T22:03:09+00:00",
+     "summary": "The state\u2019s power grid operator had already planned on auditing several data center proposals, but Abbott\u2019s directive reworks the timeline and adds new requirements."
+    },
+    {
+     "outlet": "texastribune",
+     "title": "Limits on certain firearms, silencers lifted for some in Texas after judge\u2019s order takes effect",
+     "url": "https://feeds.texastribune.org/link/16799/17417632/texas-national-firearms-act-ruling-doj-no-emergency-appeal",
+     "author": "Alex Nguyen",
+     "kind": "news",
+     "published": "2026-08-13T23:36:55+00:00",
+     "summary": "The Trump administration declined to immediately appeal a ruling by a federal judge in Lubbock that invalidated parts of the 1934 National Firearms Act."
     }
    ]
   },
@@ -2480,6 +2365,132 @@
    ]
   },
   {
+   "id": "fc5a3ab037",
+   "topic": "Other",
+   "summary": "As families look for ways to keep dinner costs down, warehouse clubs are competing for shoppers with prepared meals that offer an alternative to cooking from scratch or spending money on takeout. Among the prepared meal options is Sam's Club's Member's Mark Chicken Shawarma Kit, a 37-ounce meal listed for just under $16 on the retailer's website. The offering is part of a broader push by the warehouse club to give members more convenient options for putting dinner on the table, a Sam's Club spokesperson said in a statement to Fox News Digital. WEALTHY AMERICANS CHOOSE ONE GROCERY STORE CHAIN OVER RIVALS, SURVEY FINDS \"Our members consistently tell us they want convenient, high-quality meal solutions at an incredible value,\" the statement said. \"From the Member's Mark Chicken Shawarma Kit to dinner staples like our top-rated Member's Mark Seasoned Rotisserie Chicken, we're taking the\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Sam\u2019s Club meal kit feeds a family for under $16 as shoppers seek affordable dinners",
+   "updated": "2026-08-16T23:25:24+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Sam\u2019s Club meal kit feeds a family for under $16 as shoppers seek affordable dinners",
+     "url": "https://nypost.com/2026/08/16/business/sams-club-meal-kit-feeds-family-for-under-16/",
+     "author": "Fox News",
+     "kind": "news",
+     "published": "2026-08-16T23:25:24+00:00",
+     "summary": "The offering is part of a broader push by the warehouse club to give members more convenient options for putting dinner on the table."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Sam's Club meal kit feeds a family for under $16 as shoppers seek affordable dinners",
+     "url": "https://www.foxnews.com/food-drink/sams-club-meal-kit-feeds-family-under-16-shoppers-seek-affordable-dinners",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T16:45:34+00:00",
+     "summary": "As families look for ways to keep dinner costs down, warehouse clubs are competing for shoppers with prepared meals that offer an alternative to cooking from scratch or spending money on takeout. Among the prepared meal options is Sam's Club's Member's Mark Chicken Shawarma Kit, a 37-ounce meal listed for just under $16 on the retailer's website. The offering is part of a broader push by the warehouse club to give members more convenient options for putting dinner on the table, a Sam's Club spokesperson said in a statement to Fox News Digital. WEALTHY AMERICANS CHOOSE ONE GROCERY STORE CHAIN OVER RIVALS, SURVEY FINDS \"Our members consistently tell us they want convenient, high-quality meal solutions at an incredible value,\" the statement said. \"From the Member's Mark Chicken Shawarma Kit to dinner staples like our top-rated Member's Mark Seasoned Rotisserie Chicken, we're taking the guesswork out of mealtime with options our members can feel good about serving,\" the statement added. The shawarma kit comes with six pitas, fully cooked chicken shawarma, Mediterranean-style bruschetta, feta cheese, creamy garlic sauce and spicy tahini sauce, according to the Sam's Club website. For wa"
+    }
+   ]
+  },
+  {
+   "id": "b0ae1daabe",
+   "topic": "World",
+   "summary": "The Iranian military announced on Sunday it would be offering a $30,000 reward for killing or capturing US soldiers, with the bounty doubled if conducted by a woman. There have been no known deployments of US ground troops in Iran during the war except for a rescue mission carried out in April.",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Iran offers $30,000 bounty for killing or capturing US soldiers",
+   "updated": "2026-08-16T22:51:20+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Iran offering $30,000 bounty for the slaughter and capture of US soldiers, army chief says",
+     "url": "https://nypost.com/2026/08/16/world-news/iran-offering-30000-for-the-slaughter-and-capture-of-us-soldiers-army-chief-says/",
+     "author": "Ronny Reyes",
+     "kind": "news",
+     "published": "2026-08-16T22:51:20+00:00",
+     "summary": "\"Anyone who kills or captures and hands over an invading American military personnel will receive a reward equivalent to $30,000 or 5 billion tomans from the Islamic Republic of Iran\u2019s Army,\u201d he said."
+    },
+    {
+     "outlet": "france24",
+     "title": "Iran offers $30,000 bounty for killing or capturing US soldiers",
+     "url": "https://www.france24.com/en/middle-east/20260816-iran-offers-30-000-bounty-for-killing-or-capturing-us-soldiers",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-16T15:40:26+00:00",
+     "summary": "The Iranian military announced on Sunday it would be offering a $30,000 reward for killing or capturing US soldiers, with the bounty doubled if conducted by a woman. There have been no known deployments of US ground troops in Iran during the war except for a rescue mission carried out in April."
+    }
+   ]
+  },
+  {
+   "id": "2cbbacd0cf",
+   "topic": "Other",
+   "summary": "Tommy John, the former MLB pitcher whose elbow surgery set the standard in baseball and helped lengthen the careers of countless players, has died. He was 83. Mike Maguire, his agent, announced John\u2019s death in a statement. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! \"Thomas Edward \u2018Tommy\u2019 John Jr. passed away peacefully at his home in Lakewood Ranch last night surrounded by his loving wife, Cheryl, and his sister-in-laws Judith Florentino and Karen Jordan,\" the statement read. \"A private celebration of life will be held in Florida.\" John\u2019s death comes about a week after he released a farewell message to fans on New York Yankees\u2019 Old-Timers\u2019 Day . He said in his message he was \"saying goodbye\" as the team revealed he had been battling health issues. \"I want to thank the Yankees organization &amp; the Steinbrenner family for giving me this opportunity to\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Yankees Release Statement Mourning the Death of Tommy John",
+   "updated": "2026-08-16T22:48:30+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "Yankees Release Statement Mourning the Death of Tommy John",
+     "url": "https://www.newsweek.com/sports/mlb/yankees-release-statement-mourning-the-death-of-tommy-john-12329272",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T22:48:30+00:00",
+     "summary": "The New York Yankees released a statement on social media mourning the loss of three-time All-Star pitcher Tommy John."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Famed ex-Yankees pitcher Tommy John dead at 83 after sending farewell message to fans",
+     "url": "https://www.foxnews.com/sports/famed-ex-yankees-pitcher-tommy-john-dead-83-farewell-message-fans",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T17:17:40+00:00",
+     "summary": "Tommy John, the former MLB pitcher whose elbow surgery set the standard in baseball and helped lengthen the careers of countless players, has died. He was 83. Mike Maguire, his agent, announced John\u2019s death in a statement. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! \"Thomas Edward \u2018Tommy\u2019 John Jr. passed away peacefully at his home in Lakewood Ranch last night surrounded by his loving wife, Cheryl, and his sister-in-laws Judith Florentino and Karen Jordan,\" the statement read. \"A private celebration of life will be held in Florida.\" John\u2019s death comes about a week after he released a farewell message to fans on New York Yankees\u2019 Old-Timers\u2019 Day . He said in his message he was \"saying goodbye\" as the team revealed he had been battling health issues. \"I want to thank the Yankees organization &amp; the Steinbrenner family for giving me this opportunity to say goodbye to everyone, along with all the friends &amp; fans who followed me throughout my 26-year career,\" John\u2019s message read. \"Thanks to Dr. Jobe, who saved my arm &amp; made it possible for me to continue pitching. That surgery has since gone on to save the careers of countless pitchers, includi"
+    }
+   ]
+  },
+  {
    "id": "fc976916b8",
    "topic": "World",
    "summary": "ESPN host and political commentator Stephen A. Smith vowed Sunday to confront the National Association of Black Journalists (NABJ) after it gave him a \"Thumbs Down\" award at the group's Saturday night gala in Atlanta because of what it characterized as his repeated disparagement of prominent Black women. Smith framed the award as the beginning of a broader dispute with the organization. \"This is the epitome of Christmas arriving early. The @NABJ wants to call folks out, fine! You had your turn, now mine is coming. And make no mistake\u2026..,I\u2019m coming,\" Smith said in a post on X . WILL CAIN CHALLENGES STEPHEN A SMITH ON 'RACIST' CLAIM ABOUT 'WHITE DUDES' IN THE NBA Smith also indicated that he planned to scrutinize NABJ's own record after remaining silent about the organization for years. \"Remember @NABJ, you asked for it. I\u2019ve shut my mouth for years. Now y\u2019all started something,\" Smith\u2026",
@@ -2518,48 +2529,6 @@
      "kind": "opinion",
      "published": "2026-08-16T18:18:03+00:00",
      "summary": "ESPN host and political commentator Stephen A. Smith vowed Sunday to confront the National Association of Black Journalists (NABJ) after it gave him a \"Thumbs Down\" award at the group's Saturday night gala in Atlanta because of what it characterized as his repeated disparagement of prominent Black women. Smith framed the award as the beginning of a broader dispute with the organization. \"This is the epitome of Christmas arriving early. The @NABJ wants to call folks out, fine! You had your turn, now mine is coming. And make no mistake\u2026..,I\u2019m coming,\" Smith said in a post on X . WILL CAIN CHALLENGES STEPHEN A SMITH ON 'RACIST' CLAIM ABOUT 'WHITE DUDES' IN THE NBA Smith also indicated that he planned to scrutinize NABJ's own record after remaining silent about the organization for years. \"Remember @NABJ, you asked for it. I\u2019ve shut my mouth for years. Now y\u2019all started something,\" Smith said. The NABJ announced the decision during its Salute to Excellence Awards Gala at the organization's annual convention. A video of the presentation was shared by Washington Association of Black Journalists President Phil Lewis. Lewis also said that the NABJ presented the disparaging award to FCC Cha"
-    }
-   ]
-  },
-  {
-   "id": "6e81c1d6a5",
-   "topic": "Other",
-   "summary": "Australian swimmer Lani Pallister ended Katie Ledecky&#039;s 800-meter winning streak at the Pan Pacific Championships.",
-   "summaryFrom": "newsweek",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Katie Ledecky Takes First International 800-Meter Loss in 14 Years",
-   "updated": "2026-08-16T22:11:32+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "Katie Ledecky Takes First International 800-Meter Loss in 14 Years",
-     "url": "https://www.newsweek.com/sports/katie-ledecky-takes-first-international-800-meter-loss-in-14-years-12329119",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T22:11:32+00:00",
-     "summary": "Australian swimmer Lani Pallister ended Katie Ledecky&#039;s 800-meter winning streak at the Pan Pacific Championships."
-    },
-    {
-     "outlet": "nypost",
-     "title": "Katie Ledecky handed first international 800m freestyle loss in stunner",
-     "url": "https://nypost.com/2026/08/16/sports/katie-ledecky-handed-first-international-800m-freestyle-loss-in-stunner/",
-     "author": "Ethan Sears",
-     "kind": "news",
-     "published": "2026-08-16T21:44:14+00:00",
-     "summary": "Katie Ledecky's long reign as the world's best 800-meter freestyle swimmer is, at least temporarily, over."
     }
    ]
   },
@@ -2608,8 +2577,8 @@
   {
    "id": "a067b9f7bb",
    "topic": "Politics",
-   "summary": "As Democrats debate the future of the party amid primaries this summer, CBS News executive director of elections and surveys Anthony Salvanto joins \"Face the Nation with Margaret Brennan\" to discuss whether Democrats are split on socialism -- and how Americans see political parties in today's economy.",
-   "summaryFrom": "cbsnews",
+   "summary": "More than half of Democrats hold a more positive view of socialism as opposed to capitalism, according to a recent CBS News/YouGov poll. The post Poll: 58 Percent of Democrats Hold Positive View of Socialism over Capitalism appeared first on Breitbart .",
+   "summaryFrom": "breitbart",
    "emphasis": null,
    "absent": [
     "coop",
@@ -2623,8 +2592,8 @@
     "family": 1,
     "corp": 1
    },
-   "newsCount": 2,
-   "opinionCount": 0,
+   "newsCount": 1,
+   "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
@@ -2638,12 +2607,12 @@
     },
     {
      "outlet": "cbsnews",
-     "title": "CBS News poll looks at whether Democrats are split over socialism",
-     "url": "https://www.cbsnews.com/video/cbs-news-poll-looks-at-whether-democrats-are-split-over-socialism/",
+     "title": "CBS News poll on whether Democrats split over socialism",
+     "url": "https://www.cbsnews.com/news/democrats-socialism-economy-political-parties-opinion-poll/",
      "author": null,
-     "kind": "news",
-     "published": "2026-08-16T16:16:41+00:00",
-     "summary": "As Democrats debate the future of the party amid primaries this summer, CBS News executive director of elections and surveys Anthony Salvanto joins \"Face the Nation with Margaret Brennan\" to discuss whether Democrats are split on socialism -- and how Americans see political parties in today's economy."
+     "kind": "opinion",
+     "published": "2026-08-16T13:00:16+00:00",
+     "summary": "Americans think more young people in office would make politics better."
     }
    ]
   },
@@ -2686,90 +2655,6 @@
      "kind": "news",
      "published": "2026-08-16T20:01:51+00:00",
      "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park."
-    }
-   ]
-  },
-  {
-   "id": "9dfee466e2",
-   "topic": "Other",
-   "summary": "A Berkeley mathematics professor is sounding the alarm that many students are woefully unprepared when they arrive at college because the University of California system's progressive \"test-blind\" policies have proven disastrous. \"Three days a week, I stand in front of lecture halls with 500 to 1,400 students. By the second week of the semester, I already know who is in trouble,\" professor Zvezdelina Stankova wrote in a San Francisco Standard op-ed published Saturday . \"Some students are five to eight years behind in mathematics. Office hours that should be spent discussing integrals instead become lessons on fractions and basic algebra you would expect students to learn in middle school,\" he said. Stankova and thousands of faculty members across the 10 UC campuses have signed open letters urging the university system to reinstate the SAT and ACT in admissions. Former UC president Janet\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "UC-Berkeley math prof says she has to teach fractions to calculus students because standards have fallen so far",
-   "updated": "2026-08-16T21:24:53+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "UC-Berkeley math prof says she has to teach fractions to calculus students because standards have fallen so far",
-     "url": "https://nypost.com/2026/08/16/us-news/uc-berkeley-math-prof-forced-to-teach-fractions-because-standards-have-fallen-so-far/",
-     "author": "Anthony Blair",
-     "kind": "news",
-     "published": "2026-08-16T21:24:53+00:00",
-     "summary": "In a scathing piece, she described the admissions process as \"less like careful evaluation and more like chance\" at the prestigious California college."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Berkeley math professor sounds alarm on liberal 'test-blind' policies, warns many students badly behind",
-     "url": "https://www.foxnews.com/media/berkeley-math-professor-sounds-alarm-liberal-test-blind-policies-warns-many-students-badly-behind",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T19:00:08+00:00",
-     "summary": "A Berkeley mathematics professor is sounding the alarm that many students are woefully unprepared when they arrive at college because the University of California system's progressive \"test-blind\" policies have proven disastrous. \"Three days a week, I stand in front of lecture halls with 500 to 1,400 students. By the second week of the semester, I already know who is in trouble,\" professor Zvezdelina Stankova wrote in a San Francisco Standard op-ed published Saturday . \"Some students are five to eight years behind in mathematics. Office hours that should be spent discussing integrals instead become lessons on fractions and basic algebra you would expect students to learn in middle school,\" he said. Stankova and thousands of faculty members across the 10 UC campuses have signed open letters urging the university system to reinstate the SAT and ACT in admissions. Former UC president Janet Napolitano, who also served in the Obama administration, led the way in 2020 to phase out the standardized testing, in part out of \"equity\" concerns . \"Since then, admissions officers have been forbidden from considering the one standardized measure that provided a common academic benchmark across C"
-    }
-   ]
-  },
-  {
-   "id": "4e91c17727",
-   "topic": "Other",
-   "summary": "The Los Angeles Rams worked out Aaron Donald for the second time this summer. On Sunday, Donald was listed as a player who &#8220;tried out&#8221; for the team, according to the NFL&#8217;s transaction wire. The three-time Defensive Player of the Year first auditioned for the team he previously spent 10 seasons with earlier this month...",
-   "summaryFrom": "nypost",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Aaron Donald officially works out for Rams \u2014 again, Sean McVay shares \u2018behind the scenes\u2019",
-   "updated": "2026-08-16T21:24:37+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Aaron Donald officially works out for Rams \u2014 again, Sean McVay shares \u2018behind the scenes\u2019",
-     "url": "https://nypost.com/2026/08/16/sports/aaron-donald-works-out-rams-again-sean-mcvay-behind-scenes/",
-     "author": "Valentina Martinez",
-     "kind": "news",
-     "published": "2026-08-16T21:24:37+00:00",
-     "summary": "The Los Angeles Rams worked out Aaron Donald for the second time this summer. On Sunday, Donald was listed as a player who &#8220;tried out&#8221; for the team, according to the NFL&#8217;s transaction wire. The three-time Defensive Player of the Year first auditioned for the team he previously spent 10 seasons with earlier this month..."
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Rams&#039; Sean McVay Reacts to Ty Simpson&#039;s Preseason Debut",
-     "url": "https://www.newsweek.com/sports/nfl/rams-sean-mcvay-reacts-to-ty-simpsons-preseason-debut-12329092",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T21:20:24+00:00",
-     "summary": "Los Angeles Rams quarterback Ty Simpson made his NFL preseason debut in the Rams&#039; 20-12 victory over the Kansas City Chiefs."
     }
    ]
   },
@@ -2818,7 +2703,7 @@
   {
    "id": "15b77418c8",
    "topic": "Other",
-   "summary": "Kentucky Gov. Andy Beshear (D) on Sunday said he has \"heard absolutely nothing back from\" Sen. Mitch McConnell (R-Ky.) after requesting updates on his health following his weekslong hospitalization. Beshear, a potential 2028 Democratic presidential contender, made the admission in an interview with CBS News's \"Face the Nation\" with fill-in host Ed O'Keefe, adding that...",
+   "summary": "Kentucky Gov. Andy Beshear (D) on Sunday said he has \"heard absolutely nothing back from\" Sen. Mitch McConnell (R-Ky.) after requesting updates on his health following the GOP senator's weeks-long hospitalization. Beshear, a potential 2028 Democratic presidential contender, made the admission during his Sunday appearance on CBS News's \"Face the Nation.\" The Kentucky governor added...",
    "summaryFrom": "thehill",
    "emphasis": null,
    "absent": [
@@ -2844,7 +2729,7 @@
      "author": "Ryan Mancini",
      "kind": "news",
      "published": "2026-08-16T21:15:05+00:00",
-     "summary": "Kentucky Gov. Andy Beshear (D) on Sunday said he has \"heard absolutely nothing back from\" Sen. Mitch McConnell (R-Ky.) after requesting updates on his health following his weekslong hospitalization. Beshear, a potential 2028 Democratic presidential contender, made the admission in an interview with CBS News's \"Face the Nation\" with fill-in host Ed O'Keefe, adding that..."
+     "summary": "Kentucky Gov. Andy Beshear (D) on Sunday said he has \"heard absolutely nothing back from\" Sen. Mitch McConnell (R-Ky.) after requesting updates on his health following the GOP senator's weeks-long hospitalization. Beshear, a potential 2028 Democratic presidential contender, made the admission during his Sunday appearance on CBS News's \"Face the Nation.\" The Kentucky governor added..."
     },
     {
      "outlet": "cbsnews",
@@ -2854,48 +2739,6 @@
      "kind": "news",
      "published": "2026-08-16T18:03:16+00:00",
      "summary": "Kentucky Gov. Andy Beshear said he hasn't heard back from Sen. Mitch McConnell following formal requests for an update on his health last month amid a weekslong hospitalization."
-    }
-   ]
-  },
-  {
-   "id": "4b04ce6b38",
-   "topic": "Culture & Sport",
-   "summary": "The Volta a Portugal stage race resumed on Saturday, one day after the stage was cancelled due to the tragic mid-race death of Finlay Tarling, but with changes. The most notable is Tarling&apos;s NSN Development team has withdrawn from the race, and organizers also cancelled all non-race activities like the advertising caravan. Tarling, who was 19 years old and the younger brother of Netcompany-Ineos pro Josh Tarling, died Friday in a head-on collision when a driver of a non-race vehicle somehow entered the course. Tarling was reportedly behind the peloton at the time of the crash but still within the rolling race enclosure. The crash is under investigation by Portugal&apos;s national police. The NSN Development team&apos;s parent WorldTeam continued to race in both the Czech Tour and Tour of Norway &#x2013;&#xa0;&quot;with the full support of Fin&apos;s parents,&quot; the team wrote on\u2026",
-   "summaryFrom": "escapecollective",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Cyclist\u2019s parents share heartbreaking tribute following death from Volta a Portugal crash",
-   "updated": "2026-08-16T21:09:48+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "coop": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Cyclist\u2019s parents share heartbreaking tribute following death from Volta a Portugal crash",
-     "url": "https://nypost.com/2026/08/16/sports/cyclists-parents-share-heartbreaking-tribute-following-death-from-volta-a-portugal-crash/",
-     "author": "Ethan Sears",
-     "kind": "news",
-     "published": "2026-08-16T21:09:48+00:00",
-     "summary": "Michael and Dawn Tarling, whose son Finlay died at 19 after being hit by a car during the Volta a Portugal cycling race earlier this week, shared a tribute post on Instagram Sunday."
-    },
-    {
-     "outlet": "escapecollective",
-     "title": "Volta a Portugal continues after Tarling's death, without NSN team",
-     "url": "https://escapecollective.com/volta-a-portugal-continues-after-tarlings-death-without-nsn-team/",
-     "author": "Joe Lindsey",
-     "kind": "news",
-     "published": "2026-08-15T15:20:13+00:00",
-     "summary": "The Volta a Portugal stage race resumed on Saturday, one day after the stage was cancelled due to the tragic mid-race death of Finlay Tarling, but with changes. The most notable is Tarling&apos;s NSN Development team has withdrawn from the race, and organizers also cancelled all non-race activities like the advertising caravan. Tarling, who was 19 years old and the younger brother of Netcompany-Ineos pro Josh Tarling, died Friday in a head-on collision when a driver of a non-race vehicle somehow entered the course. Tarling was reportedly behind the peloton at the time of the crash but still within the rolling race enclosure. The crash is under investigation by Portugal&apos;s national police. The NSN Development team&apos;s parent WorldTeam continued to race in both the Czech Tour and Tour of Norway &#x2013;&#xa0;&quot;with the full support of Fin&apos;s parents,&quot; the team wrote on Instagram &#x2013;&#xa0;but the Development team withdrew from Portugal. A moment of silence was held at all three races."
     }
    ]
   },
@@ -2938,48 +2781,6 @@
      "kind": "news",
      "published": "2026-08-16T18:44:41+00:00",
      "summary": "President, 80, vows to keep far-right from power as Fl\u00e1vio Bolsonaro tells supporters he will \u2018fight this system\u2019 Brazil\u2019s leftwing president, Luiz In\u00e1cio Lula da Silva, has launched his campaign for a historic fourth term and vowed that as long as he lived he would not allow the \u201cshameless\u201d right to return to power. Addressing a sea of supporters in S\u00e3o Bernardo do Campo, the industrial city where his political career began nearly half a century ago, the 80-year-old politician reminded voters of the chaos and violence that unfolded during the 2018-22 presidency of his far-right predecessor, Jair Bolsonaro , whose son Fl\u00e1vio Bolsonaro will face Lula in October\u2019s presidential election . Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "9082cc01bf",
-   "topic": "Politics",
-   "summary": "About 5,000 sailors and Marines are aboard the carrier, which has operated for more than 200 consecutive days without a port call.",
-   "summaryFrom": "newsweek",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "After Trump Says Carrier Deployment Not Long Enough, Mullen Warns of Risks",
-   "updated": "2026-08-16T20:33:29+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "After Trump Says Carrier Deployment Not Long Enough, Mullen Warns of Risks",
-     "url": "https://www.newsweek.com/after-trump-says-carrier-deployment-not-long-enough-mullen-warns-of-risks-12329235",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T20:33:29+00:00",
-     "summary": "About 5,000 sailors and Marines are aboard the carrier, which has operated for more than 200 consecutive days without a port call."
-    },
-    {
-     "outlet": "slate",
-     "title": "Trump on Long-Suffering Sailors: \u201cNot Nearly Long Enough\u201d",
-     "url": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html?via=rss",
-     "author": "Ian Prasad Philbrick",
-     "kind": "news",
-     "published": "2026-08-14T21:09:49+00:00",
-     "summary": "Sailors are suffering. Trump and his team are denying it."
     }
    ]
   },
@@ -3320,51 +3121,9 @@
    ]
   },
   {
-   "id": "1e55ecca8b",
-   "topic": "Business & Economy",
-   "summary": "The road to the Little League World Series is supposed to be a celebration of youth baseball. Instead, one state\u2019s path to Williamsport this year has descended into a scandal involving an ineligible player, disputed tournament administration, improper fees, missing eligibility paperwork, and demands for the removal of state and regional Little League officials. The controversy centers on Tulsa National Little League, which was disqualified from the Southwest Region Tournament on Monday while representing Oklahoma after Little League International determined that one of its players was ineligible. A Texas judge briefly allowed the team to continue competing before vacating the order Tuesday, clearing the way for the tournament to proceed without the team from Oklahoma. According to documents obtained by Sports Illustrated , Tulsa National&#8217;s eligibility problems were not confined to\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "ESPN Castoff, Little League World Series Icon Offers \u2018Surreal\u2019 Update After Sudden Layoffs",
-   "updated": "2026-08-16T18:11:35+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "forbes",
-     "title": "ESPN Castoff, Little League World Series Icon Offers \u2018Surreal\u2019 Update After Sudden Layoffs",
-     "url": "https://www.forbes.com/sites/peterchawaga/2026/08/16/espn-castoff-little-league-world-series-icon-offers-surreal-update-after-sudden-layoffs/",
-     "author": "Peter Chawaga, Contributor",
-     "kind": "news",
-     "published": "2026-08-16T18:11:35+00:00",
-     "summary": "ESPN icon Karl Ravech broke his silence about a high-profile termination from ESPN, offering a Little League World Series update."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "An Illegal Player And A Sham Tournament: Scandal Rocks The Little League World Series",
-     "url": "https://www.dailywire.com/news/an-illegal-player-and-a-sham-tournament-scandal-rocks-the-little-league-world-series",
-     "author": "Drew Berkemeyer",
-     "kind": "opinion",
-     "published": "2026-08-15T07:45:30+00:00",
-     "summary": "The road to the Little League World Series is supposed to be a celebration of youth baseball. Instead, one state\u2019s path to Williamsport this year has descended into a scandal involving an ineligible player, disputed tournament administration, improper fees, missing eligibility paperwork, and demands for the removal of state and regional Little League officials. The controversy centers on Tulsa National Little League, which was disqualified from the Southwest Region Tournament on Monday while representing Oklahoma after Little League International determined that one of its players was ineligible. A Texas judge briefly allowed the team to continue competing before vacating the order Tuesday, clearing the way for the tournament to proceed without the team from Oklahoma. According to documents obtained by Sports Illustrated , Tulsa National&#8217;s eligibility problems were not confined to one player or the Southwest Region Tournament. The evidence suggests that Oklahoma&#8217;s entire state tournament may have been improperly administered, with two of the three participating teams allegedly ineligible to compete for the state&#8217;s berth in the international tournament. Tulsa Natio"
-    }
-   ]
-  },
-  {
-   "id": "68ec6f1dd8",
+   "id": "b3f2c186ff",
    "topic": "Other",
-   "summary": "Sunday on CBS&#8217;s &#8220;Face the Nation,&#8221; Pennsylvania state Rep. Chris Rabb (D) said the United States is &#8220;not a purely capitalistic society.&#8221; Partial transcript as follows: ED O&#8217;KEEFE: Part of the reason why we wanted to have someone like you here, The post Democratic Socialist Candidate Rabb: U.S. &#8216;Is Not a Purely Capitalistic Society&#8217; appeared first on Breitbart .",
+   "summary": "Sunday on CBS&#8217;s &#8220;Face The Nation,&#8221; Gov. Andy Beshear (D-KY) said &#8220;it\u2019s time&#8221; to abolish the Electoral College to have direct election of the president and vice president. Partial transcript as follows: ED O&#8217;KEEFE: Well, what I&#8217;m curious about is what- The post Gov. Beshear: &#8216;It\u2019s Time&#8217; to Abolish the Electoral College appeared first on Breitbart .",
    "summaryFrom": "breitbart",
    "emphasis": null,
    "absent": [
@@ -3372,8 +3131,8 @@
     "nonprofit",
     "pub"
    ],
-   "headline": "Democratic Socialist Candidate Rabb: U.S. 'Is Not a Purely Capitalistic Society'",
-   "updated": "2026-08-16T17:25:04+00:00",
+   "headline": "Gov. Beshear: 'It\u2019s Time' to Abolish the Electoral College",
+   "updated": "2026-08-16T17:53:34+00:00",
    "outletCount": 2,
    "counts": {
     "family": 1,
@@ -3385,21 +3144,21 @@
    "articles": [
     {
      "outlet": "breitbart",
-     "title": "Democratic Socialist Candidate Rabb: U.S. 'Is Not a Purely Capitalistic Society'",
-     "url": "https://www.breitbart.com/clips/2026/08/16/democratic-socialist-candidate-rabb-u-s-is-not-a-purely-capitalistic-society/",
+     "title": "Gov. Beshear: 'It\u2019s Time' to Abolish the Electoral College",
+     "url": "https://www.breitbart.com/clips/2026/08/16/gov-beshear-its-time-to-abolish-the-electoral-college/",
      "author": "Pam Key",
      "kind": "news",
-     "published": "2026-08-16T17:25:04+00:00",
-     "summary": "Sunday on CBS&#8217;s &#8220;Face the Nation,&#8221; Pennsylvania state Rep. Chris Rabb (D) said the United States is &#8220;not a purely capitalistic society.&#8221; Partial transcript as follows: ED O&#8217;KEEFE: Part of the reason why we wanted to have someone like you here, The post Democratic Socialist Candidate Rabb: U.S. &#8216;Is Not a Purely Capitalistic Society&#8217; appeared first on Breitbart ."
+     "published": "2026-08-16T17:53:34+00:00",
+     "summary": "Sunday on CBS&#8217;s &#8220;Face The Nation,&#8221; Gov. Andy Beshear (D-KY) said &#8220;it\u2019s time&#8221; to abolish the Electoral College to have direct election of the president and vice president. Partial transcript as follows: ED O&#8217;KEEFE: Well, what I&#8217;m curious about is what- The post Gov. Beshear: &#8216;It\u2019s Time&#8217; to Abolish the Electoral College appeared first on Breitbart ."
     },
     {
      "outlet": "cbsnews",
-     "title": "Democratic socialist candidate Chris Rabb says U.S. \"is not a purely capitalistic society\"",
-     "url": "https://www.cbsnews.com/video/democratic-socialist-candidate-chris-rabb-says-us-is-not-a-purely-capitalistic-society/",
+     "title": "Beshear says U.S. needs to \"fix the darn government,\" including abolishing Electoral College",
+     "url": "https://www.cbsnews.com/video/beshear-says-us-needs-to-fix-the-darn-government-including-abolishing-electoral-college/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T16:48:52+00:00",
-     "summary": "Pennsylvania state Rep. Chris Rabb, who is a democratic socialist and running for Congress in Pennsylvania's heavily Democratic 3rd District, told \"Face the Nation with Margaret Brennan\" that the U.S. \"is not a purely capitalistic society,\" pointing to social programs such as Social Security, public education and more."
+     "published": "2026-08-16T17:18:30+00:00",
+     "summary": "Kentucky Gov. Andy Beshear, who is the chairman of the Democratic Governors Association, told \"Face the Nation with Margaret Brennan\" that the American people think the \"government is broken,\" the U.S. needs to \"fix the darn government,\" including with the election of president and vice president."
     }
    ]
   },
@@ -3484,6 +3243,216 @@
      "kind": "news",
      "published": "2026-08-16T03:42:16+00:00",
      "summary": "Photo Illustration by Eric Faison/The Daily Beast/Getty The investigation into Nancy Guthrie\u2019s kidnapping may have been hobbled from the start by inexperienced homicide detectives, friction with the FBI, and a decision to give the family control of the crime scene too soon, according to a local law enforcement union leader. Sgt. Aaron Cross, president of the Pima County Deputies Organization, detailed what he believes went wrong in the case in an interview with TMZ Cross\u2019s biggest concern is that local investigators relinquished control of Guthrie\u2019s crime scene to her family too soon. Read more at The Daily Beast."
+    }
+   ]
+  },
+  {
+   "id": "29d2ff770b",
+   "topic": "Other",
+   "summary": "WNBA star Sophie Cunningham climbed onto a bar at a downtown Indianapolis honky-tonk Friday night and belted out Toby Keith&#8217;s &#8220;Courtesy of the Red, White and Blue&#8221; with a roomful of Indiana Fever fans, hours after her team beat the Dallas Wings. Cunningham had stopped in at Clayton&#8217;s Country Bar after the Fever&#8217;s 98-87 win over the Wings at Gainbridge Fieldhouse. Country singer Clayton Anderson spotted her at the end of the bar, grabbed a microphone and introduced her to the crowd \u2014 &#8220;Ladies and gentlemen, my friend, America&#8217;s sweetheart, Sophie Cunningham!&#8221; \u2014 before the two climbed up onto the bar to sing the post-9/11 anthem&#8217;s closing verse together. WATCH: Only Sophie Cunningham could go from playing a Fever game to randomly showing up at a bar and singing \u201cCourtesy of the Red, White and Blue\u201d with the fans. \ud83e\udd70\ud83c\uddfa\ud83c\uddf8 She\u2019s truly the\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "WATCH: 'America's Sweetheart' Sophie Cunningham Sings Patriotic Country Song at Indiana Bar",
+   "updated": "2026-08-16T16:01:25+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "WATCH: 'America's Sweetheart' Sophie Cunningham Sings Patriotic Country Song at Indiana Bar",
+     "url": "https://www.breitbart.com/sports/2026/08/16/watch-americas-sweetheart-sophie-cunningham-sings-patriotic-country-song-indiana-bar/",
+     "author": "Warner Todd Huston",
+     "kind": "news",
+     "published": "2026-08-16T16:01:25+00:00",
+     "summary": "Indiana Fever star Sophie Cunningham wowed fans on Friday when she was seen belting out a patriotic song at a local Indianapolis bar. The post WATCH: &#8216;America&#8217;s Sweetheart&#8217; Sophie Cunningham Sings Patriotic Country Song at Indiana Bar appeared first on Breitbart ."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Sophie Cunningham Jumps On A Bar And Belts Out Toby Keith After Fever Win",
+     "url": "https://www.dailywire.com/news/sophie-cunningham-jumps-on-a-bar-and-belts-out-toby-keith-after-fever-win",
+     "author": "Virginia Kruta",
+     "kind": "opinion",
+     "published": "2026-08-16T11:21:48+00:00",
+     "summary": "WNBA star Sophie Cunningham climbed onto a bar at a downtown Indianapolis honky-tonk Friday night and belted out Toby Keith&#8217;s &#8220;Courtesy of the Red, White and Blue&#8221; with a roomful of Indiana Fever fans, hours after her team beat the Dallas Wings. Cunningham had stopped in at Clayton&#8217;s Country Bar after the Fever&#8217;s 98-87 win over the Wings at Gainbridge Fieldhouse. Country singer Clayton Anderson spotted her at the end of the bar, grabbed a microphone and introduced her to the crowd \u2014 &#8220;Ladies and gentlemen, my friend, America&#8217;s sweetheart, Sophie Cunningham!&#8221; \u2014 before the two climbed up onto the bar to sing the post-9/11 anthem&#8217;s closing verse together. WATCH: Only Sophie Cunningham could go from playing a Fever game to randomly showing up at a bar and singing \u201cCourtesy of the Red, White and Blue\u201d with the fans. \ud83e\udd70\ud83c\uddfa\ud83c\uddf8 She\u2019s truly the freaking best. \u2764\ufe0f\u2764\ufe0f pic.twitter.com/FSvsnUOjPZ \u2014 Gina Milan (@ginamilan_) August 15, 2026 Cunningham took the last verse and the final chorus as the bar sang along loudly enough to drown her out in stretches, pulling up a pant leg and kicking the air on the chorus&#8217;s best-known line. &#8220;Hey, Un"
+    }
+   ]
+  },
+  {
+   "id": "df811e5b70",
+   "topic": "Culture & Sport",
+   "summary": "Mama probably never said there\u2019d be days like this . Newest St. Louis Cardinal Joshua Baez hit three homers in his first three plate appearances as a big-leaguer Saturday in Chicago. According to Baseball Almanac , there have been 22,800 other Major Leaguers since the National League\u2019s founding in 1876. None had a debut to match Baez\u2019s. In the top of the first inning against the Cubs, the Cards outfielder hit the first big-league pitch he ever saw 449 feet to center, almost leaving Wrigley Field. He faced Cubs left-hander Matthew Boyd again in the third, and put a 3-2 pitch into the left-field bleachers for his second homer. And he threepeated with a bomb to right in the top of the sixth. He finished the day 3-for-4 with five RBIs in the Cards' 8-4 win. https://www.youtube.com/watch?v=2QJdGWANMdU",
+   "summaryFrom": "defector",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "In His Debut Game, Joshua Baez Ties Stump Wiedman On Career Homers List",
+   "updated": "2026-08-16T15:27:04+00:00",
+   "outletCount": 2,
+   "counts": {
+    "coop": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "defector",
+     "title": "In His Debut Game, Joshua Baez Ties Stump Wiedman On Career Homers List",
+     "url": "https://defector.com/in-his-debut-game-joshua-baez-ties-stump-wiedeman-on-career-homers-list",
+     "author": "Dave McKenna",
+     "kind": "news",
+     "published": "2026-08-16T15:27:04+00:00",
+     "summary": "Mama probably never said there\u2019d be days like this . Newest St. Louis Cardinal Joshua Baez hit three homers in his first three plate appearances as a big-leaguer Saturday in Chicago. According to Baseball Almanac , there have been 22,800 other Major Leaguers since the National League\u2019s founding in 1876. None had a debut to match Baez\u2019s. In the top of the first inning against the Cubs, the Cards outfielder hit the first big-league pitch he ever saw 449 feet to center, almost leaving Wrigley Field. He faced Cubs left-hander Matthew Boyd again in the third, and put a 3-2 pitch into the left-field bleachers for his second homer. And he threepeated with a bomb to right in the top of the sixth. He finished the day 3-for-4 with five RBIs in the Cards' 8-4 win. https://www.youtube.com/watch?v=2QJdGWANMdU"
+    },
+    {
+     "outlet": "abcnews",
+     "title": "WATCH:  Joshua Baez becomes first MLB player to hit 3 homers in debut",
+     "url": "https://abcnews.com/video/135680711/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T00:47:05+00:00",
+     "summary": "Cardinals rookie outfielder Joshua Baez made MLB history by becoming the first player to hit three home runs in his big league debut."
+    }
+   ]
+  },
+  {
+   "id": "b52ef4b4f9",
+   "topic": "Other",
+   "summary": "NurPhoto / Marcin Golba, Getty Images When flames erupted in the middle of the night, the Gerber family\u2019s pet goose saved them and their barn animals from a fire\u2014by honking. Goosey forcefully squawked, waking up Bert Gerber as fire took to the Richmond, Texas barn where 60 turkeys and chickens slept. Bert successfully extinguished the fire with a water hose before any animals were hurt. \u201cIn just a couple more minutes,\u201d Bert said, \u201cit would\u2019ve been too much for a water hose.\u201d Bert had never heard Goosey, who is typically quiet and shy, honk. Bert\u2019s wife Chelsea Gerber shared the video captured by a surveillance camera on social media later that day, Aug. 3. \u201cGoosey wasn\u2019t just making noise,\u201d she wrote. \u201cHe was sounding the alarm.\u201d The Gerber family adopted Goosey just three months before the fire. Elaina Gerber, 9, was the one that fell in love with Goosey and begged her reluctant\u2026",
+   "summaryFrom": "dailybeast",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Pet Goose Warns Family of Fire and Saves Animals",
+   "updated": "2026-08-16T15:12:48+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "Pet Goose Warns Family of Fire and Saves Animals",
+     "url": "https://www.thedailybeast.com/pet-goose-alerts-family-to-barn-fire-saving-animals/",
+     "author": "Lauren Hartley",
+     "kind": "news",
+     "published": "2026-08-16T15:12:48+00:00",
+     "summary": "NurPhoto / Marcin Golba, Getty Images When flames erupted in the middle of the night, the Gerber family\u2019s pet goose saved them and their barn animals from a fire\u2014by honking. Goosey forcefully squawked, waking up Bert Gerber as fire took to the Richmond, Texas barn where 60 turkeys and chickens slept. Bert successfully extinguished the fire with a water hose before any animals were hurt. \u201cIn just a couple more minutes,\u201d Bert said, \u201cit would\u2019ve been too much for a water hose.\u201d Bert had never heard Goosey, who is typically quiet and shy, honk. Bert\u2019s wife Chelsea Gerber shared the video captured by a surveillance camera on social media later that day, Aug. 3. \u201cGoosey wasn\u2019t just making noise,\u201d she wrote. \u201cHe was sounding the alarm.\u201d The Gerber family adopted Goosey just three months before the fire. Elaina Gerber, 9, was the one that fell in love with Goosey and begged her reluctant parents to take him home. Every morning Goosey excitedly runs in a plastic children\u2019s pool and sleeps in the barn next to the chicken coop where he was when the fire started. The Gerbers said the fire was most likely caused by a ceiling wire that overheated or was chewed by an animal. Read it at https://ww"
+    },
+    {
+     "outlet": "wapo",
+     "title": "Pet goose honks to alert family of barn fire, saving their animals",
+     "url": "https://www.washingtonpost.com/lifestyle/2026/08/16/pet-goose-honks-alert-family-fire-helping-save-dozens-birds/",
+     "author": "Kyle Melnick",
+     "kind": "news",
+     "published": "2026-08-16T09:00:00+00:00",
+     "summary": "Goosey rushed out of the barn squawking so forcefully he woke up Bert Gerber, who had never heard him honk before."
+    }
+   ]
+  },
+  {
+   "id": "7739d7e748",
+   "topic": "World",
+   "summary": "Hundreds watched the 56-metre monument\u2019s consecration, including anti-communist leader Lech Wa\u0142\u0119sa An enormous statue of the Virgin Mary that is believed to be Europe\u2019s tallest was inaugurated on Saturday in a small Polish village, in the presence of the anti-communist leader Lech Wa\u0142\u0119sa. Hundreds of people took part in the consecration of the monument, which towers 55.6 metres (182ft) over Konotopie in central Poland, a village of fewer than 150 people. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Europe\u2019s tallest Virgin Mary statue unveiled in small Polish village",
+   "updated": "2026-08-16T15:00:04+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Europe\u2019s tallest Virgin Mary statue unveiled in small Polish village",
+     "url": "https://www.theguardian.com/world/2026/aug/16/tallest-statue-virgin-mary-poland-europe",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T15:00:04+00:00",
+     "summary": "Hundreds watched the 56-metre monument\u2019s consecration, including anti-communist leader Lech Wa\u0142\u0119sa An enormous statue of the Virgin Mary that is believed to be Europe\u2019s tallest was inaugurated on Saturday in a small Polish village, in the presence of the anti-communist leader Lech Wa\u0142\u0119sa. Hundreds of people took part in the consecration of the monument, which towers 55.6 metres (182ft) over Konotopie in central Poland, a village of fewer than 150 people. Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+     "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T11:35:25+00:00",
+     "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Janeiro's Christ the Redeemer."
+    }
+   ]
+  },
+  {
+   "id": "fa4dd7fcca",
+   "topic": "Tech",
+   "summary": "Gov. Greg Abbott speaks at the Red River Roll Call, a Republican rally hosted by state Rep. Shelley Luther, in Sherman on July 27, 2026. Nearly 100 people showed up as part of the Save Rural Texas group traveling from all over the state to show their state leaders that they want to pause further development of data centers.",
+   "summaryFrom": "texastribune",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "Data center audit lacks specifics even as Gov. Abbott, industry leaders tout it",
+   "updated": "2026-08-16T14:54:03+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nbcnews",
+     "title": "Rep. Ro Khanna calls for \u2018Data Center Bill of Rights\u2019 and says the industry needs regulation",
+     "url": "https://www.nbcnews.com/politics/congress/ro-khanna-data-center-bill-rights-industry-regulations-rcna592775",
+     "author": "Megan Brand",
+     "kind": "news",
+     "published": "2026-08-16T14:54:03+00:00",
+     "summary": "The California congressman also laid out how he believes he differs from Rep. Alexandria Ocasio-Cortez, as both progressives are floated as potential presidential candidates."
+    },
+    {
+     "outlet": "texastribune",
+     "title": "Data center audit lacks specifics even as Gov. Abbott, industry leaders tout it",
+     "url": "https://feeds.texastribune.org/link/16799/17417992/data-center-texas-audit-moratorium",
+     "author": "Paul Cobler",
+     "kind": "news",
+     "published": "2026-08-14T10:00:00+00:00",
+     "summary": "Gov. Greg Abbott speaks at the Red River Roll Call, a Republican rally hosted by state Rep. Shelley Luther, in Sherman on July 27, 2026. Nearly 100 people showed up as part of the Save Rural Texas group traveling from all over the state to show their state leaders that they want to pause further development of data centers."
     }
    ]
   }
