@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T04:51:31.436063+00:00",
+ "generated": "2026-08-16T05:44:44.563664+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -17,8 +17,8 @@
      "east",
      "middle",
      "released",
-     "lawmakers",
-     "food"
+     "food",
+     "lawmakers"
     ],
     "indie": []
    },
@@ -131,6 +131,125 @@
    ]
   },
   {
+   "id": "cc3b730f3d",
+   "topic": "Politics",
+   "summary": "As tensions between the U.S. and Iran remain unsettled more than five months since the start of the war, the number of ships transiting the Strait of Hormuz appears to be far below pre-conflict levels. \"Despite a brief recovery in late June, vessel traffic through the Strait of Hormuz remains significantly reduced, AIS [Automatic Identification System] transit information suggests operators increasingly favouring the Northern route following projectile attacks, ongoing security concerns, and heightened enforcement activity,\" a United Kingdom Maritime Trade Operations (UKMTO) voluntary reporting area overview noted. \"Traffic remains well below normal levels, with AIS-detected transits approximately 90% below pre-conflict baselines and declining since the 24-26 (June) peak.\" The trade intelligence company Kpler reported in part of a post Friday on X that \"Maritime traffic through the\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": {
+    "bigCount": 6,
+    "indieCount": 3,
+    "big": [
+     "reality",
+     "delusions",
+     "defeat",
+     "called",
+     "waterway",
+     "months"
+    ],
+    "indie": [
+     "become"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Donald Trump to declare Hormuz US territory 'soon'",
+   "updated": "2026-08-15T22:47:44+00:00",
+   "outletCount": 8,
+   "counts": {
+    "corp": 2,
+    "family": 4,
+    "pub": 1,
+    "nonprofit": 2
+   },
+   "newsCount": 8,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nbcnews",
+     "title": "Iran urges U.S. to \u2018accept the reality of defeat\u2019",
+     "url": "https://www.nbcnews.com/nightly-news/video/iran-urges-u-s-to-accept-the-reality-of-defeat-268361285795",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T22:47:44+00:00",
+     "summary": "A defiant Iran called on the U.S. to \u201caccept the reality of defeat and stop indulging in delusions\u201d after President Trump suggested that he would soon declare the Strait of Hormuz a \u201cterritory of the United States.\u201d NBC News\u2019 Julie Tsirkin reports."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Iran Tells Trump: \u2018Accept The Reality\u2019 He Can\u2019t Make Strait Of Hormuz U.S. Territory",
+     "url": "https://www.forbes.com/sites/saradorn/2026/08/15/iran-tells-trump-accept-the-reality-he-cant-make-strait-of-hormuz-us-territory/",
+     "author": "Sara Dorn, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-15T17:57:39+00:00",
+     "summary": "Trump urged Americans on Friday to accept higher gasoline prices as a result of the war."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Iran, Oman Home In on Hormuz Strait Deal as Ship Attacks Mount",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-15/iran-oman-hone-in-on-hormuz-strait-deal-as-ship-attacks-mount",
+     "author": "Arsalan Shahla, Sara Gharaibeh and Catherine Lucey",
+     "kind": "news",
+     "published": "2026-08-15T13:00:56+00:00",
+     "summary": "Iran and Oman appear to be edging closer to a deal on how the Strait of Hormuz should be managed, agreeing on routes through the key waterway that\u2019s proved a major stumbling block in efforts to end almost six months of war between the Islamic Republic and the US."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Iran rejects \u2018delusions\u2019 after Trump says he wants the Strait of Hormuz to be a U.S. territory",
+     "url": "https://www.nbcnews.com/world/iran/iran-rejects-delusions-trump-strait-hormuz-us-territory-rcna592666",
+     "author": "Henry Austin",
+     "kind": "news",
+     "published": "2026-08-15T10:47:14+00:00",
+     "summary": "Iran called on the U.S. to \u201caccept the reality of defeat\u201d after President Donald Trump said he would declare the Strait of Hormuz a \u201cterritory\u201d of the U.S."
+    },
+    {
+     "outlet": "dw",
+     "title": "Donald Trump to declare Hormuz US territory 'soon'",
+     "url": "https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T22:14:00+00:00",
+     "summary": "Donald Trump said the strait would become part of the US after Iran is defeated. He also told Americans to accept higher gas prices, which have soared since Iran closed Hormuz in response to US and Israeli attacks."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump threatens to declare strait of Hormuz \u2018territory of the United States\u2019",
+     "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
+     "author": "Maya Yang",
+     "kind": "news",
+     "published": "2026-08-14T21:38:17+00:00",
+     "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy \u200bposition, not clear Donald Trump has threatened to declare the strait of Hormuz as \u201ca territory of the United States\u201d as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would \u201cpretty soon\u201d designate the waterway \u2013 a crucial chokepoint for global trade, through which about a fifth of the world\u2019s seaborne oil supplies typically pass \u2013 a US territory. Continue reading..."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Who controls the Strait of Hormuz right now? Here's what the ship traffic actually shows",
+     "url": "https://www.foxnews.com/politics/who-controls-strait-hormuz-right-now-heres-what-ship-traffic-actually-shows",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T18:34:00+00:00",
+     "summary": "As tensions between the U.S. and Iran remain unsettled more than five months since the start of the war, the number of ships transiting the Strait of Hormuz appears to be far below pre-conflict levels. \"Despite a brief recovery in late June, vessel traffic through the Strait of Hormuz remains significantly reduced, AIS [Automatic Identification System] transit information suggests operators increasingly favouring the Northern route following projectile attacks, ongoing security concerns, and heightened enforcement activity,\" a United Kingdom Maritime Trade Operations (UKMTO) voluntary reporting area overview noted. \"Traffic remains well below normal levels, with AIS-detected transits approximately 90% below pre-conflict baselines and declining since the 24-26 (June) peak.\" The trade intelligence company Kpler reported in part of a post Friday on X that \"Maritime traffic through the Strait of Hormuz picked up on 13 August, with 13 confirmed crossings, a 44% day on day increase from nine. Of these, nine vessels used the Iranian Unilateral Scheme, none were confirmed on the Hormuz TSS and four routes remained undetermined.\" TANKERS ATTACKED AS TEHRAN, TRUMP BATTLE OVER CONTROL OF STRA"
+    },
+    {
+     "outlet": "reason",
+     "title": "Jeff Merkley Wants To Save Big Government From Donald Trump",
+     "url": "https://reason.com/2026/08/14/jeff-merkley-wants-to-save-big-government-from-donald-trump/",
+     "author": "Christian Britschgi",
+     "kind": "opinion",
+     "published": "2026-08-14T17:40:24+00:00",
+     "summary": "Jeff Merkley has a plan to save the republic from Donald Trump's \" authoritarian playbook \", or so says the senator from Oregon. \" This is a president trying to become a strongman authoritarian,\" said Merkley on the On NOTUS podcast this week. \"If we don't repair the Constitution, we don't have a republic.\" His \"For Our Republic Act\", which was introduced earlier this month , is a sprawling piece of legislation that aims at reversing many of the president's claims of executive authority and clamping down on some of the more novel forms of corruption we've seen under the president's second term. Its proposed reforms range from moving immigration judges from the executive branch to the judicial branch, requiring congressional approval of executive-led department shutterings and reorganizations, and banning executive officers from trading in prediction markets and hawking crypto products. While Merkley claims the bill is intended to check all presidents, and not just the current one, the legislation does often read as a list of particular Democratic grievances against Trump. It would prohibit the Federal Communications Commission (FCC) from revoking broadcast licenses or taking action"
+    },
+    {
+     "outlet": "semafor",
+     "title": "US and Iran duel over who controls Hormuz",
+     "url": "https://www.semafor.com/article/08/13/2026/washington-tehran-duel-over-control-of-hormuz-narrative",
+     "author": "Prashant Rao",
+     "kind": "news",
+     "published": "2026-08-13T12:14:04+00:00",
+     "summary": "Washington and Tehran again presented sharply contrasting narratives over the Strait of Hormuz, underscoring skepticism over the reopening of the waterway. Hours after US President Donald Trump said his forces had \u201ctotal control\u201d over Hormuz , Iranian officials said his remarks \u201c do not change the reality \u201d of its closure. The Wall Street Journal said tracking data showed just 14 ships traversed the channel on Tuesday, barely a tenth of pre-war levels , though a leading Bloomberg columnist suggested that analysts were likely underestimating the volume of oil crossing Hormuz: He noted that visible oil spills pointed to a battle between Iran trying to keep the strait closed while others push to keep it open, \u201c perhaps more successfully than we think .\u201d \u2014 Prashant Rao"
+    }
+   ]
+  },
+  {
    "id": "a0884e8013",
    "topic": "Politics",
    "summary": "The Democratic National Committee (DNC) has voted to approve the 2028 presidential primary calendar, starting with South Carolina. The party okayed a plan that has the Palmetto State kicking off the cycle on Jan. 22, 2028, followed by Nevada on Feb. 1. New Hampshire, long a first-in-the-nation contest, will hold its primary third, on Feb....",
@@ -139,9 +258,9 @@
     "bigCount": 6,
     "indieCount": 2,
     "big": [
-     "democratic",
-     "hampshire",
      "hold",
+     "hampshire",
+     "democratic",
      "approve",
      "national",
      "party"
@@ -250,15 +369,15 @@
     "indieCount": 2,
     "big": [
      "wounded",
-     "arrested",
      "suspect",
-     "found",
+     "arrested",
      "left",
-     "early"
+     "early",
+     "found"
     ],
     "indie": [
-     "responded",
-     "large"
+     "large",
+     "responded"
     ]
    },
    "absent": [
@@ -343,112 +462,6 @@
    ]
   },
   {
-   "id": "be78a49bbe",
-   "topic": "Politics",
-   "summary": "Yesterday in London, Jason Arday, the controversy-plagued British academic and author, was found dead. Made famous as the youngest Black professor in Cambridge\u2019s more than 800-year history, Arday had been dogged by weeks of scrutiny amid accusations of plagiarism, fake qualifications, and a fabricated backstory filled with hard-to-believe details. He claimed to have been mute until age 11 and illiterate until 18, disadvantages that did not deter him from getting a Ph.D., which he earned by age 30. He claimed, too, that he had suffered from various medical conditions throughout his life, including autism, epilepsy, locked-in syndrome, testicular cancer, and a brain tumor. He was, by his account, a world-class endurance athlete who had racked up a variety of impressive feats, including running 600 miles in six days. Then there were his academic accomplishments: Arday was billed as a\u2026",
-   "summaryFrom": "theatlantic",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 4,
-    "big": [
-     "backstory",
-     "blames"
-    ],
-    "indie": [
-     "friday"
-    ]
-   },
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
-   "updated": "2026-08-15T17:42:00+00:00",
-   "outletCount": 7,
-   "counts": {
-    "family": 4,
-    "nonprofit": 3,
-    "pub": 1
-   },
-   "newsCount": 6,
-   "opinionCount": 2,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "theatlantic",
-     "title": "The Truths That Failed Jason Arday",
-     "url": "https://www.theatlantic.com/culture/2026/08/jason-arday-cambridge-professor-death/688304/?utm_source=feed",
-     "author": "Tyler Austin Harper",
-     "kind": "news",
-     "published": "2026-08-15T17:42:00+00:00",
-     "summary": "Yesterday in London, Jason Arday, the controversy-plagued British academic and author, was found dead. Made famous as the youngest Black professor in Cambridge\u2019s more than 800-year history, Arday had been dogged by weeks of scrutiny amid accusations of plagiarism, fake qualifications, and a fabricated backstory filled with hard-to-believe details. He claimed to have been mute until age 11 and illiterate until 18, disadvantages that did not deter him from getting a Ph.D., which he earned by age 30. He claimed, too, that he had suffered from various medical conditions throughout his life, including autism, epilepsy, locked-in syndrome, testicular cancer, and a brain tumor. He was, by his account, a world-class endurance athlete who had racked up a variety of impressive feats, including running 600 miles in six days. Then there were his academic accomplishments: Arday was billed as a once-in-a-generation talent, whose research in his field\u2014the sociology of education\u2014was \u201cthe best in the world,\u201d according to Hilary Cremin, the head of Cambridge\u2019s faculty of education. He claimed to have received a book advance of 1.4 million in unspecified currency for his memoir, released this week by"
-    },
-    {
-     "outlet": "npr",
-     "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
-     "url": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T17:04:43+00:00",
-     "summary": "Arday was 37 when he became Cambridge's youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London. (Image credit: Joe Giddens)"
-    },
-    {
-     "outlet": "breitbart",
-     "title": "UK Left Blames Death of Ex-Cambridge Professor Arday on 'Racism', Media Scrutiny of Plagiarism Claims",
-     "url": "https://www.breitbart.com/europe/2026/08/15/uk-left-blames-death-of-ex-cambridge-professor-arday-on-racism-media-scrutiny-of-plagiarism-claims/",
-     "author": "Kurt Zindulka",
-     "kind": "news",
-     "published": "2026-08-15T15:58:25+00:00",
-     "summary": "British leftists have attempted to blame racism and media scrutiny for the untimely death of former Cambridge professor Jason Arday, who sensationally resigned last week amid plagiarism allegations and accusations of fabricating his backstory. The post UK Left Blames Death of Ex-Cambridge Professor Arday on &#8216;Racism&#8217;, Media Scrutiny of Plagiarism Claims appeared first on Breitbart ."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Tributes paid to Jason Arday after former Cambridge professor\u2019s death",
-     "url": "https://www.theguardian.com/uk-news/2026/aug/15/jason-arday-tributes-paid-to-former-cambridge-professor",
-     "author": "Aneesa Ahmed",
-     "kind": "news",
-     "published": "2026-08-15T12:22:48+00:00",
-     "summary": "Andy Burnham calls for reflection after \u2018tragedy on so many levels\u2019 in comments echoed by London mayor Sadiq Khan Andy Burnham has called the death of Jason Arday, whose body was found at his home in south London on Friday, a \u201ctragedy on so many levels\u201d. Arday resigned as a professor at the University of Cambridge last week after allegations of plagiarism, which he denied. He was pronounced dead just after 3pm on Friday . Continue reading..."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation",
-     "url": "https://www.pbs.org/newshour/world/jason-arday-youngest-black-professor-at-cambridge-found-dead-at-41-after-resignation",
-     "author": "Sylvia Hui, Associated Press",
-     "kind": "news",
-     "published": "2026-08-14T23:25:02+00:00",
-     "summary": "A British sociologist who resigned last week from the University of Cambridge following weeks of public accusations of plagiarism and media scrutiny was found dead Friday."
-    },
-    {
-     "outlet": "dw",
-     "title": "Jason Arday: Ex-Cambridge professor at centre of plagiarism scandal found dead",
-     "url": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T20:03:00+00:00",
-     "summary": "Jason Arday, the youngest ever Black professor at Cambridge, was found unresponsive at an address in London. Arday had recently resigned in the midst of a plagiarism row."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Family Of Ex-Cambridge Professor Blames \u2018Campaign Of Misinformation\u2019 For His Death",
-     "url": "https://www.dailywire.com/news/family-of-ex-cambridge-professor-blames-campaign-of-misinformation-for-his-death",
-     "author": "Virginia Kruta",
-     "kind": "opinion",
-     "published": "2026-08-14T19:16:44+00:00",
-     "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too long.&#8221; Arday, 41, was found unresponsive in his South London home on Friday \u2014 just over a week after he left his position at the prestigious university. Prior to leaving his post, he&#8217;d been accused of plagiarism and of embellishing his life story ahead of the release of his memoir, &#8220;Great a"
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Professor Recently Outed For Fraudulent Biography Found Dead",
-     "url": "https://www.dailywire.com/news/professor-recently-outed-for-fraudulent-biography-found-dead",
-     "author": "Brecca Stoll",
-     "kind": "opinion",
-     "published": "2026-08-14T16:57:09+00:00",
-     "summary": "Jason Arday, the Cambridge professor who resigned nine days ago over plagiarism allegations, was found dead in his London home. Authorities said in a statement that an ambulance was called to his residence after Arday had been found &#8220;unresponsive.&#8221; He was pronounced dead at the scene. Police added that the death was being treated as \u201cunexpected\u201d but is not believed to be suspicious, according to The Telegraph. Just nine days ago, Cambridge launched an investigation into Arday. \u201cThe University of Cambridge has begun an investigation following new information about Professor Arday\u2019s academic qualifications and honorary appointments,\u201d the statement from the university said. \u201cIn order to ensure a fair process, we will not comment further until this has concluded.&#8221; Cambridge was not initially keen on opening an investigation. Cambridge said Arday was \u201cthe victim of a vile campaign to undermine his credibility, which must stop.\u201d The school began to change its tune when reports emerged that Arday had filed a harassment claim against a journalist who was investigating his work. The day that Cambridge announced its investigation, Arday resigned. \u201cI no longer wish to feel a"
-    }
-   ]
-  },
-  {
    "id": "3e44303664",
    "topic": "Justice & Policing",
    "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges. \"I shot Mr. Thompson,\" Mangione said during Friday's hearing, adding, \"I knew\u2026",
@@ -462,11 +475,11 @@
     ],
     "indie": [
      "death",
-     "life",
      "admitted",
+     "life",
+     "manhattan",
      "year-old",
-     "case",
-     "manhattan"
+     "case"
     ]
    },
    "absent": [
@@ -547,105 +560,6 @@
      "kind": "news",
      "published": "2026-08-14T15:41:30+00:00",
      "summary": "Luigi Mangione on Friday pleaded guilty to both federal stalking charges against him in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson, admitting in court that he shot the healthcare executive in 2024. Luigi Mangione on Friday pleaded guilty to both federal stalking charges against him in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson, admitting in court that he shot the healthcare executive in 2024. Mangione pleaded guilty to two charges that each carry a possible life sentence: interstate stalking resulting in death and stalking through use of interstate facilities resulting in death. The judge accepted his plea. \u201cI shot Mr. Thompson in Manhattan,\u201d Mangione told the judge on Friday, according to the New York Times. \u201cI understood that my actions would place him in fear of death or bodily injury. I knew what I was doing was illegal.\u201d He said during the hearing that he tracked down Thompson \u201cafter years of enduring severe pain from a broken back, navigating the obstacles of the health insurance system and witnessing similar experiences of countless others,\u201d The Associated Press reported. He said he had 3-D printed a gun and attac"
-    }
-   ]
-  },
-  {
-   "id": "cc3b730f3d",
-   "topic": "Politics",
-   "summary": "Jeff Merkley has a plan to save the republic from Donald Trump's \" authoritarian playbook \", or so says the senator from Oregon. \" This is a president trying to become a strongman authoritarian,\" said Merkley on the On NOTUS podcast this week. \"If we don't repair the Constitution, we don't have a republic.\" His \"For Our Republic Act\", which was introduced earlier this month , is a sprawling piece of legislation that aims at reversing many of the president's claims of executive authority and clamping down on some of the more novel forms of corruption we've seen under the president's second term. Its proposed reforms range from moving immigration judges from the executive branch to the judicial branch, requiring congressional approval of executive-led department shutterings and reorganizations, and banning executive officers from trading in prediction markets and hawking crypto products.\u2026",
-   "summaryFrom": "reason",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 3,
-    "big": [
-     "reality",
-     "delusions",
-     "called",
-     "defeat"
-    ],
-    "indie": [
-     "become"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Donald Trump to declare Hormuz US territory 'soon'",
-   "updated": "2026-08-15T22:47:44+00:00",
-   "outletCount": 6,
-   "counts": {
-    "corp": 3,
-    "family": 1,
-    "pub": 1,
-    "nonprofit": 2
-   },
-   "newsCount": 6,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nbcnews",
-     "title": "Iran urges U.S. to \u2018accept the reality of defeat\u2019",
-     "url": "https://www.nbcnews.com/nightly-news/video/iran-urges-u-s-to-accept-the-reality-of-defeat-268361285795",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T22:47:44+00:00",
-     "summary": "A defiant Iran called on the U.S. to \u201caccept the reality of defeat and stop indulging in delusions\u201d after President Trump suggested that he would soon declare the Strait of Hormuz a \u201cterritory of the United States.\u201d NBC News\u2019 Julie Tsirkin reports."
-    },
-    {
-     "outlet": "forbes",
-     "title": "Iran Tells Trump: \u2018Accept The Reality\u2019 He Can\u2019t Make Strait Of Hormuz U.S. Territory",
-     "url": "https://www.forbes.com/sites/saradorn/2026/08/15/iran-tells-trump-accept-the-reality-he-cant-make-strait-of-hormuz-us-territory/",
-     "author": "Sara Dorn, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-15T17:57:39+00:00",
-     "summary": "Trump urged Americans on Friday to accept higher gasoline prices as a result of the war."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Iran rejects \u2018delusions\u2019 after Trump says he wants the Strait of Hormuz to be a U.S. territory",
-     "url": "https://www.nbcnews.com/world/iran/iran-rejects-delusions-trump-strait-hormuz-us-territory-rcna592666",
-     "author": "Henry Austin",
-     "kind": "news",
-     "published": "2026-08-15T10:47:14+00:00",
-     "summary": "Iran called on the U.S. to \u201caccept the reality of defeat\u201d after President Donald Trump said he would declare the Strait of Hormuz a \u201cterritory\u201d of the U.S."
-    },
-    {
-     "outlet": "dw",
-     "title": "Donald Trump to declare Hormuz US territory 'soon'",
-     "url": "https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T22:14:00+00:00",
-     "summary": "Donald Trump said the strait would become part of the US after Iran is defeated. He also told Americans to accept higher gas prices, which have soared since Iran closed Hormuz in response to US and Israeli attacks."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump threatens to declare strait of Hormuz \u2018territory of the United States\u2019",
-     "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
-     "author": "Maya Yang",
-     "kind": "news",
-     "published": "2026-08-14T21:38:17+00:00",
-     "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy \u200bposition, not clear Donald Trump has threatened to declare the strait of Hormuz as \u201ca territory of the United States\u201d as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would \u201cpretty soon\u201d designate the waterway \u2013 a crucial chokepoint for global trade, through which about a fifth of the world\u2019s seaborne oil supplies typically pass \u2013 a US territory. Continue reading..."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Trump Unveils Crackpot Scheme to Declare Waterway U.S. Territory",
-     "url": "https://www.thedailybeast.com/trump-wants-to-make-stretch-of-water-a-us-territory/",
-     "author": "Sarah Ewall-Wice",
-     "kind": "news",
-     "published": "2026-08-14T21:25:27+00:00",
-     "summary": "Samuel Corum/Getty Images President Donald Trump signaled the U.S. military could have a ramped-up presence in the Middle East to deal with Iran indefinitely as he sets his sights on a new \u201cterritory.\u201d Concern is deepening that the president has drawn the U.S. into a quagmire in the region as his war stretches into its sixth month and Trump struggles to reach a deal. Trump insisted while speaking on Long Island on Friday that Iran was being \u201cvery badly defeated\u201d after he has already repeatedly declared victory for months. Read more at The Daily Beast."
-    },
-    {
-     "outlet": "reason",
-     "title": "Jeff Merkley Wants To Save Big Government From Donald Trump",
-     "url": "https://reason.com/2026/08/14/jeff-merkley-wants-to-save-big-government-from-donald-trump/",
-     "author": "Christian Britschgi",
-     "kind": "opinion",
-     "published": "2026-08-14T17:40:24+00:00",
-     "summary": "Jeff Merkley has a plan to save the republic from Donald Trump's \" authoritarian playbook \", or so says the senator from Oregon. \" This is a president trying to become a strongman authoritarian,\" said Merkley on the On NOTUS podcast this week. \"If we don't repair the Constitution, we don't have a republic.\" His \"For Our Republic Act\", which was introduced earlier this month , is a sprawling piece of legislation that aims at reversing many of the president's claims of executive authority and clamping down on some of the more novel forms of corruption we've seen under the president's second term. Its proposed reforms range from moving immigration judges from the executive branch to the judicial branch, requiring congressional approval of executive-led department shutterings and reorganizations, and banning executive officers from trading in prediction markets and hawking crypto products. While Merkley claims the bill is intended to check all presidents, and not just the current one, the legislation does often read as a list of particular Democratic grievances against Trump. It would prohibit the Federal Communications Commission (FCC) from revoking broadcast licenses or taking action"
     }
    ]
   },
@@ -744,75 +658,6 @@
    ]
   },
   {
-   "id": "43db318ae2",
-   "topic": "World",
-   "summary": "As tensions between the U.S. and Iran remain unsettled more than five months since the start of the war, the number of ships transiting the Strait of Hormuz appears to be far below pre-conflict levels. \"Despite a brief recovery in late June, vessel traffic through the Strait of Hormuz remains significantly reduced, AIS [Automatic Identification System] transit information suggests operators increasingly favouring the Northern route following projectile attacks, ongoing security concerns, and heightened enforcement activity,\" a United Kingdom Maritime Trade Operations (UKMTO) voluntary reporting area overview noted. \"Traffic remains well below normal levels, with AIS-detected transits approximately 90% below pre-conflict baselines and declining since the 24-26 (June) peak.\" The trade intelligence company Kpler reported in part of a post Friday on X that \"Maritime traffic through the\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
-   "updated": "2026-08-16T00:42:34+00:00",
-   "outletCount": 5,
-   "counts": {
-    "corp": 1,
-    "pub": 1,
-    "family": 3
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Iran strikes another ship in Strait of Hormuz as Israel steps up Lebanon attacks",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T00:42:34+00:00",
-     "summary": "Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children, according to the health ministry."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T00:00:45+00:00",
-     "summary": "Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Iran, Oman Home In on Hormuz Strait Deal as Ship Attacks Mount",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-15/iran-oman-hone-in-on-hormuz-strait-deal-as-ship-attacks-mount",
-     "author": "Arsalan Shahla, Sara Gharaibeh and Catherine Lucey",
-     "kind": "news",
-     "published": "2026-08-15T13:00:56+00:00",
-     "summary": "Iran and Oman appear to be edging closer to a deal on how the Strait of Hormuz should be managed, agreeing on routes through the key waterway that\u2019s proved a major stumbling block in efforts to end almost six months of war between the Islamic Republic and the US."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Who controls the Strait of Hormuz right now? Here's what the ship traffic actually shows",
-     "url": "https://www.foxnews.com/politics/who-controls-strait-hormuz-right-now-heres-what-ship-traffic-actually-shows",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T18:34:00+00:00",
-     "summary": "As tensions between the U.S. and Iran remain unsettled more than five months since the start of the war, the number of ships transiting the Strait of Hormuz appears to be far below pre-conflict levels. \"Despite a brief recovery in late June, vessel traffic through the Strait of Hormuz remains significantly reduced, AIS [Automatic Identification System] transit information suggests operators increasingly favouring the Northern route following projectile attacks, ongoing security concerns, and heightened enforcement activity,\" a United Kingdom Maritime Trade Operations (UKMTO) voluntary reporting area overview noted. \"Traffic remains well below normal levels, with AIS-detected transits approximately 90% below pre-conflict baselines and declining since the 24-26 (June) peak.\" The trade intelligence company Kpler reported in part of a post Friday on X that \"Maritime traffic through the Strait of Hormuz picked up on 13 August, with 13 confirmed crossings, a 44% day on day increase from nine. Of these, nine vessels used the Iranian Unilateral Scheme, none were confirmed on the Hormuz TSS and four routes remained undetermined.\" TANKERS ATTACKED AS TEHRAN, TRUMP BATTLE OVER CONTROL OF STRA"
-    },
-    {
-     "outlet": "semafor",
-     "title": "US and Iran duel over who controls Hormuz",
-     "url": "https://www.semafor.com/article/08/13/2026/washington-tehran-duel-over-control-of-hormuz-narrative",
-     "author": "Prashant Rao",
-     "kind": "news",
-     "published": "2026-08-13T12:14:04+00:00",
-     "summary": "Washington and Tehran again presented sharply contrasting narratives over the Strait of Hormuz, underscoring skepticism over the reopening of the waterway. Hours after US President Donald Trump said his forces had \u201ctotal control\u201d over Hormuz , Iranian officials said his remarks \u201c do not change the reality \u201d of its closure. The Wall Street Journal said tracking data showed just 14 ships traversed the channel on Tuesday, barely a tenth of pre-war levels , though a leading Bloomberg columnist suggested that analysts were likely underestimating the volume of oil crossing Hormuz: He noted that visible oil spills pointed to a battle between Iran trying to keep the strait closed while others push to keep it open, \u201c perhaps more successfully than we think .\u201d \u2014 Prashant Rao"
-    }
-   ]
-  },
-  {
    "id": "a085ed5c4d",
    "topic": "Other",
    "summary": "National Weather Service reports that more than 11in of rain fell over a two-day period in some areas At least five people are dead after devastating floods that swept through Indiana this week, officials said, as storms continued to batter the state on Saturday and first responders used boats to rescue more people from rising waters in neighborhoods along the White River in Indianapolis. The mayor of Indianapolis, Joe Hogsett, and other state officials implored residents in areas at risk of flooding to heed any evacuation warnings at a news conference. Continue reading...",
@@ -821,16 +666,16 @@
     "bigCount": 2,
     "indieCount": 3,
     "big": [
-     "michigan",
      "friday",
+     "michigan",
      "killed"
     ],
     "indie": [
+     "least",
      "indiana",
      "state",
-     "least",
-     "weather",
      "flooding",
+     "weather",
      "heavy"
     ]
    },
@@ -894,75 +739,6 @@
      "kind": "news",
      "published": "2026-08-15T05:23:35+00:00",
      "summary": "Authorities are investigating the killings of five people Friday in rural Northern Michigan, officials said. The suspect in the case was also found dead."
-    }
-   ]
-  },
-  {
-   "id": "a0ba21d917",
-   "topic": "Justice & Policing",
-   "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions\u2026",
-   "summaryFrom": "reason",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Israeli Settler \"Terrorists\" Unjustly Expel West Bank Palestinians From Their Land",
-   "updated": "2026-08-15T22:17:52+00:00",
-   "outletCount": 5,
-   "counts": {
-    "nonprofit": 3,
-    "pub": 2
-   },
-   "newsCount": 4,
-   "opinionCount": 1,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "reason",
-     "title": "Israeli Settler \"Terrorists\" Unjustly Expel West Bank Palestinians From Their Land",
-     "url": "https://reason.com/volokh/2026/08/15/israeli-settler-terrorists-unjustly-expel-west-bank-palestinians-from-their-land/",
-     "author": "Ilya Somin",
-     "kind": "opinion",
-     "published": "2026-08-15T22:17:52+00:00",
-     "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions are deeply unjust, amounting to ethnic cleansing and gross violations of private property rights. They also highlight broader dangers of ethno-nationalist claims to exclusive control over land. The Times of Israel (a center-right Israeli publication) has a helpful overview of the recent settler violenc"
-    },
-    {
-     "outlet": "france24",
-     "title": "US urges Netanyahu to condemn settlers besieging Palestinians in West Bank",
-     "url": "https://www.france24.com/en/us-urges-netanyahu-to-condemn-settlers-besieging-palestinians-in-west-bank",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-15T08:52:10+00:00",
-     "summary": "The United States is urging Israeli Prime Minister Benjamin Netanyahu to publicly condemn Israeli settlers who have besieged Palestinian homes in Qusra, while France is calling for their arrest and prosecution. As residents remain cut off from food and other supplies, settler violence is putting further political pressure on Netanyahu ahead of Israel\u2019s election."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Palestinians besieged in West Bank village of Qusra fear Israeli settlers will seize their homes",
-     "url": "https://www.pbs.org/newshour/world/palestinians-besieged-in-west-bank-village-of-qusra-fear-israeli-settlers-will-seize-their-homes",
-     "author": "Aref Tufaha, Associated Press",
-     "kind": "news",
-     "published": "2026-08-14T21:43:06+00:00",
-     "summary": "The standoff in Qusra between Palestinian families and Israeli settlers who apparently want to push them out entered a new stage Friday as activists supporting the Palestinians marched toward the besieged homes to replenish their dwindling food and water supply."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
-     "url": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
-     "author": "Emma Graham-Harrison in Jerusalem",
-     "kind": "news",
-     "published": "2026-08-14T17:52:51+00:00",
-     "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-     "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T17:03:17+00:00",
-     "summary": "Two families have been trapped in their homes in the occupied West Bank for several days."
     }
    ]
   },
@@ -1105,71 +881,84 @@
    ]
   },
   {
-   "id": "cf3330e0bc",
-   "topic": "Other",
-   "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano)",
-   "summaryFrom": "npr",
-   "emphasis": null,
+   "id": "cc0f5a9b70",
+   "topic": "Politics",
+   "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 2,
+    "big": [
+     "ex-cambridge",
+     "blames"
+    ],
+    "indie": [
+     "became",
+     "cambridge's",
+     "london",
+     "accused"
+    ]
+   },
    "absent": [
-    "family",
-    "coop"
+    "corp",
+    "coop",
+    "pub"
    ],
-   "headline": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
-   "updated": "2026-08-15T17:49:42+00:00",
+   "headline": "UK's leader calls for reflection after the death of former Cambridge professor accused of plagiarism",
+   "updated": "2026-08-15T17:48:50+00:00",
    "outletCount": 5,
    "counts": {
-    "pub": 2,
-    "corp": 1,
-    "nonprofit": 2
+    "nonprofit": 2,
+    "family": 3
    },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": true,
+   "newsCount": 4,
+   "opinionCount": 1,
+   "underreported": false,
    "articles": [
     {
-     "outlet": "aljazeera",
-     "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
-     "url": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T17:49:42+00:00",
-     "summary": "The USS Washington&#039;s movement comes amid reports of dire conditions on the USS Lincoln amid the ongoing Iran war."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "USS Washington aircraft carrier heads to Middle East to replace USS Lincoln",
-     "url": "https://www.cbsnews.com/news/aircraft-carrier-uss-george-washington-uss-lincoln-iran-middle-east/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T15:26:02+00:00",
-     "summary": "The USS George Washington aircraft carrier departed Vietnam last week and is headed to the Middle East to replace the USS Abraham Lincoln, according to a U.S. official."
-    },
-    {
      "outlet": "pbsnewshour",
-     "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
-     "url": "https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln",
-     "author": "Konstantin Toropin, Associated Press",
+     "title": "UK's leader calls for reflection after the death of former Cambridge professor accused of plagiarism",
+     "url": "https://www.pbs.org/newshour/world/uks-leader-calls-for-reflection-after-the-death-of-former-cambridge-professor-accused-of-plagiarism",
+     "author": "Sylvia Hui, Associated Press",
      "kind": "news",
-     "published": "2026-08-14T23:10:05+00:00",
-     "summary": "The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days."
+     "published": "2026-08-15T17:48:50+00:00",
+     "summary": "Jason Arday, who became Cambridge's youngest Black professor in 2023, was found dead inside an address in south London on Friday."
     },
     {
-     "outlet": "bbc",
-     "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-     "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-     "author": null,
+     "outlet": "nyt",
+     "title": "Professor\u2019s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+     "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
+     "author": "Mara Hvistendahl, Megan Specia, Leo Sands, Ali Watkins and Susan Dominus",
      "kind": "news",
-     "published": "2026-08-14T17:36:27+00:00",
-     "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+     "published": "2026-08-15T17:31:40+00:00",
+     "summary": "Jason Arday, the school\u2019s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work."
     },
     {
      "outlet": "npr",
-     "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
-     "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
+     "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
+     "url": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
      "author": "The Associated Press",
      "kind": "news",
-     "published": "2026-08-14T06:31:29+00:00",
-     "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano)"
+     "published": "2026-08-15T17:04:43+00:00",
+     "summary": "Arday was 37 when he became Cambridge's youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London. (Image credit: Joe Giddens)"
+    },
+    {
+     "outlet": "breitbart",
+     "title": "UK Left Blames Death of Ex-Cambridge Professor Arday on 'Racism', Media Scrutiny of Plagiarism Claims",
+     "url": "https://www.breitbart.com/europe/2026/08/15/uk-left-blames-death-of-ex-cambridge-professor-arday-on-racism-media-scrutiny-of-plagiarism-claims/",
+     "author": "Kurt Zindulka",
+     "kind": "news",
+     "published": "2026-08-15T15:58:25+00:00",
+     "summary": "British leftists have attempted to blame racism and media scrutiny for the untimely death of former Cambridge professor Jason Arday, who sensationally resigned last week amid plagiarism allegations and accusations of fabricating his backstory. The post UK Left Blames Death of Ex-Cambridge Professor Arday on &#8216;Racism&#8217;, Media Scrutiny of Plagiarism Claims appeared first on Breitbart ."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Family Of Ex-Cambridge Professor Blames \u2018Campaign Of Misinformation\u2019 For His Death",
+     "url": "https://www.dailywire.com/news/family-of-ex-cambridge-professor-blames-campaign-of-misinformation-for-his-death",
+     "author": "Virginia Kruta",
+     "kind": "opinion",
+     "published": "2026-08-14T19:16:44+00:00",
+     "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too long.&#8221; Arday, 41, was found unresponsive in his South London home on Friday \u2014 just over a week after he left his position at the prestigious university. Prior to leaving his post, he&#8217;d been accused of plagiarism and of embellishing his life story ahead of the release of his memoir, &#8220;Great a"
     }
    ]
   },
@@ -1182,12 +971,12 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "appeared",
-     "donald",
      "president",
+     "donald",
      "images",
-     "rubio",
-     "marco"
+     "appeared",
+     "gift",
+     "viral"
     ],
     "indie": [
      "work",
@@ -1327,6 +1116,75 @@
    ]
   },
   {
+   "id": "53e6392a6d",
+   "topic": "World",
+   "summary": "South Korean President Lee Jae-myung proposed on Saturday that Pyongyang engage in dialogue to formally end the Korean War, which has technically been ongoing for more than 70 years due to the lack of a peace treaty.",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Israel strikes south Lebanon again as families flee north",
+   "updated": "2026-08-16T05:27:00+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 1,
+    "pub": 4
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Iran strikes another ship in Strait of Hormuz as Israel steps up Lebanon attacks",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T05:27:00+00:00",
+     "summary": "Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children, according to the health ministry."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Israel strikes south Lebanon again as families flee north",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T04:43:21+00:00",
+     "summary": "Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T00:00:45+00:00",
+     "summary": "Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz."
+    },
+    {
+     "outlet": "france24",
+     "title": "South Korea president proposes talks with Pyongyang to formally end Korean War",
+     "url": "https://www.france24.com/en/asia-pacific/20260815-south-korea-president-proposes-talks-with-pyongyang-to-formally-end-korean-war",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-15T15:39:37+00:00",
+     "summary": "South Korean President Lee Jae-myung proposed on Saturday that Pyongyang engage in dialogue to formally end the Korean War, which has technically been ongoing for more than 70 years due to the lack of a peace treaty."
+    },
+    {
+     "outlet": "bbc",
+     "title": "South Korea proposes talks to officially end war with North",
+     "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T14:40:15+00:00",
+     "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953."
+    }
+   ]
+  },
+  {
    "id": "f5ca3f92cb",
    "topic": "Culture & Sport",
    "summary": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 47 people Rescue crews dug through collapsed buildings and landslide debris in eastern Indonesia on Sunday as they searched for bodies and possible survivors a day after a powerful earthquake killed at least 47 people, injured more than 100 and displaced thousands. At least 24 people died in Manggarai regency and 17 in neighbouring East Manggarai, with additional fatalities reported in Sikka, Ngada and Ende regencies, the national disaster management agency said. Rescuers were still searching for people feared buried beneath landslides triggered by the quake across six regencies on Flores, a predominantly Catholic island in Muslim-majority Indonesia. Continue reading...",
@@ -1340,11 +1198,11 @@
    "updated": "2026-08-16T04:13:32+00:00",
    "outletCount": 4,
    "counts": {
-    "pub": 3,
+    "pub": 2,
     "nonprofit": 1,
     "corp": 1
    },
-   "newsCount": 5,
+   "newsCount": 4,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
@@ -1383,83 +1241,6 @@
      "kind": "news",
      "published": "2026-08-15T12:34:05+00:00",
      "summary": "Fresh back from Indonesia, FRANCE 24 journalist Jamie Smith-Maillet assesses the damage caused by the 7.7-magnitude earthquake that struck the Flores region. Rescue teams are working to pull survivors from the rubble, while an aftershock has hit the area, raising fears of further casualties."
-    },
-    {
-     "outlet": "france24",
-     "title": "Indonesia earthquake kills at least 38 as rescue operation continues",
-     "url": "https://www.france24.com/en/indonesia-earthquake-kills-at-least-38-as-rescue-operation-continues",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-15T08:47:43+00:00",
-     "summary": "A powerful 7.7-magnitude earthquake struck off Indonesia\u2019s Flores region, killing at least 38 people and injuring six, while rescuers search through collapsed buildings for survivors. Aftershocks, power outages and widespread destruction are hampering rescue efforts, highlighting the persistent seismic risk faced by Indonesia, which lies on the Pacific Ring of Fire."
-    }
-   ]
-  },
-  {
-   "id": "4fd3c34fbe",
-   "topic": "Climate & Energy",
-   "summary": "Hurricane Lala slammed Hawaii's Big Island, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides.",
-   "summaryFrom": "cbsnews",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [],
-    "indie": [
-     "strengthens",
-     "winds"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Storm Lala strengthens into a Category 1 hurricane as it nears Hawaii",
-   "updated": "2026-08-16T03:58:43+00:00",
-   "outletCount": 4,
-   "counts": {
-    "corp": 1,
-    "family": 1,
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Hurricane Lala lashes Hawaii's Big Island as a Category 1 storm",
-     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T03:58:43+00:00",
-     "summary": "Hurricane Lala slammed Hawaii's Big Island, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Flights between L.A. and Hawaii disrupted as Hurricane Lala hits the Big Island",
-     "url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
-     "author": "Josh Rottenberg",
-     "kind": "news",
-     "published": "2026-08-16T00:56:14+00:00",
-     "summary": "Several flights from LAX to Hawaii were canceled Saturday, including service to Kona, Maui, Kauai and Honolulu."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Storm Lala strengthens into a Category 1 hurricane as it nears Hawaii",
-     "url": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T17:27:57+00:00",
-     "summary": "Authorities warn residents to take precautions as storm is expected to bring rain and strong winds to the island chain."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
-     "url": "https://www.pbs.org/newshour/nation/hawaiis-big-island-lashed-by-rain-and-wind-as-tropical-storm-lala-closes-in",
-     "author": "Ed White, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T15:17:14+00:00",
-     "summary": "The National Hurricane Center said Lala's maximum sustained winds increased to 75 mph, making it a Category 1 hurricane."
     }
    ]
   },
@@ -1532,8 +1313,8 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "made",
-     "league"
+     "league",
+     "made"
     ],
     "indie": []
    },
@@ -1820,6 +1601,66 @@
    ]
   },
   {
+   "id": "85bba0da8f",
+   "topic": "Other",
+   "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano)",
+   "summaryFrom": "npr",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
+   "updated": "2026-08-15T15:26:02+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 2,
+    "pub": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "USS Washington aircraft carrier heads to Middle East to replace USS Lincoln",
+     "url": "https://www.cbsnews.com/news/aircraft-carrier-uss-george-washington-uss-lincoln-iran-middle-east/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T15:26:02+00:00",
+     "summary": "The USS George Washington aircraft carrier departed Vietnam last week and is headed to the Middle East to replace the USS Abraham Lincoln, according to a U.S. official."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
+     "url": "https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln",
+     "author": "Konstantin Toropin, Associated Press",
+     "kind": "news",
+     "published": "2026-08-14T23:10:05+00:00",
+     "summary": "The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days."
+    },
+    {
+     "outlet": "bbc",
+     "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
+     "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T17:36:27+00:00",
+     "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+    },
+    {
+     "outlet": "npr",
+     "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
+     "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-14T06:31:29+00:00",
+     "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano)"
+    }
+   ]
+  },
+  {
    "id": "2f0df6930f",
    "topic": "Justice & Policing",
    "summary": "WASHINGTON \u2014 President Donald Trump promised Friday that authorities are on the &#8220;trail&#8221; of vandals who graffitied the World War II Memorial. &#8220;Our beautiful World War II Memorial was just hit by Spray Painting Vandals,&#8221; the president wrote on Truth Social Friday morning. &#8220;THERE CAN BE NO GREATER INSULT TO THOSE AMERICAN HEROES WHO DIED IN WORLD WAR II,&#8221; Trump added. &#8220;First the Reflecting Pool, now this. We are on their trail! Where do these animals come from???&#8221; Vandals spray-painted red graffiti on the memorial on Thursday, with the message &#8220;Clean Hands Dirty $,&#8221; and filled the memorial&#8217;s fountain with soap and bubbles. U.S. Park Police are investigating the vandalism. The White House referred The Daily Wire to the Department of the Interior when asked to comment on the matter. In a statement, Interior called the\u2026",
@@ -1948,6 +1789,76 @@
    ]
   },
   {
+   "id": "5b97c93064",
+   "topic": "Other",
+   "summary": "Jason Arday, the Cambridge professor who resigned nine days ago over plagiarism allegations, was found dead in his London home. Authorities said in a statement that an ambulance was called to his residence after Arday had been found &#8220;unresponsive.&#8221; He was pronounced dead at the scene. Police added that the death was being treated as \u201cunexpected\u201d but is not believed to be suspicious, according to The Telegraph. Just nine days ago, Cambridge launched an investigation into Arday. \u201cThe University of Cambridge has begun an investigation following new information about Professor Arday\u2019s academic qualifications and honorary appointments,\u201d the statement from the university said. \u201cIn order to ensure a fair process, we will not comment further until this has concluded.&#8221; Cambridge was not initially keen on opening an investigation. Cambridge said Arday was \u201cthe victim of a vile\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 2,
+    "big": [
+     "called",
+     "police",
+     "statement",
+     "pronounced"
+    ],
+    "indie": []
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation",
+   "updated": "2026-08-15T01:56:24+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 1,
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "Youngest Black Professor\u2019s Plagiarism Scandal Takes Tragic Twist",
+     "url": "https://www.thedailybeast.com/youngest-black-professor-jason-ardays-plagiarism-scandal-takes-tragic-twist/",
+     "author": "William Vaillancourt",
+     "kind": "news",
+     "published": "2026-08-15T01:56:24+00:00",
+     "summary": "University of Cambridge A University of Cambridge professor who resigned last week amid plagiarism accusations has reportedly been found dead. Jason Arday, who taught sociology of education, was pronounced dead at an address in Battersea, south London, on Friday afternoon, according to The Telegraph . A Metropolitan Police spokesperson told the outlet in a statement that officers were called by the London Ambulance Service shortly after 3 p.m. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation",
+     "url": "https://www.pbs.org/newshour/world/jason-arday-youngest-black-professor-at-cambridge-found-dead-at-41-after-resignation",
+     "author": "Sylvia Hui, Associated Press",
+     "kind": "news",
+     "published": "2026-08-14T23:25:02+00:00",
+     "summary": "A British sociologist who resigned last week from the University of Cambridge following weeks of public accusations of plagiarism and media scrutiny was found dead Friday."
+    },
+    {
+     "outlet": "dw",
+     "title": "Jason Arday: Ex-Cambridge professor at centre of plagiarism scandal found dead",
+     "url": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T20:03:00+00:00",
+     "summary": "Jason Arday, the youngest ever Black professor at Cambridge, was found unresponsive at an address in London. Arday had recently resigned in the midst of a plagiarism row."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Professor Recently Outed For Fraudulent Biography Found Dead",
+     "url": "https://www.dailywire.com/news/professor-recently-outed-for-fraudulent-biography-found-dead",
+     "author": "Brecca Stoll",
+     "kind": "opinion",
+     "published": "2026-08-14T16:57:09+00:00",
+     "summary": "Jason Arday, the Cambridge professor who resigned nine days ago over plagiarism allegations, was found dead in his London home. Authorities said in a statement that an ambulance was called to his residence after Arday had been found &#8220;unresponsive.&#8221; He was pronounced dead at the scene. Police added that the death was being treated as \u201cunexpected\u201d but is not believed to be suspicious, according to The Telegraph. Just nine days ago, Cambridge launched an investigation into Arday. \u201cThe University of Cambridge has begun an investigation following new information about Professor Arday\u2019s academic qualifications and honorary appointments,\u201d the statement from the university said. \u201cIn order to ensure a fair process, we will not comment further until this has concluded.&#8221; Cambridge was not initially keen on opening an investigation. Cambridge said Arday was \u201cthe victim of a vile campaign to undermine his credibility, which must stop.\u201d The school began to change its tune when reports emerged that Arday had filed a harassment claim against a journalist who was investigating his work. The day that Cambridge announced its investigation, Arday resigned. \u201cI no longer wish to feel a"
+    }
+   ]
+  },
+  {
    "id": "623022e5fd",
    "topic": "Other",
    "summary": "An American missionary held in captivity in Niger for nine months will soon reunite with his family. Christian missionary pilot Kevin Rideout is free and safe with American officials after his kidnapping last year, his mission organization said Friday. It is not yet known how he escaped captivity or what group was holding him, but Islamist terror groups run rampant in Niger. Rideout, a father of four, was working with the Evangelical organization Serving in Mission (SIM) when he was kidnapped from Niamey, Niger, on October 21, 2025. \u201cWe are grateful to confirm that our good friend and brother in Christ, Kevin Rideout, has been released after over nine months in captivity,\u201d the organization said in a statement. \u201cKevin is in good health in the care of US officials. He will soon be reunited with Krista [Rideout\u2019s wife], his children, and his extended family.\u201d President Donald Trump\u2026",
@@ -2008,53 +1919,104 @@
    ]
   },
   {
-   "id": "8f183a3736",
-   "topic": "Other",
-   "summary": "American clocks 23.19sec to win final at Pan Pacs Douglass had first broken record with 23.49sec in heats Kate Douglass lowered her own world record in the women\u2019s 50m freestyle for the second time in one day, winning the Pan Pacific Championships final in 23.19sec. In the morning preliminaries, the 24-year-old American swam 23.49 to take the mark away from teammate Gretchen Walsh, who finished second in the evening final in 23.74. Australia\u2019s reigning world champion Meg Harris was third in 23.89. Continue reading...",
-   "summaryFrom": "guardian",
+   "id": "843e9d7145",
+   "topic": "Politics",
+   "summary": "Colombia's President Abelardo de la Espriella on Saturday called on US President Donald Trump to suspend tariffs on the South American nation as the country contiues to reel from a deadly earthquake. At least 300 people were killed in the quake that devastated the western Colombian cities of Cali and Pereira.",
+   "summaryFrom": "france24",
    "emphasis": null,
    "absent": [
     "family",
-    "coop"
+    "coop",
+    "nonprofit"
    ],
-   "headline": "American Kate Douglass breaks 50m freestyle world record twice in one day",
-   "updated": "2026-08-16T03:08:35+00:00",
+   "headline": "Colombia's new president asks Trump to suspend tariffs after deadly earthquake",
+   "updated": "2026-08-16T05:39:51+00:00",
    "outletCount": 3,
    "counts": {
-    "nonprofit": 1,
-    "corp": 1,
-    "pub": 1
+    "pub": 2,
+    "corp": 1
    },
    "newsCount": 3,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
     {
-     "outlet": "guardian",
-     "title": "American Kate Douglass breaks 50m freestyle world record twice in one day",
-     "url": "https://www.theguardian.com/sport/2026/aug/15/kate-douglass-50m-freestyle-world-record-gretchen-walsh-pan-pacs",
-     "author": "Agencies",
+     "outlet": "france24",
+     "title": "Colombia's new president asks Trump to suspend tariffs after deadly earthquake",
+     "url": "https://www.france24.com/en/americas/20260816-colombia-s-new-president-asks-trump-to-suspend-tariffs-after-deadly-earthquake",
+     "author": "FRANCE 24",
      "kind": "news",
-     "published": "2026-08-16T03:08:35+00:00",
-     "summary": "American clocks 23.19sec to win final at Pan Pacs Douglass had first broken record with 23.49sec in heats Kate Douglass lowered her own world record in the women\u2019s 50m freestyle for the second time in one day, winning the Pan Pacific Championships final in 23.19sec. In the morning preliminaries, the 24-year-old American swam 23.49 to take the mark away from teammate Gretchen Walsh, who finished second in the evening final in 23.74. Australia\u2019s reigning world champion Meg Harris was third in 23.89. Continue reading..."
+     "published": "2026-08-16T05:39:51+00:00",
+     "summary": "Colombia's President Abelardo de la Espriella on Saturday called on US President Donald Trump to suspend tariffs on the South American nation as the country contiues to reel from a deadly earthquake. At least 300 people were killed in the quake that devastated the western Colombian cities of Cali and Pereira."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
+     "url": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T23:04:47+00:00",
+     "summary": "Post-earthquake reconstruction is expected to cost about $6.4bn, but Colombia has been hit by renewed US tariffs."
     },
     {
      "outlet": "cbsnews",
-     "title": "American Kate Douglass sets 50-meter freestyle world record at Pan Pacific",
-     "url": "https://www.cbsnews.com/news/kate-douglass-50-free-world-record-pan-pacific-championships/",
+     "title": "Colombian president says he asked Trump to suspend tariffs after earthquake",
+     "url": "https://www.cbsnews.com/news/colombia-president-asks-trump-to-suspend-tariffs-after-earthquake/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-15T19:01:40+00:00",
-     "summary": "Kate Douglass, 24, is a five-time Olympic medalist."
+     "published": "2026-08-15T22:40:57+00:00",
+     "summary": "Colombian President Abelardo de la Espriella said he called President Trump and asked him to suspend tariffs currently targeting the South American nation."
+    }
+   ]
+  },
+  {
+   "id": "fd481c993c",
+   "topic": "Climate & Energy",
+   "summary": "Hurricane Lala slammed Hawaii's Big Island, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides.",
+   "summaryFrom": "cbsnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
+   "updated": "2026-08-16T03:58:43+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Hurricane Lala lashes Hawaii's Big Island as a Category 1 storm",
+     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T03:58:43+00:00",
+     "summary": "Hurricane Lala slammed Hawaii's Big Island, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides."
     },
     {
-     "outlet": "france24",
-     "title": "French swimmer Marchand wins first Euros gold as Germany's Liebmann breaks 1500m free world record",
-     "url": "https://www.france24.com/en/sport/20260815-l%C3%A9on-marchand-wins-200-meter-butterfly-at-european-swimming-championships",
-     "author": "FRANCE 24",
+     "outlet": "latimes",
+     "title": "Flights between L.A. and Hawaii disrupted as Hurricane Lala approaches the Big Island",
+     "url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
+     "author": "Josh Rottenberg",
      "kind": "news",
-     "published": "2026-08-15T16:51:24+00:00",
-     "summary": "French swimming star L\u00e9on Marchand won the 200m butterfly final at the European swimming championships Saturday in Paris while German swimmer Johannes Liebmann broke the 1,500m freestyle world record by nearly four seconds."
+     "published": "2026-08-16T00:56:14+00:00",
+     "summary": "Several flights from LAX to Hawaii were canceled Saturday, including service to Kona, Maui, Kauai and Honolulu."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
+     "url": "https://www.pbs.org/newshour/nation/hawaiis-big-island-lashed-by-rain-and-wind-as-tropical-storm-lala-closes-in",
+     "author": "Ed White, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T15:17:14+00:00",
+     "summary": "The National Hurricane Center said Lala's maximum sustained winds increased to 75 mph, making it a Category 1 hurricane."
     }
    ]
   },
@@ -2314,6 +2276,57 @@
    ]
   },
   {
+   "id": "a0ba21d917",
+   "topic": "Justice & Policing",
+   "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions\u2026",
+   "summaryFrom": "reason",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "Israeli Settler \"Terrorists\" Unjustly Expel West Bank Palestinians From Their Land",
+   "updated": "2026-08-15T22:17:52+00:00",
+   "outletCount": 3,
+   "counts": {
+    "nonprofit": 3
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "reason",
+     "title": "Israeli Settler \"Terrorists\" Unjustly Expel West Bank Palestinians From Their Land",
+     "url": "https://reason.com/volokh/2026/08/15/israeli-settler-terrorists-unjustly-expel-west-bank-palestinians-from-their-land/",
+     "author": "Ilya Somin",
+     "kind": "opinion",
+     "published": "2026-08-15T22:17:52+00:00",
+     "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions are deeply unjust, amounting to ethnic cleansing and gross violations of private property rights. They also highlight broader dangers of ethno-nationalist claims to exclusive control over land. The Times of Israel (a center-right Israeli publication) has a helpful overview of the recent settler violenc"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Palestinians besieged in West Bank village of Qusra fear Israeli settlers will seize their homes",
+     "url": "https://www.pbs.org/newshour/world/palestinians-besieged-in-west-bank-village-of-qusra-fear-israeli-settlers-will-seize-their-homes",
+     "author": "Aref Tufaha, Associated Press",
+     "kind": "news",
+     "published": "2026-08-14T21:43:06+00:00",
+     "summary": "The standoff in Qusra between Palestinian families and Israeli settlers who apparently want to push them out entered a new stage Friday as activists supporting the Palestinians marched toward the besieged homes to replenish their dwindling food and water supply."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+     "url": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+     "author": "Emma Graham-Harrison in Jerusalem",
+     "kind": "news",
+     "published": "2026-08-14T17:52:51+00:00",
+     "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading..."
+    }
+   ]
+  },
+  {
    "id": "cccf277238",
    "topic": "Politics",
    "summary": "Rep. Ralph Norman (R-SC) said he's willing to put in the work to win the Aug. 25 South Carolina Republican Senate runoff in an exclusive interview on Breitbart News Saturday. Norman said the country didn't have time to wait for someone who hasn't been involved in national issues and he was the \"known quantity\" for the Palmetto state's voters The post Exclusive \u2014 Ralph Norman: South Carolina Senate Runoff About Who Will Fight for SAVE America Act appeared first on Breitbart .",
@@ -2365,57 +2378,6 @@
    ]
   },
   {
-   "id": "cc0f5a9b70",
-   "topic": "Other",
-   "summary": "Jason Arday, the school\u2019s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work.",
-   "summaryFrom": "nyt",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "UK's leader calls for reflection after the death of former Cambridge professor accused of plagiarism",
-   "updated": "2026-08-15T17:48:50+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 1,
-    "family": 1,
-    "pub": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "pbsnewshour",
-     "title": "UK's leader calls for reflection after the death of former Cambridge professor accused of plagiarism",
-     "url": "https://www.pbs.org/newshour/world/uks-leader-calls-for-reflection-after-the-death-of-former-cambridge-professor-accused-of-plagiarism",
-     "author": "Sylvia Hui, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T17:48:50+00:00",
-     "summary": "Jason Arday, who became Cambridge's youngest Black professor in 2023, was found dead inside an address in south London on Friday."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Professor\u2019s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-     "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
-     "author": "Mara Hvistendahl, Megan Specia, Leo Sands, Ali Watkins and Susan Dominus",
-     "kind": "news",
-     "published": "2026-08-15T17:31:40+00:00",
-     "summary": "Jason Arday, the school\u2019s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "UK PM Burnham reacts to death of former Cambridge professor",
-     "url": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T17:19:12+00:00",
-     "summary": "Jason Arday was found dead on Friday, just days after resigning amid intense scrutiny over his academic work."
-    }
-   ]
-  },
-  {
    "id": "ab35692bcd",
    "topic": "Health",
    "summary": "Eggs displayed in refrigerated section of a grocery store. \u2014Lindsey Nicholson\u2014Universal Images Group An egg recall linked to a salmonella outbreak was upgraded to the highest possible risk level by the U.S. Food and Drug Administration (FDA) on Wednesday. Nearly 1.6 million dozen eggs were labeled \u201cClass I,\u201d which the agency defines as \u201ca situation in which there is a reasonable probability that the use of or exposure to a violative product will cause serious adverse health consequences or death.\u201d Symptoms of salmonella infection include \u201cfever, diarrhea (which may be bloody), nausea, vomiting, and abdominal pain,\u201d according to the FDA . \u201cIllness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella, and the symptoms usually last four to seven days,\u201d its website said, noting that children under 5, the elderly, and the immunocompromised were more\u2026",
@@ -2463,57 +2425,6 @@
      "kind": "news",
      "published": "2026-08-15T03:49:00+00:00",
      "summary": "The US has issued a serious health warning over the recalled eggs, saying exposure to the potentially contaminated products could cause severe illness or death."
-    }
-   ]
-  },
-  {
-   "id": "3cb53b867b",
-   "topic": "Justice & Policing",
-   "summary": "France\u2019s Constitutional Court has struck down a law that would have banned children under 15 from social media, ruling that it disproportionately infringed on freedom of expression and raised privacy concerns over age verification. The government plans to draft a revised bill, with Emmanuel Macron citing concerns over the impact of social media on children\u2019s mental and physical health.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "France\u2019s top court rejects social media ban for under-15s",
-   "updated": "2026-08-15T12:53:35+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 3
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "France\u2019s top court rejects social media ban for under-15s",
-     "url": "https://www.france24.com/en/france-s-top-court-rejects-social-media-ban-for-under-15s",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-15T12:53:35+00:00",
-     "summary": "France\u2019s Constitutional Court has struck down a law that would have banned children under 15 from social media, ruling that it disproportionately infringed on freedom of expression and raised privacy concerns over age verification. The government plans to draft a revised bill, with Emmanuel Macron citing concerns over the impact of social media on children\u2019s mental and physical health."
-    },
-    {
-     "outlet": "bbc",
-     "title": "France's top court blocks social media ban for under-15s",
-     "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T16:35:06+00:00",
-     "summary": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft."
-    },
-    {
-     "outlet": "dw",
-     "title": "France: Top watchdog blocks social media ban for children",
-     "url": "https://www.dw.com/en/france-top-watchdog-blocks-social-media-ban-for-children/a-78373812?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T14:22:00+00:00",
-     "summary": "Denying access to platforms such as Facebook, TikTok and YouTube for under-15s would infringe upon freedom of expression, the Constitutional Council has said."
     }
    ]
   },
@@ -2658,6 +2569,48 @@
      "kind": "news",
      "published": "2026-08-15T21:15:59+00:00",
      "summary": "Dr. Anthony Fauci on Friday declined a request to voluntarily appear before a second Senate panel, opening another front in Republicans\u2019 investigations into the former public health official\u2019s handling of the COVID-19 pandemic. An attorney for Fauci rejected the request from Sen. Ron Johnson , R-Wis., chairman of the Senate Permanent Subcommittee on Investigations, arguing that compelling Fauci to testify again after his contentious July 29 Senate hearing would \"impermissibly harass or degrade Dr. Fauci for political purposes.\" Johnson has been conducting a parallel investigation into Fauci and the federal government\u2019s response to COVID-19, including the safety and efficacy of COVID-19 vaccines. SEN RON JOHNSON TALKS FAUCI EMAILS, NEW SENATE FILIBUSTER STRATEGY ON 'RUTHLESS' The refusal comes after Republicans on the Senate Homeland Security and Governmental Affairs Committee voted along party lines last week to hold Fauci in contempt of Congress after he invoked his Fifth Amendment right against self-incrimination more than 100 times during the July hearing. Committee chairman Rand Paul , R-Ky., has sought to send the contempt referral directly to the U.S. Attorney's Office in the"
+    }
+   ]
+  },
+  {
+   "id": "9e78b3e4ee",
+   "topic": "Other",
+   "summary": "Australia introduced measures to reduce gun ownership following a deadly attack on Sydney&#039;s Bondi Beach last year.",
+   "summaryFrom": "aljazeera",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
+   "updated": "2026-08-16T04:35:26+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
+     "url": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T04:35:26+00:00",
+     "summary": "Australia introduced measures to reduce gun ownership following a deadly attack on Sydney&#039;s Bondi Beach last year."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Australian state to launch gun buyback after Bondi Beach attack",
+     "url": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T21:41:43+00:00",
+     "summary": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms."
     }
    ]
   },
@@ -2826,6 +2779,48 @@
      "kind": "news",
      "published": "2026-08-15T21:29:50+00:00",
      "summary": "A Florida middle school teacher was arrested after investigators said he exchanged inappropriate messages with a former teenage student and acknowledged communicating inappropriately with the student since 2023. Christian Schneider, 31, a teacher at Memorial Middle School, was arrested Friday on charges of three felonies following an investigation by the Hillsborough County Sheriff's Office. Detectives opened a criminal investigation into Schneider on July 28, and learned he had been sending inappropriate messages to a former teenage student at Franklin Middle School, according to the sheriff's office. KENTUCKY MIDDLE SCHOOL TEACHER ACCUSED OF CROSSING THE LINE WITH STUDENT, ARRESTED UNDER NEW ANTI-GROOMING LAW Schneider told deputies he had engaged in inappropriate communication with the student since 2023, authorities said. Authorities have not disclosed the student's exact age, how investigators learned about the alleged communications or further details about the messages. Schneider faces two counts of solicitation or possession of child sexual abuse material , both second-degree felonies, according to Hillsborough County Sheriff's Office booking records. He also faces one coun"
+    }
+   ]
+  },
+  {
+   "id": "8f183a3736",
+   "topic": "Other",
+   "summary": "American clocks 23.19sec to win final at Pan Pacs Douglass had first broken record with 23.49sec in heats Kate Douglass lowered her own world record in the women\u2019s 50m freestyle for the second time in one day, winning the Pan Pacific Championships final in 23.19sec. In the morning preliminaries, the 24-year-old American swam 23.49 to take the mark away from teammate Gretchen Walsh, who finished second in the evening final in 23.74. Australia\u2019s reigning world champion Meg Harris was third in 23.89. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "American Kate Douglass breaks 50m freestyle world record twice in one day",
+   "updated": "2026-08-16T03:08:35+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "American Kate Douglass breaks 50m freestyle world record twice in one day",
+     "url": "https://www.theguardian.com/sport/2026/aug/15/kate-douglass-50m-freestyle-world-record-gretchen-walsh-pan-pacs",
+     "author": "Agencies",
+     "kind": "news",
+     "published": "2026-08-16T03:08:35+00:00",
+     "summary": "American clocks 23.19sec to win final at Pan Pacs Douglass had first broken record with 23.49sec in heats Kate Douglass lowered her own world record in the women\u2019s 50m freestyle for the second time in one day, winning the Pan Pacific Championships final in 23.19sec. In the morning preliminaries, the 24-year-old American swam 23.49 to take the mark away from teammate Gretchen Walsh, who finished second in the evening final in 23.74. Australia\u2019s reigning world champion Meg Harris was third in 23.89. Continue reading..."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "American Kate Douglass sets 50-meter freestyle world record at Pan Pacific",
+     "url": "https://www.cbsnews.com/news/kate-douglass-50-free-world-record-pan-pacific-championships/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T19:01:40+00:00",
+     "summary": "Kate Douglass, 24, is a five-time Olympic medalist."
     }
    ]
   },
@@ -3273,48 +3268,6 @@
      "kind": "news",
      "published": "2026-08-14T22:10:53+00:00",
      "summary": "Gutman was included in a former ABC News producer's wrongful termination suit filed Friday in Los Angeles."
-    }
-   ]
-  },
-  {
-   "id": "527476ab98",
-   "topic": "Politics",
-   "summary": "Colombian President Abelardo de la Espriella said he called President Trump and asked him to suspend tariffs currently targeting the South American nation.",
-   "summaryFrom": "cbsnews",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
-   "updated": "2026-08-15T23:04:47+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
-     "url": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T23:04:47+00:00",
-     "summary": "Post-earthquake reconstruction is expected to cost about $6.4bn, but Colombia has been hit by renewed US tariffs."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Colombian president says he asked Trump to suspend tariffs after earthquake",
-     "url": "https://www.cbsnews.com/news/colombia-president-asks-trump-to-suspend-tariffs-after-earthquake/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T22:40:57+00:00",
-     "summary": "Colombian President Abelardo de la Espriella said he called President Trump and asked him to suspend tariffs currently targeting the South American nation."
     }
    ]
   },
