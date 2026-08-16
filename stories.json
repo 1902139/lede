@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T07:46:27.986382+00:00",
+ "generated": "2026-08-16T08:48:12.078758+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -16,14 +16,14 @@
      "released",
      "dismisses",
      "answers",
-     "lawmakers",
-     "diego-based"
+     "diego-based",
+     "lawmakers"
     ],
     "indie": [
      "credit",
      "image",
-     "record-setting",
      "reported",
+     "record-setting",
      "even",
      "jumping"
     ]
@@ -181,134 +181,6 @@
    ]
   },
   {
-   "id": "6168cf6793",
-   "topic": "World",
-   "summary": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 47 people Rescue crews dug through collapsed buildings and landslide debris in eastern Indonesia on Sunday as they searched for bodies and possible survivors a day after a powerful earthquake killed at least 47 people, injured more than 100 and displaced thousands. At least 24 people died in Manggarai regency and 17 in neighbouring East Manggarai, with additional fatalities reported in Sikka, Ngada and Ende regencies, the national disaster management agency said. Rescuers were still searching for people feared buried beneath landslides triggered by the quake across six regencies on Flores, a predominantly Catholic island in Muslim-majority Indonesia. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 8,
-    "big": [
-     "hits"
-    ],
-    "indie": [
-     "buildings",
-     "survivors",
-     "search",
-     "thousands",
-     "damaged",
-     "quakes"
-    ]
-   },
-   "absent": [
-    "family",
-    "coop"
-   ],
-   "headline": "Indonesia\u2019s magnitude 7.7 quake kills at least 51, displaces thousands",
-   "updated": "2026-08-16T06:09:45+00:00",
-   "outletCount": 9,
-   "counts": {
-    "corp": 2,
-    "pub": 5,
-    "nonprofit": 3
-   },
-   "newsCount": 10,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "abcnews",
-     "title": "2nd earthquake hits Indonesia following powerful magnitude 7.7 quake",
-     "url": "https://abcnews.com/International/2-dead-after-powerful-77-earthquake-strikes-off/story?id=135664681",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T06:09:45+00:00",
-     "summary": "A powerful magnitude 7.7 earthquake struck off the coast of eastern Indonesia, according to the U.S. Geological Survey."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Indonesia\u2019s magnitude 7.7 quake kills at least 51, displaces thousands",
-     "url": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T05:14:00+00:00",
-     "summary": "Over 1,300 homes damaged and 5,000 people displaced as Indonesia grapples with one of its deadliest quakes in years."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-     "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T04:13:32+00:00",
-     "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Rescue teams search for survivors in Indonesia after powerful earthquake",
-     "url": "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T03:57:34+00:00",
-     "summary": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 47 people Rescue crews dug through collapsed buildings and landslide debris in eastern Indonesia on Sunday as they searched for bodies and possible survivors a day after a powerful earthquake killed at least 47 people, injured more than 100 and displaced thousands. At least 24 people died in Manggarai regency and 17 in neighbouring East Manggarai, with additional fatalities reported in Sikka, Ngada and Ende regencies, the national disaster management agency said. Rescuers were still searching for people feared buried beneath landslides triggered by the quake across six regencies on Flores, a predominantly Catholic island in Muslim-majority Indonesia. Continue reading..."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Videos capture the moment a devastating 7.7 magnitude earthquake hits Indonesia",
-     "url": "https://www.cbsnews.com/video/indonesia-earthquake-videos/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T01:44:20+00:00",
-     "summary": "At least 47 people died Saturday after a powerful 7.7 magnitude earthquake struck eastern Indonesia, with authorities warning the death toll is likely to rise. Videos captured the devastating shocks and aftermath."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47 and toppling buildings",
-     "url": "https://www.pbs.org/newshour/world/magnitude-7-7-earthquake-strikes-off-indonesias-coast-killing-at-least-47-and-toppling-buildings",
-     "author": "Yacob Herin, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T15:01:06+00:00",
-     "summary": "Authorities issued a tsunami warning and urged coastal residents to move to higher ground, but later lifted the warning when Indonesia's meteorological agency said monitoring showed no significant sea-level changes that posed a threat to coastal communities."
-    },
-    {
-     "outlet": "france24",
-     "title": "Indonesia hit by earthquake aftershock as rescuers search for survivors",
-     "url": "https://www.france24.com/en/indonesia-hit-by-earthquake-aftershock-as-rescuers-search-for-survivors",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-15T12:34:05+00:00",
-     "summary": "Fresh back from Indonesia, FRANCE 24 journalist Jamie Smith-Maillet assesses the damage caused by the 7.7-magnitude earthquake that struck the Flores region. Rescue teams are working to pull survivors from the rubble, while an aftershock has hit the area, raising fears of further casualties."
-    },
-    {
-     "outlet": "france24",
-     "title": "\ud83d\udd34 Indonesia hit by two powerful earthquakes",
-     "url": "https://www.france24.com/en/asia-pacific/20260815-deadly-earthquake-strikes-indonesia-and-triggers-mass-evacuations",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-15T11:49:36+00:00",
-     "summary": null
-    },
-    {
-     "outlet": "npr",
-     "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47",
-     "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T08:29:20+00:00",
-     "summary": "A powerful earthquake struck off the coast of Indonesia early Saturday, collapsing buildings as well as causing panic in a region prone to deadly quakes. (Image credit: BASARNAS via AP)"
-    },
-    {
-     "outlet": "dw",
-     "title": "Indonesia: Dozens dead after earthquake off Flores island",
-     "url": "https://www.dw.com/en/indonesia-dozens-dead-after-earthquake-off-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T23:45:00+00:00",
-     "summary": "At least 47 people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftershocks. A tsunami warning has been lifted."
-    }
-   ]
-  },
-  {
    "id": "cc3b730f3d",
    "topic": "Politics",
    "summary": "As tensions between the U.S. and Iran remain unsettled more than five months since the start of the war, the number of ships transiting the Strait of Hormuz appears to be far below pre-conflict levels. \"Despite a brief recovery in late June, vessel traffic through the Strait of Hormuz remains significantly reduced, AIS [Automatic Identification System] transit information suggests operators increasingly favouring the Northern route following projectile attacks, ongoing security concerns, and heightened enforcement activity,\" a United Kingdom Maritime Trade Operations (UKMTO) voluntary reporting area overview noted. \"Traffic remains well below normal levels, with AIS-detected transits approximately 90% below pre-conflict baselines and declining since the 24-26 (June) peak.\" The trade intelligence company Kpler reported in part of a post Friday on X that \"Maritime traffic through the\u2026",
@@ -321,8 +193,8 @@
      "called",
      "delusions",
      "defeat",
-     "through",
-     "waterway"
+     "waterway",
+     "months"
     ],
     "indie": [
      "become"
@@ -424,118 +296,6 @@
      "kind": "news",
      "published": "2026-08-13T12:14:04+00:00",
      "summary": "Washington and Tehran again presented sharply contrasting narratives over the Strait of Hormuz, underscoring skepticism over the reopening of the waterway. Hours after US President Donald Trump said his forces had \u201ctotal control\u201d over Hormuz , Iranian officials said his remarks \u201c do not change the reality \u201d of its closure. The Wall Street Journal said tracking data showed just 14 ships traversed the channel on Tuesday, barely a tenth of pre-war levels , though a leading Bloomberg columnist suggested that analysts were likely underestimating the volume of oil crossing Hormuz: He noted that visible oil spills pointed to a battle between Iran trying to keep the strait closed while others push to keep it open, \u201c perhaps more successfully than we think .\u201d \u2014 Prashant Rao"
-    }
-   ]
-  },
-  {
-   "id": "3e44303664",
-   "topic": "Justice & Policing",
-   "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges. \"I shot Mr. Thompson,\" Mangione said during Friday's hearing, adding, \"I knew\u2026",
-   "summaryFrom": "axios",
-   "emphasis": {
-    "bigCount": 5,
-    "indieCount": 3,
-    "big": [
-     "court",
-     "friday",
-     "plea",
-     "executive"
-    ],
-    "indie": [
-     "admitted",
-     "life",
-     "pleading",
-     "year-old",
-     "death"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "US : Luigi Mangione pleads guilty to killing UnitedHealthcare CEO",
-   "updated": "2026-08-15T15:31:17+00:00",
-   "outletCount": 8,
-   "counts": {
-    "corp": 2,
-    "pub": 2,
-    "nonprofit": 1,
-    "family": 3
-   },
-   "newsCount": 7,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Luigi Mangione pleads guilty in federal case, admits to shooting Brian Thompson",
-     "url": "https://www.cbsnews.com/news/luigi-mangione-says-he-will-plead-guilty-in-federal-case/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T15:31:17+00:00",
-     "summary": "Luigi Mangione entered a guilty plea in his federal case at a court appearance in Manhattan Friday morning."
-    },
-    {
-     "outlet": "france24",
-     "title": "US : Luigi Mangione pleads guilty to killing UnitedHealthcare CEO",
-     "url": "https://www.france24.com/en/us-luigi-mangione-pleads-guilty-to-killing-unitedhealthcare-ceo",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-15T09:47:03+00:00",
-     "summary": "Luigi Mangione has pleaded guilty to federal stalking charges and admitted killing UnitedHealthcare CEO Brian Thompson in New York in December 2024. His lawyers are seeking to have the state charges dropped under New York\u2019s double jeopardy protections, while prosecutors plan to seek a life sentence at his December sentencing."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Luigi Mangione reveals motive for CEO's killing after pleading guilty in federal case",
-     "url": "https://www.pbs.org/newshour/show/luigi-mangione-reveals-motive-for-ceos-killing-after-pleading-guilty-in-federal-case",
-     "author": "Andrew Merlis",
-     "kind": "news",
-     "published": "2026-08-14T22:57:22+00:00",
-     "summary": "In a surprise turn, Luigi Mangione pleaded guilty to the shooting death of UnitedHealthcare CEO Brian Thompson. Mangione admitted he stalked and shot Thompson in 2024 outside a Hilton hotel in Manhattan. He potentially faces life in prison. The 28-year-old is also still facing state murder charges for Thompson's death in New York. Justice correspondent Ali Rogin reports."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Outrage at UnitedHealth and Other Insurers Persists After Brian Thompson Killing",
-     "url": "https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html",
-     "author": "Reed Abelson",
-     "kind": "opinion",
-     "published": "2026-08-14T21:02:34+00:00",
-     "summary": "Stephen Hemsley, chief executive of UnitedHealth Group, left, was among the executives defending insurers\u2019 practices at congressional hearings in January. To his left were David Joyner, chairman of CVS Health, and Gail Boudreaux, chief executive of Elevance Health."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Mangione admits to shooting insurance CEO, pleads guilty to federal charges",
-     "url": "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/",
-     "author": "Tim Craig, Joanna Slater, Jeremy Roebuck",
-     "kind": "news",
-     "published": "2026-08-14T20:53:00+00:00",
-     "summary": "Mangione read a statement in court in which he described targeting UnitedHealthcare CEO Brian Thompson outside an investor conference in late 2024."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-     "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T19:20:43+00:00",
-     "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death."
-    },
-    {
-     "outlet": "axios",
-     "title": "Luigi Mangione pleads guilty to stalking UnitedHealthcare CEO, admits killing him",
-     "url": "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case",
-     "author": "Avery Lotz",
-     "kind": "news",
-     "published": "2026-08-14T19:15:57+00:00",
-     "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges. \"I shot Mr. Thompson,\" Mangione said during Friday's hearing, adding, \"I knew what I was doing was illegal,\" per multiple reports. He described traveling to Manhattan ahead of the shooting, and seeking information about the conference Thompson was attending by posing as an investor. Mangione also described creating a gun with a 3D printer and attaching a silencer to it. Garnett "
-    },
-    {
-     "outlet": "time",
-     "title": "Luigi Mangione Pleads Guilty to Federal Charges in UnitedHealthcare CEO's Fatal Shooting",
-     "url": "https://time.com/article/2026/08/14/luigi-mangione-guilty-plea-federal-case-unitedhealthcare-brian-thompson/",
-     "author": "Chantelle Lee",
-     "kind": "news",
-     "published": "2026-08-14T15:41:30+00:00",
-     "summary": "Luigi Mangione on Friday pleaded guilty to both federal stalking charges against him in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson, admitting in court that he shot the healthcare executive in 2024. Luigi Mangione on Friday pleaded guilty to both federal stalking charges against him in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson, admitting in court that he shot the healthcare executive in 2024. Mangione pleaded guilty to two charges that each carry a possible life sentence: interstate stalking resulting in death and stalking through use of interstate facilities resulting in death. The judge accepted his plea. \u201cI shot Mr. Thompson in Manhattan,\u201d Mangione told the judge on Friday, according to the New York Times. \u201cI understood that my actions would place him in fear of death or bodily injury. I knew what I was doing was illegal.\u201d He said during the hearing that he tracked down Thompson \u201cafter years of enduring severe pain from a broken back, navigating the obstacles of the health insurance system and witnessing similar experiences of countless others,\u201d The Associated Press reported. He said he had 3-D printed a gun and attac"
     }
    ]
   },
@@ -642,6 +402,107 @@
    ]
   },
   {
+   "id": "6168cf6793",
+   "topic": "World",
+   "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to the epicentre, because roads were blocked by landslides and communications disrupted. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 5,
+    "big": [
+     "hits"
+    ],
+    "indie": [
+     "buildings",
+     "tsunami",
+     "homes",
+     "quakes",
+     "thousands",
+     "kills"
+    ]
+   },
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "Indonesia\u2019s magnitude 7.7 quake kills at least 51, displaces thousands",
+   "updated": "2026-08-16T06:09:45+00:00",
+   "outletCount": 7,
+   "counts": {
+    "corp": 2,
+    "pub": 2,
+    "nonprofit": 3
+   },
+   "newsCount": 7,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "abcnews",
+     "title": "2nd earthquake hits Indonesia following powerful magnitude 7.7 quake",
+     "url": "https://abcnews.com/International/2-dead-after-powerful-77-earthquake-strikes-off/story?id=135664681",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T06:09:45+00:00",
+     "summary": "A powerful magnitude 7.7 earthquake struck off the coast of eastern Indonesia, according to the U.S. Geological Survey."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Indonesia\u2019s magnitude 7.7 quake kills at least 51, displaces thousands",
+     "url": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T05:14:00+00:00",
+     "summary": "Over 1,300 homes damaged and 5,000 people displaced as Indonesia grapples with one of its deadliest quakes in years."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Videos capture the moment a devastating 7.7 magnitude earthquake hits Indonesia",
+     "url": "https://www.cbsnews.com/video/indonesia-earthquake-videos/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T01:44:20+00:00",
+     "summary": "At least 47 people died Saturday after a powerful 7.7 magnitude earthquake struck eastern Indonesia, with authorities warning the death toll is likely to rise. Videos captured the devastating shocks and aftermath."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Powerful earthquake kills dozens in eastern Indonesia",
+     "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+     "author": "William Christou and agencies",
+     "kind": "news",
+     "published": "2026-08-15T15:34:38+00:00",
+     "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to the epicentre, because roads were blocked by landslides and communications disrupted. Continue reading..."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47 and toppling buildings",
+     "url": "https://www.pbs.org/newshour/world/magnitude-7-7-earthquake-strikes-off-indonesias-coast-killing-at-least-47-and-toppling-buildings",
+     "author": "Yacob Herin, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T15:01:06+00:00",
+     "summary": "Authorities issued a tsunami warning and urged coastal residents to move to higher ground, but later lifted the warning when Indonesia's meteorological agency said monitoring showed no significant sea-level changes that posed a threat to coastal communities."
+    },
+    {
+     "outlet": "npr",
+     "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47",
+     "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T08:29:20+00:00",
+     "summary": "A powerful earthquake struck off the coast of Indonesia early Saturday, collapsing buildings as well as causing panic in a region prone to deadly quakes. (Image credit: BASARNAS via AP)"
+    },
+    {
+     "outlet": "dw",
+     "title": "Indonesia: Dozens dead after earthquake off Flores island",
+     "url": "https://www.dw.com/en/indonesia-dozens-dead-after-earthquake-off-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T23:45:00+00:00",
+     "summary": "At least 47 people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftershocks. A tsunami warning has been lifted."
+    }
+   ]
+  },
+  {
    "id": "a0884e8013",
    "topic": "Politics",
    "summary": "The Democratic National Committee (DNC) has voted to approve the 2028 presidential primary calendar, starting with South Carolina. The party okayed a plan that has the Palmetto State kicking off the cycle on Jan. 22, 2028, followed by Nevada on Feb. 1. New Hampshire, long a first-in-the-nation contest, will hold its primary third, on Feb....",
@@ -650,11 +511,11 @@
     "bigCount": 5,
     "indieCount": 2,
     "big": [
-     "national",
      "approve",
+     "national",
      "party",
-     "hold",
      "democratic",
+     "hold",
      "committee"
     ],
     "indie": [
@@ -739,6 +600,197 @@
      "kind": "news",
      "published": "2026-08-14T09:41:06+00:00",
      "summary": "The DNC is expected to vote on Saturday to approve the new order of states for the 2028 presidential nominating process, amidst controversy over some of those decisions."
+    }
+   ]
+  },
+  {
+   "id": "fc3549f0e2",
+   "topic": "Justice & Policing",
+   "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges. \"I shot Mr. Thompson,\" Mangione said during Friday's hearing, adding, \"I knew\u2026",
+   "summaryFrom": "axios",
+   "emphasis": {
+    "bigCount": 5,
+    "indieCount": 2,
+    "big": [
+     "court",
+     "friday",
+     "plea",
+     "executive"
+    ],
+    "indie": [
+     "death",
+     "pleading",
+     "year-old"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Luigi Mangione reveals motive for CEO's killing after pleading guilty in federal case",
+   "updated": "2026-08-15T15:31:17+00:00",
+   "outletCount": 7,
+   "counts": {
+    "corp": 2,
+    "nonprofit": 1,
+    "family": 3,
+    "pub": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Luigi Mangione pleads guilty in federal case, admits to shooting Brian Thompson",
+     "url": "https://www.cbsnews.com/news/luigi-mangione-says-he-will-plead-guilty-in-federal-case/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T15:31:17+00:00",
+     "summary": "Luigi Mangione entered a guilty plea in his federal case at a court appearance in Manhattan Friday morning."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Luigi Mangione reveals motive for CEO's killing after pleading guilty in federal case",
+     "url": "https://www.pbs.org/newshour/show/luigi-mangione-reveals-motive-for-ceos-killing-after-pleading-guilty-in-federal-case",
+     "author": "Andrew Merlis",
+     "kind": "news",
+     "published": "2026-08-14T22:57:22+00:00",
+     "summary": "In a surprise turn, Luigi Mangione pleaded guilty to the shooting death of UnitedHealthcare CEO Brian Thompson. Mangione admitted he stalked and shot Thompson in 2024 outside a Hilton hotel in Manhattan. He potentially faces life in prison. The 28-year-old is also still facing state murder charges for Thompson's death in New York. Justice correspondent Ali Rogin reports."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Outrage at UnitedHealth and Other Insurers Persists After Brian Thompson Killing",
+     "url": "https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html",
+     "author": "Reed Abelson",
+     "kind": "opinion",
+     "published": "2026-08-14T21:02:34+00:00",
+     "summary": "Stephen Hemsley, chief executive of UnitedHealth Group, left, was among the executives defending insurers\u2019 practices at congressional hearings in January. To his left were David Joyner, chairman of CVS Health, and Gail Boudreaux, chief executive of Elevance Health."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Mangione admits to shooting insurance CEO, pleads guilty to federal charges",
+     "url": "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/",
+     "author": "Tim Craig, Joanna Slater, Jeremy Roebuck",
+     "kind": "news",
+     "published": "2026-08-14T20:53:00+00:00",
+     "summary": "Mangione read a statement in court in which he described targeting UnitedHealthcare CEO Brian Thompson outside an investor conference in late 2024."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+     "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T19:20:43+00:00",
+     "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death."
+    },
+    {
+     "outlet": "axios",
+     "title": "Luigi Mangione pleads guilty to stalking UnitedHealthcare CEO, admits killing him",
+     "url": "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case",
+     "author": "Avery Lotz",
+     "kind": "news",
+     "published": "2026-08-14T19:15:57+00:00",
+     "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges. \"I shot Mr. Thompson,\" Mangione said during Friday's hearing, adding, \"I knew what I was doing was illegal,\" per multiple reports. He described traveling to Manhattan ahead of the shooting, and seeking information about the conference Thompson was attending by posing as an investor. Mangione also described creating a gun with a 3D printer and attaching a silencer to it. Garnett "
+    },
+    {
+     "outlet": "time",
+     "title": "Luigi Mangione Pleads Guilty to Federal Charges in UnitedHealthcare CEO's Fatal Shooting",
+     "url": "https://time.com/article/2026/08/14/luigi-mangione-guilty-plea-federal-case-unitedhealthcare-brian-thompson/",
+     "author": "Chantelle Lee",
+     "kind": "news",
+     "published": "2026-08-14T15:41:30+00:00",
+     "summary": "Luigi Mangione on Friday pleaded guilty to both federal stalking charges against him in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson, admitting in court that he shot the healthcare executive in 2024. Luigi Mangione on Friday pleaded guilty to both federal stalking charges against him in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson, admitting in court that he shot the healthcare executive in 2024. Mangione pleaded guilty to two charges that each carry a possible life sentence: interstate stalking resulting in death and stalking through use of interstate facilities resulting in death. The judge accepted his plea. \u201cI shot Mr. Thompson in Manhattan,\u201d Mangione told the judge on Friday, according to the New York Times. \u201cI understood that my actions would place him in fear of death or bodily injury. I knew what I was doing was illegal.\u201d He said during the hearing that he tracked down Thompson \u201cafter years of enduring severe pain from a broken back, navigating the obstacles of the health insurance system and witnessing similar experiences of countless others,\u201d The Associated Press reported. He said he had 3-D printed a gun and attac"
+    }
+   ]
+  },
+  {
+   "id": "b6f2ce66b2",
+   "topic": "Climate & Energy",
+   "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is expected to weaken gradually. However, the hurricane caused roads to flood and turned rivers into raging torrents.",
+   "summaryFrom": "dw",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 3,
+    "big": [
+     "life-threatening"
+    ],
+    "indie": [
+     "winds",
+     "landfall",
+     "strong",
+     "making"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+   "updated": "2026-08-16T07:58:02+00:00",
+   "outletCount": 6,
+   "counts": {
+    "pub": 2,
+    "corp": 1,
+    "family": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+     "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T07:58:02+00:00",
+     "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "One dead as Hurricane Lala lashes Hawaii's Big Island as a Category 1 storm",
+     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T06:59:11+00:00",
+     "summary": "Hurricane Lala slammed Hawaii's Big Island, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides."
+    },
+    {
+     "outlet": "dw",
+     "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
+     "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T05:57:00+00:00",
+     "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is expected to weaken gradually. However, the hurricane caused roads to flood and turned rivers into raging torrents."
+    },
+    {
+     "outlet": "nypost",
+     "title": "Hurricane Lala leaves thousands without power in Hawaii amid \u2018life-threatening\u2019 conditions",
+     "url": "https://nypost.com/2026/08/16/us-news/hurricane-lala-leaves-thousands-without-power-in-hawaii-amid-life-threatening-conditions/",
+     "author": "Reuters",
+     "kind": "news",
+     "published": "2026-08-16T04:33:06+00:00",
+     "summary": "Hawaiian Electric warned customers to expect \u201cpossible extended outages, potentially overnight,\u201d as the storm system made its way westward across Hawaii."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Flights between L.A. and Hawaii disrupted as Hurricane Lala approaches the Big Island",
+     "url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
+     "author": "Josh Rottenberg",
+     "kind": "news",
+     "published": "2026-08-16T00:56:14+00:00",
+     "summary": "Several flights from LAX to Hawaii were canceled Saturday, including service to Kona, Maui, Kauai and Honolulu."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
+     "url": "https://www.pbs.org/newshour/nation/hawaiis-big-island-lashed-by-rain-and-wind-as-tropical-storm-lala-closes-in",
+     "author": "Ed White, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T15:17:14+00:00",
+     "summary": "The National Hurricane Center said Lala's maximum sustained winds increased to 75 mph, making it a Category 1 hurricane."
     }
    ]
   },
@@ -923,8 +975,8 @@
     "big": [],
     "indie": [
      "claims",
-     "holding",
-     "tehran"
+     "tehran",
+     "holding"
     ]
    },
    "absent": [
@@ -1137,13 +1189,13 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "ex-cambridge",
-     "blames"
+     "blames",
+     "ex-cambridge"
     ],
     "indie": [
      "london",
-     "became",
      "accused",
+     "became",
      "cambridge's"
     ]
    },
@@ -1219,16 +1271,16 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
+     "appeared",
+     "president",
      "donald",
      "images",
-     "president",
-     "appeared",
-     "photo",
-     "official"
+     "rubio",
+     "marco"
     ],
     "indie": [
-     "work",
-     "wall"
+     "wall",
+     "work"
     ]
    },
    "absent": [
@@ -1375,7 +1427,7 @@
     "nonprofit"
    ],
    "headline": "Israel strikes south Lebanon again as families flee north",
-   "updated": "2026-08-16T05:27:00+00:00",
+   "updated": "2026-08-16T07:50:05+00:00",
    "outletCount": 4,
    "counts": {
     "corp": 1,
@@ -1391,7 +1443,7 @@
      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T05:27:00+00:00",
+     "published": "2026-08-16T07:50:05+00:00",
      "summary": "Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children, according to the health ministry."
     },
     {
@@ -1647,9 +1699,9 @@
     "big": [
      "stations",
      "foot-washing",
-     "airport",
-     "international",
      "worth",
+     "international",
+     "airport",
      "scrapped"
     ],
     "indie": [
@@ -1797,8 +1849,8 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "donald",
-     "trump"
+     "trump",
+     "donald"
     ],
     "indie": []
    },
@@ -1865,10 +1917,10 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "called",
-     "police",
      "pronounced",
-     "statement"
+     "called",
+     "statement",
+     "police"
     ],
     "indie": []
    },
@@ -1987,104 +2039,113 @@
    ]
   },
   {
-   "id": "fd481c993c",
-   "topic": "Climate & Energy",
-   "summary": "Hurricane Lala slammed Hawaii's Big Island, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides.",
-   "summaryFrom": "cbsnews",
+   "id": "9c95eb7e49",
+   "topic": "Culture & Sport",
+   "summary": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 51 people Rescue crews dug through collapsed buildings and landslide debris in eastern Indonesia on Sunday as they searched for bodies and possible survivors a day after a powerful earthquake killed at least 51 people, injured more than 100 and displaced thousands. At least 24 people died in Manggarai regency and 17 in neighbouring East Manggarai, with additional fatalities reported in Sikka, Ngada and Ende regencies, the national disaster management agency said. Rescuers were still searching for people feared buried beneath landslides triggered by the quake across six regencies on Flores, a predominantly Catholic island in Muslim-majority Indonesia. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+   "updated": "2026-08-16T08:23:38+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 3,
+    "nonprofit": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+     "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T08:23:38+00:00",
+     "summary": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Rescue teams search for survivors in Indonesia after powerful earthquake",
+     "url": "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T03:57:34+00:00",
+     "summary": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 51 people Rescue crews dug through collapsed buildings and landslide debris in eastern Indonesia on Sunday as they searched for bodies and possible survivors a day after a powerful earthquake killed at least 51 people, injured more than 100 and displaced thousands. At least 24 people died in Manggarai regency and 17 in neighbouring East Manggarai, with additional fatalities reported in Sikka, Ngada and Ende regencies, the national disaster management agency said. Rescuers were still searching for people feared buried beneath landslides triggered by the quake across six regencies on Flores, a predominantly Catholic island in Muslim-majority Indonesia. Continue reading..."
+    },
+    {
+     "outlet": "france24",
+     "title": "Indonesia hit by earthquake aftershock as rescuers search for survivors",
+     "url": "https://www.france24.com/en/indonesia-hit-by-earthquake-aftershock-as-rescuers-search-for-survivors",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-15T12:34:05+00:00",
+     "summary": "Fresh back from Indonesia, FRANCE 24 journalist Jamie Smith-Maillet assesses the damage caused by the 7.7-magnitude earthquake that struck the Flores region. Rescue teams are working to pull survivors from the rubble, while an aftershock has hit the area, raising fears of further casualties."
+    },
+    {
+     "outlet": "france24",
+     "title": "\ud83d\udd34 Indonesia hit by two powerful earthquakes",
+     "url": "https://www.france24.com/en/asia-pacific/20260815-deadly-earthquake-strikes-indonesia-and-triggers-mass-evacuations",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-15T11:49:36+00:00",
+     "summary": null
+    }
+   ]
+  },
+  {
+   "id": "f6c256e5fd",
+   "topic": "World",
+   "summary": "A Wildberries warehouse near Moscow caught fire after a Ukrainian drone strike, the regional governor said, part of one of the largest recent attacks on the broader capital area.",
+   "summaryFrom": "bloomberg",
    "emphasis": null,
    "absent": [
     "coop",
-    "pub"
+    "nonprofit"
    ],
-   "headline": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
-   "updated": "2026-08-16T06:59:11+00:00",
+   "headline": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
+   "updated": "2026-08-16T08:13:59+00:00",
    "outletCount": 3,
    "counts": {
-    "corp": 1,
     "family": 1,
-    "nonprofit": 1
+    "corp": 1,
+    "pub": 1
    },
    "newsCount": 3,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
+     "outlet": "bloomberg",
+     "title": "Wildberries Depot Ablaze Near Moscow as Drone Downed in Romania",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-16/wildberries-depot-ablaze-near-moscow-as-drone-downed-in-romania",
+     "author": "Bloomberg News",
+     "kind": "news",
+     "published": "2026-08-16T08:13:59+00:00",
+     "summary": "A Wildberries warehouse near Moscow caught fire after a Ukrainian drone strike, the regional governor said, part of one of the largest recent attacks on the broader capital area."
+    },
+    {
      "outlet": "cbsnews",
-     "title": "One dead as Hurricane Lala lashes Hawaii's Big Island as a Category 1 storm",
-     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+     "title": "NATO fighter jet shoots down drone in Romania near border with Ukraine",
+     "url": "https://www.cbsnews.com/news/nato-fighter-jet-shoots-down-drone-romania-ukraine/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T06:59:11+00:00",
-     "summary": "Hurricane Lala slammed Hawaii's Big Island, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides."
+     "published": "2026-08-16T06:23:43+00:00",
+     "summary": "It is the latest in a series of similar incidents involving drone incursions into NATO airspace from Ukraine"
     },
     {
-     "outlet": "latimes",
-     "title": "Flights between L.A. and Hawaii disrupted as Hurricane Lala approaches the Big Island",
-     "url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
-     "author": "Josh Rottenberg",
-     "kind": "news",
-     "published": "2026-08-16T00:56:14+00:00",
-     "summary": "Several flights from LAX to Hawaii were canceled Saturday, including service to Kona, Maui, Kauai and Honolulu."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
-     "url": "https://www.pbs.org/newshour/nation/hawaiis-big-island-lashed-by-rain-and-wind-as-tropical-storm-lala-closes-in",
-     "author": "Ed White, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T15:17:14+00:00",
-     "summary": "The National Hurricane Center said Lala's maximum sustained winds increased to 75 mph, making it a Category 1 hurricane."
-    }
-   ]
-  },
-  {
-   "id": "604f13323e",
-   "topic": "Climate & Energy",
-   "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is expected to weaken gradually. However, the hurricane caused roads to flood and turned rivers into raging torrents.",
-   "summaryFrom": "dw",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
-   "updated": "2026-08-16T06:53:22+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
-     "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+     "outlet": "aljazeera",
+     "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
+     "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T06:53:22+00:00",
-     "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years."
-    },
-    {
-     "outlet": "dw",
-     "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
-     "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T05:57:00+00:00",
-     "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is expected to weaken gradually. However, the hurricane caused roads to flood and turned rivers into raging torrents."
-    },
-    {
-     "outlet": "nypost",
-     "title": "Hurricane Lala leaves thousands without power in Hawaii amid \u2018life-threatening\u2019 conditions",
-     "url": "https://nypost.com/2026/08/16/us-news/hurricane-lala-leaves-thousands-without-power-in-hawaii-amid-life-threatening-conditions/",
-     "author": "Reuters",
-     "kind": "news",
-     "published": "2026-08-16T04:33:06+00:00",
-     "summary": "Hawaiian Electric warned customers to expect \u201cpossible extended outages, potentially overnight,\u201d as the storm system made its way westward across Hawaii."
+     "published": "2026-08-16T04:54:33+00:00",
+     "summary": "Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region in the escalating conflict."
     }
    ]
   },
@@ -2548,6 +2609,90 @@
    ]
   },
   {
+   "id": "fd28d4b062",
+   "topic": "Other",
+   "summary": "Six hundred drones targeted the Moscow region in a sustained overnight assault that wounded three people, the Russian capital's mayor said on Sunday, as Ukraine steps up long-range attacks into Russian territory. The assault came as Russian \u2060forces launched a \u200bmissile attack on Kyiv, sparking fires in at least two districts of Ukraine's capital, Mayor \u200bVitali \u200cKlitschko said. Follow our live blog for all the latest updates.",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Moscow says 600 drones targeted region overnight",
+   "updated": "2026-08-16T08:13:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "Moscow says 600 drones targeted region overnight",
+     "url": "https://www.dw.com/en/moscow-says-600-drones-targeted-region-overnight/a-78386779?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T08:13:00+00:00",
+     "summary": "Moscow says hundreds of drones targeted the Russian capital overnight, while NATO jets were again called into action farther south. The incidents underline the growing reach of drone warfare well beyond Ukraine itself."
+    },
+    {
+     "outlet": "france24",
+     "title": "Live: Moscow targeted by 600 drones overnight, explosions heard in Kyiv",
+     "url": "https://www.france24.com/en/europe/20260816-live-moscow-targeted-by-600-drones-overnight-explosions-heard-in-kyiv",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-16T04:42:16+00:00",
+     "summary": "Six hundred drones targeted the Moscow region in a sustained overnight assault that wounded three people, the Russian capital's mayor said on Sunday, as Ukraine steps up long-range attacks into Russian territory. The assault came as Russian \u2060forces launched a \u200bmissile attack on Kyiv, sparking fires in at least two districts of Ukraine's capital, Mayor \u200bVitali \u200cKlitschko said. Follow our live blog for all the latest updates."
+    }
+   ]
+  },
+  {
+   "id": "e78399ca91",
+   "topic": "Other",
+   "summary": "Australia will begin buying back guns in November, almost a year after a shooting at Sydney&#039;s Bondi killed 15 people.",
+   "summaryFrom": "aljazeera",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Australia to begin gun buyback scheme in response to Bondi shooting",
+   "updated": "2026-08-16T08:11:47+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Australia to begin gun buyback scheme in response to Bondi shooting",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T08:11:47+00:00",
+     "summary": "Australia will begin buying back guns in November, almost a year after a shooting at Sydney&#039;s Bondi killed 15 people."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Australian state to launch gun buyback after Bondi Beach attack",
+     "url": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T21:41:43+00:00",
+     "summary": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms."
+    }
+   ]
+  },
+  {
    "id": "0587919798",
    "topic": "Other",
    "summary": "The bus ran into a ditch and tipped over early on Sunday \u200bnear the town of Mezokeresztes in eastern Hungary, police said.",
@@ -2734,48 +2879,6 @@
    ]
   },
   {
-   "id": "72ac0c588d",
-   "topic": "World",
-   "summary": "Firefighters in Belgium battled one of the country's worst-ever wildfires late on Saturday as a rapidly growing blaze scorched more than 2,700 hectares of land. The EU scrambled helicopters and water bombers as hundreds of villagers were under evacuation orders.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "EU sends aircraft and villagers evacuate as Belgium battles record wildfire",
-   "updated": "2026-08-16T06:03:53+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "EU sends aircraft and villagers evacuate as Belgium battles record wildfire",
-     "url": "https://www.france24.com/en/europe/20260816-eu-sends-aircraft-and-villagers-evacuate-as-belgium-battles-record-wildfire",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-16T06:03:53+00:00",
-     "summary": "Firefighters in Belgium battled one of the country's worst-ever wildfires late on Saturday as a rapidly growing blaze scorched more than 2,700 hectares of land. The EU scrambled helicopters and water bombers as hundreds of villagers were under evacuation orders."
-    },
-    {
-     "outlet": "dw",
-     "title": "Belgium battles record wildfire at German border",
-     "url": "https://www.dw.com/en/belgium-battles-record-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T02:49:00+00:00",
-     "summary": "A rapidly spreading wildfire in the High Fens nature reserve near Belgium's border with Germany has scorched around 2,700 hectares. The German town of Monschau has also warned residents of possible evacuation orders."
-    }
-   ]
-  },
-  {
    "id": "cd0a84570b",
    "topic": "Politics",
    "summary": "Dr. Anthony Fauci on Friday declined a request to voluntarily appear before a second Senate panel, opening another front in Republicans\u2019 investigations into the former public health official\u2019s handling of the COVID-19 pandemic. An attorney for Fauci rejected the request from Sen. Ron Johnson , R-Wis., chairman of the Senate Permanent Subcommittee on Investigations, arguing that compelling Fauci to testify again after his contentious July 29 Senate hearing would \"impermissibly harass or degrade Dr. Fauci for political purposes.\" Johnson has been conducting a parallel investigation into Fauci and the federal government\u2019s response to COVID-19, including the safety and efficacy of COVID-19 vaccines. SEN RON JOHNSON TALKS FAUCI EMAILS, NEW SENATE FILIBUSTER STRATEGY ON 'RUTHLESS' The refusal comes after Republicans on the Senate Homeland Security and Governmental Affairs Committee voted\u2026",
@@ -2814,48 +2917,6 @@
      "kind": "news",
      "published": "2026-08-15T21:15:59+00:00",
      "summary": "Dr. Anthony Fauci on Friday declined a request to voluntarily appear before a second Senate panel, opening another front in Republicans\u2019 investigations into the former public health official\u2019s handling of the COVID-19 pandemic. An attorney for Fauci rejected the request from Sen. Ron Johnson , R-Wis., chairman of the Senate Permanent Subcommittee on Investigations, arguing that compelling Fauci to testify again after his contentious July 29 Senate hearing would \"impermissibly harass or degrade Dr. Fauci for political purposes.\" Johnson has been conducting a parallel investigation into Fauci and the federal government\u2019s response to COVID-19, including the safety and efficacy of COVID-19 vaccines. SEN RON JOHNSON TALKS FAUCI EMAILS, NEW SENATE FILIBUSTER STRATEGY ON 'RUTHLESS' The refusal comes after Republicans on the Senate Homeland Security and Governmental Affairs Committee voted along party lines last week to hold Fauci in contempt of Congress after he invoked his Fifth Amendment right against self-incrimination more than 100 times during the July hearing. Committee chairman Rand Paul , R-Ky., has sought to send the contempt referral directly to the U.S. Attorney's Office in the"
-    }
-   ]
-  },
-  {
-   "id": "9e78b3e4ee",
-   "topic": "Other",
-   "summary": "Australia introduced measures to reduce gun ownership following a deadly attack on Sydney&#039;s Bondi Beach last year.",
-   "summaryFrom": "aljazeera",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
-   "updated": "2026-08-16T04:35:26+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
-     "url": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T04:35:26+00:00",
-     "summary": "Australia introduced measures to reduce gun ownership following a deadly attack on Sydney&#039;s Bondi Beach last year."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Australian state to launch gun buyback after Bondi Beach attack",
-     "url": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T21:41:43+00:00",
-     "summary": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms."
     }
    ]
   },
@@ -3024,6 +3085,48 @@
      "kind": "news",
      "published": "2026-08-16T02:03:42+00:00",
      "summary": "Dodgers starter Justin Wrobleski gives up two home runs and Brewers ace Jacob Misiorowski holds the Dodgers' big hitters at bay in Milwaukee's 4-1 victory."
+    }
+   ]
+  },
+  {
+   "id": "51e4f6f018",
+   "topic": "World",
+   "summary": "A rapidly spreading wildfire in the High Fens nature reserve near Belgium's border with Germany has scorched around 2,700 hectares. The German town of Monschau has also warned residents of possible evacuation orders.",
+   "summaryFrom": "dw",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Belgium battles record wildfire at German border",
+   "updated": "2026-08-16T02:49:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "Belgium battles record wildfire at German border",
+     "url": "https://www.dw.com/en/belgium-battles-record-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T02:49:00+00:00",
+     "summary": "A rapidly spreading wildfire in the High Fens nature reserve near Belgium's border with Germany has scorched around 2,700 hectares. The German town of Monschau has also warned residents of possible evacuation orders."
+    },
+    {
+     "outlet": "france24",
+     "title": "Hundreds of villagers evacuate as Belgium battles record wildfire",
+     "url": "https://www.france24.com/en/europe/20260815-hundreds-of-villagers-evacuate-as-belgium-battles-record-wildfire",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-15T15:37:09+00:00",
+     "summary": "Hundreds of residents were evacuated and more than 2,700 hectares were scorched as Belgium continued to battle one of the worst wildfires in its history on Saturday."
     }
    ]
   },
@@ -3345,90 +3448,6 @@
      "kind": "news",
      "published": "2026-08-13T21:55:00+00:00",
      "summary": "The USS Abraham Lincoln deployed in the Arabian Sea on April 16, 2026. | US Navy via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: The cracks are starting to show in President Donald Trump\u2019s Iran campaign. What\u2019s happening? Conditions on a US warship deployed in the Middle East have grown so dire, multiple sailors have reportedly tried to go overboard (at least one did so but was rescued safely, according to CNN ).&nbsp; The attempts to jump overboard comes as family members of sailors are raising concerns with Democratic lawmakers about deteriorating mental health on the ship amid sanitation issues and shortages of food and basic supplies .&nbsp; The USS Abraham Lincoln aircraft carrier has been deployed for more than 250 days, starting last November, including a stretch of more than 200 days at sea \u2014 a modern record. Its deployment was supposed to end months ago, in May, but has continued as Trump\u2019s Iran war stretches on .&nbsp; How is the administration responding? Defense Secretary Pete Hegseth "
-    }
-   ]
-  },
-  {
-   "id": "69eb329526",
-   "topic": "Other",
-   "summary": "Mr. Hoekstra has been President Trump\u2019s faithful messenger in Canada amid a historic low in relations. More than 170,000 Canadians want him gone.",
-   "summaryFrom": "nyt",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Canadian petition to expel US ambassador gains over 170,000 signatures",
-   "updated": "2026-08-15T20:09:33+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
-     "url": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T20:09:33+00:00",
-     "summary": "The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
-     "url": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html",
-     "author": "Matina Stevis-Gridneff",
-     "kind": "news",
-     "published": "2026-08-15T18:15:49+00:00",
-     "summary": "Mr. Hoekstra has been President Trump\u2019s faithful messenger in Canada amid a historic low in relations. More than 170,000 Canadians want him gone."
-    }
-   ]
-  },
-  {
-   "id": "6b64fba64d",
-   "topic": "Justice & Policing",
-   "summary": "Border security tightened after social media posts call for another mass crossing into Spain\u2019s north African territory Moroccan police have arrested 111 people as they tried to enter Spain\u2019s north African territory of Ceuta, amid \u2060tightened security on both sides after social media posts \u200bcalled for another mass crossing. The attempted crossing on Saturday came two weeks after more than 72,000 migrants surged into Ceuta , causing tensions within the EU and prompting anti-immigration rhetoric among far-right parties worldwide. At least 96 people died trying to \u2060reach European soil. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Moroccan police intercept migrants heading for Ceuta enclave",
-   "updated": "2026-08-15T20:07:07+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Moroccan police intercept migrants heading for Ceuta enclave",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T20:07:07+00:00",
-     "summary": "Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
-     "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-     "author": "Reuters",
-     "kind": "news",
-     "published": "2026-08-15T18:08:21+00:00",
-     "summary": "Border security tightened after social media posts call for another mass crossing into Spain\u2019s north African territory Moroccan police have arrested 111 people as they tried to enter Spain\u2019s north African territory of Ceuta, amid \u2060tightened security on both sides after social media posts \u200bcalled for another mass crossing. The attempted crossing on Saturday came two weeks after more than 72,000 migrants surged into Ceuta , causing tensions within the EU and prompting anti-immigration rhetoric among far-right parties worldwide. At least 96 people died trying to \u2060reach European soil. Continue reading..."
     }
    ]
   },
