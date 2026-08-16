@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T08:48:12.078758+00:00",
+ "generated": "2026-08-16T09:43:36.279439+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -15,9 +15,9 @@
     "big": [
      "released",
      "dismisses",
-     "answers",
      "diego-based",
-     "lawmakers"
+     "lawmakers",
+     "answers"
     ],
     "indie": [
      "credit",
@@ -25,7 +25,7 @@
      "reported",
      "record-setting",
      "even",
-     "jumping"
+     "considering"
     ]
    },
    "absent": [],
@@ -191,10 +191,10 @@
     "big": [
      "reality",
      "called",
-     "delusions",
      "defeat",
+     "delusions",
      "waterway",
-     "months"
+     "through"
     ],
     "indie": [
      "become"
@@ -300,6 +300,107 @@
    ]
   },
   {
+   "id": "8c7bd71cb5",
+   "topic": "Climate & Energy",
+   "summary": "Hawaii has narrowly avoided a historic direct hit from Hurricane Lala, but torrential rain and hurricane-force winds are still causing widespread flooding, mudslides and power outages across the islands. Authorities are urging residents to shelter in place as the storm moves west and dangerous conditions persist.",
+   "summaryFrom": "france24",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 4,
+    "big": [
+     "life-threatening"
+    ],
+    "indie": [
+     "winds",
+     "strong",
+     "direct",
+     "brings",
+     "torrential",
+     "landfall"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "US : Hawaii narrowly avoids direct hit as Hurricane Lala brings strong weather",
+   "updated": "2026-08-16T08:53:56+00:00",
+   "outletCount": 7,
+   "counts": {
+    "pub": 3,
+    "corp": 1,
+    "family": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 7,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "US : Hawaii narrowly avoids direct hit as Hurricane Lala brings strong weather",
+     "url": "https://www.france24.com/en/us-hawaii-narrowly-avoids-direct-hit-as-hurricane-lala-brings-severe-weather",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T08:53:56+00:00",
+     "summary": "Hawaii has narrowly avoided a historic direct hit from Hurricane Lala, but torrential rain and hurricane-force winds are still causing widespread flooding, mudslides and power outages across the islands. Authorities are urging residents to shelter in place as the storm moves west and dangerous conditions persist."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+     "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T08:49:32+00:00",
+     "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "One dead as Hurricane Lala lashes Hawaii's Big Island as a Category 1 storm",
+     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T06:59:11+00:00",
+     "summary": "Hurricane Lala slammed Hawaii's Big Island, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides."
+    },
+    {
+     "outlet": "dw",
+     "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
+     "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T05:57:00+00:00",
+     "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is expected to weaken gradually. However, the hurricane caused roads to flood and turned rivers into raging torrents."
+    },
+    {
+     "outlet": "nypost",
+     "title": "Hurricane Lala leaves thousands without power in Hawaii amid \u2018life-threatening\u2019 conditions",
+     "url": "https://nypost.com/2026/08/16/us-news/hurricane-lala-leaves-thousands-without-power-in-hawaii-amid-life-threatening-conditions/",
+     "author": "Reuters",
+     "kind": "news",
+     "published": "2026-08-16T04:33:06+00:00",
+     "summary": "Hawaiian Electric warned customers to expect \u201cpossible extended outages, potentially overnight,\u201d as the storm system made its way westward across Hawaii."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Flights between L.A. and Hawaii disrupted as Hurricane Lala approaches the Big Island",
+     "url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
+     "author": "Josh Rottenberg",
+     "kind": "news",
+     "published": "2026-08-16T00:56:14+00:00",
+     "summary": "Several flights from LAX to Hawaii were canceled Saturday, including service to Kona, Maui, Kauai and Honolulu."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
+     "url": "https://www.pbs.org/newshour/nation/hawaiis-big-island-lashed-by-rain-and-wind-as-tropical-storm-lala-closes-in",
+     "author": "Ed White, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T15:17:14+00:00",
+     "summary": "The National Hurricane Center said Lala's maximum sustained winds increased to 75 mph, making it a Category 1 hurricane."
+    }
+   ]
+  },
+  {
    "id": "766f173698",
    "topic": "Justice & Policing",
    "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant\u2026",
@@ -309,11 +410,11 @@
     "indieCount": 2,
     "big": [
      "wounded",
-     "arrested",
      "suspect",
+     "arrested",
      "left",
-     "found",
-     "early"
+     "early",
+     "found"
     ],
     "indie": [
      "responded",
@@ -338,7 +439,7 @@
    "articles": [
     {
      "outlet": "newsweek",
-     "title": "Who Is Camron Harris? Virginia State Shooting Suspect Identified",
+     "title": "Camron Harris Identified as Virginia State Shooting Suspect",
      "url": "https://www.newsweek.com/who-is-camron-harris-virginia-state-shooting-suspect-identified-12328485",
      "author": null,
      "kind": "news",
@@ -402,23 +503,116 @@
    ]
   },
   {
+   "id": "47b37decde",
+   "topic": "World",
+   "summary": "Spain and Morocco have boosted security around Spain\u2019s African enclave Ceuta following calls for another Moroccan migrant border rush, two weeks after a migrant invasion left at least 96 people dead. Soldiers have been watching commercial and government buildings in Ceuta while police are patrolling main streets, according to Reuters. Along the Moroccan border, security guards were seen on the beaches of Fnideq, one of the primary locations from which migrants illegally rushed Ceuta, Fox News reported . Morocco has arrested multiple people who circulated calls on social media for another migrant invasion into both Ceuta and Melilla, another Spanish African enclave. \u201cThe Ministry of the Interior has detected, during the last few days, the circulation of anonymous publications and messages on certain social networks inciting the organization of attempts at collective and illegal crossing\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 3,
+    "big": [
+     "invasion",
+     "along"
+    ],
+    "indie": [
+     "media",
+     "social",
+     "mass",
+     "crossing",
+     "attempted",
+     "enter"
+    ]
+   },
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Morocco tightens security as migrants gather near Ceuta border",
+   "updated": "2026-08-16T09:17:50+00:00",
+   "outletCount": 6,
+   "counts": {
+    "pub": 3,
+    "family": 2,
+    "corp": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 2,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Morocco tightens security as migrants gather near Ceuta border",
+     "url": "https://www.france24.com/en/morocco-tightens-security-as-migrants-gather-near-ceuta-border",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T09:17:50+00:00",
+     "summary": "Morocco has deployed heavy security around the border city of Fnideq after false social media rumours claimed the border to Spain's Ceuta enclave would open. Hundreds of migrants, mostly from sub-Saharan Africa, have gathered nearby, raising fears of another mass crossing just weeks after tens of thousands attempted to enter the Spanish territory."
+    },
+    {
+     "outlet": "dw",
+     "title": "Morocco detains dozens of migrants trying to enter Spanish North African exclave Ceuta",
+     "url": "https://www.dw.com/en/morocco-detains-dozens-of-migrants-trying-to-enter-spanish-north-african-exclave-ceuta/a-78385761?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T23:26:00+00:00",
+     "summary": "The attempted crossings come two weeks after around 72,000 people rushed into the Spanish North African exclave from Morocco. Calls for another mass crossing had been circulating on social media this week."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+     "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T20:58:31+00:00",
+     "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Pics: Thousands of Illegal Migrants Set Up Makeshift Garbage Huts on Beach of Spanish Ceuta, Weeks After Invasion",
+     "url": "https://www.breitbart.com/europe/2026/08/15/pics-thousands-of-illegal-migrants-set-up-garbage-huts-on-ceuta-beach-sparking-warnings-of-disease-outbreak/",
+     "author": "Kurt Zindulka",
+     "kind": "news",
+     "published": "2026-08-15T19:47:05+00:00",
+     "summary": "More than two weeks after tens of thousands of illegal migrants stormed the border of the Spanish exclave of Ceuta, thousands of migrants remain in the city, resulting in the area's once pristine beach being converted into a full-on encampment with dozens of makeshift huts being constructed out of garbage, and prompting warnings of potential disease outbreaks due to the unsanitary conditions. The post Pics: Thousands of Illegal Migrants Set Up Makeshift Garbage Huts on Beach of Spanish Ceuta, Weeks After Invasion appeared first on Breitbart ."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Justice Department expands military's power to detain migrants near border",
+     "url": "https://www.cbsnews.com/news/justice-department-opinion-military-migrants-trespassing/",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-15T15:14:09+00:00",
+     "summary": "The Justice Department issued a legal opinion giving the U.S. military broader powers to detain migrants near certain areas along the southern border."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Calls For Another Migrant Border Invasion Force Spain And Morocco To Take Action",
+     "url": "https://www.dailywire.com/news/calls-for-another-migrant-border-invasion-force-spain-and-morocco-to-take-action",
+     "author": "Catherine Maxwell",
+     "kind": "opinion",
+     "published": "2026-08-15T13:55:25+00:00",
+     "summary": "Spain and Morocco have boosted security around Spain\u2019s African enclave Ceuta following calls for another Moroccan migrant border rush, two weeks after a migrant invasion left at least 96 people dead. Soldiers have been watching commercial and government buildings in Ceuta while police are patrolling main streets, according to Reuters. Along the Moroccan border, security guards were seen on the beaches of Fnideq, one of the primary locations from which migrants illegally rushed Ceuta, Fox News reported . Morocco has arrested multiple people who circulated calls on social media for another migrant invasion into both Ceuta and Melilla, another Spanish African enclave. \u201cThe Ministry of the Interior has detected, during the last few days, the circulation of anonymous publications and messages on certain social networks inciting the organization of attempts at collective and illegal crossing to the cities of Ceuta and Melilla, practices which carry serious risks to the safety of people and aim to instrumentalize migration issues in acts of incitement, which are criminalized by law,\u201d the Moroccan Ministry of the Interior said in a statement, according to Fox News. Meanwhile, Spain is stil"
+    }
+   ]
+  },
+  {
    "id": "6168cf6793",
    "topic": "World",
    "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to the epicentre, because roads were blocked by landslides and communications disrupted. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": {
     "bigCount": 2,
-    "indieCount": 5,
+    "indieCount": 4,
     "big": [
      "hits"
     ],
     "indie": [
-     "buildings",
      "tsunami",
+     "buildings",
+     "damaged",
+     "kills",
      "homes",
-     "quakes",
-     "thousands",
-     "kills"
+     "thousands"
     ]
    },
    "absent": [
@@ -427,13 +621,13 @@
    ],
    "headline": "Indonesia\u2019s magnitude 7.7 quake kills at least 51, displaces thousands",
    "updated": "2026-08-16T06:09:45+00:00",
-   "outletCount": 7,
+   "outletCount": 6,
    "counts": {
     "corp": 2,
     "pub": 2,
-    "nonprofit": 3
+    "nonprofit": 2
    },
-   "newsCount": 7,
+   "newsCount": 6,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
@@ -483,15 +677,6 @@
      "summary": "Authorities issued a tsunami warning and urged coastal residents to move to higher ground, but later lifted the warning when Indonesia's meteorological agency said monitoring showed no significant sea-level changes that posed a threat to coastal communities."
     },
     {
-     "outlet": "npr",
-     "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47",
-     "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T08:29:20+00:00",
-     "summary": "A powerful earthquake struck off the coast of Indonesia early Saturday, collapsing buildings as well as causing panic in a region prone to deadly quakes. (Image credit: BASARNAS via AP)"
-    },
-    {
      "outlet": "dw",
      "title": "Indonesia: Dozens dead after earthquake off Flores island",
      "url": "https://www.dw.com/en/indonesia-dozens-dead-after-earthquake-off-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
@@ -503,124 +688,22 @@
    ]
   },
   {
-   "id": "a0884e8013",
-   "topic": "Politics",
-   "summary": "The Democratic National Committee (DNC) has voted to approve the 2028 presidential primary calendar, starting with South Carolina. The party okayed a plan that has the Palmetto State kicking off the cycle on Jan. 22, 2028, followed by Nevada on Feb. 1. New Hampshire, long a first-in-the-nation contest, will hold its primary third, on Feb....",
-   "summaryFrom": "thehill",
-   "emphasis": {
-    "bigCount": 5,
-    "indieCount": 2,
-    "big": [
-     "approve",
-     "national",
-     "party",
-     "democratic",
-     "hold",
-     "committee"
-    ],
-    "indie": [
-     "spot"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
-   "updated": "2026-08-15T22:22:46+00:00",
-   "outletCount": 7,
-   "counts": {
-    "pub": 1,
-    "family": 2,
-    "nonprofit": 1,
-    "corp": 3
-   },
-   "newsCount": 7,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
-     "url": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T22:22:46+00:00",
-     "summary": "South Carolina will again take centre stage as the first nominating contest, pushing Iowa from its top spot."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Democrats approve 2028 primary calendar that puts South Carolina first",
-     "url": "https://www.washingtonpost.com/politics/2026/08/15/democrats-approve-2028-primary-calendar-that-puts-south-carolina-first/",
-     "author": "Sammy Westfall",
-     "kind": "news",
-     "published": "2026-08-15T19:39:15+00:00",
-     "summary": "South Carolina would hold its primary on Jan. 22, 2028 under the Democratic National Committee\u2019s plan. Nevada would follow on Feb. 1. The plan aims to give a bigger voice to Black and Latino voters."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Democrats' 2028 presidential calendar gives Black and Latino voters and union members an early say",
-     "url": "https://www.pbs.org/newshour/politics/democrats-2028-presidential-calendar-gives-black-and-latino-voters-and-union-members-an-early-say",
-     "author": "Bill Barrow, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T19:00:56+00:00",
-     "summary": "The primary lineup pushes Iowa from the traditional top spot and makes South Carolina the leadoff state, voting on Jan. 22, 2028, followed by Nevada on Feb. 1."
-    },
-    {
-     "outlet": "thehill",
-     "title": "DNC gives final approval of 2028 primary calendar starting in South Carolina",
-     "url": "https://thehill.com/homenews/campaign/6028298-dnc-approves-2028-primary-calendar/",
-     "author": "Julia Mueller",
-     "kind": "news",
-     "published": "2026-08-15T18:35:45+00:00",
-     "summary": "The Democratic National Committee (DNC) has voted to approve the 2028 presidential primary calendar, starting with South Carolina. The party okayed a plan that has the Palmetto State kicking off the cycle on Jan. 22, 2028, followed by Nevada on Feb. 1. New Hampshire, long a first-in-the-nation contest, will hold its primary third, on Feb...."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
-     "url": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
-     "author": "Shane Goldmacher",
-     "kind": "news",
-     "published": "2026-08-15T18:27:45+00:00",
-     "summary": "The party\u2019s membership finalized the new order for the first six states to winnow the candidate field, pushing back Iowa and New Hampshire."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Democrats set their 2028 primary calendar, with South Carolina going first",
-     "url": "https://www.nbcnews.com/politics/2028-election/democrats-officially-set-2028-primary-calendar-south-carolina-going-fi-rcna592519",
-     "author": "Natasha Korecki",
-     "kind": "news",
-     "published": "2026-08-15T18:25:31+00:00",
-     "summary": "AUSTIN, Texas \u2014 Democrats teed up South Carolina to lead a six-state gantlet of early presidential contests, sealing a 2028 road map that pushes Black and Latino voters and labor to the front of the line for choosing the party\u2019s next national leader."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "DNC to finalize controversial 2028 primary calendar, elevating South Carolina",
-     "url": "https://abcnews.com/Politics/dnc-set-finalize-controversial-2028-primary-calendar-elevating/story?id=135616869",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T09:41:06+00:00",
-     "summary": "The DNC is expected to vote on Saturday to approve the new order of states for the 2028 presidential nominating process, amidst controversy over some of those decisions."
-    }
-   ]
-  },
-  {
    "id": "fc3549f0e2",
    "topic": "Justice & Policing",
    "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges. \"I shot Mr. Thompson,\" Mangione said during Friday's hearing, adding, \"I knew\u2026",
    "summaryFrom": "axios",
    "emphasis": {
-    "bigCount": 5,
+    "bigCount": 4,
     "indieCount": 2,
     "big": [
      "court",
      "friday",
-     "plea",
-     "executive"
+     "plea"
     ],
     "indie": [
-     "death",
      "pleading",
-     "year-old"
+     "year-old",
+     "death"
     ]
    },
    "absent": [
@@ -628,15 +711,15 @@
    ],
    "headline": "Luigi Mangione reveals motive for CEO's killing after pleading guilty in federal case",
    "updated": "2026-08-15T15:31:17+00:00",
-   "outletCount": 7,
+   "outletCount": 6,
    "counts": {
     "corp": 2,
     "nonprofit": 1,
-    "family": 3,
+    "family": 2,
     "pub": 1
    },
    "newsCount": 6,
-   "opinionCount": 1,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
@@ -656,15 +739,6 @@
      "kind": "news",
      "published": "2026-08-14T22:57:22+00:00",
      "summary": "In a surprise turn, Luigi Mangione pleaded guilty to the shooting death of UnitedHealthcare CEO Brian Thompson. Mangione admitted he stalked and shot Thompson in 2024 outside a Hilton hotel in Manhattan. He potentially faces life in prison. The 28-year-old is also still facing state murder charges for Thompson's death in New York. Justice correspondent Ali Rogin reports."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Outrage at UnitedHealth and Other Insurers Persists After Brian Thompson Killing",
-     "url": "https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html",
-     "author": "Reed Abelson",
-     "kind": "opinion",
-     "published": "2026-08-14T21:02:34+00:00",
-     "summary": "Stephen Hemsley, chief executive of UnitedHealth Group, left, was among the executives defending insurers\u2019 practices at congressional hearings in January. To his left were David Joyner, chairman of CVS Health, and Gail Boudreaux, chief executive of Elevance Health."
     },
     {
      "outlet": "wapo",
@@ -705,409 +779,71 @@
    ]
   },
   {
-   "id": "b6f2ce66b2",
-   "topic": "Climate & Energy",
-   "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is expected to weaken gradually. However, the hurricane caused roads to flood and turned rivers into raging torrents.",
-   "summaryFrom": "dw",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 3,
-    "big": [
-     "life-threatening"
-    ],
-    "indie": [
-     "winds",
-     "landfall",
-     "strong",
-     "making"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-   "updated": "2026-08-16T07:58:02+00:00",
-   "outletCount": 6,
-   "counts": {
-    "pub": 2,
-    "corp": 1,
-    "family": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-     "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T07:58:02+00:00",
-     "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "One dead as Hurricane Lala lashes Hawaii's Big Island as a Category 1 storm",
-     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T06:59:11+00:00",
-     "summary": "Hurricane Lala slammed Hawaii's Big Island, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides."
-    },
-    {
-     "outlet": "dw",
-     "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
-     "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T05:57:00+00:00",
-     "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is expected to weaken gradually. However, the hurricane caused roads to flood and turned rivers into raging torrents."
-    },
-    {
-     "outlet": "nypost",
-     "title": "Hurricane Lala leaves thousands without power in Hawaii amid \u2018life-threatening\u2019 conditions",
-     "url": "https://nypost.com/2026/08/16/us-news/hurricane-lala-leaves-thousands-without-power-in-hawaii-amid-life-threatening-conditions/",
-     "author": "Reuters",
-     "kind": "news",
-     "published": "2026-08-16T04:33:06+00:00",
-     "summary": "Hawaiian Electric warned customers to expect \u201cpossible extended outages, potentially overnight,\u201d as the storm system made its way westward across Hawaii."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Flights between L.A. and Hawaii disrupted as Hurricane Lala approaches the Big Island",
-     "url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
-     "author": "Josh Rottenberg",
-     "kind": "news",
-     "published": "2026-08-16T00:56:14+00:00",
-     "summary": "Several flights from LAX to Hawaii were canceled Saturday, including service to Kona, Maui, Kauai and Honolulu."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
-     "url": "https://www.pbs.org/newshour/nation/hawaiis-big-island-lashed-by-rain-and-wind-as-tropical-storm-lala-closes-in",
-     "author": "Ed White, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T15:17:14+00:00",
-     "summary": "The National Hurricane Center said Lala's maximum sustained winds increased to 75 mph, making it a Category 1 hurricane."
-    }
-   ]
-  },
-  {
-   "id": "1beb4d630e",
-   "topic": "Politics",
-   "summary": "The planned adornments, which were included in renderings submitted to the Supreme Court, break with tradition and the original vision for the White House grounds.",
-   "summaryFrom": "wapo",
-   "emphasis": {
-    "bigCount": 5,
-    "indieCount": 2,
-    "big": [
-     "planned"
-    ],
-    "indie": []
-   },
-   "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Trump asks Supreme Court to let White House ballroom construction continue",
-   "updated": "2026-08-15T17:38:25+00:00",
-   "outletCount": 6,
-   "counts": {
-    "family": 4,
-    "pub": 2,
-    "corp": 1
-   },
-   "newsCount": 7,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "forbes",
-     "title": "Trump Tests Birthright Citizenship Again After Supreme Court Loss",
-     "url": "https://www.forbes.com/sites/andyjsemotiuk/2026/08/15/trump-tests-birthright-citizenship-again-after-supreme-court-loss/",
-     "author": "Andy J. Semotiuk, Contributor",
-     "kind": "news",
-     "published": "2026-08-15T17:38:25+00:00",
-     "summary": "After the Supreme Court affirmed birthright citizenship, Trump has taken to proclamations to try to limit the impact of the decision. What is fair and what isn't?"
-    },
-    {
-     "outlet": "dw",
-     "title": "Trump asks Supreme Court to let White House ballroom construction continue",
-     "url": "https://www.dw.com/en/trump-asks-supreme-court-to-let-white-house-ballroom-construction-continue/a-78377695?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T22:02:00+00:00",
-     "summary": "Justice Department lawyers echoed the US president's claim that the $400 million White House ballroom \u200bproject is a security necessity."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Trump wants to put golden seals on White House ballroom",
-     "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-wants-put-golden-seals-white-house-ballroom/",
-     "author": "Dan Diamond, Jonathan Edwards",
-     "kind": "news",
-     "published": "2026-08-14T19:50:02+00:00",
-     "summary": "The planned adornments, which were included in renderings submitted to the Supreme Court, break with tradition and the original vision for the White House grounds."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Trump asks US Supreme Court to allow ballroom work to continue",
-     "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T19:05:22+00:00",
-     "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Trump officials ask Supreme Court to let ballroom construction continue",
-     "url": "https://www.washingtonpost.com/politics/2026/08/14/white-house-ballroom-trump-asks-supreme-court-let-work-go/",
-     "author": "Jonathan Edwards, Justin Jouvenal, Dan Diamond",
-     "kind": "news",
-     "published": "2026-08-14T17:22:24+00:00",
-     "summary": "The request escalates the legal fight over the controversial project to the nation\u2019s highest court."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Trump Administration Asks Supreme Court to Greenlight White House Ballroom",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-ballroom-white-house-supreme-court.html",
-     "author": "Ann E. Marimow",
-     "kind": "news",
-     "published": "2026-08-14T17:11:24+00:00",
-     "summary": "The planned 90,000-square-foot ballroom is estimated to cost $400 million and is part of the president\u2019s broader effort to remake Washington in his own style."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump admin says WH ballroom 'beyond the point of no return' in Supreme Court appeal",
-     "url": "https://abcnews.com/Politics/trump-appeals-supreme-court-white-house-ballroom-construction/story?id=135642539",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T16:52:25+00:00",
-     "summary": "The Trump administration is asking the Supreme Court to allow construction of the president's White House ballroom to continue."
-    }
-   ]
-  },
-  {
-   "id": "a085ed5c4d",
-   "topic": "Climate & Energy",
-   "summary": "National Weather Service reports that more than 11in of rain fell over a two-day period in some areas At least five people are dead after devastating floods that swept through Indiana this week, officials said, as storms continued to batter the state on Saturday and first responders used boats to rescue more people from rising waters in neighborhoods along the White River in Indianapolis. The mayor of Indianapolis, Joe Hogsett, and other state officials implored residents in areas at risk of flooding to heed any evacuation warnings at a news conference. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 3,
-    "big": [],
-    "indie": [
-     "weather"
-    ]
-   },
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "At least five people dead in Indiana amid worst flooding in over 30 years, officials say",
-   "updated": "2026-08-16T07:44:46+00:00",
-   "outletCount": 5,
-   "counts": {
-    "family": 2,
-    "nonprofit": 2,
-    "pub": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "At least 5 people in Indiana have died as severe storms, flooding cross state",
-     "url": "https://nypost.com/2026/08/16/us-news/indiana-authorities-say-at-least-5-people-have-died-as-severe-weather-crosses-the-state/",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T07:44:46+00:00",
-     "summary": "The state has been hammered over the past week by heavy rains, resulting in rivers reaching record levels."
-    },
-    {
-     "outlet": "guardian",
-     "title": "At least five people dead in Indiana amid worst flooding in over 30 years, officials say",
-     "url": "https://www.theguardian.com/us-news/2026/aug/15/indiana-flooding-deaths",
-     "author": "Uwa Ede-Osifo and agencies",
-     "kind": "news",
-     "published": "2026-08-15T23:56:33+00:00",
-     "summary": "National Weather Service reports that more than 11in of rain fell over a two-day period in some areas At least five people are dead after devastating floods that swept through Indiana this week, officials said, as storms continued to batter the state on Saturday and first responders used boats to rescue more people from rising waters in neighborhoods along the White River in Indianapolis. The mayor of Indianapolis, Joe Hogsett, and other state officials implored residents in areas at risk of flooding to heed any evacuation warnings at a news conference. Continue reading..."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "At least five reported dead amid flooding in US state of Indiana",
-     "url": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T23:19:34+00:00",
-     "summary": "Indiana&#039;s state governor says that US government has promised assistance after a week of heavy rainfall."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Indiana authorities say at least 5 people have died as severe weather crosses the state",
-     "url": "https://www.pbs.org/newshour/nation/indiana-authorities-say-at-least-5-people-have-died-in-flooding-across-the-state",
-     "author": "Susan Montoya Bryan, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T20:39:01+00:00",
-     "summary": "The state has been hammered over the past week by heavy rains, resulting in rivers reaching record levels and sending residents in search of higher ground."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Five People Dead in String of Shootings in Michigan",
-     "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/five-people-dead-in-string-of-shootings-in-michigan/",
-     "author": "AWR Hawkins",
-     "kind": "news",
-     "published": "2026-08-15T15:20:36+00:00",
-     "summary": "Five people were killed Friday in a string of shootings that took place Friday at two different residences and a wooded area in Missaukee County, Michigan. The post Five People Dead in String of Shootings in Michigan appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
-   "id": "5178d4fdc8",
+   "id": "94b16acd94",
    "topic": "World",
-   "summary": "Tehran said the three pilots \"were captured alive\" by Qatari forces after their fighter jets were shot down in the early days of the US-Israel war with Iran. Qatar has denied Iran's claims.",
-   "summaryFrom": "dw",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 3,
-    "big": [],
-    "indie": [
-     "claims",
-     "tehran",
-     "holding"
-    ]
-   },
-   "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Iran war: Qatar denies holding missing Iranian fighter pilots",
-   "updated": "2026-08-16T07:34:03+00:00",
-   "outletCount": 5,
-   "counts": {
-    "corp": 1,
-    "pub": 3,
-    "family": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "abcnews",
-     "title": "Iran live updates: Qatar denies capture of 3 Iranian military pilots",
-     "url": "https://abcnews.com/International/live-updates/iran-live-updates-negotiations-us-messages-exchanged-tehran/?id=135508900",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T07:34:03+00:00",
-     "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes."
-    },
-    {
-     "outlet": "dw",
-     "title": "Iran war: Qatar denies holding missing Iranian fighter pilots",
-     "url": "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T01:38:00+00:00",
-     "summary": "Tehran said the three pilots \"were captured alive\" by Qatari forces after their fighter jets were shot down in the early days of the US-Israel war with Iran. Qatar has denied Iran's claims."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-     "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T21:03:57+00:00",
-     "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Qatar denies Tehran\u2019s claim it is detaining Iranian bomber pilots",
-     "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T20:55:29+00:00",
-     "summary": "Iran claims Qatar is holding three pilots who were shot down in March. Doha decries &#039;misleading statements&#039;."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
-     "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
-     "author": "Yeganeh Torbati and Leily Nikounazar",
-     "kind": "news",
-     "published": "2026-08-15T19:36:20+00:00",
-     "summary": "Iran said the airmen have been held since March 2 when their fighter jets were shot down. The Qatari government denies detaining any Iranian pilots."
-    }
-   ]
-  },
-  {
-   "id": "4922345dbb",
-   "topic": "Health",
-   "summary": "The Ebola outbreak in the Democratic Republic of Congo spread to a sixth province as the overall death toll surpassed 2,100 and cases topped 4,500. Experts say the virus may have been transmitted undetected for months, while health workers have struggled to contain the outbreak with poor medical supplies and no approved vaccine for the new strain \u2014 though several are in the works. The head of the World Health Organization this week warned that the current outbreak threatens to be the biggest ever, with authorities playing catch-up to the disease after \u201c a big head start. \u201d During the previous deadliest outbreak, which killed 11,000 people between 2014 and 2016, authorities had recorded 755 cases at the same point . \u2014 Jeronimo Gonzalez",
-   "summaryFrom": "semafor",
+   "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions\u2026",
+   "summaryFrom": "reason",
    "emphasis": null,
    "absent": [
     "corp",
-    "coop"
+    "family"
    ],
-   "headline": "Why is the latest Ebola outbreak worsening?",
-   "updated": "2026-08-15T22:00:42+00:00",
+   "headline": "West Bank: Palestinian families besieged for a week as settler violence continues",
+   "updated": "2026-08-16T08:50:57+00:00",
    "outletCount": 5,
    "counts": {
-    "pub": 2,
-    "nonprofit": 2,
-    "family": 1
+    "pub": 1,
+    "nonprofit": 3,
+    "coop": 1
    },
-   "newsCount": 5,
-   "opinionCount": 0,
+   "newsCount": 4,
+   "opinionCount": 1,
    "underreported": true,
    "articles": [
     {
-     "outlet": "aljazeera",
-     "title": "Why is the latest Ebola outbreak worsening?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T22:00:42+00:00",
-     "summary": "Virus spreading in DRC faster than containment efforts."
-    },
-    {
      "outlet": "france24",
-     "title": "Ebola outbreak in DR Congo: One death every 30 minutes",
-     "url": "https://www.france24.com/en/ebola-outbreak-in-dr-congo-one-death-every-30-minutes",
+     "title": "West Bank: Palestinian families besieged for a week as settler violence continues",
+     "url": "https://www.france24.com/en/west-bank-palestinian-families-besieged-for-a-week-as-settler-violence-continues",
      "author": "FRANCE24",
      "kind": "news",
-     "published": "2026-08-15T14:46:49+00:00",
-     "summary": "The Ebola outbreak in eastern DR Congo is now the second-largest on record, with more than 2,100 deaths and the virus spreading to a sixth province. Health workers are struggling to contain the rapidly growing outbreak amid community resistance, misinformation, unpaid staff strikes and threats from rebel groups."
+     "published": "2026-08-16T08:50:57+00:00",
+     "summary": "Several Palestinian homes in the West Bank village of Qusra have been under siege for a week, with families trapped inside as supplies dwindle and water and electricity are cut off. Settlers have continued their attacks openly, despite the presence of Israeli soldiers and growing international pressure on Israel."
+    },
+    {
+     "outlet": "reason",
+     "title": "Israeli Settler \"Terrorists\" Unjustly Expel West Bank Palestinians From Their Land",
+     "url": "https://reason.com/volokh/2026/08/15/israeli-settler-terrorists-unjustly-expel-west-bank-palestinians-from-their-land/",
+     "author": "Ilya Somin",
+     "kind": "opinion",
+     "published": "2026-08-15T22:17:52+00:00",
+     "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions are deeply unjust, amounting to ethnic cleansing and gross violations of private property rights. They also highlight broader dangers of ethno-nationalist claims to exclusive control over land. The Times of Israel (a center-right Israeli publication) has a helpful overview of the recent settler violenc"
+    },
+    {
+     "outlet": "zeteo",
+     "title": "This Week in Palestine: Israel Shoots 13-Year-Old as She \u2018Memorized the Quran\u2019 and Settlers Besiege Palestinian Families",
+     "url": "https://zeteo.com/p/this-week-in-palestine-israel-shoots",
+     "author": "Team Zeteo",
+     "kind": "news",
+     "published": "2026-08-15T17:01:34+00:00",
+     "summary": "Israeli settlers run as they are chased by an Israeli military vehicle around Palestinian houses in the village of Qusra, south of Nablus, in the occupied West Bank, on Aug. 13, 2026. Photo by Zain Jaafar/AFP via Getty Images US Ambassador Mike Huckabee called settlers besieging a Palestinian American home in the occupied West Bank &#8220; Israeli terrorists .&#8221; It&#8217;s a welcome, rare rebuke from a U.S. official, but what kind of weight does it really have when the same official has been a long-time supporter of Israeli settlements? It wasn&#8217;t that long ago that Huckabee made similar comments about settler violence gripping the Palestinian Christian village of Taybeh , where attacks continue, or the settlers who beat Palestinian American Sayfollah Musallet to death (no one has been held accountable). Subscribe now What kind of weight do Huckabee&#8217;s comments really have when, hours after using the phrase &#8220;Israeli terrorists,&#8221; he called the settlers &#8220; illegal trespassers &#8221; instead? Or when he defended the vast majority of settlers, saying they aren&#8217;t the problem, the &#8220; unsettlers &#8221; are, even though the settlements themselve"
     },
     {
      "outlet": "pbsnewshour",
-     "title": "Congo Ebola outbreak on track to become deadliest in history",
-     "url": "https://www.pbs.org/newshour/show/congo-ebola-outbreak-on-track-to-become-deadliest-in-history",
-     "author": "Solveig Rennan Sandbulte",
+     "title": "Palestinians besieged in West Bank village of Qusra fear Israeli settlers will seize their homes",
+     "url": "https://www.pbs.org/newshour/world/palestinians-besieged-in-west-bank-village-of-qusra-fear-israeli-settlers-will-seize-their-homes",
+     "author": "Aref Tufaha, Associated Press",
      "kind": "news",
-     "published": "2026-08-14T22:45:49+00:00",
-     "summary": "The Ebola outbreak in the Democratic Republic of Congo continues to worsen, with the number of confirmed cases climbing to over 4,600. At least 2,100 people have died, a death toll that was reached almost three times faster than the outbreak over a decade ago. William Brangham discussed the crisis with epidemiologist Dr. Anne Rimoin, director of the Center for Global Health Security at UCLA."
-    },
-    {
-     "outlet": "semafor",
-     "title": "Ebola outbreak spreads to new province in DR Congo",
-     "url": "https://www.semafor.com/article/08/14/2026/ebola-outbreak-spreads-to-new-province-in-dr-congo",
-     "author": "Jeronimo Gonzalez",
-     "kind": "news",
-     "published": "2026-08-14T10:48:50+00:00",
-     "summary": "The Ebola outbreak in the Democratic Republic of Congo spread to a sixth province as the overall death toll surpassed 2,100 and cases topped 4,500. Experts say the virus may have been transmitted undetected for months, while health workers have struggled to contain the outbreak with poor medical supplies and no approved vaccine for the new strain \u2014 though several are in the works. The head of the World Health Organization this week warned that the current outbreak threatens to be the biggest ever, with authorities playing catch-up to the disease after \u201c a big head start. \u201d During the previous deadliest outbreak, which killed 11,000 people between 2014 and 2016, authorities had recorded 755 cases at the same point . \u2014 Jeronimo Gonzalez"
+     "published": "2026-08-14T21:43:06+00:00",
+     "summary": "The standoff in Qusra between Palestinian families and Israeli settlers who apparently want to push them out entered a new stage Friday as activists supporting the Palestinians marched toward the besieged homes to replenish their dwindling food and water supply."
     },
     {
      "outlet": "guardian",
-     "title": "DRC\u2019s fast-growing Ebola outbreak spreads to sixth province",
-     "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-     "author": "Rachel Savage and agencies",
+     "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+     "url": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+     "author": "Emma Graham-Harrison in Jerusalem",
      "kind": "news",
-     "published": "2026-08-13T15:17:13+00:00",
-     "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago. The current outbreak has killed more than 2,100 people out of more than 4,500 cases, according to the latest government figures released on Tuesday. At the same point in the 2014-16 outbreak in west Africa, the previous most deadly outbreak, 755 cases had been recorded, according to WHO data. Continue reading..."
+     "published": "2026-08-14T17:52:51+00:00",
+     "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading..."
     }
    ]
   },
@@ -1181,6 +917,75 @@
    ]
   },
   {
+   "id": "f7cce6b5d6",
+   "topic": "Politics",
+   "summary": "The Democratic National Committee (DNC) has voted to approve the 2028 presidential primary calendar, starting with South Carolina. The party okayed a plan that has the Palmetto State kicking off the cycle on Jan. 22, 2028, followed by Nevada on Feb. 1. New Hampshire, long a first-in-the-nation contest, will hold its primary third, on Feb....",
+   "summaryFrom": "thehill",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Democrats approve 2028 primary calendar that puts South Carolina first",
+   "updated": "2026-08-15T19:39:15+00:00",
+   "outletCount": 5,
+   "counts": {
+    "family": 2,
+    "corp": 3
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "wapo",
+     "title": "Democrats approve 2028 primary calendar that puts South Carolina first",
+     "url": "https://www.washingtonpost.com/politics/2026/08/15/democrats-approve-2028-primary-calendar-that-puts-south-carolina-first/",
+     "author": "Sammy Westfall",
+     "kind": "news",
+     "published": "2026-08-15T19:39:15+00:00",
+     "summary": "South Carolina would hold its primary on Jan. 22, 2028 under the Democratic National Committee\u2019s plan. Nevada would follow on Feb. 1. The plan aims to give a bigger voice to Black and Latino voters."
+    },
+    {
+     "outlet": "thehill",
+     "title": "DNC gives final approval of 2028 primary calendar starting in South Carolina",
+     "url": "https://thehill.com/homenews/campaign/6028298-dnc-approves-2028-primary-calendar/",
+     "author": "Julia Mueller",
+     "kind": "news",
+     "published": "2026-08-15T18:35:45+00:00",
+     "summary": "The Democratic National Committee (DNC) has voted to approve the 2028 presidential primary calendar, starting with South Carolina. The party okayed a plan that has the Palmetto State kicking off the cycle on Jan. 22, 2028, followed by Nevada on Feb. 1. New Hampshire, long a first-in-the-nation contest, will hold its primary third, on Feb...."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
+     "url": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
+     "author": "Shane Goldmacher",
+     "kind": "news",
+     "published": "2026-08-15T18:27:45+00:00",
+     "summary": "The party\u2019s membership finalized the new order for the first six states to winnow the candidate field, pushing back Iowa and New Hampshire."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Democrats set their 2028 primary calendar, with South Carolina going first",
+     "url": "https://www.nbcnews.com/politics/2028-election/democrats-officially-set-2028-primary-calendar-south-carolina-going-fi-rcna592519",
+     "author": "Natasha Korecki",
+     "kind": "news",
+     "published": "2026-08-15T18:25:31+00:00",
+     "summary": "AUSTIN, Texas \u2014 Democrats teed up South Carolina to lead a six-state gantlet of early presidential contests, sealing a 2028 road map that pushes Black and Latino voters and labor to the front of the line for choosing the party\u2019s next national leader."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "DNC to finalize controversial 2028 primary calendar, elevating South Carolina",
+     "url": "https://abcnews.com/Politics/dnc-set-finalize-controversial-2028-primary-calendar-elevating/story?id=135616869",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T09:41:06+00:00",
+     "summary": "The DNC is expected to vote on Saturday to approve the new order of states for the 2028 presidential nominating process, amidst controversy over some of those decisions."
+    }
+   ]
+  },
+  {
    "id": "cc0f5a9b70",
    "topic": "Politics",
    "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too\u2026",
@@ -1193,10 +998,10 @@
      "ex-cambridge"
     ],
     "indie": [
-     "london",
-     "accused",
+     "cambridge's",
      "became",
-     "cambridge's"
+     "london",
+     "accused"
     ]
    },
    "absent": [
@@ -1263,6 +1068,91 @@
    ]
   },
   {
+   "id": "1beb4d630e",
+   "topic": "Politics",
+   "summary": "The planned adornments, which were included in renderings submitted to the Supreme Court, break with tradition and the original vision for the White House grounds.",
+   "summaryFrom": "wapo",
+   "emphasis": {
+    "bigCount": 4,
+    "indieCount": 2,
+    "big": [],
+    "indie": [
+     "asks"
+    ]
+   },
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Trump asks Supreme Court to let White House ballroom construction continue",
+   "updated": "2026-08-15T17:38:25+00:00",
+   "outletCount": 5,
+   "counts": {
+    "family": 3,
+    "pub": 2,
+    "corp": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "forbes",
+     "title": "Trump Tests Birthright Citizenship Again After Supreme Court Loss",
+     "url": "https://www.forbes.com/sites/andyjsemotiuk/2026/08/15/trump-tests-birthright-citizenship-again-after-supreme-court-loss/",
+     "author": "Andy J. Semotiuk, Contributor",
+     "kind": "news",
+     "published": "2026-08-15T17:38:25+00:00",
+     "summary": "After the Supreme Court affirmed birthright citizenship, Trump has taken to proclamations to try to limit the impact of the decision. What is fair and what isn't?"
+    },
+    {
+     "outlet": "dw",
+     "title": "Trump asks Supreme Court to let White House ballroom construction continue",
+     "url": "https://www.dw.com/en/trump-asks-supreme-court-to-let-white-house-ballroom-construction-continue/a-78377695?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T22:02:00+00:00",
+     "summary": "Justice Department lawyers echoed the US president's claim that the $400 million White House ballroom \u200bproject is a security necessity."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump wants to put golden seals on White House ballroom",
+     "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-wants-put-golden-seals-white-house-ballroom/",
+     "author": "Dan Diamond, Jonathan Edwards",
+     "kind": "news",
+     "published": "2026-08-14T19:50:02+00:00",
+     "summary": "The planned adornments, which were included in renderings submitted to the Supreme Court, break with tradition and the original vision for the White House grounds."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Trump asks US Supreme Court to allow ballroom work to continue",
+     "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T19:05:22+00:00",
+     "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump officials ask Supreme Court to let ballroom construction continue",
+     "url": "https://www.washingtonpost.com/politics/2026/08/14/white-house-ballroom-trump-asks-supreme-court-let-work-go/",
+     "author": "Jonathan Edwards, Justin Jouvenal, Dan Diamond",
+     "kind": "news",
+     "published": "2026-08-14T17:22:24+00:00",
+     "summary": "The request escalates the legal fight over the controversial project to the nation\u2019s highest court."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump admin says WH ballroom 'beyond the point of no return' in Supreme Court appeal",
+     "url": "https://abcnews.com/Politics/trump-appeals-supreme-court-white-house-ballroom-construction/story?id=135642539",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T16:52:25+00:00",
+     "summary": "The Trump administration is asking the Supreme Court to allow construction of the president's White House ballroom to continue."
+    }
+   ]
+  },
+  {
    "id": "166810adc6",
    "topic": "Politics",
    "summary": "A bulldozer clears a pathway in Big Bend National Park, Texas, on August 12, 2026. | Kaylee Greenlee/Bloomberg via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: Remember President Donald Trump\u2019s first-term border wall? It\u2019s still being built \u2014 through a pristine Texas national park. What\u2019s happening? The Trump administration is preparing to build hundreds of miles of roads through Big Bend National Park in southwest Texas as part of its latest border security project, despite a bipartisan outcry over damage to the beloved park.&nbsp; Starting last week, bulldozers and heavy machinery began to clear land for the construction of about 200 miles of patrol road, new border barriers, and electronic\u2026",
@@ -1271,12 +1161,12 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "appeared",
-     "president",
-     "donald",
      "images",
-     "rubio",
-     "marco"
+     "president",
+     "appeared",
+     "donald",
+     "official",
+     "photo"
     ],
     "indie": [
      "wall",
@@ -1416,6 +1306,73 @@
    ]
   },
   {
+   "id": "d4be733d5c",
+   "topic": "World",
+   "summary": "Tehran said the three pilots \"were captured alive\" by Qatari forces after their fighter jets were shot down in the early days of the US-Israel war with Iran. Qatar has denied Iran's claims.",
+   "summaryFrom": "dw",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 2,
+    "big": [],
+    "indie": [
+     "claims"
+    ]
+   },
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+   "updated": "2026-08-16T09:27:58+00:00",
+   "outletCount": 4,
+   "counts": {
+    "pub": 2,
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+     "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T09:27:58+00:00",
+     "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Iran live updates: Qatar denies capture of 3 Iranian military pilots",
+     "url": "https://abcnews.com/International/live-updates/iran-live-updates-negotiations-us-messages-exchanged-tehran/?id=135508900",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T07:34:03+00:00",
+     "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes."
+    },
+    {
+     "outlet": "dw",
+     "title": "Iran war: Qatar denies holding missing Iranian fighter pilots",
+     "url": "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T01:38:00+00:00",
+     "summary": "Tehran said the three pilots \"were captured alive\" by Qatari forces after their fighter jets were shot down in the early days of the US-Israel war with Iran. Qatar has denied Iran's claims."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
+     "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
+     "author": "Yeganeh Torbati and Leily Nikounazar",
+     "kind": "news",
+     "published": "2026-08-15T19:36:20+00:00",
+     "summary": "Iran said the airmen have been held since March 2 when their fighter jets were shot down. The Qatari government denies detaining any Iranian pilots."
+    }
+   ]
+  },
+  {
    "id": "53e6392a6d",
    "topic": "World",
    "summary": "South Korean President Lee Jae-myung proposed on Saturday that Pyongyang engage in dialogue to formally end the Korean War, which has technically been ongoing for more than 70 years due to the lack of a peace treaty.",
@@ -1427,7 +1384,7 @@
     "nonprofit"
    ],
    "headline": "Israel strikes south Lebanon again as families flee north",
-   "updated": "2026-08-16T07:50:05+00:00",
+   "updated": "2026-08-16T09:04:21+00:00",
    "outletCount": 4,
    "counts": {
     "corp": 1,
@@ -1443,7 +1400,7 @@
      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T07:50:05+00:00",
+     "published": "2026-08-16T09:04:21+00:00",
      "summary": "Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children, according to the health ministry."
     },
     {
@@ -1485,6 +1442,73 @@
    ]
   },
   {
+   "id": "a085ed5c4d",
+   "topic": "Climate & Energy",
+   "summary": "National Weather Service reports that more than 11in of rain fell over a two-day period in some areas At least five people are dead after devastating floods that swept through Indiana this week, officials said, as storms continued to batter the state on Saturday and first responders used boats to rescue more people from rising waters in neighborhoods along the White River in Indianapolis. The mayor of Indianapolis, Joe Hogsett, and other state officials implored residents in areas at risk of flooding to heed any evacuation warnings at a news conference. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 2,
+    "big": [],
+    "indie": [
+     "weather"
+    ]
+   },
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "At least five people dead in Indiana amid worst flooding in over 30 years, officials say",
+   "updated": "2026-08-16T07:44:46+00:00",
+   "outletCount": 4,
+   "counts": {
+    "family": 2,
+    "nonprofit": 2
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "At least 5 people in Indiana have died as severe storms, flooding cross state",
+     "url": "https://nypost.com/2026/08/16/us-news/indiana-authorities-say-at-least-5-people-have-died-as-severe-weather-crosses-the-state/",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T07:44:46+00:00",
+     "summary": "The state has been hammered over the past week by heavy rains, resulting in rivers reaching record levels."
+    },
+    {
+     "outlet": "guardian",
+     "title": "At least five people dead in Indiana amid worst flooding in over 30 years, officials say",
+     "url": "https://www.theguardian.com/us-news/2026/aug/15/indiana-flooding-deaths",
+     "author": "Uwa Ede-Osifo and agencies",
+     "kind": "news",
+     "published": "2026-08-15T23:56:33+00:00",
+     "summary": "National Weather Service reports that more than 11in of rain fell over a two-day period in some areas At least five people are dead after devastating floods that swept through Indiana this week, officials said, as storms continued to batter the state on Saturday and first responders used boats to rescue more people from rising waters in neighborhoods along the White River in Indianapolis. The mayor of Indianapolis, Joe Hogsett, and other state officials implored residents in areas at risk of flooding to heed any evacuation warnings at a news conference. Continue reading..."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Indiana authorities say at least 5 people have died as severe weather crosses the state",
+     "url": "https://www.pbs.org/newshour/nation/indiana-authorities-say-at-least-5-people-have-died-in-flooding-across-the-state",
+     "author": "Susan Montoya Bryan, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T20:39:01+00:00",
+     "summary": "The state has been hammered over the past week by heavy rains, resulting in rivers reaching record levels and sending residents in search of higher ground."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Five People Dead in String of Shootings in Michigan",
+     "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/five-people-dead-in-string-of-shootings-in-michigan/",
+     "author": "AWR Hawkins",
+     "kind": "news",
+     "published": "2026-08-15T15:20:36+00:00",
+     "summary": "Five people were killed Friday in a string of shootings that took place Friday at two different residences and a wooded area in Missaukee County, Michigan. The post Five People Dead in String of Shootings in Michigan appeared first on Breitbart ."
+    }
+   ]
+  },
+  {
    "id": "80daf3a1d1",
    "topic": "Justice & Policing",
    "summary": "St. Louis Cardinals rookie Joshua B\u00e1ez\u2019s first career game in the big leagues was something out of a movie. B\u00e1ez made Major League Baseball history by hitting a home run in each of his first three plate appearances in the Cardinals' game against the Chicago Cubs Saturday afternoon at Wrigley Field. The 23-year-old wasted no time in his first-ever at-bat, blasting the first pitch he saw in his major league career 450 feet to dead center field for a two-run homer to give the Cardinals a 3-0 lead. B\u00e1ez pummeled Cubs starter Matt Boyd\u2019s 93-mph fastball and sent the Cardinals\u2019 dugout into a frenzy. The rookie rounded the bases with a smile on his face the whole time. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM His second home run of the day came in the fourth inning, once again off Boyd. B\u00e1ez worked the count full, then hammered Boyd's 78-mph changeup 382 feet into the left-field\u2026",
@@ -1493,8 +1517,8 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "league",
-     "made"
+     "made",
+     "league"
     ],
     "indie": []
    },
@@ -1698,11 +1722,11 @@
     "indieCount": 3,
     "big": [
      "stations",
-     "foot-washing",
-     "worth",
-     "international",
      "airport",
-     "scrapped"
+     "foot-washing",
+     "international",
+     "worth",
+     "fort"
     ],
     "indie": [
      "order"
@@ -1917,10 +1941,10 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "pronounced",
-     "called",
      "statement",
-     "police"
+     "police",
+     "called",
+     "pronounced"
     ],
     "indie": []
    },
@@ -2039,62 +2063,53 @@
    ]
   },
   {
-   "id": "9c95eb7e49",
-   "topic": "Culture & Sport",
-   "summary": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 51 people Rescue crews dug through collapsed buildings and landslide debris in eastern Indonesia on Sunday as they searched for bodies and possible survivors a day after a powerful earthquake killed at least 51 people, injured more than 100 and displaced thousands. At least 24 people died in Manggarai regency and 17 in neighbouring East Manggarai, with additional fatalities reported in Sikka, Ngada and Ende regencies, the national disaster management agency said. Rescuers were still searching for people feared buried beneath landslides triggered by the quake across six regencies on Flores, a predominantly Catholic island in Muslim-majority Indonesia. Continue reading...",
-   "summaryFrom": "guardian",
+   "id": "a45a4a257a",
+   "topic": "Other",
+   "summary": "The bus ran into a ditch and tipped over early on Sunday \u200bnear the town of Mezokeresztes in eastern Hungary, police said.",
+   "summaryFrom": "nypost",
    "emphasis": null,
    "absent": [
     "corp",
-    "family",
-    "coop"
+    "coop",
+    "nonprofit"
    ],
-   "headline": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-   "updated": "2026-08-16T08:23:38+00:00",
+   "headline": "At least 12 people killed in Hungary bus crash",
+   "updated": "2026-08-16T08:50:30+00:00",
    "outletCount": 3,
    "counts": {
-    "pub": 3,
-    "nonprofit": 1
+    "pub": 2,
+    "family": 1
    },
-   "newsCount": 4,
+   "newsCount": 3,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
     {
-     "outlet": "bbc",
-     "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-     "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+     "outlet": "aljazeera",
+     "title": "At least 12 people killed in Hungary bus crash",
+     "url": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T08:23:38+00:00",
-     "summary": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed."
+     "published": "2026-08-16T08:50:30+00:00",
+     "summary": "Bus carrying Polish tourists overturns, killing 12 people and injuring 10 others on the M3 motorway near Mezokeresztes."
     },
     {
-     "outlet": "guardian",
-     "title": "Rescue teams search for survivors in Indonesia after powerful earthquake",
-     "url": "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake",
-     "author": "Associated Press",
+     "outlet": "nypost",
+     "title": "12 killed and at least 10 injured in Polish bus crash in Hungary",
+     "url": "https://nypost.com/2026/08/16/world-news/polish-bus-crash-leaves-12-dead-at-least-10-injured-in-hungary/",
+     "author": "Reuters",
      "kind": "news",
-     "published": "2026-08-16T03:57:34+00:00",
-     "summary": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 51 people Rescue crews dug through collapsed buildings and landslide debris in eastern Indonesia on Sunday as they searched for bodies and possible survivors a day after a powerful earthquake killed at least 51 people, injured more than 100 and displaced thousands. At least 24 people died in Manggarai regency and 17 in neighbouring East Manggarai, with additional fatalities reported in Sikka, Ngada and Ende regencies, the national disaster management agency said. Rescuers were still searching for people feared buried beneath landslides triggered by the quake across six regencies on Flores, a predominantly Catholic island in Muslim-majority Indonesia. Continue reading..."
+     "published": "2026-08-16T07:39:18+00:00",
+     "summary": "The bus ran into a ditch and tipped over early on Sunday \u200bnear the town of Mezokeresztes in eastern Hungary, police said."
     },
     {
-     "outlet": "france24",
-     "title": "Indonesia hit by earthquake aftershock as rescuers search for survivors",
-     "url": "https://www.france24.com/en/indonesia-hit-by-earthquake-aftershock-as-rescuers-search-for-survivors",
-     "author": "FRANCE24",
+     "outlet": "bbc",
+     "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+     "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-15T12:34:05+00:00",
-     "summary": "Fresh back from Indonesia, FRANCE 24 journalist Jamie Smith-Maillet assesses the damage caused by the 7.7-magnitude earthquake that struck the Flores region. Rescue teams are working to pull survivors from the rubble, while an aftershock has hit the area, raising fears of further casualties."
-    },
-    {
-     "outlet": "france24",
-     "title": "\ud83d\udd34 Indonesia hit by two powerful earthquakes",
-     "url": "https://www.france24.com/en/asia-pacific/20260815-deadly-earthquake-strikes-indonesia-and-triggers-mass-evacuations",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-15T11:49:36+00:00",
-     "summary": null
+     "published": "2026-08-16T07:04:17+00:00",
+     "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning."
     }
    ]
   },
@@ -2150,57 +2165,6 @@
    ]
   },
   {
-   "id": "843e9d7145",
-   "topic": "Politics",
-   "summary": "Colombia's President Abelardo de la Espriella on Saturday called on US President Donald Trump to suspend tariffs on the South American nation as the country contiues to reel from a deadly earthquake. At least 300 people were killed in the quake that devastated the western Colombian cities of Cali and Pereira.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Colombia's new president asks Trump to suspend tariffs after deadly earthquake",
-   "updated": "2026-08-16T05:39:51+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "Colombia's new president asks Trump to suspend tariffs after deadly earthquake",
-     "url": "https://www.france24.com/en/americas/20260816-colombia-s-new-president-asks-trump-to-suspend-tariffs-after-deadly-earthquake",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-16T05:39:51+00:00",
-     "summary": "Colombia's President Abelardo de la Espriella on Saturday called on US President Donald Trump to suspend tariffs on the South American nation as the country contiues to reel from a deadly earthquake. At least 300 people were killed in the quake that devastated the western Colombian cities of Cali and Pereira."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
-     "url": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T23:04:47+00:00",
-     "summary": "Post-earthquake reconstruction is expected to cost about $6.4bn, but Colombia has been hit by renewed US tariffs."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Colombia Asks US to Pause Tariffs in Deadly Quake\u2019s Aftermath",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-15/colombia-asks-us-to-pause-tariffs-in-deadly-quake-s-aftermath",
-     "author": "Antonia Mufarech",
-     "kind": "news",
-     "published": "2026-08-15T21:30:08+00:00",
-     "summary": "Colombian President Abelardo de la Espriella asked US President Donald Trump to temporarily suspend tariffs on Colombian goods as the country grapples with the aftermath of a devastating earthquake that killed nearly 300 people."
-    }
-   ]
-  },
-  {
    "id": "4e7c8d1bfe",
    "topic": "Culture & Sport",
    "summary": "(L-R): Ewan McGregor as Greg and Anne Hathaway as Denise in The End of Oak Street \u2014Warner Bros. Pictures It's been 33 years since the enduring cinematic masterpiece that is Jurassic Park first hit theaters in June 1993. Since that fateful summer, Steven Spielberg's sci-fi survival thriller has reigned supreme as the undisputed king of dinosaur films. Now, The End of Oak Street is proving a dino blockbuster that serves up prehistoric horror with a side of genuine pathos is still a worthy endeavor. Based on Michael Crichton's 1990 novel, Jurassic Park not only delivered some of the most memorable creature-feature scares in movie history, it was also a sharp cautionary tale about scientific hubris and the illusion of man's control over nature that was anchored by stellar performances from its core cast. But over the course of numerous sequels and reboots, the franchise largely shifted away\u2026",
@@ -2248,57 +2212,6 @@
      "kind": "opinion",
      "published": "2026-08-14T14:32:25+00:00",
      "summary": "There's something primordially satisfying about watching a big-screen dinosaur get the what-for from the business end of a just-loaded shotgun. The recent run of Jurassic Park movies sometimes seems to have lost this primal pleasure, replacing it with ho-hum computer-generated spectacle and cheap nostalgic callbacks to the franchise's better days. They've forgotten that the franchise was founded on a combination of awe and white-knuckle terror\u2014the raw and relatable fear of a giant, toothy monster that stalks the earth with a sort of evolutionary arrogance that comes from a couple million years atop the food chain. Newsflash: Humans rule the planet now. It's fun to watch these ancient planetary powerhouses get taken down a peg. Sic semper Tyrannosaurus. The End of Oak Street remembers what the Jurassic Park franchise has largely forgotten. It leans into the animal terror of encountering a dinosaur on the streets of an ordinary suburb. Set in the early 1980s, the movie lifts brashly from early Steven Spielberg, especially E.T. , depicting a seemingly ordinary family with its own ordinary troubles who find themselves in a sort of dinosaur-ridden episode of The Twilight Zone. The End o"
-    }
-   ]
-  },
-  {
-   "id": "4fcf729022",
-   "topic": "Other",
-   "summary": "More than two weeks after tens of thousands of illegal migrants stormed the border of the Spanish exclave of Ceuta, thousands of migrants remain in the city, resulting in the area's once pristine beach being converted into a full-on encampment with dozens of makeshift huts being constructed out of garbage, and prompting warnings of potential disease outbreaks due to the unsanitary conditions. The post Pics: Thousands of Illegal Migrants Set Up Makeshift Garbage Huts on Beach of Spanish Ceuta, Weeks After Invasion appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Morocco detains dozens of migrants trying to enter Spanish North African exclave Ceuta",
-   "updated": "2026-08-15T23:26:00+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Morocco detains dozens of migrants trying to enter Spanish North African exclave Ceuta",
-     "url": "https://www.dw.com/en/morocco-detains-dozens-of-migrants-trying-to-enter-spanish-north-african-exclave-ceuta/a-78385761?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T23:26:00+00:00",
-     "summary": "The attempted crossings come two weeks after around 72,000 people rushed into the Spanish North African exclave from Morocco. Calls for another mass crossing had been circulating on social media this week."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-     "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T20:58:31+00:00",
-     "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Pics: Thousands of Illegal Migrants Set Up Makeshift Garbage Huts on Beach of Spanish Ceuta, Weeks After Invasion",
-     "url": "https://www.breitbart.com/europe/2026/08/15/pics-thousands-of-illegal-migrants-set-up-garbage-huts-on-ceuta-beach-sparking-warnings-of-disease-outbreak/",
-     "author": "Kurt Zindulka",
-     "kind": "news",
-     "published": "2026-08-15T19:47:05+00:00",
-     "summary": "More than two weeks after tens of thousands of illegal migrants stormed the border of the Spanish exclave of Ceuta, thousands of migrants remain in the city, resulting in the area's once pristine beach being converted into a full-on encampment with dozens of makeshift huts being constructed out of garbage, and prompting warnings of potential disease outbreaks due to the unsanitary conditions. The post Pics: Thousands of Illegal Migrants Set Up Makeshift Garbage Huts on Beach of Spanish Ceuta, Weeks After Invasion appeared first on Breitbart ."
     }
    ]
   },
@@ -2405,108 +2318,6 @@
    ]
   },
   {
-   "id": "a0ba21d917",
-   "topic": "Justice & Policing",
-   "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions\u2026",
-   "summaryFrom": "reason",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Israeli Settler \"Terrorists\" Unjustly Expel West Bank Palestinians From Their Land",
-   "updated": "2026-08-15T22:17:52+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 3
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "reason",
-     "title": "Israeli Settler \"Terrorists\" Unjustly Expel West Bank Palestinians From Their Land",
-     "url": "https://reason.com/volokh/2026/08/15/israeli-settler-terrorists-unjustly-expel-west-bank-palestinians-from-their-land/",
-     "author": "Ilya Somin",
-     "kind": "opinion",
-     "published": "2026-08-15T22:17:52+00:00",
-     "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions are deeply unjust, amounting to ethnic cleansing and gross violations of private property rights. They also highlight broader dangers of ethno-nationalist claims to exclusive control over land. The Times of Israel (a center-right Israeli publication) has a helpful overview of the recent settler violenc"
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Palestinians besieged in West Bank village of Qusra fear Israeli settlers will seize their homes",
-     "url": "https://www.pbs.org/newshour/world/palestinians-besieged-in-west-bank-village-of-qusra-fear-israeli-settlers-will-seize-their-homes",
-     "author": "Aref Tufaha, Associated Press",
-     "kind": "news",
-     "published": "2026-08-14T21:43:06+00:00",
-     "summary": "The standoff in Qusra between Palestinian families and Israeli settlers who apparently want to push them out entered a new stage Friday as activists supporting the Palestinians marched toward the besieged homes to replenish their dwindling food and water supply."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
-     "url": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
-     "author": "Emma Graham-Harrison in Jerusalem",
-     "kind": "news",
-     "published": "2026-08-14T17:52:51+00:00",
-     "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "cccf277238",
-   "topic": "Politics",
-   "summary": "Rep. Ralph Norman (R-SC) said he's willing to put in the work to win the Aug. 25 South Carolina Republican Senate runoff in an exclusive interview on Breitbart News Saturday. Norman said the country didn't have time to wait for someone who hasn't been involved in national issues and he was the \"known quantity\" for the Palmetto state's voters The post Exclusive \u2014 Ralph Norman: South Carolina Senate Runoff About Who Will Fight for SAVE America Act appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Exclusive \u2014 Ralph Norman: South Carolina Senate Runoff About Who Will Fight for SAVE America Act",
-   "updated": "2026-08-15T20:26:01+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 3
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Exclusive \u2014 Ralph Norman: South Carolina Senate Runoff About Who Will Fight for SAVE America Act",
-     "url": "https://www.breitbart.com/politics/2026/08/15/exclusive-ralph-norman-south-carolina-senate-runoff-about-who-will-fight-for-save-america-act/",
-     "author": "Matt Mercer",
-     "kind": "news",
-     "published": "2026-08-15T20:26:01+00:00",
-     "summary": "Rep. Ralph Norman (R-SC) said he's willing to put in the work to win the Aug. 25 South Carolina Republican Senate runoff in an exclusive interview on Breitbart News Saturday. Norman said the country didn't have time to wait for someone who hasn't been involved in national issues and he was the \"known quantity\" for the Palmetto state's voters The post Exclusive \u2014 Ralph Norman: South Carolina Senate Runoff About Who Will Fight for SAVE America Act appeared first on Breitbart ."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Russell Fry Backs Darline Graham in South Carolina Senate Runoff Amid Trump Pressure",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/russell-fry-darline-graham-south-carolina.html",
-     "author": "Emily Davies",
-     "kind": "news",
-     "published": "2026-08-14T17:35:41+00:00",
-     "summary": "The president has been focused on the race since the death of Lindsey Graham in July. Ms. Graham, the late senator\u2019s sister, is competing against Representative Ralph Norman in a runoff on Aug. 25."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Amid intra-MAGA fight, Trump weighs going all in for Darline Graham",
-     "url": "https://www.washingtonpost.com/politics/2026/08/14/amid-intra-maga-fight-trump-weighs-going-all-darline-graham/",
-     "author": "Natalie Allison",
-     "kind": "news",
-     "published": "2026-08-14T16:08:56+00:00",
-     "summary": "The president is actively fighting for his endorsed candidate in the South Carolina Senate runoff, Sen. Darline Graham, the sister of the late Lindsey Graham."
-    }
-   ]
-  },
-  {
    "id": "ab35692bcd",
    "topic": "Health",
    "summary": "Eggs displayed in refrigerated section of a grocery store. \u2014Lindsey Nicholson\u2014Universal Images Group An egg recall linked to a salmonella outbreak was upgraded to the highest possible risk level by the U.S. Food and Drug Administration (FDA) on Wednesday. Nearly 1.6 million dozen eggs were labeled \u201cClass I,\u201d which the agency defines as \u201ca situation in which there is a reasonable probability that the use of or exposure to a violative product will cause serious adverse health consequences or death.\u201d Symptoms of salmonella infection include \u201cfever, diarrhea (which may be bloody), nausea, vomiting, and abdominal pain,\u201d according to the FDA . \u201cIllness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella, and the symptoms usually last four to seven days,\u201d its website said, noting that children under 5, the elderly, and the immunocompromised were more\u2026",
@@ -2554,6 +2365,57 @@
      "kind": "news",
      "published": "2026-08-15T03:49:00+00:00",
      "summary": "The US has issued a serious health warning over the recalled eggs, saying exposure to the potentially contaminated products could cause severe illness or death."
+    }
+   ]
+  },
+  {
+   "id": "d9f9a4b05a",
+   "topic": "Health",
+   "summary": "The Ebola outbreak in the Democratic Republic of Congo spread to a sixth province as the overall death toll surpassed 2,100 and cases topped 4,500. Experts say the virus may have been transmitted undetected for months, while health workers have struggled to contain the outbreak with poor medical supplies and no approved vaccine for the new strain \u2014 though several are in the works. The head of the World Health Organization this week warned that the current outbreak threatens to be the biggest ever, with authorities playing catch-up to the disease after \u201c a big head start. \u201d During the previous deadliest outbreak, which killed 11,000 people between 2014 and 2016, authorities had recorded 755 cases at the same point . \u2014 Jeronimo Gonzalez",
+   "summaryFrom": "semafor",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Congo Ebola outbreak on track to become deadliest in history",
+   "updated": "2026-08-14T22:45:49+00:00",
+   "outletCount": 3,
+   "counts": {
+    "nonprofit": 2,
+    "family": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "pbsnewshour",
+     "title": "Congo Ebola outbreak on track to become deadliest in history",
+     "url": "https://www.pbs.org/newshour/show/congo-ebola-outbreak-on-track-to-become-deadliest-in-history",
+     "author": "Solveig Rennan Sandbulte",
+     "kind": "news",
+     "published": "2026-08-14T22:45:49+00:00",
+     "summary": "The Ebola outbreak in the Democratic Republic of Congo continues to worsen, with the number of confirmed cases climbing to over 4,600. At least 2,100 people have died, a death toll that was reached almost three times faster than the outbreak over a decade ago. William Brangham discussed the crisis with epidemiologist Dr. Anne Rimoin, director of the Center for Global Health Security at UCLA."
+    },
+    {
+     "outlet": "semafor",
+     "title": "Ebola outbreak spreads to new province in DR Congo",
+     "url": "https://www.semafor.com/article/08/14/2026/ebola-outbreak-spreads-to-new-province-in-dr-congo",
+     "author": "Jeronimo Gonzalez",
+     "kind": "news",
+     "published": "2026-08-14T10:48:50+00:00",
+     "summary": "The Ebola outbreak in the Democratic Republic of Congo spread to a sixth province as the overall death toll surpassed 2,100 and cases topped 4,500. Experts say the virus may have been transmitted undetected for months, while health workers have struggled to contain the outbreak with poor medical supplies and no approved vaccine for the new strain \u2014 though several are in the works. The head of the World Health Organization this week warned that the current outbreak threatens to be the biggest ever, with authorities playing catch-up to the disease after \u201c a big head start. \u201d During the previous deadliest outbreak, which killed 11,000 people between 2014 and 2016, authorities had recorded 755 cases at the same point . \u2014 Jeronimo Gonzalez"
+    },
+    {
+     "outlet": "guardian",
+     "title": "DRC\u2019s fast-growing Ebola outbreak spreads to sixth province",
+     "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+     "author": "Rachel Savage and agencies",
+     "kind": "news",
+     "published": "2026-08-13T15:17:13+00:00",
+     "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago. The current outbreak has killed more than 2,100 people out of more than 4,500 cases, according to the latest government figures released on Tuesday. At the same point in the 2014-16 outbreak in west Africa, the previous most deadly outbreak, 755 cases had been recorded, according to WHO data. Continue reading..."
     }
    ]
   },
@@ -2609,9 +2471,93 @@
    ]
   },
   {
-   "id": "fd28d4b062",
+   "id": "20ff1188cc",
+   "topic": "World",
+   "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+   "summaryFrom": "bbc",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+   "updated": "2026-08-16T09:34:49+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Ukraine launches one of the largest aerial attacks on Russia yet",
+     "url": "https://www.cbsnews.com/news/ukraine-moscow-russia-drone-attack-largest-wildberries/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T09:34:49+00:00",
+     "summary": "Footage shows a large column of smoke after Ukraine struck a major logistics hub in the Moscow region."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T09:04:14+00:00",
+     "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit."
+    }
+   ]
+  },
+  {
+   "id": "77b8d50e0c",
    "topic": "Other",
-   "summary": "Six hundred drones targeted the Moscow region in a sustained overnight assault that wounded three people, the Russian capital's mayor said on Sunday, as Ukraine steps up long-range attacks into Russian territory. The assault came as Russian \u2060forces launched a \u200bmissile attack on Kyiv, sparking fires in at least two districts of Ukraine's capital, Mayor \u200bVitali \u200cKlitschko said. Follow our live blog for all the latest updates.",
+   "summary": "A runner was hospitalized in Alaska after fending off a bear attack in Anchorage this week. The woman, who was running by herself at Prospect Heights\u2019 Wolverine Bowl trail, was able to get away from the brown bear by using her bear spray, according to the Alaska Department of Fish and Game. She was taken to a local hospital for treatment. BEAR ATTACK IN YELLOWSTONE NATIONAL PARK LEAVES 2 HIKERS INJURED Biologists went to the site of the attack and collected samples but no bears were seen. The department said anyone who sees a bear or another wild animal acting aggressively or unusually should report it. Warning signs have been posted at the Prospect Heights trailhead, the departmet said, adding that hikers should stay off closed trails. \"Thick, dense summer foliage can block sightlines, making surprise encounters more likely,\" the department said. \"Choose hiking routes with good\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Alaska runner hospitalized after using bear spray to fight off brown bear on trail",
+   "updated": "2026-08-16T09:23:43+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Alaska runner hospitalized after using bear spray to fight off brown bear on trail",
+     "url": "https://nypost.com/2026/08/16/us-news/alaska-runner-hospitalized-after-using-bear-spray-to-fight-off-brown-bear-on-trail/",
+     "author": "Fox News",
+     "kind": "news",
+     "published": "2026-08-16T09:23:43+00:00",
+     "summary": "\"If you surprise a bear, especially one with cubs or on a food cache, it may react in a threatened or defensive manner,\" the department said."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Alaska runner hospitalized after using bear spray to fight off brown bear on Alaska trail",
+     "url": "https://www.foxnews.com/us/alaska-runner-hospitalized-bear-spray-fight-off-brown-bear-alaska-trail",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T01:32:26+00:00",
+     "summary": "A runner was hospitalized in Alaska after fending off a bear attack in Anchorage this week. The woman, who was running by herself at Prospect Heights\u2019 Wolverine Bowl trail, was able to get away from the brown bear by using her bear spray, according to the Alaska Department of Fish and Game. She was taken to a local hospital for treatment. BEAR ATTACK IN YELLOWSTONE NATIONAL PARK LEAVES 2 HIKERS INJURED Biologists went to the site of the attack and collected samples but no bears were seen. The department said anyone who sees a bear or another wild animal acting aggressively or unusually should report it. Warning signs have been posted at the Prospect Heights trailhead, the departmet said, adding that hikers should stay off closed trails. \"Thick, dense summer foliage can block sightlines, making surprise encounters more likely,\" the department said. \"Choose hiking routes with good visibility and away from known attractants, like salmon-bearing streams.\" When hiking in bear country, people should carry a deterrent such as bear spray or a firearm, stay in groups, make noise to avoid surprising a bear, stay alert for signs of bears, don\u2019t approach bears and keep pets on a leash . WOMAN "
+    }
+   ]
+  },
+  {
+   "id": "34a7b2981f",
+   "topic": "Justice & Policing",
+   "summary": "France's attempt to ban social media for under-15s has been blocked by the Constitutional Council, which ruled the measure unconstitutional. Speaking to FRANCE 24, Peter Craddock, Senior Attorney advising social media companies, said the decision was unsurprising, arguing that the proposed law imposed a blanket ban without taking into account differences between platforms or children's levels of maturity. The court found that the measure infringed on the fundamental freedom of expression and information.",
    "summaryFrom": "france24",
    "emphasis": null,
    "absent": [
@@ -2620,8 +2566,8 @@
     "coop",
     "nonprofit"
    ],
-   "headline": "Moscow says 600 drones targeted region overnight",
-   "updated": "2026-08-16T08:13:00+00:00",
+   "headline": "Why France's under-15 social media ban was blocked",
+   "updated": "2026-08-16T09:20:06+00:00",
    "outletCount": 2,
    "counts": {
     "pub": 2
@@ -2631,22 +2577,274 @@
    "underreported": true,
    "articles": [
     {
-     "outlet": "dw",
-     "title": "Moscow says 600 drones targeted region overnight",
-     "url": "https://www.dw.com/en/moscow-says-600-drones-targeted-region-overnight/a-78386779?maca=en-rss-en-all-1573-rdf",
-     "author": null,
+     "outlet": "france24",
+     "title": "Why France's under-15 social media ban was blocked",
+     "url": "https://www.france24.com/en/why-france-s-under-15-social-media-ban-was-blocked",
+     "author": "FRANCE24",
      "kind": "news",
-     "published": "2026-08-16T08:13:00+00:00",
-     "summary": "Moscow says hundreds of drones targeted the Russian capital overnight, while NATO jets were again called into action farther south. The incidents underline the growing reach of drone warfare well beyond Ukraine itself."
+     "published": "2026-08-16T09:20:06+00:00",
+     "summary": "France's attempt to ban social media for under-15s has been blocked by the Constitutional Council, which ruled the measure unconstitutional. Speaking to FRANCE 24, Peter Craddock, Senior Attorney advising social media companies, said the decision was unsurprising, arguing that the proposed law imposed a blanket ban without taking into account differences between platforms or children's levels of maturity. The court found that the measure infringed on the fundamental freedom of expression and information."
     },
     {
-     "outlet": "france24",
-     "title": "Live: Moscow targeted by 600 drones overnight, explosions heard in Kyiv",
-     "url": "https://www.france24.com/en/europe/20260816-live-moscow-targeted-by-600-drones-overnight-explosions-heard-in-kyiv",
-     "author": "FRANCE 24",
+     "outlet": "bbc",
+     "title": "France's top court blocks social media ban for under-15s",
+     "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-16T04:42:16+00:00",
-     "summary": "Six hundred drones targeted the Moscow region in a sustained overnight assault that wounded three people, the Russian capital's mayor said on Sunday, as Ukraine steps up long-range attacks into Russian territory. The assault came as Russian \u2060forces launched a \u200bmissile attack on Kyiv, sparking fires in at least two districts of Ukraine's capital, Mayor \u200bVitali \u200cKlitschko said. Follow our live blog for all the latest updates."
+     "published": "2026-08-14T16:35:06+00:00",
+     "summary": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft."
+    }
+   ]
+  },
+  {
+   "id": "c2999d0648",
+   "topic": "Health",
+   "summary": "A distressed Novak Djokovic has come clean about a health condition he has concealed after collapsing at the Cincinnati Open on Sunday.",
+   "summaryFrom": "nypost",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Cincinnati Open: Djokovic stunned by Tirante in second round",
+   "updated": "2026-08-16T09:03:05+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
+     "url": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T09:03:05+00:00",
+     "summary": "Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Open in his first match since Wimbledon."
+    },
+    {
+     "outlet": "nypost",
+     "title": "Distressed Novak Djokovic comes clean on health condition after collapsing at Cincinnati Open",
+     "url": "https://nypost.com/2026/08/16/sports/novak-djokovic-speaks-out-on-health-after-collapsing-at-cincinnati-open/",
+     "author": "News.com.au",
+     "kind": "news",
+     "published": "2026-08-16T05:48:12+00:00",
+     "summary": "A distressed Novak Djokovic has come clean about a health condition he has concealed after collapsing at the Cincinnati Open on Sunday."
+    }
+   ]
+  },
+  {
+   "id": "da8db275da",
+   "topic": "World",
+   "summary": "Jeff Daniels as President Ronald Reagan \u2014Courtesy of Angel Studios The Reykjavik Summit \u2014when U.S. President Ronald Reagan and Soviet Union President Mikhail Gorbachev talked in person in 1986\u2014is not known as an iconic bit of American history. But the face-to-face conversation between the leaders, held over Oct. 11 and 12 in the Icelandic capital, proved to be an important step toward the end of the Cold War . The summit (or meeting, depending on who you ask) came after \u201can unexpected invitation from Gorbachev,\u201d says Pete Souza , the former Presidential photographer for Reagan. At the time the Reagan administration refused to call it a summit. \u201cBefore two leaders like that have a summit meeting, there's lots of prep work that goes into it,\u201d recalls Souza. \u201cBut this was very last minute. The Reagan administration went to great effort leading up to Reykjavik, to not call it a summit.\u2026",
+   "summaryFrom": "time",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "In \u2018The Brink of War,\u2019 a Return to an Era of Razor-Edge Diplomacy",
+   "updated": "2026-08-16T09:02:28+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "In \u2018The Brink of War,\u2019 a Return to an Era of Razor-Edge Diplomacy",
+     "url": "https://www.nytimes.com/2026/08/16/us/politics/brink-of-war-reagan-nuclear-weapons.html",
+     "author": "Peter Baker",
+     "kind": "news",
+     "published": "2026-08-16T09:02:28+00:00",
+     "summary": "A new film depicts the 1986 nuclear arms summit in Reykjavik, Iceland, between Ronald Reagan and Mikhail Gorbachev, which both offered and dashed hopes of a dramatic breakthrough."
+    },
+    {
+     "outlet": "time",
+     "title": "The True Story Behind The Brink of War",
+     "url": "https://time.com/article/2026/08/14/brink-of-war-true-story/",
+     "author": "Barry Levitt",
+     "kind": "news",
+     "published": "2026-08-14T19:03:46+00:00",
+     "summary": "Jeff Daniels as President Ronald Reagan \u2014Courtesy of Angel Studios The Reykjavik Summit \u2014when U.S. President Ronald Reagan and Soviet Union President Mikhail Gorbachev talked in person in 1986\u2014is not known as an iconic bit of American history. But the face-to-face conversation between the leaders, held over Oct. 11 and 12 in the Icelandic capital, proved to be an important step toward the end of the Cold War . The summit (or meeting, depending on who you ask) came after \u201can unexpected invitation from Gorbachev,\u201d says Pete Souza , the former Presidential photographer for Reagan. At the time the Reagan administration refused to call it a summit. \u201cBefore two leaders like that have a summit meeting, there's lots of prep work that goes into it,\u201d recalls Souza. \u201cBut this was very last minute. The Reagan administration went to great effort leading up to Reykjavik, to not call it a summit. They\u2019d say, \u2018It\u2019s just a meeting, and we\u2019re not characterizing it as a summit.\u2019\u201d The summit\u2019s purpose was to discuss the arms controls between the two nations, in hopes of bringing an end to the long-lasting threat of nuclear war hanging over both countries, and the world as a whole. Over 30 hours, Reaga"
+    }
+   ]
+  },
+  {
+   "id": "a3a907530d",
+   "topic": "Other",
+   "summary": "Italian authorities have recovered three paintings by Renoir, C\u00e9zanne and Matisse, worth more than \u20ac9 million, months after they were stolen from a private museum near Parma. Five Moldovan suspects have been detained, with police saying the gang had carefully planned the heist and was equipped to disable the museum's security systems.",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Italy recovers millions of euros worth of stolen Renoir, C\u00e9zanne and Matisse paintings",
+   "updated": "2026-08-16T08:56:50+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Italy recovers millions of euros worth of stolen Renoir, C\u00e9zanne and Matisse paintings",
+     "url": "https://www.france24.com/en/video/20260816-italy-recovers-millions-of-euros-worth-of-stolen-renoir-c%C3%A9zanne-and-matisse-paintings",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T08:56:50+00:00",
+     "summary": "Italian authorities have recovered three paintings by Renoir, C\u00e9zanne and Matisse, worth more than \u20ac9 million, months after they were stolen from a private museum near Parma. Five Moldovan suspects have been detained, with police saying the gang had carefully planned the heist and was equipped to disable the museum's security systems."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Moment \u20ac9m worth of art stolen from Italy museum",
+     "url": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T14:56:04+00:00",
+     "summary": "Police released the CCTV footage after the art, which was stolen in March, was recovered."
+    }
+   ]
+  },
+  {
+   "id": "4a3af95da8",
+   "topic": "World",
+   "summary": "Belgium is battling what has been described as the country's largest wildfire in modern history, forcing hundreds of villagers to evacuate near the German border. Firefighters, EU reinforcements and local farmers are working to contain the blaze as shifting winds and extreme heat complicate efforts.",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Belgium battles its largest wildfire in modern history",
+   "updated": "2026-08-16T08:51:58+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Belgium battles its largest wildfire in modern history",
+     "url": "https://www.france24.com/en/belgium-battles-its-largest-wildfire-in-modern-history",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T08:51:58+00:00",
+     "summary": "Belgium is battling what has been described as the country's largest wildfire in modern history, forcing hundreds of villagers to evacuate near the German border. Firefighters, EU reinforcements and local farmers are working to contain the blaze as shifting winds and extreme heat complicate efforts."
+    },
+    {
+     "outlet": "dw",
+     "title": "Belgium battles record wildfire at German border",
+     "url": "https://www.dw.com/en/belgium-battles-record-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T02:49:00+00:00",
+     "summary": "A rapidly spreading wildfire in the High Fens nature reserve near Belgium's border with Germany has scorched around 2,700 hectares. The German town of Monschau has also warned residents of possible evacuation orders."
+    }
+   ]
+  },
+  {
+   "id": "8e10a1bbee",
+   "topic": "Other",
+   "summary": "American clocks 23.19sec to win final at Pan Pacs Douglass had first broken record with 23.49sec in heats Kate Douglass lowered her own world record in the women\u2019s 50m freestyle for the second time in one day, winning the Pan Pacific Championships final in 23.19sec. In the morning preliminaries, the 24-year-old American swam 23.49 to take the mark away from teammate Gretchen Walsh, who finished second in the evening final in 23.74. Australia\u2019s reigning world champion Meg Harris was third in 23.89. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m",
+   "updated": "2026-08-16T08:39:38+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m",
+     "url": "https://www.aljazeera.com/sports/2026/8/16/pallister-ledecky-pan-pacific-swimming-championship-800m-free-douglass-50m-free-world-record?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T08:39:38+00:00",
+     "summary": "US swim superstar Katie Ledecky was upstaged by Lani Pallister, while Kate Douglass made history twice in 50m freestyle."
+    },
+    {
+     "outlet": "guardian",
+     "title": "American Kate Douglass breaks 50m freestyle world record twice in one day",
+     "url": "https://www.theguardian.com/sport/2026/aug/15/kate-douglass-50m-freestyle-world-record-gretchen-walsh-pan-pacs",
+     "author": "Agencies",
+     "kind": "news",
+     "published": "2026-08-16T03:08:35+00:00",
+     "summary": "American clocks 23.19sec to win final at Pan Pacs Douglass had first broken record with 23.49sec in heats Kate Douglass lowered her own world record in the women\u2019s 50m freestyle for the second time in one day, winning the Pan Pacific Championships final in 23.19sec. In the morning preliminaries, the 24-year-old American swam 23.49 to take the mark away from teammate Gretchen Walsh, who finished second in the evening final in 23.74. Australia\u2019s reigning world champion Meg Harris was third in 23.89. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "9c95eb7e49",
+   "topic": "Culture & Sport",
+   "summary": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 51 people Rescue crews dug through collapsed buildings and landslide debris in eastern Indonesia on Sunday as they searched for bodies and possible survivors a day after a powerful earthquake killed at least 51 people, injured more than 100 and displaced thousands. At least 24 people died in Manggarai regency and 17 in neighbouring East Manggarai, with additional fatalities reported in Sikka, Ngada and Ende regencies, the national disaster management agency said. Rescuers were still searching for people feared buried beneath landslides triggered by the quake across six regencies on Flores, a predominantly Catholic island in Muslim-majority Indonesia. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+   "updated": "2026-08-16T08:23:38+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+     "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T08:23:38+00:00",
+     "summary": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Rescue teams search for survivors in Indonesia after powerful earthquake",
+     "url": "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T03:57:34+00:00",
+     "summary": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 51 people Rescue crews dug through collapsed buildings and landslide debris in eastern Indonesia on Sunday as they searched for bodies and possible survivors a day after a powerful earthquake killed at least 51 people, injured more than 100 and displaced thousands. At least 24 people died in Manggarai regency and 17 in neighbouring East Manggarai, with additional fatalities reported in Sikka, Ngada and Ende regencies, the national disaster management agency said. Rescuers were still searching for people feared buried beneath landslides triggered by the quake across six regencies on Flores, a predominantly Catholic island in Muslim-majority Indonesia. Continue reading..."
     }
    ]
   },
@@ -2689,48 +2887,6 @@
      "kind": "news",
      "published": "2026-08-15T21:41:43+00:00",
      "summary": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms."
-    }
-   ]
-  },
-  {
-   "id": "0587919798",
-   "topic": "Other",
-   "summary": "The bus ran into a ditch and tipped over early on Sunday \u200bnear the town of Mezokeresztes in eastern Hungary, police said.",
-   "summaryFrom": "nypost",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Twelve killed as Polish bus veers off Hungarian motorway",
-   "updated": "2026-08-16T07:39:18+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "12 killed and at least 10 injured in Polish bus crash in Hungary",
-     "url": "https://nypost.com/2026/08/16/world-news/polish-bus-crash-leaves-12-dead-at-least-10-injured-in-hungary/",
-     "author": "Reuters",
-     "kind": "news",
-     "published": "2026-08-16T07:39:18+00:00",
-     "summary": "The bus ran into a ditch and tipped over early on Sunday \u200bnear the town of Mezokeresztes in eastern Hungary, police said."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-     "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T07:04:17+00:00",
-     "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning."
     }
    ]
   },
@@ -2875,6 +3031,48 @@
      "kind": "news",
      "published": "2026-08-15T16:22:32+00:00",
      "summary": "The USS George Washington is departing the Pacific and expected to replace the USS Abraham Lincoln in the Middle East amid growing concerns about mental health and supply issues aboard the long-deployed carrier."
+    }
+   ]
+  },
+  {
+   "id": "843e9d7145",
+   "topic": "Politics",
+   "summary": "Colombia's President Abelardo de la Espriella on Saturday called on US President Donald Trump to suspend tariffs on the South American nation as the country contiues to reel from a deadly earthquake. At least 300 people were killed in the quake that devastated the western Colombian cities of Cali and Pereira.",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Colombia's new president asks Trump to suspend tariffs after deadly earthquake",
+   "updated": "2026-08-16T05:39:51+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Colombia's new president asks Trump to suspend tariffs after deadly earthquake",
+     "url": "https://www.france24.com/en/americas/20260816-colombia-s-new-president-asks-trump-to-suspend-tariffs-after-deadly-earthquake",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-16T05:39:51+00:00",
+     "summary": "Colombia's President Abelardo de la Espriella on Saturday called on US President Donald Trump to suspend tariffs on the South American nation as the country contiues to reel from a deadly earthquake. At least 300 people were killed in the quake that devastated the western Colombian cities of Cali and Pereira."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Colombia Asks US to Pause Tariffs in Deadly Quake\u2019s Aftermath",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-15/colombia-asks-us-to-pause-tariffs-in-deadly-quake-s-aftermath",
+     "author": "Antonia Mufarech",
+     "kind": "news",
+     "published": "2026-08-15T21:30:08+00:00",
+     "summary": "Colombian President Abelardo de la Espriella asked US President Donald Trump to temporarily suspend tariffs on Colombian goods as the country grapples with the aftermath of a devastating earthquake that killed nearly 300 people."
     }
    ]
   },
@@ -3047,90 +3245,6 @@
    ]
   },
   {
-   "id": "cf897377e5",
-   "topic": "Other",
-   "summary": "Dodgers starter Justin Wrobleski gives up two home runs and Brewers ace Jacob Misiorowski holds the Dodgers' big hitters at bay in Milwaukee's 4-1 victory.",
-   "summaryFrom": "latimes",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Dodgers manager says Jacob Misiorowski is \u2018great\u2019 for baseball",
-   "updated": "2026-08-16T03:00:02+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Dodgers manager says Jacob Misiorowski is \u2018great\u2019 for baseball",
-     "url": "https://nypost.com/2026/08/15/sports/dodgers-manager-says-jacob-misiorowski-is-great-for-baseball/",
-     "author": "Dylan Hernandez",
-     "kind": "news",
-     "published": "2026-08-16T03:00:02+00:00",
-     "summary": "As Shohei Ohtani\u2019s manager, Dave Roberts knows how much a singular talent can mean to baseball."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Jacob Misiorowski outduels Justin Wrobleski as Brewers send Dodgers to frustrating loss",
-     "url": "https://www.latimes.com/sports/dodgers/story/2026-08-15/justin-wrobleski-struggles-jacob-misiorowski-shines-dodgers-brewers",
-     "author": "Joaquin Ruiz",
-     "kind": "news",
-     "published": "2026-08-16T02:03:42+00:00",
-     "summary": "Dodgers starter Justin Wrobleski gives up two home runs and Brewers ace Jacob Misiorowski holds the Dodgers' big hitters at bay in Milwaukee's 4-1 victory."
-    }
-   ]
-  },
-  {
-   "id": "51e4f6f018",
-   "topic": "World",
-   "summary": "A rapidly spreading wildfire in the High Fens nature reserve near Belgium's border with Germany has scorched around 2,700 hectares. The German town of Monschau has also warned residents of possible evacuation orders.",
-   "summaryFrom": "dw",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Belgium battles record wildfire at German border",
-   "updated": "2026-08-16T02:49:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Belgium battles record wildfire at German border",
-     "url": "https://www.dw.com/en/belgium-battles-record-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T02:49:00+00:00",
-     "summary": "A rapidly spreading wildfire in the High Fens nature reserve near Belgium's border with Germany has scorched around 2,700 hectares. The German town of Monschau has also warned residents of possible evacuation orders."
-    },
-    {
-     "outlet": "france24",
-     "title": "Hundreds of villagers evacuate as Belgium battles record wildfire",
-     "url": "https://www.france24.com/en/europe/20260815-hundreds-of-villagers-evacuate-as-belgium-battles-record-wildfire",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-15T15:37:09+00:00",
-     "summary": "Hundreds of residents were evacuated and more than 2,700 hectares were scorched as Belgium continued to battle one of the worst wildfires in its history on Saturday."
-    }
-   ]
-  },
-  {
    "id": "8c191ad31d",
    "topic": "Other",
    "summary": "Rams rookie quarterback Ty Simpson puts in a solid debut and avoids making any major mistakes in a 20-12 preseason win over the Kansas City Chiefs.",
@@ -3145,10 +3259,10 @@
    "updated": "2026-08-16T01:00:02+00:00",
    "outletCount": 2,
    "counts": {
-    "corp": 2,
+    "corp": 1,
     "family": 1
    },
-   "newsCount": 3,
+   "newsCount": 2,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -3169,15 +3283,6 @@
      "kind": "news",
      "published": "2026-08-15T23:21:28+00:00",
      "summary": "Rams rookie quarterback Ty Simpson puts in a solid debut and avoids making any major mistakes in a 20-12 preseason win over the Kansas City Chiefs."
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Bears&#039; Maurice Alexander Impresses in Preseason Opener vs Browns",
-     "url": "https://www.newsweek.com/sports/nfl/bears-maurice-alexander-impresses-in-preseason-opener-vs-browns-12328104",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T21:43:20+00:00",
-     "summary": "Chicago Bears&#039; Maurice Alexander is looking strong."
     }
    ]
   },
@@ -3494,48 +3599,6 @@
    ]
   },
   {
-   "id": "22ff052e29",
-   "topic": "Health",
-   "summary": "Country music icon Dolly Parton missed a major Dollywood event Friday after her doctor advised her to stay in Nashville because of continued \"health issues.\" The 80-year-old \"9 to 5\" singer was expected to appear in person at the Tennessee theme park for the opening of its new NightFlight Expedition roller coaster, but she joined the celebration virtually after her doctor told her not to travel. \"I\u2019m still in Nashville, and I\u2019m sorry about that,\" Parton told the crowd during a video appearance at the event, according to video shared by the Knoxville News Sentinel. DOLLY PARTON'S SISTER OFFERS HEALTH UPDATE ON COUNTRY ICON AFTER FANS WORRY OVER HER CALL FOR PRAYERS \"I\u2019m supposed to be there in person, like we planned,\" she continued. \"Now I\u2019ve told you before, all my fans, that I have had a few little health issues. And sometimes I get a little dizzy, and I get dehydrated. \"And I\u2019m\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Dolly Parton\u2019s ongoing health battle forces country legend to miss major Dollywood event",
-   "updated": "2026-08-15T19:43:07+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Dolly Parton\u2019s ongoing health battle forces country legend to miss major Dollywood event",
-     "url": "https://www.foxnews.com/entertainment/dolly-partons-ongoing-health-battle-forces-country-legend-miss-major-dollywood-event",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T19:43:07+00:00",
-     "summary": "Country music icon Dolly Parton missed a major Dollywood event Friday after her doctor advised her to stay in Nashville because of continued \"health issues.\" The 80-year-old \"9 to 5\" singer was expected to appear in person at the Tennessee theme park for the opening of its new NightFlight Expedition roller coaster, but she joined the celebration virtually after her doctor told her not to travel. \"I\u2019m still in Nashville, and I\u2019m sorry about that,\" Parton told the crowd during a video appearance at the event, according to video shared by the Knoxville News Sentinel. DOLLY PARTON'S SISTER OFFERS HEALTH UPDATE ON COUNTRY ICON AFTER FANS WORRY OVER HER CALL FOR PRAYERS \"I\u2019m supposed to be there in person, like we planned,\" she continued. \"Now I\u2019ve told you before, all my fans, that I have had a few little health issues. And sometimes I get a little dizzy, and I get dehydrated. \"And I\u2019m dehydrated,\" Parton, who appeared on-screen wearing fairy wings, told the crowd. \"And, so, my Nashville doctor clipped my wings, saying, 'You ain\u2019t traveling this week.\u2019 DOLLY PARTON UNABLE TO WRITE NEW SONGS AFTER LOSING HUSBAND OF NEARLY 60 YEARS \"So, I guess if your doctor tells you, \u2018You ain\u2019t traveli"
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Dolly Parton Abruptly Cancels Event in Alarming Update",
-     "url": "https://www.thedailybeast.com/dolly-parton-abruptly-cancels-event-in-alarming-update/",
-     "author": "Fiona O'Reilly",
-     "kind": "news",
-     "published": "2026-08-15T15:15:01+00:00",
-     "summary": "Mario Anzuoni Country star Dolly Parton has canceled an appearance at her Dollywood theme park due to a health scare. \u201cI\u2019m still in Nashville, and I\u2019m sorry about that,\u201d the 10-time Grammy winner said in a video shown to fans at the park. \u201cI\u2019m supposed to be there in person, like we planned. Now I\u2019ve told you before, all my fans, that I have had a few little health issues.\u201d She added that her doctors discouraged her from traveling. The theme park is located in Pigeon Forge, Tennessee, about three hours east of Nashville. This is not the first time the 80-year-old \u201cJolene\u201d singer has had to cancel events for health reasons. Parton canceled a six-date Las Vegas residency back at Caesars Palace\u2019s Colosseum in May. She has not revealed exactly what her health struggles are, but she said that she was \u201cdehydrated\u201d and will keep fans \u201cin the loop.\u201d Read it at Daily Mail Read more at The Daily Beast."
-    }
-   ]
-  },
-  {
    "id": "81135d987c",
    "topic": "Other",
    "summary": "The new X-Men MCU cast on stage at D-23. | Image: Marvel Entertainment With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for its upcoming, untitled X-Men film, which is scheduled to hit theaters on May 5th of 2028. Though, seeing as that's quite far into the future, we wouldn't be surprised if that date shifted slightly before then. In addition to Sink, the film will star Kit Connor as Scott Summers (Cyclops), Christopher Abbott as Charles Xavier (Professor X), Samara Weaving as Emma Frost, Maya Boyd as Storm, and Inde Navarrette as Rogue. \u2026 Read the full story at The Verge.",
@@ -3574,132 +3637,6 @@
      "kind": "news",
      "published": "2026-08-15T14:03:14+00:00",
      "summary": "The new X-Men MCU cast on stage at D-23. | Image: Marvel Entertainment With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for its upcoming, untitled X-Men film, which is scheduled to hit theaters on May 5th of 2028. Though, seeing as that's quite far into the future, we wouldn't be surprised if that date shifted slightly before then. In addition to Sink, the film will star Kit Connor as Scott Summers (Cyclops), Christopher Abbott as Charles Xavier (Professor X), Samara Weaving as Emma Frost, Maya Boyd as Storm, and Inde Navarrette as Rogue. \u2026 Read the full story at The Verge."
-    }
-   ]
-  },
-  {
-   "id": "c3feada74e",
-   "topic": "Tech",
-   "summary": "Jeff Daniels says The Brink of War, his new Cold War-era nail-biter, which tells an extraordinary true story, has themes that resonate today. The post Jeff Daniels Says His Film Portraying Reagan-Gorbachev Talks Will &#8216;Remind People What Statesmen Look Like&#8217; appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Jeff Daniels Says His Film Portraying Reagan-Gorbachev Talks Will 'Remind People What Statesmen Look Like'",
-   "updated": "2026-08-15T17:18:28+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "coop": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Jeff Daniels Says His Film Portraying Reagan-Gorbachev Talks Will 'Remind People What Statesmen Look Like'",
-     "url": "https://www.breitbart.com/entertainment/2026/08/15/jeff-daniels-says-his-film-portraying-reagan-gorbachev-talks-will-remind-people-what-statesmen-look-like/",
-     "author": "Breitbart News",
-     "kind": "news",
-     "published": "2026-08-15T17:18:28+00:00",
-     "summary": "Jeff Daniels says The Brink of War, his new Cold War-era nail-biter, which tells an extraordinary true story, has themes that resonate today. The post Jeff Daniels Says His Film Portraying Reagan-Gorbachev Talks Will &#8216;Remind People What Statesmen Look Like&#8217; appeared first on Breitbart ."
-    },
-    {
-     "outlet": "racket",
-     "title": "On the Big Screen This Week: Meta-Slasher Queerness, Dinosaurs in Suburbia, Jeff Daniels as Reagan",
-     "url": "https://racketmn.com/on-the-big-screen-this-week-meta-slasher-queerness-dinosaurs-in-suburbia-jeff-daniels-as-reagan",
-     "author": "Keith Harris",
-     "kind": "news",
-     "published": "2026-08-13T21:37:37+00:00",
-     "summary": "Pretty much all the movies you can catch in the Twin Cities this week."
-    }
-   ]
-  },
-  {
-   "id": "6c764dddeb",
-   "topic": "Climate & Energy",
-   "summary": "The Taliban seized power on Aug. 15, 2021, as the U.S. and other NATO troops withdrew following a costly two-decade war. The U.S. withdrawal led to chaos at Kabul airport as crowds of people tried to flee the country in desperation.",
-   "summaryFrom": "pbsnewshour",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "While Taliban leaders mark 5 years in power in Afghanistan, a UN official warns of a rights crisis",
-   "updated": "2026-08-15T17:09:42+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "pbsnewshour",
-     "title": "While Taliban leaders mark 5 years in power in Afghanistan, a UN official warns of a rights crisis",
-     "url": "https://www.pbs.org/newshour/world/while-taliban-leaders-mark-5-years-in-power-in-afghanistan-a-un-official-warns-of-a-rights-crisis",
-     "author": "Suzan Fraser, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T17:09:42+00:00",
-     "summary": "The Taliban seized power on Aug. 15, 2021, as the U.S. and other NATO troops withdrew following a costly two-decade war. The U.S. withdrawal led to chaos at Kabul airport as crowds of people tried to flee the country in desperation."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Five years after the Taliban swept to power, does the West have any influence?",
-     "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T17:00:14+00:00",
-     "summary": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left"
-    }
-   ]
-  },
-  {
-   "id": "5c6cb2e16c",
-   "topic": "Politics",
-   "summary": "President Donald Trump said Friday that far-left Democrats like Alexandria Ocasio-Cortez , D-N.Y., are now trying to distance themselves from some of the radical positions they once championed, noting he believes she may be after a 2028 bid for the White House. In an interview with Fox News correspondent Alexis McAdams, Trump was asked about Ocasio-Cortez's perceived shift away from her earlier calls to defund police departments and other soft-on-crime policies. \"If you really look at it, they're all saying the same thing,\" Trump said of progressive Democrats. \"They're all trying to disavow themselves from what they said about crime and, well, they're saying, \u2018We love sanctuary cities .\u2019\" When asked directly whether he thinks AOC is positioning herself for a presidential bid, Trump said he thinks AOC will run. The congresswoman has refused to rule out a run for president , but she\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Maher: Moderate Dems Afraid of Extreme Left",
-   "updated": "2026-08-15T15:45:38+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Maher: Moderate Dems Afraid of Extreme Left",
-     "url": "https://www.breitbart.com/clips/2026/08/15/maher-moderate-dems-afraid-of-extreme-left/",
-     "author": "Ian Hanchett",
-     "kind": "news",
-     "published": "2026-08-15T15:45:38+00:00",
-     "summary": "On Friday&#8217;s broadcast of HBO&#8217;s &#8220;Real Time,&#8221; host Bill Maher said that moderates in the Democratic Party are afraid of the extreme left and also dismissed attempts by members of the Democratic Party to justify the far left as just The post Maher: Moderate Dems Afraid of Extreme Left appeared first on Breitbart ."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Trump claims AOC may run for president as far-left Dems back away from extreme policy",
-     "url": "https://www.foxnews.com/politics/president-trump-claims-aoc-far-left-democrats-backing-away-controversial-positions",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T21:01:38+00:00",
-     "summary": "President Donald Trump said Friday that far-left Democrats like Alexandria Ocasio-Cortez , D-N.Y., are now trying to distance themselves from some of the radical positions they once championed, noting he believes she may be after a 2028 bid for the White House. In an interview with Fox News correspondent Alexis McAdams, Trump was asked about Ocasio-Cortez's perceived shift away from her earlier calls to defund police departments and other soft-on-crime policies. \"If you really look at it, they're all saying the same thing,\" Trump said of progressive Democrats. \"They're all trying to disavow themselves from what they said about crime and, well, they're saying, \u2018We love sanctuary cities .\u2019\" When asked directly whether he thinks AOC is positioning herself for a presidential bid, Trump said he thinks AOC will run. The congresswoman has refused to rule out a run for president , but she hasn't looked past November's midterm elections. ALEXANDRIA OCASIO-CORTEZ SHRUGS OFF PAST 'DEFUND THE POLICE' COMMENTS, JOKING 'WOKE 1 WAS CRAZY' During an interview with ABC's \"This Week\" on Sunday, the congresswoman attempted to dismiss the extreme rhetoric of the so-called \" Woke 1 \" era. The term is u"
     }
    ]
   }
