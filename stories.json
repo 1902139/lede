@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T11:35:05.733216+00:00",
+ "generated": "2026-08-16T13:02:03.134051+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -10,38 +10,49 @@
    "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its\u2026",
    "summaryFrom": "axios",
    "emphasis": {
-    "bigCount": 8,
-    "indieCount": 7,
+    "bigCount": 10,
+    "indieCount": 6,
     "big": [
+     "centcom",
+     "visits",
      "released",
-     "lawmakers",
+     "dismisses",
      "diego-based",
-     "answers"
+     "lawmakers"
     ],
     "indie": [
-     "image",
-     "credit",
-     "jump",
      "supporting",
+     "jump",
      "reported",
-     "some"
+     "thousands",
+     "jumping",
+     "faced"
     ]
    },
    "absent": [],
    "headline": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
-   "updated": "2026-08-16T01:50:02+00:00",
-   "outletCount": 12,
+   "updated": "2026-08-16T12:30:16+00:00",
+   "outletCount": 14,
    "counts": {
-    "corp": 4,
-    "nonprofit": 4,
-    "family": 4,
+    "corp": 5,
+    "nonprofit": 3,
+    "family": 5,
     "pub": 2,
     "coop": 1
    },
-   "newsCount": 15,
+   "newsCount": 16,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T12:30:16+00:00",
+     "summary": "Meanwhile, Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children."
+    },
     {
      "outlet": "thehill",
      "title": "Centcom commander visits USS Abraham Lincoln amid questions about conditions on ship",
@@ -133,6 +144,15 @@
      "summary": "In this U.S. Navy released handout, An F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 14, makes an arrested landing on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72) in support of Operation Epic Fury, on February 28, 2026. \u2014U.S. Navy/Getty Images The USS Abraham Lincoln has been at sea in the Middle East for months, and with no clear end in sight for the war in Iran , concerns for those aboard the aircraft carrier\u2014and for the vessel itself\u2014have mounted amid a series of troubling reports. Another aircraft carrier, the USS George Washington, had begun making its way towards the Middle East as of Thursday to replace the Lincoln, multiple news outlets reported. President Donald Trump appeared to confirm the reported ship swap on Friday, saying that the Lincoln \"is moving right now, or very shortly and is being replaced with another very similar ship.\u201d The Washington\u2019s deployment comes as reports have emerged in recent months recounting worsening living conditions, mental health concerns, and supply shortages on board the Lincoln. Trump seemed to deny the reports on the state of the Lincoln and its crew on Friday, responding \u201cNo, they\u2019re n"
     },
     {
+     "outlet": "wapo",
+     "title": "Trump dismisses families\u2019 concerns about USS Abraham Lincoln conditions",
+     "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-dismisses-families-concerns-about-uss-abraham-lincoln-conditions/",
+     "author": "Cat Zakrzewski",
+     "kind": "news",
+     "published": "2026-08-14T19:19:15+00:00",
+     "summary": "President Donald Trump dismissed the concerns of military families about worsening conditions on the USS Abraham Lincoln."
+    },
+    {
      "outlet": "bbc",
      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
      "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
@@ -140,15 +160,6 @@
      "kind": "news",
      "published": "2026-08-14T17:36:27+00:00",
      "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
-    },
-    {
-     "outlet": "npr",
-     "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
-     "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-14T06:31:29+00:00",
-     "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano)"
     },
     {
      "outlet": "bbc",
@@ -180,138 +191,36 @@
    ]
   },
   {
-   "id": "8c7bd71cb5",
-   "topic": "Climate & Energy",
-   "summary": "Hawaii has narrowly avoided a historic direct hit from Hurricane Lala, but torrential rain and hurricane-force winds are still causing widespread flooding, mudslides and power outages across the islands. Authorities are urging residents to shelter in place as the storm moves west and dangerous conditions persist.",
-   "summaryFrom": "france24",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 4,
-    "big": [
-     "saturday",
-     "life-threatening"
-    ],
-    "indie": [
-     "winds",
-     "strong",
-     "torrential",
-     "direct",
-     "landfall",
-     "making"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "US : Hawaii narrowly avoids direct hit as Hurricane Lala brings strong weather",
-   "updated": "2026-08-16T10:42:52+00:00",
-   "outletCount": 8,
-   "counts": {
-    "corp": 2,
-    "pub": 3,
-    "family": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 8,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "abcnews",
-     "title": "Hurricane Lala, a Category 1 storm, brings heavy rain, wind, flooding to Hawaii",
-     "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T10:42:52+00:00",
-     "summary": "Lala strengthened to a Category 1 hurricane as it tracked through the central Pacific Ocean, approaching the Big Island of Hawaii on Saturday."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "One dead as Hurricane Lala lashes Hawaii's Big Island as a Category 1 storm",
-     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T10:33:20+00:00",
-     "summary": "Hurricane Lala slammed Hawaii's Big Island, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides."
-    },
-    {
-     "outlet": "france24",
-     "title": "US : Hawaii narrowly avoids direct hit as Hurricane Lala brings strong weather",
-     "url": "https://www.france24.com/en/us-hawaii-narrowly-avoids-direct-hit-as-hurricane-lala-brings-severe-weather",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T08:53:56+00:00",
-     "summary": "Hawaii has narrowly avoided a historic direct hit from Hurricane Lala, but torrential rain and hurricane-force winds are still causing widespread flooding, mudslides and power outages across the islands. Authorities are urging residents to shelter in place as the storm moves west and dangerous conditions persist."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-     "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T08:49:32+00:00",
-     "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years."
-    },
-    {
-     "outlet": "dw",
-     "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
-     "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T05:57:00+00:00",
-     "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is expected to weaken gradually. However, the hurricane caused roads to flood and turned rivers into raging torrents."
-    },
-    {
-     "outlet": "nypost",
-     "title": "Hurricane Lala leaves thousands without power in Hawaii amid \u2018life-threatening\u2019 conditions",
-     "url": "https://nypost.com/2026/08/16/us-news/hurricane-lala-leaves-thousands-without-power-in-hawaii-amid-life-threatening-conditions/",
-     "author": "Reuters",
-     "kind": "news",
-     "published": "2026-08-16T04:33:06+00:00",
-     "summary": "Hawaiian Electric warned customers to expect \u201cpossible extended outages, potentially overnight,\u201d as the storm system made its way westward across Hawaii."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Flights between L.A. and Hawaii disrupted as Hurricane Lala approaches the Big Island",
-     "url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
-     "author": "Josh Rottenberg",
-     "kind": "news",
-     "published": "2026-08-16T00:56:14+00:00",
-     "summary": "Several flights from LAX to Hawaii were canceled Saturday, including service to Kona, Maui, Kauai and Honolulu."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
-     "url": "https://www.pbs.org/newshour/nation/hawaiis-big-island-lashed-by-rain-and-wind-as-tropical-storm-lala-closes-in",
-     "author": "Ed White, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T15:17:14+00:00",
-     "summary": "The National Hurricane Center said Lala's maximum sustained winds increased to 75 mph, making it a Category 1 hurricane."
-    }
-   ]
-  },
-  {
    "id": "1ad32f471c",
    "topic": "World",
    "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": null,
    "absent": [
-    "family",
+    "corp",
     "coop"
    ],
    "headline": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
-   "updated": "2026-08-16T10:59:10+00:00",
-   "outletCount": 7,
+   "updated": "2026-08-16T12:22:49+00:00",
+   "outletCount": 6,
    "counts": {
+    "family": 1,
     "pub": 5,
-    "corp": 1,
     "nonprofit": 2
    },
    "newsCount": 8,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
+    {
+     "outlet": "bloomberg",
+     "title": "Israel Strikes Lebanon as End of US-Iran Ceasefire Looms",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-16/israel-strikes-lebanon-as-end-of-us-iran-ceasefire-looms",
+     "author": "Arsalan Shahla, Alisa Odenheimer and Sara Gharaibeh",
+     "kind": "news",
+     "published": "2026-08-16T12:22:49+00:00",
+     "summary": "Lebanon saw its deadliest day of fighting in months as Iran and the US appeared to be at a standstill in negotiations ahead of the Monday expiration of their ceasefire agreement."
+    },
     {
      "outlet": "aljazeera",
      "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
@@ -322,15 +231,6 @@
      "summary": "At least 11 people killed in one day of Israeli attacks despite truce extension brokered by US in June."
     },
     {
-     "outlet": "cbsnews",
-     "title": "Iran strikes another ship in Strait of Hormuz as Israel steps up Lebanon attacks",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T09:04:21+00:00",
-     "summary": "Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children, according to the health ministry."
-    },
-    {
      "outlet": "aljazeera",
      "title": "Israel strikes south Lebanon again as families flee north",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
@@ -338,15 +238,6 @@
      "kind": "news",
      "published": "2026-08-16T04:43:21+00:00",
      "summary": "Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids."
-    },
-    {
-     "outlet": "france24",
-     "title": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
-     "url": "https://www.france24.com/en/middle-east/20260815-israeli-strikes-kill-11-in-southern-lebanon-hezbollah-threatens-to-retaliate",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-15T20:37:34+00:00",
-     "summary": "Israeli airstrikes on southern Lebanon killed at least 11 people Saturday, some of the deadliest since deals in June eased hostilities between Israel and Hezbollah. Israel's military said the strikes were in retaliation for an attack by Hezbollah on its troops in the country's south and the Iran-backed militant group said that the attacks would be \"met with what they deserve\"."
     },
     {
      "outlet": "bbc",
@@ -376,6 +267,15 @@
      "summary": "Lebanon's prime minister denounced the attacks on villages in southern Lebanon for targeting civilians in their homes. Israel said it was firing on Hezbollah infrastructure."
     },
     {
+     "outlet": "bbc",
+     "title": "South Korea proposes talks to officially end war with North",
+     "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T14:40:15+00:00",
+     "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953."
+    },
+    {
      "outlet": "guardian",
      "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
      "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
@@ -383,6 +283,174 @@
      "kind": "news",
      "published": "2026-08-15T13:55:28+00:00",
      "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "766f173698",
+   "topic": "Justice & Policing",
+   "summary": "Virginia police arrested a 19-year-old suspect in connection with a mass shooting at Virginia State University on Saturday. Authorities named Camron Harris of Henrico, Virginia , noting that he is not a student at the university. The Saturday shooting left five people wounded, one of whom was in critical condition. Police have not identified any of the victims, but said only one of them is a university student. There was an hours-long manhunt following the shooting, and police say they ultimately found Harris hiding in a closet inside one of the campus dorm buildings. POLICE ANNOUNCE ARREST AFTER 5 WOUNDED IN VIRGINIA STATE UNIVERSITY SHOOTING: REPORT Police obtained felony warrants for four counts of malicious wounding and four counts of use of a firearm in the commission of a felony. Harris is being held without bail at Chesterfield County Jail, according to authorities. They say he\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Multiple suspects at large after five shot at Virginia State University, police say",
+   "updated": "2026-08-16T11:58:38+00:00",
+   "outletCount": 6,
+   "counts": {
+    "family": 3,
+    "corp": 2,
+    "pub": 1
+   },
+   "newsCount": 5,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "Virginia State University shooting suspect found hiding in dorm closet arrested",
+     "url": "https://www.foxnews.com/us/virginia-state-university-shooting-suspect-found-hiding-dorm-closet-arrested",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T11:58:38+00:00",
+     "summary": "Virginia police arrested a 19-year-old suspect in connection with a mass shooting at Virginia State University on Saturday. Authorities named Camron Harris of Henrico, Virginia , noting that he is not a student at the university. The Saturday shooting left five people wounded, one of whom was in critical condition. Police have not identified any of the victims, but said only one of them is a university student. There was an hours-long manhunt following the shooting, and police say they ultimately found Harris hiding in a closet inside one of the campus dorm buildings. POLICE ANNOUNCE ARREST AFTER 5 WOUNDED IN VIRGINIA STATE UNIVERSITY SHOOTING: REPORT Police obtained felony warrants for four counts of malicious wounding and four counts of use of a firearm in the commission of a felony. Harris is being held without bail at Chesterfield County Jail, according to authorities. They say he may face more charges. The shooting itself took place early Saturday morning, while Harris was arrested hours later. MANHUNT UNDERWAY AFTER COLLEGE STUDENT FATALLY SHOT CHASING ROBBERS WHO ALLEGEDLY STOLE HIS PHONE \"Officers responded to the 3300 block of Boisseau Street at approximately 1:28 a.m. and"
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Camron Harris Identified as Virginia State Shooting Suspect",
+     "url": "https://www.newsweek.com/who-is-camron-harris-virginia-state-shooting-suspect-identified-12328485",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T07:41:28+00:00",
+     "summary": "A 19-year-old was arrested in connection to the shooting that left five people wounded. He is not a student at VSU."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "5 people injured in shooting at Virginia State University, 1 suspect arrested",
+     "url": "https://www.cbsnews.com/news/shooting-virginia-state-university/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T01:41:45+00:00",
+     "summary": "Five people were injured in the shooting involving multiple suspects. One person is currently listed in critical condition, the university said."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+     "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T19:34:22+00:00",
+     "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Numerous People Injured After Multiple Shooters Open Fire at Virginia State University",
+     "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/numerous-people-injured-after-multiple-shooters-open-fire-virginia-state-university/",
+     "author": "AWR Hawkins",
+     "kind": "news",
+     "published": "2026-08-15T15:39:06+00:00",
+     "summary": "Five people were wounded after multiple shooters opened fire on the Virginia State University (VSU) campus Saturday around 1:30 a.m. The post Numerous People Injured After Multiple Shooters Open Fire at Virginia State University appeared first on Breitbart ."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Multiple People Shot At Virginia State University",
+     "url": "https://www.dailywire.com/news/multiple-people-shot-at-virginia-state-university",
+     "author": "Zach Jewell",
+     "kind": "opinion",
+     "published": "2026-08-15T07:47:18+00:00",
+     "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant law enforcement presence remains on campus as the investigation into this morning&#8217;s shooting continues.&#8221; It appears that no suspects have been taken into custody as of time of publication, and the university urged anyone with information on the shooting to contact law enforcement. pic.twi"
+    }
+   ]
+  },
+  {
+   "id": "913fb93ef8",
+   "topic": "World",
+   "summary": "Russia says hundreds of drones targeted Moscow overnight, with six fatalities in the capital and southern Rostov region. Five people were killed in strikes across Ukraine.",
+   "summaryFrom": "dw",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 4,
+    "big": [],
+    "indie": [
+     "drones",
+     "across",
+     "killed",
+     "people",
+     "hundreds",
+     "five"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Ukraine launches one of its largest attacks of war",
+   "updated": "2026-08-16T11:45:40+00:00",
+   "outletCount": 6,
+   "counts": {
+    "corp": 1,
+    "pub": 3,
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Ukraine launches one of the largest aerial attacks on Russia yet",
+     "url": "https://www.cbsnews.com/news/ukraine-moscow-russia-drone-attack-largest-wildberries/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T11:45:40+00:00",
+     "summary": "Footage shows a large column of smoke after Ukraine struck a major logistics hub in the Moscow region."
+    },
+    {
+     "outlet": "dw",
+     "title": "Ukraine launches one of its largest attacks of war",
+     "url": "https://www.dw.com/en/ukraine-launches-one-of-its-largest-attacks-of-war/a-78386779?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T10:59:00+00:00",
+     "summary": "Russia says hundreds of drones targeted Moscow overnight, with six fatalities in the capital and southern Rostov region. Five people were killed in strikes across Ukraine."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T10:52:08+00:00",
+     "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit."
+    },
+    {
+     "outlet": "npr",
+     "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+     "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T10:12:09+00:00",
+     "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war. (Image credit: Francisco Seco)"
+    },
+    {
+     "outlet": "forbes",
+     "title": "Russia\u2019s War Toll Mounts In Ukraine Amid A Possible Mobilization",
+     "url": "https://www.forbes.com/sites/marktemnycky/2026/08/16/russias-war-toll-mounts-in-ukraine-amid-a-possible-mobilization/",
+     "author": "Mark Temnycky, Senior Contributor",
+     "kind": "news",
+     "published": "2026-08-16T10:00:00+00:00",
+     "summary": "Russia faces mounting casualties and economic strain from its full-scale invasion of Ukraine. Despite this, some observers warn of another possible Russian mobilization."
+    },
+    {
+     "outlet": "france24",
+     "title": "\ud83d\udd34 Live: Ukraine launches 600 drones at Russia, one of its largest aerial attacks of the war",
+     "url": "https://www.france24.com/en/europe/20260816-live-moscow-targeted-by-600-drones-overnight-explosions-heard-in-kyiv",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T09:53:40+00:00",
+     "summary": null
     }
    ]
   },
@@ -396,9 +464,9 @@
     "indieCount": 2,
     "big": [
      "trump",
-     "testing",
+     "facade",
      "judge's",
-     "facade"
+     "testing"
     ],
     "indie": []
    },
@@ -475,96 +543,6 @@
    ]
   },
   {
-   "id": "913fb93ef8",
-   "topic": "World",
-   "summary": "Russia says hundreds of drones targeted Moscow overnight, with six fatalities in the capital and southern Rostov region. Five people were killed in strikes across Ukraine.",
-   "summaryFrom": "dw",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 4,
-    "big": [],
-    "indie": [
-     "drones",
-     "across",
-     "five",
-     "killed",
-     "hundreds",
-     "people"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Ukraine launches one of its largest attacks of war",
-   "updated": "2026-08-16T10:59:00+00:00",
-   "outletCount": 6,
-   "counts": {
-    "pub": 3,
-    "nonprofit": 1,
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Ukraine launches one of its largest attacks of war",
-     "url": "https://www.dw.com/en/ukraine-launches-one-of-its-largest-attacks-of-war/a-78386779?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T10:59:00+00:00",
-     "summary": "Russia says hundreds of drones targeted Moscow overnight, with six fatalities in the capital and southern Rostov region. Five people were killed in strikes across Ukraine."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-     "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T10:52:08+00:00",
-     "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit."
-    },
-    {
-     "outlet": "npr",
-     "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-     "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T10:12:09+00:00",
-     "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war. (Image credit: Francisco Seco)"
-    },
-    {
-     "outlet": "forbes",
-     "title": "Russia\u2019s War Toll Mounts In Ukraine Amid A Possible Mobilization",
-     "url": "https://www.forbes.com/sites/marktemnycky/2026/08/16/russias-war-toll-mounts-in-ukraine-amid-a-possible-mobilization/",
-     "author": "Mark Temnycky, Senior Contributor",
-     "kind": "news",
-     "published": "2026-08-16T10:00:00+00:00",
-     "summary": "Russia faces mounting casualties and economic strain from its full-scale invasion of Ukraine. Despite this, some observers warn of another possible Russian mobilization."
-    },
-    {
-     "outlet": "france24",
-     "title": "\ud83d\udd34 Live: Ukraine launches 600 drones at Russia, one of its largest aerial attacks of the war",
-     "url": "https://www.france24.com/en/europe/20260816-live-moscow-targeted-by-600-drones-overnight-explosions-heard-in-kyiv",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T09:53:40+00:00",
-     "summary": null
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Ukraine launches one of the largest aerial attacks on Russia yet",
-     "url": "https://www.cbsnews.com/news/ukraine-moscow-russia-drone-attack-largest-wildberries/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T09:34:49+00:00",
-     "summary": "Footage shows a large column of smoke after Ukraine struck a major logistics hub in the Moscow region."
-    }
-   ]
-  },
-  {
    "id": "47b37decde",
    "topic": "World",
    "summary": "Spain and Morocco have boosted security around Spain\u2019s African enclave Ceuta following calls for another Moroccan migrant border rush, two weeks after a migrant invasion left at least 96 people dead. Soldiers have been watching commercial and government buildings in Ceuta while police are patrolling main streets, according to Reuters. Along the Moroccan border, security guards were seen on the beaches of Fnideq, one of the primary locations from which migrants illegally rushed Ceuta, Fox News reported . Morocco has arrested multiple people who circulated calls on social media for another migrant invasion into both Ceuta and Melilla, another Spanish African enclave. \u201cThe Ministry of the Interior has detected, during the last few days, the circulation of anonymous publications and messages on certain social networks inciting the organization of attempts at collective and illegal crossing\u2026",
@@ -577,9 +555,9 @@
      "along"
     ],
     "indie": [
-     "media",
-     "mass",
      "crossing",
+     "mass",
+     "media",
      "social",
      "enter",
      "attempted"
@@ -658,84 +636,6 @@
    ]
   },
   {
-   "id": "766f173698",
-   "topic": "Justice & Policing",
-   "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Multiple suspects at large after five shot at Virginia State University, police say",
-   "updated": "2026-08-16T07:41:28+00:00",
-   "outletCount": 6,
-   "counts": {
-    "corp": 3,
-    "pub": 1,
-    "family": 2
-   },
-   "newsCount": 5,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "Camron Harris Identified as Virginia State Shooting Suspect",
-     "url": "https://www.newsweek.com/who-is-camron-harris-virginia-state-shooting-suspect-identified-12328485",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T07:41:28+00:00",
-     "summary": "A 19-year-old was arrested in connection to the shooting that left five people wounded. He is not a student at VSU."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Va. State shooting: Suspect arrested, found hiding in dorm closet, police say",
-     "url": "https://abcnews.com/US/5-injured-shooting-virginia-state-university-arrests-made/story?id=135669705",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T04:37:35+00:00",
-     "summary": "A suspect in the shooting at Virginia State University early Saturday that left five people wounded, including one critically, has been arrested, according to police."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "5 people injured in shooting at Virginia State University, 1 suspect arrested",
-     "url": "https://www.cbsnews.com/news/shooting-virginia-state-university/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T01:41:45+00:00",
-     "summary": "Five people were injured in the shooting involving multiple suspects. One person is currently listed in critical condition, the university said."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Multiple suspects at large after five shot at Virginia State University, police say",
-     "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T19:34:22+00:00",
-     "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Numerous People Injured After Multiple Shooters Open Fire at Virginia State University",
-     "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/numerous-people-injured-after-multiple-shooters-open-fire-virginia-state-university/",
-     "author": "AWR Hawkins",
-     "kind": "news",
-     "published": "2026-08-15T15:39:06+00:00",
-     "summary": "Five people were wounded after multiple shooters opened fire on the Virginia State University (VSU) campus Saturday around 1:30 a.m. The post Numerous People Injured After Multiple Shooters Open Fire at Virginia State University appeared first on Breitbart ."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Multiple People Shot At Virginia State University",
-     "url": "https://www.dailywire.com/news/multiple-people-shot-at-virginia-state-university",
-     "author": "Zach Jewell",
-     "kind": "opinion",
-     "published": "2026-08-15T07:47:18+00:00",
-     "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant law enforcement presence remains on campus as the investigation into this morning&#8217;s shooting continues.&#8221; It appears that no suspects have been taken into custody as of time of publication, and the university urged anyone with information on the shooting to contact law enforcement. pic.twi"
-    }
-   ]
-  },
-  {
    "id": "fc3549f0e2",
    "topic": "Justice & Policing",
    "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense, arguing that the weapons and murder counts against him should not move forward. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges.\u2026",
@@ -749,9 +649,9 @@
      "plea"
     ],
     "indie": [
-     "year-old",
+     "death",
      "pleading",
-     "death"
+     "year-old"
     ]
    },
    "absent": [
@@ -827,174 +727,113 @@
    ]
   },
   {
-   "id": "94b16acd94",
-   "topic": "World",
-   "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions\u2026",
-   "summaryFrom": "reason",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family"
-   ],
-   "headline": "West Bank: Palestinian families besieged for a week as settler violence continues",
-   "updated": "2026-08-16T08:50:57+00:00",
-   "outletCount": 5,
-   "counts": {
-    "pub": 1,
-    "nonprofit": 3,
-    "coop": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 1,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "West Bank: Palestinian families besieged for a week as settler violence continues",
-     "url": "https://www.france24.com/en/west-bank-palestinian-families-besieged-for-a-week-as-settler-violence-continues",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T08:50:57+00:00",
-     "summary": "Several Palestinian homes in the West Bank village of Qusra have been under siege for a week, with families trapped inside as supplies dwindle and water and electricity are cut off. Settlers have continued their attacks openly, despite the presence of Israeli soldiers and growing international pressure on Israel."
-    },
-    {
-     "outlet": "reason",
-     "title": "Israeli Settler \"Terrorists\" Unjustly Expel West Bank Palestinians From Their Land",
-     "url": "https://reason.com/volokh/2026/08/15/israeli-settler-terrorists-unjustly-expel-west-bank-palestinians-from-their-land/",
-     "author": "Ilya Somin",
-     "kind": "opinion",
-     "published": "2026-08-15T22:17:52+00:00",
-     "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions are deeply unjust, amounting to ethnic cleansing and gross violations of private property rights. They also highlight broader dangers of ethno-nationalist claims to exclusive control over land. The Times of Israel (a center-right Israeli publication) has a helpful overview of the recent settler violenc"
-    },
-    {
-     "outlet": "zeteo",
-     "title": "This Week in Palestine: Israel Shoots 13-Year-Old as She \u2018Memorized the Quran\u2019 and Settlers Besiege Palestinian Families",
-     "url": "https://zeteo.com/p/this-week-in-palestine-israel-shoots",
-     "author": "Team Zeteo",
-     "kind": "news",
-     "published": "2026-08-15T17:01:34+00:00",
-     "summary": "Israeli settlers run as they are chased by an Israeli military vehicle around Palestinian houses in the village of Qusra, south of Nablus, in the occupied West Bank, on Aug. 13, 2026. Photo by Zain Jaafar/AFP via Getty Images US Ambassador Mike Huckabee called settlers besieging a Palestinian American home in the occupied West Bank &#8220; Israeli terrorists .&#8221; It&#8217;s a welcome, rare rebuke from a U.S. official, but what kind of weight does it really have when the same official has been a long-time supporter of Israeli settlements? It wasn&#8217;t that long ago that Huckabee made similar comments about settler violence gripping the Palestinian Christian village of Taybeh , where attacks continue, or the settlers who beat Palestinian American Sayfollah Musallet to death (no one has been held accountable). Subscribe now What kind of weight do Huckabee&#8217;s comments really have when, hours after using the phrase &#8220;Israeli terrorists,&#8221; he called the settlers &#8220; illegal trespassers &#8221; instead? Or when he defended the vast majority of settlers, saying they aren&#8217;t the problem, the &#8220; unsettlers &#8221; are, even though the settlements themselve"
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Palestinians besieged in West Bank village of Qusra fear Israeli settlers will seize their homes",
-     "url": "https://www.pbs.org/newshour/world/palestinians-besieged-in-west-bank-village-of-qusra-fear-israeli-settlers-will-seize-their-homes",
-     "author": "Aref Tufaha, Associated Press",
-     "kind": "news",
-     "published": "2026-08-14T21:43:06+00:00",
-     "summary": "The standoff in Qusra between Palestinian families and Israeli settlers who apparently want to push them out entered a new stage Friday as activists supporting the Palestinians marched toward the besieged homes to replenish their dwindling food and water supply."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
-     "url": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
-     "author": "Emma Graham-Harrison in Jerusalem",
-     "kind": "news",
-     "published": "2026-08-14T17:52:51+00:00",
-     "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "cc3b730f3d",
-   "topic": "Politics",
-   "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy \u200bposition, not clear Donald Trump has threatened to declare the strait of Hormuz as \u201ca territory of the United States\u201d as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would \u201cpretty soon\u201d designate the waterway \u2013 a crucial chokepoint for global trade, through which about a fifth of the world\u2019s seaborne oil supplies typically pass \u2013 a US territory. Continue reading...",
-   "summaryFrom": "guardian",
+   "id": "e4e85911fd",
+   "topic": "Climate & Energy",
+   "summary": "Hawaii has narrowly avoided a historic direct hit from Hurricane Lala, but torrential rain and hurricane-force winds are still causing widespread flooding, mudslides and power outages across the islands. Authorities are urging residents to shelter in place as the storm moves west and dangerous conditions persist.",
+   "summaryFrom": "france24",
    "emphasis": {
-    "bigCount": 3,
-    "indieCount": 2,
-    "big": [
-     "reality"
-    ],
+    "bigCount": 2,
+    "indieCount": 3,
+    "big": [],
     "indie": [
-     "donald"
+     "strong",
+     "persist"
     ]
    },
    "absent": [
-    "coop"
+    "family",
+    "coop",
+    "nonprofit"
    ],
-   "headline": "Donald Trump to declare Hormuz US territory 'soon'",
-   "updated": "2026-08-15T22:47:44+00:00",
+   "headline": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+   "updated": "2026-08-16T13:00:24+00:00",
    "outletCount": 5,
    "counts": {
-    "corp": 1,
-    "family": 2,
-    "pub": 1,
-    "nonprofit": 1
+    "corp": 2,
+    "pub": 3
    },
    "newsCount": 5,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "nbcnews",
-     "title": "Iran urges U.S. to \u2018accept the reality of defeat\u2019",
-     "url": "https://www.nbcnews.com/nightly-news/video/iran-urges-u-s-to-accept-the-reality-of-defeat-268361285795",
+     "outlet": "newsweek",
+     "title": "Hurricane Lala Tracker as Storm Sparks Power Outage in Hawaii",
+     "url": "https://www.newsweek.com/hurricane-lala-tracker-as-storm-sparks-power-outage-in-hawaii-12328659",
      "author": null,
      "kind": "news",
-     "published": "2026-08-15T22:47:44+00:00",
-     "summary": "A defiant Iran called on the U.S. to \u201caccept the reality of defeat and stop indulging in delusions\u201d after President Trump suggested that he would soon declare the Strait of Hormuz a \u201cterritory of the United States.\u201d NBC News\u2019 Julie Tsirkin reports."
+     "published": "2026-08-16T13:00:24+00:00",
+     "summary": "Hurricane Lala leaves 88,000+ without power in Hawaii as flooding, damaging winds and outages disrupt islands."
     },
     {
-     "outlet": "forbes",
-     "title": "Iran Tells Trump: \u2018Accept The Reality\u2019 He Can\u2019t Make Strait Of Hormuz U.S. Territory",
-     "url": "https://www.forbes.com/sites/saradorn/2026/08/15/iran-tells-trump-accept-the-reality-he-cant-make-strait-of-hormuz-us-territory/",
-     "author": "Sara Dorn, Forbes Staff",
+     "outlet": "bbc",
+     "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+     "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-15T17:57:39+00:00",
-     "summary": "Trump urged Americans on Friday to accept higher gasoline prices as a result of the war."
+     "published": "2026-08-16T12:53:43+00:00",
+     "summary": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas."
     },
     {
-     "outlet": "bloomberg",
-     "title": "Iran, Oman Home In on Hormuz Strait Deal as Ship Attacks Mount",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-15/iran-oman-hone-in-on-hormuz-strait-deal-as-ship-attacks-mount",
-     "author": "Arsalan Shahla, Sara Gharaibeh and Catherine Lucey",
+     "outlet": "abcnews",
+     "title": "Lala weakens to tropical storm, brings heavy rain, wind, flooding to Hawaii",
+     "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-15T13:00:56+00:00",
-     "summary": "Iran and Oman appear to be edging closer to a deal on how the Strait of Hormuz should be managed, agreeing on routes through the key waterway that\u2019s proved a major stumbling block in efforts to end almost six months of war between the Islamic Republic and the US."
+     "published": "2026-08-16T12:41:49+00:00",
+     "summary": "Lala has weakened to a tropical storm as it tracks through the central Pacific Ocean, approaching the Big Island of Hawaii on Sunday."
+    },
+    {
+     "outlet": "france24",
+     "title": "US : Hawaii narrowly avoids direct hit as Hurricane Lala brings strong weather",
+     "url": "https://www.france24.com/en/us-hawaii-narrowly-avoids-direct-hit-as-hurricane-lala-brings-severe-weather",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T08:53:56+00:00",
+     "summary": "Hawaii has narrowly avoided a historic direct hit from Hurricane Lala, but torrential rain and hurricane-force winds are still causing widespread flooding, mudslides and power outages across the islands. Authorities are urging residents to shelter in place as the storm moves west and dangerous conditions persist."
     },
     {
      "outlet": "dw",
-     "title": "Donald Trump to declare Hormuz US territory 'soon'",
-     "url": "https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755?maca=en-rss-en-all-1573-rdf",
+     "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
+     "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-rdf",
      "author": null,
      "kind": "news",
-     "published": "2026-08-14T22:14:00+00:00",
-     "summary": "Donald Trump said the strait would become part of the US after Iran is defeated. He also told Americans to accept higher gas prices, which have soared since Iran closed Hormuz in response to US and Israeli attacks."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump threatens to declare strait of Hormuz \u2018territory of the United States\u2019",
-     "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
-     "author": "Maya Yang",
-     "kind": "news",
-     "published": "2026-08-14T21:38:17+00:00",
-     "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy \u200bposition, not clear Donald Trump has threatened to declare the strait of Hormuz as \u201ca territory of the United States\u201d as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would \u201cpretty soon\u201d designate the waterway \u2013 a crucial chokepoint for global trade, through which about a fifth of the world\u2019s seaborne oil supplies typically pass \u2013 a US territory. Continue reading..."
+     "published": "2026-08-16T05:57:00+00:00",
+     "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is expected to weaken gradually. However, the hurricane caused roads to flood and turned rivers into raging torrents."
     }
    ]
   },
   {
-   "id": "f7cce6b5d6",
+   "id": "2dd6812758",
    "topic": "Politics",
-   "summary": "The Democratic National Committee (DNC) has voted to approve the 2028 presidential primary calendar, starting with South Carolina. The party okayed a plan that has the Palmetto State kicking off the cycle on Jan. 22, 2028, followed by Nevada on Feb. 1. New Hampshire, long a first-in-the-nation contest, will hold its primary third, on Feb....",
-   "summaryFrom": "thehill",
+   "summary": "AUSTIN, Texas \u2014 Democrats teed up South Carolina to lead a six-state gantlet of early presidential contests, sealing a 2028 road map that pushes Black and Latino voters and labor to the front of the line for choosing the party\u2019s next national leader.",
+   "summaryFrom": "nbcnews",
    "emphasis": null,
    "absent": [
     "coop",
-    "nonprofit",
     "pub"
    ],
-   "headline": "Democrats approve 2028 primary calendar that puts South Carolina first",
-   "updated": "2026-08-15T19:39:15+00:00",
+   "headline": "Politics chat: Democrats take lessons from the primaries, set 2028 calendar",
+   "updated": "2026-08-16T11:46:22+00:00",
    "outletCount": 5,
    "counts": {
+    "nonprofit": 1,
     "family": 2,
-    "corp": 3
+    "corp": 2
    },
    "newsCount": 5,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "npr",
+     "title": "Politics chat: Democrats take lessons from the primaries, set 2028 calendar",
+     "url": "https://www.npr.org/2026/08/16/nx-s1-5929152/politics-chat-democrats-take-lessons-from-the-primaries-set-2028-calendar",
+     "author": "Danielle Kurtzleben",
+     "kind": "news",
+     "published": "2026-08-16T11:46:22+00:00",
+     "summary": "We look at how the Democrats are gearing up for the 2028 presidential primaries, as well as their takeaways from the current batch of primary races."
+    },
     {
      "outlet": "wapo",
      "title": "Democrats approve 2028 primary calendar that puts South Carolina first",
@@ -1003,15 +842,6 @@
      "kind": "news",
      "published": "2026-08-15T19:39:15+00:00",
      "summary": "South Carolina would hold its primary on Jan. 22, 2028 under the Democratic National Committee\u2019s plan. Nevada would follow on Feb. 1. The plan aims to give a bigger voice to Black and Latino voters."
-    },
-    {
-     "outlet": "thehill",
-     "title": "DNC gives final approval of 2028 primary calendar starting in South Carolina",
-     "url": "https://thehill.com/homenews/campaign/6028298-dnc-approves-2028-primary-calendar/",
-     "author": "Julia Mueller",
-     "kind": "news",
-     "published": "2026-08-15T18:35:45+00:00",
-     "summary": "The Democratic National Committee (DNC) has voted to approve the 2028 presidential primary calendar, starting with South Carolina. The party okayed a plan that has the Palmetto State kicking off the cycle on Jan. 22, 2028, followed by Nevada on Feb. 1. New Hampshire, long a first-in-the-nation contest, will hold its primary third, on Feb...."
     },
     {
      "outlet": "nyt",
@@ -1039,6 +869,198 @@
      "kind": "news",
      "published": "2026-08-14T09:41:06+00:00",
      "summary": "The DNC is expected to vote on Saturday to approve the new order of states for the 2028 presidential nominating process, amidst controversy over some of those decisions."
+    }
+   ]
+  },
+  {
+   "id": "17791ac8bd",
+   "topic": "Other",
+   "summary": "Four works were taken during public holiday, the day after Italian police recovered paintings by C\u00e9zanne, Renoir and Matisse Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina. Thieves gained access to the regional museum of Messina , or MuMe, on Saturday evening, possibly capitalising on attention being focused on La Vara, a huge religious festival that takes place in the city on 15 August, when Italy marks the ferragosto national holiday. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 2,
+    "big": [],
+    "indie": [
+     "renoir",
+     "zanne",
+     "police",
+     "matisse",
+     "italian",
+     "recovered"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Rare Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
+   "updated": "2026-08-16T12:06:28+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 1,
+    "family": 1,
+    "pub": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "4 Renaissance paintings stolen from museum in Italy",
+     "url": "https://www.cbsnews.com/news/renaissance-paintings-stolen-museum-italy/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T12:06:28+00:00",
+     "summary": "Local officials have expressed their dismay and sadness at the theft which occurred during celebrations of the Virgin Mary."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Rare Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
+     "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
+     "author": "Lorenzo Tondo in Palermo",
+     "kind": "news",
+     "published": "2026-08-16T11:42:52+00:00",
+     "summary": "Four works were taken during public holiday, the day after Italian police recovered paintings by C\u00e9zanne, Renoir and Matisse Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina. Thieves gained access to the regional museum of Messina , or MuMe, on Saturday evening, possibly capitalising on attention being focused on La Vara, a huge religious festival that takes place in the city on 15 August, when Italy marks the ferragosto national holiday. Continue reading..."
+    },
+    {
+     "outlet": "nypost",
+     "title": "Four Antonello da Messina works stolen in Renaissance painter\u2019s hometown",
+     "url": "https://nypost.com/2026/08/16/world-news/antonello-da-messina-paintings-stolen-from-italian-city-museo-regionale-di-messina/",
+     "author": "Reuters",
+     "kind": "news",
+     "published": "2026-08-16T10:51:59+00:00",
+     "summary": "The thieves entered the museum on the night of August 15, a national holiday in Italy and the peak of the summer season, media said."
+    },
+    {
+     "outlet": "france24",
+     "title": "Italy recovers millions of euros worth of stolen Renoir, C\u00e9zanne and Matisse paintings",
+     "url": "https://www.france24.com/en/video/20260816-italy-recovers-millions-of-euros-worth-of-stolen-renoir-c%C3%A9zanne-and-matisse-paintings",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T08:56:50+00:00",
+     "summary": "Italian authorities have recovered three paintings by Renoir, C\u00e9zanne and Matisse, worth more than \u20ac9 million, months after they were stolen from a private museum near Parma. Five Moldovan suspects have been detained, with police saying the gang had carefully planned the heist and was equipped to disable the museum's security systems."
+    }
+   ]
+  },
+  {
+   "id": "148790edfe",
+   "topic": "Politics",
+   "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions\u2026",
+   "summaryFrom": "reason",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
+   "updated": "2026-08-16T12:02:18+00:00",
+   "outletCount": 4,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 3
+   },
+   "newsCount": 3,
+   "opinionCount": 1,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
+     "url": "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-16T12:02:18+00:00",
+     "summary": "A solar eclipse seen across parts of Europe, ongoing search-and-rescue efforts in Colombia after a devastating earthquake killed at least 300 people and left hundreds missing, and escalating violence by Israeli settlers in the occupied West Bank, condemned by the US ambassador to Israel as \"acts of terror\": FRANCE 24 takes a look at the week's most striking images."
+    },
+    {
+     "outlet": "reason",
+     "title": "Israeli Settler \"Terrorists\" Unjustly Expel West Bank Palestinians From Their Land",
+     "url": "https://reason.com/volokh/2026/08/15/israeli-settler-terrorists-unjustly-expel-west-bank-palestinians-from-their-land/",
+     "author": "Ilya Somin",
+     "kind": "opinion",
+     "published": "2026-08-15T22:17:52+00:00",
+     "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions are deeply unjust, amounting to ethnic cleansing and gross violations of private property rights. They also highlight broader dangers of ethno-nationalist claims to exclusive control over land. The Times of Israel (a center-right Israeli publication) has a helpful overview of the recent settler violenc"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Palestinians besieged in West Bank village of Qusra fear Israeli settlers will seize their homes",
+     "url": "https://www.pbs.org/newshour/world/palestinians-besieged-in-west-bank-village-of-qusra-fear-israeli-settlers-will-seize-their-homes",
+     "author": "Aref Tufaha, Associated Press",
+     "kind": "news",
+     "published": "2026-08-14T21:43:06+00:00",
+     "summary": "The standoff in Qusra between Palestinian families and Israeli settlers who apparently want to push them out entered a new stage Friday as activists supporting the Palestinians marched toward the besieged homes to replenish their dwindling food and water supply."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
+     "url": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
+     "author": "Emma Graham-Harrison in Jerusalem",
+     "kind": "news",
+     "published": "2026-08-13T18:54:09+00:00",
+     "summary": "Former PM of Israel calls events \u2018concerted and meticulous attempt at ethnic cleansing\u2019 against Palestinians Israeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top Israeli commander personally promised he would end a violent settler campaign to drive them out. Israeli soldiers also took over eight other homes in Qusra early on Thursday, telling the village\u2019s mayor, Abdul Azim Wadi, that the buildings were needed for a days-long operation to remove the settlers. They later relinquished six. Settlers still roam the village. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "6b9bc31e3b",
+   "topic": "Politics",
+   "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy \u200bposition, not clear Donald Trump has threatened to declare the strait of Hormuz as \u201ca territory of the United States\u201d as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would \u201cpretty soon\u201d designate the waterway \u2013 a crucial chokepoint for global trade, through which about a fifth of the world\u2019s seaborne oil supplies typically pass \u2013 a US territory. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
+   "updated": "2026-08-16T11:14:23+00:00",
+   "outletCount": 4,
+   "counts": {
+    "pub": 2,
+    "corp": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
+     "url": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T11:14:23+00:00",
+     "summary": "US president has yet another outlandish threat for Iran, with no end to war in sight."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Iran calls Trump's plan to turn Strait of Hormuz into U.S. territory \"delusions\"",
+     "url": "https://www.cbsnews.com/video/iran-calls-trumps-plan-to-turn-strait-of-hormuz-into-us-territory-delusions/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T00:26:00+00:00",
+     "summary": "The Iranian regime has reponded to President Trump's claim that he'll turn the Strait of Hormuz into a U.S. territory once the war is won. Aaron Navarro has the story."
+    },
+    {
+     "outlet": "dw",
+     "title": "Donald Trump to declare Hormuz US territory 'soon'",
+     "url": "https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T22:14:00+00:00",
+     "summary": "Donald Trump said the strait would become part of the US after Iran is defeated. He also told Americans to accept higher gas prices, which have soared since Iran closed Hormuz in response to US and Israeli attacks."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump threatens to declare strait of Hormuz \u2018territory of the United States\u2019",
+     "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
+     "author": "Maya Yang",
+     "kind": "news",
+     "published": "2026-08-14T21:38:17+00:00",
+     "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy \u200bposition, not clear Donald Trump has threatened to declare the strait of Hormuz as \u201ca territory of the United States\u201d as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would \u201cpretty soon\u201d designate the waterway \u2013 a crucial chokepoint for global trade, through which about a fifth of the world\u2019s seaborne oil supplies typically pass \u2013 a US territory. Continue reading..."
     }
    ]
   },
@@ -1177,62 +1199,62 @@
    ]
   },
   {
-   "id": "1e0423bcc5",
-   "topic": "Justice & Policing",
-   "summary": "After the Supreme Court affirmed birthright citizenship, Trump has taken to proclamations to try to limit the impact of the decision. What is fair and what isn't?",
-   "summaryFrom": "forbes",
+   "id": "de3990c6ff",
+   "topic": "Politics",
+   "summary": "Former Rep. Mary Peltola\u2019s (D-AK) Senate campaign made clear this week that it wants nothing to do with former Vice President Kamala Harris\u2019s message of support. On Wednesday, Harris\u2019s Fight for the People PAC sent an email urging supporters to \u201cstand behind Mary,\u201d The New York Times reported . It called the Alaska contest a \u201cmust-win race\u201d for Democrats hoping to retake the Senate and declared, \u201cIf there\u2019s anyone who can flip Alaska and secure the Senate majority for Democrats \u2014 it\u2019s Mary.\u201d The message linked to a page asking donors to split contributions between Peltola\u2019s campaign and Harris\u2019s own committee. Peltola\u2019s team responded immediately. The campaign said it had not approved the email and had no knowledge of it before it went out. \u201cMary isn\u2019t seeking endorsements from anyone from the Lower 48 \u2014 her focus is and always will be Alaska,\u201d the statement read, citing support she has\u2026",
+   "summaryFrom": "dailywire",
    "emphasis": null,
    "absent": [
+    "corp",
     "coop",
-    "nonprofit"
+    "pub"
    ],
-   "headline": "Trump asks US Supreme Court to allow ballroom work to continue",
-   "updated": "2026-08-15T17:38:25+00:00",
+   "headline": "Alaska candidate for US Senate rejects Kamala Harris\u2019s unsolicited support",
+   "updated": "2026-08-15T18:16:22+00:00",
    "outletCount": 4,
    "counts": {
-    "family": 2,
-    "pub": 1,
-    "corp": 1
+    "family": 3,
+    "nonprofit": 1
    },
-   "newsCount": 4,
-   "opinionCount": 0,
+   "newsCount": 3,
+   "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "forbes",
-     "title": "Trump Tests Birthright Citizenship Again After Supreme Court Loss",
-     "url": "https://www.forbes.com/sites/andyjsemotiuk/2026/08/15/trump-tests-birthright-citizenship-again-after-supreme-court-loss/",
-     "author": "Andy J. Semotiuk, Contributor",
-     "kind": "news",
-     "published": "2026-08-15T17:38:25+00:00",
-     "summary": "After the Supreme Court affirmed birthright citizenship, Trump has taken to proclamations to try to limit the impact of the decision. What is fair and what isn't?"
+     "outlet": "dailywire",
+     "title": "Dem Senate Hopeful Runs From Kamala Harris Support",
+     "url": "https://www.dailywire.com/news/dem-senate-hopeful-runs-from-kamala-harris-support",
+     "author": "Leona Salinas",
+     "kind": "opinion",
+     "published": "2026-08-15T18:16:22+00:00",
+     "summary": "Former Rep. Mary Peltola\u2019s (D-AK) Senate campaign made clear this week that it wants nothing to do with former Vice President Kamala Harris\u2019s message of support. On Wednesday, Harris\u2019s Fight for the People PAC sent an email urging supporters to \u201cstand behind Mary,\u201d The New York Times reported . It called the Alaska contest a \u201cmust-win race\u201d for Democrats hoping to retake the Senate and declared, \u201cIf there\u2019s anyone who can flip Alaska and secure the Senate majority for Democrats \u2014 it\u2019s Mary.\u201d The message linked to a page asking donors to split contributions between Peltola\u2019s campaign and Harris\u2019s own committee. Peltola\u2019s team responded immediately. The campaign said it had not approved the email and had no knowledge of it before it went out. \u201cMary isn\u2019t seeking endorsements from anyone from the Lower 48 \u2014 her focus is and always will be Alaska,\u201d the statement read, citing support she has received from several Alaska labor groups. Peltola did not endorse Harris in 2024. Peltola, a former congresswoman, is running against incumbent Senator Dan Sullivan (R-AK). Limited polling thus far shows the race to be competitive, but Peltola would need to far outperform Harris\u2019s 2024 showing in t"
     },
     {
-     "outlet": "bbc",
-     "title": "Trump asks US Supreme Court to allow ballroom work to continue",
-     "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+     "outlet": "guardian",
+     "title": "Alaska candidate for US Senate rejects Kamala Harris\u2019s unsolicited support",
+     "url": "https://www.theguardian.com/us-news/2026/aug/15/alaska-mary-peltola-rejects-kamala-harris-unsolicited-support",
+     "author": "Adam Gabbatt",
+     "kind": "news",
+     "published": "2026-08-15T15:07:54+00:00",
+     "summary": "Former VP sent fundraising appeal for Democrat Mary Peltola\u2019s campaign \u2013 with half of donations going to Harris\u2019s organization Alaska US Senate candidate Mary Peltola has rejected the support of Kamala Harris , her fellow Democrat, after the 2024 presidential candidate sent out a seemingly unsolicited fundraising appeal on Peltola\u2019s behalf. Harris, who lost Alaska \u2013 typically a Republican-voting state \u2013 by 13 points during her unsuccessful White House run, on Wednesday sent an email from her political organization to supporters of Peltola, a former US House member. Continue reading..."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Top Dem operative brushes off latest scandal plaguing Maine Senate candidate as 'salacious gossip'",
+     "url": "https://www.foxnews.com/politics/top-dem-operative-brushes-off-latest-scandal-plaguing-maine-senate-candidate-salacious-gossip",
      "author": null,
      "kind": "news",
-     "published": "2026-08-14T19:05:22+00:00",
-     "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says."
+     "published": "2026-08-15T11:00:46+00:00",
+     "summary": "High-profile Democrats aren't backing off their support for Maine Senate candidate Troy Jackson following reports he fathered children with his cousin. Former Democratic National Committee Chairwoman Donna Brazile was among the chorus of party voices throwing cold water on the claims about Jackson in a scandal-plagued Senate race that was already upended after former far-left candidate Graham Platner dropped out earlier this summer after a series of controversies that culminated in a rape allegation. Now, Jackson is facing even more turmoil with the most recent revelations of a 1988 police report accusing him of assault. \"There\u2019s a lot of people who are doing a lot of gossip as news, and I don't want to break news that might not be true \u2014 especially on something so personal \u2014 that's not what I do,\" Brazile told Fox News Digital when asked about a report Jackson had two children with his cousin and longtime partner Lana Pelletier. INTERNET ERUPTS OVER REPORT THAT PLATNER'S REPLACEMENT IN KEY SENATE RACE FATHERED CHILDREN WITH SECOND COUSIN Jackson became the Democrat nominee for Senate in Maine despite Platner winning the June 9 primary race. Platner formally dropped out on July 10,"
     },
     {
-     "outlet": "wapo",
-     "title": "Trump officials ask Supreme Court to let ballroom construction continue",
-     "url": "https://www.washingtonpost.com/politics/2026/08/14/white-house-ballroom-trump-asks-supreme-court-let-work-go/",
-     "author": "Jonathan Edwards, Justin Jouvenal, Dan Diamond",
+     "outlet": "nyt",
+     "title": "Alaska Democrat Mary Peltola Pushes Back Against Endorsement From Kamala Harris",
+     "url": "https://www.nytimes.com/2026/08/14/us/politics/kamala-harris-mary-peltola-endorsement.html",
+     "author": "Tim Balk",
      "kind": "news",
-     "published": "2026-08-14T17:22:24+00:00",
-     "summary": "The request escalates the legal fight over the controversial project to the nation\u2019s highest court."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump admin says WH ballroom 'beyond the point of no return' in Supreme Court appeal",
-     "url": "https://abcnews.com/Politics/trump-appeals-supreme-court-white-house-ballroom-construction/story?id=135642539",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T16:52:25+00:00",
-     "summary": "The Trump administration is asking the Supreme Court to allow construction of the president's White House ballroom to continue."
+     "published": "2026-08-14T21:49:50+00:00",
+     "summary": "Former Representative Mary Peltola of Alaska did not appear to be happy that former Vice President Kamala Harris put out a fund-raising appeal on her behalf. Ms. Harris lost the 2024 presidential election in Alaska by 14 points."
     }
    ]
   },
@@ -1245,12 +1267,12 @@
     "bigCount": 3,
     "indieCount": 3,
     "big": [
-     "stations",
      "worth",
      "foot-washing",
-     "airport",
      "international",
-     "scrapped"
+     "stations",
+     "airport",
+     "fort"
     ],
     "indie": [
      "order"
@@ -1397,8 +1419,8 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "donald",
-     "trump"
+     "trump",
+     "donald"
     ],
     "indie": []
    },
@@ -1465,10 +1487,10 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "statement",
-     "called",
      "police",
-     "pronounced"
+     "called",
+     "pronounced",
+     "statement"
     ],
     "indie": []
    },
@@ -1527,21 +1549,72 @@
    ]
   },
   {
-   "id": "4d5eb51799",
-   "topic": "World",
-   "summary": "Jared Kushner, President Trump's envoy and son-in-law, is planning to visit Israel next week for talks on the situation in Gaza , according to five sources with knowledge of the plan. Why it matters: This would be Kushner's first trip to Israel since January. It comes as the White House and Trump's Board of Peace are trying to push forward with the next phase of the Gaza plan, which focuses on disarming Hamas and a potential Israeli withdrawal. The Netanyahu government is highly skeptical of the U.S. Gaza plan, and the upcoming election in October is making the issue even more politically sensitive. \"We see eye-to-eye on the strategic goal, but Israel has expressed some doubts about the plan and we want to talk to them in order to make sure we are coordinated,\" a U.S. official said, while noting the exact dates of the trip could change. Driving the news: Trump announced two weeks ago\u2026",
-   "summaryFrom": "axios",
+   "id": "fd481c993c",
+   "topic": "Climate & Energy",
+   "summary": "Hurricane Lala slammed Hawaii's Big Island, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides.",
+   "summaryFrom": "cbsnews",
    "emphasis": null,
    "absent": [
     "coop",
-    "nonprofit"
+    "pub"
    ],
-   "headline": "Hamas begins crucial talks with Egypt on Trump's Gaza peace plan",
-   "updated": "2026-08-16T11:33:32+00:00",
+   "headline": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
+   "updated": "2026-08-16T12:13:52+00:00",
    "outletCount": 3,
    "counts": {
-    "pub": 1,
     "corp": 1,
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "1 dead as Hurricane Lala avoids landfall on Hawaii's Big Island",
+     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T12:13:52+00:00",
+     "summary": "Hurricane Lala slammed Hawaii's Big Island, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Flights between L.A. and Hawaii disrupted as Hurricane Lala approaches the Big Island",
+     "url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
+     "author": "Josh Rottenberg",
+     "kind": "news",
+     "published": "2026-08-16T00:56:14+00:00",
+     "summary": "Several flights from LAX to Hawaii were canceled Saturday, including service to Kona, Maui, Kauai and Honolulu."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
+     "url": "https://www.pbs.org/newshour/nation/hawaiis-big-island-lashed-by-rain-and-wind-as-tropical-storm-lala-closes-in",
+     "author": "Ed White, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T15:17:14+00:00",
+     "summary": "The National Hurricane Center said Lala's maximum sustained winds increased to 75 mph, making it a Category 1 hurricane."
+    }
+   ]
+  },
+  {
+   "id": "dbbb873c59",
+   "topic": "Politics",
+   "summary": "The Sunshine Protection Act would enact a sweeping change to the current system by making Daylight Saving Time year-round across the country. \u2014Kinga Krzeminska\u2014Getty Images President Donald Trump is renewing his support for a bill that would make the U.S. observe Daylight Saving Time year-round. In a Truth Social post on Wednesday evening, the President said he was \u201cproud\u201d that the House passed a bill last month that would make Daylight Saving Time permanent, and proceeded to call on the Senate to pass the measure. \u201cPeople are sick and tired of having to change their clocks twice a year. It is foolish, inconvenient and, in some cases, very costly,\u201d Trump said. He went on to argue that the practice \u201cis also bad for your health in the anxiety it creates,\u201d and claimed that permanent Daylight Saving Time would have many benefits, including that it would \u201chelp Decrease Robbery and Murder\u2026",
+   "summaryFrom": "time",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Trump pushes Senate to vote on permanent daylight saving time bill 'as soon as possible'",
+   "updated": "2026-08-16T12:02:54+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 2,
     "family": 1
    },
    "newsCount": 3,
@@ -1549,31 +1622,82 @@
    "underreported": false,
    "articles": [
     {
-     "outlet": "france24",
-     "title": "Hamas begins crucial talks with Egypt on Trump's Gaza peace plan",
-     "url": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
-     "author": "FRANCE 24",
+     "outlet": "thehill",
+     "title": "Trump pushes Senate to vote on permanent daylight saving time bill 'as soon as possible'",
+     "url": "https://thehill.com/homenews/administration/6031829-trump-urges-senate-daylight-saving-bill/",
+     "author": "Max Rego",
      "kind": "news",
-     "published": "2026-08-16T11:33:32+00:00",
-     "summary": "A Hamas delegation began a meeting with Egypt's spy chief on Sunday to discuss ways to advance the implementation of a post-war plan for Gaza, an official from the Palestinian group told AFP."
+     "published": "2026-08-16T12:02:54+00:00",
+     "summary": "President Trump on Saturday again urged senators to vote on a bill to make daylight saving time permanent, a measure some Republicans in the upper chamber oppose. \u201cThe Senate must vote on the NO MORE CHANGING THE CLOCKS ACT as soon as possible,\u201d Trump wrote on Truth Social, referring to the Sunshine Protection Act of..."
     },
     {
-     "outlet": "axios",
-     "title": "Kushner set to visit Israel, Egypt next week for Gaza talks",
-     "url": "https://www.axios.com/2026/08/13/kushner-israel-gaza-netanyahu",
-     "author": "Barak Ravid",
+     "outlet": "newsweek",
+     "title": "Trump Pushes Senate on Daylight Savings: How Timeline for Change Looks",
+     "url": "https://www.newsweek.com/trump-pushes-senate-on-daylight-savings-how-timeline-for-change-looks-12328515",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-13T21:44:47+00:00",
-     "summary": "Jared Kushner, President Trump's envoy and son-in-law, is planning to visit Israel next week for talks on the situation in Gaza , according to five sources with knowledge of the plan. Why it matters: This would be Kushner's first trip to Israel since January. It comes as the White House and Trump's Board of Peace are trying to push forward with the next phase of the Gaza plan, which focuses on disarming Hamas and a potential Israeli withdrawal. The Netanyahu government is highly skeptical of the U.S. Gaza plan, and the upcoming election in October is making the issue even more politically sensitive. \"We see eye-to-eye on the strategic goal, but Israel has expressed some doubts about the plan and we want to talk to them in order to make sure we are coordinated,\" a U.S. official said, while noting the exact dates of the trip could change. Driving the news: Trump announced two weeks ago that his Board of Peace had reached an agreement with Hamas to disarm and transfer civilian and security control of Gaza to a new Palestinian technocratic government. On Sunday, under pressure from his coalition partners and political opponents, Netanyahu publicly rejected the plan for disarming Hamas."
+     "published": "2026-08-16T09:49:55+00:00",
+     "summary": "Trump is urging the Senate to end clock changes as lawmakers face a race to pass permanent daylight saving time before November 1."
     },
     {
-     "outlet": "semafor",
-     "title": "US-backed peace plan under scrutiny as Israel launches strike on Gaza",
-     "url": "https://www.semafor.com/article/08/13/2026/us-backed-peace-plan-under-scrutiny-as-israel-launches-strike-on-gaza",
-     "author": "Prashant Rao",
+     "outlet": "time",
+     "title": "Trump Renews Push to Pass Bill That Would Make Daylight Saving Time Permanent",
+     "url": "https://time.com/article/2026/08/13/trump-permanent-daylight-saving-time-bill-senate/",
+     "author": "Chantelle Lee",
      "kind": "news",
-     "published": "2026-08-13T12:59:53+00:00",
-     "summary": "Israel launched its first strike on Gaza in a week, intensifying questions over the prospects for a renewed US-backed peace effort. One person was wounded in the attack ; overall, more than 1,250 people have been killed in the territory since October, when Washington unveiled a plan to end the Gaza war. Israel\u2019s prime minister over the weekend rejected the latest push to curb violence in the territory, though the White House downplayed the remarks as political posturing ahead of October elections . In the West Bank, meanwhile, 76 Palestinians and three Israelis have been killed this year as tensions have surged over what the UN described as \u201c unprecedented levels \u201d of violence by Israeli settlers there. \u2014 Prashant Rao"
+     "published": "2026-08-13T22:04:30+00:00",
+     "summary": "The Sunshine Protection Act would enact a sweeping change to the current system by making Daylight Saving Time year-round across the country. \u2014Kinga Krzeminska\u2014Getty Images President Donald Trump is renewing his support for a bill that would make the U.S. observe Daylight Saving Time year-round. In a Truth Social post on Wednesday evening, the President said he was \u201cproud\u201d that the House passed a bill last month that would make Daylight Saving Time permanent, and proceeded to call on the Senate to pass the measure. \u201cPeople are sick and tired of having to change their clocks twice a year. It is foolish, inconvenient and, in some cases, very costly,\u201d Trump said. He went on to argue that the practice \u201cis also bad for your health in the anxiety it creates,\u201d and claimed that permanent Daylight Saving Time would have many benefits, including that it would \u201chelp Decrease Robbery and Murder Rates, Reduce Car Accidents (especially those involving Pedestrians!), Lower Risk for Cardiac Issues, Stroke, and Seasonal Depression, Make it Safer for Children to Walk Home from School.\u201d \u201cThis is an issue that Republicans, Dumocrats, and Independents can unite behind,\u201d he continued. \u201cI am asking Repub"
+    }
+   ]
+  },
+  {
+   "id": "14fdfb6fc9",
+   "topic": "Culture & Sport",
+   "summary": "Before rookie Ty Simpson's NFL debut for the Los Angeles Rams on Saturday, his father texted him some sage advice. \"My dad just talked to me like I was four years old again,\" Simpson said of the message from his father Jason \"He told me to catch every snap, make the easy ones easy, go do what you love, and I love you.\" Simpson is a good son because he did exactly as instructed. He made his first pro game, against the Kansas City Chiefs no less, seem easy. RAIDERS ROOKIE FERNANDO MENDOZA THANKS GOD FOR AN NFL DEBUT THAT COMPARES FAVORABLY TO 'MR BRADY' Simpson completed 21-of-25 passes for 190 yards in three quarters of work after Stetson Bennett started and played the first quarter. Simpson threw 2 touchdown passes without an interception and that kind of efficiency earned him a whopping 125.0 passer rating. \"It was a really good day for him,\" Coach Sean McVay crowed. \"I just felt like\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "It's wise not to trust the NFL preseason but, holy moly, Rams QB Ty Simpson looks like a stud",
+   "updated": "2026-08-16T11:59:04+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "It's wise not to trust the NFL preseason but, holy moly, Rams QB Ty Simpson looks like a stud",
+     "url": "https://www.foxnews.com/sports/wise-not-trust-nfl-preseason-holy-moly-rams-qb-ty-simpson-looks-like-stud",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T11:59:04+00:00",
+     "summary": "Before rookie Ty Simpson's NFL debut for the Los Angeles Rams on Saturday, his father texted him some sage advice. \"My dad just talked to me like I was four years old again,\" Simpson said of the message from his father Jason \"He told me to catch every snap, make the easy ones easy, go do what you love, and I love you.\" Simpson is a good son because he did exactly as instructed. He made his first pro game, against the Kansas City Chiefs no less, seem easy. RAIDERS ROOKIE FERNANDO MENDOZA THANKS GOD FOR AN NFL DEBUT THAT COMPARES FAVORABLY TO 'MR BRADY' Simpson completed 21-of-25 passes for 190 yards in three quarters of work after Stetson Bennett started and played the first quarter. Simpson threw 2 touchdown passes without an interception and that kind of efficiency earned him a whopping 125.0 passer rating. \"It was a really good day for him,\" Coach Sean McVay crowed. \"I just felt like he was in good command and it was cool to see a good smile on his face.\" Those facts and reaction beg context. So, let's examine ... The old adage among NFL scouts, coaches and smart scribes is that the preseason does not present the truth. It lies. The NFL's August stars could be waiting tables in O"
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Rams&#039; Ty Simpson Shines in Impressive Preseason Debut Against Chiefs",
+     "url": "https://www.newsweek.com/sports/nfl/rams-ty-simpson-shines-in-impressive-preseason-debut-against-chiefs-12328401",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T01:00:02+00:00",
+     "summary": "Rams quarterback Ty Simpson achieved one of the best rookie preseason debuts so far in his team&#039;s win over Kansas City."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Ty Simpson impresses in his Rams debut during preseason win over Chiefs",
+     "url": "https://www.latimes.com/sports/rams/story/2026-08-15/ty-simpson-sharp-performance-rams-chiefs-preseason",
+     "author": "Gary Klein",
+     "kind": "news",
+     "published": "2026-08-15T23:21:28+00:00",
+     "summary": "Rams rookie quarterback Ty Simpson puts in a solid debut and avoids making any major mistakes in a 20-12 preseason win over the Kansas City Chiefs."
     }
    ]
   },
@@ -1935,57 +2059,6 @@
    ]
   },
   {
-   "id": "ab35692bcd",
-   "topic": "Health",
-   "summary": "Eggs displayed in refrigerated section of a grocery store. \u2014Lindsey Nicholson\u2014Universal Images Group An egg recall linked to a salmonella outbreak was upgraded to the highest possible risk level by the U.S. Food and Drug Administration (FDA) on Wednesday. Nearly 1.6 million dozen eggs were labeled \u201cClass I,\u201d which the agency defines as \u201ca situation in which there is a reasonable probability that the use of or exposure to a violative product will cause serious adverse health consequences or death.\u201d Symptoms of salmonella infection include \u201cfever, diarrhea (which may be bloody), nausea, vomiting, and abdominal pain,\u201d according to the FDA . \u201cIllness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella, and the symptoms usually last four to seven days,\u201d its website said, noting that children under 5, the elderly, and the immunocompromised were more\u2026",
-   "summaryFrom": "time",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "Massive egg recall in US south and south-west due to salmonella outbreak",
-   "updated": "2026-08-15T16:01:10+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 1,
-    "family": 1,
-    "pub": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Massive egg recall in US south and south-west due to salmonella outbreak",
-     "url": "https://www.theguardian.com/us-news/2026/aug/15/egg-recall-us-south-and-south-west-salmonella-outbreak",
-     "author": "Marina Dunbar",
-     "kind": "news",
-     "published": "2026-08-15T16:01:10+00:00",
-     "summary": "About 1.6m dozen eggs from Texas recalled amid one of the largest recorded foodborne illness outbreaks in US history A massive egg recall affecting nearly 1.6m dozen eggs has been elevated to the US Food and Drug Administration\u2019s highest-risk warning as officials investigate a salmonella outbreak that has sickened nearly 100 people. The FDA on 12 August reclassified the recall of nearly 1.6m dozen white and brown cage-free eggs over concerns they may be contaminated with salmonella. Continue reading..."
-    },
-    {
-     "outlet": "time",
-     "title": "Salmonella Egg Recall Is Now Class I, the FDA\u2019s Highest Risk Level",
-     "url": "https://time.com/article/2026/08/15/eggs-recalled-for-salmonella-upgraded-to-highest-fda-risk-level/",
-     "author": "Rebecca Schneid",
-     "kind": "news",
-     "published": "2026-08-15T15:47:35+00:00",
-     "summary": "Eggs displayed in refrigerated section of a grocery store. \u2014Lindsey Nicholson\u2014Universal Images Group An egg recall linked to a salmonella outbreak was upgraded to the highest possible risk level by the U.S. Food and Drug Administration (FDA) on Wednesday. Nearly 1.6 million dozen eggs were labeled \u201cClass I,\u201d which the agency defines as \u201ca situation in which there is a reasonable probability that the use of or exposure to a violative product will cause serious adverse health consequences or death.\u201d Symptoms of salmonella infection include \u201cfever, diarrhea (which may be bloody), nausea, vomiting, and abdominal pain,\u201d according to the FDA . \u201cIllness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella, and the symptoms usually last four to seven days,\u201d its website said, noting that children under 5, the elderly, and the immunocompromised were more likely to have severe reactions. The U.S. Centers for Disease Control and Prevention (CDC) said that eggs contaminated with Salmonella Enteritidis had infected at least 98 people across 17 states. No deaths have been reported, but 26 people have been hospitalized. Read More: The Trump Administration Wan"
-    },
-    {
-     "outlet": "dw",
-     "title": "US: FDA recalls 19 million eggs over salmonella risk",
-     "url": "https://www.dw.com/en/us-fda-recalls-19-million-eggs-over-salmonella-risk/a-78378361?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T03:49:00+00:00",
-     "summary": "The US has issued a serious health warning over the recalled eggs, saying exposure to the potentially contaminated products could cause severe illness or death."
-    }
-   ]
-  },
-  {
    "id": "d9f9a4b05a",
    "topic": "Health",
    "summary": "The Ebola outbreak in the Democratic Republic of Congo spread to a sixth province as the overall death toll surpassed 2,100 and cases topped 4,500. Experts say the virus may have been transmitted undetected for months, while health workers have struggled to contain the outbreak with poor medical supplies and no approved vaccine for the new strain \u2014 though several are in the works. The head of the World Health Organization this week warned that the current outbreak threatens to be the biggest ever, with authorities playing catch-up to the disease after \u201c a big head start. \u201d During the previous deadliest outbreak, which killed 11,000 people between 2014 and 2016, authorities had recorded 755 cases at the same point . \u2014 Jeronimo Gonzalez",
@@ -2088,6 +2161,57 @@
    ]
   },
   {
+   "id": "1e0423bcc5",
+   "topic": "Justice & Policing",
+   "summary": "The Trump administration is asking the Supreme Court to allow construction of the president's White House ballroom to continue.",
+   "summaryFrom": "abcnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Trump asks US Supreme Court to allow ballroom work to continue",
+   "updated": "2026-08-14T19:05:22+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 1,
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Trump asks US Supreme Court to allow ballroom work to continue",
+     "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T19:05:22+00:00",
+     "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump officials ask Supreme Court to let ballroom construction continue",
+     "url": "https://www.washingtonpost.com/politics/2026/08/14/white-house-ballroom-trump-asks-supreme-court-let-work-go/",
+     "author": "Jonathan Edwards, Justin Jouvenal, Dan Diamond",
+     "kind": "news",
+     "published": "2026-08-14T17:22:24+00:00",
+     "summary": "The request escalates the legal fight over the controversial project to the nation\u2019s highest court."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump admin says WH ballroom 'beyond the point of no return' in Supreme Court appeal",
+     "url": "https://abcnews.com/Politics/trump-appeals-supreme-court-white-house-ballroom-construction/story?id=135642539",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T16:52:25+00:00",
+     "summary": "The Trump administration is asking the Supreme Court to allow construction of the president's White House ballroom to continue."
+    }
+   ]
+  },
+  {
    "id": "623022e5fd",
    "topic": "Other",
    "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Serving in Mission International said Kevin Rideout \u201cis in good health in the care of US officials\u201d and would soon be reunited with his extended family. Continue reading...",
@@ -2139,6 +2263,342 @@
    ]
   },
   {
+   "id": "d971d8e54f",
+   "topic": "Other",
+   "summary": "Attorney General Todd Blanche will join two network shows on Sunday following his narrow Senate confirmation last week. Blanche is set for appearances on Fox News\u2019s \u201cFox News Sunday\u201d and NBC News\u2019s \u201cMeet the Press.\" Earlier this week, he again sought to distance himself from President Trump's \"anti-weaponization\" fund. The attorney general's nomination secured last-minute...",
+   "summaryFrom": "thehill",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Live updates: Todd Blanche set for Sunday news show appearances",
+   "updated": "2026-08-16T12:49:44+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "Live updates: Todd Blanche set for Sunday news show appearances",
+     "url": "https://thehill.com/homenews/administration/6031727-live-updates-todd-blanche-sunday-shows-trump-centcom-uss-abraham-lincoln/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T12:49:44+00:00",
+     "summary": "Attorney General Todd Blanche will join two network shows on Sunday following his narrow Senate confirmation last week. Blanche is set for appearances on Fox News\u2019s \u201cFox News Sunday\u201d and NBC News\u2019s \u201cMeet the Press.\" Earlier this week, he again sought to distance himself from President Trump's \"anti-weaponization\" fund. The attorney general's nomination secured last-minute..."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "LIVE:  ABC News Live",
+     "url": "https://abcnews.com/video/41463246/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T15:59:40+00:00",
+     "summary": "24/7 coverage of breaking news and live events"
+    }
+   ]
+  },
+  {
+   "id": "7c41d69ece",
+   "topic": "Other",
+   "summary": "A crash involving a bus registered in Poland killed 12 people and severely injured at least 10 early Sunday on a Hungary highway, marking the worst accident of its kind in the country in more than 20 years. Poland will send an emergency aircraft to Budapest, Polish Prime Minister Donald Tusk announced.",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Poland-registered bus veers off Hungary highway, killing 12 people",
+   "updated": "2026-08-16T12:48:32+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Poland-registered bus veers off Hungary highway, killing 12 people",
+     "url": "https://www.france24.com/en/europe/20260816-poland-registered-bus-veers-off-hungary-highway-killing-12-people",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-16T12:48:32+00:00",
+     "summary": "A crash involving a bus registered in Poland killed 12 people and severely injured at least 10 early Sunday on a Hungary highway, marking the worst accident of its kind in the country in more than 20 years. Poland will send an emergency aircraft to Budapest, Polish Prime Minister Donald Tusk announced."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+     "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T10:53:50+00:00",
+     "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning."
+    }
+   ]
+  },
+  {
+   "id": "9c95eb7e49",
+   "topic": "Culture & Sport",
+   "summary": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 51 people Rescue crews dug through collapsed buildings and landslide debris in eastern Indonesia on Sunday as they searched for bodies and possible survivors a day after a powerful earthquake killed at least 51 people, injured more than 100 and displaced thousands. At least 24 people died in Manggarai regency and 17 in neighbouring East Manggarai, with additional fatalities reported in Sikka, Ngada and Ende regencies, the national disaster management agency said. Rescuers were still searching for people feared buried beneath landslides triggered by the quake across six regencies on Flores, a predominantly Catholic island in Muslim-majority Indonesia. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+   "updated": "2026-08-16T12:37:21+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+     "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T12:37:21+00:00",
+     "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Rescue teams search for survivors in Indonesia after powerful earthquake",
+     "url": "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T03:57:34+00:00",
+     "summary": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 51 people Rescue crews dug through collapsed buildings and landslide debris in eastern Indonesia on Sunday as they searched for bodies and possible survivors a day after a powerful earthquake killed at least 51 people, injured more than 100 and displaced thousands. At least 24 people died in Manggarai regency and 17 in neighbouring East Manggarai, with additional fatalities reported in Sikka, Ngada and Ende regencies, the national disaster management agency said. Rescuers were still searching for people feared buried beneath landslides triggered by the quake across six regencies on Flores, a predominantly Catholic island in Muslim-majority Indonesia. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "f64dfb1569",
+   "topic": "Culture & Sport",
+   "summary": "The much-anticipated return of Aaron Donald to the Los Angeles Rams that NFL insiders have reported is quite likely isn't ready to happen, according to coach Sean McVay. And he doesn't sound certain whether it will. Or won't. McVay was asked for an update on the possible return of the 10-time Pro Bowl player and three-time Defensive Player of the Year after the Rams played their first preseason game on Saturday. RAMS ADD MYLES GARRETT TRADE TO PUSH FOR SUPER BOWL CHAMPIONSHIP McVay told reporters he didn't want to say a lot about that. Then he delivered 361 words on the topic. We counted. Yes, that's a lot but it all boils down to this: \"We are not at that point quite yet,\" McVay said. That may sound a bit surprising because we've read multiple reports that Donald is coming back or would announce his intentions to do so once the Rams returned to their training facility in Woodland Hills\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Coach Sean McVay on Aaron Donald return to the Los Angeles Rams: 'We are not at that point quite yet'",
+   "updated": "2026-08-16T12:06:59+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "Coach Sean McVay on Aaron Donald return to the Los Angeles Rams: 'We are not at that point quite yet'",
+     "url": "https://www.foxnews.com/sports/coach-sean-mcvay-aaron-donald-return-los-angeles-rams-not-that-point-quite-yet",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T12:06:59+00:00",
+     "summary": "The much-anticipated return of Aaron Donald to the Los Angeles Rams that NFL insiders have reported is quite likely isn't ready to happen, according to coach Sean McVay. And he doesn't sound certain whether it will. Or won't. McVay was asked for an update on the possible return of the 10-time Pro Bowl player and three-time Defensive Player of the Year after the Rams played their first preseason game on Saturday. RAMS ADD MYLES GARRETT TRADE TO PUSH FOR SUPER BOWL CHAMPIONSHIP McVay told reporters he didn't want to say a lot about that. Then he delivered 361 words on the topic. We counted. Yes, that's a lot but it all boils down to this: \"We are not at that point quite yet,\" McVay said. That may sound a bit surprising because we've read multiple reports that Donald is coming back or would announce his intentions to do so once the Rams returned to their training facility in Woodland Hills on Aug. 7. One report, meanwhile, made the point it's not quite so simple. This space reported on Aug. 5 that \"there's a catch for Donald: He wants to be close to if not as good as he's always been. He doesn't wish to look diminished in what could then be portrayed as a selfish chase for a Super Bow"
+    },
+    {
+     "outlet": "latimes",
+     "title": "Sean McVay on Aaron Donald comeback: 'We're not at that point quite yet'",
+     "url": "https://www.latimes.com/sports/rams/story/2026-08-15/sean-mcvay-on-aaron-donalds-rams-return-were-not-at-that-point",
+     "author": "Gary Klein",
+     "kind": "news",
+     "published": "2026-08-16T02:17:22+00:00",
+     "summary": "Rams coach Sean McVay says the team is still working through a few things with Aaron Donald on the defensive tackle's potential return from retirement."
+    }
+   ]
+  },
+  {
+   "id": "55e7b82f6e",
+   "topic": "Politics",
+   "summary": "\u2018Complete unraveling\u2019 of Trump and Republican project reflects attitude of not caring at all about governance He was always one step ahead. Donald Trump won the US presidency as a wildly unlikely outsider in 2016 and staged an astonishing comeback to win it again in 2024. Even his foes grudgingly called him a political savant with an intuition for exploiting grievances that left so-called experts floundering. But now they are asking if the dark genius has lost his touch. Trump is trapped in the quagmire of an unpopular war, obsessing over monuments in Washington and looking for a new spokesperson after his White House press secretary quit . If the 80-year-old was deliberately trying to sabotage his Republican party in November\u2019s midterm elections, it is not clear what he would do differently. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "Trump\u2019s midterm malaise: endless war and high prices could spell doom for Republicans in November",
+   "updated": "2026-08-16T12:06:55+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "Trump Asks Voters To Accept $4 Gas Prices for War They\u2019re Not Behind",
+     "url": "https://www.newsweek.com/trump-asks-voters-to-accept-4-gas-prices-for-war-theyre-not-behind-12328595",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T12:06:55+00:00",
+     "summary": "Trump said he\u2019ll \u201cnever apologize\u201d for higher gas prices, as he did \u201cthe right thing\u201d striking Iran. Americans aren\u2019t so sure."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump\u2019s midterm malaise: endless war and high prices could spell doom for Republicans in November",
+     "url": "https://www.theguardian.com/us-news/2026/aug/16/trumps-midterm-malaise-endless-war-and-high-prices-could-spell-doom-for-republicans-in-november",
+     "author": "David Smith in Washington",
+     "kind": "news",
+     "published": "2026-08-16T10:00:23+00:00",
+     "summary": "\u2018Complete unraveling\u2019 of Trump and Republican project reflects attitude of not caring at all about governance He was always one step ahead. Donald Trump won the US presidency as a wildly unlikely outsider in 2016 and staged an astonishing comeback to win it again in 2024. Even his foes grudgingly called him a political savant with an intuition for exploiting grievances that left so-called experts floundering. But now they are asking if the dark genius has lost his touch. Trump is trapped in the quagmire of an unpopular war, obsessing over monuments in Washington and looking for a new spokesperson after his White House press secretary quit . If the 80-year-old was deliberately trying to sabotage his Republican party in November\u2019s midterm elections, it is not clear what he would do differently. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "9530b78a46",
+   "topic": "Politics",
+   "summary": "D uring her January 2025 confirmation hearing to be secretary of homeland security, Kristi Noem was asked how she would strengthen the nation\u2019s cyberdefenses. Noem told senators that she would make the department\u2019s Cybersecurity and Infrastructure Security Agency \u201csmaller\u201d and \u201cmore nimble.\u201d President Trump had created CISA as a stand-alone agency within the Department of Homeland Security during his first term to give cybersecurity more institutional heft, and it had grown quickly with support from lawmakers of both parties. But after CISA declared the 2020 presidential election to be \u201cthe most secure in American history\u201d and the agency\u2019s director, Christopher Krebs, refused to back Trump\u2019s claims that the vote had been stolen, Krebs became a target for the president\u2019s fury and a seething grudge.. During the DOGE fever of the first few months of Trump\u2019s return, CISA\u2019s budget was\u2026",
+   "summaryFrom": "theatlantic",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Trump\u2019s great plane escape | Politics Weekly America",
+   "updated": "2026-08-16T12:00:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "theatlantic",
+     "title": "How Trump Left America Vulnerable to Cyberattacks",
+     "url": "https://www.theatlantic.com/national-security/2026/08/trump-iran-elections-cyberattacks/688297/?utm_source=feed",
+     "author": "Yvonne Wingett Sanchez",
+     "kind": "news",
+     "published": "2026-08-16T12:00:00+00:00",
+     "summary": "D uring her January 2025 confirmation hearing to be secretary of homeland security, Kristi Noem was asked how she would strengthen the nation\u2019s cyberdefenses. Noem told senators that she would make the department\u2019s Cybersecurity and Infrastructure Security Agency \u201csmaller\u201d and \u201cmore nimble.\u201d President Trump had created CISA as a stand-alone agency within the Department of Homeland Security during his first term to give cybersecurity more institutional heft, and it had grown quickly with support from lawmakers of both parties. But after CISA declared the 2020 presidential election to be \u201cthe most secure in American history\u201d and the agency\u2019s director, Christopher Krebs, refused to back Trump\u2019s claims that the vote had been stolen, Krebs became a target for the president\u2019s fury and a seething grudge.. During the DOGE fever of the first few months of Trump\u2019s return, CISA\u2019s budget was reduced and its staff cut by one-third. The agency hasn\u2019t had a permanent, Senate-confirmed director since Trump retook office. In April, the White House proposed deeper cuts to CISA\u2019s budget, but Republican lawmakers have raised concerns that critical U.S. infrastructure is already too vulnerable. In June"
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump\u2019s great plane escape | Politics Weekly America",
+     "url": "https://www.theguardian.com/politics/video/2026/aug/14/trumps-great-plane-escape-politics-weekly-america",
+     "author": "Presented by Jonathan Freedland with Tara Setmayer; produced by Danielle Stephens and Nada Smiljanic . The executive producer was Maz Ebtehaj",
+     "kind": "news",
+     "published": "2026-08-14T11:15:35+00:00",
+     "summary": "When Air Force One took off from Turkey after July\u2019s Nato summit, almost everyone believed Donald Trump was on board \u2026 but he wasn\u2019t. Jonathan Freedland talks to Tara Setmayer of the Seneca Project about why the White House felt the need to come up with such an elaborate lie to protect the president Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "9791317016",
+   "topic": "World",
+   "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "\u2018Spearhead of annexation\u2019: Israel hands West Bank rule to civilian police",
+   "updated": "2026-08-16T11:54:55+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "\u2018Spearhead of annexation\u2019: Israel hands West Bank rule to civilian police",
+     "url": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T11:54:55+00:00",
+     "summary": "Israel&#039;s transfer of West Bank policing to civilian forces cements de facto annexation and empowers settler militias."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+     "url": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+     "author": "Emma Graham-Harrison in Jerusalem",
+     "kind": "news",
+     "published": "2026-08-14T17:52:51+00:00",
+     "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "4d5eb51799",
+   "topic": "World",
+   "summary": "Jared Kushner, President Trump's envoy and son-in-law, is planning to visit Israel next week for talks on the situation in Gaza , according to five sources with knowledge of the plan. Why it matters: This would be Kushner's first trip to Israel since January. It comes as the White House and Trump's Board of Peace are trying to push forward with the next phase of the Gaza plan, which focuses on disarming Hamas and a potential Israeli withdrawal. The Netanyahu government is highly skeptical of the U.S. Gaza plan, and the upcoming election in October is making the issue even more politically sensitive. \"We see eye-to-eye on the strategic goal, but Israel has expressed some doubts about the plan and we want to talk to them in order to make sure we are coordinated,\" a U.S. official said, while noting the exact dates of the trip could change. Driving the news: Trump announced two weeks ago\u2026",
+   "summaryFrom": "axios",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Hamas begins crucial talks with Egypt on Trump's Gaza peace plan",
+   "updated": "2026-08-16T11:33:32+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Hamas begins crucial talks with Egypt on Trump's Gaza peace plan",
+     "url": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-16T11:33:32+00:00",
+     "summary": "A Hamas delegation began a meeting with Egypt's spy chief on Sunday to discuss ways to advance the implementation of a post-war plan for Gaza, an official from the Palestinian group told AFP."
+    },
+    {
+     "outlet": "axios",
+     "title": "Kushner set to visit Israel, Egypt next week for Gaza talks",
+     "url": "https://www.axios.com/2026/08/13/kushner-israel-gaza-netanyahu",
+     "author": "Barak Ravid",
+     "kind": "news",
+     "published": "2026-08-13T21:44:47+00:00",
+     "summary": "Jared Kushner, President Trump's envoy and son-in-law, is planning to visit Israel next week for talks on the situation in Gaza , according to five sources with knowledge of the plan. Why it matters: This would be Kushner's first trip to Israel since January. It comes as the White House and Trump's Board of Peace are trying to push forward with the next phase of the Gaza plan, which focuses on disarming Hamas and a potential Israeli withdrawal. The Netanyahu government is highly skeptical of the U.S. Gaza plan, and the upcoming election in October is making the issue even more politically sensitive. \"We see eye-to-eye on the strategic goal, but Israel has expressed some doubts about the plan and we want to talk to them in order to make sure we are coordinated,\" a U.S. official said, while noting the exact dates of the trip could change. Driving the news: Trump announced two weeks ago that his Board of Peace had reached an agreement with Hamas to disarm and transfer civilian and security control of Gaza to a new Palestinian technocratic government. On Sunday, under pressure from his coalition partners and political opponents, Netanyahu publicly rejected the plan for disarming Hamas."
+    }
+   ]
+  },
+  {
    "id": "423655000c",
    "topic": "World",
    "summary": "Belgium is battling what has been described as the country's largest wildfire in modern history, forcing hundreds of villagers to evacuate near the German border. Firefighters, EU reinforcements and local farmers are working to contain the blaze as shifting winds and extreme heat complicate efforts.",
@@ -2183,7 +2643,7 @@
   {
    "id": "c1899cdbf5",
    "topic": "World",
-   "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capital Ukraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian authorities. Russia\u2019s defence ministry said it had shot down 822 drones, while the mayor of Moscow, Sergei Sobyanin, reported that 600 drones were flying towards the capital\u2019s region, of which 201 were destroyed. Continue reading...",
+   "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capital Ukraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian authorities. Russia\u2019s defence ministry said it had shot down 822 drones, while the mayor of Moscow, Sergei Sobyanin, reported that 600 drones were launched towards the capital\u2019s region, of which 201 were destroyed. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": null,
    "absent": [
@@ -2209,7 +2669,7 @@
      "author": "Dan Sabbagh in Kyiv",
      "kind": "news",
      "published": "2026-08-16T11:04:00+00:00",
-     "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capital Ukraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian authorities. Russia\u2019s defence ministry said it had shot down 822 drones, while the mayor of Moscow, Sergei Sobyanin, reported that 600 drones were flying towards the capital\u2019s region, of which 201 were destroyed. Continue reading..."
+     "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capital Ukraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian authorities. Russia\u2019s defence ministry said it had shot down 822 drones, while the mayor of Moscow, Sergei Sobyanin, reported that 600 drones were launched towards the capital\u2019s region, of which 201 were destroyed. Continue reading..."
     },
     {
      "outlet": "aljazeera",
@@ -2433,48 +2893,6 @@
    ]
   },
   {
-   "id": "c2999d0648",
-   "topic": "Health",
-   "summary": "A distressed Novak Djokovic has come clean about a health condition he has concealed after collapsing at the Cincinnati Open on Sunday.",
-   "summaryFrom": "nypost",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Cincinnati Open: Djokovic stunned by Tirante in second round",
-   "updated": "2026-08-16T09:03:05+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
-     "url": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T09:03:05+00:00",
-     "summary": "Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Open in his first match since Wimbledon."
-    },
-    {
-     "outlet": "nypost",
-     "title": "Distressed Novak Djokovic comes clean on health condition after collapsing at Cincinnati Open",
-     "url": "https://nypost.com/2026/08/16/sports/novak-djokovic-speaks-out-on-health-after-collapsing-at-cincinnati-open/",
-     "author": "News.com.au",
-     "kind": "news",
-     "published": "2026-08-16T05:48:12+00:00",
-     "summary": "A distressed Novak Djokovic has come clean about a health condition he has concealed after collapsing at the Cincinnati Open on Sunday."
-    }
-   ]
-  },
-  {
    "id": "da8db275da",
    "topic": "World",
    "summary": "Jeff Daniels as President Ronald Reagan \u2014Courtesy of Angel Studios The Reykjavik Summit \u2014when U.S. President Ronald Reagan and Soviet Union President Mikhail Gorbachev talked in person in 1986\u2014is not known as an iconic bit of American history. But the face-to-face conversation between the leaders, held over Oct. 11 and 12 in the Icelandic capital, proved to be an important step toward the end of the Cold War . The summit (or meeting, depending on who you ask) came after \u201can unexpected invitation from Gorbachev,\u201d says Pete Souza , the former Presidential photographer for Reagan. At the time the Reagan administration refused to call it a summit. \u201cBefore two leaders like that have a summit meeting, there's lots of prep work that goes into it,\u201d recalls Souza. \u201cBut this was very last minute. The Reagan administration went to great effort leading up to Reykjavik, to not call it a summit.\u2026",
@@ -2517,48 +2935,6 @@
    ]
   },
   {
-   "id": "a3a907530d",
-   "topic": "Other",
-   "summary": "Italian authorities have recovered three paintings by Renoir, C\u00e9zanne and Matisse, worth more than \u20ac9 million, months after they were stolen from a private museum near Parma. Five Moldovan suspects have been detained, with police saying the gang had carefully planned the heist and was equipped to disable the museum's security systems.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Italy recovers millions of euros worth of stolen Renoir, C\u00e9zanne and Matisse paintings",
-   "updated": "2026-08-16T08:56:50+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "Italy recovers millions of euros worth of stolen Renoir, C\u00e9zanne and Matisse paintings",
-     "url": "https://www.france24.com/en/video/20260816-italy-recovers-millions-of-euros-worth-of-stolen-renoir-c%C3%A9zanne-and-matisse-paintings",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T08:56:50+00:00",
-     "summary": "Italian authorities have recovered three paintings by Renoir, C\u00e9zanne and Matisse, worth more than \u20ac9 million, months after they were stolen from a private museum near Parma. Five Moldovan suspects have been detained, with police saying the gang had carefully planned the heist and was equipped to disable the museum's security systems."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Moment \u20ac9m worth of art stolen from Italy museum",
-     "url": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T14:56:04+00:00",
-     "summary": "Police released the CCTV footage after the art, which was stolen in March, was recovered."
-    }
-   ]
-  },
-  {
    "id": "8e10a1bbee",
    "topic": "Other",
    "summary": "American clocks 23.19sec to win final at Pan Pacs Douglass had first broken record with 23.49sec in heats Kate Douglass lowered her own world record in the women\u2019s 50m freestyle for the second time in one day, winning the Pan Pacific Championships final in 23.19sec. In the morning preliminaries, the 24-year-old American swam 23.49 to take the mark away from teammate Gretchen Walsh, who finished second in the evening final in 23.74. Australia\u2019s reigning world champion Meg Harris was third in 23.89. Continue reading...",
@@ -2597,48 +2973,6 @@
      "kind": "news",
      "published": "2026-08-16T03:08:35+00:00",
      "summary": "American clocks 23.19sec to win final at Pan Pacs Douglass had first broken record with 23.49sec in heats Kate Douglass lowered her own world record in the women\u2019s 50m freestyle for the second time in one day, winning the Pan Pacific Championships final in 23.19sec. In the morning preliminaries, the 24-year-old American swam 23.49 to take the mark away from teammate Gretchen Walsh, who finished second in the evening final in 23.74. Australia\u2019s reigning world champion Meg Harris was third in 23.89. Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "9c95eb7e49",
-   "topic": "Culture & Sport",
-   "summary": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 51 people Rescue crews dug through collapsed buildings and landslide debris in eastern Indonesia on Sunday as they searched for bodies and possible survivors a day after a powerful earthquake killed at least 51 people, injured more than 100 and displaced thousands. At least 24 people died in Manggarai regency and 17 in neighbouring East Manggarai, with additional fatalities reported in Sikka, Ngada and Ende regencies, the national disaster management agency said. Rescuers were still searching for people feared buried beneath landslides triggered by the quake across six regencies on Flores, a predominantly Catholic island in Muslim-majority Indonesia. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-   "updated": "2026-08-16T08:23:38+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-     "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T08:23:38+00:00",
-     "summary": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Rescue teams search for survivors in Indonesia after powerful earthquake",
-     "url": "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T03:57:34+00:00",
-     "summary": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 51 people Rescue crews dug through collapsed buildings and landslide debris in eastern Indonesia on Sunday as they searched for bodies and possible survivors a day after a powerful earthquake killed at least 51 people, injured more than 100 and displaced thousands. At least 24 people died in Manggarai regency and 17 in neighbouring East Manggarai, with additional fatalities reported in Sikka, Ngada and Ende regencies, the national disaster management agency said. Rescuers were still searching for people feared buried beneath landslides triggered by the quake across six regencies on Flores, a predominantly Catholic island in Muslim-majority Indonesia. Continue reading..."
     }
    ]
   },
@@ -2871,90 +3205,6 @@
    ]
   },
   {
-   "id": "cd0a84570b",
-   "topic": "Politics",
-   "summary": "Dr. Anthony Fauci on Friday declined a request to voluntarily appear before a second Senate panel, opening another front in Republicans\u2019 investigations into the former public health official\u2019s handling of the COVID-19 pandemic. An attorney for Fauci rejected the request from Sen. Ron Johnson , R-Wis., chairman of the Senate Permanent Subcommittee on Investigations, arguing that compelling Fauci to testify again after his contentious July 29 Senate hearing would \"impermissibly harass or degrade Dr. Fauci for political purposes.\" Johnson has been conducting a parallel investigation into Fauci and the federal government\u2019s response to COVID-19, including the safety and efficacy of COVID-19 vaccines. SEN RON JOHNSON TALKS FAUCI EMAILS, NEW SENATE FILIBUSTER STRATEGY ON 'RUTHLESS' The refusal comes after Republicans on the Senate Homeland Security and Governmental Affairs Committee voted\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Fauci refuses Senate appearance after invoking Fifth Amendment more than 100 times in COVID probe",
-   "updated": "2026-08-16T04:47:20+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Fauci refuses Senate appearance after invoking Fifth Amendment more than 100 times in COVID probe",
-     "url": "https://nypost.com/2026/08/16/us-news/fauci-refuses-senate-appearance-after-invoking-fifth-amendment-more-than-100-times-in-covid-probe/",
-     "author": "Fox News",
-     "kind": "news",
-     "published": "2026-08-16T04:47:20+00:00",
-     "summary": "Ron Johnson has been conducting a parallel investigation into Fauci and the federal government\u2019s response to COVID-19."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Fauci refuses Senate appearance after invoking Fifth Amendment more than 100 times in COVID probe",
-     "url": "https://www.foxnews.com/politics/fauci-refuses-senate-appearance-invoking-fifth-amendment-100-times-covid-probe",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T21:15:59+00:00",
-     "summary": "Dr. Anthony Fauci on Friday declined a request to voluntarily appear before a second Senate panel, opening another front in Republicans\u2019 investigations into the former public health official\u2019s handling of the COVID-19 pandemic. An attorney for Fauci rejected the request from Sen. Ron Johnson , R-Wis., chairman of the Senate Permanent Subcommittee on Investigations, arguing that compelling Fauci to testify again after his contentious July 29 Senate hearing would \"impermissibly harass or degrade Dr. Fauci for political purposes.\" Johnson has been conducting a parallel investigation into Fauci and the federal government\u2019s response to COVID-19, including the safety and efficacy of COVID-19 vaccines. SEN RON JOHNSON TALKS FAUCI EMAILS, NEW SENATE FILIBUSTER STRATEGY ON 'RUTHLESS' The refusal comes after Republicans on the Senate Homeland Security and Governmental Affairs Committee voted along party lines last week to hold Fauci in contempt of Congress after he invoked his Fifth Amendment right against self-incrimination more than 100 times during the July hearing. Committee chairman Rand Paul , R-Ky., has sought to send the contempt referral directly to the U.S. Attorney's Office in the"
-    }
-   ]
-  },
-  {
-   "id": "8c191ad31d",
-   "topic": "Other",
-   "summary": "Rams rookie quarterback Ty Simpson puts in a solid debut and avoids making any major mistakes in a 20-12 preseason win over the Kansas City Chiefs.",
-   "summaryFrom": "latimes",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Rams&#039; Ty Simpson Shines in Impressive Preseason Debut Against Chiefs",
-   "updated": "2026-08-16T01:00:02+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "Rams&#039; Ty Simpson Shines in Impressive Preseason Debut Against Chiefs",
-     "url": "https://www.newsweek.com/sports/nfl/rams-ty-simpson-shines-in-impressive-preseason-debut-against-chiefs-12328401",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T01:00:02+00:00",
-     "summary": "Rams quarterback Ty Simpson achieved one of the best rookie preseason debuts so far in his team&#039;s win over Kansas City."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Ty Simpson impresses in his Rams debut during preseason win over Chiefs",
-     "url": "https://www.latimes.com/sports/rams/story/2026-08-15/ty-simpson-sharp-performance-rams-chiefs-preseason",
-     "author": "Gary Klein",
-     "kind": "news",
-     "published": "2026-08-15T23:21:28+00:00",
-     "summary": "Rams rookie quarterback Ty Simpson puts in a solid debut and avoids making any major mistakes in a 20-12 preseason win over the Kansas City Chiefs."
-    }
-   ]
-  },
-  {
    "id": "80daf3a1d1",
    "topic": "Culture & Sport",
    "summary": "23-year-old hits home run on first pitch in majors B\u00e1ez drives in five during 8-4 victory over Cubs Rookie was called up from Triple-A earlier in day Joshua B\u00e1ez became the first player to hit three home runs in his first three at-bats in the major leagues, leading the St Louis Cardinals to an 8-4 victory over the Chicago Cubs on Saturday. The 23-year-old left fielder, called up from Triple-A Memphis earlier in the day, hit the first pitch he saw into the Wrigley Field bleachers, then homered in his next two at-bats. He also drove in five runs. Continue reading...",
@@ -3081,48 +3331,6 @@
    ]
   },
   {
-   "id": "6aee59fe7a",
-   "topic": "Health",
-   "summary": "It was ugly when Jaxson Dart got absolutely rocked so hard during Saturday's preseason game that he lay motionless on the field as team trainers and doctors rushed to his aid. The moment looked like a snapshot from the 2025 season, when the New York Giants' quarterback was hit over and over again. And, like a handful of times in 2025, this hit resulted in Dart being evaluated for a concussion out of concern for the player's safety. Dart had one confirmed concussion out of those five previous evaluations and missed two games as a result. ANTHONY RICHARDSON'S TURNOVERS IN PRESEASON OPENER RAISE MORE QUESTIONS ABOUT HIS COLTS FUTURE \"I never thought I was going to be taken out,\" Dart said after the game. \"I want to keep playing until they tell me I'm not playing. Like, I want to be out there.\" The Giants season flashed before everyone's eyes until Dart emerged from the blue medical tent on\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Jaxson Dart Gets Honest About Concussion Tests After Giants&#039; Preseason Loss",
-   "updated": "2026-08-15T23:56:26+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "Jaxson Dart Gets Honest About Concussion Tests After Giants&#039; Preseason Loss",
-     "url": "https://www.newsweek.com/sports/nfl/jaxson-dart-gets-honest-about-concussion-tests-after-giants-preseason-loss-12328331",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T23:56:26+00:00",
-     "summary": "Giants quarterback Jaxson Dart said he was &quot;puzzled&quot; by his medical tent visits after the team&#039;s preseason loss to Minnesota."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Jaxson Dart gets last laugh against blitzing Vikings coach Brian Flores and the ominous blue medical tent",
-     "url": "https://www.foxnews.com/outkick-sports/jaxson-dart-last-laugh-blitzing-vikings-coach-brian-flores-ominous-blue-medical-tent",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T23:12:47+00:00",
-     "summary": "It was ugly when Jaxson Dart got absolutely rocked so hard during Saturday's preseason game that he lay motionless on the field as team trainers and doctors rushed to his aid. The moment looked like a snapshot from the 2025 season, when the New York Giants' quarterback was hit over and over again. And, like a handful of times in 2025, this hit resulted in Dart being evaluated for a concussion out of concern for the player's safety. Dart had one confirmed concussion out of those five previous evaluations and missed two games as a result. ANTHONY RICHARDSON'S TURNOVERS IN PRESEASON OPENER RAISE MORE QUESTIONS ABOUT HIS COLTS FUTURE \"I never thought I was going to be taken out,\" Dart said after the game. \"I want to keep playing until they tell me I'm not playing. Like, I want to be out there.\" The Giants season flashed before everyone's eyes until Dart emerged from the blue medical tent on the sideline after the evaluation that cleared him to return. But the whole scene raises questions about what should and shouldn't be expected in any team's first preseason game. SUPREME COURT HANDS NFL A LOSS IN BRIAN FLORES DISCRIMINATION LAWSUIT, CLEARING PATH TO TRIAL So, some answers: Harbaugh "
-    }
-   ]
-  },
-  {
    "id": "c26019a127",
    "topic": "Other",
    "summary": "Former ABC News field producer Samira Said accused CBS News chief correspondent Matt Gutman of making sexualized remarks toward her while the two worked together at ABC, according to a wrongful-termination lawsuit filed Friday in Los Angeles. The post CBS Chief Correspondent Matt Gutman Accused of Harassment in ABC Producer Suit appeared first on Breitbart .",
@@ -3203,216 +3411,6 @@
      "kind": "news",
      "published": "2026-08-13T21:55:00+00:00",
      "summary": "The USS Abraham Lincoln deployed in the Arabian Sea on April 16, 2026. | US Navy via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: The cracks are starting to show in President Donald Trump\u2019s Iran campaign. What\u2019s happening? Conditions on a US warship deployed in the Middle East have grown so dire, multiple sailors have reportedly tried to go overboard (at least one did so but was rescued safely, according to CNN ).&nbsp; The attempts to jump overboard comes as family members of sailors are raising concerns with Democratic lawmakers about deteriorating mental health on the ship amid sanitation issues and shortages of food and basic supplies .&nbsp; The USS Abraham Lincoln aircraft carrier has been deployed for more than 250 days, starting last November, including a stretch of more than 200 days at sea \u2014 a modern record. Its deployment was supposed to end months ago, in May, but has continued as Trump\u2019s Iran war stretches on .&nbsp; How is the administration responding? Defense Secretary Pete Hegseth "
-    }
-   ]
-  },
-  {
-   "id": "81135d987c",
-   "topic": "Other",
-   "summary": "The new X-Men MCU cast on stage at D-23. | Image: Marvel Entertainment With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for its upcoming, untitled X-Men film, which is scheduled to hit theaters on May 5th of 2028. Though, seeing as that's quite far into the future, we wouldn't be surprised if that date shifted slightly before then. In addition to Sink, the film will star Kit Connor as Scott Summers (Cyclops), Christopher Abbott as Charles Xavier (Professor X), Samara Weaving as Emma Frost, Maya Boyd as Storm, and Inde Navarrette as Rogue. \u2026 Read the full story at The Verge.",
-   "summaryFrom": "theverge",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Marvel unveils 'X-Men' cast at D23, where Disney reveals its future leans on its past",
-   "updated": "2026-08-15T19:40:22+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "latimes",
-     "title": "Marvel unveils 'X-Men' cast at D23, where Disney reveals its future leans on its past",
-     "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-08-15/d23-marvel-x-men-star-wars-pixar-disney-showcase",
-     "author": "Tracy Brown",
-     "kind": "news",
-     "published": "2026-08-15T19:40:22+00:00",
-     "summary": "The biggest announcements and takeaways from Disney's D23 showcase on upcoming film and TV projects from Marvel, Star Wars, Pixar and more."
-    },
-    {
-     "outlet": "theverge",
-     "title": "Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver",
-     "url": "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast",
-     "author": "Terrence O\u2019Brien",
-     "kind": "news",
-     "published": "2026-08-15T14:03:14+00:00",
-     "summary": "The new X-Men MCU cast on stage at D-23. | Image: Marvel Entertainment With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for its upcoming, untitled X-Men film, which is scheduled to hit theaters on May 5th of 2028. Though, seeing as that's quite far into the future, we wouldn't be surprised if that date shifted slightly before then. In addition to Sink, the film will star Kit Connor as Scott Summers (Cyclops), Christopher Abbott as Charles Xavier (Professor X), Samara Weaving as Emma Frost, Maya Boyd as Storm, and Inde Navarrette as Rogue. \u2026 Read the full story at The Verge."
-    }
-   ]
-  },
-  {
-   "id": "c3feada74e",
-   "topic": "Tech",
-   "summary": "Jeff Daniels says The Brink of War, his new Cold War-era nail-biter, which tells an extraordinary true story, has themes that resonate today. The post Jeff Daniels Says His Film Portraying Reagan-Gorbachev Talks Will &#8216;Remind People What Statesmen Look Like&#8217; appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Jeff Daniels Says His Film Portraying Reagan-Gorbachev Talks Will 'Remind People What Statesmen Look Like'",
-   "updated": "2026-08-15T17:18:28+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "coop": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Jeff Daniels Says His Film Portraying Reagan-Gorbachev Talks Will 'Remind People What Statesmen Look Like'",
-     "url": "https://www.breitbart.com/entertainment/2026/08/15/jeff-daniels-says-his-film-portraying-reagan-gorbachev-talks-will-remind-people-what-statesmen-look-like/",
-     "author": "Breitbart News",
-     "kind": "news",
-     "published": "2026-08-15T17:18:28+00:00",
-     "summary": "Jeff Daniels says The Brink of War, his new Cold War-era nail-biter, which tells an extraordinary true story, has themes that resonate today. The post Jeff Daniels Says His Film Portraying Reagan-Gorbachev Talks Will &#8216;Remind People What Statesmen Look Like&#8217; appeared first on Breitbart ."
-    },
-    {
-     "outlet": "racket",
-     "title": "On the Big Screen This Week: Meta-Slasher Queerness, Dinosaurs in Suburbia, Jeff Daniels as Reagan",
-     "url": "https://racketmn.com/on-the-big-screen-this-week-meta-slasher-queerness-dinosaurs-in-suburbia-jeff-daniels-as-reagan",
-     "author": "Keith Harris",
-     "kind": "news",
-     "published": "2026-08-13T21:37:37+00:00",
-     "summary": "Pretty much all the movies you can catch in the Twin Cities this week."
-    }
-   ]
-  },
-  {
-   "id": "6c764dddeb",
-   "topic": "Climate & Energy",
-   "summary": "The Taliban seized power on Aug. 15, 2021, as the U.S. and other NATO troops withdrew following a costly two-decade war. The U.S. withdrawal led to chaos at Kabul airport as crowds of people tried to flee the country in desperation.",
-   "summaryFrom": "pbsnewshour",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "While Taliban leaders mark 5 years in power in Afghanistan, a UN official warns of a rights crisis",
-   "updated": "2026-08-15T17:09:42+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "pbsnewshour",
-     "title": "While Taliban leaders mark 5 years in power in Afghanistan, a UN official warns of a rights crisis",
-     "url": "https://www.pbs.org/newshour/world/while-taliban-leaders-mark-5-years-in-power-in-afghanistan-a-un-official-warns-of-a-rights-crisis",
-     "author": "Suzan Fraser, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T17:09:42+00:00",
-     "summary": "The Taliban seized power on Aug. 15, 2021, as the U.S. and other NATO troops withdrew following a costly two-decade war. The U.S. withdrawal led to chaos at Kabul airport as crowds of people tried to flee the country in desperation."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Five years after the Taliban swept to power, does the West have any influence?",
-     "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T17:00:14+00:00",
-     "summary": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left"
-    }
-   ]
-  },
-  {
-   "id": "5c6cb2e16c",
-   "topic": "Politics",
-   "summary": "President Donald Trump said Friday that far-left Democrats like Alexandria Ocasio-Cortez , D-N.Y., are now trying to distance themselves from some of the radical positions they once championed, noting he believes she may be after a 2028 bid for the White House. In an interview with Fox News correspondent Alexis McAdams, Trump was asked about Ocasio-Cortez's perceived shift away from her earlier calls to defund police departments and other soft-on-crime policies. \"If you really look at it, they're all saying the same thing,\" Trump said of progressive Democrats. \"They're all trying to disavow themselves from what they said about crime and, well, they're saying, \u2018We love sanctuary cities .\u2019\" When asked directly whether he thinks AOC is positioning herself for a presidential bid, Trump said he thinks AOC will run. The congresswoman has refused to rule out a run for president , but she\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Maher: Moderate Dems Afraid of Extreme Left",
-   "updated": "2026-08-15T15:45:38+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Maher: Moderate Dems Afraid of Extreme Left",
-     "url": "https://www.breitbart.com/clips/2026/08/15/maher-moderate-dems-afraid-of-extreme-left/",
-     "author": "Ian Hanchett",
-     "kind": "news",
-     "published": "2026-08-15T15:45:38+00:00",
-     "summary": "On Friday&#8217;s broadcast of HBO&#8217;s &#8220;Real Time,&#8221; host Bill Maher said that moderates in the Democratic Party are afraid of the extreme left and also dismissed attempts by members of the Democratic Party to justify the far left as just The post Maher: Moderate Dems Afraid of Extreme Left appeared first on Breitbart ."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Trump claims AOC may run for president as far-left Dems back away from extreme policy",
-     "url": "https://www.foxnews.com/politics/president-trump-claims-aoc-far-left-democrats-backing-away-controversial-positions",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T21:01:38+00:00",
-     "summary": "President Donald Trump said Friday that far-left Democrats like Alexandria Ocasio-Cortez , D-N.Y., are now trying to distance themselves from some of the radical positions they once championed, noting he believes she may be after a 2028 bid for the White House. In an interview with Fox News correspondent Alexis McAdams, Trump was asked about Ocasio-Cortez's perceived shift away from her earlier calls to defund police departments and other soft-on-crime policies. \"If you really look at it, they're all saying the same thing,\" Trump said of progressive Democrats. \"They're all trying to disavow themselves from what they said about crime and, well, they're saying, \u2018We love sanctuary cities .\u2019\" When asked directly whether he thinks AOC is positioning herself for a presidential bid, Trump said he thinks AOC will run. The congresswoman has refused to rule out a run for president , but she hasn't looked past November's midterm elections. ALEXANDRIA OCASIO-CORTEZ SHRUGS OFF PAST 'DEFUND THE POLICE' COMMENTS, JOKING 'WOKE 1 WAS CRAZY' During an interview with ABC's \"This Week\" on Sunday, the congresswoman attempted to dismiss the extreme rhetoric of the so-called \" Woke 1 \" era. The term is u"
-    }
-   ]
-  },
-  {
-   "id": "2783dfacff",
-   "topic": "Other",
-   "summary": "Rep. Rashida Tlaib , D-Mich., an outspoken critic of Israel, was set to headline a rally in South Florida boosting three progressive Democratic candidates before the Jewish-owned venue hosting the event backed out a day before. The Chomp the Oligarchy rally to support two U.S. House candidates and one Senate candidate was scheduled for Friday night at The Venue in Fort Lauderdale, just four days before Florida\u2019s primary election. State Rep. Michael Gottlieb, a Democrat , posted Thursday morning calling the event \"anti-Jew,\" while also accusing House candidates Elijah Manley and Oliver Larkin, along with state Rep. Angie Nixon, who is seeking the Democratic nomination for U.S. Senate, of being part of an \"Anti-Israel and Anti-Zionism coalition.\" Gottlieb then said Tlaib \"has by far the deepest record of antisemitic allegations and is being brought here to help these candidates raise\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Rashida Tlaib rally moved after Jewish-owned Florida venue cancels event, cites 'increased security concerns'",
-   "updated": "2026-08-15T15:40:25+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Rashida Tlaib rally moved after Jewish-owned Florida venue cancels event, cites 'increased security concerns'",
-     "url": "https://www.foxnews.com/politics/rashida-tlaib-rally-moved-jewish-owned-florida-venue-cancels-event-cites-increased-security-concerns",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T15:40:25+00:00",
-     "summary": "Rep. Rashida Tlaib , D-Mich., an outspoken critic of Israel, was set to headline a rally in South Florida boosting three progressive Democratic candidates before the Jewish-owned venue hosting the event backed out a day before. The Chomp the Oligarchy rally to support two U.S. House candidates and one Senate candidate was scheduled for Friday night at The Venue in Fort Lauderdale, just four days before Florida\u2019s primary election. State Rep. Michael Gottlieb, a Democrat , posted Thursday morning calling the event \"anti-Jew,\" while also accusing House candidates Elijah Manley and Oliver Larkin, along with state Rep. Angie Nixon, who is seeking the Democratic nomination for U.S. Senate, of being part of an \"Anti-Israel and Anti-Zionism coalition.\" Gottlieb then said Tlaib \"has by far the deepest record of antisemitic allegations and is being brought here to help these candidates raise funds for their campaigns.\" JEWISH CALIFORNIA CONGRESSIONAL CANDIDATE SAYS HARASSMENT FROM GAZA AGITATORS WENT \u2018BEYOND FREE SPEECH\u2019 After Gottlieb's post, The Venue posted a statement Thursday night indicating that the event was canceled, citing \"increased security concerns.\" The statement did not mentio"
-    },
-    {
-     "outlet": "nyt",
-     "title": "South Florida Venue Cancels Rally With a Pro-Palestinian Congresswoman",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/florida-senate-nixon-tlaib.html",
-     "author": "Tim Balk",
-     "kind": "news",
-     "published": "2026-08-14T23:34:55+00:00",
-     "summary": "Representative Rashida Tlaib, Democrat of Michigan, has drawn criticism, and a 2023 censure in Congress, for embracing a pro-Palestinian slogan that many Jews consider a call for the eradication of Israel."
     }
    ]
   }
