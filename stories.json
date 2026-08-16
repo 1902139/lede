@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T07:00:27.300804+00:00",
+ "generated": "2026-08-16T07:46:27.986382+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -15,17 +15,17 @@
     "big": [
      "released",
      "dismisses",
-     "diego-based",
+     "answers",
      "lawmakers",
-     "answers"
+     "diego-based"
     ],
     "indie": [
      "credit",
      "image",
-     "reported",
      "record-setting",
+     "reported",
      "even",
-     "faced"
+     "jumping"
     ]
    },
    "absent": [],
@@ -193,8 +193,8 @@
     ],
     "indie": [
      "buildings",
-     "search",
      "survivors",
+     "search",
      "thousands",
      "damaged",
      "quakes"
@@ -321,8 +321,8 @@
      "called",
      "delusions",
      "defeat",
-     "ship",
-     "through"
+     "through",
+     "waterway"
     ],
     "indie": [
      "become"
@@ -444,8 +444,8 @@
     "indie": [
      "admitted",
      "life",
-     "year-old",
      "pleading",
+     "year-old",
      "death"
     ]
    },
@@ -551,31 +551,40 @@
      "wounded",
      "arrested",
      "suspect",
-     "found",
      "left",
+     "found",
      "early"
     ],
     "indie": [
-     "large",
-     "responded"
+     "responded",
+     "large"
     ]
    },
    "absent": [
     "coop"
    ],
    "headline": "Multiple suspects at large after five shot at Virginia State University, police say",
-   "updated": "2026-08-16T04:37:35+00:00",
+   "updated": "2026-08-16T07:41:28+00:00",
    "outletCount": 7,
    "counts": {
-    "corp": 2,
-    "family": 3,
+    "corp": 3,
     "pub": 1,
+    "family": 2,
     "nonprofit": 1
    },
    "newsCount": 6,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "Who Is Camron Harris? Virginia State Shooting Suspect Identified",
+     "url": "https://www.newsweek.com/who-is-camron-harris-virginia-state-shooting-suspect-identified-12328485",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T07:41:28+00:00",
+     "summary": "A 19-year-old was arrested in connection to the shooting that left five people wounded. He is not a student at VSU."
+    },
     {
      "outlet": "abcnews",
      "title": "Va. State shooting: Suspect arrested, found hiding in dorm closet, police say",
@@ -584,15 +593,6 @@
      "kind": "news",
      "published": "2026-08-16T04:37:35+00:00",
      "summary": "A suspect in the shooting at Virginia State University early Saturday that left five people wounded, including one critically, has been arrested, according to police."
-    },
-    {
-     "outlet": "nypost",
-     "title": "Virginia State University mass shooting suspect caught after police manhunt for perp in campus bloodbath",
-     "url": "https://nypost.com/2026/08/15/us-news/virginia-state-university-mass-shooting-suspect-caught-after-police-manhunt-for-perp-in-campus-bloodbath/",
-     "author": "Daniel Cody",
-     "kind": "news",
-     "published": "2026-08-16T02:18:47+00:00",
-     "summary": "A teen has been arrested in connection with the shooting that rocked Virginia State University Saturday morning and left five people wounded, one in critical condition"
     },
     {
      "outlet": "cbsnews",
@@ -653,9 +653,9 @@
      "national",
      "approve",
      "party",
+     "hold",
      "democratic",
-     "committee",
-     "hold"
+     "committee"
     ],
     "indie": [
      "spot"
@@ -837,6 +837,160 @@
    ]
   },
   {
+   "id": "a085ed5c4d",
+   "topic": "Climate & Energy",
+   "summary": "National Weather Service reports that more than 11in of rain fell over a two-day period in some areas At least five people are dead after devastating floods that swept through Indiana this week, officials said, as storms continued to batter the state on Saturday and first responders used boats to rescue more people from rising waters in neighborhoods along the White River in Indianapolis. The mayor of Indianapolis, Joe Hogsett, and other state officials implored residents in areas at risk of flooding to heed any evacuation warnings at a news conference. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 3,
+    "big": [],
+    "indie": [
+     "weather"
+    ]
+   },
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "At least five people dead in Indiana amid worst flooding in over 30 years, officials say",
+   "updated": "2026-08-16T07:44:46+00:00",
+   "outletCount": 5,
+   "counts": {
+    "family": 2,
+    "nonprofit": 2,
+    "pub": 1
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "At least 5 people in Indiana have died as severe storms, flooding cross state",
+     "url": "https://nypost.com/2026/08/16/us-news/indiana-authorities-say-at-least-5-people-have-died-as-severe-weather-crosses-the-state/",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T07:44:46+00:00",
+     "summary": "The state has been hammered over the past week by heavy rains, resulting in rivers reaching record levels."
+    },
+    {
+     "outlet": "guardian",
+     "title": "At least five people dead in Indiana amid worst flooding in over 30 years, officials say",
+     "url": "https://www.theguardian.com/us-news/2026/aug/15/indiana-flooding-deaths",
+     "author": "Uwa Ede-Osifo and agencies",
+     "kind": "news",
+     "published": "2026-08-15T23:56:33+00:00",
+     "summary": "National Weather Service reports that more than 11in of rain fell over a two-day period in some areas At least five people are dead after devastating floods that swept through Indiana this week, officials said, as storms continued to batter the state on Saturday and first responders used boats to rescue more people from rising waters in neighborhoods along the White River in Indianapolis. The mayor of Indianapolis, Joe Hogsett, and other state officials implored residents in areas at risk of flooding to heed any evacuation warnings at a news conference. Continue reading..."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "At least five reported dead amid flooding in US state of Indiana",
+     "url": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T23:19:34+00:00",
+     "summary": "Indiana&#039;s state governor says that US government has promised assistance after a week of heavy rainfall."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Indiana authorities say at least 5 people have died as severe weather crosses the state",
+     "url": "https://www.pbs.org/newshour/nation/indiana-authorities-say-at-least-5-people-have-died-in-flooding-across-the-state",
+     "author": "Susan Montoya Bryan, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T20:39:01+00:00",
+     "summary": "The state has been hammered over the past week by heavy rains, resulting in rivers reaching record levels and sending residents in search of higher ground."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Five People Dead in String of Shootings in Michigan",
+     "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/five-people-dead-in-string-of-shootings-in-michigan/",
+     "author": "AWR Hawkins",
+     "kind": "news",
+     "published": "2026-08-15T15:20:36+00:00",
+     "summary": "Five people were killed Friday in a string of shootings that took place Friday at two different residences and a wooded area in Missaukee County, Michigan. The post Five People Dead in String of Shootings in Michigan appeared first on Breitbart ."
+    }
+   ]
+  },
+  {
+   "id": "5178d4fdc8",
+   "topic": "World",
+   "summary": "Tehran said the three pilots \"were captured alive\" by Qatari forces after their fighter jets were shot down in the early days of the US-Israel war with Iran. Qatar has denied Iran's claims.",
+   "summaryFrom": "dw",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 3,
+    "big": [],
+    "indie": [
+     "claims",
+     "holding",
+     "tehran"
+    ]
+   },
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Iran war: Qatar denies holding missing Iranian fighter pilots",
+   "updated": "2026-08-16T07:34:03+00:00",
+   "outletCount": 5,
+   "counts": {
+    "corp": 1,
+    "pub": 3,
+    "family": 1
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "abcnews",
+     "title": "Iran live updates: Qatar denies capture of 3 Iranian military pilots",
+     "url": "https://abcnews.com/International/live-updates/iran-live-updates-negotiations-us-messages-exchanged-tehran/?id=135508900",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T07:34:03+00:00",
+     "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes."
+    },
+    {
+     "outlet": "dw",
+     "title": "Iran war: Qatar denies holding missing Iranian fighter pilots",
+     "url": "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T01:38:00+00:00",
+     "summary": "Tehran said the three pilots \"were captured alive\" by Qatari forces after their fighter jets were shot down in the early days of the US-Israel war with Iran. Qatar has denied Iran's claims."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+     "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T21:03:57+00:00",
+     "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Qatar denies Tehran\u2019s claim it is detaining Iranian bomber pilots",
+     "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T20:55:29+00:00",
+     "summary": "Iran claims Qatar is holding three pilots who were shot down in March. Doha decries &#039;misleading statements&#039;."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
+     "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
+     "author": "Yeganeh Torbati and Leily Nikounazar",
+     "kind": "news",
+     "published": "2026-08-15T19:36:20+00:00",
+     "summary": "Iran said the airmen have been held since March 2 when their fighter jets were shot down. The Qatari government denies detaining any Iranian pilots."
+    }
+   ]
+  },
+  {
    "id": "4922345dbb",
    "topic": "Health",
    "summary": "The Ebola outbreak in the Democratic Republic of Congo spread to a sixth province as the overall death toll surpassed 2,100 and cases topped 4,500. Experts say the virus may have been transmitted undetected for months, while health workers have struggled to contain the outbreak with poor medical supplies and no approved vaccine for the new strain \u2014 though several are in the works. The head of the World Health Organization this week warned that the current outbreak threatens to be the biggest ever, with authorities playing catch-up to the disease after \u201c a big head start. \u201d During the previous deadliest outbreak, which killed 11,000 people between 2014 and 2016, authorities had recorded 755 cases at the same point . \u2014 Jeronimo Gonzalez",
@@ -983,14 +1137,14 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "blames",
-     "ex-cambridge"
+     "ex-cambridge",
+     "blames"
     ],
     "indie": [
      "london",
-     "cambridge's",
+     "became",
      "accused",
-     "became"
+     "cambridge's"
     ]
    },
    "absent": [
@@ -1065,16 +1219,16 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "president",
      "donald",
      "images",
+     "president",
      "appeared",
-     "jobs",
-     "marco"
+     "photo",
+     "official"
     ],
     "indie": [
-     "wall",
-     "work"
+     "work",
+     "wall"
     ]
    },
    "absent": [
@@ -1279,66 +1433,6 @@
    ]
   },
   {
-   "id": "5178d4fdc8",
-   "topic": "World",
-   "summary": "Tehran said the three pilots \"were captured alive\" by Qatari forces after their fighter jets were shot down in the early days of the US-Israel war with Iran. Qatar has denied Iran's claims.",
-   "summaryFrom": "dw",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Iran war: Qatar denies holding missing Iranian fighter pilots",
-   "updated": "2026-08-16T01:38:00+00:00",
-   "outletCount": 4,
-   "counts": {
-    "pub": 3,
-    "family": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Iran war: Qatar denies holding missing Iranian fighter pilots",
-     "url": "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T01:38:00+00:00",
-     "summary": "Tehran said the three pilots \"were captured alive\" by Qatari forces after their fighter jets were shot down in the early days of the US-Israel war with Iran. Qatar has denied Iran's claims."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-     "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T21:03:57+00:00",
-     "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Qatar denies Tehran\u2019s claim it is detaining Iranian bomber pilots",
-     "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T20:55:29+00:00",
-     "summary": "Iran claims Qatar is holding three pilots who were shot down in March. Doha decries &#039;misleading statements&#039;."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
-     "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
-     "author": "Yeganeh Torbati and Leily Nikounazar",
-     "kind": "news",
-     "published": "2026-08-15T19:36:20+00:00",
-     "summary": "Iran said the airmen have been held since March 2 when their fighter jets were shot down. The Qatari government denies detaining any Iranian pilots."
-    }
-   ]
-  },
-  {
    "id": "80daf3a1d1",
    "topic": "Justice & Policing",
    "summary": "St. Louis Cardinals rookie Joshua B\u00e1ez\u2019s first career game in the big leagues was something out of a movie. B\u00e1ez made Major League Baseball history by hitting a home run in each of his first three plate appearances in the Cardinals' game against the Chicago Cubs Saturday afternoon at Wrigley Field. The 23-year-old wasted no time in his first-ever at-bat, blasting the first pitch he saw in his major league career 450 feet to dead center field for a two-run homer to give the Cardinals a 3-0 lead. B\u00e1ez pummeled Cubs starter Matt Boyd\u2019s 93-mph fastball and sent the Cardinals\u2019 dugout into a frenzy. The rookie rounded the bases with a smile on his face the whole time. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM His second home run of the day came in the fourth inning, once again off Boyd. B\u00e1ez worked the count full, then hammered Boyd's 78-mph changeup 382 feet into the left-field\u2026",
@@ -1347,8 +1441,8 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "made",
-     "league"
+     "league",
+     "made"
     ],
     "indie": []
    },
@@ -1412,66 +1506,6 @@
      "kind": "opinion",
      "published": "2026-08-14T19:11:42+00:00",
      "summary": "A Virginia man's anti-police license plate is at the center of what could be a landmark First Amendment case, following a federal appeals court ruling in his favor last month. Virginia motorist Curtis M. Whateley says he has a free speech right to keep his customized license plate, which reads \"FTP&amp;ATF,\" an abbreviation that foul-mouthed puzzle-solvers will decipher as \"Fuck the police and the Bureau of Alcohol, Tobacco, and Firearms.\" The State of Virginia argues that it has the right to revoke Whateley's plate because license plates are government-owned, not a public soapbox. The state says it's going to take its case to the Supreme Court. The case highlights a niche, often amusing, but still consequential issue in First Amendment law: whether a vanity license plate is private or government speech. The U.S. Supreme Court ruled in 2015 that Texas could deny a group's application for a specialty license plate design showing the Confederate flag. Most U.S. district courts and state courts interpreting the decision have held that, while government-run vanity plate programs are a nonpublic forum, the specific character combination of the plate is private speech, which restricts th"
-    }
-   ]
-  },
-  {
-   "id": "a085ed5c4d",
-   "topic": "Other",
-   "summary": "National Weather Service reports that more than 11in of rain fell over a two-day period in some areas At least five people are dead after devastating floods that swept through Indiana this week, officials said, as storms continued to batter the state on Saturday and first responders used boats to rescue more people from rising waters in neighborhoods along the White River in Indianapolis. The mayor of Indianapolis, Joe Hogsett, and other state officials implored residents in areas at risk of flooding to heed any evacuation warnings at a news conference. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "At least five people dead in Indiana amid worst flooding in over 30 years, officials say",
-   "updated": "2026-08-15T23:56:33+00:00",
-   "outletCount": 4,
-   "counts": {
-    "nonprofit": 2,
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "At least five people dead in Indiana amid worst flooding in over 30 years, officials say",
-     "url": "https://www.theguardian.com/us-news/2026/aug/15/indiana-flooding-deaths",
-     "author": "Uwa Ede-Osifo and agencies",
-     "kind": "news",
-     "published": "2026-08-15T23:56:33+00:00",
-     "summary": "National Weather Service reports that more than 11in of rain fell over a two-day period in some areas At least five people are dead after devastating floods that swept through Indiana this week, officials said, as storms continued to batter the state on Saturday and first responders used boats to rescue more people from rising waters in neighborhoods along the White River in Indianapolis. The mayor of Indianapolis, Joe Hogsett, and other state officials implored residents in areas at risk of flooding to heed any evacuation warnings at a news conference. Continue reading..."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "At least five reported dead amid flooding in US state of Indiana",
-     "url": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T23:19:34+00:00",
-     "summary": "Indiana&#039;s state governor says that US government has promised assistance after a week of heavy rainfall."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Indiana authorities say at least 5 people have died as severe weather crosses the state",
-     "url": "https://www.pbs.org/newshour/nation/indiana-authorities-say-at-least-5-people-have-died-in-flooding-across-the-state",
-     "author": "Susan Montoya Bryan, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T20:39:01+00:00",
-     "summary": "The state has been hammered over the past week by heavy rains, resulting in rivers reaching record levels and sending residents in search of higher ground."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Five People Dead in String of Shootings in Michigan",
-     "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/five-people-dead-in-string-of-shootings-in-michigan/",
-     "author": "AWR Hawkins",
-     "kind": "news",
-     "published": "2026-08-15T15:20:36+00:00",
-     "summary": "Five people were killed Friday in a string of shootings that took place Friday at two different residences and a wooded area in Missaukee County, Michigan. The post Five People Dead in String of Shootings in Michigan appeared first on Breitbart ."
     }
    ]
   },
@@ -1612,11 +1646,11 @@
     "indieCount": 3,
     "big": [
      "stations",
-     "international",
      "foot-washing",
-     "worth",
      "airport",
-     "fort"
+     "international",
+     "worth",
+     "scrapped"
     ],
     "indie": [
      "order"
@@ -1763,8 +1797,8 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "trump",
-     "donald"
+     "donald",
+     "trump"
     ],
     "indie": []
    },
@@ -1831,10 +1865,10 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "pronounced",
      "called",
-     "statement",
-     "police"
+     "police",
+     "pronounced",
+     "statement"
     ],
     "indie": []
    },
@@ -2051,57 +2085,6 @@
      "kind": "news",
      "published": "2026-08-16T04:33:06+00:00",
      "summary": "Hawaiian Electric warned customers to expect \u201cpossible extended outages, potentially overnight,\u201d as the storm system made its way westward across Hawaii."
-    }
-   ]
-  },
-  {
-   "id": "72ac0c588d",
-   "topic": "Business & Economy",
-   "summary": "Firefighters in Belgium battled one of the country's worst-ever wildfires late on Saturday as a rapidly growing blaze scorched more than 2,700 hectares of land. The EU scrambled helicopters and water bombers as hundreds of villagers were under evacuation orders.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "EU sends aircraft and villagers evacuate as Belgium battles record wildfire",
-   "updated": "2026-08-16T06:03:53+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 3
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "EU sends aircraft and villagers evacuate as Belgium battles record wildfire",
-     "url": "https://www.france24.com/en/europe/20260816-eu-sends-aircraft-and-villagers-evacuate-as-belgium-battles-record-wildfire",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-16T06:03:53+00:00",
-     "summary": "Firefighters in Belgium battled one of the country's worst-ever wildfires late on Saturday as a rapidly growing blaze scorched more than 2,700 hectares of land. The EU scrambled helicopters and water bombers as hundreds of villagers were under evacuation orders."
-    },
-    {
-     "outlet": "dw",
-     "title": "Belgium: Hundreds evacuated as firefighters battle largest wildfire on record",
-     "url": "https://www.dw.com/en/belgium-hundreds-evacuated-as-firefighters-battle-largest-wildfire-on-record/a-78386242?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T02:49:00+00:00",
-     "summary": "A rapidly spreading wildfire in the High Fens nature reserve near Belgium's border with Germany has scorched around 2,700 hectares and forced hundreds of people to evacuate."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
-     "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T17:47:42+00:00",
-     "summary": "The fire burning through the major park was described as the country's worst in recent years."
     }
    ]
   },
@@ -2565,6 +2548,150 @@
    ]
   },
   {
+   "id": "0587919798",
+   "topic": "Other",
+   "summary": "The bus ran into a ditch and tipped over early on Sunday \u200bnear the town of Mezokeresztes in eastern Hungary, police said.",
+   "summaryFrom": "nypost",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Twelve killed as Polish bus veers off Hungarian motorway",
+   "updated": "2026-08-16T07:39:18+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "12 killed and at least 10 injured in Polish bus crash in Hungary",
+     "url": "https://nypost.com/2026/08/16/world-news/polish-bus-crash-leaves-12-dead-at-least-10-injured-in-hungary/",
+     "author": "Reuters",
+     "kind": "news",
+     "published": "2026-08-16T07:39:18+00:00",
+     "summary": "The bus ran into a ditch and tipped over early on Sunday \u200bnear the town of Mezokeresztes in eastern Hungary, police said."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+     "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T07:04:17+00:00",
+     "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning."
+    }
+   ]
+  },
+  {
+   "id": "2046d4a5f4",
+   "topic": "Other",
+   "summary": "Islam Makhachev set the UFC record with his 17th straight win, reaching the milestone with a unanimous decision over Ian Machado Garry at UFC 330.",
+   "summaryFrom": "nypost",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "UFC 330: Makhachev secures record-setting win against Machado Garry",
+   "updated": "2026-08-16T07:04:29+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "UFC 330: Makhachev secures record-setting win against Machado Garry",
+     "url": "https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T07:04:29+00:00",
+     "summary": "Islam Makhachev records 17th UFC victory in a row in his welterweight title defeat of Ian Machado Garry."
+    },
+    {
+     "outlet": "nypost",
+     "title": "Islam Makhachev beats Ian Machado Garry at UFC 330 to set record with 17th consecutive win",
+     "url": "https://nypost.com/2026/08/16/sports/islam-makhachev-beats-ian-machado-garry-at-ufc-330/",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T05:50:33+00:00",
+     "summary": "Islam Makhachev set the UFC record with his 17th straight win, reaching the milestone with a unanimous decision over Ian Machado Garry at UFC 330."
+    }
+   ]
+  },
+  {
+   "id": "8141e7db79",
+   "topic": "Other",
+   "summary": "As we do every Friday, we're turning Racket over to you, the readers.",
+   "summaryFrom": "racket",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "pub"
+   ],
+   "headline": "Open Thread",
+   "updated": "2026-08-16T07:00:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 3,
+    "coop": 1
+   },
+   "newsCount": 0,
+   "opinionCount": 4,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "reason",
+     "title": "Open Thread",
+     "url": "https://reason.com/volokh/2026/08/16/open-thread-298/",
+     "author": "Eugene Volokh",
+     "kind": "opinion",
+     "published": "2026-08-16T07:00:00+00:00",
+     "summary": "The post Open Thread appeared first on Reason.com ."
+    },
+    {
+     "outlet": "reason",
+     "title": "Open Thread",
+     "url": "https://reason.com/volokh/2026/08/15/open-thread-297/",
+     "author": "Eugene Volokh",
+     "kind": "opinion",
+     "published": "2026-08-15T07:00:00+00:00",
+     "summary": "The post Open Thread appeared first on Reason.com ."
+    },
+    {
+     "outlet": "racket",
+     "title": "Time for a \u2018What Are You Listening to?\u2019 Open Thread",
+     "url": "https://racketmn.com/time-for-a-what-are-you-listening-to-open-thread",
+     "author": "Keith Harris",
+     "kind": "opinion",
+     "published": "2026-08-14T17:18:09+00:00",
+     "summary": "As we do every Friday, we're turning Racket over to you, the readers."
+    },
+    {
+     "outlet": "reason",
+     "title": "Open Thread",
+     "url": "https://reason.com/volokh/2026/08/14/open-thread-296/",
+     "author": "Eugene Volokh",
+     "kind": "opinion",
+     "published": "2026-08-14T07:00:00+00:00",
+     "summary": "The post Open Thread appeared first on Reason.com ."
+    }
+   ]
+  },
+  {
    "id": "9f176bc1b1",
    "topic": "World",
    "summary": "The USS George Washington is departing the Pacific and expected to replace the USS Abraham Lincoln in the Middle East amid growing concerns about mental health and supply issues aboard the long-deployed carrier.",
@@ -2607,44 +2734,44 @@
    ]
   },
   {
-   "id": "ea5b44fe4b",
+   "id": "72ac0c588d",
    "topic": "World",
-   "summary": "Romania&#039;s Defence Ministry didn&#039;t specify origin of the drone but has previously blamed Russia for similar incidents.",
-   "summaryFrom": "aljazeera",
+   "summary": "Firefighters in Belgium battled one of the country's worst-ever wildfires late on Saturday as a rapidly growing blaze scorched more than 2,700 hectares of land. The EU scrambled helicopters and water bombers as hundreds of villagers were under evacuation orders.",
+   "summaryFrom": "france24",
    "emphasis": null,
    "absent": [
+    "corp",
     "family",
     "coop",
     "nonprofit"
    ],
-   "headline": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
-   "updated": "2026-08-16T06:23:43+00:00",
+   "headline": "EU sends aircraft and villagers evacuate as Belgium battles record wildfire",
+   "updated": "2026-08-16T06:03:53+00:00",
    "outletCount": 2,
    "counts": {
-    "corp": 1,
-    "pub": 1
+    "pub": 2
    },
    "newsCount": 2,
    "opinionCount": 0,
-   "underreported": false,
+   "underreported": true,
    "articles": [
     {
-     "outlet": "cbsnews",
-     "title": "NATO fighter jet shoots down drone in Romania near border with Ukraine",
-     "url": "https://www.cbsnews.com/news/nato-fighter-jet-shoots-down-drone-romania-ukraine/",
-     "author": null,
+     "outlet": "france24",
+     "title": "EU sends aircraft and villagers evacuate as Belgium battles record wildfire",
+     "url": "https://www.france24.com/en/europe/20260816-eu-sends-aircraft-and-villagers-evacuate-as-belgium-battles-record-wildfire",
+     "author": "FRANCE 24",
      "kind": "news",
-     "published": "2026-08-16T06:23:43+00:00",
-     "summary": "It is the latest in a series of similar incidents involving drone incursions into NATO airspace from Ukraine"
+     "published": "2026-08-16T06:03:53+00:00",
+     "summary": "Firefighters in Belgium battled one of the country's worst-ever wildfires late on Saturday as a rapidly growing blaze scorched more than 2,700 hectares of land. The EU scrambled helicopters and water bombers as hundreds of villagers were under evacuation orders."
     },
     {
-     "outlet": "aljazeera",
-     "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
-     "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+     "outlet": "dw",
+     "title": "Belgium battles record wildfire at German border",
+     "url": "https://www.dw.com/en/belgium-battles-record-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-rdf",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T04:54:33+00:00",
-     "summary": "Romania&#039;s Defence Ministry didn&#039;t specify origin of the drone but has previously blamed Russia for similar incidents."
+     "published": "2026-08-16T02:49:00+00:00",
+     "summary": "A rapidly spreading wildfire in the High Fens nature reserve near Belgium's border with Germany has scorched around 2,700 hectares. The German town of Monschau has also warned residents of possible evacuation orders."
     }
    ]
   },
@@ -3306,7 +3433,7 @@
    ]
   },
   {
-   "id": "4c53a5ae6a",
+   "id": "5882e361d1",
    "topic": "Other",
    "summary": "U.S. Attorney\u2019s Office An 18-year-old California man has admitted to repeatedly kicking a sea lion in a horrific viral video. Tyler Muehl pleaded guilty to a federal charge of violating the Marine Mammal Protection Act, which carries a sentence of up to a year in federal prison and up to $100,000 in fines. He violated the act when he brazenly kicked a sea lion as it sat peacefully at San Diego\u2019s La Jolla Cove on the night of July 22. In the video, Muehl refers to himself as UFC featherweight champion Max Holloway. It shows him kicking the sea lion twice, then pursuing it as it tried to escape, all while his friends laugh in the background. As the sea lion fled, the video shows Muehl kicking the mammal a third and fourth time before it managed to escape. Muehl admitted in court that the chilling video was \u201ca fair and accurate recording of what occurred.\u201d He will be sentenced on October\u2026",
    "summaryFrom": "dailybeast",
@@ -3316,7 +3443,7 @@
     "coop",
     "pub"
    ],
-   "headline": "Teenager pleas guilty to attacking California sea lion in viral video",
+   "headline": "Teenager pleads guilty to attacking California sea lion in viral video",
    "updated": "2026-08-15T19:48:03+00:00",
    "outletCount": 2,
    "counts": {
@@ -3338,7 +3465,7 @@
     },
     {
      "outlet": "guardian",
-     "title": "Teenager pleas guilty to attacking California sea lion in viral video",
+     "title": "Teenager pleads guilty to attacking California sea lion in viral video",
      "url": "https://www.theguardian.com/us-news/2026/aug/15/teen-pleas-guilty-california-sea-lion-attack",
      "author": "Ramon Antonio Vargas",
      "kind": "news",
@@ -3428,48 +3555,6 @@
      "kind": "news",
      "published": "2026-08-15T14:03:14+00:00",
      "summary": "The new X-Men MCU cast on stage at D-23. | Image: Marvel Entertainment With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for its upcoming, untitled X-Men film, which is scheduled to hit theaters on May 5th of 2028. Though, seeing as that's quite far into the future, we wouldn't be surprised if that date shifted slightly before then. In addition to Sink, the film will star Kit Connor as Scott Summers (Cyclops), Christopher Abbott as Charles Xavier (Professor X), Samara Weaving as Emma Frost, Maya Boyd as Storm, and Inde Navarrette as Rogue. \u2026 Read the full story at The Verge."
-    }
-   ]
-  },
-  {
-   "id": "1b3f1eeb23",
-   "topic": "Other",
-   "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
-   "updated": "2026-08-15T19:39:07+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
-     "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
-     "author": "Nadeem Badshah",
-     "kind": "news",
-     "published": "2026-08-15T19:39:07+00:00",
-     "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading..."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Death toll from Zimbabwe ferry disaster rises to 72",
-     "url": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T19:10:06+00:00",
-     "summary": "Police say 26 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday."
     }
    ]
   },
@@ -3596,48 +3681,6 @@
      "kind": "news",
      "published": "2026-08-14T21:01:38+00:00",
      "summary": "President Donald Trump said Friday that far-left Democrats like Alexandria Ocasio-Cortez , D-N.Y., are now trying to distance themselves from some of the radical positions they once championed, noting he believes she may be after a 2028 bid for the White House. In an interview with Fox News correspondent Alexis McAdams, Trump was asked about Ocasio-Cortez's perceived shift away from her earlier calls to defund police departments and other soft-on-crime policies. \"If you really look at it, they're all saying the same thing,\" Trump said of progressive Democrats. \"They're all trying to disavow themselves from what they said about crime and, well, they're saying, \u2018We love sanctuary cities .\u2019\" When asked directly whether he thinks AOC is positioning herself for a presidential bid, Trump said he thinks AOC will run. The congresswoman has refused to rule out a run for president , but she hasn't looked past November's midterm elections. ALEXANDRIA OCASIO-CORTEZ SHRUGS OFF PAST 'DEFUND THE POLICE' COMMENTS, JOKING 'WOKE 1 WAS CRAZY' During an interview with ABC's \"This Week\" on Sunday, the congresswoman attempted to dismiss the extreme rhetoric of the so-called \" Woke 1 \" era. The term is u"
-    }
-   ]
-  },
-  {
-   "id": "2783dfacff",
-   "topic": "Other",
-   "summary": "Rep. Rashida Tlaib , D-Mich., an outspoken critic of Israel, was set to headline a rally in South Florida boosting three progressive Democratic candidates before the Jewish-owned venue hosting the event backed out a day before. The Chomp the Oligarchy rally to support two U.S. House candidates and one Senate candidate was scheduled for Friday night at The Venue in Fort Lauderdale, just four days before Florida\u2019s primary election. State Rep. Michael Gottlieb, a Democrat , posted Thursday morning calling the event \"anti-Jew,\" while also accusing House candidates Elijah Manley and Oliver Larkin, along with state Rep. Angie Nixon, who is seeking the Democratic nomination for U.S. Senate, of being part of an \"Anti-Israel and Anti-Zionism coalition.\" Gottlieb then said Tlaib \"has by far the deepest record of antisemitic allegations and is being brought here to help these candidates raise\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Rashida Tlaib rally moved after Jewish-owned Florida venue cancels event, cites 'increased security concerns'",
-   "updated": "2026-08-15T15:40:25+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Rashida Tlaib rally moved after Jewish-owned Florida venue cancels event, cites 'increased security concerns'",
-     "url": "https://www.foxnews.com/politics/rashida-tlaib-rally-moved-jewish-owned-florida-venue-cancels-event-cites-increased-security-concerns",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T15:40:25+00:00",
-     "summary": "Rep. Rashida Tlaib , D-Mich., an outspoken critic of Israel, was set to headline a rally in South Florida boosting three progressive Democratic candidates before the Jewish-owned venue hosting the event backed out a day before. The Chomp the Oligarchy rally to support two U.S. House candidates and one Senate candidate was scheduled for Friday night at The Venue in Fort Lauderdale, just four days before Florida\u2019s primary election. State Rep. Michael Gottlieb, a Democrat , posted Thursday morning calling the event \"anti-Jew,\" while also accusing House candidates Elijah Manley and Oliver Larkin, along with state Rep. Angie Nixon, who is seeking the Democratic nomination for U.S. Senate, of being part of an \"Anti-Israel and Anti-Zionism coalition.\" Gottlieb then said Tlaib \"has by far the deepest record of antisemitic allegations and is being brought here to help these candidates raise funds for their campaigns.\" JEWISH CALIFORNIA CONGRESSIONAL CANDIDATE SAYS HARASSMENT FROM GAZA AGITATORS WENT \u2018BEYOND FREE SPEECH\u2019 After Gottlieb's post, The Venue posted a statement Thursday night indicating that the event was canceled, citing \"increased security concerns.\" The statement did not mentio"
-    },
-    {
-     "outlet": "nyt",
-     "title": "South Florida Venue Cancels Rally With a Pro-Palestinian Congresswoman",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/florida-senate-nixon-tlaib.html",
-     "author": "Tim Balk",
-     "kind": "news",
-     "published": "2026-08-14T23:34:55+00:00",
-     "summary": "Representative Rashida Tlaib, Democrat of Michigan, has drawn criticism, and a 2023 censure in Congress, for embracing a pro-Palestinian slogan that many Jews consider a call for the eradication of Israel."
     }
    ]
   }
