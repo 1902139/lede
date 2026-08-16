@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T03:14:33.260997+00:00",
+ "generated": "2026-08-16T04:02:14.001573+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -14,11 +14,11 @@
     "indieCount": 3,
     "big": [
      "carrier",
-     "east",
      "middle",
      "released",
-     "diego-based",
-     "food"
+     "east",
+     "lawmakers",
+     "diego-based"
     ],
     "indie": []
    },
@@ -139,11 +139,11 @@
     "bigCount": 6,
     "indieCount": 2,
     "big": [
+     "hold",
      "democratic",
      "hampshire",
-     "hold",
-     "national",
      "approve",
+     "national",
      "party"
     ],
     "indie": [
@@ -250,11 +250,11 @@
     "indieCount": 2,
     "big": [
      "wounded",
-     "suspect",
      "arrested",
-     "found",
+     "suspect",
      "left",
-     "early"
+     "early",
+     "found"
     ],
     "indie": [
      "large",
@@ -265,7 +265,7 @@
     "coop"
    ],
    "headline": "Multiple suspects at large after five shot at Virginia State University, police say",
-   "updated": "2026-08-16T03:02:15+00:00",
+   "updated": "2026-08-16T03:40:13+00:00",
    "outletCount": 7,
    "counts": {
     "corp": 2,
@@ -283,7 +283,7 @@
      "url": "https://abcnews.com/US/5-injured-shooting-virginia-state-university-arrests-made/story?id=135669705",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T03:02:15+00:00",
+     "published": "2026-08-16T03:40:13+00:00",
      "summary": "A suspect in the shooting at Virginia State University early Saturday that left five people wounded, including one critically, has been arrested, according to police."
     },
     {
@@ -464,9 +464,9 @@
      "death",
      "life",
      "admitted",
-     "case",
      "pleading",
-     "manhattan"
+     "year-old",
+     "case"
     ]
    },
    "absent": [
@@ -547,6 +547,107 @@
      "kind": "news",
      "published": "2026-08-14T15:41:30+00:00",
      "summary": "Luigi Mangione on Friday pleaded guilty to both federal stalking charges against him in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson, admitting in court that he shot the healthcare executive in 2024. Luigi Mangione on Friday pleaded guilty to both federal stalking charges against him in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson, admitting in court that he shot the healthcare executive in 2024. Mangione pleaded guilty to two charges that each carry a possible life sentence: interstate stalking resulting in death and stalking through use of interstate facilities resulting in death. The judge accepted his plea. \u201cI shot Mr. Thompson in Manhattan,\u201d Mangione told the judge on Friday, according to the New York Times. \u201cI understood that my actions would place him in fear of death or bodily injury. I knew what I was doing was illegal.\u201d He said during the hearing that he tracked down Thompson \u201cafter years of enduring severe pain from a broken back, navigating the obstacles of the health insurance system and witnessing similar experiences of countless others,\u201d The Associated Press reported. He said he had 3-D printed a gun and attac"
+    }
+   ]
+  },
+  {
+   "id": "f5ca3f92cb",
+   "topic": "Other",
+   "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to the epicentre, because roads were blocked by landslides and communications disrupted. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 5,
+    "big": [
+     "hits"
+    ],
+    "indie": [
+     "buildings",
+     "rescuers",
+     "flores",
+     "search",
+     "survivors",
+     "region"
+    ]
+   },
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "Rescuers search for survivors of powerful Indonesia earthquake",
+   "updated": "2026-08-16T01:44:20+00:00",
+   "outletCount": 6,
+   "counts": {
+    "corp": 2,
+    "pub": 4,
+    "nonprofit": 1
+   },
+   "newsCount": 7,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Videos capture the moment a devastating 7.7 magnitude earthquake hits Indonesia",
+     "url": "https://www.cbsnews.com/video/indonesia-earthquake-videos/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T01:44:20+00:00",
+     "summary": "At least 47 people died Saturday after a powerful 7.7 magnitude earthquake struck eastern Indonesia, with authorities warning the death toll is likely to rise. Videos captured the devastating shocks and aftermath."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "2nd earthquake hits Indonesia following powerful magnitude 7.7 quake",
+     "url": "https://abcnews.com/International/2-dead-after-powerful-77-earthquake-strikes-off/story?id=135664681",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T00:10:50+00:00",
+     "summary": "A powerful magnitude 7.7 earthquake struck off the coast of eastern Indonesia, according to the U.S. Geological Survey."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+     "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T21:49:12+00:00",
+     "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Powerful earthquake kills dozens in eastern Indonesia",
+     "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+     "author": "William Christou and agencies",
+     "kind": "news",
+     "published": "2026-08-15T15:34:38+00:00",
+     "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to the epicentre, because roads were blocked by landslides and communications disrupted. Continue reading..."
+    },
+    {
+     "outlet": "france24",
+     "title": "Indonesia hit by earthquake aftershock as rescuers search for survivors",
+     "url": "https://www.france24.com/en/indonesia-hit-by-earthquake-aftershock-as-rescuers-search-for-survivors",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-15T12:34:05+00:00",
+     "summary": "Fresh back from Indonesia, FRANCE 24 journalist Jamie Smith-Maillet assesses the damage caused by the 7.7-magnitude earthquake that struck the Flores region. Rescue teams are working to pull survivors from the rubble, while an aftershock has hit the area, raising fears of further casualties."
+    },
+    {
+     "outlet": "france24",
+     "title": "Indonesia earthquake kills at least 38 as rescue operation continues",
+     "url": "https://www.france24.com/en/indonesia-earthquake-kills-at-least-38-as-rescue-operation-continues",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-15T08:47:43+00:00",
+     "summary": "A powerful 7.7-magnitude earthquake struck off Indonesia\u2019s Flores region, killing at least 38 people and injuring six, while rescuers search through collapsed buildings for survivors. Aftershocks, power outages and widespread destruction are hampering rescue efforts, highlighting the persistent seismic risk faced by Indonesia, which lies on the Pacific Ring of Fire."
+    },
+    {
+     "outlet": "dw",
+     "title": "Indonesia: Dozens dead after earthquake off Flores island",
+     "url": "https://www.dw.com/en/indonesia-dozens-dead-after-earthquake-off-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T23:45:00+00:00",
+     "summary": "At least 47 people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftershocks. A tsunami warning has been lifted."
     }
    ]
   },
@@ -821,13 +922,13 @@
     "bigCount": 2,
     "indieCount": 3,
     "big": [
+     "michigan",
      "friday",
-     "killed",
-     "michigan"
+     "killed"
     ],
     "indie": [
-     "indiana",
      "state",
+     "indiana",
      "least",
      "weather",
      "flooding",
@@ -1183,10 +1284,10 @@
     "indieCount": 2,
     "big": [
      "images",
-     "appeared",
-     "president",
      "donald",
-     "jobs",
+     "president",
+     "appeared",
+     "rubio",
      "marco"
     ],
     "indie": [
@@ -1329,14 +1430,12 @@
   {
    "id": "4fd3c34fbe",
    "topic": "Climate & Energy",
-   "summary": "Hurricane Lala on Saturday slammed Hawaii's Big Island as a Category 1 storm, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides.",
+   "summary": "Hurricane Lala slammed Hawaii's Big Island, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides.",
    "summaryFrom": "cbsnews",
    "emphasis": {
     "bigCount": 2,
     "indieCount": 2,
-    "big": [
-     "saturday"
-    ],
+    "big": [],
     "indie": [
      "strengthens",
      "winds"
@@ -1346,7 +1445,7 @@
     "coop"
    ],
    "headline": "Storm Lala strengthens into a Category 1 hurricane as it nears Hawaii",
-   "updated": "2026-08-16T03:10:29+00:00",
+   "updated": "2026-08-16T03:58:43+00:00",
    "outletCount": 4,
    "counts": {
     "corp": 1,
@@ -1360,12 +1459,12 @@
    "articles": [
     {
      "outlet": "cbsnews",
-     "title": "Hurricane Lala lashes Hawaii's Big Island as a Category 1 storm. Maps show its path.",
+     "title": "Hurricane Lala lashes Hawaii's Big Island as a Category 1 storm",
      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T03:10:29+00:00",
-     "summary": "Hurricane Lala on Saturday slammed Hawaii's Big Island as a Category 1 storm, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides."
+     "published": "2026-08-16T03:58:43+00:00",
+     "summary": "Hurricane Lala slammed Hawaii's Big Island, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides."
     },
     {
      "outlet": "latimes",
@@ -1457,71 +1556,79 @@
    ]
   },
   {
-   "id": "f5ca3f92cb",
-   "topic": "Other",
-   "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to the epicentre, because roads were blocked by landslides and communications disrupted. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
+   "id": "80daf3a1d1",
+   "topic": "Justice & Policing",
+   "summary": "St. Louis Cardinals rookie Joshua B\u00e1ez\u2019s first career game in the big leagues was something out of a movie. B\u00e1ez made Major League Baseball history by hitting a home run in each of his first three plate appearances in the Cardinals' game against the Chicago Cubs Saturday afternoon at Wrigley Field. The 23-year-old wasted no time in his first-ever at-bat, blasting the first pitch he saw in his major league career 450 feet to dead center field for a two-run homer to give the Cardinals a 3-0 lead. B\u00e1ez pummeled Cubs starter Matt Boyd\u2019s 93-mph fastball and sent the Cardinals\u2019 dugout into a frenzy. The rookie rounded the bases with a smile on his face the whole time. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM His second home run of the day came in the fourth inning, once again off Boyd. B\u00e1ez worked the count full, then hammered Boyd's 78-mph changeup 382 feet into the left-field\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 2,
+    "big": [
+     "league",
+     "made"
+    ],
+    "indie": []
+   },
    "absent": [
-    "corp",
-    "family",
-    "coop"
+    "coop",
+    "pub"
    ],
-   "headline": "Rescuers search for survivors of powerful Indonesia earthquake",
-   "updated": "2026-08-15T21:49:12+00:00",
+   "headline": "Cardinals rookie Joshua B\u00e1ez makes MLB history with three homers in first three at-bats",
+   "updated": "2026-08-16T00:47:05+00:00",
    "outletCount": 4,
    "counts": {
-    "pub": 4,
-    "nonprofit": 1
+    "corp": 1,
+    "nonprofit": 2,
+    "family": 2
    },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": true,
+   "newsCount": 4,
+   "opinionCount": 1,
+   "underreported": false,
    "articles": [
     {
-     "outlet": "bbc",
-     "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-     "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+     "outlet": "abcnews",
+     "title": "WATCH:  Joshua Baez becomes first MLB player to hit 3 homers in debut",
+     "url": "https://abcnews.com/video/135680711/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-15T21:49:12+00:00",
-     "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way."
+     "published": "2026-08-16T00:47:05+00:00",
+     "summary": "Cardinals rookie outfielder Joshua Baez made MLB history by becoming the first player to hit three home runs in his big league debut."
     },
     {
      "outlet": "guardian",
-     "title": "Powerful earthquake kills dozens in eastern Indonesia",
-     "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-     "author": "William Christou and agencies",
+     "title": "Cardinals rookie Joshua B\u00e1ez makes MLB history with three homers in first three at-bats",
+     "url": "https://www.theguardian.com/sport/2026/aug/15/joshua-baez-three-home-runs-cardinals-cubs-mlb-record",
+     "author": "Agencies",
      "kind": "news",
-     "published": "2026-08-15T15:34:38+00:00",
-     "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to the epicentre, because roads were blocked by landslides and communications disrupted. Continue reading..."
+     "published": "2026-08-15T21:24:52+00:00",
+     "summary": "23-year-old hits home run on first pitch in majors B\u00e1ez drives in five during 8-4 victory over Cubs Rookie was called up from Triple-A earlier in day Joshua B\u00e1ez became the first player to hit three home runs in his first three at-bats in the major leagues, leading the St Louis Cardinals to an 8-4 victory over the Chicago Cubs on Saturday. The 23-year-old left fielder, called up from Triple-A Memphis earlier in the day, hit the first pitch he saw into the Wrigley Field bleachers, then homered in his next two at-bats. He also drove in five runs. Continue reading..."
     },
     {
-     "outlet": "france24",
-     "title": "Indonesia hit by earthquake aftershock as rescuers search for survivors",
-     "url": "https://www.france24.com/en/indonesia-hit-by-earthquake-aftershock-as-rescuers-search-for-survivors",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-15T12:34:05+00:00",
-     "summary": "Fresh back from Indonesia, FRANCE 24 journalist Jamie Smith-Maillet assesses the damage caused by the 7.7-magnitude earthquake that struck the Flores region. Rescue teams are working to pull survivors from the rubble, while an aftershock has hit the area, raising fears of further casualties."
-    },
-    {
-     "outlet": "france24",
-     "title": "Indonesia earthquake kills at least 38 as rescue operation continues",
-     "url": "https://www.france24.com/en/indonesia-earthquake-kills-at-least-38-as-rescue-operation-continues",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-15T08:47:43+00:00",
-     "summary": "A powerful 7.7-magnitude earthquake struck off Indonesia\u2019s Flores region, killing at least 38 people and injuring six, while rescuers search through collapsed buildings for survivors. Aftershocks, power outages and widespread destruction are hampering rescue efforts, highlighting the persistent seismic risk faced by Indonesia, which lies on the Pacific Ring of Fire."
-    },
-    {
-     "outlet": "dw",
-     "title": "Indonesia: Dozens dead after earthquake off Flores island",
-     "url": "https://www.dw.com/en/indonesia-dozens-dead-after-earthquake-off-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
+     "outlet": "foxnews",
+     "title": "Cardinals rookie makes MLB history by hitting a home run in each of his first three career plate appearances",
+     "url": "https://www.foxnews.com/sports/cardinals-rookie-makes-mlb-history-hitting-home-run-first-three-career-plate-appearances",
      "author": null,
      "kind": "news",
-     "published": "2026-08-14T23:45:00+00:00",
-     "summary": "At least 47 people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftershocks. A tsunami warning has been lifted."
+     "published": "2026-08-15T20:57:27+00:00",
+     "summary": "St. Louis Cardinals rookie Joshua B\u00e1ez\u2019s first career game in the big leagues was something out of a movie. B\u00e1ez made Major League Baseball history by hitting a home run in each of his first three plate appearances in the Cardinals' game against the Chicago Cubs Saturday afternoon at Wrigley Field. The 23-year-old wasted no time in his first-ever at-bat, blasting the first pitch he saw in his major league career 450 feet to dead center field for a two-run homer to give the Cardinals a 3-0 lead. B\u00e1ez pummeled Cubs starter Matt Boyd\u2019s 93-mph fastball and sent the Cardinals\u2019 dugout into a frenzy. The rookie rounded the bases with a smile on his face the whole time. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM His second home run of the day came in the fourth inning, once again off Boyd. B\u00e1ez worked the count full, then hammered Boyd's 78-mph changeup 382 feet into the left-field seats to give the Cardinals a 4-3 lead. B\u00e1ez's third home run also came off Boyd, this time off an 83-mph slider on the outside of the plate. The electrifying rookie hammered the ball 368 feet into the right-field seats for a two-run home run, giving the Cardinals a 6-3 lead. The Cardinals' dugout was in"
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Paul Pelosi absent from first court appearance on hit-and-run charge in Napa County crash case",
+     "url": "https://www.foxnews.com/politics/paul-pelosi-absent-first-court-appearance-hit-and-run-charge-napa-county-crash-case",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T19:49:12+00:00",
+     "summary": "Paul Pelosi did not appear in a Napa County courtroom Friday for his first scheduled court appearance on a misdemeanor hit-and-run charge, and an attorney entered a not guilty plea on his behalf. Pelosi, 86, the husband of former House Speaker Nancy Pelosi , D-Calif., was represented by attorney Amanda Bevins in Napa County Superior Court, according to the California Post. Bevins declined to comment when reached by Fox News Digital Friday. PAUL PELOSI, 86, FACES A HIT-AND-RUN CHARGE AFTER STRIKING A PARKED CAR IN NAPA COUNTY: SHERIFF'S OFFICE The court date came nearly a month after the Napa County District Attorney's Office formally charged Pelosi with misdemeanor hit-and-run and an infraction for an unsafe turning movement stemming from a July 3 crash. According to a criminal complaint previously obtained by Fox News Digital, Pelosi allegedly struck and damaged a parked Tesla while driving a burgundy Maserati convertible before leaving without attempting to identify the Tesla's owner or provide the information required under California law. Deputies later located Pelosi roughly a half-mile away, where he allegedly told officers he had intended to return to the crash site, accordi"
+    },
+    {
+     "outlet": "reason",
+     "title": "Virginia Man Argues His 'FTP&ATF' License Plate Is Free Speech. The Supreme Court Might Hear His Case.",
+     "url": "https://reason.com/2026/08/14/virginia-man-argues-his-ftpatf-license-plate-is-free-speech-the-supreme-court-might-hear-his-case/",
+     "author": "C.J. Ciaramella",
+     "kind": "opinion",
+     "published": "2026-08-14T19:11:42+00:00",
+     "summary": "A Virginia man's anti-police license plate is at the center of what could be a landmark First Amendment case, following a federal appeals court ruling in his favor last month. Virginia motorist Curtis M. Whateley says he has a free speech right to keep his customized license plate, which reads \"FTP&amp;ATF,\" an abbreviation that foul-mouthed puzzle-solvers will decipher as \"Fuck the police and the Bureau of Alcohol, Tobacco, and Firearms.\" The State of Virginia argues that it has the right to revoke Whateley's plate because license plates are government-owned, not a public soapbox. The state says it's going to take its case to the Supreme Court. The case highlights a niche, often amusing, but still consequential issue in First Amendment law: whether a vanity license plate is private or government speech. The U.S. Supreme Court ruled in 2015 that Texas could deny a group's application for a specialty license plate design showing the Confederate flag. Most U.S. district courts and state courts interpreting the decision have held that, while government-run vanity plate programs are a nonpublic forum, the specific character combination of the plate is private speech, which restricts th"
     }
    ]
   },
@@ -1661,11 +1768,11 @@
     "bigCount": 3,
     "indieCount": 3,
     "big": [
-     "foot-washing",
-     "worth",
-     "stations",
      "airport",
      "international",
+     "worth",
+     "stations",
+     "foot-washing",
      "fort"
     ],
     "indie": [
@@ -1929,6 +2036,57 @@
      "kind": "news",
      "published": "2026-08-14T10:18:02+00:00",
      "summary": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials."
+    }
+   ]
+  },
+  {
+   "id": "8f183a3736",
+   "topic": "Other",
+   "summary": "American clocks 23.19sec to win final at Pan Pacs Douglass had first broken record with 23.49sec in heats Kate Douglass lowered her own world record in the women\u2019s 50m freestyle for the second time in one day, winning the Pan Pacific Championships final in 23.19sec. In the morning preliminaries, the 24-year-old American swam 23.49 to take the mark away from teammate Gretchen Walsh, who finished second in the evening final in 23.74. Australia\u2019s reigning world champion Meg Harris was third in 23.89. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "American Kate Douglass breaks 50m freestyle world record twice in one day",
+   "updated": "2026-08-16T03:08:35+00:00",
+   "outletCount": 3,
+   "counts": {
+    "nonprofit": 1,
+    "corp": 1,
+    "pub": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "American Kate Douglass breaks 50m freestyle world record twice in one day",
+     "url": "https://www.theguardian.com/sport/2026/aug/15/kate-douglass-50m-freestyle-world-record-gretchen-walsh-pan-pacs",
+     "author": "Agencies",
+     "kind": "news",
+     "published": "2026-08-16T03:08:35+00:00",
+     "summary": "American clocks 23.19sec to win final at Pan Pacs Douglass had first broken record with 23.49sec in heats Kate Douglass lowered her own world record in the women\u2019s 50m freestyle for the second time in one day, winning the Pan Pacific Championships final in 23.19sec. In the morning preliminaries, the 24-year-old American swam 23.49 to take the mark away from teammate Gretchen Walsh, who finished second in the evening final in 23.74. Australia\u2019s reigning world champion Meg Harris was third in 23.89. Continue reading..."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "American Kate Douglass sets 50-meter freestyle world record at Pan Pacific",
+     "url": "https://www.cbsnews.com/news/kate-douglass-50-free-world-record-pan-pacific-championships/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T19:01:40+00:00",
+     "summary": "Kate Douglass, 24, is a five-time Olympic medalist."
+    },
+    {
+     "outlet": "france24",
+     "title": "French swimmer Marchand wins first Euros gold as Germany's Liebmann breaks 1500m free world record",
+     "url": "https://www.france24.com/en/sport/20260815-l%C3%A9on-marchand-wins-200-meter-butterfly-at-european-swimming-championships",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-15T16:51:24+00:00",
+     "summary": "French swimming star L\u00e9on Marchand won the 200m butterfly final at the European swimming championships Saturday in Paris while German swimmer Johannes Liebmann broke the 1,500m freestyle world record by nearly four seconds."
     }
    ]
   },
@@ -2401,57 +2559,6 @@
    ]
   },
   {
-   "id": "9f176bc1b1",
-   "topic": "World",
-   "summary": "The USS George Washington is departing the Pacific and expected to replace the USS Abraham Lincoln in the Middle East amid growing concerns about mental health and supply issues aboard the long-deployed carrier.",
-   "summaryFrom": "pbsnewshour",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "U.S. pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere",
-   "updated": "2026-08-15T17:23:19+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "abcnews",
-     "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran, Western Hemisphere",
-     "url": "https://abcnews.com/US/wireStory/us-pulls-aircraft-carrier-asia-trump-focuses-iran-135669614",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T17:23:19+00:00",
-     "summary": "Trump&rsquo;s war on Iran is stretching the limits of the nation&rsquo;s aircraft carriers."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "U.S. pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere",
-     "url": "https://www.pbs.org/newshour/world/u-s-pulls-last-aircraft-carrier-in-asia-as-trump-focuses-on-iran-and-the-western-hemisphere",
-     "author": "Didi Tang, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T16:22:32+00:00",
-     "summary": "The USS George Washington is departing the Pacific and expected to replace the USS Abraham Lincoln in the Middle East amid growing concerns about mental health and supply issues aboard the long-deployed carrier."
-    },
-    {
-     "outlet": "nyt",
-     "title": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
-     "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
-     "author": "Edward Wong",
-     "kind": "news",
-     "published": "2026-08-15T09:01:01+00:00",
-     "summary": "The Sierra Madre, a Philippine naval ship, in the South China Sea in 2023. Last month, a Chinese Coast Guard vessel began circling the ship and confronted Philippine service members."
-    }
-   ]
-  },
-  {
    "id": "ab35692bcd",
    "topic": "Health",
    "summary": "Eggs displayed in refrigerated section of a grocery store. \u2014Lindsey Nicholson\u2014Universal Images Group An egg recall linked to a salmonella outbreak was upgraded to the highest possible risk level by the U.S. Food and Drug Administration (FDA) on Wednesday. Nearly 1.6 million dozen eggs were labeled \u201cClass I,\u201d which the agency defines as \u201ca situation in which there is a reasonable probability that the use of or exposure to a violative product will cause serious adverse health consequences or death.\u201d Symptoms of salmonella infection include \u201cfever, diarrhea (which may be bloody), nausea, vomiting, and abdominal pain,\u201d according to the FDA . \u201cIllness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella, and the symptoms usually last four to seven days,\u201d its website said, noting that children under 5, the elderly, and the immunocompromised were more\u2026",
@@ -2703,6 +2810,174 @@
      "kind": "news",
      "published": "2026-08-13T15:19:39+00:00",
      "summary": "An F/A-18F Super Hornet launches from the flight deck of aircraft carrier USS Abraham Lincoln in support of Operation Epic Fury on February 28, 2026 at Sea. Photo by U.S. Navy via Getty Images. Thursday, August 13, 2026 &#8211; &nbsp; Iranian Foreign Minister Abbas Araghchi warns of &#8220;even bigger miscalculation&#8221; on Hormuz after U.S. President Donald Trump claims U.S. has &#8220;total control.&#8221; Washington Post: U.S. intelligence viewed Israeli warning of Iranian plot to kill Trump as &#8220;low confidence.&#8221; Slight bump in Hormuz traffic. Iran reports oil pollution off Qeshm Island, calls for Hormuz environmental fees. Iran kills two accused of intelligence ties to U.S. and Israel. Yemen&#8217;s Saudi-backed government claims success against Ansarallah attack. Saudi tankers reroute around Africa as empty fleet heads toward Gulf. X suspends Ansarallah spokesperson account. Israel kills Palestinian child in Gaza City strike. Israeli strikes kill two, including Gaza police chief. Israel detains Palestinians, destroys homes, and re-establishes settlement in occupied West Bank. Hamas says it will participate in Palestinian elections in November. Israeli forces blow "
+    }
+   ]
+  },
+  {
+   "id": "077912646c",
+   "topic": "Climate & Energy",
+   "summary": "Hawaii\u2019s Big Island was seeing heavy rain and strong winds on Saturday as Lala gained strength, with conditions expected to deteriorate in the hours ahead. NBC News\u2019 Morgan Chesky reports.",
+   "summaryFrom": "nbcnews",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+   "updated": "2026-08-16T03:54:11+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+     "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T03:54:11+00:00",
+     "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Hawaii braces for impact from Lala",
+     "url": "https://www.nbcnews.com/nightly-news/video/hawaii-braces-for-impact-from-lala-268363333565",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T23:16:07+00:00",
+     "summary": "Hawaii\u2019s Big Island was seeing heavy rain and strong winds on Saturday as Lala gained strength, with conditions expected to deteriorate in the hours ahead. NBC News\u2019 Morgan Chesky reports."
+    }
+   ]
+  },
+  {
+   "id": "adb8e5ecb1",
+   "topic": "Other",
+   "summary": "Jessica Simpson is giving fans a peek at her birthday trip to the Turks and Caicos Islands. The 46-year-old singer took to Instagram to share a series of photos from her birthday trip to paradise, including one of her lounging in her bikini. Among the photos included in the post is a black-and-white picture of the \"With You\" singer smiling as she posed for a selfie while lying on a lounge chair in a black bikini with small white polka dots. She paired the bikini with a pair of black sunglasses and a necklace which went down the center of her chest. JULIANNE HOUGH FLAUNTS HER TONED FIGURE IN BIKINIS AS SHE SHARES SNAPS FROM HER TRIP TO SARDINIA \"Take me back to Turks and Caicos,\" she captioned the post. \"Thank you @lacurevillas and @pavilionluxuryvillas for an unforgettable stay. We\u2019ll be seein\u2019 y\u2019all again very very soon.\" Other photos feature the singer standing in a black dress in\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Jessica Simpson turns heads in bikini photos from trip to Turks and Caicos",
+   "updated": "2026-08-16T03:52:30+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Jessica Simpson turns heads in bikini photos from trip to Turks and Caicos",
+     "url": "https://pagesix.com/2026/08/15/style/jessica-simpson-shares-bikini-photos-from-birthday-trip-to-turks-and-caicos/",
+     "author": "Fox News",
+     "kind": "news",
+     "published": "2026-08-16T03:52:30+00:00",
+     "summary": "Jessica Simpson is giving fans a peek at her birthday trip to the Turks and Caicos Islands."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Jessica Simpson turns heads in bikini photos from trip to Turks and Caicos",
+     "url": "https://www.foxnews.com/entertainment/jessica-simpson-turns-heads-bikini-photos-trip-turks-caicos",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T00:45:24+00:00",
+     "summary": "Jessica Simpson is giving fans a peek at her birthday trip to the Turks and Caicos Islands. The 46-year-old singer took to Instagram to share a series of photos from her birthday trip to paradise, including one of her lounging in her bikini. Among the photos included in the post is a black-and-white picture of the \"With You\" singer smiling as she posed for a selfie while lying on a lounge chair in a black bikini with small white polka dots. She paired the bikini with a pair of black sunglasses and a necklace which went down the center of her chest. JULIANNE HOUGH FLAUNTS HER TONED FIGURE IN BIKINIS AS SHE SHARES SNAPS FROM HER TRIP TO SARDINIA \"Take me back to Turks and Caicos,\" she captioned the post. \"Thank you @lacurevillas and @pavilionluxuryvillas for an unforgettable stay. We\u2019ll be seein\u2019 y\u2019all again very very soon.\" Other photos feature the singer standing in a black dress in front of a swimming pool, posing with the staff, coming out of the ocean in a black bikini and cover-up, as well as a video of the oceanic scenery around her. \"You have never looked better!! Healthy and happy and stunning!\" one fan wrote in the comments section. Another added, \"Absolutely stunning as al"
+    }
+   ]
+  },
+  {
+   "id": "05f29254ca",
+   "topic": "Other",
+   "summary": "A Florida middle school teacher was arrested after investigators said he exchanged inappropriate messages with a former teenage student and acknowledged communicating inappropriately with the student since 2023. Christian Schneider, 31, a teacher at Memorial Middle School, was arrested Friday on charges of three felonies following an investigation by the Hillsborough County Sheriff's Office. Detectives opened a criminal investigation into Schneider on July 28, and learned he had been sending inappropriate messages to a former teenage student at Franklin Middle School, according to the sheriff's office. KENTUCKY MIDDLE SCHOOL TEACHER ACCUSED OF CROSSING THE LINE WITH STUDENT, ARRESTED UNDER NEW ANTI-GROOMING LAW Schneider told deputies he had engaged in inappropriate communication with the student since 2023, authorities said. Authorities have not disclosed the student's exact age, how\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Florida middle school teacher admits to years of \u2018inappropriate\u2019 conversations with former student",
+   "updated": "2026-08-16T03:49:24+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Florida middle school teacher admits to years of \u2018inappropriate\u2019 conversations with former student",
+     "url": "https://nypost.com/2026/08/15/us-news/florida-teacher-christian-schneider-admits-to-years-of-inappropriate-conversations-with-student-deputies/",
+     "author": "Fox News",
+     "kind": "news",
+     "published": "2026-08-16T03:49:24+00:00",
+     "summary": "Schneider had been sending inappropriate messages to a former teenage student at Franklin Middle School, according to the sheriff's office."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Florida middle school teacher admits to years of 'inappropriate' conversations with former student: deputies",
+     "url": "https://www.foxnews.com/us/florida-middle-school-teacher-admits-years-inappropriate-conversations-former-student-deputies",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T21:29:50+00:00",
+     "summary": "A Florida middle school teacher was arrested after investigators said he exchanged inappropriate messages with a former teenage student and acknowledged communicating inappropriately with the student since 2023. Christian Schneider, 31, a teacher at Memorial Middle School, was arrested Friday on charges of three felonies following an investigation by the Hillsborough County Sheriff's Office. Detectives opened a criminal investigation into Schneider on July 28, and learned he had been sending inappropriate messages to a former teenage student at Franklin Middle School, according to the sheriff's office. KENTUCKY MIDDLE SCHOOL TEACHER ACCUSED OF CROSSING THE LINE WITH STUDENT, ARRESTED UNDER NEW ANTI-GROOMING LAW Schneider told deputies he had engaged in inappropriate communication with the student since 2023, authorities said. Authorities have not disclosed the student's exact age, how investigators learned about the alleged communications or further details about the messages. Schneider faces two counts of solicitation or possession of child sexual abuse material , both second-degree felonies, according to Hillsborough County Sheriff's Office booking records. He also faces one coun"
+    }
+   ]
+  },
+  {
+   "id": "cf897377e5",
+   "topic": "Other",
+   "summary": "Dodgers starter Justin Wrobleski gives up two home runs and Brewers ace Jacob Misiorowski holds the Dodgers' big hitters at bay in Milwaukee's 4-1 victory.",
+   "summaryFrom": "latimes",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Dodgers manager says Jacob Misiorowski is \u2018great\u2019 for baseball",
+   "updated": "2026-08-16T03:00:02+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Dodgers manager says Jacob Misiorowski is \u2018great\u2019 for baseball",
+     "url": "https://nypost.com/2026/08/15/sports/dodgers-manager-says-jacob-misiorowski-is-great-for-baseball/",
+     "author": "Dylan Hernandez",
+     "kind": "news",
+     "published": "2026-08-16T03:00:02+00:00",
+     "summary": "As Shohei Ohtani\u2019s manager, Dave Roberts knows how much a singular talent can mean to baseball."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Jacob Misiorowski outduels Justin Wrobleski as Brewers send Dodgers to frustrating loss",
+     "url": "https://www.latimes.com/sports/dodgers/story/2026-08-15/justin-wrobleski-struggles-jacob-misiorowski-shines-dodgers-brewers",
+     "author": "Joaquin Ruiz",
+     "kind": "news",
+     "published": "2026-08-16T02:03:42+00:00",
+     "summary": "Dodgers starter Justin Wrobleski gives up two home runs and Brewers ace Jacob Misiorowski holds the Dodgers' big hitters at bay in Milwaukee's 4-1 victory."
     }
    ]
   },
@@ -2977,48 +3252,6 @@
    ]
   },
   {
-   "id": "077912646c",
-   "topic": "Climate & Energy",
-   "summary": "Hawaii\u2019s Big Island was seeing heavy rain and strong winds on Saturday as Lala gained strength, with conditions expected to deteriorate in the hours ahead. NBC News\u2019 Morgan Chesky reports.",
-   "summaryFrom": "nbcnews",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-   "updated": "2026-08-15T23:34:24+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-     "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T23:34:24+00:00",
-     "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Hawaii braces for impact from Lala",
-     "url": "https://www.nbcnews.com/nightly-news/video/hawaii-braces-for-impact-from-lala-268363333565",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T23:16:07+00:00",
-     "summary": "Hawaii\u2019s Big Island was seeing heavy rain and strong winds on Saturday as Lala gained strength, with conditions expected to deteriorate in the hours ahead. NBC News\u2019 Morgan Chesky reports."
-    }
-   ]
-  },
-  {
    "id": "c26019a127",
    "topic": "Other",
    "summary": "Former ABC News field producer Samira Said accused CBS News chief correspondent Matt Gutman of making sexualized remarks toward her while the two worked together at ABC, according to a wrongful-termination lawsuit filed Friday in Los Angeles. The post CBS Chief Correspondent Matt Gutman Accused of Harassment in ABC Producer Suit appeared first on Breitbart .",
@@ -3099,90 +3332,6 @@
      "kind": "news",
      "published": "2026-08-15T22:40:57+00:00",
      "summary": "Colombian President Abelardo de la Espriella said he called President Trump and asked him to suspend tariffs currently targeting the South American nation."
-    }
-   ]
-  },
-  {
-   "id": "1a04759e9d",
-   "topic": "Other",
-   "summary": "American clocks 23.49sec in Pan Pacs heats Douglass reclaims record from teammate Walsh Pair to meet again in Saturday night\u2019s final Kate Douglass shattered the women\u2019s 50m freestyle world record on Saturday, clocking 23.49sec in the heats at the Pan Pacific Championships to set a tantalizing showdown with former record-holder Gretchen Walsh. Douglass improved on the world mark of 23.55sec that fellow-American Walsh set on 28 June at the Sette Colli Trophy in Rome. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "American Kate Douglass reclaims 50m freestyle world record at Pan Pacs",
-   "updated": "2026-08-15T22:14:14+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "American Kate Douglass reclaims 50m freestyle world record at Pan Pacs",
-     "url": "https://www.theguardian.com/sport/2026/aug/15/kate-douglass-50m-freestyle-world-record-gretchen-walsh-pan-pacs",
-     "author": "Agencies",
-     "kind": "news",
-     "published": "2026-08-15T22:14:14+00:00",
-     "summary": "American clocks 23.49sec in Pan Pacs heats Douglass reclaims record from teammate Walsh Pair to meet again in Saturday night\u2019s final Kate Douglass shattered the women\u2019s 50m freestyle world record on Saturday, clocking 23.49sec in the heats at the Pan Pacific Championships to set a tantalizing showdown with former record-holder Gretchen Walsh. Douglass improved on the world mark of 23.55sec that fellow-American Walsh set on 28 June at the Sette Colli Trophy in Rome. Continue reading..."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "American Kate Douglass sets 50-meter freestyle world record at Pan Pacific",
-     "url": "https://www.cbsnews.com/news/kate-douglass-50-free-world-record-pan-pacific-championships/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T19:01:40+00:00",
-     "summary": "Kate Douglass, 24, is a five-time Olympic medalist."
-    }
-   ]
-  },
-  {
-   "id": "80daf3a1d1",
-   "topic": "Culture & Sport",
-   "summary": "St. Louis Cardinals rookie Joshua B\u00e1ez\u2019s first career game in the big leagues was something out of a movie. B\u00e1ez made Major League Baseball history by hitting a home run in each of his first three plate appearances in the Cardinals' game against the Chicago Cubs Saturday afternoon at Wrigley Field. The 23-year-old wasted no time in his first-ever at-bat, blasting the first pitch he saw in his major league career 450 feet to dead center field for a two-run homer to give the Cardinals a 3-0 lead. B\u00e1ez pummeled Cubs starter Matt Boyd\u2019s 93-mph fastball and sent the Cardinals\u2019 dugout into a frenzy. The rookie rounded the bases with a smile on his face the whole time. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM His second home run of the day came in the fourth inning, once again off Boyd. B\u00e1ez worked the count full, then hammered Boyd's 78-mph changeup 382 feet into the left-field\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Cardinals rookie Joshua B\u00e1ez makes MLB history with three homers in first three at-bats",
-   "updated": "2026-08-15T21:24:52+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Cardinals rookie Joshua B\u00e1ez makes MLB history with three homers in first three at-bats",
-     "url": "https://www.theguardian.com/sport/2026/aug/15/joshua-baez-three-home-runs-cardinals-cubs-mlb-record",
-     "author": "Agencies",
-     "kind": "news",
-     "published": "2026-08-15T21:24:52+00:00",
-     "summary": "23-year-old hits home run on first pitch in majors B\u00e1ez drives in five during 8-4 victory over Cubs Rookie was called up from Triple-A earlier in day Joshua B\u00e1ez became the first player to hit three home runs in his first three at-bats in the major leagues, leading the St Louis Cardinals to an 8-4 victory over the Chicago Cubs on Saturday. The 23-year-old left fielder, called up from Triple-A Memphis earlier in the day, hit the first pitch he saw into the Wrigley Field bleachers, then homered in his next two at-bats. He also drove in five runs. Continue reading..."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Cardinals rookie makes MLB history by hitting a home run in each of his first three career plate appearances",
-     "url": "https://www.foxnews.com/sports/cardinals-rookie-makes-mlb-history-hitting-home-run-first-three-career-plate-appearances",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T20:57:27+00:00",
-     "summary": "St. Louis Cardinals rookie Joshua B\u00e1ez\u2019s first career game in the big leagues was something out of a movie. B\u00e1ez made Major League Baseball history by hitting a home run in each of his first three plate appearances in the Cardinals' game against the Chicago Cubs Saturday afternoon at Wrigley Field. The 23-year-old wasted no time in his first-ever at-bat, blasting the first pitch he saw in his major league career 450 feet to dead center field for a two-run homer to give the Cardinals a 3-0 lead. B\u00e1ez pummeled Cubs starter Matt Boyd\u2019s 93-mph fastball and sent the Cardinals\u2019 dugout into a frenzy. The rookie rounded the bases with a smile on his face the whole time. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM His second home run of the day came in the fourth inning, once again off Boyd. B\u00e1ez worked the count full, then hammered Boyd's 78-mph changeup 382 feet into the left-field seats to give the Cardinals a 4-3 lead. B\u00e1ez's third home run also came off Boyd, this time off an 83-mph slider on the outside of the plate. The electrifying rookie hammered the ball 368 feet into the right-field seats for a two-run home run, giving the Cardinals a 6-3 lead. The Cardinals' dugout was in"
     }
    ]
   },
@@ -3519,90 +3668,6 @@
      "kind": "news",
      "published": "2026-08-13T21:37:37+00:00",
      "summary": "Pretty much all the movies you can catch in the Twin Cities this week."
-    }
-   ]
-  },
-  {
-   "id": "6c764dddeb",
-   "topic": "Climate & Energy",
-   "summary": "The Taliban seized power on Aug. 15, 2021, as the U.S. and other NATO troops withdrew following a costly two-decade war. The U.S. withdrawal led to chaos at Kabul airport as crowds of people tried to flee the country in desperation.",
-   "summaryFrom": "pbsnewshour",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "While Taliban leaders mark 5 years in power in Afghanistan, a UN official warns of a rights crisis",
-   "updated": "2026-08-15T17:09:42+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "pbsnewshour",
-     "title": "While Taliban leaders mark 5 years in power in Afghanistan, a UN official warns of a rights crisis",
-     "url": "https://www.pbs.org/newshour/world/while-taliban-leaders-mark-5-years-in-power-in-afghanistan-a-un-official-warns-of-a-rights-crisis",
-     "author": "Suzan Fraser, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T17:09:42+00:00",
-     "summary": "The Taliban seized power on Aug. 15, 2021, as the U.S. and other NATO troops withdrew following a costly two-decade war. The U.S. withdrawal led to chaos at Kabul airport as crowds of people tried to flee the country in desperation."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Five years after the Taliban swept to power, does the West have any influence?",
-     "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T17:00:14+00:00",
-     "summary": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left"
-    }
-   ]
-  },
-  {
-   "id": "5c6cb2e16c",
-   "topic": "Politics",
-   "summary": "President Donald Trump said Friday that far-left Democrats like Alexandria Ocasio-Cortez , D-N.Y., are now trying to distance themselves from some of the radical positions they once championed, noting he believes she may be after a 2028 bid for the White House. In an interview with Fox News correspondent Alexis McAdams, Trump was asked about Ocasio-Cortez's perceived shift away from her earlier calls to defund police departments and other soft-on-crime policies. \"If you really look at it, they're all saying the same thing,\" Trump said of progressive Democrats. \"They're all trying to disavow themselves from what they said about crime and, well, they're saying, \u2018We love sanctuary cities .\u2019\" When asked directly whether he thinks AOC is positioning herself for a presidential bid, Trump said he thinks AOC will run. The congresswoman has refused to rule out a run for president , but she\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Maher: Moderate Dems Afraid of Extreme Left",
-   "updated": "2026-08-15T15:45:38+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Maher: Moderate Dems Afraid of Extreme Left",
-     "url": "https://www.breitbart.com/clips/2026/08/15/maher-moderate-dems-afraid-of-extreme-left/",
-     "author": "Ian Hanchett",
-     "kind": "news",
-     "published": "2026-08-15T15:45:38+00:00",
-     "summary": "On Friday&#8217;s broadcast of HBO&#8217;s &#8220;Real Time,&#8221; host Bill Maher said that moderates in the Democratic Party are afraid of the extreme left and also dismissed attempts by members of the Democratic Party to justify the far left as just The post Maher: Moderate Dems Afraid of Extreme Left appeared first on Breitbart ."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Trump claims AOC may run for president as far-left Dems back away from extreme policy",
-     "url": "https://www.foxnews.com/politics/president-trump-claims-aoc-far-left-democrats-backing-away-controversial-positions",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T21:01:38+00:00",
-     "summary": "President Donald Trump said Friday that far-left Democrats like Alexandria Ocasio-Cortez , D-N.Y., are now trying to distance themselves from some of the radical positions they once championed, noting he believes she may be after a 2028 bid for the White House. In an interview with Fox News correspondent Alexis McAdams, Trump was asked about Ocasio-Cortez's perceived shift away from her earlier calls to defund police departments and other soft-on-crime policies. \"If you really look at it, they're all saying the same thing,\" Trump said of progressive Democrats. \"They're all trying to disavow themselves from what they said about crime and, well, they're saying, \u2018We love sanctuary cities .\u2019\" When asked directly whether he thinks AOC is positioning herself for a presidential bid, Trump said he thinks AOC will run. The congresswoman has refused to rule out a run for president , but she hasn't looked past November's midterm elections. ALEXANDRIA OCASIO-CORTEZ SHRUGS OFF PAST 'DEFUND THE POLICE' COMMENTS, JOKING 'WOKE 1 WAS CRAZY' During an interview with ABC's \"This Week\" on Sunday, the congresswoman attempted to dismiss the extreme rhetoric of the so-called \" Woke 1 \" era. The term is u"
     }
    ]
   }
