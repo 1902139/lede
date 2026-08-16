@@ -1,25 +1,345 @@
 {
- "generated": "2026-08-16T19:35:03.625911+00:00",
+ "generated": "2026-08-16T20:39:36.456911+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
   {
-   "id": "c562c35538",
-   "topic": "Politics",
-   "summary": "Senator Ruben Gallego calls carrier\u2019s months-long deployment a \u2018deep problem\u2019 as wellbeing concerns mount Democrats on Sunday intensified their demands for answers from the Trump administration over conditions aboard the USS Abraham Lincoln as the aircraft carrier\u2019s nearly nine-month deployment continued fueling concern over crew morale, mental health and living conditions. Ruben Gallego, a Democratic senator from Arizona, said on Sunday that problems aboard the Lincoln had kept mounting \u2013 and he blamed the carrier\u2019s prolonged deployment on the unresolved war that Donald Trump started in February with Iran as well as lackluster leadership in general from the Republican president\u2019s administration. Continue reading...",
-   "summaryFrom": "guardian",
+   "id": "022e4698ad",
+   "topic": "World",
+   "summary": "Jared Kushner, President Trump's envoy and son-in-law, is planning to visit Israel next week for talks on the situation in Gaza , according to five sources with knowledge of the plan. Why it matters: This would be Kushner's first trip to Israel since January. It comes as the White House and Trump's Board of Peace are trying to push forward with the next phase of the Gaza plan, which focuses on disarming Hamas and a potential Israeli withdrawal. The Netanyahu government is highly skeptical of the U.S. Gaza plan, and the upcoming election in October is making the issue even more politically sensitive. \"We see eye-to-eye on the strategic goal, but Israel has expressed some doubts about the plan and we want to talk to them in order to make sure we are coordinated,\" a U.S. official said, while noting the exact dates of the trip could change. Driving the news: Trump announced two weeks ago\u2026",
+   "summaryFrom": "axios",
    "emphasis": {
-    "bigCount": 3,
-    "indieCount": 5,
+    "bigCount": 2,
+    "indieCount": 6,
     "big": [],
     "indie": [
-     "aircraft",
-     "carrier",
-     "reported",
-     "issues",
+     "held",
+     "meets",
+     "rare",
+     "meeting",
+     "trump",
+     "diplomatic"
+    ]
+   },
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
+   "updated": "2026-08-16T20:24:43+00:00",
+   "outletCount": 8,
+   "counts": {
+    "corp": 2,
+    "nonprofit": 2,
+    "pub": 4
+   },
+   "newsCount": 8,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Jared Kushner met with Hamas leaders in Egypt to discuss Gaza peace deal",
+     "url": "https://www.cbsnews.com/news/jared-kushner-hamas-netanyahu-gaza-peace-deal-negotiations/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T20:24:43+00:00",
+     "summary": "Jared Kushner, who is President Trump's son-in-law, is set to meet next with Israeli Prime Minister Benjamin Netanyahu, who rejected the latest peace proposal last week."
+    },
+    {
+     "outlet": "npr",
+     "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
+     "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T20:20:22+00:00",
+     "summary": "Jared Kushner, President Trump's son-in-law, held a rare meeting with Hamas leadership Sunday in Egypt, in a new diplomatic effort to make progress in the stalled Gaza ceasefire. (Image credit: Alex Brandon)"
+    },
+    {
+     "outlet": "bbc",
+     "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+     "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T19:58:14+00:00",
+     "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Kushner meets Hamas leaders in Egypt to push Trump\u2019s Gaza plan",
+     "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T19:23:28+00:00",
+     "summary": "Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Kushner has rare meeting with Hamas' leader on Gaza road map. A meeting with Netanyahu is next",
+     "url": "https://www.pbs.org/newshour/world/kushner-has-rare-meeting-with-hamas-leader-on-gaza-road-map-a-meeting-with-netanyahu-is-next",
+     "author": "Cara Anna, Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T18:11:31+00:00",
+     "summary": "The talks aim to salvage the new 15-point, U.S.-backed road map for Hamas to disarm in Gaza and Israel to withdraw from the Palestinian territory shattered by war."
+    },
+    {
+     "outlet": "dw",
+     "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
+     "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T17:31:00+00:00",
+     "summary": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators in Egypt."
+    },
+    {
+     "outlet": "france24",
+     "title": "Kushner, Hamas delegation in Egypt for talks on Gaza peace plan",
+     "url": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-16T11:33:32+00:00",
+     "summary": "A Hamas delegation held talks with Egyptian intelligence chief Hassan Rashad in Egypt on Sunday, followed by talks with US envoy Jared Kushner. Kushner had met shortly before with President Abdel Fattah al-Sisi in an effort to break the deadlock over the US-brockered peace plan for Gaza."
+    },
+    {
+     "outlet": "axios",
+     "title": "Kushner set to visit Israel, Egypt next week for Gaza talks",
+     "url": "https://www.axios.com/2026/08/13/kushner-israel-gaza-netanyahu",
+     "author": "Barak Ravid",
+     "kind": "news",
+     "published": "2026-08-13T21:44:47+00:00",
+     "summary": "Jared Kushner, President Trump's envoy and son-in-law, is planning to visit Israel next week for talks on the situation in Gaza , according to five sources with knowledge of the plan. Why it matters: This would be Kushner's first trip to Israel since January. It comes as the White House and Trump's Board of Peace are trying to push forward with the next phase of the Gaza plan, which focuses on disarming Hamas and a potential Israeli withdrawal. The Netanyahu government is highly skeptical of the U.S. Gaza plan, and the upcoming election in October is making the issue even more politically sensitive. \"We see eye-to-eye on the strategic goal, but Israel has expressed some doubts about the plan and we want to talk to them in order to make sure we are coordinated,\" a U.S. official said, while noting the exact dates of the trip could change. Driving the news: Trump announced two weeks ago that his Board of Peace had reached an agreement with Hamas to disarm and transfer civilian and security control of Gaza to a new Palestinian technocratic government. On Sunday, under pressure from his coalition partners and political opponents, Netanyahu publicly rejected the plan for disarming Hamas."
+    }
+   ]
+  },
+  {
+   "id": "b120e655fe",
+   "topic": "Culture & Sport",
+   "summary": "Focus On Sport / ocus on Sport, Getty Images Tommy John, the star pitcher who played 26 major league seasons mostly with the Yankees and Dodgers, has died at 83. Aside from winning 288 professional baseball games, he may be most known for inspiring the Tommy John elbow surgery. He was the first person to ever get the surgery after he tore his ulnar collateral ligament in his left elbow during the 1974 season. At the time, it was unclear whether John would ever be able to pitch again. Team doctor Frank Jobe performed the first-of-its-kind operation, which became medical history, and John returned to top form just a year later. On Aug. 8 during Old-Timers\u2019 Day at Yankee Stadium, John thanked Jobe, whom John said, \u201csaved my arm and made it possible for me to continue pitching. That surgery has since gone on to save the careers of countless pitchers, including many of the very best in the\u2026",
+   "summaryFrom": "dailybeast",
+   "emphasis": {
+    "bigCount": 6,
+    "indieCount": 2,
+    "big": [
+     "major",
+     "league",
+     "seasons",
+     "name",
+     "famous",
+     "former"
+    ],
+    "indie": [
+     "namesake",
+     "pioneering"
+    ]
+   },
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
+   "updated": "2026-08-16T20:15:45+00:00",
+   "outletCount": 8,
+   "counts": {
+    "corp": 4,
+    "nonprofit": 2,
+    "family": 2
+   },
+   "newsCount": 8,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "Tommy John Dies; Former Yankees Pitcher Became Famous for Surgery Success",
+     "url": "https://www.newsweek.com/tommy-john-dies-former-yankees-pitcher-became-famous-for-surgery-success-12329215",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T20:15:45+00:00",
+     "summary": "A pitcher who recovered from a then-unprecedented elbow surgery to appear in 26 major league seasons, one shy of the record, died."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Tommy John, MLB All-Star pitcher who had a surgery named after him, dies at 83",
+     "url": "https://www.cbsnews.com/news/tommy-john-mlb-baseball-player-dies-83/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T19:53:43+00:00",
+     "summary": "One of Tommy John's biggest legacies to MLB was his comeback elbow reconstruction surgery that now bears his name."
+    },
+    {
+     "outlet": "npr",
+     "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
+     "url": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T18:58:25+00:00",
+     "summary": "The left-handed MLB pitcher was 31 years old when he tore the ulnar collateral ligament in his pitching elbow in 1974, an injury that had been a death knell for pitchers' careers up to that point. (Image credit: Damian Dovarganes)"
+    },
+    {
+     "outlet": "nyt",
+     "title": "Tommy John, Pitcher Who Gave His Name to Career-Saving Surgery, Dies at 83",
+     "url": "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html",
+     "author": "Bruce Weber",
+     "kind": "news",
+     "published": "2026-08-16T18:43:56+00:00",
+     "summary": "After tearing an elbow ligament, he underwent a risky procedure and returned at his best, changing baseball and giving new hope to injured players."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Yankees Great Who Inspired Famous Surgery Dies at 83",
+     "url": "https://www.thedailybeast.com/tommy-john-pitcher-who-inspired-elbow-surgery-dies-at-83/",
+     "author": "Lauren Hartley",
+     "kind": "news",
+     "published": "2026-08-16T18:40:04+00:00",
+     "summary": "Focus On Sport / ocus on Sport, Getty Images Tommy John, the star pitcher who played 26 major league seasons mostly with the Yankees and Dodgers, has died at 83. Aside from winning 288 professional baseball games, he may be most known for inspiring the Tommy John elbow surgery. He was the first person to ever get the surgery after he tore his ulnar collateral ligament in his left elbow during the 1974 season. At the time, it was unclear whether John would ever be able to pitch again. Team doctor Frank Jobe performed the first-of-its-kind operation, which became medical history, and John returned to top form just a year later. On Aug. 8 during Old-Timers\u2019 Day at Yankee Stadium, John thanked Jobe, whom John said, \u201csaved my arm and made it possible for me to continue pitching. That surgery has since gone on to save the careers of countless pitchers, including many of the very best in the game today.\u201d John was previously diagnosed with bladder cancer. He is survived by his second wife, Cheryl, his sons Tommy III and Travis, and daughter Tamara Mannelly. Read it at https://nypost.com/2026/08/16/sports/tommy-john-yankees-great-who-had-surgery-named-after-him-dead-at-83/ Read more at The "
+    },
+    {
+     "outlet": "wapo",
+     "title": "Tommy John, whose elbow surgery transformed baseball, dies at 83",
+     "url": "https://www.washingtonpost.com/nation/2026/08/16/tommy-john-whose-elbow-surgery-transformed-baseball-dies-83/",
+     "author": "Matt Schudel",
+     "kind": "news",
+     "published": "2026-08-16T18:23:45+00:00",
+     "summary": "The lefty made four all-star teams while pitching for the White Sox, Dodgers and Yankees. An innovative procedure extended his career to 26 seasons."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Tommy John, pitcher whose surgery changed baseball, dies at age of 83",
+     "url": "https://www.theguardian.com/sport/2026/aug/16/tommy-john-pitcher-whose-surgery-changed-baseball-dies-at-age-of-83",
+     "author": "Agencies",
+     "kind": "news",
+     "published": "2026-08-16T18:19:00+00:00",
+     "summary": "John was first player to undergo pioneering operation New York Yankees pay tribute to four-time All-Star Tommy John, the namesake of a ligament-replacement surgery that paved a path to recovery for injured baseball players, has died. He was 83. TMZ.com reported that the pitcher died at his home in Florida, surrounded by his family, including his wife, Cheryl. John \u2060had recently been in hospice \u2060care. Continue reading..."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Former MLB pitcher Tommy John dies at age 83",
+     "url": "https://www.nbcnews.com/sports/baseball/former-mlb-pitcher-tommy-john-dies-age-83-rcna592800",
+     "author": "David K. Li",
+     "kind": "news",
+     "published": "2026-08-16T17:51:11+00:00",
+     "summary": "Tommy John, the longtime Major League baseball pitcher whose name is forever linked to the groundbreaking elbow surgery that saved his career and those of countless others since, has died, officials said Sunday."
+    }
+   ]
+  },
+  {
+   "id": "c981a7f51a",
+   "topic": "Climate & Energy",
+   "summary": "Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn't done punishing the Big Island with hurricane-force gusts. (Image credit: Taylor Cozloff/AP)",
+   "summaryFrom": "npr",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 4,
+    "big": [
+     "wind"
+    ],
+    "indie": [
+     "landfall",
+     "making",
+     "again",
+     "sending"
+    ]
+   },
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
+   "updated": "2026-08-16T20:15:22+00:00",
+   "outletCount": 7,
+   "counts": {
+    "corp": 3,
+    "nonprofit": 2,
+    "pub": 2
+   },
+   "newsCount": 7,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Tropical Storm Lala brings drenching rain, wind across the Hawaiian islands",
+     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T20:15:22+00:00",
+     "summary": "As a hurricane, Lala skirted past Hawaii's Big Island, where it brought heavy rain and the possibility of life-threatening flooding and mudslides."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Lala weakens to tropical storm, brings heavy rain, wind, flooding to Hawaii",
+     "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T19:56:14+00:00",
+     "summary": "More than 30 inches of rain have fallen on the Big Island."
+    },
+    {
+     "outlet": "npr",
+     "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
+     "url": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T15:47:58+00:00",
+     "summary": "Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn't done punishing the Big Island with hurricane-force gusts. (Image credit: Taylor Cozloff/AP)"
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
+     "url": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T14:55:51+00:00",
+     "summary": "The devastating hurricane grazes the Big Island in Hawaii in the US, but avoids making landfall."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Lala is again a tropical storm, sending drenching rain and winds across the Hawaiian islands",
+     "url": "https://www.pbs.org/newshour/nation/lala-is-again-a-tropical-storm-sending-drenching-rain-and-winds-across-the-hawaiian-islands",
+     "author": "Ed White, Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T14:44:14+00:00",
+     "summary": "A search-and-rescue mission was launched after flash floods apparently swept several occupied homes off their foundations in coastal communities, authorities said."
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Hurricane Lala Tracker as Storm Sparks Power Outage in Hawaii",
+     "url": "https://www.newsweek.com/hurricane-lala-tracker-as-storm-sparks-power-outage-in-hawaii-12328659",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T13:00:24+00:00",
+     "summary": "Hurricane Lala leaves 88,000+ without power in Hawaii as flooding, damaging winds and outages disrupt islands."
+    },
+    {
+     "outlet": "dw",
+     "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
+     "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T05:57:00+00:00",
+     "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is gradually weakening. However, the hurricane caused roads to flood and turned rivers into raging torrents."
+    }
+   ]
+  },
+  {
+   "id": "c562c35538",
+   "topic": "Politics",
+   "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its\u2026",
+   "summaryFrom": "axios",
+   "emphasis": {
+    "bigCount": 4,
+    "indieCount": 4,
+    "big": [
+     "lack"
+    ],
+    "indie": [
+     "faced",
      "broken",
-     "jumping"
+     "reportedly",
+     "shortages",
+     "plumbing",
+     "sailors"
     ]
    },
    "absent": [
@@ -29,8 +349,8 @@
    "updated": "2026-08-16T19:33:58+00:00",
    "outletCount": 7,
    "counts": {
-    "corp": 2,
-    "nonprofit": 3,
+    "corp": 3,
+    "nonprofit": 2,
     "family": 1,
     "pub": 2
    },
@@ -84,13 +404,13 @@
      "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted \u201cnot nearly long enough.\u201d"
     },
     {
-     "outlet": "pbsnewshour",
-     "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
-     "url": "https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln",
-     "author": "Konstantin Toropin, Associated Press",
+     "outlet": "axios",
+     "title": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
+     "url": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
+     "author": "Donica Phifer",
      "kind": "news",
-     "published": "2026-08-14T23:10:05+00:00",
-     "summary": "The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days."
+     "published": "2026-08-14T20:19:31+00:00",
+     "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle East deployment. While taking questions from the press Friday, a reporter mentioned families were worried, to which Trump replied \"no they're not.\" Zoom out: The Navy Times , The Military Times, and Stars and Stripes were among the first to report on conditions aboard the carrier. The ship hasn't m"
     },
     {
      "outlet": "bbc",
@@ -113,123 +433,39 @@
    ]
   },
   {
-   "id": "c981a7f51a",
-   "topic": "Climate & Energy",
-   "summary": "Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn't done punishing the Big Island with hurricane-force gusts. (Image credit: Taylor Cozloff/AP)",
-   "summaryFrom": "npr",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 4,
-    "big": [
-     "wind"
-    ],
-    "indie": [
-     "making",
-     "landfall",
-     "again",
-     "sending"
-    ]
-   },
-   "absent": [
-    "family",
-    "coop"
-   ],
-   "headline": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
-   "updated": "2026-08-16T19:18:27+00:00",
-   "outletCount": 7,
-   "counts": {
-    "corp": 3,
-    "nonprofit": 2,
-    "pub": 2
-   },
-   "newsCount": 7,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Tropical Storm Lala brings drenching rain, wind across the Hawaiian islands",
-     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T19:18:27+00:00",
-     "summary": "As a hurricane, Lala skirted past Hawaii's Big Island, where it brought heavy rain and the possibility of life-threatening flooding and mudslides."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Lala weakens to tropical storm, brings heavy rain, wind, flooding to Hawaii",
-     "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T17:01:37+00:00",
-     "summary": "Lala has weakened to a tropical storm as it tracks through the central Pacific Ocean, approaching the Big Island of Hawaii on Sunday."
-    },
-    {
-     "outlet": "npr",
-     "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
-     "url": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T15:47:58+00:00",
-     "summary": "Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn't done punishing the Big Island with hurricane-force gusts. (Image credit: Taylor Cozloff/AP)"
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
-     "url": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T14:55:51+00:00",
-     "summary": "The devastating hurricane grazes the Big Island in Hawaii in the US, but avoids making landfall."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Lala is again a tropical storm, sending drenching rain and winds across the Hawaiian islands",
-     "url": "https://www.pbs.org/newshour/nation/lala-is-again-a-tropical-storm-sending-drenching-rain-and-winds-across-the-hawaiian-islands",
-     "author": "Ed White, Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T14:44:14+00:00",
-     "summary": "A search-and-rescue mission was launched after flash floods apparently swept several occupied homes off their foundations in coastal communities, authorities said."
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Hurricane Lala Tracker as Storm Sparks Power Outage in Hawaii",
-     "url": "https://www.newsweek.com/hurricane-lala-tracker-as-storm-sparks-power-outage-in-hawaii-12328659",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T13:00:24+00:00",
-     "summary": "Hurricane Lala leaves 88,000+ without power in Hawaii as flooding, damaging winds and outages disrupt islands."
-    },
-    {
-     "outlet": "dw",
-     "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
-     "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T05:57:00+00:00",
-     "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is gradually weakening. However, the hurricane caused roads to flood and turned rivers into raging torrents."
-    }
-   ]
-  },
-  {
    "id": "13a67312a2",
    "topic": "Other",
    "summary": "Roberto Serra - Iguana Press / Roberto Serra, Getty Images Thieves stole four works by Sicilian Renaissance painter Antonello da Messina from the MuMe regional museum in Sicily during Ferragosto, a major Italian public holiday. On Saturday evening, just before 10 p.m., they evaded the museum\u2019s alarm and security systems and made off with three of the five surviving panels of the 1473 San Gregorio Polyptych, and a double-sided Virgin Mary and Piet\u00e0 panel taken from an armored display case, according to the news agency LaPresse. \u201cWe are devastated by what happened. They were two of Antonello da Messina\u2019s most important and best-known works. It is a tremendous loss for the museum, the city, the community and the art world,\u201d MuMe director Marisa Mercurio said. Lynda Albertson, an art-crime analyst for the Association for Research into Crimes against Art, said the works will be difficult for\u2026",
    "summaryFrom": "dailybeast",
-   "emphasis": null,
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 6,
+    "big": [
+     "ferragosto",
+     "stole"
+    ],
+    "indie": [
+     "stolen",
+     "paintings",
+     "italy",
+     "hometown",
+     "took",
+     "million"
+    ]
+   },
    "absent": [
-    "family",
     "coop"
    ],
    "headline": "Italy: Thieves steal key Renaissance paintings in Sicily",
    "updated": "2026-08-16T19:18:00+00:00",
-   "outletCount": 6,
+   "outletCount": 7,
    "counts": {
     "pub": 4,
     "nonprofit": 2,
-    "corp": 1
+    "corp": 1,
+    "family": 1
    },
-   "newsCount": 7,
+   "newsCount": 8,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
@@ -288,6 +524,15 @@
      "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
     },
     {
+     "outlet": "breitbart",
+     "title": "Thieves Steal Four Renaissance Artworks in Sicilian Museum Heist",
+     "url": "https://www.breitbart.com/europe/2026/08/16/thieves-steal-four-renaissance-artworks-in-sicilian-museum-heist/",
+     "author": "Breitbart London",
+     "kind": "news",
+     "published": "2026-08-16T13:07:27+00:00",
+     "summary": "Thieves stole four works attributed to the Sicilian Renaissance painter Antonello da Messina from a regional museum in the Sicilian city of Messina on the Italian Ferragosto holiday, the news agency LaPresse reported Sunday. The post Thieves Steal Four Renaissance Artworks in Sicilian Museum Heist appeared first on Breitbart ."
+    },
+    {
      "outlet": "france24",
      "title": "Italy recovers millions of euros worth of stolen Renoir, C\u00e9zanne and Matisse paintings",
      "url": "https://www.france24.com/en/video/20260816-italy-recovers-millions-of-euros-worth-of-stolen-renoir-c%C3%A9zanne-and-matisse-paintings",
@@ -303,31 +548,22 @@
    "topic": "World",
    "summary": "People spend time near the river as a helicopter collects water to extinguish the fire that broke out in a distribution warehouse near Moscow, Russia, after Ukraine's drone attack on Aug. 16, 2026. \u2014Stringer/Anadolu\u2014Getty Images Ukraine launched one of its largest aerial assaults on Russia overnight on Saturday, firing on targets deep inside the country and killing at least six people, according to Russian authorities. Russia\u2019s defense ministry said it destroyed 822 drones. Sergei Sobyanin, the mayor of Moscow, said in a Telegram post that at least 600 drones were launched toward the capital city and that over a third were destroyed. The raid showcased the rapid advancement of Ukraine\u2019s drone and missile capabilities in recent months, which enabled it to strike deep inside Russian territory despite the country\u2019s advanced defense networks. Read More: Why It Is Time for the West to Crush\u2026",
    "summaryFrom": "time",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 4,
-    "big": [],
-    "indie": [
-     "drones",
-     "hundreds",
-     "across"
-    ]
-   },
+   "emphasis": null,
    "absent": [
     "coop"
    ],
    "headline": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
    "updated": "2026-08-16T19:00:17+00:00",
-   "outletCount": 6,
+   "outletCount": 7,
    "counts": {
-    "family": 1,
+    "family": 2,
     "nonprofit": 2,
     "corp": 1,
     "pub": 2
    },
-   "newsCount": 6,
+   "newsCount": 7,
    "opinionCount": 0,
-   "underreported": true,
+   "underreported": false,
    "articles": [
     {
      "outlet": "time",
@@ -355,6 +591,15 @@
      "kind": "news",
      "published": "2026-08-16T11:45:40+00:00",
      "summary": "Footage shows a large column of smoke after Ukraine struck a major logistics hub in the Moscow region."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Ukraine Launches One of Its Largest Aerial Attacks of War, Killing at Least Six in Russia",
+     "url": "https://www.breitbart.com/europe/2026/08/16/ukraine-launches-one-of-its-largest-aerial-attacks-of-war-killing-at-least-six-in-russia/",
+     "author": "Breitbart London",
+     "kind": "news",
+     "published": "2026-08-16T11:05:26+00:00",
+     "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war. The post Ukraine Launches One of Its Largest Aerial Attacks of War, Killing at Least Six in Russia appeared first on Breitbart ."
     },
     {
      "outlet": "dw",
@@ -386,206 +631,57 @@
    ]
   },
   {
-   "id": "199ec43aa2",
-   "topic": "Politics",
-   "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its\u2026",
-   "summaryFrom": "axios",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Gallego: Trump Views Servicemembers as 'Toys' to Show Off",
-   "updated": "2026-08-16T16:47:12+00:00",
-   "outletCount": 6,
-   "counts": {
-    "family": 3,
-    "corp": 3
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Gallego: Trump Views Servicemembers as 'Toys' to Show Off",
-     "url": "https://www.breitbart.com/clips/2026/08/16/gallego-trump-views-servicemembers-as-toys-to-show-off/",
-     "author": "Pam Key",
-     "kind": "news",
-     "published": "2026-08-16T16:47:12+00:00",
-     "summary": "Sunday on ABC&#8217;s &#8220;This Week,&#8221; Sen. Ruben Gallego (D-AZ) said President Donald Trump views servicemembers as &#8220;toys&#8221; and props to show off strength. Partial transcript as follows: GALLEGO: Well, I&#8217;m glad they&#8217;re resolving their problems now, but where was the leadership The post Gallego: Trump Views Servicemembers as &#8216;Toys&#8217; to Show Off appeared first on Breitbart ."
-    },
-    {
-     "outlet": "thehill",
-     "title": "Gallego: USS Lincoln concerns prove Trump views service members as 'toys'",
-     "url": "https://thehill.com/homenews/senate/6031946-gallego-criticizes-trump-uss-lincoln/",
-     "author": "Max Rego",
-     "kind": "news",
-     "published": "2026-08-16T15:25:17+00:00",
-     "summary": "Democratic Sen. Ruben Gallego (Ariz.) said Sunday the reported mental health concerns among service members on board the USS Abraham Lincoln are proof that President Trump does not care about their well-being. \u201cThe president has shown that he just doesn't really care about the troops,\u201d Gallego told host Martha Raddatz on ABC News\u2019s \u201cThis Week.\u201d..."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' amid outcry from families",
-     "url": "https://www.latimes.com/politics/story/2026-08-14/uss-abraham-lincoln-deployment-conditions-families-trump-hegseth",
-     "author": "Christopher Buchanan, Ana Ceballos",
-     "kind": "news",
-     "published": "2026-08-14T21:13:51+00:00",
-     "summary": "Lawmakers are pressing for answers amid reports that sailors aboard the San Diego-based carrier have endured food shortages, plumbing failures and severe fatigue."
-    },
-    {
-     "outlet": "slate",
-     "title": "Trump on Long-Suffering Sailors: \u201cNot Nearly Long Enough\u201d",
-     "url": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html?via=rss",
-     "author": "Ian Prasad Philbrick",
-     "kind": "news",
-     "published": "2026-08-14T21:09:49+00:00",
-     "summary": "Sailors are suffering. Trump and his team are denying it."
-    },
-    {
-     "outlet": "axios",
-     "title": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
-     "url": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
-     "author": "Donica Phifer",
-     "kind": "news",
-     "published": "2026-08-14T20:19:31+00:00",
-     "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle East deployment. While taking questions from the press Friday, a reporter mentioned families were worried, to which Trump replied \"no they're not.\" Zoom out: The Navy Times , The Military Times, and Stars and Stripes were among the first to report on conditions aboard the carrier. The ship hasn't m"
-    },
-    {
-     "outlet": "time",
-     "title": "What to Know About the Growing Concerns Over Conditions on the Long-Deployed USS Abraham Lincoln",
-     "url": "https://time.com/article/2026/08/14/uss-abraham-lincoln-conditions-trump-iran-war/",
-     "author": "Connor Greene",
-     "kind": "news",
-     "published": "2026-08-14T20:14:50+00:00",
-     "summary": "In this U.S. Navy released handout, An F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 14, makes an arrested landing on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72) in support of Operation Epic Fury, on February 28, 2026. \u2014U.S. Navy/Getty Images The USS Abraham Lincoln has been at sea in the Middle East for months, and with no clear end in sight for the war in Iran , concerns for those aboard the aircraft carrier\u2014and for the vessel itself\u2014have mounted amid a series of troubling reports. Another aircraft carrier, the USS George Washington, had begun making its way towards the Middle East as of Thursday to replace the Lincoln, multiple news outlets reported. President Donald Trump appeared to confirm the reported ship swap on Friday, saying that the Lincoln \"is moving right now, or very shortly and is being replaced with another very similar ship.\u201d The Washington\u2019s deployment comes as reports have emerged in recent months recounting worsening living conditions, mental health concerns, and supply shortages on board the Lincoln. Trump seemed to deny the reports on the state of the Lincoln and its crew on Friday, responding \u201cNo, they\u2019re n"
-    }
-   ]
-  },
-  {
-   "id": "47b37decde",
-   "topic": "Justice & Policing",
-   "summary": "Spain and Morocco have boosted security around Spain\u2019s African enclave Ceuta following calls for another Moroccan migrant border rush, two weeks after a migrant invasion left at least 96 people dead. Soldiers have been watching commercial and government buildings in Ceuta while police are patrolling main streets, according to Reuters. Along the Moroccan border, security guards were seen on the beaches of Fnideq, one of the primary locations from which migrants illegally rushed Ceuta, Fox News reported . Morocco has arrested multiple people who circulated calls on social media for another migrant invasion into both Ceuta and Melilla, another Spanish African enclave. \u201cThe Ministry of the Interior has detected, during the last few days, the circulation of anonymous publications and messages on certain social networks inciting the organization of attempts at collective and illegal crossing\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 4,
-    "big": [],
-    "indie": [
-     "mass",
-     "crossing",
-     "social",
-     "media",
-     "attempted",
-     "migrants"
-    ]
-   },
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "Morocco tightens security as migrants gather near Ceuta border",
-   "updated": "2026-08-16T13:01:57+00:00",
-   "outletCount": 6,
-   "counts": {
-    "family": 2,
-    "pub": 3,
-    "nonprofit": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 1,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "bloomberg",
-     "title": "Second Ceuta Incursion Attempt Fails as Morocco, Spain Boost Security",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-16/second-ceuta-incursion-attempt-fails-as-morocco-spain-boost-security",
-     "author": "Souhail Karam",
-     "kind": "news",
-     "published": "2026-08-16T13:01:57+00:00",
-     "summary": "Grassroots calls for a second incursion into Ceuta from Morocco fell flat over the weekend, with security tight and authorities turning back the relative handful who tried to make the move."
-    },
-    {
-     "outlet": "france24",
-     "title": "Morocco tightens security as migrants gather near Ceuta border",
-     "url": "https://www.france24.com/en/morocco-tightens-security-as-migrants-gather-near-ceuta-border",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T09:17:50+00:00",
-     "summary": "Morocco has deployed heavy security around the border city of Fnideq after false social media rumours claimed the border to Spain's Ceuta enclave would open. Hundreds of migrants, mostly from sub-Saharan Africa, have gathered nearby, raising fears of another mass crossing just weeks after tens of thousands attempted to enter the Spanish territory."
-    },
-    {
-     "outlet": "dw",
-     "title": "Morocco detains dozens of migrants trying to enter Spanish North African exclave Ceuta",
-     "url": "https://www.dw.com/en/morocco-detains-dozens-of-migrants-trying-to-enter-spanish-north-african-exclave-ceuta/a-78385761?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T23:26:00+00:00",
-     "summary": "The attempted crossings come two weeks after around 72,000 people rushed into the Spanish North African exclave from Morocco. Calls for another mass crossing had been circulating on social media this week."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-     "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T20:58:31+00:00",
-     "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
-     "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-     "author": "Reuters",
-     "kind": "news",
-     "published": "2026-08-15T18:08:21+00:00",
-     "summary": "Border security tightened after social media posts call for another mass crossing into Spain\u2019s north African territory Moroccan police have arrested 111 people as they tried to enter Spain\u2019s north African territory of Ceuta, amid \u2060tightened security on both sides after social media posts \u200bcalled for another mass crossing. The attempted crossing on Saturday came two weeks after more than 72,000 migrants surged into Ceuta , causing tensions within the EU and prompting anti-immigration rhetoric among far-right parties worldwide. At least 96 people died trying to \u2060reach European soil. Continue reading..."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Calls For Another Migrant Border Invasion Force Spain And Morocco To Take Action",
-     "url": "https://www.dailywire.com/news/calls-for-another-migrant-border-invasion-force-spain-and-morocco-to-take-action",
-     "author": "Catherine Maxwell",
-     "kind": "opinion",
-     "published": "2026-08-15T13:55:25+00:00",
-     "summary": "Spain and Morocco have boosted security around Spain\u2019s African enclave Ceuta following calls for another Moroccan migrant border rush, two weeks after a migrant invasion left at least 96 people dead. Soldiers have been watching commercial and government buildings in Ceuta while police are patrolling main streets, according to Reuters. Along the Moroccan border, security guards were seen on the beaches of Fnideq, one of the primary locations from which migrants illegally rushed Ceuta, Fox News reported . Morocco has arrested multiple people who circulated calls on social media for another migrant invasion into both Ceuta and Melilla, another Spanish African enclave. \u201cThe Ministry of the Interior has detected, during the last few days, the circulation of anonymous publications and messages on certain social networks inciting the organization of attempts at collective and illegal crossing to the cities of Ceuta and Melilla, practices which carry serious risks to the safety of people and aim to instrumentalize migration issues in acts of incitement, which are criminalized by law,\u201d the Moroccan Ministry of the Interior said in a statement, according to Fox News. Meanwhile, Spain is stil"
-    }
-   ]
-  },
-  {
-   "id": "a616205db7",
+   "id": "40507e217d",
    "topic": "Other",
    "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant\u2026",
    "summaryFrom": "dailywire",
    "emphasis": {
-    "bigCount": 3,
+    "bigCount": 4,
     "indieCount": 2,
     "big": [
-     "fire",
-     "multiple",
      "wounded",
-     "opened",
-     "around"
+     "shot",
+     "multiple",
+     "around",
+     "fire",
+     "opened"
     ],
     "indie": []
    },
    "absent": [
     "coop"
    ],
-   "headline": "Teen suspect in Virginia campus shooting found hiding in closet",
-   "updated": "2026-08-16T19:00:23+00:00",
-   "outletCount": 5,
+   "headline": "Suspect in Virginia State University shooting found hiding in dorm closet",
+   "updated": "2026-08-16T20:11:36+00:00",
+   "outletCount": 6,
    "counts": {
-    "pub": 1,
-    "corp": 1,
+    "family": 3,
     "nonprofit": 1,
-    "family": 2
+    "pub": 1,
+    "corp": 1
    },
-   "newsCount": 4,
+   "newsCount": 5,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Virginia State University mass-shooting suspect found cowering in campus closet over 14 hours after mayhem",
+     "url": "https://nypost.com/2026/08/16/us-news/virginia-state-university-mass-shooting-suspect-found-cowering-in-campus-closet/",
+     "author": "Jorge Fitz-Gibbon",
+     "kind": "news",
+     "published": "2026-08-16T20:11:36+00:00",
+     "summary": "Camron Harris, 19, was found hiding in a Virginia State University dorm closet hours after police said he shot and wounded five people."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Suspect in Virginia State University shooting found hiding in dorm closet",
+     "url": "https://www.theguardian.com/us-news/2026/aug/16/virginia-state-university-shooting-suspect-arrested",
+     "author": "Michael Sainato",
+     "kind": "news",
+     "published": "2026-08-16T19:39:03+00:00",
+     "summary": "Suspect, 19, who is not enrolled at the university arrested in connection with shooting of five people, authorities say A young man suspected in connection with the shooting of five people on Saturday on the campus of Virginia State University (VSU) hid in a dormitory closet for more than 14 hours being found and arrested, according to authorities. The suspect \u2013 identified as 19-year-old Camron Harris \u2013 was found in Seward Hall on VSU\u2019s campus at 4pm, local police Lt James Lamb said, according to the Virginia news outlet WTVR . The shooting occurred at about 1.30am on Saturday. The Associated Press contributed reporting Continue reading..."
+    },
     {
      "outlet": "bbc",
      "title": "Teen suspect in Virginia campus shooting found hiding in closet",
@@ -603,15 +699,6 @@
      "kind": "news",
      "published": "2026-08-16T17:48:31+00:00",
      "summary": "A 19-year-old man has been arrested as a suspect in the shooting of five people at Virginia State University after he was found hiding in a closet."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Suspect in Virginia State University shooting found hiding in dorm closet",
-     "url": "https://www.theguardian.com/us-news/2026/aug/16/virginia-state-university-shooting-suspect-arrested",
-     "author": "Michael Sainato",
-     "kind": "news",
-     "published": "2026-08-16T15:42:53+00:00",
-     "summary": "Suspect, 19, who is not enrolled at the university arrested in connection with shooting of five people, authorities say A young man suspected in connection with the shooting of five people on Saturday on the campus of Virginia State University (VSU) hid in a dormitory closet for more than 14 hours being found and arrested, according to authorities. The suspect \u2013 identified as 19-year-old Camron Harris \u2013 was found in Seward Hall on VSU\u2019s campus at 4pm, local police Lt James Lamb said, according to the Virginia news outlet WTVR . The shooting occurred at about 1.30am on Saturday. Continue reading..."
     },
     {
      "outlet": "breitbart",
@@ -634,82 +721,165 @@
    ]
   },
   {
-   "id": "b120e655fe",
-   "topic": "Culture & Sport",
-   "summary": "John was first player to undergo pioneering operation New York Yankees pay tribute to four-time All-Star Tommy John, the namesake of a ligament-replacement surgery that paved a path to recovery for injured baseball players, has died. He was 83. TMZ.com reported that the pitcher died at his home in Florida, surrounded by his family, including his wife, Cheryl. John \u2060had recently been in hospice \u2060care. Continue reading...",
-   "summaryFrom": "guardian",
+   "id": "68878b208a",
+   "topic": "Politics",
+   "summary": "When President Donald Trump signed an executive order on childhood vaccines this week, Jayme Franklin stood nearby, repeatedly touching her pregnant belly. Franklin, 28, gave brief remarks at the signing and applauded Trump\u2019s order, which seeks to reduce the number of routine vaccines recommended to children. \u201cThis is what this country was built on: freedom for parents to make the decisions that best suit their kid,\u201d she said at the signing. \u201cAnd I\u2019m not anti-vaccine at all. I\u2019m pro-vaccine, but we want to be able to have the freedom to space it out and to choose which one works for our child. We don&#8217;t believe that there&#8217;s a one-size-fits-all solution for every child.\u201d Franklin is a co-founder of The Conservateur, a media brand for conservative women that includes a lifestyle publication and podcast. She\u2019s also a self-described MAHA mom \u2014 a subset of the electorate who lean\u2026",
+   "summaryFrom": "the19th",
    "emphasis": {
-    "bigCount": 3,
+    "bigCount": 4,
     "indieCount": 2,
     "big": [
-     "procedure",
-     "name"
+     "overhaul"
     ],
-    "indie": [
-     "pioneering",
-     "namesake"
-    ]
+    "indie": []
    },
    "absent": [
     "coop",
     "pub"
    ],
-   "headline": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
-   "updated": "2026-08-16T18:58:25+00:00",
-   "outletCount": 5,
+   "headline": "Republican senator denounces Trump\u2019s \u2018crazy, stupid\u2019 claims about MMR vaccine safety",
+   "updated": "2026-08-16T19:58:31+00:00",
+   "outletCount": 6,
    "counts": {
     "nonprofit": 2,
-    "family": 2,
-    "corp": 1
+    "corp": 3,
+    "family": 1
    },
-   "newsCount": 5,
+   "newsCount": 6,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "npr",
-     "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
-     "url": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
-     "author": "The Associated Press",
+     "outlet": "guardian",
+     "title": "Republican senator denounces Trump\u2019s \u2018crazy, stupid\u2019 claims about MMR vaccine safety",
+     "url": "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims",
+     "author": "Robert Mackey",
      "kind": "news",
-     "published": "2026-08-16T18:58:25+00:00",
-     "summary": "The left-handed MLB pitcher was 31 years old when he tore the ulnar collateral ligament in his pitching elbow in 1974, an injury that had been a death knell for pitchers' careers up to that point. (Image credit: Damian Dovarganes)"
+     "published": "2026-08-16T19:58:31+00:00",
+     "summary": "Outgoing Louisiana senator Bill Cassidy, a medical doctor, voted to confirm anti-vaccine activist RFK Jr as health secretary before speaking out Republican senator Bill Cassidy \u2013 a medical doctor who voted to confirm anti-vaccine activist Robert F Kennedy as federal health secretary in early 2025 \u2013 on Sunday denounced Donald Trump \u2019s \u201ccrazy, stupid\u201d claims about the safety of the combined MMR vaccine for undermining faith in immunization. When Trump recently ordered changes to the recommended childhood vaccination schedule, with Kennedy by his side, the president called for two shots of the combined Measles, Mumps and Rubella vaccine to be scrapped in favor of two doses of three separate vaccines, claiming that the MMR shots are \u201csort of like a nuclear weapon\u201d that could be \u201cquite lethal\u201d. Continue reading..."
     },
     {
-     "outlet": "nyt",
-     "title": "Tommy John, Pitcher Who Gave His Name to Career-Saving Surgery, Dies at 83",
-     "url": "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html",
-     "author": "Bruce Weber",
-     "kind": "news",
-     "published": "2026-08-16T18:43:56+00:00",
-     "summary": "After tearing an elbow ligament, he underwent a risky procedure and returned at his best, changing baseball and giving new hope to injured players."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Tommy John, MLB All-Star pitcher who had a surgery named after him, dies at 83",
-     "url": "https://www.cbsnews.com/news/tommy-john-mlb-baseball-player-dies-83/",
+     "outlet": "newsweek",
+     "title": "Bill Cassidy Calls Trump&#039;s Vaccine Plan &#039;Stupid Policy&#039;",
+     "url": "https://www.newsweek.com/bill-cassidy-calls-trump-vaccine-plan-stupid-policy-12329123",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T18:42:09+00:00",
-     "summary": "One of Tommy John's biggest legacies to MLB was his comeback elbow reconstruction surgery that now bears his name."
+     "published": "2026-08-16T16:43:16+00:00",
+     "summary": "The GOP senator criticized President Trump&#039;s vaccine overhaul, arguing it would require more shots and doctor visits for children."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "GOP Senator Savages Trump\u2019s \u2018Crazy Stupid\u2019 New Order",
+     "url": "https://www.thedailybeast.com/gop-senator-bill-cassidy-savages-trumps-crazy-stupid-new-order/",
+     "author": "Katie Francis",
+     "kind": "news",
+     "published": "2026-08-16T14:56:06+00:00",
+     "summary": "CNN Republican Sen. Bill Cassidy is raging against President Donald Trump\u2019s \u201cpotentially tragic\u201d overhaul of the childhood vaccine schedule. Cassidy, a physician, appeared on State of the Union Sunday, and was asked about Trump\u2019s claims that the current combined MMR vaccine could be \u201cquite lethal,\u201d and was comparable to \u201cpumping\u201d a child with \u201ca large vat\u201d or \u201cgallons\u201d of chemicals . \u201cYeah, that\u2019s a crazy, stupid thing,\u201d Cassidy said. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "GOP Sen. Bill Cassidy on Trump\u2019s vaccine executive order: \u2018Stupid thing to do\u2019",
+     "url": "https://abcnews.com/Politics/gop-sen-bill-cassidy-trumps-vaccine-executive-order/story?id=135685348",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T14:20:10+00:00",
+     "summary": "Republican Sen. Bill Cassidy said on ABC News' \"This Week\" that Trump's executive order on vaccines was a \"stupid thing to do.\""
+    },
+    {
+     "outlet": "the19th",
+     "title": "What Trump\u2019s vaccine order says about his relationship with MAHA moms",
+     "url": "https://19thnews.org/2026/08/trump-vaccine-order-maha-moms/",
+     "author": "Barbara Rodriguez",
+     "kind": "news",
+     "published": "2026-08-14T18:27:39+00:00",
+     "summary": "When President Donald Trump signed an executive order on childhood vaccines this week, Jayme Franklin stood nearby, repeatedly touching her pregnant belly. Franklin, 28, gave brief remarks at the signing and applauded Trump\u2019s order, which seeks to reduce the number of routine vaccines recommended to children. \u201cThis is what this country was built on: freedom for parents to make the decisions that best suit their kid,\u201d she said at the signing. \u201cAnd I\u2019m not anti-vaccine at all. I\u2019m pro-vaccine, but we want to be able to have the freedom to space it out and to choose which one works for our child. We don&#8217;t believe that there&#8217;s a one-size-fits-all solution for every child.\u201d Franklin is a co-founder of The Conservateur, a media brand for conservative women that includes a lifestyle publication and podcast. She\u2019s also a self-described MAHA mom \u2014 a subset of the electorate who lean into their identities as mothers to advocate for policies that they purport will make children healthier through the Make America Healthy Again movement. Its ranks include several high-ranking women in the White House, like press secretary Karoline Leavitt, who just announced she is leaving her job t"
+    },
+    {
+     "outlet": "theatlantic",
+     "title": "Trump\u2019s Latest Vaccine Order Is Making Things More Confusing",
+     "url": "https://www.theatlantic.com/newsletters/2026/08/us-childhood-vaccine-guidance-mess/688285/?utm_source=feed",
+     "author": "Will Gottsegen",
+     "kind": "news",
+     "published": "2026-08-13T22:49:00+00:00",
+     "summary": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here. In January, the Trump administration attempted to fundamentally change the way the United States handles childhood immunizations. Following a memo from the Department of Health and Human Services, the CDC updated its vaccine schedule to recommend that some shots no longer be given to all children. A federal court undid the effort in March. In an executive order in May, Donald Trump called on states to adopt the narrower schedule anyway. On Monday, Trump issued a new executive order on the same subject, focused on lowering the number of vaccines that the government recommends for all children. As I wrote earlier this week, this White House has a habit of doubling down when it doesn\u2019t get its way. But only states have the power to put these proposals into practice\u2014and many state policy makers, concerned that the White House is contradicting existing research, aren\u2019t keen to follow its guidance. According to the new executive order, preventive shots for hepatitis A, hepatitis B, dengue, and"
+    }
+   ]
+  },
+  {
+   "id": "9b9c847d9d",
+   "topic": "Politics",
+   "summary": "US attorney general says no one in his role \u2018should ever\u2019 make this vow amid concern over Trump steering DoJ US attorney general Todd Blanche on Sunday declined to assure that the federal justice department he helms would always act independently of the White House and Donald Trump . \u201cNo, I\u2019m not going to pledge that,\u201d he said when asked about the topic by NBC\u2019s Meet the Press host, Kristen Welker. \u201cAnd no attorney general should ever pledge that.\u201d Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Todd Blanche declines to pledge independence from White House",
+   "updated": "2026-08-16T19:45:56+00:00",
+   "outletCount": 6,
+   "counts": {
+    "corp": 3,
+    "family": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "Blanche refuses to pledge DOJ will always act independently of White House",
+     "url": "https://thehill.com/homenews/administration/6032206-blanche-rejects-independence-pledge/",
+     "author": "Max Rego",
+     "kind": "news",
+     "published": "2026-08-16T19:45:56+00:00",
+     "summary": "Attorney General Todd Blanche on Sunday did not commit to acting independently of President Trump, but he claimed the president has not and will not ask him to prosecute specific individuals. \u201cThere's a big difference between saying we will always do our job and investigate any case and act independently of the White House. No,..."
     },
     {
      "outlet": "wapo",
-     "title": "Tommy John, whose elbow surgery transformed baseball, dies at 83",
-     "url": "https://www.washingtonpost.com/nation/2026/08/16/tommy-john-whose-elbow-surgery-transformed-baseball-dies-83/",
-     "author": "Matt Schudel",
+     "title": "Blanche on whether DOJ will be independent: \u2018I\u2019m not going to pledge that\u2019",
+     "url": "https://www.washingtonpost.com/politics/2026/08/16/blanche-whether-doj-will-be-independent-im-not-going-pledge-that/",
+     "author": "Matthew Choi",
      "kind": "news",
-     "published": "2026-08-16T18:23:45+00:00",
-     "summary": "The lefty made four all-star teams while pitching for the White Sox, Dodgers and Yankees. An innovative procedure extended his career to 26 seasons."
+     "published": "2026-08-16T18:15:38+00:00",
+     "summary": "The newly sworn-in attorney general rejected the idea of an independent Justice Deportment, lent support to Jeanine Pirro and declared the \u201canti-weaponization\u201d fund dead."
     },
     {
      "outlet": "guardian",
-     "title": "Tommy John, pitcher whose surgery changed baseball, dies at age of 83",
-     "url": "https://www.theguardian.com/sport/2026/aug/16/tommy-john-pitcher-whose-surgery-changed-baseball-dies-at-age-of-83",
-     "author": "Agencies",
+     "title": "Todd Blanche declines to pledge independence from White House",
+     "url": "https://www.theguardian.com/us-news/2026/aug/16/todd-blanche-doj-independence-trump-white-house",
+     "author": "Michael Sainato",
      "kind": "news",
-     "published": "2026-08-16T18:19:00+00:00",
-     "summary": "John was first player to undergo pioneering operation New York Yankees pay tribute to four-time All-Star Tommy John, the namesake of a ligament-replacement surgery that paved a path to recovery for injured baseball players, has died. He was 83. TMZ.com reported that the pitcher died at his home in Florida, surrounded by his family, including his wife, Cheryl. John \u2060had recently been in hospice \u2060care. Continue reading..."
+     "published": "2026-08-16T16:33:08+00:00",
+     "summary": "US attorney general says no one in his role \u2018should ever\u2019 make this vow amid concern over Trump steering DoJ US attorney general Todd Blanche on Sunday declined to assure that the federal justice department he helms would always act independently of the White House and Donald Trump . \u201cNo, I\u2019m not going to pledge that,\u201d he said when asked about the topic by NBC\u2019s Meet the Press host, Kristen Welker. \u201cAnd no attorney general should ever pledge that.\u201d Continue reading..."
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Todd Blanche Refuses to Pledge DOJ Independence From White House",
+     "url": "https://www.newsweek.com/todd-blanche-doj-independence-white-house-trump-12328916",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T15:35:44+00:00",
+     "summary": "The remarks are likely to reignite concerns about the DOJ&#039;s independence which were central to Blanche&#039;s confirmation battle."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Todd Blanche Refuses To Pledge Independence From White House As Trump\u2019s Attorney General",
+     "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/16/todd-blanche-refuses-to-pledge-independence-from-white-house-as-trumps-attorney-general/",
+     "author": "Zachary Folk, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-16T15:05:14+00:00",
+     "summary": "In a \u201cMeet the Press\u201d interview on Sunday, Blanche promised the Justice Department would \u201cact with integrity\u201d under his leadership."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Attorney General Todd Blanche says the DOJ may take states\u2019 voter-roll fight to Supreme Court",
+     "url": "https://www.nbcnews.com/meet-the-press/video/attorney-general-todd-blanche-says-the-doj-may-take-states-voter-roll-fight-to-supreme-court-268371525962",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T13:47:27+00:00",
+     "summary": "In an interview with Meet the Press, Attorney General Todd Blanche says \"absolutely it's a possibility\" that the Department of Justice may take the Trump administration's fight over voter rolls to the Supreme Court."
     }
    ]
   },
@@ -852,6 +1022,89 @@
    ]
   },
   {
+   "id": "47b37decde",
+   "topic": "World",
+   "summary": "Spain and Morocco have boosted security around Spain\u2019s African enclave Ceuta following calls for another Moroccan migrant border rush, two weeks after a migrant invasion left at least 96 people dead. Soldiers have been watching commercial and government buildings in Ceuta while police are patrolling main streets, according to Reuters. Along the Moroccan border, security guards were seen on the beaches of Fnideq, one of the primary locations from which migrants illegally rushed Ceuta, Fox News reported . Morocco has arrested multiple people who circulated calls on social media for another migrant invasion into both Ceuta and Melilla, another Spanish African enclave. \u201cThe Ministry of the Interior has detected, during the last few days, the circulation of anonymous publications and messages on certain social networks inciting the organization of attempts at collective and illegal crossing\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 3,
+    "big": [
+     "spain"
+    ],
+    "indie": [
+     "social",
+     "migrants",
+     "mass",
+     "crossing",
+     "media",
+     "attempted"
+    ]
+   },
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Morocco tightens security as migrants gather near Ceuta border",
+   "updated": "2026-08-16T13:01:57+00:00",
+   "outletCount": 5,
+   "counts": {
+    "family": 2,
+    "pub": 3
+   },
+   "newsCount": 4,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bloomberg",
+     "title": "Second Ceuta Incursion Attempt Fails as Morocco, Spain Boost Security",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-16/second-ceuta-incursion-attempt-fails-as-morocco-spain-boost-security",
+     "author": "Souhail Karam",
+     "kind": "news",
+     "published": "2026-08-16T13:01:57+00:00",
+     "summary": "Grassroots calls for a second incursion into Ceuta from Morocco fell flat over the weekend, with security tight and authorities turning back the relative handful who tried to make the move."
+    },
+    {
+     "outlet": "france24",
+     "title": "Morocco tightens security as migrants gather near Ceuta border",
+     "url": "https://www.france24.com/en/morocco-tightens-security-as-migrants-gather-near-ceuta-border",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T09:17:50+00:00",
+     "summary": "Morocco has deployed heavy security around the border city of Fnideq after false social media rumours claimed the border to Spain's Ceuta enclave would open. Hundreds of migrants, mostly from sub-Saharan Africa, have gathered nearby, raising fears of another mass crossing just weeks after tens of thousands attempted to enter the Spanish territory."
+    },
+    {
+     "outlet": "dw",
+     "title": "Morocco detains dozens of migrants trying to enter Spanish North African exclave Ceuta",
+     "url": "https://www.dw.com/en/morocco-detains-dozens-of-migrants-trying-to-enter-spanish-north-african-exclave-ceuta/a-78385761?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T23:26:00+00:00",
+     "summary": "The attempted crossings come two weeks after around 72,000 people rushed into the Spanish North African exclave from Morocco. Calls for another mass crossing had been circulating on social media this week."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+     "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T20:58:31+00:00",
+     "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Calls For Another Migrant Border Invasion Force Spain And Morocco To Take Action",
+     "url": "https://www.dailywire.com/news/calls-for-another-migrant-border-invasion-force-spain-and-morocco-to-take-action",
+     "author": "Catherine Maxwell",
+     "kind": "opinion",
+     "published": "2026-08-15T13:55:25+00:00",
+     "summary": "Spain and Morocco have boosted security around Spain\u2019s African enclave Ceuta following calls for another Moroccan migrant border rush, two weeks after a migrant invasion left at least 96 people dead. Soldiers have been watching commercial and government buildings in Ceuta while police are patrolling main streets, according to Reuters. Along the Moroccan border, security guards were seen on the beaches of Fnideq, one of the primary locations from which migrants illegally rushed Ceuta, Fox News reported . Morocco has arrested multiple people who circulated calls on social media for another migrant invasion into both Ceuta and Melilla, another Spanish African enclave. \u201cThe Ministry of the Interior has detected, during the last few days, the circulation of anonymous publications and messages on certain social networks inciting the organization of attempts at collective and illegal crossing to the cities of Ceuta and Melilla, practices which carry serious risks to the safety of people and aim to instrumentalize migration issues in acts of incitement, which are criminalized by law,\u201d the Moroccan Ministry of the Interior said in a statement, according to Fox News. Meanwhile, Spain is stil"
+    }
+   ]
+  },
+  {
    "id": "e3ca7d9791",
    "topic": "World",
    "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading...",
@@ -921,325 +1174,6 @@
    ]
   },
   {
-   "id": "ef4b90933b",
-   "topic": "Politics",
-   "summary": "The board of the John F. Kennedy Center for the Performing Arts approved a plan on Thursday to enshrine President Donald Trump's name on the building, setting off a new battle in the war over what mark he should be able to leave on the institution. We have been down this road before. The Kennedy Center's board of trustees \"overstepped its statutory bounds by unilaterally renaming the Kennedy Center after President Trump,\" U.S. District Judge Christopher Cooper wrote in May. \"In 1964, Congress deliberately rechristened the 'National Cultural Center' the 'John F. Kennedy Center for the Performing Arts.' The text, structure, and evolution of the organic statute makes the institution's name abundantly clear.\" The center, as a result, was forced to remove Trump's name, which had been affixed to the facade as: THE DONALD J. TRUMP AND THE JOHN F. KENNEDY MEMORIAL CENTER FOR THE PERFORMING\u2026",
-   "summaryFrom": "reason",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 2,
-    "big": [
-     "judge's",
-     "trump",
-     "facade",
-     "testing"
-    ],
-    "indie": []
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Why Is the Kennedy Center Board Trying To Add Trump's Name to the Building\u2014Again?",
-   "updated": "2026-08-16T11:00:06+00:00",
-   "outletCount": 5,
-   "counts": {
-    "nonprofit": 1,
-    "pub": 1,
-    "family": 2,
-    "corp": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "reason",
-     "title": "Why Is the Kennedy Center Board Trying To Add Trump's Name to the Building\u2014Again?",
-     "url": "https://reason.com/2026/08/16/the-kennedy-center-board-is-trying-to-add-trumps-name-to-the-building-again-why/",
-     "author": "Billy Binion",
-     "kind": "opinion",
-     "published": "2026-08-16T11:00:06+00:00",
-     "summary": "The board of the John F. Kennedy Center for the Performing Arts approved a plan on Thursday to enshrine President Donald Trump's name on the building, setting off a new battle in the war over what mark he should be able to leave on the institution. We have been down this road before. The Kennedy Center's board of trustees \"overstepped its statutory bounds by unilaterally renaming the Kennedy Center after President Trump,\" U.S. District Judge Christopher Cooper wrote in May. \"In 1964, Congress deliberately rechristened the 'National Cultural Center' the 'John F. Kennedy Center for the Performing Arts.' The text, structure, and evolution of the organic statute makes the institution's name abundantly clear.\" The center, as a result, was forced to remove Trump's name, which had been affixed to the facade as: THE DONALD J. TRUMP AND THE JOHN F. KENNEDY MEMORIAL CENTER FOR THE PERFORMING ARTS. That addition came after the president took control of the Kennedy Center last year\u2014a grab, he maintained, that was necessary to combat alleged wokeness at the institution. \"We don't need woke at the Kennedy Center,\" he said in February 2025 aboard Air Force One. \"Some of the shows were terrible. T"
-    },
-    {
-     "outlet": "bbc",
-     "title": "Kennedy Center board votes to put Trump's name back on building",
-     "url": "https://www.bbc.co.uk/news/articles/cn7n5l5xy5ro?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T22:21:36+00:00",
-     "summary": "The board on Thursday also voted to proceed with a two-year closure for proposed renovations, which was earlier blocked by a federal judge."
-    },
-    {
-     "outlet": "time",
-     "title": "Kennedy Center Board Votes to Put Trump's Name Back on the Building, Testing Judge's Order",
-     "url": "https://time.com/article/2026/08/13/kennedy-center-trump-name-board-vote-judge-order/",
-     "author": "Connor Greene",
-     "kind": "news",
-     "published": "2026-08-13T22:02:14+00:00",
-     "summary": "A person walks past scaffolding and a large protective tarp covering the facade of the John F. Kennedy Center for the Performing Arts, guarded by two security guards, in Washington, D.C., on August 13, 2026. \u2014Brendan Smialowski\u2014AFP/Getty Images The Kennedy Center boardseon Thursday voted to put President Donald Trump\u2019s name back on the building\u2019s facade, setting the stage to test a judge\u2019s order from May that mandated its removal. The board, made up of mostly Trump loyalists , voted 20-3 to change the name of the building to \u201cThe John F. Kennedy Center for the Performing Arts Restored and Renovated by President Donald J. Trump\u201d while naming the center\u2019s grounds \u201cPresident Donald J. Trump Plaza,\u201d according to attendees of Thursday\u2019s meeting who spoke to multiple media outlets. The board also once again voted to close the performing arts center for up to two years for renovations. Operations are set to shift to the REACH, another building on the campus, while they are completed. \u201cThis morning\u2019s decision to close the Center and the surprise agenda item to put Donald Trump\u2019s name back on the building was more of the same,\u201d Democratic Rep. Joyce Beatty of Ohio, an ex-officio board membe"
-    },
-    {
-     "outlet": "axios",
-     "title": "Kennedy Center board restores Trump's name, testing judge",
-     "url": "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order",
-     "author": "Cuneyt Dil",
-     "kind": "news",
-     "published": "2026-08-13T21:36:42+00:00",
-     "summary": "The Kennedy Center board voted Thursday to again add President Trump's name to the John F. Kennedy Center for the Performing Arts, two anonymous sources told Axios. Why it matters: The move challenges a federal judge's ruling back in May that only Congress could change the name of the performing arts venue, and that Trump's name must be removed . That process was completed in June. U.S. District Judge Christopher Cooper concluded that the board had \"overstepped its statutory bounds by unilaterally renaming\" the center after the president. The administration has appealed the ruling. Zoom in: Thursday's vote won't make Trump's name part of the complex. Instead, an inscription will go below the Kennedy Center sign that reads \"Restored and Renovated by President Donald J. Trump,\" and the physical site will be renamed \"the President Donald J. Trump Plaza.\" The decision is likely meant to circumvent both the judge's ruling and a federal law that oversees the Kennedy Center, which reads in part, \"no additional memorials or plaques in the nature of memorials shall be designated or installed in the public areas.\" \"This latest development is a transparent effort to circumvent the Court's rul"
-    },
-    {
-     "outlet": "theatlantic",
-     "title": "Trump\u2019s New Plan to Get His Name Back on the Kennedy Center",
-     "url": "https://www.theatlantic.com/culture/2026/08/kennedy-center-trump-board/688276/?utm_source=feed",
-     "author": "Janay Kingsberry",
-     "kind": "news",
-     "published": "2026-08-13T20:38:00+00:00",
-     "summary": "Donald Trump just won\u2019t let go of his plans for the Kennedy Center. Less than three months after a federal judge ordered the president\u2019s name stripped from the national arts center, Trump\u2019s handpicked trustees have found a new way to try to put him back on the building. During a board meeting today, they voted in favor of a resolution that would return the president\u2019s name to the building\u2019s facade. It would read: The John F. Kennedy Memorial Center for the Performing Arts Restored and Renovated by President Donald Trump I obtained a copy of the resolution, which contains one more edit to the Kennedy Center\u2019s marble edifice. Once an obscure endowment known as the Trump Kennedy Center Fund reaches $100 million in donations, the resolution would expand the proposed signage\u2019s language to include a third line: Endowed by the Trump Kennedy Center Fund . The vote, which was not included on the agenda distributed before the meeting, will likely drag out a legal fight over Trump\u2019s transformation of the center and deepen an institutional crisis that has repelled audiences, artists, and donors since his takeover. Participants voted 20\u20133 to adopt the resolution, one person familiar with today\u2019"
-    }
-   ]
-  },
-  {
-   "id": "9dfab22528",
-   "topic": "Health",
-   "summary": "Tommy John, the former MLB pitcher whose elbow surgery set the standard in baseball and helped lengthen the careers of countless players, has died. He was 83. Mike Maguire, his agent, announced John\u2019s death in a statement. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! \"Thomas Edward \u2018Tommy\u2019 John Jr. passed away peacefully at his home in Lakewood Ranch last night surrounded by his loving wife, Cheryl, and his sister-in-laws Judith Florentino and Karen Jordan,\" the statement read. \"A private celebration of life will be held in Florida.\" John\u2019s death comes about a week after he released a farewell message to fans on New York Yankees\u2019 Old-Timers\u2019 Day . He said in his message he was \"saying goodbye\" as the team revealed he had been battling health issues. \"I want to thank the Yankees organization &amp; the Steinbrenner family for giving me this opportunity to\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Iconic Yankees pitcher Tommy John passes away at 83",
-   "updated": "2026-08-16T19:11:00+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 3,
-    "corp": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Iconic Yankees pitcher Tommy John passes away at 83",
-     "url": "https://nypost.com/video/iconic-yankees-pitcher-tommy-john-passes-away-at-83/",
-     "author": "NY Post Video",
-     "kind": "news",
-     "published": "2026-08-16T19:11:00+00:00",
-     "summary": "The New York Post remembers former MLB pitcher Tommy John, who has passed away at age 83. While pitching for the Yankees, Tommy John became the first player to undergo the elbow surgery that now carries his name. The lefty pitched for 26 seasons in MLB and his impact on the game transcends the mound..."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Former MLB pitcher Tommy John dies at age 83",
-     "url": "https://www.nbcnews.com/sports/baseball/former-mlb-pitcher-tommy-john-dies-age-83-rcna592800",
-     "author": "David K. Li",
-     "kind": "news",
-     "published": "2026-08-16T17:51:11+00:00",
-     "summary": "Tommy John, the longtime Major League baseball pitcher whose name is forever linked to the groundbreaking elbow surgery that saved his career and those of countless others since, has died, officials said Sunday."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Tommy John, Dodgers pitcher and medical pioneer, dies at 83",
-     "url": "https://www.latimes.com/sports/story/2026-08-16/tommy-john-obituary-surgery-yankees-dodgers",
-     "author": "Michael Kupper",
-     "kind": "news",
-     "published": "2026-08-16T17:45:42+00:00",
-     "summary": "Tommy John, who ruptured a ligament in his left elbow in 1974, agreed to a radical surgery that revived his career and changed baseball. He pitched for 26 years."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Famed ex-Yankees pitcher Tommy John dead at 83 after sending farewell message to fans",
-     "url": "https://www.foxnews.com/sports/famed-ex-yankees-pitcher-tommy-john-dead-83-farewell-message-fans",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T17:17:40+00:00",
-     "summary": "Tommy John, the former MLB pitcher whose elbow surgery set the standard in baseball and helped lengthen the careers of countless players, has died. He was 83. Mike Maguire, his agent, announced John\u2019s death in a statement. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! \"Thomas Edward \u2018Tommy\u2019 John Jr. passed away peacefully at his home in Lakewood Ranch last night surrounded by his loving wife, Cheryl, and his sister-in-laws Judith Florentino and Karen Jordan,\" the statement read. \"A private celebration of life will be held in Florida.\" John\u2019s death comes about a week after he released a farewell message to fans on New York Yankees\u2019 Old-Timers\u2019 Day . He said in his message he was \"saying goodbye\" as the team revealed he had been battling health issues. \"I want to thank the Yankees organization &amp; the Steinbrenner family for giving me this opportunity to say goodbye to everyone, along with all the friends &amp; fans who followed me throughout my 26-year career,\" John\u2019s message read. \"Thanks to Dr. Jobe, who saved my arm &amp; made it possible for me to continue pitching. That surgery has since gone on to save the careers of countless pitchers, includi"
-    }
-   ]
-  },
-  {
-   "id": "31b08fa480",
-   "topic": "Climate & Energy",
-   "summary": "One person is dead, homes have been swept off their foundations and more than 130,000 customers are without power as Tropical Storm Lala grinds westward across the Hawaiian Islands, a day after it brushed the Big Island as a Category 1 hurricane. Gov. Josh Green (D-HI) said Saturday evening that one person was killed in a storm-related car crash on the Big Island&#8217;s southern end, and that 19 roofs had been lost and at least three hospitals were running on generator power. Hours later, flash flooding tore through the coastal communities of Naalehu and Waiohinu. &#8220;Several occupied homes may have been swept off their foundations, and based on that, civil defense has initiated a search and rescue mission,&#8221; Hawaii County Mayor Kimo Alameda said overnight. Responders went looking for people who had called 911 but could not be reached through the floodwaters. &#8220;What makes\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
-   "updated": "2026-08-16T18:46:12+00:00",
-   "outletCount": 4,
-   "counts": {
-    "pub": 1,
-    "family": 3
-   },
-   "newsCount": 3,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
-     "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T18:46:12+00:00",
-     "summary": "A search-and-rescue operation is under way after properties were uprooted from their foundations."
-    },
-    {
-     "outlet": "nyt",
-     "title": "As Lala Lashes Hawaii, the Atlantic Hurricane Season Remains Calm. So Far.",
-     "url": "https://www.nytimes.com/2026/08/16/weather/el-nino-lala-tropical-storm.html",
-     "author": "Judson Jones",
-     "kind": "news",
-     "published": "2026-08-16T17:06:10+00:00",
-     "summary": "Tropical Storm Arthur made landfall in Freeport, Texas, in June, flooding neighborhoods and becoming the first named tropical storm of the 2026 Atlantic hurricane season."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Hurricane Lala Kills One, Rips Homes Off Their Foundations In Hawaii",
-     "url": "https://www.dailywire.com/news/hurricane-lala-kills-one-rips-homes-off-their-foundations-in-hawaii",
-     "author": "Virginia Kruta",
-     "kind": "opinion",
-     "published": "2026-08-16T13:04:24+00:00",
-     "summary": "One person is dead, homes have been swept off their foundations and more than 130,000 customers are without power as Tropical Storm Lala grinds westward across the Hawaiian Islands, a day after it brushed the Big Island as a Category 1 hurricane. Gov. Josh Green (D-HI) said Saturday evening that one person was killed in a storm-related car crash on the Big Island&#8217;s southern end, and that 19 roofs had been lost and at least three hospitals were running on generator power. Hours later, flash flooding tore through the coastal communities of Naalehu and Waiohinu. &#8220;Several occupied homes may have been swept off their foundations, and based on that, civil defense has initiated a search and rescue mission,&#8221; Hawaii County Mayor Kimo Alameda said overnight. Responders went looking for people who had called 911 but could not be reached through the floodwaters. &#8220;What makes this very challenging is that there&#8217;s rushing water, there&#8217;s debris, and there&#8217;s boulders on the road and it&#8217;s dark,&#8221; Alameda said. Lala, since downgraded to tropical storm status, battered several of the islands with strong winds and heavy rains without officially makin"
-    },
-    {
-     "outlet": "latimes",
-     "title": "Flights between L.A. and Hawaii disrupted as Hurricane Lala approaches the Big Island",
-     "url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
-     "author": "Josh Rottenberg",
-     "kind": "news",
-     "published": "2026-08-16T00:56:14+00:00",
-     "summary": "Several flights from LAX to Hawaii were canceled Saturday, including service to Kona, Maui, Kauai and Honolulu."
-    }
-   ]
-  },
-  {
-   "id": "2c13ceccef",
-   "topic": "Politics",
-   "summary": "When President Donald Trump signed an executive order on childhood vaccines this week, Jayme Franklin stood nearby, repeatedly touching her pregnant belly. Franklin, 28, gave brief remarks at the signing and applauded Trump\u2019s order, which seeks to reduce the number of routine vaccines recommended to children. \u201cThis is what this country was built on: freedom for parents to make the decisions that best suit their kid,\u201d she said at the signing. \u201cAnd I\u2019m not anti-vaccine at all. I\u2019m pro-vaccine, but we want to be able to have the freedom to space it out and to choose which one works for our child. We don&#8217;t believe that there&#8217;s a one-size-fits-all solution for every child.\u201d Franklin is a co-founder of The Conservateur, a media brand for conservative women that includes a lifestyle publication and podcast. She\u2019s also a self-described MAHA mom \u2014 a subset of the electorate who lean\u2026",
-   "summaryFrom": "the19th",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "What Trump\u2019s vaccine order says about his relationship with MAHA moms",
-   "updated": "2026-08-16T16:43:16+00:00",
-   "outletCount": 4,
-   "counts": {
-    "corp": 2,
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "Bill Cassidy Calls Trump&#039;s Vaccine Plan &#039;Stupid Policy&#039;",
-     "url": "https://www.newsweek.com/bill-cassidy-calls-trump-vaccine-plan-stupid-policy-12329123",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T16:43:16+00:00",
-     "summary": "The GOP senator criticized President Trump&#039;s vaccine overhaul, arguing it would require more shots and doctor visits for children."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "GOP Sen. Bill Cassidy on Trump\u2019s vaccine executive order: \u2018Stupid thing to do\u2019",
-     "url": "https://abcnews.com/Politics/gop-sen-bill-cassidy-trumps-vaccine-executive-order/story?id=135685348",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T14:20:10+00:00",
-     "summary": "Republican Sen. Bill Cassidy said on ABC News' \"This Week\" that Trump's executive order on vaccines was a \"stupid thing to do.\""
-    },
-    {
-     "outlet": "the19th",
-     "title": "What Trump\u2019s vaccine order says about his relationship with MAHA moms",
-     "url": "https://19thnews.org/2026/08/trump-vaccine-order-maha-moms/",
-     "author": "Barbara Rodriguez",
-     "kind": "news",
-     "published": "2026-08-14T18:27:39+00:00",
-     "summary": "When President Donald Trump signed an executive order on childhood vaccines this week, Jayme Franklin stood nearby, repeatedly touching her pregnant belly. Franklin, 28, gave brief remarks at the signing and applauded Trump\u2019s order, which seeks to reduce the number of routine vaccines recommended to children. \u201cThis is what this country was built on: freedom for parents to make the decisions that best suit their kid,\u201d she said at the signing. \u201cAnd I\u2019m not anti-vaccine at all. I\u2019m pro-vaccine, but we want to be able to have the freedom to space it out and to choose which one works for our child. We don&#8217;t believe that there&#8217;s a one-size-fits-all solution for every child.\u201d Franklin is a co-founder of The Conservateur, a media brand for conservative women that includes a lifestyle publication and podcast. She\u2019s also a self-described MAHA mom \u2014 a subset of the electorate who lean into their identities as mothers to advocate for policies that they purport will make children healthier through the Make America Healthy Again movement. Its ranks include several high-ranking women in the White House, like press secretary Karoline Leavitt, who just announced she is leaving her job t"
-    },
-    {
-     "outlet": "theatlantic",
-     "title": "Trump\u2019s Latest Vaccine Order Is Making Things More Confusing",
-     "url": "https://www.theatlantic.com/newsletters/2026/08/us-childhood-vaccine-guidance-mess/688285/?utm_source=feed",
-     "author": "Will Gottsegen",
-     "kind": "news",
-     "published": "2026-08-13T22:49:00+00:00",
-     "summary": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here. In January, the Trump administration attempted to fundamentally change the way the United States handles childhood immunizations. Following a memo from the Department of Health and Human Services, the CDC updated its vaccine schedule to recommend that some shots no longer be given to all children. A federal court undid the effort in March. In an executive order in May, Donald Trump called on states to adopt the narrower schedule anyway. On Monday, Trump issued a new executive order on the same subject, focused on lowering the number of vaccines that the government recommends for all children. As I wrote earlier this week, this White House has a habit of doubling down when it doesn\u2019t get its way. But only states have the power to put these proposals into practice\u2014and many state policy makers, concerned that the White House is contradicting existing research, aren\u2019t keen to follow its guidance. According to the new executive order, preventive shots for hepatitis A, hepatitis B, dengue, and"
-    }
-   ]
-  },
-  {
-   "id": "9b9c847d9d",
-   "topic": "Politics",
-   "summary": "US attorney general says no one in his role \u2018should ever\u2019 make this vow amid concern over Trump steering DoJ US attorney general Todd Blanche on Sunday declined to assure that the federal justice department he helms would always act independently of the White House and Donald Trump . \u201cNo, I\u2019m not going to pledge that,\u201d he said when asked about the topic by NBC\u2019s Meet the Press host, Kristen Welker. \u201cAnd no attorney general should ever pledge that.\u201d Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Todd Blanche declines to pledge independence from White House",
-   "updated": "2026-08-16T16:33:08+00:00",
-   "outletCount": 4,
-   "counts": {
-    "nonprofit": 1,
-    "corp": 2,
-    "family": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Todd Blanche declines to pledge independence from White House",
-     "url": "https://www.theguardian.com/us-news/2026/aug/16/todd-blanche-doj-independence-trump-white-house",
-     "author": "Michael Sainato",
-     "kind": "news",
-     "published": "2026-08-16T16:33:08+00:00",
-     "summary": "US attorney general says no one in his role \u2018should ever\u2019 make this vow amid concern over Trump steering DoJ US attorney general Todd Blanche on Sunday declined to assure that the federal justice department he helms would always act independently of the White House and Donald Trump . \u201cNo, I\u2019m not going to pledge that,\u201d he said when asked about the topic by NBC\u2019s Meet the Press host, Kristen Welker. \u201cAnd no attorney general should ever pledge that.\u201d Continue reading..."
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Todd Blanche Refuses to Pledge DOJ Independence From White House",
-     "url": "https://www.newsweek.com/todd-blanche-doj-independence-white-house-trump-12328916",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T15:35:44+00:00",
-     "summary": "The remarks are likely to reignite concerns about the DOJ&#039;s independence which were central to Blanche&#039;s confirmation battle."
-    },
-    {
-     "outlet": "forbes",
-     "title": "Todd Blanche Refuses To Pledge Independence From White House As Trump\u2019s Attorney General",
-     "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/16/todd-blanche-refuses-to-pledge-independence-from-white-house-as-trumps-attorney-general/",
-     "author": "Zachary Folk, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-16T15:05:14+00:00",
-     "summary": "In a \u201cMeet the Press\u201d interview on Sunday, Blanche promised the Justice Department would \u201cact with integrity\u201d under his leadership."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Attorney General Todd Blanche says the DOJ may take states\u2019 voter-roll fight to Supreme Court",
-     "url": "https://www.nbcnews.com/meet-the-press/video/attorney-general-todd-blanche-says-the-doj-may-take-states-voter-roll-fight-to-supreme-court-268371525962",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T13:47:27+00:00",
-     "summary": "In an interview with Meet the Press, Attorney General Todd Blanche says \"absolutely it's a possibility\" that the Department of Justice may take the Trump administration's fight over voter rolls to the Supreme Court."
-    }
-   ]
-  },
-  {
    "id": "8c91f091b7",
    "topic": "Health",
    "summary": "Jason Arday, the Cambridge professor who resigned nine days ago over plagiarism allegations, was found dead in his London home. Authorities said in a statement that an ambulance was called to his residence after Arday had been found &#8220;unresponsive.&#8221; He was pronounced dead at the scene. Police added that the death was being treated as \u201cunexpected\u201d but is not believed to be suspicious, according to The Telegraph. Just nine days ago, Cambridge launched an investigation into Arday. \u201cThe University of Cambridge has begun an investigation following new information about Professor Arday\u2019s academic qualifications and honorary appointments,\u201d the statement from the university said. \u201cIn order to ensure a fair process, we will not comment further until this has concluded.&#8221; Cambridge was not initially keen on opening an investigation. Cambridge said Arday was \u201cthe victim of a vile\u2026",
@@ -1296,6 +1230,74 @@
      "kind": "opinion",
      "published": "2026-08-14T16:57:09+00:00",
      "summary": "Jason Arday, the Cambridge professor who resigned nine days ago over plagiarism allegations, was found dead in his London home. Authorities said in a statement that an ambulance was called to his residence after Arday had been found &#8220;unresponsive.&#8221; He was pronounced dead at the scene. Police added that the death was being treated as \u201cunexpected\u201d but is not believed to be suspicious, according to The Telegraph. Just nine days ago, Cambridge launched an investigation into Arday. \u201cThe University of Cambridge has begun an investigation following new information about Professor Arday\u2019s academic qualifications and honorary appointments,\u201d the statement from the university said. \u201cIn order to ensure a fair process, we will not comment further until this has concluded.&#8221; Cambridge was not initially keen on opening an investigation. Cambridge said Arday was \u201cthe victim of a vile campaign to undermine his credibility, which must stop.\u201d The school began to change its tune when reports emerged that Arday had filed a harassment claim against a journalist who was investigating his work. The day that Cambridge announced its investigation, Arday resigned. \u201cI no longer wish to feel a"
+    }
+   ]
+  },
+  {
+   "id": "ef4b90933b",
+   "topic": "Politics",
+   "summary": "The board of the John F. Kennedy Center for the Performing Arts approved a plan on Thursday to enshrine President Donald Trump's name on the building, setting off a new battle in the war over what mark he should be able to leave on the institution. We have been down this road before. The Kennedy Center's board of trustees \"overstepped its statutory bounds by unilaterally renaming the Kennedy Center after President Trump,\" U.S. District Judge Christopher Cooper wrote in May. \"In 1964, Congress deliberately rechristened the 'National Cultural Center' the 'John F. Kennedy Center for the Performing Arts.' The text, structure, and evolution of the organic statute makes the institution's name abundantly clear.\" The center, as a result, was forced to remove Trump's name, which had been affixed to the facade as: THE DONALD J. TRUMP AND THE JOHN F. KENNEDY MEMORIAL CENTER FOR THE PERFORMING\u2026",
+   "summaryFrom": "reason",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 2,
+    "big": [
+     "testing",
+     "judge's"
+    ],
+    "indie": []
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Why Is the Kennedy Center Board Trying To Add Trump's Name to the Building\u2014Again?",
+   "updated": "2026-08-16T11:00:06+00:00",
+   "outletCount": 4,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 1,
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "reason",
+     "title": "Why Is the Kennedy Center Board Trying To Add Trump's Name to the Building\u2014Again?",
+     "url": "https://reason.com/2026/08/16/the-kennedy-center-board-is-trying-to-add-trumps-name-to-the-building-again-why/",
+     "author": "Billy Binion",
+     "kind": "opinion",
+     "published": "2026-08-16T11:00:06+00:00",
+     "summary": "The board of the John F. Kennedy Center for the Performing Arts approved a plan on Thursday to enshrine President Donald Trump's name on the building, setting off a new battle in the war over what mark he should be able to leave on the institution. We have been down this road before. The Kennedy Center's board of trustees \"overstepped its statutory bounds by unilaterally renaming the Kennedy Center after President Trump,\" U.S. District Judge Christopher Cooper wrote in May. \"In 1964, Congress deliberately rechristened the 'National Cultural Center' the 'John F. Kennedy Center for the Performing Arts.' The text, structure, and evolution of the organic statute makes the institution's name abundantly clear.\" The center, as a result, was forced to remove Trump's name, which had been affixed to the facade as: THE DONALD J. TRUMP AND THE JOHN F. KENNEDY MEMORIAL CENTER FOR THE PERFORMING ARTS. That addition came after the president took control of the Kennedy Center last year\u2014a grab, he maintained, that was necessary to combat alleged wokeness at the institution. \"We don't need woke at the Kennedy Center,\" he said in February 2025 aboard Air Force One. \"Some of the shows were terrible. T"
+    },
+    {
+     "outlet": "bbc",
+     "title": "Kennedy Center board votes to put Trump's name back on building",
+     "url": "https://www.bbc.co.uk/news/articles/cn7n5l5xy5ro?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T22:21:36+00:00",
+     "summary": "The board on Thursday also voted to proceed with a two-year closure for proposed renovations, which was earlier blocked by a federal judge."
+    },
+    {
+     "outlet": "time",
+     "title": "Kennedy Center Board Votes to Put Trump's Name Back on the Building, Testing Judge's Order",
+     "url": "https://time.com/article/2026/08/13/kennedy-center-trump-name-board-vote-judge-order/",
+     "author": "Connor Greene",
+     "kind": "news",
+     "published": "2026-08-13T22:02:14+00:00",
+     "summary": "A person walks past scaffolding and a large protective tarp covering the facade of the John F. Kennedy Center for the Performing Arts, guarded by two security guards, in Washington, D.C., on August 13, 2026. \u2014Brendan Smialowski\u2014AFP/Getty Images The Kennedy Center boardseon Thursday voted to put President Donald Trump\u2019s name back on the building\u2019s facade, setting the stage to test a judge\u2019s order from May that mandated its removal. The board, made up of mostly Trump loyalists , voted 20-3 to change the name of the building to \u201cThe John F. Kennedy Center for the Performing Arts Restored and Renovated by President Donald J. Trump\u201d while naming the center\u2019s grounds \u201cPresident Donald J. Trump Plaza,\u201d according to attendees of Thursday\u2019s meeting who spoke to multiple media outlets. The board also once again voted to close the performing arts center for up to two years for renovations. Operations are set to shift to the REACH, another building on the campus, while they are completed. \u201cThis morning\u2019s decision to close the Center and the surprise agenda item to put Donald Trump\u2019s name back on the building was more of the same,\u201d Democratic Rep. Joyce Beatty of Ohio, an ex-officio board membe"
+    },
+    {
+     "outlet": "axios",
+     "title": "Kennedy Center board restores Trump's name, testing judge",
+     "url": "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order",
+     "author": "Cuneyt Dil",
+     "kind": "news",
+     "published": "2026-08-13T21:36:42+00:00",
+     "summary": "The Kennedy Center board voted Thursday to again add President Trump's name to the John F. Kennedy Center for the Performing Arts, two anonymous sources told Axios. Why it matters: The move challenges a federal judge's ruling back in May that only Congress could change the name of the performing arts venue, and that Trump's name must be removed . That process was completed in June. U.S. District Judge Christopher Cooper concluded that the board had \"overstepped its statutory bounds by unilaterally renaming\" the center after the president. The administration has appealed the ruling. Zoom in: Thursday's vote won't make Trump's name part of the complex. Instead, an inscription will go below the Kennedy Center sign that reads \"Restored and Renovated by President Donald J. Trump,\" and the physical site will be renamed \"the President Donald J. Trump Plaza.\" The decision is likely meant to circumvent both the judge's ruling and a federal law that oversees the Kennedy Center, which reads in part, \"no additional memorials or plaques in the nature of memorials shall be designated or installed in the public areas.\" \"This latest development is a transparent effort to circumvent the Court's rul"
     }
    ]
   },
@@ -1368,12 +1370,12 @@
     "bigCount": 3,
     "indieCount": 3,
     "big": [
-     "international",
-     "airport",
      "stations",
+     "airport",
      "foot-washing",
      "worth",
-     "scrapped"
+     "international",
+     "fort"
     ],
     "indie": [
      "order"
@@ -1512,9 +1514,111 @@
    ]
   },
   {
-   "id": "d8863e39db",
-   "topic": "Politics",
-   "summary": "Caitlyn Jenner reacted to how the WNBA has navigated its latest controversy over whether transgender athletes would be eligible to play in the league. The WNBA has lacked clarity on whether a transgender athlete would be able to play in the league. In the midst of it all, former NBA players Enes Kanter Freedom and Royce White each launched bids to get into the WNBA. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! Jenner appeared on \"Fox News @ Night\" with Trace Gallagher and said there was a \"simple\" conclusion to the ordeal. \"They\u2019re showing the hypocrisy of what\u2019s going on out there in the WNBA,\" Jenner said of Kanter and White. \"The WNBA had their meetings on this issue and Cathy (Engelbert), the head, says, \u2018We talked about the trans issue but we just haven\u2019t come up with a conclusion at this point. We will continue the conversation.\u2019 Cathy, XX, you\u2019re\u2026",
+   "id": "6bf5e6b886",
+   "topic": "Justice & Policing",
+   "summary": "Border security tightened after social media posts call for another mass crossing into Spain\u2019s north African territory Moroccan police have arrested 111 people as they tried to enter Spain\u2019s north African territory of Ceuta, amid \u2060tightened security on both sides after social media posts \u200bcalled for another mass crossing. The attempted crossing on Saturday came two weeks after more than 72,000 migrants surged into Ceuta , causing tensions within the EU and prompting anti-immigration rhetoric among far-right parties worldwide. At least 96 people died trying to \u2060reach European soil. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain's Ceuta",
+   "updated": "2026-08-16T20:34:41+00:00",
+   "outletCount": 3,
+   "counts": {
+    "nonprofit": 2,
+    "pub": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "pbsnewshour",
+     "title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain's Ceuta",
+     "url": "https://www.pbs.org/newshour/world/moroccan-security-forces-arrest-nearly-300-migrants-trying-to-reach-spains-ceuta",
+     "author": "Akram Oubachir, Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T20:34:41+00:00",
+     "summary": "The latest attempt comes two weeks after tens of thousands of would-be migrants, driven by poverty and misinformation, rushed toward Ceuta in one of the deadliest migration crises to hit the region."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T15:51:26+00:00",
+     "summary": "Moroccan migrants are protesting in Ceuta, demanding asylum two weeks after more than a massive migrant surge."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+     "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+     "author": "Reuters",
+     "kind": "news",
+     "published": "2026-08-15T18:08:21+00:00",
+     "summary": "Border security tightened after social media posts call for another mass crossing into Spain\u2019s north African territory Moroccan police have arrested 111 people as they tried to enter Spain\u2019s north African territory of Ceuta, amid \u2060tightened security on both sides after social media posts \u200bcalled for another mass crossing. The attempted crossing on Saturday came two weeks after more than 72,000 migrants surged into Ceuta , causing tensions within the EU and prompting anti-immigration rhetoric among far-right parties worldwide. At least 96 people died trying to \u2060reach European soil. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "21a5f55b8c",
+   "topic": "Health",
+   "summary": "In this U.S. Navy released handout, An F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 14, makes an arrested landing on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72) in support of Operation Epic Fury, on February 28, 2026. \u2014U.S. Navy/Getty Images The USS Abraham Lincoln has been at sea in the Middle East for months, and with no clear end in sight for the war in Iran , concerns for those aboard the aircraft carrier\u2014and for the vessel itself\u2014have mounted amid a series of troubling reports. Another aircraft carrier, the USS George Washington, had begun making its way towards the Middle East as of Thursday to replace the Lincoln, multiple news outlets reported. President Donald Trump appeared to confirm the reported ship swap on Friday, saying that the Lincoln \"is moving right now, or very shortly and is being replaced with another very\u2026",
+   "summaryFrom": "time",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "US commander says mental health a 'priority' on USS Lincoln",
+   "updated": "2026-08-16T20:14:37+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 1,
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "US commander says mental health a 'priority' on USS Lincoln",
+     "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T20:14:37+00:00",
+     "summary": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Bacon says Congress \"should have oversight\" amid concerns about USS Lincoln",
+     "url": "https://www.cbsnews.com/news/uss-abraham-lincoln-conditions-don-bacon-face-the-nation-08-16-2026/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T17:07:44+00:00",
+     "summary": "GOP Rep. Don Bacon of Nebraska said Congress should conduct oversight following concerns about conditions aboard the USS Abraham Lincoln, which is being replaced after a nearly nine-month deployment."
+    },
+    {
+     "outlet": "time",
+     "title": "What to Know About the Growing Concerns Over Conditions on the Long-Deployed USS Abraham Lincoln",
+     "url": "https://time.com/article/2026/08/14/uss-abraham-lincoln-conditions-trump-iran-war/",
+     "author": "Connor Greene",
+     "kind": "news",
+     "published": "2026-08-14T20:14:50+00:00",
+     "summary": "In this U.S. Navy released handout, An F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 14, makes an arrested landing on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72) in support of Operation Epic Fury, on February 28, 2026. \u2014U.S. Navy/Getty Images The USS Abraham Lincoln has been at sea in the Middle East for months, and with no clear end in sight for the war in Iran , concerns for those aboard the aircraft carrier\u2014and for the vessel itself\u2014have mounted amid a series of troubling reports. Another aircraft carrier, the USS George Washington, had begun making its way towards the Middle East as of Thursday to replace the Lincoln, multiple news outlets reported. President Donald Trump appeared to confirm the reported ship swap on Friday, saying that the Lincoln \"is moving right now, or very shortly and is being replaced with another very similar ship.\u201d The Washington\u2019s deployment comes as reports have emerged in recent months recounting worsening living conditions, mental health concerns, and supply shortages on board the Lincoln. Trump seemed to deny the reports on the state of the Lincoln and its crew on Friday, responding \u201cNo, they\u2019re n"
+    }
+   ]
+  },
+  {
+   "id": "e0f4dc59cd",
+   "topic": "Health",
+   "summary": "Tommy John, the former MLB pitcher whose elbow surgery set the standard in baseball and helped lengthen the careers of countless players, has died. He was 83. Mike Maguire, his agent, announced John\u2019s death in a statement. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! \"Thomas Edward \u2018Tommy\u2019 John Jr. passed away peacefully at his home in Lakewood Ranch last night surrounded by his loving wife, Cheryl, and his sister-in-laws Judith Florentino and Karen Jordan,\" the statement read. \"A private celebration of life will be held in Florida.\" John\u2019s death comes about a week after he released a farewell message to fans on New York Yankees\u2019 Old-Timers\u2019 Day . He said in his message he was \"saying goodbye\" as the team revealed he had been battling health issues. \"I want to thank the Yankees organization &amp; the Steinbrenner family for giving me this opportunity to\u2026",
    "summaryFrom": "foxnews",
    "emphasis": null,
    "absent": [
@@ -1523,8 +1627,8 @@
     "nonprofit",
     "pub"
    ],
-   "headline": "Caitlyn Jenner says Enes Kanter Freedom, Royce White exposing WNBA\u2019s trans \u2018hypocrisy\u2019",
-   "updated": "2026-08-16T19:07:49+00:00",
+   "headline": "Reactions pour in for legendary Dodgers figure Tommy John after death at 83",
+   "updated": "2026-08-16T20:04:00+00:00",
    "outletCount": 3,
    "counts": {
     "family": 3
@@ -1535,30 +1639,183 @@
    "articles": [
     {
      "outlet": "nypost",
-     "title": "Caitlyn Jenner says Enes Kanter Freedom, Royce White exposing WNBA\u2019s trans \u2018hypocrisy\u2019",
-     "url": "https://nypost.com/2026/08/16/sports/caitlyn-jenner-says-enes-kanter-freedom-royce-white-exposing-wnbas-trans-hypocrisy/",
-     "author": "Bridget Reilly",
+     "title": "Reactions pour in for legendary Dodgers figure Tommy John after death at 83",
+     "url": "https://nypost.com/2026/08/16/sports/reactions-legendary-dodgers-figure-tommy-john/",
+     "author": "Kendall Capps",
      "kind": "news",
-     "published": "2026-08-16T19:07:49+00:00",
-     "summary": "Caitlyn Jenner is having her say in the ongoing transgender athlete conversations that have been flooding the WNBA as of late."
+     "published": "2026-08-16T20:04:00+00:00",
+     "summary": "The legendary pitcher was mourned by former players, the Dodgers organization and fans nationwide."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Tommy John, Dodgers pitcher and medical pioneer, dies at 83",
+     "url": "https://www.latimes.com/sports/story/2026-08-16/tommy-john-obituary-surgery-yankees-dodgers",
+     "author": "Michael Kupper",
+     "kind": "news",
+     "published": "2026-08-16T17:45:42+00:00",
+     "summary": "Tommy John, who ruptured a ligament in his left elbow in 1974, agreed to a radical surgery that revived his career and changed baseball. He pitched for 26 years."
     },
     {
      "outlet": "foxnews",
-     "title": "Caitlyn Jenner says there's a 'simple' solution to end the WNBA's trans athlete debate",
-     "url": "https://www.foxnews.com/outkick-sports/caitlyn-jenner-simple-solution-end-wnba-trans-athlete-debate",
+     "title": "Famed ex-Yankees pitcher Tommy John dead at 83 after sending farewell message to fans",
+     "url": "https://www.foxnews.com/sports/famed-ex-yankees-pitcher-tommy-john-dead-83-farewell-message-fans",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T15:56:03+00:00",
-     "summary": "Caitlyn Jenner reacted to how the WNBA has navigated its latest controversy over whether transgender athletes would be eligible to play in the league. The WNBA has lacked clarity on whether a transgender athlete would be able to play in the league. In the midst of it all, former NBA players Enes Kanter Freedom and Royce White each launched bids to get into the WNBA. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! Jenner appeared on \"Fox News @ Night\" with Trace Gallagher and said there was a \"simple\" conclusion to the ordeal. \"They\u2019re showing the hypocrisy of what\u2019s going on out there in the WNBA,\" Jenner said of Kanter and White. \"The WNBA had their meetings on this issue and Cathy (Engelbert), the head, says, \u2018We talked about the trans issue but we just haven\u2019t come up with a conclusion at this point. We will continue the conversation.\u2019 Cathy, XX, you\u2019re in. XY you\u2019re out. It\u2019s that simple. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM \"And both these guys I think are doing a good job just to show the WNBA the hypocrisy that\u2019s going on here. We have to protect women\u2019s sports \u2026 I want to protect women\u2019s sports. Title IX was one of the greatest leg"
+     "published": "2026-08-16T17:17:40+00:00",
+     "summary": "Tommy John, the former MLB pitcher whose elbow surgery set the standard in baseball and helped lengthen the careers of countless players, has died. He was 83. Mike Maguire, his agent, announced John\u2019s death in a statement. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! \"Thomas Edward \u2018Tommy\u2019 John Jr. passed away peacefully at his home in Lakewood Ranch last night surrounded by his loving wife, Cheryl, and his sister-in-laws Judith Florentino and Karen Jordan,\" the statement read. \"A private celebration of life will be held in Florida.\" John\u2019s death comes about a week after he released a farewell message to fans on New York Yankees\u2019 Old-Timers\u2019 Day . He said in his message he was \"saying goodbye\" as the team revealed he had been battling health issues. \"I want to thank the Yankees organization &amp; the Steinbrenner family for giving me this opportunity to say goodbye to everyone, along with all the friends &amp; fans who followed me throughout my 26-year career,\" John\u2019s message read. \"Thanks to Dr. Jobe, who saved my arm &amp; made it possible for me to continue pitching. That surgery has since gone on to save the careers of countless pitchers, includi"
+    }
+   ]
+  },
+  {
+   "id": "67505f3706",
+   "topic": "Climate & Energy",
+   "summary": "Four-year-old boy, two men and three women among those who died since storms began on 11 August, officials say Days of storms and flooding in Indiana left at least six people dead as flood waters peaked in Indianapolis\u2019s White River \u2013 and rains were expected to ease in the state capital region and other parts of the state on Sunday. A four-year-old boy, two men and three women were among those who had died since the storms began on 11 August, state homeland security department spokesperson Liz Woods said. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "At least six people dead from days of storms and record flooding in Indiana",
+   "updated": "2026-08-16T19:59:17+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 1,
+    "nonprofit": 2
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "Indiana Prepares for More Rain After Days of Deadly Storms",
+     "url": "https://www.nytimes.com/2026/08/16/us/indiana-storms-flooding.html",
+     "author": "Bernard Mokam",
+     "kind": "news",
+     "published": "2026-08-16T19:59:17+00:00",
+     "summary": "Since last week, hazardous weather has caused seven deaths, forced people from their homes and required some to be rescued by boat. The region was at risk for more flooding on Sunday."
     },
     {
-     "outlet": "theatlantic",
-     "title": "Enes Kanter Freedom Obviously Doesn\u2019t Belong in the WNBA",
-     "url": "https://www.theatlantic.com/ideas/2026/08/enes-kanter-royce-white-wnba-trans/688300/?utm_source=feed",
-     "author": "Helen Lewis",
+     "outlet": "guardian",
+     "title": "At least six people dead from days of storms and record flooding in Indiana",
+     "url": "https://www.theguardian.com/us-news/2026/aug/16/indiana-storms-flooding-deaths",
+     "author": "Associated Press",
      "kind": "news",
-     "published": "2026-08-16T10:00:00+00:00",
-     "summary": "Why shouldn\u2019t Enes Kanter Freedom and Royce White play women\u2019s basketball? The answer is simple: They\u2019re not female. By all evidence, the two former NBA players have XY chromosomes\u2014White has fathered children\u2014and have been through male puberty. They have significant athletic advantages over female athletes and should not be eligible for the WNBA. To reach this conclusion, I don\u2019t need to peer into the pair\u2019s souls to see whether they\u2019re pink or blue, nor do I need to decide whether they are sincerely applying for the WNBA draft or just trolling. Although, let\u2019s be clear, they are trolling. On August 6, Freedom sent a letter to the WNBA\u2019s commissioner that might as well have read: Hello\u2014I would like some attention. The 34-year-old, whose NBA profile lists him at 6 foot 10 and 250 pounds, played pro basketball for 11 seasons. Now he wants to register for the women\u2019s draft. He argued on X that he is \u201csimply asking that the current rules be applied equally to everyone\u2014the rules that represent the very values many WNBA players and coaches have publicly advocated for.\u201d In an interview on Friday, he imagined catching a pass from the Indiana Fever star Caitlin Clark, dunking the ball, and "
+     "published": "2026-08-16T19:27:22+00:00",
+     "summary": "Four-year-old boy, two men and three women among those who died since storms began on 11 August, officials say Days of storms and flooding in Indiana left at least six people dead as flood waters peaked in Indianapolis\u2019s White River \u2013 and rains were expected to ease in the state capital region and other parts of the state on Sunday. A four-year-old boy, two men and three women were among those who had died since the storms began on 11 August, state homeland security department spokesperson Liz Woods said. Continue reading..."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "At least 6 people have died from days of storms and record-setting flooding in Indiana",
+     "url": "https://www.pbs.org/newshour/nation/at-least-6-people-have-died-from-days-of-storms-and-record-setting-flooding-in-indiana",
+     "author": "Obed Lamy, Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T17:50:54+00:00",
+     "summary": "A 4-year-old boy, two men and three women were among those who had died since the storms began Aug. 11, said Liz Woods, a spokesperson for the state Department of Homeland Security."
+    }
+   ]
+  },
+  {
+   "id": "b26c8d60e2",
+   "topic": "Politics",
+   "summary": "Attorney General Todd Blanche refused Sunday to pledge the Justice Department's independence from the White House, saying he would consider President Trump's views on individual prosecutions. Why it matters: Trump has remade the DOJ , ousting longtime staffers , urging prosecutions of rivals and installing his former lawyer as attorney general. Blanche made the stakes clear: Trump's wishes can shape who gets investigated and prosecuted . What he's saying: \"No, I'm not going to pledge that,\" Blanche told NBC's \"Meet the Press\" after Kristen Welker asked whether DOJ would \"always act independently\" of the White House. \"And no attorney general should ever pledge that,\" he added. Zoom in: Blanche said \"yes, of course\" Trump should have a voice in individual prosecution decisions. \"The president of the United States, the elected president of the United States, says something to me,\" he said.\u2026",
+   "summaryFrom": "axios",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Trump's views can factor into prosecutions, Attorney General Todd Blanche says",
+   "updated": "2026-08-16T19:38:33+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "axios",
+     "title": "Trump's views can factor into prosecutions, Attorney General Todd Blanche says",
+     "url": "https://www.axios.com/2026/08/16/todd-blanche-doj-independence-trump",
+     "author": "Andrew Pantazi",
+     "kind": "news",
+     "published": "2026-08-16T19:38:33+00:00",
+     "summary": "Attorney General Todd Blanche refused Sunday to pledge the Justice Department's independence from the White House, saying he would consider President Trump's views on individual prosecutions. Why it matters: Trump has remade the DOJ , ousting longtime staffers , urging prosecutions of rivals and installing his former lawyer as attorney general. Blanche made the stakes clear: Trump's wishes can shape who gets investigated and prosecuted . What he's saying: \"No, I'm not going to pledge that,\" Blanche told NBC's \"Meet the Press\" after Kristen Welker asked whether DOJ would \"always act independently\" of the White House. \"And no attorney general should ever pledge that,\" he added. Zoom in: Blanche said \"yes, of course\" Trump should have a voice in individual prosecution decisions. \"The president of the United States, the elected president of the United States, says something to me,\" he said. \"And I'm supposed to say to you, 'I would say no.' I mean, that's not the way it works.\" Catch up quick: Blanche called it an \"extraordinarily false narrative\" that Trump tells him, \"Go prosecute X or Y.\" Yet Trump regularly broadcasts whom he wants prosecuted. Last September, Trump called for prose"
+    },
+    {
+     "outlet": "nyt",
+     "title": "Blanche Refuses to Say He\u2019ll Always Be Independent of Trump as Attorney General",
+     "url": "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html",
+     "author": "Glenn Thrush",
+     "kind": "news",
+     "published": "2026-08-16T16:14:13+00:00",
+     "summary": "The new head of the Justice Department said on \u201cMeet the Press\u201d on Sunday that the president had never asked him to prosecute specific people \u2014 and never would."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "AG Todd Blanche: 'Of Course' I'll Listen to Trump\u2019s Opinion on Prosecutions",
+     "url": "https://www.breitbart.com/clips/2026/08/16/ag-todd-blanche-of-course-ill-listen-to-trumps-opinion-on-prosecutions/",
+     "author": "Pam Key",
+     "kind": "opinion",
+     "published": "2026-08-16T15:09:43+00:00",
+     "summary": "Sunday on NBC&#8217;s &#8220;Meet the Press,&#8221; Attorney General Todd Blanche said &#8220;of course&#8221; he will listen to President Donald Trump&#8217;s opinion on prosecutions. Host Kristen Welker said, &#8220;Would you take his opinions into consideration when he says, I think this case should be The post AG Todd Blanche: &#8216;Of Course&#8217; I&#8217;ll Listen to Trump\u2019s Opinion on Prosecutions appeared first on Breitbart ."
+    }
+   ]
+  },
+  {
+   "id": "8e1771c38c",
+   "topic": "Health",
+   "summary": "House Minority Leader Hakeem Jeffries (D-NY) drew a sharp distinction Sunday between the Democratic Party and the agenda of the Democratic Socialists of America, saying he does not support the organization\u2019s positions on issues including policing, immigration and the Senate. \u201cI don\u2019t support the DSA agenda as has been articulated by the DSA itself,\u201d Jeffries said during an appearance on NBC\u2019s \u201cMeet the Press.\u201d His comments came the same morning Chicago Mayor Rahm Emanuel, a potential 2028 presidential candidate, told CBS News that progressives should not use the Democratic Party as a vehicle because &#8220;they&#8217;re a separate party&#8221; \u2014 adding, in nearly the same construction Jeffries would use, &#8220;I don&#8217;t believe in defunding police. I don&#8217;t believe in open borders.&#8221; \u201cI do not support defunding the police. I do not support open borders. I do not support\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Jeffries: 'I don't support' DSA agenda",
+   "updated": "2026-08-16T19:27:52+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 2,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "Jeffries: 'I don't support' DSA agenda",
+     "url": "https://thehill.com/homenews/campaign/6032219-jeffries-rejects-dsa-agenda/",
+     "author": "Tara Suter",
+     "kind": "news",
+     "published": "2026-08-16T19:27:52+00:00",
+     "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) said Sunday that he does not back the agenda of the Democratic Socialists of America (DSA), even as democratic socialists and left-leaning candidates racked up primary wins in the last few months. \u201cI don't support the DSA agenda, as has been articulated by the DSA itself. Now, you're going..."
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Hakeem Jeffries Rejects Medicare for All, DSA Agenda",
+     "url": "https://www.newsweek.com/hakeem-jeffries-rejects-medicare-for-all-dsa-agenda-12328842",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T15:34:45+00:00",
+     "summary": "The congressman&#039;s remarks come as Democrats wrestle with ideological divisions between their progressive and moderate wings."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Hakeem Jeffries: \u2018I Do Not Support The DSA Agenda\u2019",
+     "url": "https://www.dailywire.com/news/hakeem-jeffries-i-do-not-support-the-dsa-agenda",
+     "author": "Drew Berkemeyer",
+     "kind": "opinion",
+     "published": "2026-08-16T13:00:37+00:00",
+     "summary": "House Minority Leader Hakeem Jeffries (D-NY) drew a sharp distinction Sunday between the Democratic Party and the agenda of the Democratic Socialists of America, saying he does not support the organization\u2019s positions on issues including policing, immigration and the Senate. \u201cI don\u2019t support the DSA agenda as has been articulated by the DSA itself,\u201d Jeffries said during an appearance on NBC\u2019s \u201cMeet the Press.\u201d His comments came the same morning Chicago Mayor Rahm Emanuel, a potential 2028 presidential candidate, told CBS News that progressives should not use the Democratic Party as a vehicle because &#8220;they&#8217;re a separate party&#8221; \u2014 adding, in nearly the same construction Jeffries would use, &#8220;I don&#8217;t believe in defunding police. I don&#8217;t believe in open borders.&#8221; \u201cI do not support defunding the police. I do not support open borders. I do not support abolishing the Senate,\u201d Jeffries said. Instead, Jeffries said House Democrats are focused on what he described as the \u201cDemocratic agenda\u201d: lowering the cost of living, making housing and health care more affordable and addressing the affordability crisis. His comments come as Democratic socialists and"
     }
    ]
   },
@@ -1610,6 +1867,57 @@
      "kind": "news",
      "published": "2026-08-16T15:35:53+00:00",
      "summary": "Ukraine launched hundreds of drones across Russia, killing at least six people and striking a Wildberries logistics hub."
+    }
+   ]
+  },
+  {
+   "id": "31b08fa480",
+   "topic": "Climate & Energy",
+   "summary": "One person is dead, homes have been swept off their foundations and more than 130,000 customers are without power as Tropical Storm Lala grinds westward across the Hawaiian Islands, a day after it brushed the Big Island as a Category 1 hurricane. Gov. Josh Green (D-HI) said Saturday evening that one person was killed in a storm-related car crash on the Big Island&#8217;s southern end, and that 19 roofs had been lost and at least three hospitals were running on generator power. Hours later, flash flooding tore through the coastal communities of Naalehu and Waiohinu. &#8220;Several occupied homes may have been swept off their foundations, and based on that, civil defense has initiated a search and rescue mission,&#8221; Hawaii County Mayor Kimo Alameda said overnight. Responders went looking for people who had called 911 but could not be reached through the floodwaters. &#8220;What makes\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+   "updated": "2026-08-16T18:46:12+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 1,
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+     "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T18:46:12+00:00",
+     "summary": "A search-and-rescue operation is under way after properties were uprooted from their foundations."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Hurricane Lala Kills One, Rips Homes Off Their Foundations In Hawaii",
+     "url": "https://www.dailywire.com/news/hurricane-lala-kills-one-rips-homes-off-their-foundations-in-hawaii",
+     "author": "Virginia Kruta",
+     "kind": "opinion",
+     "published": "2026-08-16T13:04:24+00:00",
+     "summary": "One person is dead, homes have been swept off their foundations and more than 130,000 customers are without power as Tropical Storm Lala grinds westward across the Hawaiian Islands, a day after it brushed the Big Island as a Category 1 hurricane. Gov. Josh Green (D-HI) said Saturday evening that one person was killed in a storm-related car crash on the Big Island&#8217;s southern end, and that 19 roofs had been lost and at least three hospitals were running on generator power. Hours later, flash flooding tore through the coastal communities of Naalehu and Waiohinu. &#8220;Several occupied homes may have been swept off their foundations, and based on that, civil defense has initiated a search and rescue mission,&#8221; Hawaii County Mayor Kimo Alameda said overnight. Responders went looking for people who had called 911 but could not be reached through the floodwaters. &#8220;What makes this very challenging is that there&#8217;s rushing water, there&#8217;s debris, and there&#8217;s boulders on the road and it&#8217;s dark,&#8221; Alameda said. Lala, since downgraded to tropical storm status, battered several of the islands with strong winds and heavy rains without officially makin"
+    },
+    {
+     "outlet": "latimes",
+     "title": "Flights between L.A. and Hawaii disrupted as Hurricane Lala approaches the Big Island",
+     "url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
+     "author": "Josh Rottenberg",
+     "kind": "news",
+     "published": "2026-08-16T00:56:14+00:00",
+     "summary": "Several flights from LAX to Hawaii were canceled Saturday, including service to Kona, Maui, Kauai and Honolulu."
     }
    ]
   },
@@ -2226,6 +2534,216 @@
    ]
   },
   {
+   "id": "9082cc01bf",
+   "topic": "Politics",
+   "summary": "About 5,000 sailors and Marines are aboard the carrier, which has operated for more than 200 consecutive days without a port call.",
+   "summaryFrom": "newsweek",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "After Trump Says Carrier Deployment Not Long Enough, Mullen Warns of Risks",
+   "updated": "2026-08-16T20:33:29+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "After Trump Says Carrier Deployment Not Long Enough, Mullen Warns of Risks",
+     "url": "https://www.newsweek.com/after-trump-says-carrier-deployment-not-long-enough-mullen-warns-of-risks-12329235",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T20:33:29+00:00",
+     "summary": "About 5,000 sailors and Marines are aboard the carrier, which has operated for more than 200 consecutive days without a port call."
+    },
+    {
+     "outlet": "slate",
+     "title": "Trump on Long-Suffering Sailors: \u201cNot Nearly Long Enough\u201d",
+     "url": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html?via=rss",
+     "author": "Ian Prasad Philbrick",
+     "kind": "news",
+     "published": "2026-08-14T21:09:49+00:00",
+     "summary": "Sailors are suffering. Trump and his team are denying it."
+    }
+   ]
+  },
+  {
+   "id": "c030673b46",
+   "topic": "Other",
+   "summary": "In Saint-Louis, Senegal, traditional pirogue races are keeping alive a centuries-old tradition dating back nearly 200 years. Held in the fishing district of Guet Ndar, the 3.5-kilometre race brings together dozens of rowers and huge crowds, turning the event into both a major sporting competition and a celebration of local culture. But despite the race's popularity and the money it generates, competitors are not paid and are calling for greater recognition for the sport.",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Senegal\u2019s Saint-Louis Regatta keeps centuries of tradition alive",
+   "updated": "2026-08-16T20:04:51+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Senegal\u2019s Saint-Louis Regatta keeps centuries of tradition alive",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T20:04:51+00:00",
+     "summary": "Thousands gathered in Saint-Louis, Senegal, for the annual regatta."
+    },
+    {
+     "outlet": "france24",
+     "title": "Senegal: Saint-Louis\u2019 centuries-old pirogue racing tradition",
+     "url": "https://www.france24.com/en/senegal-saint-louis-centuries-old-pirogue-racing-tradition",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T15:51:32+00:00",
+     "summary": "In Saint-Louis, Senegal, traditional pirogue races are keeping alive a centuries-old tradition dating back nearly 200 years. Held in the fishing district of Guet Ndar, the 3.5-kilometre race brings together dozens of rowers and huge crowds, turning the event into both a major sporting competition and a celebration of local culture. But despite the race's popularity and the money it generates, competitors are not paid and are calling for greater recognition for the sport."
+    }
+   ]
+  },
+  {
+   "id": "340f7498e5",
+   "topic": "Business & Economy",
+   "summary": "Couple die in Salamis and Belgium battling its biggest fire in more than a century near German border An elderly couple died in fires on the Greek island of Salamis on Sunday and a fire ravaged Belgium\u2019s largest nature reserve, in the latest wave of European wildfires. The couple died outside their home in the Peristeria beach area of Salamis, Greece\u2019s coastguard said. More than 500 people were ordered to evacuate. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+   "updated": "2026-08-16T20:01:51+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+     "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T20:01:51+00:00",
+     "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Greek wildfire kills two people as aircraft deployed to blaze at Belgian nature reserve",
+     "url": "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
+     "author": "Angela Giuffrida and agencies",
+     "kind": "news",
+     "published": "2026-08-16T18:23:26+00:00",
+     "summary": "Couple die in Salamis and Belgium battling its biggest fire in more than a century near German border An elderly couple died in fires on the Greek island of Salamis on Sunday and a fire ravaged Belgium\u2019s largest nature reserve, in the latest wave of European wildfires. The couple died outside their home in the Peristeria beach area of Salamis, Greece\u2019s coastguard said. More than 500 people were ordered to evacuate. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "9f176bc1b1",
+   "topic": "World",
+   "summary": "The USS George Washington is departing the Pacific and expected to replace the USS Abraham Lincoln in the Middle East amid growing concerns about mental health and supply issues aboard the long-deployed carrier.",
+   "summaryFrom": "pbsnewshour",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "U.S. pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere",
+   "updated": "2026-08-16T19:57:59+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
+     "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
+     "author": "Edward Wong",
+     "kind": "news",
+     "published": "2026-08-16T19:57:59+00:00",
+     "summary": "The Sierra Madre, a Philippine naval ship, in the South China Sea in 2023. Last month, a Chinese Coast Guard vessel began circling the ship and confronted Philippine service members."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "U.S. pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere",
+     "url": "https://www.pbs.org/newshour/world/u-s-pulls-last-aircraft-carrier-in-asia-as-trump-focuses-on-iran-and-the-western-hemisphere",
+     "author": "Didi Tang, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T16:22:32+00:00",
+     "summary": "The USS George Washington is departing the Pacific and expected to replace the USS Abraham Lincoln in the Middle East amid growing concerns about mental health and supply issues aboard the long-deployed carrier."
+    }
+   ]
+  },
+  {
+   "id": "b7a7ab09d4",
+   "topic": "Climate & Energy",
+   "summary": "Two oil slicks have appeared in Iranian waters inside the Gulf, according to satellite imagery, with one spotted off the southern tip of Qeshm Island near the Strait of Hormuz. A smaller oil slick has also appeared near Sirri Island over 60 miles southwest of Qeshm in the center of the Gulf, where Iranian offshore oil and gas production takes place, according to Reuters . The imagery of the Qeshm slick was taken on August 10. The Sirri imagery is from August 13. These new slicks arrive as attacks on oil tankers and other vessels by Iran and the United States raise concerns about environmental damage across the Gulf. A separate, larger spill is already unfolding outside the Strait of Hormuz off Oman. The grounded tanker Caroline Bezengi is leaking Russian crude into a protected marine area, creating a slick some estimates put at nearly 800 square miles. That incident has not been\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
+   "updated": "2026-08-16T19:18:24+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T19:18:24+00:00",
+     "summary": "Turkish President Recep Tayyip Erdogan has called for the Strait of Hormuz to reopen."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "More Middle East Trouble: Massive Oil Leak Discovered In Ocean Near Strait Of Hormuz",
+     "url": "https://www.dailywire.com/news/more-middle-east-trouble-massive-oil-leak-discovered-in-ocean-near-strait-of-hormuz",
+     "author": "Leona Salinas",
+     "kind": "opinion",
+     "published": "2026-08-14T14:00:06+00:00",
+     "summary": "Two oil slicks have appeared in Iranian waters inside the Gulf, according to satellite imagery, with one spotted off the southern tip of Qeshm Island near the Strait of Hormuz. A smaller oil slick has also appeared near Sirri Island over 60 miles southwest of Qeshm in the center of the Gulf, where Iranian offshore oil and gas production takes place, according to Reuters . The imagery of the Qeshm slick was taken on August 10. The Sirri imagery is from August 13. These new slicks arrive as attacks on oil tankers and other vessels by Iran and the United States raise concerns about environmental damage across the Gulf. A separate, larger spill is already unfolding outside the Strait of Hormuz off Oman. The grounded tanker Caroline Bezengi is leaking Russian crude into a protected marine area, creating a slick some estimates put at nearly 800 square miles. That incident has not been connected to the conflict with Iran . On the Qeshm spill, environmental open-source researcher Wim Zwijnenburg of the Dutch peace organization PAX noted that the dark color in parts of the slick pointed to heavy fuel oil. A lighter, diluted portion of the slick stretched about 100 miles. Video verified by R"
+    }
+   ]
+  },
+  {
    "id": "4dcce7efd6",
    "topic": "Politics",
    "summary": "An Iranian psychologist who publicly urged President Donald Trump to stand by anti-regime protesters has been sentenced to seven months in prison, and his family says authorities tried to force him to record a video insulting Trump and the American people, Fox News Digital reported Saturday. Seyed Ahmad Seyedabdollahi, a 32-year-old psychologist and counselor from Borujen who had been living in Tehran, posted an English-language video on January 4. In it he spoke directly to Trump and urged him to act quickly on his pledge to support Iranian protesters. Young Iranians had trusted his words, he said, and those who helped the Iranian people would be remembered. &#8220;To prove your good intentions to the Iranian people, either do something without saying anything or act very quickly on your words, because many young people trust what you say. And, as you probably know, many things are\u2026",
@@ -2268,48 +2786,6 @@
    ]
   },
   {
-   "id": "32dbc6f250",
-   "topic": "World",
-   "summary": "President Trump and Arab allies are pushing to advance the American-backed Gaza peace deal on Sunday, even as Israel rejected the plan and carried on with airstrikes in the Palestinian enclave.",
-   "summaryFrom": "nypost",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
-   "updated": "2026-08-16T18:53:08+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Arab allies join Trump in calling for Israel to drop opposition to US-backed Gaza peace plan",
-     "url": "https://nypost.com/2026/08/16/world-news/arab-allies-join-trump-in-calling-for-israel-to-drop-opposition-to-us-backed-gaza-peace-plan/",
-     "author": "Ronny Reyes",
-     "kind": "news",
-     "published": "2026-08-16T18:53:08+00:00",
-     "summary": "President Trump and Arab allies are pushing to advance the American-backed Gaza peace deal on Sunday, even as Israel rejected the plan and carried on with airstrikes in the Palestinian enclave."
-    },
-    {
-     "outlet": "dw",
-     "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
-     "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T17:31:00+00:00",
-     "summary": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators in Egypt."
-    }
-   ]
-  },
-  {
    "id": "93c8d2e9c5",
    "topic": "Business & Economy",
    "summary": "Sony Pictures Spider-Man: Brand New Day has smashed expectations at the box office, soaring past $2 billion in just three weeks. The Sony/ Marvel Cinematic Universe success story is the second-fastest film to make it to the $2 billion mark, behind stablemate Avengers: Endgame , which got there in 11 days. Only seven flicks have crossed the $2 billion threshold. The Russo brothers\u2019 Endgame prequel Avengers: Infinity War ($2.03 billion) gives them two films in the elite club, but James Cameron\u2019s Avatar remains the highest-grossing film of all time at $2.9 billion. His tragic epic Titanic ($2.2 billion) and Avatar sequel, The Way of Water ($2.3 billion) make the director the undisputed king of the club. The only non-Marvel, non-Cameron film to make it? Star Wars: The Force Awakens, with a box office haul of $2.07 billion. Still, there\u2019s plenty of time for Brand New Day to rise higher, with\u2026",
@@ -2348,48 +2824,6 @@
      "kind": "news",
      "published": "2026-08-16T18:19:03+00:00",
      "summary": "\"Spider-Man: Brand New Day\" continues to climb box office charts and now seems poised for a top-5 finish on the all-time charts."
-    }
-   ]
-  },
-  {
-   "id": "0649f1074a",
-   "topic": "Other",
-   "summary": "Sen. Bernie Sanders says he can\u2019t be everywhere at once \u2014 even though some of his allies want him to be. Democratic socialist Francesca Hong lost by less than 4,000 votes in Wisconsin\u2019s gubernatorial primary, an outcome several high-profile progressives are blaming on Sanders and other top national progressive leaders for staying out of the race . Some said his endorsement alone could have helped bring in badly needed resources for Hong. Others said the Vermont senator has a responsibility to play widely across the battle map. Sanders, in an interview, touted a series of progressive wins Tuesday night and brushed off the criticism. \u201cMy response is that we have limited resources and capabilities, and there are a lot of really great candidates who have run for office who we have not endorsed,\u201d Sanders told POLITICO on Wednesday. \u201cWe can\u2019t endorse every single candidate,\u201d he added. \u201cSo,\u2026",
-   "summaryFrom": "politico",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Hong\u2019s narrow Wisconsin loss: Letters to the Editor \u2014 Aug. 17, 2026",
-   "updated": "2026-08-16T18:50:42+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Hong\u2019s narrow Wisconsin loss: Letters to the Editor \u2014 Aug. 17, 2026",
-     "url": "https://nypost.com/2026/08/16/opinion/hongs-narrow-wisconsin-loss-letters/",
-     "author": "Post readers",
-     "kind": "opinion",
-     "published": "2026-08-16T18:50:42+00:00",
-     "summary": "NY Post readers discuss the rise of democratic socialists, despite Francesca Hong\u2019s loss in Wisconsin."
-    },
-    {
-     "outlet": "politico",
-     "title": "Bernie Sanders has a response for progressives upset over Hong\u2019s loss in Wisconsin",
-     "url": "https://www.politico.com/news/2026/08/13/bernie-sanders-wisconsin-progressives-hong-01037121",
-     "author": "By Meredith Lee Hill, Lisa Kashinsky, Will Steakin and Andrew Howard",
-     "kind": "news",
-     "published": "2026-08-13T22:00:03+00:00",
-     "summary": "Sen. Bernie Sanders says he can\u2019t be everywhere at once \u2014 even though some of his allies want him to be. Democratic socialist Francesca Hong lost by less than 4,000 votes in Wisconsin\u2019s gubernatorial primary, an outcome several high-profile progressives are blaming on Sanders and other top national progressive leaders for staying out of the race . Some said his endorsement alone could have helped bring in badly needed resources for Hong. Others said the Vermont senator has a responsibility to play widely across the battle map. Sanders, in an interview, touted a series of progressive wins Tuesday night and brushed off the criticism. \u201cMy response is that we have limited resources and capabilities, and there are a lot of really great candidates who have run for office who we have not endorsed,\u201d Sanders told POLITICO on Wednesday. \u201cWe can\u2019t endorse every single candidate,\u201d he added. \u201cSo, you know, we have to pick and choose and I think that Hong ran a very, very great, and very strong, grassroots campaign, got a lot of people involved and I applaud her for that.\u201d Hong ultimately lost to Milwaukee County Executive David Crowley, a major victory for establishment Democrats who worried sh"
     }
    ]
   },
@@ -2474,48 +2908,6 @@
      "kind": "news",
      "published": "2026-08-15T11:40:15+00:00",
      "summary": "A shortage of some munitions as well as the problems with the USS Lincoln have the Trump administration on the defensive. Meanwhile, what the latest primaries show about Democratic enthusiasm."
-    }
-   ]
-  },
-  {
-   "id": "aa63b27510",
-   "topic": "Business & Economy",
-   "summary": "Couple die in Salamis and Belgium battling its biggest fire in more than a century near German border An elderly couple died in fires on the Greek island of Salamis on Sunday and a fire ravaged Belgium\u2019s largest nature reserve, in the latest wave of European wildfires. The couple died outside their home in the Peristeria beach area of Salamis, Greece\u2019s coastguard said. More than 500 people were ordered to evacuate. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Greek wildfire kills two people as aircraft deployed to blaze at Belgian nature reserve",
-   "updated": "2026-08-16T18:23:26+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Greek wildfire kills two people as aircraft deployed to blaze at Belgian nature reserve",
-     "url": "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
-     "author": "Angela Giuffrida and agencies",
-     "kind": "news",
-     "published": "2026-08-16T18:23:26+00:00",
-     "summary": "Couple die in Salamis and Belgium battling its biggest fire in more than a century near German border An elderly couple died in fires on the Greek island of Salamis on Sunday and a fire ravaged Belgium\u2019s largest nature reserve, in the latest wave of European wildfires. The couple died outside their home in the Peristeria beach area of Salamis, Greece\u2019s coastguard said. More than 500 people were ordered to evacuate. Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-     "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T15:25:38+00:00",
-     "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park."
     }
    ]
   },
@@ -2856,48 +3248,6 @@
    ]
   },
   {
-   "id": "337f697244",
-   "topic": "Other",
-   "summary": "More than two weeks after tens of thousands of illegal migrants stormed the border of the Spanish exclave of Ceuta, thousands of migrants remain in the city, resulting in the area's once pristine beach being converted into a full-on encampment with dozens of makeshift huts being constructed out of garbage, and prompting warnings of potential disease outbreaks due to the unsanitary conditions. The post Pics: Thousands of Illegal Migrants Set Up Makeshift Garbage Huts on Beach of Spanish Ceuta, Weeks After Invasion appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
-   "updated": "2026-08-16T15:51:26+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T15:51:26+00:00",
-     "summary": "Moroccan migrants are protesting in Ceuta, demanding asylum two weeks after more than a massive migrant surge."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Pics: Thousands of Illegal Migrants Set Up Makeshift Garbage Huts on Beach of Spanish Ceuta, Weeks After Invasion",
-     "url": "https://www.breitbart.com/europe/2026/08/15/pics-thousands-of-illegal-migrants-set-up-garbage-huts-on-ceuta-beach-sparking-warnings-of-disease-outbreak/",
-     "author": "Kurt Zindulka",
-     "kind": "news",
-     "published": "2026-08-15T19:47:05+00:00",
-     "summary": "More than two weeks after tens of thousands of illegal migrants stormed the border of the Spanish exclave of Ceuta, thousands of migrants remain in the city, resulting in the area's once pristine beach being converted into a full-on encampment with dozens of makeshift huts being constructed out of garbage, and prompting warnings of potential disease outbreaks due to the unsanitary conditions. The post Pics: Thousands of Illegal Migrants Set Up Makeshift Garbage Huts on Beach of Spanish Ceuta, Weeks After Invasion appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
    "id": "27fd257a4d",
    "topic": "Other",
    "summary": "Girl called police after she was shot four times in shooting spree that left six dead, including gunman A 13-year-old girl in Michigan survived being shot four times in a shooting spree that left six people dead \u2013 including the suspected attacker \u2013 and called emergency help herself shortly before investigators identified the gunman, according to a state police official and her family. Those actions made the teen a \u201chero\u201d, said a relative of hers as well as two of the dead victims. Continue reading...",
@@ -2936,99 +3286,6 @@
      "kind": "news",
      "published": "2026-08-15T19:57:46+00:00",
      "summary": "A 13-year-old girl \u2014 the only survivor of a shooting rampage in rural Michigan \u2014 called 911 on Friday after she was shot four times, state police official and her family said Saturday."
-    }
-   ]
-  },
-  {
-   "id": "9c87a1796c",
-   "topic": "World",
-   "summary": "President Trump's envoy Jared Kushner met Hamas leaders in Egypt on Sunday to press them to carry out their commitment to disarm , according to two sources familiar with the meeting. Why it matters: This was Kushner's first meeting with Hamas leaders since the signing of the agreement to end the war in Gaza last October . The unusual meeting came as the White House and Trump's Board of Peace push both Hamas and Israel to move to the next phase of the U.S. 20-point peace plan. Kushner is expected to visit Israel on Monday and meet Israeli Prime Minister Benjamin Netanyahu to discuss \"corresponding steps\" Israel must take, the source said. Behind the scenes: Board of Peace high representative Nickolay Mladenov and former British Prime Minister Tony Blair who is also a member of the board joined Kushner in the meeting. Hamas political leader Khalil Al-Hayya attended alongside Egyptian\u2026",
-   "summaryFrom": "axios",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Kushner, Hamas delegation in Egypt for talks on Gaza peace plan",
-   "updated": "2026-08-16T15:44:49+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 2,
-    "pub": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "axios",
-     "title": "Kushner meets Hamas leaders to push Gaza demilitarization",
-     "url": "https://www.axios.com/2026/08/16/kushner-hamas-gaza-disarmament-egypt-israel",
-     "author": "Barak Ravid",
-     "kind": "news",
-     "published": "2026-08-16T15:44:49+00:00",
-     "summary": "President Trump's envoy Jared Kushner met Hamas leaders in Egypt on Sunday to press them to carry out their commitment to disarm , according to two sources familiar with the meeting. Why it matters: This was Kushner's first meeting with Hamas leaders since the signing of the agreement to end the war in Gaza last October . The unusual meeting came as the White House and Trump's Board of Peace push both Hamas and Israel to move to the next phase of the U.S. 20-point peace plan. Kushner is expected to visit Israel on Monday and meet Israeli Prime Minister Benjamin Netanyahu to discuss \"corresponding steps\" Israel must take, the source said. Behind the scenes: Board of Peace high representative Nickolay Mladenov and former British Prime Minister Tony Blair who is also a member of the board joined Kushner in the meeting. Hamas political leader Khalil Al-Hayya attended alongside Egyptian intelligence chief Hassan Rashad, Qatari diplomat Ali al-Thawadi and a senior Turkish official. A source with knowledge of the meeting said the objective was \"translating\" Hamas' obligations to demilitarize Gaza \"into concrete, verifiable steps.\" Zoom in: The source said these steps to maintain the cease"
-    },
-    {
-     "outlet": "france24",
-     "title": "Kushner, Hamas delegation in Egypt for talks on Gaza peace plan",
-     "url": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-16T11:33:32+00:00",
-     "summary": "A Hamas delegation held talks with Egyptian intelligence chief Hassan Rashad in Egypt on Sunday, followed by talks with US envoy Jared Kushner. Kushner had met shortly before with President Abdel Fattah al-Sisi in an effort to break the deadlock over the US-brockered peace plan for Gaza."
-    },
-    {
-     "outlet": "axios",
-     "title": "Kushner set to visit Israel, Egypt next week for Gaza talks",
-     "url": "https://www.axios.com/2026/08/13/kushner-israel-gaza-netanyahu",
-     "author": "Barak Ravid",
-     "kind": "news",
-     "published": "2026-08-13T21:44:47+00:00",
-     "summary": "Jared Kushner, President Trump's envoy and son-in-law, is planning to visit Israel next week for talks on the situation in Gaza , according to five sources with knowledge of the plan. Why it matters: This would be Kushner's first trip to Israel since January. It comes as the White House and Trump's Board of Peace are trying to push forward with the next phase of the Gaza plan, which focuses on disarming Hamas and a potential Israeli withdrawal. The Netanyahu government is highly skeptical of the U.S. Gaza plan, and the upcoming election in October is making the issue even more politically sensitive. \"We see eye-to-eye on the strategic goal, but Israel has expressed some doubts about the plan and we want to talk to them in order to make sure we are coordinated,\" a U.S. official said, while noting the exact dates of the trip could change. Driving the news: Trump announced two weeks ago that his Board of Peace had reached an agreement with Hamas to disarm and transfer civilian and security control of Gaza to a new Palestinian technocratic government. On Sunday, under pressure from his coalition partners and political opponents, Netanyahu publicly rejected the plan for disarming Hamas."
-    }
-   ]
-  },
-  {
-   "id": "2dccf81506",
-   "topic": "Health",
-   "summary": "House Minority Leader Hakeem Jeffries (D-NY) drew a sharp distinction Sunday between the Democratic Party and the agenda of the Democratic Socialists of America, saying he does not support the organization\u2019s positions on issues including policing, immigration and the Senate. \u201cI don\u2019t support the DSA agenda as has been articulated by the DSA itself,\u201d Jeffries said during an appearance on NBC\u2019s \u201cMeet the Press.\u201d His comments came the same morning Chicago Mayor Rahm Emanuel, a potential 2028 presidential candidate, told CBS News that progressives should not use the Democratic Party as a vehicle because &#8220;they&#8217;re a separate party&#8221; \u2014 adding, in nearly the same construction Jeffries would use, &#8220;I don&#8217;t believe in defunding police. I don&#8217;t believe in open borders.&#8221; \u201cI do not support defunding the police. I do not support open borders. I do not support\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Hakeem Jeffries Rejects Medicare for All, DSA Agenda",
-   "updated": "2026-08-16T15:34:45+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "Hakeem Jeffries Rejects Medicare for All, DSA Agenda",
-     "url": "https://www.newsweek.com/hakeem-jeffries-rejects-medicare-for-all-dsa-agenda-12328842",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T15:34:45+00:00",
-     "summary": "The congressman&#039;s remarks come as Democrats wrestle with ideological divisions between their progressive and moderate wings."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Hakeem Jeffries: \u2018I Do Not Support The DSA Agenda\u2019",
-     "url": "https://www.dailywire.com/news/hakeem-jeffries-i-do-not-support-the-dsa-agenda",
-     "author": "Drew Berkemeyer",
-     "kind": "opinion",
-     "published": "2026-08-16T13:00:37+00:00",
-     "summary": "House Minority Leader Hakeem Jeffries (D-NY) drew a sharp distinction Sunday between the Democratic Party and the agenda of the Democratic Socialists of America, saying he does not support the organization\u2019s positions on issues including policing, immigration and the Senate. \u201cI don\u2019t support the DSA agenda as has been articulated by the DSA itself,\u201d Jeffries said during an appearance on NBC\u2019s \u201cMeet the Press.\u201d His comments came the same morning Chicago Mayor Rahm Emanuel, a potential 2028 presidential candidate, told CBS News that progressives should not use the Democratic Party as a vehicle because &#8220;they&#8217;re a separate party&#8221; \u2014 adding, in nearly the same construction Jeffries would use, &#8220;I don&#8217;t believe in defunding police. I don&#8217;t believe in open borders.&#8221; \u201cI do not support defunding the police. I do not support open borders. I do not support abolishing the Senate,\u201d Jeffries said. Instead, Jeffries said House Democrats are focused on what he described as the \u201cDemocratic agenda\u201d: lowering the cost of living, making housing and health care more affordable and addressing the affordability crisis. His comments come as Democratic socialists and"
     }
    ]
   },
@@ -3197,132 +3454,6 @@
      "kind": "news",
      "published": "2026-08-16T11:35:25+00:00",
      "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer."
-    }
-   ]
-  },
-  {
-   "id": "fa4dd7fcca",
-   "topic": "Tech",
-   "summary": "Gov. Greg Abbott speaks at the Red River Roll Call, a Republican rally hosted by state Rep. Shelley Luther, in Sherman on July 27, 2026. Nearly 100 people showed up as part of the Save Rural Texas group traveling from all over the state to show their state leaders that they want to pause further development of data centers.",
-   "summaryFrom": "texastribune",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Data center audit lacks specifics even as Gov. Abbott, industry leaders tout it",
-   "updated": "2026-08-16T14:54:03+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nbcnews",
-     "title": "Rep. Ro Khanna calls for \u2018Data Center Bill of Rights\u2019 and says the industry needs regulation",
-     "url": "https://www.nbcnews.com/politics/congress/ro-khanna-data-center-bill-rights-industry-regulations-rcna592775",
-     "author": "Megan Brand",
-     "kind": "news",
-     "published": "2026-08-16T14:54:03+00:00",
-     "summary": "Rep. Ro Khanna called for a \u201cData Center Bill of Rights,\u201d arguing that data centers needed to be regulated so local communities have a larger say on where to build them."
-    },
-    {
-     "outlet": "texastribune",
-     "title": "Data center audit lacks specifics even as Gov. Abbott, industry leaders tout it",
-     "url": "https://feeds.texastribune.org/link/16799/17417992/data-center-texas-audit-moratorium",
-     "author": "Paul Cobler",
-     "kind": "news",
-     "published": "2026-08-14T10:00:00+00:00",
-     "summary": "Gov. Greg Abbott speaks at the Red River Roll Call, a Republican rally hosted by state Rep. Shelley Luther, in Sherman on July 27, 2026. Nearly 100 people showed up as part of the Save Rural Texas group traveling from all over the state to show their state leaders that they want to pause further development of data centers."
-    }
-   ]
-  },
-  {
-   "id": "426629b0c0",
-   "topic": "Justice & Policing",
-   "summary": "Indian Prime Minister Narendra Modi put young people at the heart of his development agenda in a speech marking India\u2019s Independence Day on Saturday. He announced free online coaching for competitive exams and plans to train 10 million young people in artificial intelligence over the next year. The speech comes amid growing criticism of Modi\u2019s Hindu nationalist policies and recent youth-led protests against his government, as analyzed by FRANCE 24's, Jamie Smith-Maillet.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "India: Modi courts youth amid growing criticism",
-   "updated": "2026-08-16T14:44:11+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "India: Modi courts youth amid growing criticism",
-     "url": "https://www.france24.com/en/india-modi-courts-youth-amid-growing-criticism",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T14:44:11+00:00",
-     "summary": "Indian Prime Minister Narendra Modi put young people at the heart of his development agenda in a speech marking India\u2019s Independence Day on Saturday. He announced free online coaching for competitive exams and plans to train 10 million young people in artificial intelligence over the next year. The speech comes amid growing criticism of Modi\u2019s Hindu nationalist policies and recent youth-led protests against his government, as analyzed by FRANCE 24's, Jamie Smith-Maillet."
-    },
-    {
-     "outlet": "dw",
-     "title": "India: Modi promises free exam coaching, AI training for youth after protests",
-     "url": "https://www.dw.com/en/india-modi-promises-free-exam-coaching-ai-training-for-youth-after-protests/a-78378982?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T08:25:00+00:00",
-     "summary": "Speaking on India's Independence Day, PM Modi announced free online coaching for competitive exams and AI training for 10 million youths, weeks after protests over alleged exam paper leaks and recruitment irregularities."
-    }
-   ]
-  },
-  {
-   "id": "2c766f0800",
-   "topic": "World",
-   "summary": "Kyiv was hit by Russian strikes on Sunday, killing at least four people and injuring six, while a popular outdoor book market was destroyed. Vendors rushed to the scene to assess the damage, with some saying they had lost their shops and their livelihoods.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Ukraine: Russian strike destroys Kyiv book market",
-   "updated": "2026-08-16T14:40:52+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "Ukraine: Russian strike destroys Kyiv book market",
-     "url": "https://www.france24.com/en/video/20260816-ukraine-russian-strike-destroys-kyiv-book-market",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T14:40:52+00:00",
-     "summary": "Kyiv was hit by Russian strikes on Sunday, killing at least four people and injuring six, while a popular outdoor book market was destroyed. Vendors rushed to the scene to assess the damage, with some saying they had lost their shops and their livelihoods."
-    },
-    {
-     "outlet": "bbc",
-     "title": "BBC visits smouldering Kyiv market after Russian strikes",
-     "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T12:18:09+00:00",
-     "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools."
     }
    ]
   }
