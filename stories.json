@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T04:02:14.001573+00:00",
+ "generated": "2026-08-16T04:51:31.436063+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -14,11 +14,11 @@
     "indieCount": 3,
     "big": [
      "carrier",
+     "east",
      "middle",
      "released",
-     "east",
      "lawmakers",
-     "diego-based"
+     "food"
     ],
     "indie": []
    },
@@ -139,9 +139,9 @@
     "bigCount": 6,
     "indieCount": 2,
     "big": [
-     "hold",
      "democratic",
      "hampshire",
+     "hold",
      "approve",
      "national",
      "party"
@@ -252,20 +252,20 @@
      "wounded",
      "arrested",
      "suspect",
+     "found",
      "left",
-     "early",
-     "found"
+     "early"
     ],
     "indie": [
-     "large",
-     "responded"
+     "responded",
+     "large"
     ]
    },
    "absent": [
     "coop"
    ],
    "headline": "Multiple suspects at large after five shot at Virginia State University, police say",
-   "updated": "2026-08-16T03:40:13+00:00",
+   "updated": "2026-08-16T04:37:35+00:00",
    "outletCount": 7,
    "counts": {
     "corp": 2,
@@ -283,7 +283,7 @@
      "url": "https://abcnews.com/US/5-injured-shooting-virginia-state-university-arrests-made/story?id=135669705",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T03:40:13+00:00",
+     "published": "2026-08-16T04:37:35+00:00",
      "summary": "A suspect in the shooting at Virginia State University early Saturday that left five people wounded, including one critically, has been arrested, according to police."
     },
     {
@@ -464,9 +464,9 @@
      "death",
      "life",
      "admitted",
-     "pleading",
      "year-old",
-     "case"
+     "case",
+     "manhattan"
     ]
    },
    "absent": [
@@ -551,107 +551,6 @@
    ]
   },
   {
-   "id": "f5ca3f92cb",
-   "topic": "Other",
-   "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to the epicentre, because roads were blocked by landslides and communications disrupted. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 5,
-    "big": [
-     "hits"
-    ],
-    "indie": [
-     "buildings",
-     "rescuers",
-     "flores",
-     "search",
-     "survivors",
-     "region"
-    ]
-   },
-   "absent": [
-    "family",
-    "coop"
-   ],
-   "headline": "Rescuers search for survivors of powerful Indonesia earthquake",
-   "updated": "2026-08-16T01:44:20+00:00",
-   "outletCount": 6,
-   "counts": {
-    "corp": 2,
-    "pub": 4,
-    "nonprofit": 1
-   },
-   "newsCount": 7,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Videos capture the moment a devastating 7.7 magnitude earthquake hits Indonesia",
-     "url": "https://www.cbsnews.com/video/indonesia-earthquake-videos/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T01:44:20+00:00",
-     "summary": "At least 47 people died Saturday after a powerful 7.7 magnitude earthquake struck eastern Indonesia, with authorities warning the death toll is likely to rise. Videos captured the devastating shocks and aftermath."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "2nd earthquake hits Indonesia following powerful magnitude 7.7 quake",
-     "url": "https://abcnews.com/International/2-dead-after-powerful-77-earthquake-strikes-off/story?id=135664681",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T00:10:50+00:00",
-     "summary": "A powerful magnitude 7.7 earthquake struck off the coast of eastern Indonesia, according to the U.S. Geological Survey."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-     "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T21:49:12+00:00",
-     "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Powerful earthquake kills dozens in eastern Indonesia",
-     "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
-     "author": "William Christou and agencies",
-     "kind": "news",
-     "published": "2026-08-15T15:34:38+00:00",
-     "summary": "Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Rescuers have yet to reach Nagekeo, the area closest to the epicentre, because roads were blocked by landslides and communications disrupted. Continue reading..."
-    },
-    {
-     "outlet": "france24",
-     "title": "Indonesia hit by earthquake aftershock as rescuers search for survivors",
-     "url": "https://www.france24.com/en/indonesia-hit-by-earthquake-aftershock-as-rescuers-search-for-survivors",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-15T12:34:05+00:00",
-     "summary": "Fresh back from Indonesia, FRANCE 24 journalist Jamie Smith-Maillet assesses the damage caused by the 7.7-magnitude earthquake that struck the Flores region. Rescue teams are working to pull survivors from the rubble, while an aftershock has hit the area, raising fears of further casualties."
-    },
-    {
-     "outlet": "france24",
-     "title": "Indonesia earthquake kills at least 38 as rescue operation continues",
-     "url": "https://www.france24.com/en/indonesia-earthquake-kills-at-least-38-as-rescue-operation-continues",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-15T08:47:43+00:00",
-     "summary": "A powerful 7.7-magnitude earthquake struck off Indonesia\u2019s Flores region, killing at least 38 people and injuring six, while rescuers search through collapsed buildings for survivors. Aftershocks, power outages and widespread destruction are hampering rescue efforts, highlighting the persistent seismic risk faced by Indonesia, which lies on the Pacific Ring of Fire."
-    },
-    {
-     "outlet": "dw",
-     "title": "Indonesia: Dozens dead after earthquake off Flores island",
-     "url": "https://www.dw.com/en/indonesia-dozens-dead-after-earthquake-off-flores-island/a-78377990?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T23:45:00+00:00",
-     "summary": "At least 47 people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftershocks. A tsunami warning has been lifted."
-    }
-   ]
-  },
-  {
    "id": "cc3b730f3d",
    "topic": "Politics",
    "summary": "Jeff Merkley has a plan to save the republic from Donald Trump's \" authoritarian playbook \", or so says the senator from Oregon. \" This is a president trying to become a strongman authoritarian,\" said Merkley on the On NOTUS podcast this week. \"If we don't repair the Constitution, we don't have a republic.\" His \"For Our Republic Act\", which was introduced earlier this month , is a sprawling piece of legislation that aims at reversing many of the president's claims of executive authority and clamping down on some of the more novel forms of corruption we've seen under the president's second term. Its proposed reforms range from moving immigration judges from the executive branch to the judicial branch, requiring congressional approval of executive-led department shutterings and reorganizations, and banning executive officers from trading in prediction markets and hawking crypto products.\u2026",
@@ -662,8 +561,8 @@
     "big": [
      "reality",
      "delusions",
-     "defeat",
-     "called"
+     "called",
+     "defeat"
     ],
     "indie": [
      "become"
@@ -927,8 +826,8 @@
      "killed"
     ],
     "indie": [
-     "state",
      "indiana",
+     "state",
      "least",
      "weather",
      "flooding",
@@ -1283,10 +1182,10 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "images",
+     "appeared",
      "donald",
      "president",
-     "appeared",
+     "images",
      "rubio",
      "marco"
     ],
@@ -1428,6 +1327,75 @@
    ]
   },
   {
+   "id": "f5ca3f92cb",
+   "topic": "Culture & Sport",
+   "summary": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 47 people Rescue crews dug through collapsed buildings and landslide debris in eastern Indonesia on Sunday as they searched for bodies and possible survivors a day after a powerful earthquake killed at least 47 people, injured more than 100 and displaced thousands. At least 24 people died in Manggarai regency and 17 in neighbouring East Manggarai, with additional fatalities reported in Sikka, Ngada and Ende regencies, the national disaster management agency said. Rescuers were still searching for people feared buried beneath landslides triggered by the quake across six regencies on Flores, a predominantly Catholic island in Muslim-majority Indonesia. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "Rescuers search for survivors of powerful Indonesia earthquake",
+   "updated": "2026-08-16T04:13:32+00:00",
+   "outletCount": 4,
+   "counts": {
+    "pub": 3,
+    "nonprofit": 1,
+    "corp": 1
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+     "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T04:13:32+00:00",
+     "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Rescue teams search for survivors in Indonesia after powerful earthquake",
+     "url": "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T03:57:34+00:00",
+     "summary": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 47 people Rescue crews dug through collapsed buildings and landslide debris in eastern Indonesia on Sunday as they searched for bodies and possible survivors a day after a powerful earthquake killed at least 47 people, injured more than 100 and displaced thousands. At least 24 people died in Manggarai regency and 17 in neighbouring East Manggarai, with additional fatalities reported in Sikka, Ngada and Ende regencies, the national disaster management agency said. Rescuers were still searching for people feared buried beneath landslides triggered by the quake across six regencies on Flores, a predominantly Catholic island in Muslim-majority Indonesia. Continue reading..."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Powerful 7.7 magnitude earthquake devastates Indonesia",
+     "url": "https://www.cbsnews.com/video/powerful-77-magnitude-earthquake-devastates-indonesia/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T00:21:00+00:00",
+     "summary": "At least 47 people are dead and dozens injured after a 7.7-magnitude quake struck off eastern Indonesia on Saturday. A 6.4-magnitude tremor later hit Sumatra, and authorities warn the death toll could rise."
+    },
+    {
+     "outlet": "france24",
+     "title": "Indonesia hit by earthquake aftershock as rescuers search for survivors",
+     "url": "https://www.france24.com/en/indonesia-hit-by-earthquake-aftershock-as-rescuers-search-for-survivors",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-15T12:34:05+00:00",
+     "summary": "Fresh back from Indonesia, FRANCE 24 journalist Jamie Smith-Maillet assesses the damage caused by the 7.7-magnitude earthquake that struck the Flores region. Rescue teams are working to pull survivors from the rubble, while an aftershock has hit the area, raising fears of further casualties."
+    },
+    {
+     "outlet": "france24",
+     "title": "Indonesia earthquake kills at least 38 as rescue operation continues",
+     "url": "https://www.france24.com/en/indonesia-earthquake-kills-at-least-38-as-rescue-operation-continues",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-15T08:47:43+00:00",
+     "summary": "A powerful 7.7-magnitude earthquake struck off Indonesia\u2019s Flores region, killing at least 38 people and injuring six, while rescuers search through collapsed buildings for survivors. Aftershocks, power outages and widespread destruction are hampering rescue efforts, highlighting the persistent seismic risk faced by Indonesia, which lies on the Pacific Ring of Fire."
+    }
+   ]
+  },
+  {
    "id": "4fd3c34fbe",
    "topic": "Climate & Energy",
    "summary": "Hurricane Lala slammed Hawaii's Big Island, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides.",
@@ -1564,8 +1532,8 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "league",
-     "made"
+     "made",
+     "league"
     ],
     "indie": []
    },
@@ -1768,11 +1736,11 @@
     "bigCount": 3,
     "indieCount": 3,
     "big": [
-     "airport",
      "international",
-     "worth",
-     "stations",
      "foot-washing",
+     "airport",
+     "stations",
+     "worth",
      "fort"
     ],
     "indie": [
@@ -1920,8 +1888,8 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "trump",
-     "donald"
+     "donald",
+     "trump"
     ],
     "indie": []
    },
@@ -2189,117 +2157,6 @@
      "kind": "opinion",
      "published": "2026-08-14T14:32:25+00:00",
      "summary": "There's something primordially satisfying about watching a big-screen dinosaur get the what-for from the business end of a just-loaded shotgun. The recent run of Jurassic Park movies sometimes seems to have lost this primal pleasure, replacing it with ho-hum computer-generated spectacle and cheap nostalgic callbacks to the franchise's better days. They've forgotten that the franchise was founded on a combination of awe and white-knuckle terror\u2014the raw and relatable fear of a giant, toothy monster that stalks the earth with a sort of evolutionary arrogance that comes from a couple million years atop the food chain. Newsflash: Humans rule the planet now. It's fun to watch these ancient planetary powerhouses get taken down a peg. Sic semper Tyrannosaurus. The End of Oak Street remembers what the Jurassic Park franchise has largely forgotten. It leans into the animal terror of encountering a dinosaur on the streets of an ordinary suburb. Set in the early 1980s, the movie lifts brashly from early Steven Spielberg, especially E.T. , depicting a seemingly ordinary family with its own ordinary troubles who find themselves in a sort of dinosaur-ridden episode of The Twilight Zone. The End o"
-    }
-   ]
-  },
-  {
-   "id": "9a7abb8535",
-   "topic": "Other",
-   "summary": "KANSAS CITY &#8211; With arguably the deepest and most talented roster in the NFL, it\u2019s no surprise the Rams enter the season as the prohibitive Super Bowl favorites. There is, however, one question no one around the Rams wants to ask, much less contemplate: What happens if Matthew Stafford goes down? Los Angeles Rams quarterback...",
-   "summaryFrom": "nypost",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Rams takeaways from preseason opener: Ty Simpson looks legit, OL goes down",
-   "updated": "2026-08-16T01:05:07+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 2,
-    "corp": 2
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Rams takeaways from preseason opener: Ty Simpson looks legit, OL goes down",
-     "url": "https://nypost.com/2026/08/15/sports/rams-takeaways-from-preseason-opener-ty-simpson-looks-legit/",
-     "author": "Vincent Bonsignore",
-     "kind": "news",
-     "published": "2026-08-16T01:05:07+00:00",
-     "summary": "KANSAS CITY &#8211; With arguably the deepest and most talented roster in the NFL, it\u2019s no surprise the Rams enter the season as the prohibitive Super Bowl favorites. There is, however, one question no one around the Rams wants to ask, much less contemplate: What happens if Matthew Stafford goes down? Los Angeles Rams quarterback..."
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Rams&#039; Ty Simpson Shines in Impressive Preseason Debut Against Chiefs",
-     "url": "https://www.newsweek.com/sports/nfl/rams-ty-simpson-shines-in-impressive-preseason-debut-against-chiefs-12328401",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T01:00:02+00:00",
-     "summary": "Rams quarterback Ty Simpson achieved one of the best rookie preseason debuts so far in his team&#039;s win over Kansas City."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Ty Simpson impresses in his Rams debut during preseason win over Chiefs",
-     "url": "https://www.latimes.com/sports/rams/story/2026-08-15/ty-simpson-sharp-performance-rams-chiefs-preseason",
-     "author": "Gary Klein",
-     "kind": "news",
-     "published": "2026-08-15T23:21:28+00:00",
-     "summary": "Rams rookie quarterback Ty Simpson puts in a solid debut and avoids making any major mistakes in a 20-12 preseason win over the Kansas City Chiefs."
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Bears&#039; Maurice Alexander Impresses in Preseason Opener vs Browns",
-     "url": "https://www.newsweek.com/sports/nfl/bears-maurice-alexander-impresses-in-preseason-opener-vs-browns-12328104",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T21:43:20+00:00",
-     "summary": "Chicago Bears&#039; Maurice Alexander is looking strong."
-    }
-   ]
-  },
-  {
-   "id": "b65fcefbb4",
-   "topic": "Climate & Energy",
-   "summary": "A luxury mall reopening is bringing renewed hope to the prosperous Pacific Palisades community in Los Angeles, California, after wildfires brought massive devastation last January. Mark Strassman has more.",
-   "summaryFrom": "cbsnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Palisades Village mall reopening reveals the secret of America",
-   "updated": "2026-08-16T00:52:55+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 2,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Palisades Village mall reopening reveals the secret of America",
-     "url": "https://nypost.com/2026/08/15/opinion/palisades-village-mall-reopening-reveals-secret-of-america/",
-     "author": "Joel Pollak",
-     "kind": "opinion",
-     "published": "2026-08-16T00:52:55+00:00",
-     "summary": "The Palisades Village mall has been a landmark in Pacific Palisades since it opened in 2018."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Mall reopening brings renewed hope to Palisades community after devastating wildfires",
-     "url": "https://www.cbsnews.com/video/mall-reopening-brings-renewed-hope-to-palisades-community-after-devastating-wildfires/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T00:20:00+00:00",
-     "summary": "A luxury mall reopening is bringing renewed hope to the prosperous Pacific Palisades community in Los Angeles, California, after wildfires brought massive devastation last January. Mark Strassman has more."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Palisades Village shopping center reopens, marking milestone for fire-weary community",
-     "url": "https://www.latimes.com/california/story/2026-08-15/palisades-village-reopens-19-months-after-devastating-fires",
-     "author": "Laurence Darmiento",
-     "kind": "news",
-     "published": "2026-08-15T21:48:16+00:00",
-     "summary": "Palisades Village shopping center reopens 19 months after the devastating 2025 Pacific Palisades wildfires, marking a major milestone in local recovery."
     }
    ]
   },
@@ -2610,57 +2467,6 @@
    ]
   },
   {
-   "id": "dded608d25",
-   "topic": "World",
-   "summary": "Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from Middle East hubs South Korea\u2019s Incheon airport has become the world\u2019s busiest airport for international passengers, in part owing to disruption in the Middle East caused by the Iran war. The airport, South Korea\u2019s main gateway, about 30 miles (48km) west of Seoul, handled 38.39 million international passengers in the first half of 2026, according to preliminary figures compiled by the Airports Council International (ACI), the global trade body for airports. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "South Korea president proposes talks with Pyongyang to formally end Korean War",
-   "updated": "2026-08-15T15:39:37+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "South Korea president proposes talks with Pyongyang to formally end Korean War",
-     "url": "https://www.france24.com/en/asia-pacific/20260815-south-korea-president-proposes-talks-with-pyongyang-to-formally-end-korean-war",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-15T15:39:37+00:00",
-     "summary": "South Korean President Lee Jae-myung proposed on Saturday that Pyongyang engage in dialogue to formally end the Korean War, which has technically been ongoing for more than 70 years due to the lack of a peace treaty."
-    },
-    {
-     "outlet": "bbc",
-     "title": "South Korea proposes talks to officially end war with North",
-     "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T14:40:15+00:00",
-     "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953."
-    },
-    {
-     "outlet": "guardian",
-     "title": "South Korean airport becomes busiest in world for global traffic amid Iran war",
-     "url": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east",
-     "author": "Raphael Rashid in Seoul",
-     "kind": "news",
-     "published": "2026-08-13T09:45:56+00:00",
-     "summary": "Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from Middle East hubs South Korea\u2019s Incheon airport has become the world\u2019s busiest airport for international passengers, in part owing to disruption in the Middle East caused by the Iran war. The airport, South Korea\u2019s main gateway, about 30 miles (48km) west of Seoul, handled 38.39 million international passengers in the first half of 2026, according to preliminary figures compiled by the Airports Council International (ACI), the global trade body for airports. Continue reading..."
-    }
-   ]
-  },
-  {
    "id": "3cb53b867b",
    "topic": "Justice & Policing",
    "summary": "France\u2019s Constitutional Court has struck down a law that would have banned children under 15 from social media, ruling that it disproportionately infringed on freedom of expression and raised privacy concerns over age verification. The government plans to draft a revised bill, with Emmanuel Macron citing concerns over the impact of social media on children\u2019s mental and physical health.",
@@ -2810,6 +2616,90 @@
      "kind": "news",
      "published": "2026-08-13T15:19:39+00:00",
      "summary": "An F/A-18F Super Hornet launches from the flight deck of aircraft carrier USS Abraham Lincoln in support of Operation Epic Fury on February 28, 2026 at Sea. Photo by U.S. Navy via Getty Images. Thursday, August 13, 2026 &#8211; &nbsp; Iranian Foreign Minister Abbas Araghchi warns of &#8220;even bigger miscalculation&#8221; on Hormuz after U.S. President Donald Trump claims U.S. has &#8220;total control.&#8221; Washington Post: U.S. intelligence viewed Israeli warning of Iranian plot to kill Trump as &#8220;low confidence.&#8221; Slight bump in Hormuz traffic. Iran reports oil pollution off Qeshm Island, calls for Hormuz environmental fees. Iran kills two accused of intelligence ties to U.S. and Israel. Yemen&#8217;s Saudi-backed government claims success against Ansarallah attack. Saudi tankers reroute around Africa as empty fleet heads toward Gulf. X suspends Ansarallah spokesperson account. Israel kills Palestinian child in Gaza City strike. Israeli strikes kill two, including Gaza police chief. Israel detains Palestinians, destroys homes, and re-establishes settlement in occupied West Bank. Hamas says it will participate in Palestinian elections in November. Israeli forces blow "
+    }
+   ]
+  },
+  {
+   "id": "cd0a84570b",
+   "topic": "Politics",
+   "summary": "Dr. Anthony Fauci on Friday declined a request to voluntarily appear before a second Senate panel, opening another front in Republicans\u2019 investigations into the former public health official\u2019s handling of the COVID-19 pandemic. An attorney for Fauci rejected the request from Sen. Ron Johnson , R-Wis., chairman of the Senate Permanent Subcommittee on Investigations, arguing that compelling Fauci to testify again after his contentious July 29 Senate hearing would \"impermissibly harass or degrade Dr. Fauci for political purposes.\" Johnson has been conducting a parallel investigation into Fauci and the federal government\u2019s response to COVID-19, including the safety and efficacy of COVID-19 vaccines. SEN RON JOHNSON TALKS FAUCI EMAILS, NEW SENATE FILIBUSTER STRATEGY ON 'RUTHLESS' The refusal comes after Republicans on the Senate Homeland Security and Governmental Affairs Committee voted\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Fauci refuses Senate appearance after invoking Fifth Amendment more than 100 times in COVID probe",
+   "updated": "2026-08-16T04:47:20+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Fauci refuses Senate appearance after invoking Fifth Amendment more than 100 times in COVID probe",
+     "url": "https://nypost.com/2026/08/16/us-news/fauci-refuses-senate-appearance-after-invoking-fifth-amendment-more-than-100-times-in-covid-probe/",
+     "author": "Fox News",
+     "kind": "news",
+     "published": "2026-08-16T04:47:20+00:00",
+     "summary": "Ron Johnson has been conducting a parallel investigation into Fauci and the federal government\u2019s response to COVID-19."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Fauci refuses Senate appearance after invoking Fifth Amendment more than 100 times in COVID probe",
+     "url": "https://www.foxnews.com/politics/fauci-refuses-senate-appearance-invoking-fifth-amendment-100-times-covid-probe",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T21:15:59+00:00",
+     "summary": "Dr. Anthony Fauci on Friday declined a request to voluntarily appear before a second Senate panel, opening another front in Republicans\u2019 investigations into the former public health official\u2019s handling of the COVID-19 pandemic. An attorney for Fauci rejected the request from Sen. Ron Johnson , R-Wis., chairman of the Senate Permanent Subcommittee on Investigations, arguing that compelling Fauci to testify again after his contentious July 29 Senate hearing would \"impermissibly harass or degrade Dr. Fauci for political purposes.\" Johnson has been conducting a parallel investigation into Fauci and the federal government\u2019s response to COVID-19, including the safety and efficacy of COVID-19 vaccines. SEN RON JOHNSON TALKS FAUCI EMAILS, NEW SENATE FILIBUSTER STRATEGY ON 'RUTHLESS' The refusal comes after Republicans on the Senate Homeland Security and Governmental Affairs Committee voted along party lines last week to hold Fauci in contempt of Congress after he invoked his Fifth Amendment right against self-incrimination more than 100 times during the July hearing. Committee chairman Rand Paul , R-Ky., has sought to send the contempt referral directly to the U.S. Attorney's Office in the"
+    }
+   ]
+  },
+  {
+   "id": "b58b69152a",
+   "topic": "Health",
+   "summary": "A simple daily habit may be linked to a dramatically lower risk of premature death, particularly from heart disease \u2014 no gym membership required. People who climbed stairs had a 39% lower risk of dying from cardiovascular disease and a 24% lower risk of dying from any cause than those who didn\u2019t, according to an analysis led by researchers at the University of East Anglia and Norfolk and Norwich University Hospital. People who climbed the stairs were less likely to develop major cardiovascular conditions such as heart attack, stroke and heart failure, UEA further reported. DAD SUFFERS HEART ATTACK DAYS BEFORE DAUGHTER'S WEDDING \u2014 THEN DOCTORS MAKE SURE HE WALKS HER DOWN THE AISLE \"Cardiovascular disease is the leading cause of death worldwide with cases nearly doubling between 1990 and 2019,\" Vassilios Vassiliou, from UEA\u2019s Norwich Medical School, said in a news release. After reviewing\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Climbing stairs linked to dramatically lower risk of dying from heart disease",
+   "updated": "2026-08-16T04:05:09+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Climbing stairs linked to dramatically lower risk of dying from heart disease",
+     "url": "https://nypost.com/2026/08/16/health/daily-stair-climbing-linked-to-lower-risk-of-heart-disease-death/",
+     "author": "Fox News",
+     "kind": "news",
+     "published": "2026-08-16T04:05:09+00:00",
+     "summary": "A simple daily habit may be linked to a dramatically lower risk of premature death, particularly from heart disease \u2014 no gym membership required."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Everyday habit linked to dramatically lower risk of dying from heart disease",
+     "url": "https://www.foxnews.com/health/everyday-habit-linked-dramatically-lower-risk-dying-heart-disease",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T20:12:05+00:00",
+     "summary": "A simple daily habit may be linked to a dramatically lower risk of premature death, particularly from heart disease \u2014 no gym membership required. People who climbed stairs had a 39% lower risk of dying from cardiovascular disease and a 24% lower risk of dying from any cause than those who didn\u2019t, according to an analysis led by researchers at the University of East Anglia and Norfolk and Norwich University Hospital. People who climbed the stairs were less likely to develop major cardiovascular conditions such as heart attack, stroke and heart failure, UEA further reported. DAD SUFFERS HEART ATTACK DAYS BEFORE DAUGHTER'S WEDDING \u2014 THEN DOCTORS MAKE SURE HE WALKS HER DOWN THE AISLE \"Cardiovascular disease is the leading cause of death worldwide with cases nearly doubling between 1990 and 2019,\" Vassilios Vassiliou, from UEA\u2019s Norwich Medical School, said in a news release. After reviewing nearly 1,900 studies, the researchers analyzed data from more than 480,000 people across nine studies, which had a median follow-up period of 14 years. The participants included healthy people and those with a history of heart problems between the ages of 35 and 84. The findings show an association "
     }
    ]
   },
@@ -3020,6 +2910,99 @@
      "kind": "news",
      "published": "2026-08-16T01:55:02+00:00",
      "summary": "He celebrated a bit too early."
+    }
+   ]
+  },
+  {
+   "id": "a0287dd933",
+   "topic": "Other",
+   "summary": "At least 47 people died Saturday after a powerful 7.7 magnitude earthquake struck eastern Indonesia, with authorities warning the death toll is likely to rise. Videos captured the devastating shocks and aftermath.",
+   "summaryFrom": "cbsnews",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Videos capture the moment a devastating 7.7 magnitude earthquake hits Indonesia",
+   "updated": "2026-08-16T01:44:20+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Videos capture the moment a devastating 7.7 magnitude earthquake hits Indonesia",
+     "url": "https://www.cbsnews.com/video/indonesia-earthquake-videos/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T01:44:20+00:00",
+     "summary": "At least 47 people died Saturday after a powerful 7.7 magnitude earthquake struck eastern Indonesia, with authorities warning the death toll is likely to rise. Videos captured the devastating shocks and aftermath."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "2nd earthquake hits Indonesia following powerful magnitude 7.7 quake",
+     "url": "https://abcnews.com/International/2-dead-after-powerful-77-earthquake-strikes-off/story?id=135664681",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T00:10:50+00:00",
+     "summary": "A powerful magnitude 7.7 earthquake struck off the coast of eastern Indonesia, according to the U.S. Geological Survey."
+    }
+   ]
+  },
+  {
+   "id": "8c191ad31d",
+   "topic": "Other",
+   "summary": "Rams rookie quarterback Ty Simpson puts in a solid debut and avoids making any major mistakes in a 20-12 preseason win over the Kansas City Chiefs.",
+   "summaryFrom": "latimes",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Rams&#039; Ty Simpson Shines in Impressive Preseason Debut Against Chiefs",
+   "updated": "2026-08-16T01:00:02+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2,
+    "family": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "Rams&#039; Ty Simpson Shines in Impressive Preseason Debut Against Chiefs",
+     "url": "https://www.newsweek.com/sports/nfl/rams-ty-simpson-shines-in-impressive-preseason-debut-against-chiefs-12328401",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T01:00:02+00:00",
+     "summary": "Rams quarterback Ty Simpson achieved one of the best rookie preseason debuts so far in his team&#039;s win over Kansas City."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Ty Simpson impresses in his Rams debut during preseason win over Chiefs",
+     "url": "https://www.latimes.com/sports/rams/story/2026-08-15/ty-simpson-sharp-performance-rams-chiefs-preseason",
+     "author": "Gary Klein",
+     "kind": "news",
+     "published": "2026-08-15T23:21:28+00:00",
+     "summary": "Rams rookie quarterback Ty Simpson puts in a solid debut and avoids making any major mistakes in a 20-12 preseason win over the Kansas City Chiefs."
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Bears&#039; Maurice Alexander Impresses in Preseason Opener vs Browns",
+     "url": "https://www.newsweek.com/sports/nfl/bears-maurice-alexander-impresses-in-preseason-opener-vs-browns-12328104",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T21:43:20+00:00",
+     "summary": "Chicago Bears&#039; Maurice Alexander is looking strong."
     }
    ]
   },
@@ -3626,48 +3609,6 @@
      "kind": "news",
      "published": "2026-08-15T19:10:06+00:00",
      "summary": "Police say 26 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday."
-    }
-   ]
-  },
-  {
-   "id": "c3feada74e",
-   "topic": "Tech",
-   "summary": "Jeff Daniels says The Brink of War, his new Cold War-era nail-biter, which tells an extraordinary true story, has themes that resonate today. The post Jeff Daniels Says His Film Portraying Reagan-Gorbachev Talks Will &#8216;Remind People What Statesmen Look Like&#8217; appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Jeff Daniels Says His Film Portraying Reagan-Gorbachev Talks Will 'Remind People What Statesmen Look Like'",
-   "updated": "2026-08-15T17:18:28+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "coop": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Jeff Daniels Says His Film Portraying Reagan-Gorbachev Talks Will 'Remind People What Statesmen Look Like'",
-     "url": "https://www.breitbart.com/entertainment/2026/08/15/jeff-daniels-says-his-film-portraying-reagan-gorbachev-talks-will-remind-people-what-statesmen-look-like/",
-     "author": "Breitbart News",
-     "kind": "news",
-     "published": "2026-08-15T17:18:28+00:00",
-     "summary": "Jeff Daniels says The Brink of War, his new Cold War-era nail-biter, which tells an extraordinary true story, has themes that resonate today. The post Jeff Daniels Says His Film Portraying Reagan-Gorbachev Talks Will &#8216;Remind People What Statesmen Look Like&#8217; appeared first on Breitbart ."
-    },
-    {
-     "outlet": "racket",
-     "title": "On the Big Screen This Week: Meta-Slasher Queerness, Dinosaurs in Suburbia, Jeff Daniels as Reagan",
-     "url": "https://racketmn.com/on-the-big-screen-this-week-meta-slasher-queerness-dinosaurs-in-suburbia-jeff-daniels-as-reagan",
-     "author": "Keith Harris",
-     "kind": "news",
-     "published": "2026-08-13T21:37:37+00:00",
-     "summary": "Pretty much all the movies you can catch in the Twin Cities this week."
     }
    ]
   }
