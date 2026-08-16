@@ -1,57 +1,342 @@
 {
- "generated": "2026-08-16T18:48:23.227110+00:00",
+ "generated": "2026-08-16T19:35:03.625911+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
   {
-   "id": "dd55869c82",
-   "topic": "World",
-   "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capital Ukraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian authorities. The defence ministry in Moscow said it had shot down 1,478 Ukrainian drones in the past 24 hours \u2013 the highest ever total claimed \u2013 in an escalating air war in which seven Ukrainians were also killed as Russia bombed 13 locations inside the country. Continue reading...",
+   "id": "c562c35538",
+   "topic": "Politics",
+   "summary": "Senator Ruben Gallego calls carrier\u2019s months-long deployment a \u2018deep problem\u2019 as wellbeing concerns mount Democrats on Sunday intensified their demands for answers from the Trump administration over conditions aboard the USS Abraham Lincoln as the aircraft carrier\u2019s nearly nine-month deployment continued fueling concern over crew morale, mental health and living conditions. Ruben Gallego, a Democratic senator from Arizona, said on Sunday that problems aboard the Lincoln had kept mounting \u2013 and he blamed the carrier\u2019s prolonged deployment on the unresolved war that Donald Trump started in February with Iran as well as lackluster leadership in general from the Republican president\u2019s administration. Continue reading...",
    "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 5,
+    "big": [],
+    "indie": [
+     "aircraft",
+     "carrier",
+     "reported",
+     "issues",
+     "broken",
+     "jumping"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Democrats demand answers from Trump on USS Abraham Lincoln conditions",
+   "updated": "2026-08-16T19:33:58+00:00",
+   "outletCount": 7,
+   "counts": {
+    "corp": 2,
+    "nonprofit": 3,
+    "family": 1,
+    "pub": 2
+   },
+   "newsCount": 8,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T19:33:58+00:00",
+     "summary": "Meanwhile, Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Democrats demand answers from Trump on USS Abraham Lincoln conditions",
+     "url": "https://www.theguardian.com/us-news/2026/aug/16/democrats-trump-uss-abraham-lincoln",
+     "author": "Marina Dunbar",
+     "kind": "news",
+     "published": "2026-08-16T17:08:20+00:00",
+     "summary": "Senator Ruben Gallego calls carrier\u2019s months-long deployment a \u2018deep problem\u2019 as wellbeing concerns mount Democrats on Sunday intensified their demands for answers from the Trump administration over conditions aboard the USS Abraham Lincoln as the aircraft carrier\u2019s nearly nine-month deployment continued fueling concern over crew morale, mental health and living conditions. Ruben Gallego, a Democratic senator from Arizona, said on Sunday that problems aboard the Lincoln had kept mounting \u2013 and he blamed the carrier\u2019s prolonged deployment on the unresolved war that Donald Trump started in February with Iran as well as lackluster leadership in general from the Republican president\u2019s administration. Continue reading..."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Gallego blames Trump administration for Lincoln conditions: 'True lack of leadership'",
+     "url": "https://abcnews.com/Politics/gallego-blames-trump-administration-uss-lincoln-conditions-true/story?id=135685345",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T13:46:54+00:00",
+     "summary": "Adm. Mullen says morale has improved since the crew learned it's going home."
+    },
+    {
+     "outlet": "npr",
+     "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+     "url": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
+     "author": "Ava Pukatch",
+     "kind": "news",
+     "published": "2026-08-15T18:21:32+00:00",
+     "summary": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful. (Image credit: Julia Demaree Nikhinson)"
+    },
+    {
+     "outlet": "nyt",
+     "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
+     "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
+     "author": "Erica L. Green and Maggie Haberman",
+     "kind": "news",
+     "published": "2026-08-15T01:04:40+00:00",
+     "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted \u201cnot nearly long enough.\u201d"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
+     "url": "https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln",
+     "author": "Konstantin Toropin, Associated Press",
+     "kind": "news",
+     "published": "2026-08-14T23:10:05+00:00",
+     "summary": "The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days."
+    },
+    {
+     "outlet": "bbc",
+     "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
+     "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T17:36:27+00:00",
+     "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+     "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T23:06:23+00:00",
+     "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+    }
+   ]
+  },
+  {
+   "id": "c981a7f51a",
+   "topic": "Climate & Energy",
+   "summary": "Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn't done punishing the Big Island with hurricane-force gusts. (Image credit: Taylor Cozloff/AP)",
+   "summaryFrom": "npr",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 4,
+    "big": [
+     "wind"
+    ],
+    "indie": [
+     "making",
+     "landfall",
+     "again",
+     "sending"
+    ]
+   },
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
+   "updated": "2026-08-16T19:18:27+00:00",
+   "outletCount": 7,
+   "counts": {
+    "corp": 3,
+    "nonprofit": 2,
+    "pub": 2
+   },
+   "newsCount": 7,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Tropical Storm Lala brings drenching rain, wind across the Hawaiian islands",
+     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T19:18:27+00:00",
+     "summary": "As a hurricane, Lala skirted past Hawaii's Big Island, where it brought heavy rain and the possibility of life-threatening flooding and mudslides."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Lala weakens to tropical storm, brings heavy rain, wind, flooding to Hawaii",
+     "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T17:01:37+00:00",
+     "summary": "Lala has weakened to a tropical storm as it tracks through the central Pacific Ocean, approaching the Big Island of Hawaii on Sunday."
+    },
+    {
+     "outlet": "npr",
+     "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
+     "url": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T15:47:58+00:00",
+     "summary": "Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn't done punishing the Big Island with hurricane-force gusts. (Image credit: Taylor Cozloff/AP)"
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
+     "url": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T14:55:51+00:00",
+     "summary": "The devastating hurricane grazes the Big Island in Hawaii in the US, but avoids making landfall."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Lala is again a tropical storm, sending drenching rain and winds across the Hawaiian islands",
+     "url": "https://www.pbs.org/newshour/nation/lala-is-again-a-tropical-storm-sending-drenching-rain-and-winds-across-the-hawaiian-islands",
+     "author": "Ed White, Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T14:44:14+00:00",
+     "summary": "A search-and-rescue mission was launched after flash floods apparently swept several occupied homes off their foundations in coastal communities, authorities said."
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Hurricane Lala Tracker as Storm Sparks Power Outage in Hawaii",
+     "url": "https://www.newsweek.com/hurricane-lala-tracker-as-storm-sparks-power-outage-in-hawaii-12328659",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T13:00:24+00:00",
+     "summary": "Hurricane Lala leaves 88,000+ without power in Hawaii as flooding, damaging winds and outages disrupt islands."
+    },
+    {
+     "outlet": "dw",
+     "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
+     "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T05:57:00+00:00",
+     "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is gradually weakening. However, the hurricane caused roads to flood and turned rivers into raging torrents."
+    }
+   ]
+  },
+  {
+   "id": "13a67312a2",
+   "topic": "Other",
+   "summary": "Roberto Serra - Iguana Press / Roberto Serra, Getty Images Thieves stole four works by Sicilian Renaissance painter Antonello da Messina from the MuMe regional museum in Sicily during Ferragosto, a major Italian public holiday. On Saturday evening, just before 10 p.m., they evaded the museum\u2019s alarm and security systems and made off with three of the five surviving panels of the 1473 San Gregorio Polyptych, and a double-sided Virgin Mary and Piet\u00e0 panel taken from an armored display case, according to the news agency LaPresse. \u201cWe are devastated by what happened. They were two of Antonello da Messina\u2019s most important and best-known works. It is a tremendous loss for the museum, the city, the community and the art world,\u201d MuMe director Marisa Mercurio said. Lynda Albertson, an art-crime analyst for the Association for Research into Crimes against Art, said the works will be difficult for\u2026",
+   "summaryFrom": "dailybeast",
    "emphasis": null,
    "absent": [
     "family",
     "coop"
    ],
-   "headline": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-   "updated": "2026-08-16T18:04:25+00:00",
-   "outletCount": 8,
+   "headline": "Italy: Thieves steal key Renaissance paintings in Sicily",
+   "updated": "2026-08-16T19:18:00+00:00",
+   "outletCount": 6,
    "counts": {
     "pub": 4,
-    "nonprofit": 3,
+    "nonprofit": 2,
     "corp": 1
    },
-   "newsCount": 8,
+   "newsCount": 7,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
     {
-     "outlet": "bbc",
-     "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-     "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+     "outlet": "dw",
+     "title": "Italy: Thieves steal key Renaissance paintings in Sicily",
+     "url": "https://www.dw.com/en/italy-thieves-steal-key-renaissance-paintings-in-sicily/a-78389559?maca=en-rss-en-all-1573-rdf",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T18:04:25+00:00",
-     "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv."
+     "published": "2026-08-16T19:18:00+00:00",
+     "summary": "Four Renaissance paintings by Antonello da Messina were stolen from his Sicilian hometown on Saturday after surviving earthquakes and centuries of history. Crooks took them while locals celebrated a religious holiday."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Thieves steal 4 Renaissance artworks in a Sicilian museum heist during an Italian holiday",
+     "url": "https://www.pbs.org/newshour/arts/thieves-steal-4-renaissance-artworks-in-a-sicilian-museum-heist-during-an-italian-holiday",
+     "author": "Colleen Barry, Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T17:14:44+00:00",
+     "summary": "Art expert Alberto Fiz estimated the value of the stolen works at 70 million euros ($81 million) to 80 million euros ($92 million)."
+    },
+    {
+     "outlet": "france24",
+     "title": "Italy: Four Renaissance artworks stolen from Messina museum in Sicily",
+     "url": "https://www.france24.com/en/italy-four-renaissance-artworks-stolen-from-messina-museum-in-sicily",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T15:49:59+00:00",
+     "summary": "Four artworks by Renaissance painter Antonello da Messina have been stolen from the Museo Regionale in Messina, Sicily, overnight on August 15. The thieves took three panels from his Polittico di San Gregorio, depriving the city of part of the only surviving works by the painter still held in his hometown. Italian authorities have launched an investigation. FRANCE 24's Seema Gupta, correspondent in Italy, has the latest."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Thieves Pull Off Brazen Heist of Renaissance Artworks in Sicily",
+     "url": "https://www.thedailybeast.com/thieves-steal-four-antonello-da-messina-works-from-sicily-museum/",
+     "author": "Lauren Hartley",
+     "kind": "news",
+     "published": "2026-08-16T14:27:52+00:00",
+     "summary": "Roberto Serra - Iguana Press / Roberto Serra, Getty Images Thieves stole four works by Sicilian Renaissance painter Antonello da Messina from the MuMe regional museum in Sicily during Ferragosto, a major Italian public holiday. On Saturday evening, just before 10 p.m., they evaded the museum\u2019s alarm and security systems and made off with three of the five surviving panels of the 1473 San Gregorio Polyptych, and a double-sided Virgin Mary and Piet\u00e0 panel taken from an armored display case, according to the news agency LaPresse. \u201cWe are devastated by what happened. They were two of Antonello da Messina\u2019s most important and best-known works. It is a tremendous loss for the museum, the city, the community and the art world,\u201d MuMe director Marisa Mercurio said. Lynda Albertson, an art-crime analyst for the Association for Research into Crimes against Art, said the works will be difficult for thieves to sell because they are instantly recognizable. \u201cStealing an Antonello may be far easier than selling one. If these are ordinary thieves, they will soon discover that \u2014 to their cost,\u201d she said. She added that such famous artworks are often used as collateral for other illicit activity. In "
     },
     {
      "outlet": "guardian",
-     "title": "Ukrainian drone attack on Russia kills at least six, says Moscow",
-     "url": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire",
-     "author": "Dan Sabbagh in Kyiv",
+     "title": "Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
+     "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
+     "author": "Lorenzo Tondo in Palermo",
      "kind": "news",
-     "published": "2026-08-16T16:10:19+00:00",
-     "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capital Ukraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian authorities. The defence ministry in Moscow said it had shot down 1,478 Ukrainian drones in the past 24 hours \u2013 the highest ever total claimed \u2013 in an escalating air war in which seven Ukrainians were also killed as Russia bombed 13 locations inside the country. Continue reading..."
+     "published": "2026-08-16T13:44:29+00:00",
+     "summary": "Theft of four works on national holiday described as wound to historical memory and cultural identity of city of Messina Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina. Thieves gained access to the Regional Museum of Messina , or MuMe, on Saturday evening, possibly capitalising on attention being focused on La Vara, a huge religious festival that takes place in the city on 15 August, when Italy marks the Ferragosto national holiday. Continue reading..."
     },
     {
-     "outlet": "aljazeera",
-     "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
+     "outlet": "bbc",
+     "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+     "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T15:35:53+00:00",
-     "summary": "Ukraine launched hundreds of drones across Russia, killing at least six people and striking a Wildberries logistics hub."
+     "published": "2026-08-16T13:34:38+00:00",
+     "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
+    },
+    {
+     "outlet": "france24",
+     "title": "Italy recovers millions of euros worth of stolen Renoir, C\u00e9zanne and Matisse paintings",
+     "url": "https://www.france24.com/en/video/20260816-italy-recovers-millions-of-euros-worth-of-stolen-renoir-c%C3%A9zanne-and-matisse-paintings",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T08:56:50+00:00",
+     "summary": "Italian authorities have recovered three paintings by Renoir, C\u00e9zanne and Matisse, worth more than \u20ac9 million, months after they were stolen from a private museum near Parma. Five Moldovan suspects have been detained, with police saying the gang had carefully planned the heist and was equipped to disable the museum's security systems."
+    }
+   ]
+  },
+  {
+   "id": "4e3ba991db",
+   "topic": "World",
+   "summary": "People spend time near the river as a helicopter collects water to extinguish the fire that broke out in a distribution warehouse near Moscow, Russia, after Ukraine's drone attack on Aug. 16, 2026. \u2014Stringer/Anadolu\u2014Getty Images Ukraine launched one of its largest aerial assaults on Russia overnight on Saturday, firing on targets deep inside the country and killing at least six people, according to Russian authorities. Russia\u2019s defense ministry said it destroyed 822 drones. Sergei Sobyanin, the mayor of Moscow, said in a Telegram post that at least 600 drones were launched toward the capital city and that over a third were destroyed. The raid showcased the rapid advancement of Ukraine\u2019s drone and missile capabilities in recent months, which enabled it to strike deep inside Russian territory despite the country\u2019s advanced defense networks. Read More: Why It Is Time for the West to Crush\u2026",
+   "summaryFrom": "time",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 4,
+    "big": [],
+    "indie": [
+     "drones",
+     "hundreds",
+     "across"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+   "updated": "2026-08-16T19:00:17+00:00",
+   "outletCount": 6,
+   "counts": {
+    "family": 1,
+    "nonprofit": 2,
+    "corp": 1,
+    "pub": 2
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "time",
+     "title": "Ukraine Launches One of the War\u2019s Largest Drone Attacks, Killing 6",
+     "url": "https://time.com/article/2026/08/16/ukraine-launches-one-of-the-wars-largest-drone-attacks-killing-6/",
+     "author": "Rebecca Schneid",
+     "kind": "news",
+     "published": "2026-08-16T19:00:17+00:00",
+     "summary": "People spend time near the river as a helicopter collects water to extinguish the fire that broke out in a distribution warehouse near Moscow, Russia, after Ukraine's drone attack on Aug. 16, 2026. \u2014Stringer/Anadolu\u2014Getty Images Ukraine launched one of its largest aerial assaults on Russia overnight on Saturday, firing on targets deep inside the country and killing at least six people, according to Russian authorities. Russia\u2019s defense ministry said it destroyed 822 drones. Sergei Sobyanin, the mayor of Moscow, said in a Telegram post that at least 600 drones were launched toward the capital city and that over a third were destroyed. The raid showcased the rapid advancement of Ukraine\u2019s drone and missile capabilities in recent months, which enabled it to strike deep inside Russian territory despite the country\u2019s advanced defense networks. Read More: Why It Is Time for the West to Crush Putin\u2019s War Economy Calling the assault one of the \u201cmost massive drone attacks in recent memory,\u201d the Moscow region\u2019s Gov. Andrei Vorobyov said on Telegram that one of the people killed in the attack was an 83-year-old man who died when a drone \u201ccrashed onto a private home.\u201d Five others were killed i"
     },
     {
      "outlet": "pbsnewshour",
@@ -101,131 +386,24 @@
    ]
   },
   {
-   "id": "c981a7f51a",
-   "topic": "Climate & Energy",
-   "summary": "Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn't done punishing the Big Island with hurricane-force gusts. (Image credit: Taylor Cozloff/AP)",
-   "summaryFrom": "npr",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 4,
-    "big": [],
-    "indie": [
-     "landfall",
-     "making",
-     "across",
-     "drenching",
-     "sending"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
-   "updated": "2026-08-16T17:01:37+00:00",
-   "outletCount": 8,
-   "counts": {
-    "corp": 3,
-    "nonprofit": 2,
-    "pub": 2,
-    "family": 1
-   },
-   "newsCount": 8,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "abcnews",
-     "title": "Lala weakens to tropical storm, brings heavy rain, wind, flooding to Hawaii",
-     "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T17:01:37+00:00",
-     "summary": "Lala has weakened to a tropical storm as it tracks through the central Pacific Ocean, approaching the Big Island of Hawaii on Sunday."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Lala is a tropical storm again after lashing past Hawaii's Big Island",
-     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T15:58:03+00:00",
-     "summary": "As a hurricane, Lala skirted past Hawaii's Big Island, where it brought heavy rain and the possibility of life-threatening flooding and mudslides."
-    },
-    {
-     "outlet": "npr",
-     "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
-     "url": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T15:47:58+00:00",
-     "summary": "Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn't done punishing the Big Island with hurricane-force gusts. (Image credit: Taylor Cozloff/AP)"
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
-     "url": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T14:55:51+00:00",
-     "summary": "The devastating hurricane grazes the Big Island in Hawaii in the US, but avoids making landfall."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Lala is again a tropical storm, sending drenching rain and winds across the Hawaiian islands",
-     "url": "https://www.pbs.org/newshour/nation/lala-is-again-a-tropical-storm-sending-drenching-rain-and-winds-across-the-hawaiian-islands",
-     "author": "Ed White, Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T14:44:14+00:00",
-     "summary": "A search-and-rescue mission was launched after flash floods apparently swept several occupied homes off their foundations in coastal communities, authorities said."
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Hurricane Lala Tracker as Storm Sparks Power Outage in Hawaii",
-     "url": "https://www.newsweek.com/hurricane-lala-tracker-as-storm-sparks-power-outage-in-hawaii-12328659",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T13:00:24+00:00",
-     "summary": "Hurricane Lala leaves 88,000+ without power in Hawaii as flooding, damaging winds and outages disrupt islands."
-    },
-    {
-     "outlet": "dw",
-     "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
-     "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T05:57:00+00:00",
-     "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is gradually weakening. However, the hurricane caused roads to flood and turned rivers into raging torrents."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Flights between L.A. and Hawaii disrupted as Hurricane Lala approaches the Big Island",
-     "url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
-     "author": "Josh Rottenberg",
-     "kind": "news",
-     "published": "2026-08-16T00:56:14+00:00",
-     "summary": "Several flights from LAX to Hawaii were canceled Saturday, including service to Kona, Maui, Kauai and Honolulu."
-    }
-   ]
-  },
-  {
-   "id": "25736d721e",
+   "id": "199ec43aa2",
    "topic": "Politics",
    "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its\u2026",
    "summaryFrom": "axios",
    "emphasis": null,
    "absent": [
     "coop",
+    "nonprofit",
     "pub"
    ],
-   "headline": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+   "headline": "Gallego: Trump Views Servicemembers as 'Toys' to Show Off",
    "updated": "2026-08-16T16:47:12+00:00",
-   "outletCount": 8,
+   "outletCount": 6,
    "counts": {
     "family": 3,
-    "corp": 4,
-    "nonprofit": 1
+    "corp": 3
    },
-   "newsCount": 8,
+   "newsCount": 6,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -245,25 +423,7 @@
      "author": "Max Rego",
      "kind": "news",
      "published": "2026-08-16T15:25:17+00:00",
-     "summary": "Democratic Sen. Ruben Gallego (Ariz.) said Sunday the reported mental health concerns among service members on board the USS Abraham Lincoln are proof that President Trump does not care about their well-being. \u201cThe president has shown that he just doesn't really care about the troops,\u201d Gallego told host Martha Raddatz on ABC\u2019s \u201cThis Week.\u201d \u201cHis\u2026..."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Gallego blames Trump administration for Lincoln conditions: 'True lack of leadership'",
-     "url": "https://abcnews.com/Politics/gallego-blames-trump-administration-uss-lincoln-conditions-true/story?id=135685345",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T13:46:54+00:00",
-     "summary": "Adm. Mullen says morale has improved since the crew learned it's going home."
-    },
-    {
-     "outlet": "npr",
-     "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
-     "url": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
-     "author": "Ava Pukatch",
-     "kind": "news",
-     "published": "2026-08-15T18:21:32+00:00",
-     "summary": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful. (Image credit: Julia Demaree Nikhinson)"
+     "summary": "Democratic Sen. Ruben Gallego (Ariz.) said Sunday the reported mental health concerns among service members on board the USS Abraham Lincoln are proof that President Trump does not care about their well-being. \u201cThe president has shown that he just doesn't really care about the troops,\u201d Gallego told host Martha Raddatz on ABC News\u2019s \u201cThis Week.\u201d..."
     },
     {
      "outlet": "latimes",
@@ -304,195 +464,6 @@
    ]
   },
   {
-   "id": "c562c35538",
-   "topic": "Politics",
-   "summary": "Senator Ruben Gallego calls carrier\u2019s months-long deployment a \u2018deep problem\u2019 as wellbeing concerns mount Democrats on Sunday intensified their demands for answers from the Trump administration over conditions aboard the USS Abraham Lincoln as the aircraft carrier\u2019s nearly nine-month deployment continued fueling concern over crew morale, mental health and living conditions. Ruben Gallego, a Democratic senator from Arizona, said on Sunday that problems aboard the Lincoln had kept mounting \u2013 and he blamed the carrier\u2019s prolonged deployment on the unresolved war that Donald Trump started in February with Iran as well as lackluster leadership in general from the Republican president\u2019s administration. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 4,
-    "big": [
-     "president",
-     "dismisses"
-    ],
-    "indie": [
-     "carrier",
-     "aircraft",
-     "broken",
-     "reportedly",
-     "plumbing",
-     "thousands"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Democrats demand answers from Trump on USS Abraham Lincoln conditions",
-   "updated": "2026-08-16T17:56:46+00:00",
-   "outletCount": 7,
-   "counts": {
-    "corp": 2,
-    "nonprofit": 2,
-    "family": 2,
-    "pub": 2
-   },
-   "newsCount": 8,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T17:56:46+00:00",
-     "summary": "Meanwhile, Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Democrats demand answers from Trump on USS Abraham Lincoln conditions",
-     "url": "https://www.theguardian.com/us-news/2026/aug/16/democrats-trump-uss-abraham-lincoln",
-     "author": "Marina Dunbar",
-     "kind": "news",
-     "published": "2026-08-16T17:08:20+00:00",
-     "summary": "Senator Ruben Gallego calls carrier\u2019s months-long deployment a \u2018deep problem\u2019 as wellbeing concerns mount Democrats on Sunday intensified their demands for answers from the Trump administration over conditions aboard the USS Abraham Lincoln as the aircraft carrier\u2019s nearly nine-month deployment continued fueling concern over crew morale, mental health and living conditions. Ruben Gallego, a Democratic senator from Arizona, said on Sunday that problems aboard the Lincoln had kept mounting \u2013 and he blamed the carrier\u2019s prolonged deployment on the unresolved war that Donald Trump started in February with Iran as well as lackluster leadership in general from the Republican president\u2019s administration. Continue reading..."
-    },
-    {
-     "outlet": "thehill",
-     "title": "Former Joint Chiefs chair: Truth about issues on USS Abraham Lincoln 'somewhere in the middle'",
-     "url": "https://thehill.com/policy/defense/6031908-mullen-uss-abraham-lincoln-mental-health/",
-     "author": "Max Rego",
-     "kind": "news",
-     "published": "2026-08-16T14:55:49+00:00",
-     "summary": "Retired Adm. Mike Mullen, the former chairman of the Joint Chiefs of Staff, said Sunday the truth about the reported mental health concerns among service members on board the USS Abraham Lincoln is likely \u201csomewhere in the middle.\u201d During an interview on ABC\u2019s \u201cThis Week,\u201d Mullen said he had \u201cgreat concern\u201d about conditions on the..."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
-     "author": "Erica L. Green and Maggie Haberman",
-     "kind": "news",
-     "published": "2026-08-15T01:04:40+00:00",
-     "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted \u201cnot nearly long enough.\u201d"
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
-     "url": "https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln",
-     "author": "Konstantin Toropin, Associated Press",
-     "kind": "news",
-     "published": "2026-08-14T23:10:05+00:00",
-     "summary": "The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Trump dismisses families\u2019 concerns about USS Abraham Lincoln conditions",
-     "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-dismisses-families-concerns-about-uss-abraham-lincoln-conditions/",
-     "author": "Cat Zakrzewski",
-     "kind": "news",
-     "published": "2026-08-14T19:19:15+00:00",
-     "summary": "President Donald Trump dismissed the concerns of military families about worsening conditions on the USS Abraham Lincoln."
-    },
-    {
-     "outlet": "bbc",
-     "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-     "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T17:36:27+00:00",
-     "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-     "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T23:06:23+00:00",
-     "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
-    }
-   ]
-  },
-  {
-   "id": "061157ce57",
-   "topic": "Health",
-   "summary": "John was first player to undergo pioneering operation New York Yankees pay tribute to four-time All-Star Tommy John, the namesake of a ligament-replacement surgery that paved a path to recovery for injured baseball players, has died. He was 83. TMZ.com reported that the pitcher died at his home in Florida, surrounded by his family, including his wife, Cheryl. John \u2060had recently been in hospice \u2060care. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Tommy John, pitcher whose surgery changed baseball, dies at age of 83",
-   "updated": "2026-08-16T18:43:56+00:00",
-   "outletCount": 6,
-   "counts": {
-    "family": 3,
-    "corp": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Tommy John, Pitcher Who Gave His Name to Career-Saving Surgery, Dies at 83",
-     "url": "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html",
-     "author": "Bruce Weber",
-     "kind": "news",
-     "published": "2026-08-16T18:43:56+00:00",
-     "summary": "After tearing an elbow ligament, he underwent a risky procedure and returned at his best, changing baseball and giving new hope to injured players."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Tommy John, MLB All-Star pitcher who had a surgery named after him, dies at 83",
-     "url": "https://www.cbsnews.com/news/tommy-john-mlb-baseball-player-dies-83/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T18:42:09+00:00",
-     "summary": "One of Tommy John's biggest legacies to MLB was his comeback elbow reconstruction surgery that now bears his name."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Tommy John, whose elbow surgery transformed baseball, dies at 83",
-     "url": "https://www.washingtonpost.com/nation/2026/08/16/tommy-john-whose-elbow-surgery-transformed-baseball-dies-83/",
-     "author": "Matt Schudel",
-     "kind": "news",
-     "published": "2026-08-16T18:23:45+00:00",
-     "summary": "The lefty made four all-star teams while pitching for the White Sox, Dodgers and Yankees. An innovative procedure extended his career to 26 seasons."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Tommy John, pitcher whose surgery changed baseball, dies at age of 83",
-     "url": "https://www.theguardian.com/sport/2026/aug/16/tommy-john-pitcher-whose-surgery-changed-baseball-dies-at-age-of-83",
-     "author": "Agencies",
-     "kind": "news",
-     "published": "2026-08-16T18:19:00+00:00",
-     "summary": "John was first player to undergo pioneering operation New York Yankees pay tribute to four-time All-Star Tommy John, the namesake of a ligament-replacement surgery that paved a path to recovery for injured baseball players, has died. He was 83. TMZ.com reported that the pitcher died at his home in Florida, surrounded by his family, including his wife, Cheryl. John \u2060had recently been in hospice \u2060care. Continue reading..."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Former MLB pitcher Tommy John dies at age 83",
-     "url": "https://www.nbcnews.com/sports/baseball/former-mlb-pitcher-tommy-john-dies-age-83-rcna592800",
-     "author": "David K. Li",
-     "kind": "news",
-     "published": "2026-08-16T17:51:11+00:00",
-     "summary": "Tommy John, the longtime Major League baseball pitcher whose name is forever linked to the groundbreaking elbow surgery that saved his career and those of countless others since, has died, officials said Sunday."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Tommy John, Dodgers pitcher and medical pioneer, dies at 83",
-     "url": "https://www.latimes.com/sports/story/2026-08-16/tommy-john-obituary-surgery-yankees-dodgers",
-     "author": "Michael Kupper",
-     "kind": "news",
-     "published": "2026-08-16T17:45:42+00:00",
-     "summary": "Tommy John, who ruptured a ligament in his left elbow in 1974, agreed to a radical surgery that revived his career and changed baseball. He pitched for 26 years."
-    }
-   ]
-  },
-  {
    "id": "47b37decde",
    "topic": "Justice & Policing",
    "summary": "Spain and Morocco have boosted security around Spain\u2019s African enclave Ceuta following calls for another Moroccan migrant border rush, two weeks after a migrant invasion left at least 96 people dead. Soldiers have been watching commercial and government buildings in Ceuta while police are patrolling main streets, according to Reuters. Along the Moroccan border, security guards were seen on the beaches of Fnideq, one of the primary locations from which migrants illegally rushed Ceuta, Fox News reported . Morocco has arrested multiple people who circulated calls on social media for another migrant invasion into both Ceuta and Melilla, another Spanish African enclave. \u201cThe Ministry of the Interior has detected, during the last few days, the circulation of anonymous publications and messages on certain social networks inciting the organization of attempts at collective and illegal crossing\u2026",
@@ -502,12 +473,12 @@
     "indieCount": 4,
     "big": [],
     "indie": [
-     "crossing",
      "mass",
-     "media",
+     "crossing",
      "social",
-     "migrants",
-     "enter"
+     "media",
+     "attempted",
+     "migrants"
     ]
    },
    "absent": [
@@ -583,7 +554,7 @@
    ]
   },
   {
-   "id": "40507e217d",
+   "id": "a616205db7",
    "topic": "Other",
    "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant\u2026",
    "summaryFrom": "dailywire",
@@ -591,30 +562,39 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "around",
-     "opened",
-     "wounded",
      "fire",
-     "multiple"
+     "multiple",
+     "wounded",
+     "opened",
+     "around"
     ],
     "indie": []
    },
    "absent": [
     "coop"
    ],
-   "headline": "Suspect in Virginia State University shooting found hiding in dorm closet",
-   "updated": "2026-08-16T17:48:31+00:00",
+   "headline": "Teen suspect in Virginia campus shooting found hiding in closet",
+   "updated": "2026-08-16T19:00:23+00:00",
    "outletCount": 5,
    "counts": {
+    "pub": 1,
     "corp": 1,
     "nonprofit": 1,
-    "pub": 1,
     "family": 2
    },
    "newsCount": 4,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Teen suspect in Virginia campus shooting found hiding in closet",
+     "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T19:00:23+00:00",
+     "summary": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police."
+    },
     {
      "outlet": "thehill",
      "title": "Suspect in Virginia State University shooting arrested, found hiding in closet",
@@ -634,15 +614,6 @@
      "summary": "Suspect, 19, who is not enrolled at the university arrested in connection with shooting of five people, authorities say A young man suspected in connection with the shooting of five people on Saturday on the campus of Virginia State University (VSU) hid in a dormitory closet for more than 14 hours being found and arrested, according to authorities. The suspect \u2013 identified as 19-year-old Camron Harris \u2013 was found in Seward Hall on VSU\u2019s campus at 4pm, local police Lt James Lamb said, according to the Virginia news outlet WTVR . The shooting occurred at about 1.30am on Saturday. Continue reading..."
     },
     {
-     "outlet": "bbc",
-     "title": "Teenager arrested in Virginia State University shooting that injured five",
-     "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T15:22:50+00:00",
-     "summary": "The 19-year-old, who was not a student at the university, was found hiding in a closet on campus, according to police."
-    },
-    {
      "outlet": "breitbart",
      "title": "Numerous People Injured After Multiple Shooters Open Fire at Virginia State University",
      "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/numerous-people-injured-after-multiple-shooters-open-fire-virginia-state-university/",
@@ -659,6 +630,86 @@
      "kind": "opinion",
      "published": "2026-08-15T07:47:18+00:00",
      "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant law enforcement presence remains on campus as the investigation into this morning&#8217;s shooting continues.&#8221; It appears that no suspects have been taken into custody as of time of publication, and the university urged anyone with information on the shooting to contact law enforcement. pic.twi"
+    }
+   ]
+  },
+  {
+   "id": "b120e655fe",
+   "topic": "Culture & Sport",
+   "summary": "John was first player to undergo pioneering operation New York Yankees pay tribute to four-time All-Star Tommy John, the namesake of a ligament-replacement surgery that paved a path to recovery for injured baseball players, has died. He was 83. TMZ.com reported that the pitcher died at his home in Florida, surrounded by his family, including his wife, Cheryl. John \u2060had recently been in hospice \u2060care. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 2,
+    "big": [
+     "procedure",
+     "name"
+    ],
+    "indie": [
+     "pioneering",
+     "namesake"
+    ]
+   },
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
+   "updated": "2026-08-16T18:58:25+00:00",
+   "outletCount": 5,
+   "counts": {
+    "nonprofit": 2,
+    "family": 2,
+    "corp": 1
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "npr",
+     "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
+     "url": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T18:58:25+00:00",
+     "summary": "The left-handed MLB pitcher was 31 years old when he tore the ulnar collateral ligament in his pitching elbow in 1974, an injury that had been a death knell for pitchers' careers up to that point. (Image credit: Damian Dovarganes)"
+    },
+    {
+     "outlet": "nyt",
+     "title": "Tommy John, Pitcher Who Gave His Name to Career-Saving Surgery, Dies at 83",
+     "url": "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html",
+     "author": "Bruce Weber",
+     "kind": "news",
+     "published": "2026-08-16T18:43:56+00:00",
+     "summary": "After tearing an elbow ligament, he underwent a risky procedure and returned at his best, changing baseball and giving new hope to injured players."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Tommy John, MLB All-Star pitcher who had a surgery named after him, dies at 83",
+     "url": "https://www.cbsnews.com/news/tommy-john-mlb-baseball-player-dies-83/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T18:42:09+00:00",
+     "summary": "One of Tommy John's biggest legacies to MLB was his comeback elbow reconstruction surgery that now bears his name."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Tommy John, whose elbow surgery transformed baseball, dies at 83",
+     "url": "https://www.washingtonpost.com/nation/2026/08/16/tommy-john-whose-elbow-surgery-transformed-baseball-dies-83/",
+     "author": "Matt Schudel",
+     "kind": "news",
+     "published": "2026-08-16T18:23:45+00:00",
+     "summary": "The lefty made four all-star teams while pitching for the White Sox, Dodgers and Yankees. An innovative procedure extended his career to 26 seasons."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Tommy John, pitcher whose surgery changed baseball, dies at age of 83",
+     "url": "https://www.theguardian.com/sport/2026/aug/16/tommy-john-pitcher-whose-surgery-changed-baseball-dies-at-age-of-83",
+     "author": "Agencies",
+     "kind": "news",
+     "published": "2026-08-16T18:19:00+00:00",
+     "summary": "John was first player to undergo pioneering operation New York Yankees pay tribute to four-time All-Star Tommy John, the namesake of a ligament-replacement surgery that paved a path to recovery for injured baseball players, has died. He was 83. TMZ.com reported that the pitcher died at his home in Florida, surrounded by his family, including his wife, Cheryl. John \u2060had recently been in hospice \u2060care. Continue reading..."
     }
    ]
   },
@@ -728,153 +779,6 @@
      "kind": "news",
      "published": "2026-08-14T22:10:53+00:00",
      "summary": "Gutman was included in a former ABC News producer's wrongful termination suit filed Friday in Los Angeles."
-    }
-   ]
-  },
-  {
-   "id": "696e87b7bb",
-   "topic": "Other",
-   "summary": "Roberto Serra - Iguana Press / Roberto Serra, Getty Images Thieves stole four works by Sicilian Renaissance painter Antonello da Messina from the MuMe regional museum in Sicily during Ferragosto, a major Italian public holiday. On Saturday evening, just before 10 p.m., they evaded the museum\u2019s alarm and security systems and made off with three of the five surviving panels of the 1473 San Gregorio Polyptych, and a double-sided Virgin Mary and Piet\u00e0 panel taken from an armored display case, according to the news agency LaPresse. \u201cWe are devastated by what happened. They were two of Antonello da Messina\u2019s most important and best-known works. It is a tremendous loss for the museum, the city, the community and the art world,\u201d MuMe director Marisa Mercurio said. Lynda Albertson, an art-crime analyst for the Association for Research into Crimes against Art, said the works will be difficult for\u2026",
-   "summaryFrom": "dailybeast",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop"
-   ],
-   "headline": "Thieves steal 4 Renaissance artworks in a Sicilian museum heist during an Italian holiday",
-   "updated": "2026-08-16T17:14:44+00:00",
-   "outletCount": 5,
-   "counts": {
-    "nonprofit": 2,
-    "pub": 3,
-    "corp": 1
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "pbsnewshour",
-     "title": "Thieves steal 4 Renaissance artworks in a Sicilian museum heist during an Italian holiday",
-     "url": "https://www.pbs.org/newshour/arts/thieves-steal-4-renaissance-artworks-in-a-sicilian-museum-heist-during-an-italian-holiday",
-     "author": "Colleen Barry, Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T17:14:44+00:00",
-     "summary": "Art expert Alberto Fiz estimated the value of the stolen works at 70 million euros ($81 million) to 80 million euros ($92 million)."
-    },
-    {
-     "outlet": "france24",
-     "title": "Italy: Four Renaissance artworks stolen from Messina museum in Sicily",
-     "url": "https://www.france24.com/en/italy-four-renaissance-artworks-stolen-from-messina-museum-in-sicily",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T15:49:59+00:00",
-     "summary": "Four artworks by Renaissance painter Antonello da Messina have been stolen from the Museo Regionale in Messina, Sicily, overnight on August 15. The thieves took three panels from his Polittico di San Gregorio, depriving the city of part of the only surviving works by the painter still held in his hometown. Italian authorities have launched an investigation. FRANCE 24's Seema Gupta, correspondent in Italy, has the latest."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Thieves Pull Off Brazen Heist of Renaissance Artworks in Sicily",
-     "url": "https://www.thedailybeast.com/thieves-steal-four-antonello-da-messina-works-from-sicily-museum/",
-     "author": "Lauren Hartley",
-     "kind": "news",
-     "published": "2026-08-16T14:27:52+00:00",
-     "summary": "Roberto Serra - Iguana Press / Roberto Serra, Getty Images Thieves stole four works by Sicilian Renaissance painter Antonello da Messina from the MuMe regional museum in Sicily during Ferragosto, a major Italian public holiday. On Saturday evening, just before 10 p.m., they evaded the museum\u2019s alarm and security systems and made off with three of the five surviving panels of the 1473 San Gregorio Polyptych, and a double-sided Virgin Mary and Piet\u00e0 panel taken from an armored display case, according to the news agency LaPresse. \u201cWe are devastated by what happened. They were two of Antonello da Messina\u2019s most important and best-known works. It is a tremendous loss for the museum, the city, the community and the art world,\u201d MuMe director Marisa Mercurio said. Lynda Albertson, an art-crime analyst for the Association for Research into Crimes against Art, said the works will be difficult for thieves to sell because they are instantly recognizable. \u201cStealing an Antonello may be far easier than selling one. If these are ordinary thieves, they will soon discover that \u2014 to their cost,\u201d she said. She added that such famous artworks are often used as collateral for other illicit activity. In "
-    },
-    {
-     "outlet": "guardian",
-     "title": "Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
-     "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
-     "author": "Lorenzo Tondo in Palermo",
-     "kind": "news",
-     "published": "2026-08-16T13:44:29+00:00",
-     "summary": "Theft of four works on national holiday described as wound to historical memory and cultural identity of city of Messina Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina. Thieves gained access to the Regional Museum of Messina , or MuMe, on Saturday evening, possibly capitalising on attention being focused on La Vara, a huge religious festival that takes place in the city on 15 August, when Italy marks the Ferragosto national holiday. Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-     "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T13:34:38+00:00",
-     "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
-    },
-    {
-     "outlet": "france24",
-     "title": "Italy recovers millions of euros worth of stolen Renoir, C\u00e9zanne and Matisse paintings",
-     "url": "https://www.france24.com/en/video/20260816-italy-recovers-millions-of-euros-worth-of-stolen-renoir-c%C3%A9zanne-and-matisse-paintings",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T08:56:50+00:00",
-     "summary": "Italian authorities have recovered three paintings by Renoir, C\u00e9zanne and Matisse, worth more than \u20ac9 million, months after they were stolen from a private museum near Parma. Five Moldovan suspects have been detained, with police saying the gang had carefully planned the heist and was equipped to disable the museum's security systems."
-    }
-   ]
-  },
-  {
-   "id": "9b9c847d9d",
-   "topic": "Politics",
-   "summary": "US attorney general says no one in his role \u2018should ever\u2019 make this vow amid concern over Trump steering DoJ US attorney general Todd Blanche on Sunday declined to assure that the federal justice department he helms would always act independently of the White House and Donald Trump . \u201cNo, I\u2019m not going to pledge that,\u201d he said when asked about the topic by NBC\u2019s Meet the Press host, Kristen Welker. \u201cAnd no attorney general should ever pledge that.\u201d Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Todd Blanche declines to pledge independence from White House",
-   "updated": "2026-08-16T16:33:08+00:00",
-   "outletCount": 5,
-   "counts": {
-    "nonprofit": 1,
-    "corp": 2,
-    "family": 2
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Todd Blanche declines to pledge independence from White House",
-     "url": "https://www.theguardian.com/us-news/2026/aug/16/todd-blanche-doj-independence-trump-white-house",
-     "author": "Michael Sainato",
-     "kind": "news",
-     "published": "2026-08-16T16:33:08+00:00",
-     "summary": "US attorney general says no one in his role \u2018should ever\u2019 make this vow amid concern over Trump steering DoJ US attorney general Todd Blanche on Sunday declined to assure that the federal justice department he helms would always act independently of the White House and Donald Trump . \u201cNo, I\u2019m not going to pledge that,\u201d he said when asked about the topic by NBC\u2019s Meet the Press host, Kristen Welker. \u201cAnd no attorney general should ever pledge that.\u201d Continue reading..."
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Todd Blanche Refuses to Pledge DOJ Independence From White House",
-     "url": "https://www.newsweek.com/todd-blanche-doj-independence-white-house-trump-12328916",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T15:35:44+00:00",
-     "summary": "The remarks are likely to reignite concerns about the DOJ&#039;s independence which were central to Blanche&#039;s confirmation battle."
-    },
-    {
-     "outlet": "forbes",
-     "title": "Todd Blanche Refuses To Pledge Independence From White House As Trump\u2019s Attorney General",
-     "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/16/todd-blanche-refuses-to-pledge-independence-from-white-house-as-trumps-attorney-general/",
-     "author": "Zachary Folk, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-16T15:05:14+00:00",
-     "summary": "In a \u201cMeet the Press\u201d interview on Sunday, Blanche promised the Justice Department would \u201cact with integrity\u201d under his leadership."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Attorney General Todd Blanche says the DOJ may take states\u2019 voter-roll fight to Supreme Court",
-     "url": "https://www.nbcnews.com/meet-the-press/video/attorney-general-todd-blanche-says-the-doj-may-take-states-voter-roll-fight-to-supreme-court-268371525962",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T13:47:27+00:00",
-     "summary": "In an interview with Meet the Press, Attorney General Todd Blanche says \"absolutely it's a possibility\" that the Department of Justice may take the Trump administration's fight over voter rolls to the Supreme Court."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Trump wants to put golden seals on White House ballroom",
-     "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-wants-put-golden-seals-white-house-ballroom/",
-     "author": "Dan Diamond, Jonathan Edwards",
-     "kind": "news",
-     "published": "2026-08-14T19:50:02+00:00",
-     "summary": "The planned adornments, which were included in renderings submitted to the Supreme Court, break with tradition and the original vision for the White House grounds."
     }
    ]
   },
@@ -1025,10 +929,10 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "testing",
      "judge's",
+     "trump",
      "facade",
-     "trump"
+     "testing"
     ],
     "indie": []
    },
@@ -1096,18 +1000,71 @@
    ]
   },
   {
+   "id": "9dfab22528",
+   "topic": "Health",
+   "summary": "Tommy John, the former MLB pitcher whose elbow surgery set the standard in baseball and helped lengthen the careers of countless players, has died. He was 83. Mike Maguire, his agent, announced John\u2019s death in a statement. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! \"Thomas Edward \u2018Tommy\u2019 John Jr. passed away peacefully at his home in Lakewood Ranch last night surrounded by his loving wife, Cheryl, and his sister-in-laws Judith Florentino and Karen Jordan,\" the statement read. \"A private celebration of life will be held in Florida.\" John\u2019s death comes about a week after he released a farewell message to fans on New York Yankees\u2019 Old-Timers\u2019 Day . He said in his message he was \"saying goodbye\" as the team revealed he had been battling health issues. \"I want to thank the Yankees organization &amp; the Steinbrenner family for giving me this opportunity to\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Iconic Yankees pitcher Tommy John passes away at 83",
+   "updated": "2026-08-16T19:11:00+00:00",
+   "outletCount": 4,
+   "counts": {
+    "family": 3,
+    "corp": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Iconic Yankees pitcher Tommy John passes away at 83",
+     "url": "https://nypost.com/video/iconic-yankees-pitcher-tommy-john-passes-away-at-83/",
+     "author": "NY Post Video",
+     "kind": "news",
+     "published": "2026-08-16T19:11:00+00:00",
+     "summary": "The New York Post remembers former MLB pitcher Tommy John, who has passed away at age 83. While pitching for the Yankees, Tommy John became the first player to undergo the elbow surgery that now carries his name. The lefty pitched for 26 seasons in MLB and his impact on the game transcends the mound..."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Former MLB pitcher Tommy John dies at age 83",
+     "url": "https://www.nbcnews.com/sports/baseball/former-mlb-pitcher-tommy-john-dies-age-83-rcna592800",
+     "author": "David K. Li",
+     "kind": "news",
+     "published": "2026-08-16T17:51:11+00:00",
+     "summary": "Tommy John, the longtime Major League baseball pitcher whose name is forever linked to the groundbreaking elbow surgery that saved his career and those of countless others since, has died, officials said Sunday."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Tommy John, Dodgers pitcher and medical pioneer, dies at 83",
+     "url": "https://www.latimes.com/sports/story/2026-08-16/tommy-john-obituary-surgery-yankees-dodgers",
+     "author": "Michael Kupper",
+     "kind": "news",
+     "published": "2026-08-16T17:45:42+00:00",
+     "summary": "Tommy John, who ruptured a ligament in his left elbow in 1974, agreed to a radical surgery that revived his career and changed baseball. He pitched for 26 years."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Famed ex-Yankees pitcher Tommy John dead at 83 after sending farewell message to fans",
+     "url": "https://www.foxnews.com/sports/famed-ex-yankees-pitcher-tommy-john-dead-83-farewell-message-fans",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T17:17:40+00:00",
+     "summary": "Tommy John, the former MLB pitcher whose elbow surgery set the standard in baseball and helped lengthen the careers of countless players, has died. He was 83. Mike Maguire, his agent, announced John\u2019s death in a statement. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! \"Thomas Edward \u2018Tommy\u2019 John Jr. passed away peacefully at his home in Lakewood Ranch last night surrounded by his loving wife, Cheryl, and his sister-in-laws Judith Florentino and Karen Jordan,\" the statement read. \"A private celebration of life will be held in Florida.\" John\u2019s death comes about a week after he released a farewell message to fans on New York Yankees\u2019 Old-Timers\u2019 Day . He said in his message he was \"saying goodbye\" as the team revealed he had been battling health issues. \"I want to thank the Yankees organization &amp; the Steinbrenner family for giving me this opportunity to say goodbye to everyone, along with all the friends &amp; fans who followed me throughout my 26-year career,\" John\u2019s message read. \"Thanks to Dr. Jobe, who saved my arm &amp; made it possible for me to continue pitching. That surgery has since gone on to save the careers of countless pitchers, includi"
+    }
+   ]
+  },
+  {
    "id": "31b08fa480",
    "topic": "Climate & Energy",
    "summary": "One person is dead, homes have been swept off their foundations and more than 130,000 customers are without power as Tropical Storm Lala grinds westward across the Hawaiian Islands, a day after it brushed the Big Island as a Category 1 hurricane. Gov. Josh Green (D-HI) said Saturday evening that one person was killed in a storm-related car crash on the Big Island&#8217;s southern end, and that 19 roofs had been lost and at least three hospitals were running on generator power. Hours later, flash flooding tore through the coastal communities of Naalehu and Waiohinu. &#8220;Several occupied homes may have been swept off their foundations, and based on that, civil defense has initiated a search and rescue mission,&#8221; Hawaii County Mayor Kimo Alameda said overnight. Responders went looking for people who had called 911 but could not be reached through the floodwaters. &#8220;What makes\u2026",
    "summaryFrom": "dailywire",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [
-     "tropical"
-    ],
-    "indie": []
-   },
+   "emphasis": null,
    "absent": [
     "corp",
     "coop",
@@ -1117,8 +1074,8 @@
    "updated": "2026-08-16T18:46:12+00:00",
    "outletCount": 4,
    "counts": {
-    "pub": 2,
-    "family": 2
+    "pub": 1,
+    "family": 3
    },
    "newsCount": 3,
    "opinionCount": 1,
@@ -1152,73 +1109,13 @@
      "summary": "One person is dead, homes have been swept off their foundations and more than 130,000 customers are without power as Tropical Storm Lala grinds westward across the Hawaiian Islands, a day after it brushed the Big Island as a Category 1 hurricane. Gov. Josh Green (D-HI) said Saturday evening that one person was killed in a storm-related car crash on the Big Island&#8217;s southern end, and that 19 roofs had been lost and at least three hospitals were running on generator power. Hours later, flash flooding tore through the coastal communities of Naalehu and Waiohinu. &#8220;Several occupied homes may have been swept off their foundations, and based on that, civil defense has initiated a search and rescue mission,&#8221; Hawaii County Mayor Kimo Alameda said overnight. Responders went looking for people who had called 911 but could not be reached through the floodwaters. &#8220;What makes this very challenging is that there&#8217;s rushing water, there&#8217;s debris, and there&#8217;s boulders on the road and it&#8217;s dark,&#8221; Alameda said. Lala, since downgraded to tropical storm status, battered several of the islands with strong winds and heavy rains without officially makin"
     },
     {
-     "outlet": "france24",
-     "title": "US : Hawaii narrowly avoids direct hit as Hurricane Lala brings strong weather",
-     "url": "https://www.france24.com/en/us-hawaii-narrowly-avoids-direct-hit-as-hurricane-lala-brings-severe-weather",
-     "author": "FRANCE24",
+     "outlet": "latimes",
+     "title": "Flights between L.A. and Hawaii disrupted as Hurricane Lala approaches the Big Island",
+     "url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
+     "author": "Josh Rottenberg",
      "kind": "news",
-     "published": "2026-08-16T08:53:56+00:00",
-     "summary": "Hawaii has narrowly avoided a historic direct hit from Hurricane Lala, but torrential rain and hurricane-force winds are still causing widespread flooding, mudslides and power outages across the islands. Authorities are urging residents to shelter in place as the storm moves west and dangerous conditions persist."
-    }
-   ]
-  },
-  {
-   "id": "1af9d68467",
-   "topic": "World",
-   "summary": "Israeli settlers run as they are chased by an Israeli military vehicle around Palestinian houses in the village of Qusra, south of Nablus, in the occupied West Bank, on Aug. 13, 2026. Photo by Zain Jaafar/AFP via Getty Images US Ambassador Mike Huckabee called settlers besieging a Palestinian American home in the occupied West Bank &#8220; Israeli terrorists .&#8221; It&#8217;s a welcome, rare rebuke from a U.S. official, but what kind of weight does it really have when the same official has been a long-time supporter of Israeli settlements? It wasn&#8217;t that long ago that Huckabee made similar comments about settler violence gripping the Palestinian Christian village of Taybeh , where attacks continue, or the settlers who beat Palestinian American Sayfollah Musallet to death (no one has been held accountable). Subscribe now What kind of weight do Huckabee&#8217;s comments really\u2026",
-   "summaryFrom": "zeteo",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family"
-   ],
-   "headline": "Israeli army besieges Palestinian homes in occupied West Bank",
-   "updated": "2026-08-16T17:45:52+00:00",
-   "outletCount": 4,
-   "counts": {
-    "pub": 2,
-    "coop": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Israeli army besieges Palestinian homes in occupied West Bank",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T17:45:52+00:00",
-     "summary": "Israeli troops have raided the village of Qusra, south of Nablus, in the occupied West Bank."
-    },
-    {
-     "outlet": "france24",
-     "title": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
-     "url": "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-16T12:02:18+00:00",
-     "summary": "A solar eclipse seen across parts of Europe, ongoing search-and-rescue efforts in Colombia after a devastating earthquake killed at least 300 people and left hundreds missing, and escalating violence by Israeli settlers in the occupied West Bank, condemned by the US ambassador to Israel as \"acts of terror\": FRANCE 24 takes a look at the week's most striking images."
-    },
-    {
-     "outlet": "zeteo",
-     "title": "This Week in Palestine: Israel Shoots 13-Year-Old as She \u2018Memorized the Quran\u2019 and Settlers Besiege Palestinian Families",
-     "url": "https://zeteo.com/p/this-week-in-palestine-israel-shoots",
-     "author": "Team Zeteo",
-     "kind": "news",
-     "published": "2026-08-15T17:01:34+00:00",
-     "summary": "Israeli settlers run as they are chased by an Israeli military vehicle around Palestinian houses in the village of Qusra, south of Nablus, in the occupied West Bank, on Aug. 13, 2026. Photo by Zain Jaafar/AFP via Getty Images US Ambassador Mike Huckabee called settlers besieging a Palestinian American home in the occupied West Bank &#8220; Israeli terrorists .&#8221; It&#8217;s a welcome, rare rebuke from a U.S. official, but what kind of weight does it really have when the same official has been a long-time supporter of Israeli settlements? It wasn&#8217;t that long ago that Huckabee made similar comments about settler violence gripping the Palestinian Christian village of Taybeh , where attacks continue, or the settlers who beat Palestinian American Sayfollah Musallet to death (no one has been held accountable). Subscribe now What kind of weight do Huckabee&#8217;s comments really have when, hours after using the phrase &#8220;Israeli terrorists,&#8221; he called the settlers &#8220; illegal trespassers &#8221; instead? Or when he defended the vast majority of settlers, saying they aren&#8217;t the problem, the &#8220; unsettlers &#8221; are, even though the settlements themselve"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
-     "url": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
-     "author": "Emma Graham-Harrison in Jerusalem",
-     "kind": "news",
-     "published": "2026-08-13T18:54:09+00:00",
-     "summary": "Former PM of Israel calls events \u2018concerted and meticulous attempt at ethnic cleansing\u2019 against Palestinians Israeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top Israeli commander personally promised he would end a violent settler campaign to drive them out. Israeli soldiers also took over eight other homes in Qusra early on Thursday, telling the village\u2019s mayor, Abdul Azim Wadi, that the buildings were needed for a days-long operation to remove the settlers. They later relinquished six. Settlers still roam the village. Continue reading..."
+     "published": "2026-08-16T00:56:14+00:00",
+     "summary": "Several flights from LAX to Hawaii were canceled Saturday, including service to Kona, Maui, Kauai and Honolulu."
     }
    ]
   },
@@ -1283,62 +1180,62 @@
    ]
   },
   {
-   "id": "a11cd969e9",
+   "id": "9b9c847d9d",
    "topic": "Politics",
-   "summary": "Photo Illustration by Eric Faison/The Daily Beast/Getty The investigation into Nancy Guthrie\u2019s kidnapping may have been hobbled from the start by inexperienced homicide detectives, friction with the FBI, and a decision to give the family control of the crime scene too soon, according to a local law enforcement union leader. Sgt. Aaron Cross, president of the Pima County Deputies Organization, detailed what he believes went wrong in the case in an interview with TMZ Cross\u2019s biggest concern is that local investigators relinquished control of Guthrie\u2019s crime scene to her family too soon. Read more at The Daily Beast.",
-   "summaryFrom": "dailybeast",
+   "summary": "US attorney general says no one in his role \u2018should ever\u2019 make this vow amid concern over Trump steering DoJ US attorney general Todd Blanche on Sunday declined to assure that the federal justice department he helms would always act independently of the White House and Donald Trump . \u201cNo, I\u2019m not going to pledge that,\u201d he said when asked about the topic by NBC\u2019s Meet the Press host, Kristen Welker. \u201cAnd no attorney general should ever pledge that.\u201d Continue reading...",
+   "summaryFrom": "guardian",
    "emphasis": null,
    "absent": [
     "coop",
-    "nonprofit",
     "pub"
    ],
-   "headline": "Blanche Refuses to Say He\u2019ll Always Be Independent of Trump as Attorney General",
-   "updated": "2026-08-16T16:14:13+00:00",
+   "headline": "Todd Blanche declines to pledge independence from White House",
+   "updated": "2026-08-16T16:33:08+00:00",
    "outletCount": 4,
    "counts": {
-    "family": 2,
-    "corp": 2
+    "nonprofit": 1,
+    "corp": 2,
+    "family": 1
    },
-   "newsCount": 3,
-   "opinionCount": 1,
+   "newsCount": 4,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "nyt",
-     "title": "Blanche Refuses to Say He\u2019ll Always Be Independent of Trump as Attorney General",
-     "url": "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html",
-     "author": "Glenn Thrush",
+     "outlet": "guardian",
+     "title": "Todd Blanche declines to pledge independence from White House",
+     "url": "https://www.theguardian.com/us-news/2026/aug/16/todd-blanche-doj-independence-trump-white-house",
+     "author": "Michael Sainato",
      "kind": "news",
-     "published": "2026-08-16T16:14:13+00:00",
-     "summary": "The new head of the Justice Department said on \u201cMeet the Press\u201d on Sunday that the president had never asked him to prosecute specific people \u2014 and never would."
+     "published": "2026-08-16T16:33:08+00:00",
+     "summary": "US attorney general says no one in his role \u2018should ever\u2019 make this vow amid concern over Trump steering DoJ US attorney general Todd Blanche on Sunday declined to assure that the federal justice department he helms would always act independently of the White House and Donald Trump . \u201cNo, I\u2019m not going to pledge that,\u201d he said when asked about the topic by NBC\u2019s Meet the Press host, Kristen Welker. \u201cAnd no attorney general should ever pledge that.\u201d Continue reading..."
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Todd Blanche Refuses to Pledge DOJ Independence From White House",
+     "url": "https://www.newsweek.com/todd-blanche-doj-independence-white-house-trump-12328916",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T15:35:44+00:00",
+     "summary": "The remarks are likely to reignite concerns about the DOJ&#039;s independence which were central to Blanche&#039;s confirmation battle."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Todd Blanche Refuses To Pledge Independence From White House As Trump\u2019s Attorney General",
+     "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/16/todd-blanche-refuses-to-pledge-independence-from-white-house-as-trumps-attorney-general/",
+     "author": "Zachary Folk, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-16T15:05:14+00:00",
+     "summary": "In a \u201cMeet the Press\u201d interview on Sunday, Blanche promised the Justice Department would \u201cact with integrity\u201d under his leadership."
     },
     {
      "outlet": "nbcnews",
-     "title": "Attorney General Todd Blanche says it wouldn\u2019t be the best course for the FBI to take over Nancy Guthrie investigation",
-     "url": "https://www.nbcnews.com/news/us-news/todd-blanche-best-course-fbi-takeover-nancy-guthrie-investigation-rcna592784",
-     "author": "Alexandra Marquez",
+     "title": "Attorney General Todd Blanche says the DOJ may take states\u2019 voter-roll fight to Supreme Court",
+     "url": "https://www.nbcnews.com/meet-the-press/video/attorney-general-todd-blanche-says-the-doj-may-take-states-voter-roll-fight-to-supreme-court-268371525962",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-16T16:03:19+00:00",
-     "summary": "Attorney General Todd Blanche said that he doesn\u2019t believe it would be the best course of action for the FBI to take over the investigation into the disappearance of Nancy Guthrie in Arizona"
-    },
-    {
-     "outlet": "breitbart",
-     "title": "AG Todd Blanche: 'Of Course' I'll Listen to Trump\u2019s Opinion on Prosecutions",
-     "url": "https://www.breitbart.com/clips/2026/08/16/ag-todd-blanche-of-course-ill-listen-to-trumps-opinion-on-prosecutions/",
-     "author": "Pam Key",
-     "kind": "opinion",
-     "published": "2026-08-16T15:09:43+00:00",
-     "summary": "Sunday on NBC&#8217;s &#8220;Meet the Press,&#8221; Attorney General Todd Blanche said &#8220;of course&#8221; he will listen to President Donald Trump&#8217;s opinion on prosecutions. Host Kristen Welker said, &#8220;Would you take his opinions into consideration when he says, I think this case should be The post AG Todd Blanche: &#8216;Of Course&#8217; I&#8217;ll Listen to Trump\u2019s Opinion on Prosecutions appeared first on Breitbart ."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Troubling New Details Revealed in Nancy Guthrie Investigation",
-     "url": "https://www.thedailybeast.com/troubling-new-details-revealed-in-nancy-guthrie-investigation/",
-     "author": "Mary Papenfuss",
-     "kind": "news",
-     "published": "2026-08-16T03:42:16+00:00",
-     "summary": "Photo Illustration by Eric Faison/The Daily Beast/Getty The investigation into Nancy Guthrie\u2019s kidnapping may have been hobbled from the start by inexperienced homicide detectives, friction with the FBI, and a decision to give the family control of the crime scene too soon, according to a local law enforcement union leader. Sgt. Aaron Cross, president of the Pima County Deputies Organization, detailed what he believes went wrong in the case in an interview with TMZ Cross\u2019s biggest concern is that local investigators relinquished control of Guthrie\u2019s crime scene to her family too soon. Read more at The Daily Beast."
+     "published": "2026-08-16T13:47:27+00:00",
+     "summary": "In an interview with Meet the Press, Attorney General Todd Blanche says \"absolutely it's a possibility\" that the Department of Justice may take the Trump administration's fight over voter rolls to the Supreme Court."
     }
    ]
   },
@@ -1471,11 +1368,11 @@
     "bigCount": 3,
     "indieCount": 3,
     "big": [
-     "worth",
-     "stations",
      "international",
-     "foot-washing",
      "airport",
+     "stations",
+     "foot-washing",
+     "worth",
      "scrapped"
     ],
     "indie": [
@@ -1615,53 +1512,104 @@
    ]
   },
   {
-   "id": "d370e3b9e2",
-   "topic": "Other",
-   "summary": "Focus On Sport / ocus on Sport, Getty Images Tommy John, the star pitcher who played 26 major league seasons mostly with the Yankees and Dodgers, has died at 83. Aside from winning 288 professional baseball games, he may be most known for inspiring the Tommy John elbow surgery. He was the first person to ever get the surgery after he tore his ulnar collateral ligament in his left elbow during the 1974 season. At the time, it was unclear whether John would ever be able to pitch again. Team doctor Frank Jobe performed the first-of-its-kind operation, which became medical history, and John returned to top form just a year later. On Aug. 8 during Old-Timers\u2019 Day at Yankee Stadium, John thanked Jobe, whom John said, \u201csaved my arm and made it possible for me to continue pitching. That surgery has since gone on to save the careers of countless pitchers, including many of the very best in the\u2026",
-   "summaryFrom": "dailybeast",
+   "id": "d8863e39db",
+   "topic": "Politics",
+   "summary": "Caitlyn Jenner reacted to how the WNBA has navigated its latest controversy over whether transgender athletes would be eligible to play in the league. The WNBA has lacked clarity on whether a transgender athlete would be able to play in the league. In the midst of it all, former NBA players Enes Kanter Freedom and Royce White each launched bids to get into the WNBA. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! Jenner appeared on \"Fox News @ Night\" with Trace Gallagher and said there was a \"simple\" conclusion to the ordeal. \"They\u2019re showing the hypocrisy of what\u2019s going on out there in the WNBA,\" Jenner said of Kanter and White. \"The WNBA had their meetings on this issue and Cathy (Engelbert), the head, says, \u2018We talked about the trans issue but we just haven\u2019t come up with a conclusion at this point. We will continue the conversation.\u2019 Cathy, XX, you\u2019re\u2026",
+   "summaryFrom": "foxnews",
    "emphasis": null,
    "absent": [
+    "corp",
     "coop",
     "nonprofit",
     "pub"
    ],
-   "headline": "Yankees Great Who Inspired Famous Surgery Dies at 83",
-   "updated": "2026-08-16T18:40:04+00:00",
+   "headline": "Caitlyn Jenner says Enes Kanter Freedom, Royce White exposing WNBA\u2019s trans \u2018hypocrisy\u2019",
+   "updated": "2026-08-16T19:07:49+00:00",
    "outletCount": 3,
    "counts": {
-    "corp": 1,
-    "family": 2
+    "family": 3
    },
    "newsCount": 3,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "dailybeast",
-     "title": "Yankees Great Who Inspired Famous Surgery Dies at 83",
-     "url": "https://www.thedailybeast.com/tommy-john-pitcher-who-inspired-elbow-surgery-dies-at-83/",
-     "author": "Lauren Hartley",
-     "kind": "news",
-     "published": "2026-08-16T18:40:04+00:00",
-     "summary": "Focus On Sport / ocus on Sport, Getty Images Tommy John, the star pitcher who played 26 major league seasons mostly with the Yankees and Dodgers, has died at 83. Aside from winning 288 professional baseball games, he may be most known for inspiring the Tommy John elbow surgery. He was the first person to ever get the surgery after he tore his ulnar collateral ligament in his left elbow during the 1974 season. At the time, it was unclear whether John would ever be able to pitch again. Team doctor Frank Jobe performed the first-of-its-kind operation, which became medical history, and John returned to top form just a year later. On Aug. 8 during Old-Timers\u2019 Day at Yankee Stadium, John thanked Jobe, whom John said, \u201csaved my arm and made it possible for me to continue pitching. That surgery has since gone on to save the careers of countless pitchers, including many of the very best in the game today.\u201d John was previously diagnosed with bladder cancer. He is survived by his second wife, Cheryl, his sons Tommy III and Travis, and daughter Tamara Mannelly. Read it at https://nypost.com/2026/08/16/sports/tommy-john-yankees-great-who-had-surgery-named-after-him-dead-at-83/ Read more at The "
-    },
-    {
      "outlet": "nypost",
-     "title": "Tommy John, Yankees great who had surgery named after him, dead at 83",
-     "url": "https://nypost.com/2026/08/16/sports/tommy-john-yankees-great-who-had-surgery-named-after-him-dead-at-83/",
-     "author": "Dan Martin",
+     "title": "Caitlyn Jenner says Enes Kanter Freedom, Royce White exposing WNBA\u2019s trans \u2018hypocrisy\u2019",
+     "url": "https://nypost.com/2026/08/16/sports/caitlyn-jenner-says-enes-kanter-freedom-royce-white-exposing-wnbas-trans-hypocrisy/",
+     "author": "Bridget Reilly",
      "kind": "news",
-     "published": "2026-08-16T17:22:22+00:00",
-     "summary": "His major league career was extended after he became the first player to undergo the elbow surgery that now carries his name."
+     "published": "2026-08-16T19:07:49+00:00",
+     "summary": "Caitlyn Jenner is having her say in the ongoing transgender athlete conversations that have been flooding the WNBA as of late."
     },
     {
      "outlet": "foxnews",
-     "title": "Famed ex-Yankees pitcher Tommy John dead at 83 after sending farewell message to fans",
-     "url": "https://www.foxnews.com/sports/famed-ex-yankees-pitcher-tommy-john-dead-83-farewell-message-fans",
+     "title": "Caitlyn Jenner says there's a 'simple' solution to end the WNBA's trans athlete debate",
+     "url": "https://www.foxnews.com/outkick-sports/caitlyn-jenner-simple-solution-end-wnba-trans-athlete-debate",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T17:17:40+00:00",
-     "summary": "Tommy John, the former MLB pitcher whose elbow surgery set the standard in baseball and helped lengthen the careers of countless players, has died. He was 83. Mike Maguire, his agent, announced John\u2019s death in a statement. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! \"Thomas Edward \u2018Tommy\u2019 John Jr. passed away peacefully at his home in Lakewood Ranch last night surrounded by his loving wife, Cheryl, and his sister-in-laws Judith Florentino and Karen Jordan,\" the statement read. \"A private celebration of life will be held in Florida.\" John\u2019s death comes about a week after he released a farewell message to fans on New York Yankees\u2019 Old-Timers\u2019 Day . He said in his message he was \"saying goodbye\" as the team revealed he had been battling health issues. \"I want to thank the Yankees organization &amp; the Steinbrenner family for giving me this opportunity to say goodbye to everyone, along with all the friends &amp; fans who followed me throughout my 26-year career,\" John\u2019s message read. \"Thanks to Dr. Jobe, who saved my arm &amp; made it possible for me to continue pitching. That surgery has since gone on to save the careers of countless pitchers, includi"
+     "published": "2026-08-16T15:56:03+00:00",
+     "summary": "Caitlyn Jenner reacted to how the WNBA has navigated its latest controversy over whether transgender athletes would be eligible to play in the league. The WNBA has lacked clarity on whether a transgender athlete would be able to play in the league. In the midst of it all, former NBA players Enes Kanter Freedom and Royce White each launched bids to get into the WNBA. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! Jenner appeared on \"Fox News @ Night\" with Trace Gallagher and said there was a \"simple\" conclusion to the ordeal. \"They\u2019re showing the hypocrisy of what\u2019s going on out there in the WNBA,\" Jenner said of Kanter and White. \"The WNBA had their meetings on this issue and Cathy (Engelbert), the head, says, \u2018We talked about the trans issue but we just haven\u2019t come up with a conclusion at this point. We will continue the conversation.\u2019 Cathy, XX, you\u2019re in. XY you\u2019re out. It\u2019s that simple. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM \"And both these guys I think are doing a good job just to show the WNBA the hypocrisy that\u2019s going on here. We have to protect women\u2019s sports \u2026 I want to protect women\u2019s sports. Title IX was one of the greatest leg"
+    },
+    {
+     "outlet": "theatlantic",
+     "title": "Enes Kanter Freedom Obviously Doesn\u2019t Belong in the WNBA",
+     "url": "https://www.theatlantic.com/ideas/2026/08/enes-kanter-royce-white-wnba-trans/688300/?utm_source=feed",
+     "author": "Helen Lewis",
+     "kind": "news",
+     "published": "2026-08-16T10:00:00+00:00",
+     "summary": "Why shouldn\u2019t Enes Kanter Freedom and Royce White play women\u2019s basketball? The answer is simple: They\u2019re not female. By all evidence, the two former NBA players have XY chromosomes\u2014White has fathered children\u2014and have been through male puberty. They have significant athletic advantages over female athletes and should not be eligible for the WNBA. To reach this conclusion, I don\u2019t need to peer into the pair\u2019s souls to see whether they\u2019re pink or blue, nor do I need to decide whether they are sincerely applying for the WNBA draft or just trolling. Although, let\u2019s be clear, they are trolling. On August 6, Freedom sent a letter to the WNBA\u2019s commissioner that might as well have read: Hello\u2014I would like some attention. The 34-year-old, whose NBA profile lists him at 6 foot 10 and 250 pounds, played pro basketball for 11 seasons. Now he wants to register for the women\u2019s draft. He argued on X that he is \u201csimply asking that the current rules be applied equally to everyone\u2014the rules that represent the very values many WNBA players and coaches have publicly advocated for.\u201d In an interview on Friday, he imagined catching a pass from the Indiana Fever star Caitlin Clark, dunking the ball, and "
+    }
+   ]
+  },
+  {
+   "id": "dd55869c82",
+   "topic": "World",
+   "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capital Ukraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian authorities. The defence ministry in Moscow said it had shot down 1,478 Ukrainian drones in the past 24 hours \u2013 the highest ever total claimed \u2013 in an escalating air war in which seven Ukrainians were also killed as Russia bombed 13 locations inside the country. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+   "updated": "2026-08-16T19:03:04+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+     "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T19:03:04+00:00",
+     "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Ukrainian drone attack on Russia kills at least six, says Moscow",
+     "url": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire",
+     "author": "Dan Sabbagh in Kyiv",
+     "kind": "news",
+     "published": "2026-08-16T16:10:19+00:00",
+     "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capital Ukraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian authorities. The defence ministry in Moscow said it had shot down 1,478 Ukrainian drones in the past 24 hours \u2013 the highest ever total claimed \u2013 in an escalating air war in which seven Ukrainians were also killed as Russia bombed 13 locations inside the country. Continue reading..."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T15:35:53+00:00",
+     "summary": "Ukraine launched hundreds of drones across Russia, killing at least six people and striking a Wildberries logistics hub."
     }
    ]
   },
@@ -1713,6 +1661,57 @@
      "kind": "opinion",
      "published": "2026-08-14T14:32:25+00:00",
      "summary": "There's something primordially satisfying about watching a big-screen dinosaur get the what-for from the business end of a just-loaded shotgun. The recent run of Jurassic Park movies sometimes seems to have lost this primal pleasure, replacing it with ho-hum computer-generated spectacle and cheap nostalgic callbacks to the franchise's better days. They've forgotten that the franchise was founded on a combination of awe and white-knuckle terror\u2014the raw and relatable fear of a giant, toothy monster that stalks the earth with a sort of evolutionary arrogance that comes from a couple million years atop the food chain. Newsflash: Humans rule the planet now. It's fun to watch these ancient planetary powerhouses get taken down a peg. Sic semper Tyrannosaurus. The End of Oak Street remembers what the Jurassic Park franchise has largely forgotten. It leans into the animal terror of encountering a dinosaur on the streets of an ordinary suburb. Set in the early 1980s, the movie lifts brashly from early Steven Spielberg, especially E.T. , depicting a seemingly ordinary family with its own ordinary troubles who find themselves in a sort of dinosaur-ridden episode of The Twilight Zone. The End o"
+    }
+   ]
+  },
+  {
+   "id": "1af9d68467",
+   "topic": "World",
+   "summary": "Israeli settlers run as they are chased by an Israeli military vehicle around Palestinian houses in the village of Qusra, south of Nablus, in the occupied West Bank, on Aug. 13, 2026. Photo by Zain Jaafar/AFP via Getty Images US Ambassador Mike Huckabee called settlers besieging a Palestinian American home in the occupied West Bank &#8220; Israeli terrorists .&#8221; It&#8217;s a welcome, rare rebuke from a U.S. official, but what kind of weight does it really have when the same official has been a long-time supporter of Israeli settlements? It wasn&#8217;t that long ago that Huckabee made similar comments about settler violence gripping the Palestinian Christian village of Taybeh , where attacks continue, or the settlers who beat Palestinian American Sayfollah Musallet to death (no one has been held accountable). Subscribe now What kind of weight do Huckabee&#8217;s comments really\u2026",
+   "summaryFrom": "zeteo",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "nonprofit"
+   ],
+   "headline": "Israeli army besieges Palestinian homes in occupied West Bank",
+   "updated": "2026-08-16T17:45:52+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 2,
+    "coop": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Israeli army besieges Palestinian homes in occupied West Bank",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T17:45:52+00:00",
+     "summary": "Israeli troops have raided the village of Qusra, south of Nablus, in the occupied West Bank."
+    },
+    {
+     "outlet": "france24",
+     "title": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
+     "url": "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-16T12:02:18+00:00",
+     "summary": "A solar eclipse seen across parts of Europe, ongoing search-and-rescue efforts in Colombia after a devastating earthquake killed at least 300 people and left hundreds missing, and escalating violence by Israeli settlers in the occupied West Bank, condemned by the US ambassador to Israel as \"acts of terror\": FRANCE 24 takes a look at the week's most striking images."
+    },
+    {
+     "outlet": "zeteo",
+     "title": "This Week in Palestine: Israel Shoots 13-Year-Old as She \u2018Memorized the Quran\u2019 and Settlers Besiege Palestinian Families",
+     "url": "https://zeteo.com/p/this-week-in-palestine-israel-shoots",
+     "author": "Team Zeteo",
+     "kind": "news",
+     "published": "2026-08-15T17:01:34+00:00",
+     "summary": "Israeli settlers run as they are chased by an Israeli military vehicle around Palestinian houses in the village of Qusra, south of Nablus, in the occupied West Bank, on Aug. 13, 2026. Photo by Zain Jaafar/AFP via Getty Images US Ambassador Mike Huckabee called settlers besieging a Palestinian American home in the occupied West Bank &#8220; Israeli terrorists .&#8221; It&#8217;s a welcome, rare rebuke from a U.S. official, but what kind of weight does it really have when the same official has been a long-time supporter of Israeli settlements? It wasn&#8217;t that long ago that Huckabee made similar comments about settler violence gripping the Palestinian Christian village of Taybeh , where attacks continue, or the settlers who beat Palestinian American Sayfollah Musallet to death (no one has been held accountable). Subscribe now What kind of weight do Huckabee&#8217;s comments really have when, hours after using the phrase &#8220;Israeli terrorists,&#8221; he called the settlers &#8220; illegal trespassers &#8221; instead? Or when he defended the vast majority of settlers, saying they aren&#8217;t the problem, the &#8220; unsettlers &#8221; are, even though the settlements themselve"
     }
    ]
   },
@@ -2074,57 +2073,6 @@
    ]
   },
   {
-   "id": "ab35692bcd",
-   "topic": "Health",
-   "summary": "Eggs displayed in refrigerated section of a grocery store. \u2014Lindsey Nicholson\u2014Universal Images Group An egg recall linked to a salmonella outbreak was upgraded to the highest possible risk level by the U.S. Food and Drug Administration (FDA) on Wednesday. Nearly 1.6 million dozen eggs were labeled \u201cClass I,\u201d which the agency defines as \u201ca situation in which there is a reasonable probability that the use of or exposure to a violative product will cause serious adverse health consequences or death.\u201d Symptoms of salmonella infection include \u201cfever, diarrhea (which may be bloody), nausea, vomiting, and abdominal pain,\u201d according to the FDA . \u201cIllness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella, and the symptoms usually last four to seven days,\u201d its website said, noting that children under 5, the elderly, and the immunocompromised were more\u2026",
-   "summaryFrom": "time",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "Massive egg recall in US south and south-west due to salmonella outbreak",
-   "updated": "2026-08-15T16:01:10+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 1,
-    "family": 1,
-    "pub": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Massive egg recall in US south and south-west due to salmonella outbreak",
-     "url": "https://www.theguardian.com/us-news/2026/aug/15/egg-recall-us-south-and-south-west-salmonella-outbreak",
-     "author": "Marina Dunbar",
-     "kind": "news",
-     "published": "2026-08-15T16:01:10+00:00",
-     "summary": "About 1.6m dozen eggs from Texas recalled amid one of the largest recorded foodborne illness outbreaks in US history A massive egg recall affecting nearly 1.6m dozen eggs has been elevated to the US Food and Drug Administration\u2019s highest-risk warning as officials investigate a salmonella outbreak that has sickened nearly 100 people. The FDA on 12 August reclassified the recall of nearly 1.6m dozen white and brown cage-free eggs over concerns they may be contaminated with salmonella. Continue reading..."
-    },
-    {
-     "outlet": "time",
-     "title": "Salmonella Egg Recall Is Now Class I, the FDA\u2019s Highest Risk Level",
-     "url": "https://time.com/article/2026/08/15/eggs-recalled-for-salmonella-upgraded-to-highest-fda-risk-level/",
-     "author": "Rebecca Schneid",
-     "kind": "news",
-     "published": "2026-08-15T15:47:35+00:00",
-     "summary": "Eggs displayed in refrigerated section of a grocery store. \u2014Lindsey Nicholson\u2014Universal Images Group An egg recall linked to a salmonella outbreak was upgraded to the highest possible risk level by the U.S. Food and Drug Administration (FDA) on Wednesday. Nearly 1.6 million dozen eggs were labeled \u201cClass I,\u201d which the agency defines as \u201ca situation in which there is a reasonable probability that the use of or exposure to a violative product will cause serious adverse health consequences or death.\u201d Symptoms of salmonella infection include \u201cfever, diarrhea (which may be bloody), nausea, vomiting, and abdominal pain,\u201d according to the FDA . \u201cIllness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella, and the symptoms usually last four to seven days,\u201d its website said, noting that children under 5, the elderly, and the immunocompromised were more likely to have severe reactions. The U.S. Centers for Disease Control and Prevention (CDC) said that eggs contaminated with Salmonella Enteritidis had infected at least 98 people across 17 states. No deaths have been reported, but 26 people have been hospitalized. Read More: The Trump Administration Wan"
-    },
-    {
-     "outlet": "dw",
-     "title": "US: FDA recalls 19 million eggs over salmonella risk",
-     "url": "https://www.dw.com/en/us-fda-recalls-19-million-eggs-over-salmonella-risk/a-78378361?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T03:49:00+00:00",
-     "summary": "The US has issued a serious health warning over the recalled eggs, saying exposure to the potentially contaminated products could cause severe illness or death."
-    }
-   ]
-  },
-  {
    "id": "2f0df6930f",
    "topic": "Justice & Policing",
    "summary": "U.S. Attorney Jeanine Pirro's office has filed charges against the woman accused of vandalizing the World War II Memorial in Washington, DC. The post VIDEO \u2014 U.S. Attorney Jeanine Pirro Charges Suspect for D.C. WWII Memorial Vandalism: &#8216;A Despicable Attack&#8217; appeared first on Breitbart .",
@@ -2172,57 +2120,6 @@
      "kind": "news",
      "published": "2026-08-14T17:15:04+00:00",
      "summary": "Pirro said her office filed two felony charges against a woman who allegedly vandalized the WWII Memorial."
-    }
-   ]
-  },
-  {
-   "id": "4a16daf682",
-   "topic": "Politics",
-   "summary": "At the end of the month, White House press secretary Karoline Leavitt will end a tenure that many consider to be one of the best in the 97-year history of the office. Importantly, she will leave something behind \u2014 a vital legacy of opening the briefing room to independent media. Leavitt handled her office with grace and dexterity, no mean feat for someone communicating for President Donald Trump , who talks more than a morning radio disc jockey. Somehow, she was never in front of his messaging, but also never far behind. As a queen of cool, Leavitt could not be flustered. She always had an air of confidence and, dare I say, levity. Even when her occasional jocular barbs were tossed at reporters, they rarely turned into acrimony. SCRAMBLE FOR KAROLINE LEAVITT'S REPLACEMENT ENSUES WITH JUST WEEKS UNTIL TRUMP'S SPOKESPERSON EXITS Beyond serving as a model for future press secretaries,\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "How Karoline Leavitt Changed the White House Press Room",
-   "updated": "2026-08-15T14:12:17+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 2,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "DAVID MARCUS: Karoline Leavitt\u2019s lasting legacy is opening the White House to indie press",
-     "url": "https://www.foxnews.com/opinion/david-marcus-karoline-leavitt-lasting-legacy-opening-white-house-indie-press",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-15T14:12:17+00:00",
-     "summary": "At the end of the month, White House press secretary Karoline Leavitt will end a tenure that many consider to be one of the best in the 97-year history of the office. Importantly, she will leave something behind \u2014 a vital legacy of opening the briefing room to independent media. Leavitt handled her office with grace and dexterity, no mean feat for someone communicating for President Donald Trump , who talks more than a morning radio disc jockey. Somehow, she was never in front of his messaging, but also never far behind. As a queen of cool, Leavitt could not be flustered. She always had an air of confidence and, dare I say, levity. Even when her occasional jocular barbs were tossed at reporters, they rarely turned into acrimony. SCRAMBLE FOR KAROLINE LEAVITT'S REPLACEMENT ENSUES WITH JUST WEEKS UNTIL TRUMP'S SPOKESPERSON EXITS Beyond serving as a model for future press secretaries, Leavitt\u2019s strongest legacy will be her commitment to opening up the White House media ecosystem to small indie news outlets and even social media influencers . Every press conference opens with a question from the \"new media seat,\" a practice that was much maligned early on by fussy old legacy outlet rep"
-    },
-    {
-     "outlet": "time",
-     "title": "Who Might Replace Karoline Leavitt as Press Secretary?",
-     "url": "https://time.com/article/2026/08/13/karoline-leavitt-press-secretary-replacement-potential-candidates/",
-     "author": "Connor Greene",
-     "kind": "news",
-     "published": "2026-08-13T20:02:58+00:00",
-     "summary": "With White House Press Secretary Karoline Leavitt set to step down from her role at the end of the month, the question of who will replace her is looming over Washington. Leavitt, 28, assumed the Press Secretary role at the beginning of President Donald Trump\u2019s second term last January, becoming the youngest person to ever hold the position. President Donald Trump announced Leavitt\u2019s departure in a post on Truth Social on Wednesday, saying that she would leave her role to focus on her family but that she would remain one of his \u201ctop advisors, and an influential voice within the Republican Party.\u201d Leavitt, who gave birth to her second child in May, thanked Trump in a lengthy post on X, in which she described her decision to focus on her two young children \u201cbittersweet.\u201d \u201cI will always remain a vocal advocate for MAGA and the Republican Party,\u201d Leavitt wrote. Read More: Karoline Leavitt\u2019s Most Memorable Moments as White House Press Secretary The White House has so far offered no further information on who might succeed Leavitt as Press Secretary. It redirected TIME to Leavitt and Trump\u2019s posts when asked about candidates for the position, and has told multiple outlets that no decisio"
-    },
-    {
-     "outlet": "reason",
-     "title": "How Karoline Leavitt Changed the White House Press Room",
-     "url": "https://reason.com/2026/08/13/how-karoline-leavitt-changed-the-white-house-press-room/",
-     "author": "Robby Soave",
-     "kind": "opinion",
-     "published": "2026-08-13T19:18:07+00:00",
-     "summary": "White House press secretary Karoline Leavitt is leaving her post after two years in order to spend more time with her young children. This is not a particularly surprising development: Press secretary appears to be a demanding job in any administration, and presidents are known to go through several of them. Former President Joe Biden had Jen Psaki and then Karine Jean-Pierre during his single term. The job of the press secretary is to communicate the president's talking points while dodging, ducking, dipping, diving, and dodging ( the five D's! ) hostile lines of inquiry from the media. As such, it's a hard role to compliment. Leavitt was certainly an adept interlocutor and didn't seem to get tripped up nearly as frequently as Jean-Pierre, whose level of willful delusion about Biden's cognitive fitness reached staggering proportions. Of course, Leavitt had her less-than-stellar moments, too. She once chewed out The Hill 's Niall Stanage, my occasional Rising co-host, for giving his opinion on the shooting of Ren\u00e9e Good. This was intended as some great triumph over Stanage and the liberal media, and also proof of his bias, but Leavitt had asked him to give his opinion, so what was "
     }
    ]
   },
@@ -2329,9 +2226,261 @@
    ]
   },
   {
+   "id": "4dcce7efd6",
+   "topic": "Politics",
+   "summary": "An Iranian psychologist who publicly urged President Donald Trump to stand by anti-regime protesters has been sentenced to seven months in prison, and his family says authorities tried to force him to record a video insulting Trump and the American people, Fox News Digital reported Saturday. Seyed Ahmad Seyedabdollahi, a 32-year-old psychologist and counselor from Borujen who had been living in Tehran, posted an English-language video on January 4. In it he spoke directly to Trump and urged him to act quickly on his pledge to support Iranian protesters. Young Iranians had trusted his words, he said, and those who helped the Iranian people would be remembered. &#8220;To prove your good intentions to the Iranian people, either do something without saying anything or act very quickly on your words, because many young people trust what you say. And, as you probably know, many things are\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "McConnell \u2018Absolutely Refuses\u2019 to Film Video Amid Growing Mystery",
+   "updated": "2026-08-16T18:57:49+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "McConnell \u2018Absolutely Refuses\u2019 to Film Video Amid Growing Mystery",
+     "url": "https://www.thedailybeast.com/mcconnell-absolutely-refuses-to-film-video-amid-growing-mystery/",
+     "author": "Katie Francis",
+     "kind": "news",
+     "published": "2026-08-16T18:57:49+00:00",
+     "summary": "CBS News Kentucky Gov. Andy Beshear has accused Mitch McConnell of rebuffing all attempts to get in contact with him or film a quick proof-of-life video. Beshear, 48, appeared on Face the Nation Sunday, and was asked whether any of his multiple attempts to get an update on 84-year-old McConnell had garnered a reply. \u201cI have heard absolutely nothing back from Mitch McConnell,\u201d the Democrat told host Ed O\u2019Keefe. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Iranian Prisoner Refuses Regime Order To Film Video Trashing Trump",
+     "url": "https://www.dailywire.com/news/iranian-prisoner-refuses-regime-order-to-film-video-trashing-trump",
+     "author": "Leona Salinas",
+     "kind": "opinion",
+     "published": "2026-08-16T09:07:48+00:00",
+     "summary": "An Iranian psychologist who publicly urged President Donald Trump to stand by anti-regime protesters has been sentenced to seven months in prison, and his family says authorities tried to force him to record a video insulting Trump and the American people, Fox News Digital reported Saturday. Seyed Ahmad Seyedabdollahi, a 32-year-old psychologist and counselor from Borujen who had been living in Tehran, posted an English-language video on January 4. In it he spoke directly to Trump and urged him to act quickly on his pledge to support Iranian protesters. Young Iranians had trusted his words, he said, and those who helped the Iranian people would be remembered. &#8220;To prove your good intentions to the Iranian people, either do something without saying anything or act very quickly on your words, because many young people trust what you say. And, as you probably know, many things are useless to people who are dead. I assure you that the Iranian nation remembers good deeds well, and they will try to repay their friends in the future.&#8221; Ten days later, on January 14, Seyedabdollahi was reportedly arrested at his father\u2019s home in Borujen. Plainclothes agents confiscated phones and"
+    }
+   ]
+  },
+  {
+   "id": "32dbc6f250",
+   "topic": "World",
+   "summary": "President Trump and Arab allies are pushing to advance the American-backed Gaza peace deal on Sunday, even as Israel rejected the plan and carried on with airstrikes in the Palestinian enclave.",
+   "summaryFrom": "nypost",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
+   "updated": "2026-08-16T18:53:08+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Arab allies join Trump in calling for Israel to drop opposition to US-backed Gaza peace plan",
+     "url": "https://nypost.com/2026/08/16/world-news/arab-allies-join-trump-in-calling-for-israel-to-drop-opposition-to-us-backed-gaza-peace-plan/",
+     "author": "Ronny Reyes",
+     "kind": "news",
+     "published": "2026-08-16T18:53:08+00:00",
+     "summary": "President Trump and Arab allies are pushing to advance the American-backed Gaza peace deal on Sunday, even as Israel rejected the plan and carried on with airstrikes in the Palestinian enclave."
+    },
+    {
+     "outlet": "dw",
+     "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
+     "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T17:31:00+00:00",
+     "summary": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators in Egypt."
+    }
+   ]
+  },
+  {
+   "id": "93c8d2e9c5",
+   "topic": "Business & Economy",
+   "summary": "Sony Pictures Spider-Man: Brand New Day has smashed expectations at the box office, soaring past $2 billion in just three weeks. The Sony/ Marvel Cinematic Universe success story is the second-fastest film to make it to the $2 billion mark, behind stablemate Avengers: Endgame , which got there in 11 days. Only seven flicks have crossed the $2 billion threshold. The Russo brothers\u2019 Endgame prequel Avengers: Infinity War ($2.03 billion) gives them two films in the elite club, but James Cameron\u2019s Avatar remains the highest-grossing film of all time at $2.9 billion. His tragic epic Titanic ($2.2 billion) and Avatar sequel, The Way of Water ($2.3 billion) make the director the undisputed king of the club. The only non-Marvel, non-Cameron film to make it? Star Wars: The Force Awakens, with a box office haul of $2.07 billion. Still, there\u2019s plenty of time for Brand New Day to rise higher, with\u2026",
+   "summaryFrom": "dailybeast",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "\u2018Spider-Man: Brand New Day\u2019 Hits Rare Box Office Milestone",
+   "updated": "2026-08-16T18:53:04+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "\u2018Spider-Man: Brand New Day\u2019 Hits Rare Box Office Milestone",
+     "url": "https://www.thedailybeast.com/spider-man-brand-new-day-hits-rare-box-office-milestone/",
+     "author": "Sarah-Jane Collins",
+     "kind": "news",
+     "published": "2026-08-16T18:53:04+00:00",
+     "summary": "Sony Pictures Spider-Man: Brand New Day has smashed expectations at the box office, soaring past $2 billion in just three weeks. The Sony/ Marvel Cinematic Universe success story is the second-fastest film to make it to the $2 billion mark, behind stablemate Avengers: Endgame , which got there in 11 days. Only seven flicks have crossed the $2 billion threshold. The Russo brothers\u2019 Endgame prequel Avengers: Infinity War ($2.03 billion) gives them two films in the elite club, but James Cameron\u2019s Avatar remains the highest-grossing film of all time at $2.9 billion. His tragic epic Titanic ($2.2 billion) and Avatar sequel, The Way of Water ($2.3 billion) make the director the undisputed king of the club. The only non-Marvel, non-Cameron film to make it? Star Wars: The Force Awakens, with a box office haul of $2.07 billion. Still, there\u2019s plenty of time for Brand New Day to rise higher, with some forecasters suggesting the movie might be the first to crack $1 billion domestically, and could even push past $3 billion globally. Read it at Variety Read more at The Daily Beast."
+    },
+    {
+     "outlet": "forbes",
+     "title": "\u2018Spider-Man: Brand New Day\u2019 Tops $2 Billion On Record Third Weekend",
+     "url": "https://www.forbes.com/sites/markhughes/2026/08/16/spider-man-brand-new-day-tops-2-billion-on-record-third-weekend/",
+     "author": "Mark Hughes, Contributor",
+     "kind": "news",
+     "published": "2026-08-16T18:19:03+00:00",
+     "summary": "\"Spider-Man: Brand New Day\" continues to climb box office charts and now seems poised for a top-5 finish on the all-time charts."
+    }
+   ]
+  },
+  {
+   "id": "0649f1074a",
+   "topic": "Other",
+   "summary": "Sen. Bernie Sanders says he can\u2019t be everywhere at once \u2014 even though some of his allies want him to be. Democratic socialist Francesca Hong lost by less than 4,000 votes in Wisconsin\u2019s gubernatorial primary, an outcome several high-profile progressives are blaming on Sanders and other top national progressive leaders for staying out of the race . Some said his endorsement alone could have helped bring in badly needed resources for Hong. Others said the Vermont senator has a responsibility to play widely across the battle map. Sanders, in an interview, touted a series of progressive wins Tuesday night and brushed off the criticism. \u201cMy response is that we have limited resources and capabilities, and there are a lot of really great candidates who have run for office who we have not endorsed,\u201d Sanders told POLITICO on Wednesday. \u201cWe can\u2019t endorse every single candidate,\u201d he added. \u201cSo,\u2026",
+   "summaryFrom": "politico",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Hong\u2019s narrow Wisconsin loss: Letters to the Editor \u2014 Aug. 17, 2026",
+   "updated": "2026-08-16T18:50:42+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Hong\u2019s narrow Wisconsin loss: Letters to the Editor \u2014 Aug. 17, 2026",
+     "url": "https://nypost.com/2026/08/16/opinion/hongs-narrow-wisconsin-loss-letters/",
+     "author": "Post readers",
+     "kind": "opinion",
+     "published": "2026-08-16T18:50:42+00:00",
+     "summary": "NY Post readers discuss the rise of democratic socialists, despite Francesca Hong\u2019s loss in Wisconsin."
+    },
+    {
+     "outlet": "politico",
+     "title": "Bernie Sanders has a response for progressives upset over Hong\u2019s loss in Wisconsin",
+     "url": "https://www.politico.com/news/2026/08/13/bernie-sanders-wisconsin-progressives-hong-01037121",
+     "author": "By Meredith Lee Hill, Lisa Kashinsky, Will Steakin and Andrew Howard",
+     "kind": "news",
+     "published": "2026-08-13T22:00:03+00:00",
+     "summary": "Sen. Bernie Sanders says he can\u2019t be everywhere at once \u2014 even though some of his allies want him to be. Democratic socialist Francesca Hong lost by less than 4,000 votes in Wisconsin\u2019s gubernatorial primary, an outcome several high-profile progressives are blaming on Sanders and other top national progressive leaders for staying out of the race . Some said his endorsement alone could have helped bring in badly needed resources for Hong. Others said the Vermont senator has a responsibility to play widely across the battle map. Sanders, in an interview, touted a series of progressive wins Tuesday night and brushed off the criticism. \u201cMy response is that we have limited resources and capabilities, and there are a lot of really great candidates who have run for office who we have not endorsed,\u201d Sanders told POLITICO on Wednesday. \u201cWe can\u2019t endorse every single candidate,\u201d he added. \u201cSo, you know, we have to pick and choose and I think that Hong ran a very, very great, and very strong, grassroots campaign, got a lot of people involved and I applaud her for that.\u201d Hong ultimately lost to Milwaukee County Executive David Crowley, a major victory for establishment Democrats who worried sh"
+    }
+   ]
+  },
+  {
+   "id": "da8db275da",
+   "topic": "World",
+   "summary": "Jeff Daniels as President Ronald Reagan \u2014Courtesy of Angel Studios The Reykjavik Summit \u2014when U.S. President Ronald Reagan and Soviet Union President Mikhail Gorbachev talked in person in 1986\u2014is not known as an iconic bit of American history. But the face-to-face conversation between the leaders, held over Oct. 11 and 12 in the Icelandic capital, proved to be an important step toward the end of the Cold War . The summit (or meeting, depending on who you ask) came after \u201can unexpected invitation from Gorbachev,\u201d says Pete Souza , the former Presidential photographer for Reagan. At the time the Reagan administration refused to call it a summit. \u201cBefore two leaders like that have a summit meeting, there's lots of prep work that goes into it,\u201d recalls Souza. \u201cBut this was very last minute. The Reagan administration went to great effort leading up to Reykjavik, to not call it a summit.\u2026",
+   "summaryFrom": "time",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "In \u2018The Brink of War,\u2019 a Return to an Era of Razor-Edge Diplomacy",
+   "updated": "2026-08-16T18:47:45+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "In \u2018The Brink of War,\u2019 a Return to an Era of Razor-Edge Diplomacy",
+     "url": "https://www.nytimes.com/2026/08/16/us/politics/brink-of-war-reagan-nuclear-weapons.html",
+     "author": "Peter Baker",
+     "kind": "news",
+     "published": "2026-08-16T18:47:45+00:00",
+     "summary": "A new film depicts the 1986 nuclear arms summit in Reykjavik, Iceland, between Ronald Reagan and Mikhail Gorbachev, which both offered and dashed hopes of a dramatic breakthrough."
+    },
+    {
+     "outlet": "time",
+     "title": "The True Story Behind The Brink of War",
+     "url": "https://time.com/article/2026/08/14/brink-of-war-true-story/",
+     "author": "Barry Levitt",
+     "kind": "news",
+     "published": "2026-08-14T19:03:46+00:00",
+     "summary": "Jeff Daniels as President Ronald Reagan \u2014Courtesy of Angel Studios The Reykjavik Summit \u2014when U.S. President Ronald Reagan and Soviet Union President Mikhail Gorbachev talked in person in 1986\u2014is not known as an iconic bit of American history. But the face-to-face conversation between the leaders, held over Oct. 11 and 12 in the Icelandic capital, proved to be an important step toward the end of the Cold War . The summit (or meeting, depending on who you ask) came after \u201can unexpected invitation from Gorbachev,\u201d says Pete Souza , the former Presidential photographer for Reagan. At the time the Reagan administration refused to call it a summit. \u201cBefore two leaders like that have a summit meeting, there's lots of prep work that goes into it,\u201d recalls Souza. \u201cBut this was very last minute. The Reagan administration went to great effort leading up to Reykjavik, to not call it a summit. They\u2019d say, \u2018It\u2019s just a meeting, and we\u2019re not characterizing it as a summit.\u2019\u201d The summit\u2019s purpose was to discuss the arms controls between the two nations, in hopes of bringing an end to the long-lasting threat of nuclear war hanging over both countries, and the world as a whole. Over 30 hours, Reaga"
+    }
+   ]
+  },
+  {
+   "id": "d06c63d7b8",
+   "topic": "Politics",
+   "summary": "When Trump first unveiled his plans for the new East Wing addition, he said it was needed to host VIP guests. More recently, he is calling it a \u201cdesperately needed National Security structure.\u201d",
+   "summaryFrom": "wapo",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Week in Politics: USS Lincoln; latest primaries and Democrats; White House ballroom",
+   "updated": "2026-08-16T18:46:11+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "wapo",
+     "title": "Trump says White House needs \u2018military complex\u2019 as courts block his ballroom",
+     "url": "https://www.washingtonpost.com/politics/2026/08/16/trump-says-white-house-needs-military-complex-courts-block-his-ballroom/",
+     "author": "Dan Diamond",
+     "kind": "news",
+     "published": "2026-08-16T18:46:11+00:00",
+     "summary": "When Trump first unveiled his plans for the new East Wing addition, he said it was needed to host VIP guests. More recently, he is calling it a \u201cdesperately needed National Security structure.\u201d"
+    },
+    {
+     "outlet": "npr",
+     "title": "Week in Politics: USS Lincoln; latest primaries and Democrats; White House ballroom",
+     "url": "https://www.npr.org/2026/08/15/nx-s1-5929131/week-in-politics-uss-lincoln-latest-primaries-and-democrats-white-house-ballroom",
+     "author": "Eyder Peralta",
+     "kind": "news",
+     "published": "2026-08-15T11:40:15+00:00",
+     "summary": "A shortage of some munitions as well as the problems with the USS Lincoln have the Trump administration on the defensive. Meanwhile, what the latest primaries show about Democratic enthusiasm."
+    }
+   ]
+  },
+  {
    "id": "aa63b27510",
    "topic": "Business & Economy",
-   "summary": "Belgium battling biggest fire in more than a century as flames near German border and 600 people told to evacuate An elderly couple died in fires on the Greek island of Salamis on Sunday and a fire ravaged Belgium\u2019s largest nature reserve, in the latest wave of European wildfires. The couple died outside their home in the Peristeria beach area of Salamis, Greece\u2019s coastguard said. More than 500 people were ordered to evacuate. Continue reading...",
+   "summary": "Couple die in Salamis and Belgium battling its biggest fire in more than a century near German border An elderly couple died in fires on the Greek island of Salamis on Sunday and a fire ravaged Belgium\u2019s largest nature reserve, in the latest wave of European wildfires. The couple died outside their home in the Peristeria beach area of Salamis, Greece\u2019s coastguard said. More than 500 people were ordered to evacuate. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": null,
    "absent": [
@@ -2357,7 +2506,7 @@
      "author": "Angela Giuffrida and agencies",
      "kind": "news",
      "published": "2026-08-16T18:23:26+00:00",
-     "summary": "Belgium battling biggest fire in more than a century as flames near German border and 600 people told to evacuate An elderly couple died in fires on the Greek island of Salamis on Sunday and a fire ravaged Belgium\u2019s largest nature reserve, in the latest wave of European wildfires. The couple died outside their home in the Peristeria beach area of Salamis, Greece\u2019s coastguard said. More than 500 people were ordered to evacuate. Continue reading..."
+     "summary": "Couple die in Salamis and Belgium battling its biggest fire in more than a century near German border An elderly couple died in fires on the Greek island of Salamis on Sunday and a fire ravaged Belgium\u2019s largest nature reserve, in the latest wave of European wildfires. The couple died outside their home in the Peristeria beach area of Salamis, Greece\u2019s coastguard said. More than 500 people were ordered to evacuate. Continue reading..."
     },
     {
      "outlet": "bbc",
@@ -2577,6 +2726,48 @@
      "kind": "news",
      "published": "2026-08-16T12:00:00+00:00",
      "summary": "D uring her January 2025 confirmation hearing to be secretary of homeland security, Kristi Noem was asked how she would strengthen the nation\u2019s cyberdefenses. Noem told senators that she would make the department\u2019s Cybersecurity and Infrastructure Security Agency \u201csmaller\u201d and \u201cmore nimble.\u201d President Trump had created CISA as a stand-alone agency within the Department of Homeland Security during his first term to give cybersecurity more institutional heft, and it had grown quickly with support from lawmakers of both parties. But after CISA declared the 2020 presidential election to be \u201cthe most secure in American history\u201d and the agency\u2019s director, Christopher Krebs, refused to back Trump\u2019s claims that the vote had been stolen, Krebs became a target for the president\u2019s fury and a seething grudge. During the DOGE fever of the first few months of Trump\u2019s return, CISA\u2019s budget was reduced and its staff cut by one-third. The agency hasn\u2019t had a permanent, Senate-confirmed director since Trump retook office. In April, the White House proposed deeper cuts to CISA\u2019s budget, but Republican lawmakers have raised concerns that critical U.S. infrastructure is already too vulnerable. In June,"
+    }
+   ]
+  },
+  {
+   "id": "494ed681f3",
+   "topic": "Other",
+   "summary": "Photo Illustration by Eric Faison/The Daily Beast/Getty The investigation into Nancy Guthrie\u2019s kidnapping may have been hobbled from the start by inexperienced homicide detectives, friction with the FBI, and a decision to give the family control of the crime scene too soon, according to a local law enforcement union leader. Sgt. Aaron Cross, president of the Pima County Deputies Organization, detailed what he believes went wrong in the case in an interview with TMZ Cross\u2019s biggest concern is that local investigators relinquished control of Guthrie\u2019s crime scene to her family too soon. Read more at The Daily Beast.",
+   "summaryFrom": "dailybeast",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Todd Blanche says FBI will continue providing assistance on Nancy Guthrie investigation but doesn\u2019t yet have any updates",
+   "updated": "2026-08-16T16:03:19+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nbcnews",
+     "title": "Todd Blanche says FBI will continue providing assistance on Nancy Guthrie investigation but doesn\u2019t yet have any updates",
+     "url": "https://www.nbcnews.com/news/us-news/todd-blanche-best-course-fbi-takeover-nancy-guthrie-investigation-rcna592784",
+     "author": "Alexandra Marquez",
+     "kind": "news",
+     "published": "2026-08-16T16:03:19+00:00",
+     "summary": "Attorney General Todd Blanche said that he doesn\u2019t believe it would be the best course of action for the FBI to take over the investigation into the disappearance of Nancy Guthrie in Arizona"
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Troubling New Details Revealed in Nancy Guthrie Investigation",
+     "url": "https://www.thedailybeast.com/troubling-new-details-revealed-in-nancy-guthrie-investigation/",
+     "author": "Mary Papenfuss",
+     "kind": "news",
+     "published": "2026-08-16T03:42:16+00:00",
+     "summary": "Photo Illustration by Eric Faison/The Daily Beast/Getty The investigation into Nancy Guthrie\u2019s kidnapping may have been hobbled from the start by inexperienced homicide detectives, friction with the FBI, and a decision to give the family control of the crime scene too soon, according to a local law enforcement union leader. Sgt. Aaron Cross, president of the Pima County Deputies Organization, detailed what he believes went wrong in the case in an interview with TMZ Cross\u2019s biggest concern is that local investigators relinquished control of Guthrie\u2019s crime scene to her family too soon. Read more at The Daily Beast."
     }
    ]
   },
@@ -3132,258 +3323,6 @@
      "kind": "news",
      "published": "2026-08-16T12:18:09+00:00",
      "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools."
-    }
-   ]
-  },
-  {
-   "id": "3551a71ec7",
-   "topic": "Justice & Policing",
-   "summary": "Former Sen. Kyrsten Sinema is continuing to challenge the lawsuit brought by the wife of her former security guard and lover, Matthew Ammel. Sinema has admitted to having an affair with Ammel while she was the Democratic senator from Arizona. Heather Ammel\u2019s lawsuit alleges the tort of alienation of affection, an action many may find outdated in our more open or indulgent culture. I start teaching my torts class this week, and the alienation tort remains a controversy at the intersection of tort and constitutional law. There was a time when most states had morality crimes that punished adultery or homosexuality. They have been largely scrubbed from our books due to constitutional challenges and changing social mores. However, a spouse can still sue civilly over a third party ruining a marriage through adultery. Such \"heart balm\" actions go back to the earliest days of tort liability.\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "JONATHAN TURLEY: Former Sen Kyrsten Sinema fights affair lawsuit invoking centuries-old marriage tort",
-   "updated": "2026-08-16T14:39:24+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "JONATHAN TURLEY: Former Sen Kyrsten Sinema fights affair lawsuit invoking centuries-old marriage tort",
-     "url": "https://www.foxnews.com/opinion/jonathan-turley-former-sen-kyrsten-sinema-fights-affair-lawsuit-invoking-centuries-old-marriage-tort",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-16T14:39:24+00:00",
-     "summary": "Former Sen. Kyrsten Sinema is continuing to challenge the lawsuit brought by the wife of her former security guard and lover, Matthew Ammel. Sinema has admitted to having an affair with Ammel while she was the Democratic senator from Arizona. Heather Ammel\u2019s lawsuit alleges the tort of alienation of affection, an action many may find outdated in our more open or indulgent culture. I start teaching my torts class this week, and the alienation tort remains a controversy at the intersection of tort and constitutional law. There was a time when most states had morality crimes that punished adultery or homosexuality. They have been largely scrubbed from our books due to constitutional challenges and changing social mores. However, a spouse can still sue civilly over a third party ruining a marriage through adultery. Such \"heart balm\" actions go back to the earliest days of tort liability. However, the tort has been abolished in 42 states, leaving Hawaii, North Carolina , Mississippi, New Mexico, South Dakota and Utah as the exceptions. COURT FILINGS REVEAL KYRSTEN SINEMA HAD SEX MULTIPLE TIMES WITH MARRIED BODYGUARD WHILE SERVING AS SENATOR Early tort cases spoke of two violative acts :"
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Kyrsten Sinema Details Affair with Bodyguard in Legal Fight with His Ex-Wife: 'We Went Inside and Had Sex'",
-     "url": "https://www.breitbart.com/politics/2026/08/15/kyrsten-sinema-details-affair-with-bodyguard-in-legal-fight-with-his-ex-wife-we-went-inside-and-had-sex/",
-     "author": "Amy Furr",
-     "kind": "news",
-     "published": "2026-08-15T17:30:05+00:00",
-     "summary": "Former Democrat-turned-Independent Arizona senator Kyrsten Sinema has been open in court about her sexual relationship with a former bodyguard who is now her boyfriend. The post Kyrsten Sinema Details Affair with Bodyguard in Legal Fight with His Ex-Wife: &#8216;We Went Inside and Had Sex&#8217; appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
-   "id": "168b596d14",
-   "topic": "Other",
-   "summary": "One person was killed and four victims were injured in a mass shooting at an outdoor concert in Kentucky on Saturday. The shooting took place in Lexington and was barely a mile away from an event where Kentucky Gov. Andy Beshear was holding a Kentucky Democratic Party dinner. Authorities say two of the victims injured were children ages 14 and 4, while the other two injured were adults. All four were taken to a nearby hospital with non-life-threatening injuries. \"Before I continue, I do need to let y\u2019all know we do have some tough news tonight,\" Beshear said at his event after hearing of the shooting. GUNFIRE ERUPTS NEAR SEATTLE MAYOR\u2019S EVENT AS FAMILIES, CHILDREN GATHER \"About a mile and a half from here, we\u2019ve had a shooting actually since we started this dinner,\" he continued. \"We have five people that I think received injuries and probably have one deceased,\" he added before\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Lexington, Kentucky park shooting kills 1, injures 4 during live band performance",
-   "updated": "2026-08-16T14:31:58+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Lexington, Kentucky park shooting kills 1, injures 4 during live band performance",
-     "url": "https://www.foxnews.com/us/lexington-kentucky-park-shooting-kills-injures-live-band-performance",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T14:31:58+00:00",
-     "summary": "One person was killed and four victims were injured in a mass shooting at an outdoor concert in Kentucky on Saturday. The shooting took place in Lexington and was barely a mile away from an event where Kentucky Gov. Andy Beshear was holding a Kentucky Democratic Party dinner. Authorities say two of the victims injured were children ages 14 and 4, while the other two injured were adults. All four were taken to a nearby hospital with non-life-threatening injuries. \"Before I continue, I do need to let y\u2019all know we do have some tough news tonight,\" Beshear said at his event after hearing of the shooting. GUNFIRE ERUPTS NEAR SEATTLE MAYOR\u2019S EVENT AS FAMILIES, CHILDREN GATHER \"About a mile and a half from here, we\u2019ve had a shooting actually since we started this dinner,\" he continued. \"We have five people that I think received injuries and probably have one deceased,\" he added before assuring diners that the situation had been resolved. \"To stop mass shootings, we have got to elect Democrats that will actually do something about it,\" Beshear said. Authorities say the shooting took place at around 6:45 p.m. in Charles Young Park. They did not offer any details about the victims, the dece"
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Five shot in Lexington, Kentucky, park, leaving one dead",
-     "url": "https://www.nbcnews.com/news/us-news/five-shot-lexington-ky-park-leaving-one-dead-rcna592770",
-     "author": "Shayna Jacobs",
-     "kind": "news",
-     "published": "2026-08-16T14:17:14+00:00",
-     "summary": "Five people were shot, one fatally, during summer festivities at a downtown Lexington, Kentucky, park on Saturday evening, according to police."
-    }
-   ]
-  },
-  {
-   "id": "af486d68fc",
-   "topic": "Tech",
-   "summary": "Amid mounting public backlash, Flock Safety, the largest provider of automatic license plate readers (ALPR) in the United States, released a statement on Thursday touting new policies \"strengthening privacy, accountability, and security.\" But the changes still fail to address the constitutional concerns held by civil liberty and privacy advocates. Over the last few weeks, debate over ALPR systems has reached a new high. Privacy and data security concerns over the mass surveillance technology have prompted an anti-Flock movement, including websites that map more than 130,000 ALPR cameras across the country and a search engine that can find whether a particular license plate number has been looked up in Flock's database. In at least 23 states , activists have resorted to destroying the tech, according to The Guardian . And in July, over 20 local jurisdictions cancelled their contracts\u2026",
-   "summaryFrom": "reason",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Flock Safety's New Privacy Rules Do Little To Ease Concerns Over ALPR Surveillance",
-   "updated": "2026-08-16T14:20:35+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "\u2018Have I Been Flocked?\u2019 Tool Launched as Flock Unveils New Privacy Rules",
-     "url": "https://www.newsweek.com/have-i-been-flocked-tool-launched-as-flock-unveils-new-privacy-rules-12328739",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T14:20:35+00:00",
-     "summary": "&#039;Have I Been Flocked?&#039; lets drivers check license plate searches as Flock introduces new privacy safeguards and oversight rules."
-    },
-    {
-     "outlet": "reason",
-     "title": "Flock Safety's New Privacy Rules Do Little To Ease Concerns Over ALPR Surveillance",
-     "url": "https://reason.com/2026/08/14/flock-safetys-new-privacy-rules-do-little-to-ease-concerns-over-alpr-surveillance/",
-     "author": "Autumn Billings",
-     "kind": "opinion",
-     "published": "2026-08-14T17:01:11+00:00",
-     "summary": "Amid mounting public backlash, Flock Safety, the largest provider of automatic license plate readers (ALPR) in the United States, released a statement on Thursday touting new policies \"strengthening privacy, accountability, and security.\" But the changes still fail to address the constitutional concerns held by civil liberty and privacy advocates. Over the last few weeks, debate over ALPR systems has reached a new high. Privacy and data security concerns over the mass surveillance technology have prompted an anti-Flock movement, including websites that map more than 130,000 ALPR cameras across the country and a search engine that can find whether a particular license plate number has been looked up in Flock's database. In at least 23 states , activists have resorted to destroying the tech, according to The Guardian . And in July, over 20 local jurisdictions cancelled their contracts with Flock Safety entirely. Adding fuel to the anti-Flock fire, reports began streaming in on the growing number of police misusing ALPR data, including conducting wrongful stops at gunpoint and using the data for purposes unrelated to law enforcement, such as stalking romantic interests . The Institute"
-    }
-   ]
-  },
-  {
-   "id": "a006a6971d",
-   "topic": "Politics",
-   "summary": "US Attorney General Todd Blanche defended Jeanine Pirro for dismissing a federal vandalism case in a decision that angered President Donald Trump, saying the top prosecutor in Washington, DC, should be judged fairly.",
-   "summaryFrom": "bloomberg",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Blanche Defends Reflecting Pool Prosecutor Who Angered Trump",
-   "updated": "2026-08-16T14:09:24+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bloomberg",
-     "title": "Blanche Defends Reflecting Pool Prosecutor Who Angered Trump",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-16/blanche-defends-dc-reflecting-pool-prosecutor-who-angered-trump",
-     "author": "Tony Czuczka",
-     "kind": "news",
-     "published": "2026-08-16T14:09:24+00:00",
-     "summary": "US Attorney General Todd Blanche defended Jeanine Pirro for dismissing a federal vandalism case in a decision that angered President Donald Trump, saying the top prosecutor in Washington, DC, should be judged fairly."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Former Olympian's lawyers say Trump pushing 'false version' of Reflecting Pool case",
-     "url": "https://abcnews.com/Politics/former-olympian-david-hearns-lawyers-trump-pushing-false/story?id=135652830",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T23:10:16+00:00",
-     "summary": "Lawyers for former Olympian David Hearn argue Trump is pushing a \"false version\" of events in the Reflecting Pool vandalism case."
-    }
-   ]
-  },
-  {
-   "id": "5f19d1a7a7",
-   "topic": "Other",
-   "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Death toll from Zimbabwe capsized ferry accident rises to 84",
-   "updated": "2026-08-16T14:01:56+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "Death toll from Zimbabwe capsized ferry accident rises to 84",
-     "url": "https://www.france24.com/en/africa/20260816-death-toll-from-zimbabwe-capsized-ferry-accident-rises-to-80",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-16T14:01:56+00:00",
-     "summary": "Rescue workers recovered more bodies on Sunday following a ferry capsizing accident that occured earlier this week on Lake Kariba in Zimbabwe, bringing the death toll to at least 84. The search continues, as authorities fear the number of casualties could rise even further."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
-     "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
-     "author": "Nadeem Badshah",
-     "kind": "news",
-     "published": "2026-08-15T19:39:07+00:00",
-     "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "7c7f05b5f2",
-   "topic": "Other",
-   "summary": "Welcome back to Make It Nice , Defector's best interior design advice column. Today we have fancy track shelving, a moody bedroom makeover, and my favorite: does a non-ugly dog crate exist? Our first \u201cquestion\u201d comes from recent conversations I had with a few friends who had been admiring photos of Vitsoe \u201c606\u201d shelves online. Both of them were ready to give up their Big Shelf dreams because the Vitsoe would cost them thousands of dollars\u2014one friend was obsessing over a setup that would cost $10,000 minimum . Vitsoe has been making the 606 Shelving System for over 60 years and has captured the hearts of design freaks everywhere. The shelves are iconic, modular, and very, very expensive .&#160; I\u2019m maybe going to upset architects and creative directors everywhere, but Vitsoe is just really nice track shelving, and you can get track shelving anywhere. Vitsoe shelves look so good mostly\u2026",
-   "summaryFrom": "defector",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "There Is No Such Thing As \u2018Price Stability,\u2019 Nor Is It Desirable",
-   "updated": "2026-08-16T14:00:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "coop": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "forbes",
-     "title": "There Is No Such Thing As \u2018Price Stability,\u2019 Nor Is It Desirable",
-     "url": "https://www.forbes.com/sites/johntamny/2026/08/16/there-is-no-such-thing-as-price-stability-nor-is-it-desirable/",
-     "author": "John Tamny, Contributor",
-     "kind": "news",
-     "published": "2026-08-16T14:00:00+00:00",
-     "summary": "Market prices are by their very name erratic, and that's to the substantial betterment of the U.S. economy."
-    },
-    {
-     "outlet": "defector",
-     "title": "Make It Nice: Is There Such A Thing As A Good-Looking Dog Crate?",
-     "url": "https://defector.com/make-it-nice-is-there-such-a-thing-as-a-good-looking-dog-crate",
-     "author": "Veronica de Souza",
-     "kind": "news",
-     "published": "2026-08-14T17:11:35+00:00",
-     "summary": "Welcome back to Make It Nice , Defector's best interior design advice column. Today we have fancy track shelving, a moody bedroom makeover, and my favorite: does a non-ugly dog crate exist? Our first \u201cquestion\u201d comes from recent conversations I had with a few friends who had been admiring photos of Vitsoe \u201c606\u201d shelves online. Both of them were ready to give up their Big Shelf dreams because the Vitsoe would cost them thousands of dollars\u2014one friend was obsessing over a setup that would cost $10,000 minimum . Vitsoe has been making the 606 Shelving System for over 60 years and has captured the hearts of design freaks everywhere. The shelves are iconic, modular, and very, very expensive .&#160; I\u2019m maybe going to upset architects and creative directors everywhere, but Vitsoe is just really nice track shelving, and you can get track shelving anywhere. Vitsoe shelves look so good mostly because of how they\u2019re styled . And that\u2019s something you can learn."
     }
    ]
   }
