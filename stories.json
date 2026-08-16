@@ -1,66 +1,212 @@
 {
- "generated": "2026-08-16T13:02:03.134051+00:00",
+ "generated": "2026-08-16T13:46:36.819162+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
   {
-   "id": "25736d721e",
+   "id": "c1899cdbf5",
    "topic": "World",
-   "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its\u2026",
-   "summaryFrom": "axios",
+   "summary": "National Weather Service reports that more than 11in of rain fell over a two-day period in some areas At least five people are dead after devastating floods that swept through Indiana this week, officials said, as storms continued to batter the state on Saturday and first responders used boats to rescue more people from rising waters in neighborhoods along the White River in Indianapolis. The mayor of Indianapolis, Joe Hogsett, and other state officials implored residents in areas at risk of flooding to heed any evacuation warnings at a news conference. Continue reading...",
+   "summaryFrom": "guardian",
    "emphasis": {
-    "bigCount": 10,
-    "indieCount": 6,
+    "bigCount": 5,
+    "indieCount": 8,
     "big": [
-     "centcom",
-     "visits",
-     "released",
-     "dismisses",
-     "diego-based",
-     "lawmakers"
+     "invasion",
+     "appeared",
+     "breitbart",
+     "post"
     ],
     "indie": [
-     "supporting",
-     "jump",
-     "reported",
-     "thousands",
-     "jumping",
-     "faced"
+     "overnight",
+     "authorities",
+     "kyiv",
+     "drone",
+     "capital",
+     "warehouse"
     ]
    },
-   "absent": [],
-   "headline": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
-   "updated": "2026-08-16T12:30:16+00:00",
-   "outletCount": 14,
+   "absent": [
+    "coop"
+   ],
+   "headline": "\u2018Massive\u2019 Ukrainian drone attack on Russia kills at least six, says Moscow",
+   "updated": "2026-08-16T13:35:56+00:00",
+   "outletCount": 11,
    "counts": {
-    "corp": 5,
-    "nonprofit": 3,
-    "family": 5,
-    "pub": 2,
-    "coop": 1
+    "family": 4,
+    "corp": 1,
+    "nonprofit": 4,
+    "pub": 4
    },
-   "newsCount": 16,
+   "newsCount": 13,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "cbsnews",
-     "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
-     "author": null,
+     "outlet": "nypost",
+     "title": "Ukraine kills at least 6 people in Russia after launching one of the largest aerial assaults of war",
+     "url": "https://nypost.com/2026/08/16/world-news/ukraine-kills-at-least-6-people-in-russia-after-launching-one-of-the-largest-aerial-assaults-of-war/",
+     "author": "Anthony Blair",
      "kind": "news",
-     "published": "2026-08-16T12:30:16+00:00",
-     "summary": "Meanwhile, Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children."
+     "published": "2026-08-16T13:35:56+00:00",
+     "summary": "This attack occurred as Ukrainian forces increasingly take the war into the very heart of Russia nearly four and a half years into the full-blown conflict sparked by Moscow's invasion."
     },
     {
-     "outlet": "thehill",
-     "title": "Centcom commander visits USS Abraham Lincoln amid questions about conditions on ship",
-     "url": "https://thehill.com/policy/defense/6031712-adm-cooper-visits-uss-abraham-lincoln/",
-     "author": "Mira Bhakta",
+     "outlet": "cbsnews",
+     "title": "Ukraine launches one of the largest aerial attacks on Russia yet",
+     "url": "https://www.cbsnews.com/news/ukraine-moscow-russia-drone-attack-largest-wildberries/",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-16T01:50:02+00:00",
-     "summary": "U.S. Central Command (Centcom) commander Adm. Brad Cooper visited the USS Abraham Lincoln Saturday after the ship had been docked in the Middle East for over 260 days since November. Centcom released a statement Saturday about the visit, stating Cooper, who oversees the war with Iran, visited the ship as part of a 10-day trip..."
+     "published": "2026-08-16T11:45:40+00:00",
+     "summary": "Footage shows a large column of smoke after Ukraine struck a major logistics hub in the Moscow region."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Ukraine Launches One of Its Largest Aerial Attacks of War, Killing at Least Six in Russia",
+     "url": "https://www.breitbart.com/europe/2026/08/16/ukraine-launches-one-of-its-largest-aerial-attacks-of-war-killing-at-least-six-in-russia/",
+     "author": "Breitbart London",
+     "kind": "news",
+     "published": "2026-08-16T11:05:26+00:00",
+     "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war. The post Ukraine Launches One of Its Largest Aerial Attacks of War, Killing at Least Six in Russia appeared first on Breitbart ."
+    },
+    {
+     "outlet": "guardian",
+     "title": "\u2018Massive\u2019 Ukrainian drone attack on Russia kills at least six, says Moscow",
+     "url": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire",
+     "author": "Dan Sabbagh in Kyiv",
+     "kind": "news",
+     "published": "2026-08-16T11:04:00+00:00",
+     "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capital Ukraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian authorities. Russia\u2019s defence ministry said it had shot down 822 drones, while the mayor of Moscow, Sergei Sobyanin, reported that 600 drones were launched towards the capital\u2019s region, of which 201 were destroyed. Continue reading..."
+    },
+    {
+     "outlet": "dw",
+     "title": "Ukraine launches one of its largest attacks of war",
+     "url": "https://www.dw.com/en/ukraine-launches-one-of-its-largest-attacks-of-war/a-78386779?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T10:59:00+00:00",
+     "summary": "Russia says hundreds of drones targeted Moscow overnight, with six fatalities in the capital and southern Rostov region. Five people were killed in strikes across Ukraine."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T10:52:08+00:00",
+     "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit."
+    },
+    {
+     "outlet": "npr",
+     "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+     "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T10:12:09+00:00",
+     "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war. (Image credit: Francisco Seco)"
+    },
+    {
+     "outlet": "forbes",
+     "title": "Russia\u2019s War Toll Mounts In Ukraine Amid A Possible Mobilization",
+     "url": "https://www.forbes.com/sites/marktemnycky/2026/08/16/russias-war-toll-mounts-in-ukraine-amid-a-possible-mobilization/",
+     "author": "Mark Temnycky, Senior Contributor",
+     "kind": "news",
+     "published": "2026-08-16T10:00:00+00:00",
+     "summary": "Russia faces mounting casualties and economic strain from its full-scale invasion of Ukraine. Despite this, some observers warn of another possible Russian mobilization."
+    },
+    {
+     "outlet": "france24",
+     "title": "\ud83d\udd34 Live: Ukraine launches 600 drones at Russia, one of its largest aerial attacks of the war",
+     "url": "https://www.france24.com/en/europe/20260816-live-moscow-targeted-by-600-drones-overnight-explosions-heard-in-kyiv",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T09:53:40+00:00",
+     "summary": null
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
+     "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T04:54:33+00:00",
+     "summary": "Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region in the escalating conflict."
+    },
+    {
+     "outlet": "guardian",
+     "title": "At least five people dead in Indiana amid worst flooding in over 30 years, officials say",
+     "url": "https://www.theguardian.com/us-news/2026/aug/15/indiana-flooding-deaths",
+     "author": "Uwa Ede-Osifo and agencies",
+     "kind": "news",
+     "published": "2026-08-15T23:56:33+00:00",
+     "summary": "National Weather Service reports that more than 11in of rain fell over a two-day period in some areas At least five people are dead after devastating floods that swept through Indiana this week, officials said, as storms continued to batter the state on Saturday and first responders used boats to rescue more people from rising waters in neighborhoods along the White River in Indianapolis. The mayor of Indianapolis, Joe Hogsett, and other state officials implored residents in areas at risk of flooding to heed any evacuation warnings at a news conference. Continue reading..."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Indiana authorities say at least 5 people have died as severe weather crosses the state",
+     "url": "https://www.pbs.org/newshour/nation/indiana-authorities-say-at-least-5-people-have-died-in-flooding-across-the-state",
+     "author": "Susan Montoya Bryan, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T20:39:01+00:00",
+     "summary": "The state has been hammered over the past week by heavy rains, resulting in rivers reaching record levels and sending residents in search of higher ground."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Five People Dead in String of Shootings in Michigan",
+     "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/five-people-dead-in-string-of-shootings-in-michigan/",
+     "author": "AWR Hawkins",
+     "kind": "news",
+     "published": "2026-08-15T15:20:36+00:00",
+     "summary": "Five people were killed Friday in a string of shootings that took place Friday at two different residences and a wooded area in Missaukee County, Michigan. The post Five People Dead in String of Shootings in Michigan appeared first on Breitbart ."
+    }
+   ]
+  },
+  {
+   "id": "25736d721e",
+   "topic": "Politics",
+   "summary": "An F/A-18F Super Hornet launches from the flight deck of aircraft carrier USS Abraham Lincoln in support of Operation Epic Fury on February 28, 2026 at Sea. Photo by U.S. Navy via Getty Images. Thursday, August 13, 2026 &#8211; &nbsp; Iranian Foreign Minister Abbas Araghchi warns of &#8220;even bigger miscalculation&#8221; on Hormuz after U.S. President Donald Trump claims U.S. has &#8220;total control.&#8221; Washington Post: U.S. intelligence viewed Israeli warning of Iranian plot to kill Trump as &#8220;low confidence.&#8221; Slight bump in Hormuz traffic. Iran reports oil pollution off Qeshm Island, calls for Hormuz environmental fees. Iran kills two accused of intelligence ties to U.S. and Israel. Yemen&#8217;s Saudi-backed government claims success against Ansarallah attack. Saudi tankers reroute around Africa as empty fleet heads toward Gulf. X suspends Ansarallah spokesperson\u2026",
+   "summaryFrom": "dropsite",
+   "emphasis": {
+    "bigCount": 5,
+    "indieCount": 5,
+    "big": [
+     "going",
+     "dismisses",
+     "answers"
+    ],
+    "indie": [
+     "reported",
+     "issues",
+     "thousands",
+     "faced",
+     "broken",
+     "jumping"
+    ]
+   },
+   "absent": [],
+   "headline": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+   "updated": "2026-08-16T13:41:38+00:00",
+   "outletCount": 9,
+   "counts": {
+    "corp": 2,
+    "nonprofit": 2,
+    "family": 3,
+    "pub": 2,
+    "coop": 1
+   },
+   "newsCount": 10,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "abcnews",
+     "title": "Gallego blames Trump administration for Lincoln conditions: 'True lack of leadership'",
+     "url": "https://abcnews.com/Politics/gallego-blames-trump-administration-uss-lincoln-conditions-true/story?id=135685345",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T13:41:38+00:00",
+     "summary": "Adm. Mullen says morale has improved since the crew learned it's going home."
     },
     {
      "outlet": "npr",
@@ -70,15 +216,6 @@
      "kind": "news",
      "published": "2026-08-15T18:21:32+00:00",
      "summary": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful. (Image credit: Julia Demaree Nikhinson)"
-    },
-    {
-     "outlet": "guardian",
-     "title": "US navy veterans and military health experts express concern over USS Abraham Lincoln sailors",
-     "url": "https://www.theguardian.com/us-news/2026/aug/15/uss-abraham-lincoln-sailors-mental-health",
-     "author": "Anna Betts",
-     "kind": "news",
-     "published": "2026-08-15T11:00:55+00:00",
-     "summary": "Prolonged deployment is coupled with reports of water shortages, plumbing issues and attempts to jump overboard Trump downplays concerns about sailors onboard USS Abraham Lincoln US navy veterans and military health experts are expressing concerns about the strain on sailors aboard the USS Abraham Lincoln, which has spent nearly nine months at sea supporting US operations in the Middle East, amid reports of poor living conditions and worsening mental health among its crew. The San Diego-based aircraft carrier left port on 21 November, originally bound for the Pacific, but was redirected to the Middle East as the US-Israel war with Iran began. It has now spent more than 250 consecutive days at sea without a significant port visit, with its deployment repeatedly extended. Continue reading..."
     },
     {
      "outlet": "nyt",
@@ -99,15 +236,6 @@
      "summary": "The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days."
     },
     {
-     "outlet": "nyt",
-     "title": "Navy and USS Lincoln\u2019s Problems Are Tied to Attacks on U.S. Base Early in War",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html",
-     "author": "John Ismay",
-     "kind": "news",
-     "published": "2026-08-14T22:35:07+00:00",
-     "summary": "Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy\u2019s logistics hub after Iran damaged a base in Bahrain."
-    },
-    {
      "outlet": "latimes",
      "title": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' amid outcry from families",
      "url": "https://www.latimes.com/politics/story/2026-08-14/uss-abraham-lincoln-deployment-conditions-families-trump-hegseth",
@@ -115,33 +243,6 @@
      "kind": "news",
      "published": "2026-08-14T21:13:51+00:00",
      "summary": "Lawmakers are pressing for answers amid reports that sailors aboard the San Diego-based carrier have endured food shortages, plumbing failures and severe fatigue."
-    },
-    {
-     "outlet": "slate",
-     "title": "Trump on Long-Suffering Sailors: \u201cNot Nearly Long Enough\u201d",
-     "url": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html?via=rss",
-     "author": "Ian Prasad Philbrick",
-     "kind": "news",
-     "published": "2026-08-14T21:09:49+00:00",
-     "summary": "Sailors are suffering. Trump and his team are denying it."
-    },
-    {
-     "outlet": "axios",
-     "title": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
-     "url": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
-     "author": "Donica Phifer",
-     "kind": "news",
-     "published": "2026-08-14T20:19:31+00:00",
-     "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle East deployment. While taking questions from the press Friday, a reporter mentioned families were worried, to which Trump replied \"no they're not.\" Zoom out: The Navy Times , The Military Times, and Stars and Stripes were among the first to report on conditions aboard the carrier. The ship hasn't m"
-    },
-    {
-     "outlet": "time",
-     "title": "What to Know About the Growing Concerns Over Conditions on the Long-Deployed USS Abraham Lincoln",
-     "url": "https://time.com/article/2026/08/14/uss-abraham-lincoln-conditions-trump-iran-war/",
-     "author": "Connor Greene",
-     "kind": "news",
-     "published": "2026-08-14T20:14:50+00:00",
-     "summary": "In this U.S. Navy released handout, An F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 14, makes an arrested landing on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72) in support of Operation Epic Fury, on February 28, 2026. \u2014U.S. Navy/Getty Images The USS Abraham Lincoln has been at sea in the Middle East for months, and with no clear end in sight for the war in Iran , concerns for those aboard the aircraft carrier\u2014and for the vessel itself\u2014have mounted amid a series of troubling reports. Another aircraft carrier, the USS George Washington, had begun making its way towards the Middle East as of Thursday to replace the Lincoln, multiple news outlets reported. President Donald Trump appeared to confirm the reported ship swap on Friday, saying that the Lincoln \"is moving right now, or very shortly and is being replaced with another very similar ship.\u201d The Washington\u2019s deployment comes as reports have emerged in recent months recounting worsening living conditions, mental health concerns, and supply shortages on board the Lincoln. Trump seemed to deny the reports on the state of the Lincoln and its crew on Friday, responding \u201cNo, they\u2019re n"
     },
     {
      "outlet": "wapo",
@@ -191,266 +292,113 @@
    ]
   },
   {
-   "id": "1ad32f471c",
+   "id": "fe62922edd",
    "topic": "World",
-   "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
-   "updated": "2026-08-16T12:22:49+00:00",
-   "outletCount": 6,
-   "counts": {
-    "family": 1,
-    "pub": 5,
-    "nonprofit": 2
-   },
-   "newsCount": 8,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "bloomberg",
-     "title": "Israel Strikes Lebanon as End of US-Iran Ceasefire Looms",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-16/israel-strikes-lebanon-as-end-of-us-iran-ceasefire-looms",
-     "author": "Arsalan Shahla, Alisa Odenheimer and Sara Gharaibeh",
-     "kind": "news",
-     "published": "2026-08-16T12:22:49+00:00",
-     "summary": "Lebanon saw its deadliest day of fighting in months as Iran and the US appeared to be at a standstill in negotiations ahead of the Monday expiration of their ceasefire agreement."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
-     "url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T10:59:10+00:00",
-     "summary": "At least 11 people killed in one day of Israeli attacks despite truce extension brokered by US in June."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Israel strikes south Lebanon again as families flee north",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T04:43:21+00:00",
-     "summary": "Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-     "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T20:21:14+00:00",
-     "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Israeli airstrikes on southern Lebanon kill 11 people in another test to truce",
-     "url": "https://www.pbs.org/newshour/world/israeli-airstrikes-on-southern-lebanon-kill-11-people-health-ministry-says",
-     "author": "Bassem Mroue, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T15:47:14+00:00",
-     "summary": "Israel and the Lebanese government announced a \"framework agreement\" on June 26, laying out a plan for Israeli forces to withdraw from southern Lebanon in exchange for the disarmament of the Iran-backed Hezbollah militant group."
-    },
-    {
-     "outlet": "dw",
-     "title": "Lebanon says 11 killed in Israeli airstrikes",
-     "url": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T15:35:00+00:00",
-     "summary": "Lebanon's prime minister denounced the attacks on villages in southern Lebanon for targeting civilians in their homes. Israel said it was firing on Hezbollah infrastructure."
-    },
-    {
-     "outlet": "bbc",
-     "title": "South Korea proposes talks to officially end war with North",
-     "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T14:40:15+00:00",
-     "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
-     "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
-     "author": "William Christou",
-     "kind": "news",
-     "published": "2026-08-15T13:55:28+00:00",
-     "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "766f173698",
-   "topic": "Justice & Policing",
-   "summary": "Virginia police arrested a 19-year-old suspect in connection with a mass shooting at Virginia State University on Saturday. Authorities named Camron Harris of Henrico, Virginia , noting that he is not a student at the university. The Saturday shooting left five people wounded, one of whom was in critical condition. Police have not identified any of the victims, but said only one of them is a university student. There was an hours-long manhunt following the shooting, and police say they ultimately found Harris hiding in a closet inside one of the campus dorm buildings. POLICE ANNOUNCE ARREST AFTER 5 WOUNDED IN VIRGINIA STATE UNIVERSITY SHOOTING: REPORT Police obtained felony warrants for four counts of malicious wounding and four counts of use of a firearm in the commission of a felony. Harris is being held without bail at Chesterfield County Jail, according to authorities. They say he\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Multiple suspects at large after five shot at Virginia State University, police say",
-   "updated": "2026-08-16T11:58:38+00:00",
-   "outletCount": 6,
-   "counts": {
-    "family": 3,
-    "corp": 2,
-    "pub": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Virginia State University shooting suspect found hiding in dorm closet arrested",
-     "url": "https://www.foxnews.com/us/virginia-state-university-shooting-suspect-found-hiding-dorm-closet-arrested",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T11:58:38+00:00",
-     "summary": "Virginia police arrested a 19-year-old suspect in connection with a mass shooting at Virginia State University on Saturday. Authorities named Camron Harris of Henrico, Virginia , noting that he is not a student at the university. The Saturday shooting left five people wounded, one of whom was in critical condition. Police have not identified any of the victims, but said only one of them is a university student. There was an hours-long manhunt following the shooting, and police say they ultimately found Harris hiding in a closet inside one of the campus dorm buildings. POLICE ANNOUNCE ARREST AFTER 5 WOUNDED IN VIRGINIA STATE UNIVERSITY SHOOTING: REPORT Police obtained felony warrants for four counts of malicious wounding and four counts of use of a firearm in the commission of a felony. Harris is being held without bail at Chesterfield County Jail, according to authorities. They say he may face more charges. The shooting itself took place early Saturday morning, while Harris was arrested hours later. MANHUNT UNDERWAY AFTER COLLEGE STUDENT FATALLY SHOT CHASING ROBBERS WHO ALLEGEDLY STOLE HIS PHONE \"Officers responded to the 3300 block of Boisseau Street at approximately 1:28 a.m. and"
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Camron Harris Identified as Virginia State Shooting Suspect",
-     "url": "https://www.newsweek.com/who-is-camron-harris-virginia-state-shooting-suspect-identified-12328485",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T07:41:28+00:00",
-     "summary": "A 19-year-old was arrested in connection to the shooting that left five people wounded. He is not a student at VSU."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "5 people injured in shooting at Virginia State University, 1 suspect arrested",
-     "url": "https://www.cbsnews.com/news/shooting-virginia-state-university/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T01:41:45+00:00",
-     "summary": "Five people were injured in the shooting involving multiple suspects. One person is currently listed in critical condition, the university said."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Multiple suspects at large after five shot at Virginia State University, police say",
-     "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T19:34:22+00:00",
-     "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Numerous People Injured After Multiple Shooters Open Fire at Virginia State University",
-     "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/numerous-people-injured-after-multiple-shooters-open-fire-virginia-state-university/",
-     "author": "AWR Hawkins",
-     "kind": "news",
-     "published": "2026-08-15T15:39:06+00:00",
-     "summary": "Five people were wounded after multiple shooters opened fire on the Virginia State University (VSU) campus Saturday around 1:30 a.m. The post Numerous People Injured After Multiple Shooters Open Fire at Virginia State University appeared first on Breitbart ."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Multiple People Shot At Virginia State University",
-     "url": "https://www.dailywire.com/news/multiple-people-shot-at-virginia-state-university",
-     "author": "Zach Jewell",
-     "kind": "opinion",
-     "published": "2026-08-15T07:47:18+00:00",
-     "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant law enforcement presence remains on campus as the investigation into this morning&#8217;s shooting continues.&#8221; It appears that no suspects have been taken into custody as of time of publication, and the university urged anyone with information on the shooting to contact law enforcement. pic.twi"
-    }
-   ]
-  },
-  {
-   "id": "913fb93ef8",
-   "topic": "World",
-   "summary": "Russia says hundreds of drones targeted Moscow overnight, with six fatalities in the capital and southern Rostov region. Five people were killed in strikes across Ukraine.",
-   "summaryFrom": "dw",
+   "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its\u2026",
+   "summaryFrom": "axios",
    "emphasis": {
-    "bigCount": 2,
-    "indieCount": 4,
-    "big": [],
+    "bigCount": 6,
+    "indieCount": 2,
+    "big": [
+     "visits",
+     "centcom",
+     "released",
+     "iran",
+     "aircraft",
+     "carrier"
+    ],
     "indie": [
-     "drones",
-     "across",
-     "killed",
-     "people",
-     "hundreds",
-     "five"
+     "aboard",
+     "deployment"
     ]
    },
    "absent": [
-    "coop"
+    "coop",
+    "pub"
    ],
-   "headline": "Ukraine launches one of its largest attacks of war",
-   "updated": "2026-08-16T11:45:40+00:00",
-   "outletCount": 6,
+   "headline": "US navy veterans and military health experts express concern over USS Abraham Lincoln sailors",
+   "updated": "2026-08-16T13:43:13+00:00",
+   "outletCount": 8,
    "counts": {
-    "corp": 1,
-    "pub": 3,
-    "nonprofit": 1,
-    "family": 1
+    "corp": 4,
+    "nonprofit": 2,
+    "family": 2
    },
-   "newsCount": 6,
+   "newsCount": 8,
    "opinionCount": 0,
-   "underreported": true,
+   "underreported": false,
    "articles": [
     {
      "outlet": "cbsnews",
-     "title": "Ukraine launches one of the largest aerial attacks on Russia yet",
-     "url": "https://www.cbsnews.com/news/ukraine-moscow-russia-drone-attack-largest-wildberries/",
+     "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T11:45:40+00:00",
-     "summary": "Footage shows a large column of smoke after Ukraine struck a major logistics hub in the Moscow region."
+     "published": "2026-08-16T13:43:13+00:00",
+     "summary": "Meanwhile, Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children."
     },
     {
-     "outlet": "dw",
-     "title": "Ukraine launches one of its largest attacks of war",
-     "url": "https://www.dw.com/en/ukraine-launches-one-of-its-largest-attacks-of-war/a-78386779?maca=en-rss-en-all-1573-rdf",
-     "author": null,
+     "outlet": "thehill",
+     "title": "Centcom commander visits USS Abraham Lincoln amid questions about conditions on ship",
+     "url": "https://thehill.com/policy/defense/6031712-adm-cooper-visits-uss-abraham-lincoln/",
+     "author": "Mira Bhakta",
      "kind": "news",
-     "published": "2026-08-16T10:59:00+00:00",
-     "summary": "Russia says hundreds of drones targeted Moscow overnight, with six fatalities in the capital and southern Rostov region. Five people were killed in strikes across Ukraine."
+     "published": "2026-08-16T01:50:02+00:00",
+     "summary": "U.S. Central Command (Centcom) commander Adm. Brad Cooper visited the USS Abraham Lincoln Saturday after the ship had been docked in the Middle East for over 260 days since November. Centcom released a statement Saturday about the visit, stating Cooper, who oversees the war with Iran, visited the ship as part of a 10-day trip..."
     },
     {
-     "outlet": "bbc",
-     "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-     "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-     "author": null,
+     "outlet": "guardian",
+     "title": "US navy veterans and military health experts express concern over USS Abraham Lincoln sailors",
+     "url": "https://www.theguardian.com/us-news/2026/aug/15/uss-abraham-lincoln-sailors-mental-health",
+     "author": "Anna Betts",
      "kind": "news",
-     "published": "2026-08-16T10:52:08+00:00",
-     "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit."
+     "published": "2026-08-15T11:00:55+00:00",
+     "summary": "Prolonged deployment is coupled with reports of water shortages, plumbing issues and attempts to jump overboard Trump downplays concerns about sailors onboard USS Abraham Lincoln US navy veterans and military health experts are expressing concerns about the strain on sailors aboard the USS Abraham Lincoln, which has spent nearly nine months at sea supporting US operations in the Middle East, amid reports of poor living conditions and worsening mental health among its crew. The San Diego-based aircraft carrier left port on 21 November, originally bound for the Pacific, but was redirected to the Middle East as the US-Israel war with Iran began. It has now spent more than 250 consecutive days at sea without a significant port visit, with its deployment repeatedly extended. Continue reading..."
     },
     {
-     "outlet": "npr",
-     "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-     "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
-     "author": "The Associated Press",
+     "outlet": "pbsnewshour",
+     "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
+     "url": "https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln",
+     "author": "Veronica Vela",
      "kind": "news",
-     "published": "2026-08-16T10:12:09+00:00",
-     "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war. (Image credit: Francisco Seco)"
+     "published": "2026-08-14T22:55:06+00:00",
+     "summary": "Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports."
     },
     {
-     "outlet": "forbes",
-     "title": "Russia\u2019s War Toll Mounts In Ukraine Amid A Possible Mobilization",
-     "url": "https://www.forbes.com/sites/marktemnycky/2026/08/16/russias-war-toll-mounts-in-ukraine-amid-a-possible-mobilization/",
-     "author": "Mark Temnycky, Senior Contributor",
+     "outlet": "nyt",
+     "title": "Navy and USS Lincoln\u2019s Problems Are Tied to Attacks on U.S. Base Early in War",
+     "url": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html",
+     "author": "John Ismay",
      "kind": "news",
-     "published": "2026-08-16T10:00:00+00:00",
-     "summary": "Russia faces mounting casualties and economic strain from its full-scale invasion of Ukraine. Despite this, some observers warn of another possible Russian mobilization."
+     "published": "2026-08-14T22:35:07+00:00",
+     "summary": "Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy\u2019s logistics hub after Iran damaged a base in Bahrain."
     },
     {
-     "outlet": "france24",
-     "title": "\ud83d\udd34 Live: Ukraine launches 600 drones at Russia, one of its largest aerial attacks of the war",
-     "url": "https://www.france24.com/en/europe/20260816-live-moscow-targeted-by-600-drones-overnight-explosions-heard-in-kyiv",
-     "author": "FRANCE24",
+     "outlet": "slate",
+     "title": "Trump on Long-Suffering Sailors: \u201cNot Nearly Long Enough\u201d",
+     "url": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html?via=rss",
+     "author": "Ian Prasad Philbrick",
      "kind": "news",
-     "published": "2026-08-16T09:53:40+00:00",
-     "summary": null
+     "published": "2026-08-14T21:09:49+00:00",
+     "summary": "Sailors are suffering. Trump and his team are denying it."
+    },
+    {
+     "outlet": "axios",
+     "title": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
+     "url": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
+     "author": "Donica Phifer",
+     "kind": "news",
+     "published": "2026-08-14T20:19:31+00:00",
+     "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle East deployment. While taking questions from the press Friday, a reporter mentioned families were worried, to which Trump replied \"no they're not.\" Zoom out: The Navy Times , The Military Times, and Stars and Stripes were among the first to report on conditions aboard the carrier. The ship hasn't m"
+    },
+    {
+     "outlet": "time",
+     "title": "What to Know About the Growing Concerns Over Conditions on the Long-Deployed USS Abraham Lincoln",
+     "url": "https://time.com/article/2026/08/14/uss-abraham-lincoln-conditions-trump-iran-war/",
+     "author": "Connor Greene",
+     "kind": "news",
+     "published": "2026-08-14T20:14:50+00:00",
+     "summary": "In this U.S. Navy released handout, An F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 14, makes an arrested landing on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72) in support of Operation Epic Fury, on February 28, 2026. \u2014U.S. Navy/Getty Images The USS Abraham Lincoln has been at sea in the Middle East for months, and with no clear end in sight for the war in Iran , concerns for those aboard the aircraft carrier\u2014and for the vessel itself\u2014have mounted amid a series of troubling reports. Another aircraft carrier, the USS George Washington, had begun making its way towards the Middle East as of Thursday to replace the Lincoln, multiple news outlets reported. President Donald Trump appeared to confirm the reported ship swap on Friday, saying that the Lincoln \"is moving right now, or very shortly and is being replaced with another very similar ship.\u201d The Washington\u2019s deployment comes as reports have emerged in recent months recounting worsening living conditions, mental health concerns, and supply shortages on board the Lincoln. Trump seemed to deny the reports on the state of the Lincoln and its crew on Friday, responding \u201cNo, they\u2019re n"
     }
    ]
   },
@@ -464,9 +412,9 @@
     "indieCount": 2,
     "big": [
      "trump",
+     "testing",
      "facade",
-     "judge's",
-     "testing"
+     "judge's"
     ],
     "indie": []
    },
@@ -555,12 +503,12 @@
      "along"
     ],
     "indie": [
-     "crossing",
-     "mass",
      "media",
      "social",
-     "enter",
-     "attempted"
+     "mass",
+     "crossing",
+     "attempted",
+     "enter"
     ]
    },
    "absent": [
@@ -649,9 +597,9 @@
      "plea"
     ],
     "indie": [
+     "year-old",
      "death",
-     "pleading",
-     "year-old"
+     "pleading"
     ]
    },
    "absent": [
@@ -727,79 +675,221 @@
    ]
   },
   {
-   "id": "e4e85911fd",
-   "topic": "Climate & Energy",
-   "summary": "Hawaii has narrowly avoided a historic direct hit from Hurricane Lala, but torrential rain and hurricane-force winds are still causing widespread flooding, mudslides and power outages across the islands. Authorities are urging residents to shelter in place as the storm moves west and dangerous conditions persist.",
-   "summaryFrom": "france24",
+   "id": "aee836d795",
+   "topic": "Other",
+   "summary": "Four works were taken during public holiday, the day after Italian police recovered paintings by C\u00e9zanne, Renoir and Matisse Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina. Thieves gained access to the regional museum of Messina , or MuMe, on Saturday evening, possibly capitalising on attention being focused on La Vara, a huge religious festival that takes place in the city on 15 August, when Italy marks the ferragosto national holiday. Continue reading...",
+   "summaryFrom": "guardian",
    "emphasis": {
     "bigCount": 2,
     "indieCount": 3,
     "big": [],
     "indie": [
-     "strong",
-     "persist"
+     "italian",
+     "taken",
+     "zanne",
+     "police",
+     "matisse",
+     "recovered"
     ]
    },
    "absent": [
-    "family",
-    "coop",
-    "nonprofit"
+    "coop"
    ],
-   "headline": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
-   "updated": "2026-08-16T13:00:24+00:00",
+   "headline": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+   "updated": "2026-08-16T13:34:38+00:00",
    "outletCount": 5,
    "counts": {
-    "corp": 2,
-    "pub": 3
+    "pub": 2,
+    "corp": 1,
+    "nonprofit": 1,
+    "family": 1
    },
    "newsCount": 5,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "newsweek",
-     "title": "Hurricane Lala Tracker as Storm Sparks Power Outage in Hawaii",
-     "url": "https://www.newsweek.com/hurricane-lala-tracker-as-storm-sparks-power-outage-in-hawaii-12328659",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T13:00:24+00:00",
-     "summary": "Hurricane Lala leaves 88,000+ without power in Hawaii as flooding, damaging winds and outages disrupt islands."
-    },
-    {
      "outlet": "bbc",
-     "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
-     "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+     "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+     "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T12:53:43+00:00",
-     "summary": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas."
+     "published": "2026-08-16T13:34:38+00:00",
+     "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
     },
     {
-     "outlet": "abcnews",
-     "title": "Lala weakens to tropical storm, brings heavy rain, wind, flooding to Hawaii",
-     "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
+     "outlet": "cbsnews",
+     "title": "4 Renaissance paintings stolen from museum in Italy",
+     "url": "https://www.cbsnews.com/news/renaissance-paintings-stolen-museum-italy/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T12:41:49+00:00",
-     "summary": "Lala has weakened to a tropical storm as it tracks through the central Pacific Ocean, approaching the Big Island of Hawaii on Sunday."
+     "published": "2026-08-16T12:06:28+00:00",
+     "summary": "Local officials have expressed their dismay and sadness at the theft which occurred during celebrations of the Virgin Mary."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Rare Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
+     "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
+     "author": "Lorenzo Tondo in Palermo",
+     "kind": "news",
+     "published": "2026-08-16T11:42:52+00:00",
+     "summary": "Four works were taken during public holiday, the day after Italian police recovered paintings by C\u00e9zanne, Renoir and Matisse Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina. Thieves gained access to the regional museum of Messina , or MuMe, on Saturday evening, possibly capitalising on attention being focused on La Vara, a huge religious festival that takes place in the city on 15 August, when Italy marks the ferragosto national holiday. Continue reading..."
+    },
+    {
+     "outlet": "nypost",
+     "title": "Four Antonello da Messina works stolen in Renaissance painter\u2019s hometown",
+     "url": "https://nypost.com/2026/08/16/world-news/antonello-da-messina-paintings-stolen-from-italian-city-museo-regionale-di-messina/",
+     "author": "Reuters",
+     "kind": "news",
+     "published": "2026-08-16T10:51:59+00:00",
+     "summary": "The thieves entered the museum on the night of August 15, a national holiday in Italy and the peak of the summer season, media said."
     },
     {
      "outlet": "france24",
-     "title": "US : Hawaii narrowly avoids direct hit as Hurricane Lala brings strong weather",
-     "url": "https://www.france24.com/en/us-hawaii-narrowly-avoids-direct-hit-as-hurricane-lala-brings-severe-weather",
+     "title": "Italy recovers millions of euros worth of stolen Renoir, C\u00e9zanne and Matisse paintings",
+     "url": "https://www.france24.com/en/video/20260816-italy-recovers-millions-of-euros-worth-of-stolen-renoir-c%C3%A9zanne-and-matisse-paintings",
      "author": "FRANCE24",
      "kind": "news",
-     "published": "2026-08-16T08:53:56+00:00",
-     "summary": "Hawaii has narrowly avoided a historic direct hit from Hurricane Lala, but torrential rain and hurricane-force winds are still causing widespread flooding, mudslides and power outages across the islands. Authorities are urging residents to shelter in place as the storm moves west and dangerous conditions persist."
+     "published": "2026-08-16T08:56:50+00:00",
+     "summary": "Italian authorities have recovered three paintings by Renoir, C\u00e9zanne and Matisse, worth more than \u20ac9 million, months after they were stolen from a private museum near Parma. Five Moldovan suspects have been detained, with police saying the gang had carefully planned the heist and was equipped to disable the museum's security systems."
+    }
+   ]
+  },
+  {
+   "id": "e3ca7d9791",
+   "topic": "World",
+   "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "South Lebanon: How will Israeli strikes affect negotiations?",
+   "updated": "2026-08-16T13:00:14+00:00",
+   "outletCount": 5,
+   "counts": {
+    "pub": 3,
+    "nonprofit": 2
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "South Lebanon: How will Israeli strikes affect negotiations?",
+     "url": "https://www.france24.com/en/south-lebanon-how-will-israeli-strikes-affect-negotiations",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T13:00:14+00:00",
+     "summary": "Israel killed 11 people in strikes on southern Lebanon on Saturday, in what has been described as the biggest threat to the peace talks since the June agreement. Ziad Majed, Professor of Middle East Studies at the American University of Paris, spoke to FRANCE 24 about the potential impact of the strikes on the negotiations underway in Rome, the role of the United States, and Israel's policy towards Lebanon and especially Hezbollah."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+     "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T20:21:14+00:00",
+     "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Israeli airstrikes on southern Lebanon kill 11 people in another test to truce",
+     "url": "https://www.pbs.org/newshour/world/israeli-airstrikes-on-southern-lebanon-kill-11-people-health-ministry-says",
+     "author": "Bassem Mroue, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T15:47:14+00:00",
+     "summary": "Israel and the Lebanese government announced a \"framework agreement\" on June 26, laying out a plan for Israeli forces to withdraw from southern Lebanon in exchange for the disarmament of the Iran-backed Hezbollah militant group."
     },
     {
      "outlet": "dw",
-     "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
-     "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-rdf",
+     "title": "Lebanon says 11 killed in Israeli airstrikes",
+     "url": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-all-1573-rdf",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T05:57:00+00:00",
-     "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is expected to weaken gradually. However, the hurricane caused roads to flood and turned rivers into raging torrents."
+     "published": "2026-08-15T15:35:00+00:00",
+     "summary": "Lebanon's prime minister denounced the attacks on villages in southern Lebanon for targeting civilians in their homes. Israel said it was firing on Hezbollah infrastructure."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
+     "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
+     "author": "William Christou",
+     "kind": "news",
+     "published": "2026-08-15T13:55:28+00:00",
+     "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "766f173698",
+   "topic": "Justice & Policing",
+   "summary": "Virginia police arrested a 19-year-old suspect in connection with a mass shooting at Virginia State University on Saturday. Authorities named Camron Harris of Henrico, Virginia , noting that he is not a student at the university. The Saturday shooting left five people wounded, one of whom was in critical condition. Police have not identified any of the victims, but said only one of them is a university student. There was an hours-long manhunt following the shooting, and police say they ultimately found Harris hiding in a closet inside one of the campus dorm buildings. POLICE ANNOUNCE ARREST AFTER 5 WOUNDED IN VIRGINIA STATE UNIVERSITY SHOOTING: REPORT Police obtained felony warrants for four counts of malicious wounding and four counts of use of a firearm in the commission of a felony. Harris is being held without bail at Chesterfield County Jail, according to authorities. They say he\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Multiple suspects at large after five shot at Virginia State University, police say",
+   "updated": "2026-08-16T11:58:38+00:00",
+   "outletCount": 5,
+   "counts": {
+    "family": 3,
+    "corp": 1,
+    "pub": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "Virginia State University shooting suspect found hiding in dorm closet arrested",
+     "url": "https://www.foxnews.com/us/virginia-state-university-shooting-suspect-found-hiding-dorm-closet-arrested",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T11:58:38+00:00",
+     "summary": "Virginia police arrested a 19-year-old suspect in connection with a mass shooting at Virginia State University on Saturday. Authorities named Camron Harris of Henrico, Virginia , noting that he is not a student at the university. The Saturday shooting left five people wounded, one of whom was in critical condition. Police have not identified any of the victims, but said only one of them is a university student. There was an hours-long manhunt following the shooting, and police say they ultimately found Harris hiding in a closet inside one of the campus dorm buildings. POLICE ANNOUNCE ARREST AFTER 5 WOUNDED IN VIRGINIA STATE UNIVERSITY SHOOTING: REPORT Police obtained felony warrants for four counts of malicious wounding and four counts of use of a firearm in the commission of a felony. Harris is being held without bail at Chesterfield County Jail, according to authorities. They say he may face more charges. The shooting itself took place early Saturday morning, while Harris was arrested hours later. MANHUNT UNDERWAY AFTER COLLEGE STUDENT FATALLY SHOT CHASING ROBBERS WHO ALLEGEDLY STOLE HIS PHONE \"Officers responded to the 3300 block of Boisseau Street at approximately 1:28 a.m. and"
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Camron Harris Identified as Virginia State Shooting Suspect",
+     "url": "https://www.newsweek.com/who-is-camron-harris-virginia-state-shooting-suspect-identified-12328485",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T07:41:28+00:00",
+     "summary": "A 19-year-old was arrested in connection to the shooting that left five people wounded. He is not a student at VSU."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+     "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T19:34:22+00:00",
+     "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Numerous People Injured After Multiple Shooters Open Fire at Virginia State University",
+     "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/numerous-people-injured-after-multiple-shooters-open-fire-virginia-state-university/",
+     "author": "AWR Hawkins",
+     "kind": "news",
+     "published": "2026-08-15T15:39:06+00:00",
+     "summary": "Five people were wounded after multiple shooters opened fire on the Virginia State University (VSU) campus Saturday around 1:30 a.m. The post Numerous People Injured After Multiple Shooters Open Fire at Virginia State University appeared first on Breitbart ."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Multiple People Shot At Virginia State University",
+     "url": "https://www.dailywire.com/news/multiple-people-shot-at-virginia-state-university",
+     "author": "Zach Jewell",
+     "kind": "opinion",
+     "published": "2026-08-15T07:47:18+00:00",
+     "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant law enforcement presence remains on campus as the investigation into this morning&#8217;s shooting continues.&#8221; It appears that no suspects have been taken into custody as of time of publication, and the university urged anyone with information on the shooting to contact law enforcement. pic.twi"
     }
    ]
   },
@@ -873,74 +963,62 @@
    ]
   },
   {
-   "id": "17791ac8bd",
-   "topic": "Other",
-   "summary": "Four works were taken during public holiday, the day after Italian police recovered paintings by C\u00e9zanne, Renoir and Matisse Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina. Thieves gained access to the regional museum of Messina , or MuMe, on Saturday evening, possibly capitalising on attention being focused on La Vara, a huge religious festival that takes place in the city on 15 August, when Italy marks the ferragosto national holiday. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [],
-    "indie": [
-     "renoir",
-     "zanne",
-     "police",
-     "matisse",
-     "italian",
-     "recovered"
-    ]
-   },
+   "id": "e4e85911fd",
+   "topic": "Climate & Energy",
+   "summary": "Hawaii has narrowly avoided a historic direct hit from Hurricane Lala, but torrential rain and hurricane-force winds are still causing widespread flooding, mudslides and power outages across the islands. Authorities are urging residents to shelter in place as the storm moves west and dangerous conditions persist.",
+   "summaryFrom": "france24",
+   "emphasis": null,
    "absent": [
-    "coop"
+    "family",
+    "coop",
+    "nonprofit"
    ],
-   "headline": "Rare Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
-   "updated": "2026-08-16T12:06:28+00:00",
+   "headline": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+   "updated": "2026-08-16T13:00:24+00:00",
    "outletCount": 4,
    "counts": {
     "corp": 1,
-    "nonprofit": 1,
-    "family": 1,
-    "pub": 1
+    "pub": 3
    },
    "newsCount": 4,
    "opinionCount": 0,
-   "underreported": false,
+   "underreported": true,
    "articles": [
     {
-     "outlet": "cbsnews",
-     "title": "4 Renaissance paintings stolen from museum in Italy",
-     "url": "https://www.cbsnews.com/news/renaissance-paintings-stolen-museum-italy/",
+     "outlet": "newsweek",
+     "title": "Hurricane Lala Tracker as Storm Sparks Power Outage in Hawaii",
+     "url": "https://www.newsweek.com/hurricane-lala-tracker-as-storm-sparks-power-outage-in-hawaii-12328659",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T12:06:28+00:00",
-     "summary": "Local officials have expressed their dismay and sadness at the theft which occurred during celebrations of the Virgin Mary."
+     "published": "2026-08-16T13:00:24+00:00",
+     "summary": "Hurricane Lala leaves 88,000+ without power in Hawaii as flooding, damaging winds and outages disrupt islands."
     },
     {
-     "outlet": "guardian",
-     "title": "Rare Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
-     "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
-     "author": "Lorenzo Tondo in Palermo",
+     "outlet": "bbc",
+     "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+     "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-16T11:42:52+00:00",
-     "summary": "Four works were taken during public holiday, the day after Italian police recovered paintings by C\u00e9zanne, Renoir and Matisse Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina. Thieves gained access to the regional museum of Messina , or MuMe, on Saturday evening, possibly capitalising on attention being focused on La Vara, a huge religious festival that takes place in the city on 15 August, when Italy marks the ferragosto national holiday. Continue reading..."
-    },
-    {
-     "outlet": "nypost",
-     "title": "Four Antonello da Messina works stolen in Renaissance painter\u2019s hometown",
-     "url": "https://nypost.com/2026/08/16/world-news/antonello-da-messina-paintings-stolen-from-italian-city-museo-regionale-di-messina/",
-     "author": "Reuters",
-     "kind": "news",
-     "published": "2026-08-16T10:51:59+00:00",
-     "summary": "The thieves entered the museum on the night of August 15, a national holiday in Italy and the peak of the summer season, media said."
+     "published": "2026-08-16T12:53:43+00:00",
+     "summary": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas."
     },
     {
      "outlet": "france24",
-     "title": "Italy recovers millions of euros worth of stolen Renoir, C\u00e9zanne and Matisse paintings",
-     "url": "https://www.france24.com/en/video/20260816-italy-recovers-millions-of-euros-worth-of-stolen-renoir-c%C3%A9zanne-and-matisse-paintings",
+     "title": "US : Hawaii narrowly avoids direct hit as Hurricane Lala brings strong weather",
+     "url": "https://www.france24.com/en/us-hawaii-narrowly-avoids-direct-hit-as-hurricane-lala-brings-severe-weather",
      "author": "FRANCE24",
      "kind": "news",
-     "published": "2026-08-16T08:56:50+00:00",
-     "summary": "Italian authorities have recovered three paintings by Renoir, C\u00e9zanne and Matisse, worth more than \u20ac9 million, months after they were stolen from a private museum near Parma. Five Moldovan suspects have been detained, with police saying the gang had carefully planned the heist and was equipped to disable the museum's security systems."
+     "published": "2026-08-16T08:53:56+00:00",
+     "summary": "Hawaii has narrowly avoided a historic direct hit from Hurricane Lala, but torrential rain and hurricane-force winds are still causing widespread flooding, mudslides and power outages across the islands. Authorities are urging residents to shelter in place as the storm moves west and dangerous conditions persist."
+    },
+    {
+     "outlet": "dw",
+     "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
+     "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T05:57:00+00:00",
+     "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is gradually weakening. However, the hurricane caused roads to flood and turned rivers into raging torrents."
     }
    ]
   },
@@ -1005,129 +1083,62 @@
    ]
   },
   {
-   "id": "6b9bc31e3b",
-   "topic": "Politics",
-   "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy \u200bposition, not clear Donald Trump has threatened to declare the strait of Hormuz as \u201ca territory of the United States\u201d as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would \u201cpretty soon\u201d designate the waterway \u2013 a crucial chokepoint for global trade, through which about a fifth of the world\u2019s seaborne oil supplies typically pass \u2013 a US territory. Continue reading...",
-   "summaryFrom": "guardian",
+   "id": "c26019a127",
+   "topic": "Justice & Policing",
+   "summary": "CBS News chief correspondent Matt Gutman is facing sexual harassment allegations in a lawsuit filed by a former ABC News colleague, who claims he made inappropriate sexual remarks on two assignments during his time at that network. Former ABC News field producer Samira Said named Gutman, ABC News and parent company The Walt Disney Co. as defendants in the suit filed Friday in Los Angeles Superior Court. Said, who worked in ABC&#8217;s Los Angeles bureau from May 2021 until March 2025, alleges discrimination, hostile work environment harassment, retaliation, failure to accommodate her medical conditions and wrongful termination. Said alleges she was &#8220;placed on a male-only team including on-air correspondent Matt Gutman&#8221; and two other male crew members. &#8220;While the team waited in a public queue during the assignment, Gutman initiated a discussion rating a female\u2026",
+   "summaryFrom": "dailywire",
    "emphasis": null,
    "absent": [
-    "family",
-    "coop"
-   ],
-   "headline": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
-   "updated": "2026-08-16T11:14:23+00:00",
-   "outletCount": 4,
-   "counts": {
-    "pub": 2,
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
-     "url": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T11:14:23+00:00",
-     "summary": "US president has yet another outlandish threat for Iran, with no end to war in sight."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Iran calls Trump's plan to turn Strait of Hormuz into U.S. territory \"delusions\"",
-     "url": "https://www.cbsnews.com/video/iran-calls-trumps-plan-to-turn-strait-of-hormuz-into-us-territory-delusions/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T00:26:00+00:00",
-     "summary": "The Iranian regime has reponded to President Trump's claim that he'll turn the Strait of Hormuz into a U.S. territory once the war is won. Aaron Navarro has the story."
-    },
-    {
-     "outlet": "dw",
-     "title": "Donald Trump to declare Hormuz US territory 'soon'",
-     "url": "https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T22:14:00+00:00",
-     "summary": "Donald Trump said the strait would become part of the US after Iran is defeated. He also told Americans to accept higher gas prices, which have soared since Iran closed Hormuz in response to US and Israeli attacks."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump threatens to declare strait of Hormuz \u2018territory of the United States\u2019",
-     "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
-     "author": "Maya Yang",
-     "kind": "news",
-     "published": "2026-08-14T21:38:17+00:00",
-     "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy \u200bposition, not clear Donald Trump has threatened to declare the strait of Hormuz as \u201ca territory of the United States\u201d as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would \u201cpretty soon\u201d designate the waterway \u2013 a crucial chokepoint for global trade, through which about a fifth of the world\u2019s seaborne oil supplies typically pass \u2013 a US territory. Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "a085ed5c4d",
-   "topic": "Climate & Energy",
-   "summary": "National Weather Service reports that more than 11in of rain fell over a two-day period in some areas At least five people are dead after devastating floods that swept through Indiana this week, officials said, as storms continued to batter the state on Saturday and first responders used boats to rescue more people from rising waters in neighborhoods along the White River in Indianapolis. The mayor of Indianapolis, Joe Hogsett, and other state officials implored residents in areas at risk of flooding to heed any evacuation warnings at a news conference. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [],
-    "indie": [
-     "weather"
-    ]
-   },
-   "absent": [
-    "corp",
     "coop",
+    "nonprofit",
     "pub"
    ],
-   "headline": "At least five people dead in Indiana amid worst flooding in over 30 years, officials say",
-   "updated": "2026-08-16T07:44:46+00:00",
+   "headline": "CBS Chief Correspondent Matt Gutman Accused of Harassment in ABC Producer Suit",
+   "updated": "2026-08-15T23:26:41+00:00",
    "outletCount": 4,
    "counts": {
-    "family": 2,
-    "nonprofit": 2
+    "family": 3,
+    "corp": 1
    },
-   "newsCount": 4,
-   "opinionCount": 0,
+   "newsCount": 3,
+   "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "nypost",
-     "title": "At least 5 people in Indiana have died as severe storms, flooding cross state",
-     "url": "https://nypost.com/2026/08/16/us-news/indiana-authorities-say-at-least-5-people-have-died-as-severe-weather-crosses-the-state/",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T07:44:46+00:00",
-     "summary": "The state has been hammered over the past week by heavy rains, resulting in rivers reaching record levels."
-    },
-    {
-     "outlet": "guardian",
-     "title": "At least five people dead in Indiana amid worst flooding in over 30 years, officials say",
-     "url": "https://www.theguardian.com/us-news/2026/aug/15/indiana-flooding-deaths",
-     "author": "Uwa Ede-Osifo and agencies",
-     "kind": "news",
-     "published": "2026-08-15T23:56:33+00:00",
-     "summary": "National Weather Service reports that more than 11in of rain fell over a two-day period in some areas At least five people are dead after devastating floods that swept through Indiana this week, officials said, as storms continued to batter the state on Saturday and first responders used boats to rescue more people from rising waters in neighborhoods along the White River in Indianapolis. The mayor of Indianapolis, Joe Hogsett, and other state officials implored residents in areas at risk of flooding to heed any evacuation warnings at a news conference. Continue reading..."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Indiana authorities say at least 5 people have died as severe weather crosses the state",
-     "url": "https://www.pbs.org/newshour/nation/indiana-authorities-say-at-least-5-people-have-died-in-flooding-across-the-state",
-     "author": "Susan Montoya Bryan, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T20:39:01+00:00",
-     "summary": "The state has been hammered over the past week by heavy rains, resulting in rivers reaching record levels and sending residents in search of higher ground."
-    },
-    {
      "outlet": "breitbart",
-     "title": "Five People Dead in String of Shootings in Michigan",
-     "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/five-people-dead-in-string-of-shootings-in-michigan/",
-     "author": "AWR Hawkins",
+     "title": "CBS Chief Correspondent Matt Gutman Accused of Harassment in ABC Producer Suit",
+     "url": "https://www.breitbart.com/the-media/2026/08/15/cbs-matt-gutman-accused-sexualized-remarks-abc-producer-lawsuit/",
+     "author": "Mariane Angela",
      "kind": "news",
-     "published": "2026-08-15T15:20:36+00:00",
-     "summary": "Five people were killed Friday in a string of shootings that took place Friday at two different residences and a wooded area in Missaukee County, Michigan. The post Five People Dead in String of Shootings in Michigan appeared first on Breitbart ."
+     "published": "2026-08-15T23:26:41+00:00",
+     "summary": "Former ABC News field producer Samira Said accused CBS News chief correspondent Matt Gutman of making sexualized remarks toward her while the two worked together at ABC, according to a wrongful-termination lawsuit filed Friday in Los Angeles. The post CBS Chief Correspondent Matt Gutman Accused of Harassment in ABC Producer Suit appeared first on Breitbart ."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "CBS News Star Accused of Harassment in Bombshell Lawsuit",
+     "url": "https://www.thedailybeast.com/cbs-news-star-matt-gutman-accused-of-sexual-harassment-in-bombshell-lawsuit/",
+     "author": "Wiktoria Gucia",
+     "kind": "news",
+     "published": "2026-08-15T15:25:28+00:00",
+     "summary": "Adela Loconte / Variety via Getty Images A chief correspondent at CBS News has been accused of making sexual comments on the job. Matt Gutman, who joined the network in January as the first on-air hire by the MAGA-curious CBS News boss Bari Weiss, is being sued by a former ABC News field producer, Samira Said, with whom he worked at the network. Said named Gutman, 48, in a wrongful termination lawsuit filed in Los Angeles and alleged that he created a hostile work environment by making inappropriate sexual remarks to her. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "CBS News Star Matt Gutman Accused Of Sexual Harassment In New Lawsuit",
+     "url": "https://www.dailywire.com/news/cbs-news-star-matt-gutman-accused-of-sexual-harassment-in-new-lawsuit",
+     "author": "Catherine Maxwell",
+     "kind": "opinion",
+     "published": "2026-08-15T13:19:09+00:00",
+     "summary": "CBS News chief correspondent Matt Gutman is facing sexual harassment allegations in a lawsuit filed by a former ABC News colleague, who claims he made inappropriate sexual remarks on two assignments during his time at that network. Former ABC News field producer Samira Said named Gutman, ABC News and parent company The Walt Disney Co. as defendants in the suit filed Friday in Los Angeles Superior Court. Said, who worked in ABC&#8217;s Los Angeles bureau from May 2021 until March 2025, alleges discrimination, hostile work environment harassment, retaliation, failure to accommodate her medical conditions and wrongful termination. Said alleges she was &#8220;placed on a male-only team including on-air correspondent Matt Gutman&#8221; and two other male crew members. &#8220;While the team waited in a public queue during the assignment, Gutman initiated a discussion rating a female correspondent&#8217;s appearance and reducing her professional standing to a numerical score based on her physical attributes,&#8221; the complaint states. The other crew members allegedly joined in and tried to draw Said into the conversation; she declined and said the discussion was inappropriate, according"
+    },
+    {
+     "outlet": "latimes",
+     "title": "CBS News correspondent Matt Gutman accused of harassment in wrongful termination suit against ABC",
+     "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-14/cbs-news-matt-gutman-accused-sexual-harassment-lawsuit",
+     "author": "Stephen Battaglio",
+     "kind": "news",
+     "published": "2026-08-14T22:10:53+00:00",
+     "summary": "Gutman was included in a former ABC News producer's wrongful termination suit filed Friday in Los Angeles."
     }
    ]
   },
@@ -1267,12 +1278,12 @@
     "bigCount": 3,
     "indieCount": 3,
     "big": [
-     "worth",
-     "foot-washing",
-     "international",
-     "stations",
      "airport",
-     "fort"
+     "stations",
+     "international",
+     "foot-washing",
+     "worth",
+     "scrapped"
     ],
     "indie": [
      "order"
@@ -1487,10 +1498,10 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "police",
      "called",
      "pronounced",
-     "statement"
+     "statement",
+     "police"
     ],
     "indie": []
    },
@@ -1551,7 +1562,7 @@
   {
    "id": "fd481c993c",
    "topic": "Climate & Energy",
-   "summary": "Hurricane Lala slammed Hawaii's Big Island, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides.",
+   "summary": "As a hurricane, Lala skirted past Hawaii's Big Island, where it brought heavy rain and the possibility of life-threatening flooding and mudslides.",
    "summaryFrom": "cbsnews",
    "emphasis": null,
    "absent": [
@@ -1559,7 +1570,7 @@
     "pub"
    ],
    "headline": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
-   "updated": "2026-08-16T12:13:52+00:00",
+   "updated": "2026-08-16T13:28:10+00:00",
    "outletCount": 3,
    "counts": {
     "corp": 1,
@@ -1572,12 +1583,12 @@
    "articles": [
     {
      "outlet": "cbsnews",
-     "title": "1 dead as Hurricane Lala avoids landfall on Hawaii's Big Island",
+     "title": "Lala is a tropical storm again after lashing past Hawaii's Big Island",
      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T12:13:52+00:00",
-     "summary": "Hurricane Lala slammed Hawaii's Big Island, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides."
+     "published": "2026-08-16T13:28:10+00:00",
+     "summary": "As a hurricane, Lala skirted past Hawaii's Big Island, where it brought heavy rain and the possibility of life-threatening flooding and mudslides."
     },
     {
      "outlet": "latimes",
@@ -1596,6 +1607,57 @@
      "kind": "news",
      "published": "2026-08-15T15:17:14+00:00",
      "summary": "The National Hurricane Center said Lala's maximum sustained winds increased to 75 mph, making it a Category 1 hurricane."
+    }
+   ]
+  },
+  {
+   "id": "60c3529254",
+   "topic": "World",
+   "summary": "Belgium is battling what has been described as the country's largest wildfire in modern history, forcing hundreds of villagers to evacuate near the German border. Firefighters, EU reinforcements and local farmers are working to contain the blaze as shifting winds and extreme heat complicate efforts.",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Belgium\u2019s largest wildfire on record spreads towards German border",
+   "updated": "2026-08-16T12:35:31+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 3
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Belgium\u2019s largest wildfire on record spreads towards German border",
+     "url": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T12:35:31+00:00",
+     "summary": "Largest recorded wildfire in Belgium forces 600 residents to evacuate as blaze spreads towards German border towns."
+    },
+    {
+     "outlet": "dw",
+     "title": "Hundreds flee as Belgium battles wildfire at German border",
+     "url": "https://www.dw.com/en/hundreds-flee-as-belgium-battles-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T11:05:00+00:00",
+     "summary": "A rapidly spreading wildfire has scorched about 2,700 hectares in the High Fens nature reserve near Belgium's border with Germany. The German town of Monschau has also warned residents of possible evacuation orders."
+    },
+    {
+     "outlet": "france24",
+     "title": "Belgium battles its largest wildfire in modern history",
+     "url": "https://www.france24.com/en/belgium-battles-its-largest-wildfire-in-modern-history",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T08:51:58+00:00",
+     "summary": "Belgium is battling what has been described as the country's largest wildfire in modern history, forcing hundreds of villagers to evacuate near the German border. Firefighters, EU reinforcements and local farmers are working to contain the blaze as shifting winds and extreme heat complicate efforts."
     }
    ]
   },
@@ -1702,6 +1764,57 @@
    ]
   },
   {
+   "id": "6b9bc31e3b",
+   "topic": "Politics",
+   "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy \u200bposition, not clear Donald Trump has threatened to declare the strait of Hormuz as \u201ca territory of the United States\u201d as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would \u201cpretty soon\u201d designate the waterway \u2013 a crucial chokepoint for global trade, through which about a fifth of the world\u2019s seaborne oil supplies typically pass \u2013 a US territory. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
+   "updated": "2026-08-16T11:14:23+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
+     "url": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T11:14:23+00:00",
+     "summary": "US president has yet another outlandish threat for Iran, with no end to war in sight."
+    },
+    {
+     "outlet": "dw",
+     "title": "Donald Trump to declare Hormuz US territory 'soon'",
+     "url": "https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T22:14:00+00:00",
+     "summary": "Donald Trump said the strait would become part of the US after Iran is defeated. He also told Americans to accept higher gas prices, which have soared since Iran closed Hormuz in response to US and Israeli attacks."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump threatens to declare strait of Hormuz \u2018territory of the United States\u2019",
+     "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
+     "author": "Maya Yang",
+     "kind": "news",
+     "published": "2026-08-14T21:38:17+00:00",
+     "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy \u200bposition, not clear Donald Trump has threatened to declare the strait of Hormuz as \u201ca territory of the United States\u201d as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would \u201cpretty soon\u201d designate the waterway \u2013 a crucial chokepoint for global trade, through which about a fifth of the world\u2019s seaborne oil supplies typically pass \u2013 a US territory. Continue reading..."
+    }
+   ]
+  },
+  {
    "id": "adeb646bf4",
    "topic": "World",
    "summary": "A Spanish fighter jet on Sunday shot down a drone that breached Romania's airspace near the border with Ukraine and Moldova, Romania's defence ministry said, in the latest incident to highlight the challenges facing NATO states bordering Ukraine.",
@@ -1804,57 +1917,6 @@
    ]
   },
   {
-   "id": "1c94345e95",
-   "topic": "Other",
-   "summary": "Police say they have arrested the driver of a bus that crashed in Hungary, killing at least 12 people. The bus was carrying Polish pilgrims, media report.",
-   "summaryFrom": "dw",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Bus crash in Hungary kills at least 12",
-   "updated": "2026-08-16T09:47:00+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Bus crash in Hungary kills at least 12",
-     "url": "https://www.dw.com/en/bus-crash-in-hungary-kills-at-least-12/a-78387230?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T09:47:00+00:00",
-     "summary": "Police say they have arrested the driver of a bus that crashed in Hungary, killing at least 12 people. The bus was carrying Polish pilgrims, media report."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "At least 12 people killed in Hungary bus crash",
-     "url": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T08:50:30+00:00",
-     "summary": "Bus carrying Polish tourists overturns, killing 12 people and injuring 10 others on the M3 motorway near Mezokeresztes."
-    },
-    {
-     "outlet": "nypost",
-     "title": "12 killed and at least 10 injured in Polish bus crash in Hungary",
-     "url": "https://nypost.com/2026/08/16/world-news/polish-bus-crash-leaves-12-dead-at-least-10-injured-in-hungary/",
-     "author": "Reuters",
-     "kind": "news",
-     "published": "2026-08-16T07:39:18+00:00",
-     "summary": "The bus ran into a ditch and tipped over early on Sunday \u200bnear the town of Mezokeresztes in eastern Hungary, police said."
-    }
-   ]
-  },
-  {
    "id": "4e7c8d1bfe",
    "topic": "Culture & Sport",
    "summary": "(L-R): Ewan McGregor as Greg and Anne Hathaway as Denise in The End of Oak Street \u2014Warner Bros. Pictures It's been 33 years since the enduring cinematic masterpiece that is Jurassic Park first hit theaters in June 1993. Since that fateful summer, Steven Spielberg's sci-fi survival thriller has reigned supreme as the undisputed king of dinosaur films. Now, The End of Oak Street is proving a dino blockbuster that serves up prehistoric horror with a side of genuine pathos is still a worthy endeavor. Based on Michael Crichton's 1990 novel, Jurassic Park not only delivered some of the most memorable creature-feature scares in movie history, it was also a sharp cautionary tale about scientific hubris and the illusion of man's control over nature that was anchored by stellar performances from its core cast. But over the course of numerous sequels and reboots, the franchise largely shifted away\u2026",
@@ -1902,57 +1964,6 @@
      "kind": "opinion",
      "published": "2026-08-14T14:32:25+00:00",
      "summary": "There's something primordially satisfying about watching a big-screen dinosaur get the what-for from the business end of a just-loaded shotgun. The recent run of Jurassic Park movies sometimes seems to have lost this primal pleasure, replacing it with ho-hum computer-generated spectacle and cheap nostalgic callbacks to the franchise's better days. They've forgotten that the franchise was founded on a combination of awe and white-knuckle terror\u2014the raw and relatable fear of a giant, toothy monster that stalks the earth with a sort of evolutionary arrogance that comes from a couple million years atop the food chain. Newsflash: Humans rule the planet now. It's fun to watch these ancient planetary powerhouses get taken down a peg. Sic semper Tyrannosaurus. The End of Oak Street remembers what the Jurassic Park franchise has largely forgotten. It leans into the animal terror of encountering a dinosaur on the streets of an ordinary suburb. Set in the early 1980s, the movie lifts brashly from early Steven Spielberg, especially E.T. , depicting a seemingly ordinary family with its own ordinary troubles who find themselves in a sort of dinosaur-ridden episode of The Twilight Zone. The End o"
-    }
-   ]
-  },
-  {
-   "id": "ec15dca7d6",
-   "topic": "Justice & Policing",
-   "summary": "CBS News chief correspondent Matt Gutman is facing sexual harassment allegations in a lawsuit filed by a former ABC News colleague, who claims he made inappropriate sexual remarks on two assignments during his time at that network. Former ABC News field producer Samira Said named Gutman, ABC News and parent company The Walt Disney Co. as defendants in the suit filed Friday in Los Angeles Superior Court. Said, who worked in ABC&#8217;s Los Angeles bureau from May 2021 until March 2025, alleges discrimination, hostile work environment harassment, retaliation, failure to accommodate her medical conditions and wrongful termination. Said alleges she was &#8220;placed on a male-only team including on-air correspondent Matt Gutman&#8221; and two other male crew members. &#8220;While the team waited in a public queue during the assignment, Gutman initiated a discussion rating a female\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "8/15: CBS Weekend News",
-   "updated": "2026-08-15T22:30:00+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 2,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "8/15: CBS Weekend News",
-     "url": "https://www.cbsnews.com/video/081526-cbs-weekend-news/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T22:30:00+00:00",
-     "summary": "Hurricane Lala stalks Hawaii; Indiana requests aid as Midwest floods worsen."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "CBS News Star Accused of Harassment in Bombshell Lawsuit",
-     "url": "https://www.thedailybeast.com/cbs-news-star-matt-gutman-accused-of-sexual-harassment-in-bombshell-lawsuit/",
-     "author": "Wiktoria Gucia",
-     "kind": "news",
-     "published": "2026-08-15T15:25:28+00:00",
-     "summary": "Adela Loconte / Variety via Getty Images A chief correspondent at CBS News has been accused of making sexual comments on the job. Matt Gutman, who joined the network in January as the first on-air hire by the MAGA-curious CBS News boss Bari Weiss, is being sued by a former ABC News field producer, Samira Said, with whom he worked at the network. Said named Gutman, 48, in a wrongful termination lawsuit filed in Los Angeles and alleged that he created a hostile work environment by making inappropriate sexual remarks to her. Read more at The Daily Beast."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "CBS News Star Matt Gutman Accused Of Sexual Harassment In New Lawsuit",
-     "url": "https://www.dailywire.com/news/cbs-news-star-matt-gutman-accused-of-sexual-harassment-in-new-lawsuit",
-     "author": "Catherine Maxwell",
-     "kind": "opinion",
-     "published": "2026-08-15T13:19:09+00:00",
-     "summary": "CBS News chief correspondent Matt Gutman is facing sexual harassment allegations in a lawsuit filed by a former ABC News colleague, who claims he made inappropriate sexual remarks on two assignments during his time at that network. Former ABC News field producer Samira Said named Gutman, ABC News and parent company The Walt Disney Co. as defendants in the suit filed Friday in Los Angeles Superior Court. Said, who worked in ABC&#8217;s Los Angeles bureau from May 2021 until March 2025, alleges discrimination, hostile work environment harassment, retaliation, failure to accommodate her medical conditions and wrongful termination. Said alleges she was &#8220;placed on a male-only team including on-air correspondent Matt Gutman&#8221; and two other male crew members. &#8220;While the team waited in a public queue during the assignment, Gutman initiated a discussion rating a female correspondent&#8217;s appearance and reducing her professional standing to a numerical score based on her physical attributes,&#8221; the complaint states. The other crew members allegedly joined in and tried to draw Said into the conversation; she declined and said the discussion was inappropriate, according"
     }
    ]
   },
@@ -2263,6 +2274,174 @@
    ]
   },
   {
+   "id": "c3edff4bf5",
+   "topic": "Politics",
+   "summary": "D uring her January 2025 confirmation hearing to be secretary of homeland security, Kristi Noem was asked how she would strengthen the nation\u2019s cyberdefenses. Noem told senators that she would make the department\u2019s Cybersecurity and Infrastructure Security Agency \u201csmaller\u201d and \u201cmore nimble.\u201d President Trump had created CISA as a stand-alone agency within the Department of Homeland Security during his first term to give cybersecurity more institutional heft, and it had grown quickly with support from lawmakers of both parties. But after CISA declared the 2020 presidential election to be \u201cthe most secure in American history\u201d and the agency\u2019s director, Christopher Krebs, refused to back Trump\u2019s claims that the vote had been stolen, Krebs became a target for the president\u2019s fury and a seething grudge.. During the DOGE fever of the first few months of Trump\u2019s return, CISA\u2019s budget was\u2026",
+   "summaryFrom": "theatlantic",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Rahm Emanuel on Trump, the left, and what's right for America",
+   "updated": "2026-08-16T13:38:33+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Rahm Emanuel on Trump, the left, and what's right for America",
+     "url": "https://www.cbsnews.com/news/rahm-emanuel-on-trump-the-left-and-whats-right-for-america/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T13:38:33+00:00",
+     "summary": "As a Democratic Congressman, Chicago mayor, ambassador, and chief of staff in the Obama White House, Rahm Emanuel has been a key and combative moderate; he says his fight, now and in the future, is bigger than him and his party."
+    },
+    {
+     "outlet": "theatlantic",
+     "title": "How Trump Left America Vulnerable to Cyberattacks",
+     "url": "https://www.theatlantic.com/national-security/2026/08/trump-iran-elections-cyberattacks/688297/?utm_source=feed",
+     "author": "Yvonne Wingett Sanchez",
+     "kind": "news",
+     "published": "2026-08-16T12:00:00+00:00",
+     "summary": "D uring her January 2025 confirmation hearing to be secretary of homeland security, Kristi Noem was asked how she would strengthen the nation\u2019s cyberdefenses. Noem told senators that she would make the department\u2019s Cybersecurity and Infrastructure Security Agency \u201csmaller\u201d and \u201cmore nimble.\u201d President Trump had created CISA as a stand-alone agency within the Department of Homeland Security during his first term to give cybersecurity more institutional heft, and it had grown quickly with support from lawmakers of both parties. But after CISA declared the 2020 presidential election to be \u201cthe most secure in American history\u201d and the agency\u2019s director, Christopher Krebs, refused to back Trump\u2019s claims that the vote had been stolen, Krebs became a target for the president\u2019s fury and a seething grudge.. During the DOGE fever of the first few months of Trump\u2019s return, CISA\u2019s budget was reduced and its staff cut by one-third. The agency hasn\u2019t had a permanent, Senate-confirmed director since Trump retook office. In April, the White House proposed deeper cuts to CISA\u2019s budget, but Republican lawmakers have raised concerns that critical U.S. infrastructure is already too vulnerable. In June"
+    }
+   ]
+  },
+  {
+   "id": "8ba52ec1dc",
+   "topic": "Business & Economy",
+   "summary": "When Mark Walter purchased the majority ownership of the Lakers last year, expectations for the franchise\u2019s short- and long-term future soared. After being primarily owned by the Buss family \u2013 first Dr. Jerry Buss and then his children, led by Jeanie Buss \u2013 for 46 years, which was the longest majority ownership tenure in the...",
+   "summaryFrom": "nypost",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Mark Walter\u2019s Lakers sale memorialized by mass layoffs, price hikes, losing LeBron",
+   "updated": "2026-08-16T13:30:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Mark Walter\u2019s Lakers sale memorialized by mass layoffs, price hikes, losing LeBron",
+     "url": "https://nypost.com/2026/08/16/sports/lakers-sale-end-disappointing-mark-walter-era/",
+     "author": "Khobi Price",
+     "kind": "news",
+     "published": "2026-08-16T13:30:00+00:00",
+     "summary": "When Mark Walter purchased the majority ownership of the Lakers last year, expectations for the franchise\u2019s short- and long-term future soared. After being primarily owned by the Buss family \u2013 first Dr. Jerry Buss and then his children, led by Jeanie Buss \u2013 for 46 years, which was the longest majority ownership tenure in the..."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Inside Lakers mega-deal: Mark Walter made a shocking decision. Bob Iger, Joshua Kushner jumped at the chance",
+     "url": "https://www.latimes.com/sports/story/2026-08-14/inside-lakers-mega-deal-walters-shocking-decision-becomes-iger-kushners-chance",
+     "author": "Steve Henson",
+     "kind": "news",
+     "published": "2026-08-15T00:12:30+00:00",
+     "summary": "The lightning-quick sale of the Lakers to Bob Iger and Joshua Kushner comes as Mark Walter faces federal probes into allegedly conflicted insurance loans."
+    }
+   ]
+  },
+  {
+   "id": "8c91f091b7",
+   "topic": "Health",
+   "summary": "Yesterday in London, Jason Arday, the controversy-plagued British academic and author, was found dead. Made famous as the youngest Black professor in Cambridge\u2019s more than 800-year history, Arday had been dogged by weeks of scrutiny amid accusations of plagiarism, fake qualifications, and a fabricated backstory filled with hard-to-believe details. He claimed to have been mute until age 11 and illiterate until 18, disadvantages that did not deter him from getting a Ph.D., which he earned by age 30. He claimed, too, that he had suffered from various medical conditions throughout his life, including autism, epilepsy, locked-in syndrome, testicular cancer, and a brain tumor. He was, by his account, a world-class endurance athlete who had racked up a variety of impressive feats, including running 600 miles in six days. Then there were his academic accomplishments: Arday was billed as a\u2026",
+   "summaryFrom": "theatlantic",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Cambridge University defends its mental health support for Jason Arday",
+   "updated": "2026-08-16T13:16:38+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Cambridge University defends its mental health support for Jason Arday",
+     "url": "https://www.theguardian.com/uk-news/2026/aug/16/cambridge-university-jason-arday-mental-health-support",
+     "author": "Rachel Hall",
+     "kind": "news",
+     "published": "2026-08-16T13:16:38+00:00",
+     "summary": "University says it continued to provide support after resignation of academic, who was found dead this week The University of Cambridge has defended its mental health support for the academic Jason Arday. The university said it had continued to provide Arday with extensive mental health support and security measures, including installing panic alarms and screening racist emails and post, after he resigned from his post as professor of sociology of education earlier this month. Continue reading..."
+    },
+    {
+     "outlet": "theatlantic",
+     "title": "The Truths That Failed Jason Arday",
+     "url": "https://www.theatlantic.com/culture/2026/08/jason-arday-cambridge-professor-death/688304/?utm_source=feed",
+     "author": "Tyler Austin Harper",
+     "kind": "news",
+     "published": "2026-08-15T17:42:00+00:00",
+     "summary": "Yesterday in London, Jason Arday, the controversy-plagued British academic and author, was found dead. Made famous as the youngest Black professor in Cambridge\u2019s more than 800-year history, Arday had been dogged by weeks of scrutiny amid accusations of plagiarism, fake qualifications, and a fabricated backstory filled with hard-to-believe details. He claimed to have been mute until age 11 and illiterate until 18, disadvantages that did not deter him from getting a Ph.D., which he earned by age 30. He claimed, too, that he had suffered from various medical conditions throughout his life, including autism, epilepsy, locked-in syndrome, testicular cancer, and a brain tumor. He was, by his account, a world-class endurance athlete who had racked up a variety of impressive feats, including running 600 miles in six days. Then there were his academic accomplishments: Arday was billed as a once-in-a-generation talent, whose research in his field\u2014the sociology of education\u2014was \u201cthe best in the world,\u201d according to Hilary Cremin, the head of Cambridge\u2019s faculty of education. He claimed to have received a book advance of 1.4 million in unspecified currency for his memoir, released this week by"
+    }
+   ]
+  },
+  {
+   "id": "355b94c1a1",
+   "topic": "Politics",
+   "summary": "Dozens of Texas lawmakers earlier this week urged Gov. Greg Abbott (R) to put a stop to the Trump administration\u2019s plans to build border barrier installations at Big Bend National Park. In a Thursday letter to Abbott, 44 state lawmakers from both parties asked the governor to \u201cswiftly use every available avenue\u201d to call on...",
+   "summaryFrom": "thehill",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "Lawsuit seeks to stop Big Bend border wall construction",
+   "updated": "2026-08-16T13:06:22+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "Texas state lawmakers urge Abbott to help stop CBP barrier construction in Big Bend National Park",
+     "url": "https://thehill.com/homenews/state-watch/6031859-texas-lawmakers-urge-abbott-stop-border-barriers-big-bend/",
+     "author": "Max Rego",
+     "kind": "news",
+     "published": "2026-08-16T13:06:22+00:00",
+     "summary": "Dozens of Texas lawmakers earlier this week urged Gov. Greg Abbott (R) to put a stop to the Trump administration\u2019s plans to build border barrier installations at Big Bend National Park. In a Thursday letter to Abbott, 44 state lawmakers from both parties asked the governor to \u201cswiftly use every available avenue\u201d to call on..."
+    },
+    {
+     "outlet": "texastribune",
+     "title": "Lawsuit seeks to stop Big Bend border wall construction",
+     "url": "https://feeds.texastribune.org/link/16799/17418172/texas-big-bend-border-wall-lawsuit-lipan-apache",
+     "author": "Ayden Runnels and Gabby Birenbaum",
+     "kind": "news",
+     "published": "2026-08-14T14:20:18+00:00",
+     "summary": "A tribal nonprofit and an outdoor recreation company filed the federal lawsuit, arguing the work threatens archeological sites and sacred grounds."
+    }
+   ]
+  },
+  {
    "id": "d971d8e54f",
    "topic": "Other",
    "summary": "Attorney General Todd Blanche will join two network shows on Sunday following his narrow Senate confirmation last week. Blanche is set for appearances on Fox News\u2019s \u201cFox News Sunday\u201d and NBC News\u2019s \u201cMeet the Press.\" Earlier this week, he again sought to distance himself from President Trump's \"anti-weaponization\" fund. The attorney general's nomination secured last-minute...",
@@ -2389,44 +2568,44 @@
    ]
   },
   {
-   "id": "f64dfb1569",
-   "topic": "Culture & Sport",
-   "summary": "The much-anticipated return of Aaron Donald to the Los Angeles Rams that NFL insiders have reported is quite likely isn't ready to happen, according to coach Sean McVay. And he doesn't sound certain whether it will. Or won't. McVay was asked for an update on the possible return of the 10-time Pro Bowl player and three-time Defensive Player of the Year after the Rams played their first preseason game on Saturday. RAMS ADD MYLES GARRETT TRADE TO PUSH FOR SUPER BOWL CHAMPIONSHIP McVay told reporters he didn't want to say a lot about that. Then he delivered 361 words on the topic. We counted. Yes, that's a lot but it all boils down to this: \"We are not at that point quite yet,\" McVay said. That may sound a bit surprising because we've read multiple reports that Donald is coming back or would announce his intentions to do so once the Rams returned to their training facility in Woodland Hills\u2026",
-   "summaryFrom": "foxnews",
+   "id": "1ad32f471c",
+   "topic": "World",
+   "summary": "Lebanon saw its deadliest day of fighting in months as Iran and the US appeared to be at a standstill in negotiations ahead of the Monday expiration of their ceasefire agreement.",
+   "summaryFrom": "bloomberg",
    "emphasis": null,
    "absent": [
     "corp",
     "coop",
-    "nonprofit",
-    "pub"
+    "nonprofit"
    ],
-   "headline": "Coach Sean McVay on Aaron Donald return to the Los Angeles Rams: 'We are not at that point quite yet'",
-   "updated": "2026-08-16T12:06:59+00:00",
+   "headline": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
+   "updated": "2026-08-16T12:22:49+00:00",
    "outletCount": 2,
    "counts": {
-    "family": 2
+    "family": 1,
+    "pub": 1
    },
    "newsCount": 2,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "foxnews",
-     "title": "Coach Sean McVay on Aaron Donald return to the Los Angeles Rams: 'We are not at that point quite yet'",
-     "url": "https://www.foxnews.com/sports/coach-sean-mcvay-aaron-donald-return-los-angeles-rams-not-that-point-quite-yet",
-     "author": null,
+     "outlet": "bloomberg",
+     "title": "Israel Strikes Lebanon as End of US-Iran Ceasefire Looms",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-16/israel-strikes-lebanon-as-end-of-us-iran-ceasefire-looms",
+     "author": "Arsalan Shahla, Alisa Odenheimer and Sara Gharaibeh",
      "kind": "news",
-     "published": "2026-08-16T12:06:59+00:00",
-     "summary": "The much-anticipated return of Aaron Donald to the Los Angeles Rams that NFL insiders have reported is quite likely isn't ready to happen, according to coach Sean McVay. And he doesn't sound certain whether it will. Or won't. McVay was asked for an update on the possible return of the 10-time Pro Bowl player and three-time Defensive Player of the Year after the Rams played their first preseason game on Saturday. RAMS ADD MYLES GARRETT TRADE TO PUSH FOR SUPER BOWL CHAMPIONSHIP McVay told reporters he didn't want to say a lot about that. Then he delivered 361 words on the topic. We counted. Yes, that's a lot but it all boils down to this: \"We are not at that point quite yet,\" McVay said. That may sound a bit surprising because we've read multiple reports that Donald is coming back or would announce his intentions to do so once the Rams returned to their training facility in Woodland Hills on Aug. 7. One report, meanwhile, made the point it's not quite so simple. This space reported on Aug. 5 that \"there's a catch for Donald: He wants to be close to if not as good as he's always been. He doesn't wish to look diminished in what could then be portrayed as a selfish chase for a Super Bow"
+     "published": "2026-08-16T12:22:49+00:00",
+     "summary": "Lebanon saw its deadliest day of fighting in months as Iran and the US appeared to be at a standstill in negotiations ahead of the Monday expiration of their ceasefire agreement."
     },
     {
-     "outlet": "latimes",
-     "title": "Sean McVay on Aaron Donald comeback: 'We're not at that point quite yet'",
-     "url": "https://www.latimes.com/sports/rams/story/2026-08-15/sean-mcvay-on-aaron-donalds-rams-return-were-not-at-that-point",
-     "author": "Gary Klein",
+     "outlet": "aljazeera",
+     "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
+     "url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-16T02:17:22+00:00",
-     "summary": "Rams coach Sean McVay says the team is still working through a few things with Aaron Donald on the defensive tackle's potential return from retirement."
+     "published": "2026-08-16T10:59:10+00:00",
+     "summary": "At least 11 people killed in one day of Israeli attacks despite truce extension brokered by US in June."
     }
    ]
   },
@@ -2469,48 +2648,6 @@
      "kind": "news",
      "published": "2026-08-16T10:00:23+00:00",
      "summary": "\u2018Complete unraveling\u2019 of Trump and Republican project reflects attitude of not caring at all about governance He was always one step ahead. Donald Trump won the US presidency as a wildly unlikely outsider in 2016 and staged an astonishing comeback to win it again in 2024. Even his foes grudgingly called him a political savant with an intuition for exploiting grievances that left so-called experts floundering. But now they are asking if the dark genius has lost his touch. Trump is trapped in the quagmire of an unpopular war, obsessing over monuments in Washington and looking for a new spokesperson after his White House press secretary quit . If the 80-year-old was deliberately trying to sabotage his Republican party in November\u2019s midterm elections, it is not clear what he would do differently. Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "9530b78a46",
-   "topic": "Politics",
-   "summary": "D uring her January 2025 confirmation hearing to be secretary of homeland security, Kristi Noem was asked how she would strengthen the nation\u2019s cyberdefenses. Noem told senators that she would make the department\u2019s Cybersecurity and Infrastructure Security Agency \u201csmaller\u201d and \u201cmore nimble.\u201d President Trump had created CISA as a stand-alone agency within the Department of Homeland Security during his first term to give cybersecurity more institutional heft, and it had grown quickly with support from lawmakers of both parties. But after CISA declared the 2020 presidential election to be \u201cthe most secure in American history\u201d and the agency\u2019s director, Christopher Krebs, refused to back Trump\u2019s claims that the vote had been stolen, Krebs became a target for the president\u2019s fury and a seething grudge.. During the DOGE fever of the first few months of Trump\u2019s return, CISA\u2019s budget was\u2026",
-   "summaryFrom": "theatlantic",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Trump\u2019s great plane escape | Politics Weekly America",
-   "updated": "2026-08-16T12:00:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "theatlantic",
-     "title": "How Trump Left America Vulnerable to Cyberattacks",
-     "url": "https://www.theatlantic.com/national-security/2026/08/trump-iran-elections-cyberattacks/688297/?utm_source=feed",
-     "author": "Yvonne Wingett Sanchez",
-     "kind": "news",
-     "published": "2026-08-16T12:00:00+00:00",
-     "summary": "D uring her January 2025 confirmation hearing to be secretary of homeland security, Kristi Noem was asked how she would strengthen the nation\u2019s cyberdefenses. Noem told senators that she would make the department\u2019s Cybersecurity and Infrastructure Security Agency \u201csmaller\u201d and \u201cmore nimble.\u201d President Trump had created CISA as a stand-alone agency within the Department of Homeland Security during his first term to give cybersecurity more institutional heft, and it had grown quickly with support from lawmakers of both parties. But after CISA declared the 2020 presidential election to be \u201cthe most secure in American history\u201d and the agency\u2019s director, Christopher Krebs, refused to back Trump\u2019s claims that the vote had been stolen, Krebs became a target for the president\u2019s fury and a seething grudge.. During the DOGE fever of the first few months of Trump\u2019s return, CISA\u2019s budget was reduced and its staff cut by one-third. The agency hasn\u2019t had a permanent, Senate-confirmed director since Trump retook office. In April, the White House proposed deeper cuts to CISA\u2019s budget, but Republican lawmakers have raised concerns that critical U.S. infrastructure is already too vulnerable. In June"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump\u2019s great plane escape | Politics Weekly America",
-     "url": "https://www.theguardian.com/politics/video/2026/aug/14/trumps-great-plane-escape-politics-weekly-america",
-     "author": "Presented by Jonathan Freedland with Tara Setmayer; produced by Danielle Stephens and Nada Smiljanic . The executive producer was Maz Ebtehaj",
-     "kind": "news",
-     "published": "2026-08-14T11:15:35+00:00",
-     "summary": "When Air Force One took off from Turkey after July\u2019s Nato summit, almost everyone believed Donald Trump was on board \u2026 but he wasn\u2019t. Jonathan Freedland talks to Tara Setmayer of the Seneca Project about why the White House felt the need to come up with such an elaborate lie to protect the president Continue reading..."
     }
    ]
   },
@@ -2599,86 +2736,44 @@
    ]
   },
   {
-   "id": "423655000c",
-   "topic": "World",
-   "summary": "Belgium is battling what has been described as the country's largest wildfire in modern history, forcing hundreds of villagers to evacuate near the German border. Firefighters, EU reinforcements and local farmers are working to contain the blaze as shifting winds and extreme heat complicate efforts.",
-   "summaryFrom": "france24",
+   "id": "9d6f474d56",
+   "topic": "Climate & Energy",
+   "summary": "Firefighters battled a massive wildfire in eastern Belgium on Sunday that has burned more than 27 square kilometers (10 square miles) in the High Fens. The post Hundreds Forced to Evacuate Amid Massive Wildfire in Belgium appeared first on Breitbart .",
+   "summaryFrom": "breitbart",
    "emphasis": null,
    "absent": [
     "corp",
-    "family",
     "coop",
     "nonprofit"
    ],
-   "headline": "Hundreds flee as Belgium battles wildfire at German border",
-   "updated": "2026-08-16T11:05:00+00:00",
+   "headline": "\ud83d\udd34 Belgium wildfire scorches 3,000 hectares as villagers evacuate, EU sends aircraft",
+   "updated": "2026-08-16T11:21:19+00:00",
    "outletCount": 2,
    "counts": {
-    "pub": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Hundreds flee as Belgium battles wildfire at German border",
-     "url": "https://www.dw.com/en/hundreds-flee-as-belgium-battles-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T11:05:00+00:00",
-     "summary": "A rapidly spreading wildfire has scorched about 2,700 hectares in the High Fens nature reserve near Belgium's border with Germany. The German town of Monschau has also warned residents of possible evacuation orders."
-    },
-    {
-     "outlet": "france24",
-     "title": "Belgium battles its largest wildfire in modern history",
-     "url": "https://www.france24.com/en/belgium-battles-its-largest-wildfire-in-modern-history",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T08:51:58+00:00",
-     "summary": "Belgium is battling what has been described as the country's largest wildfire in modern history, forcing hundreds of villagers to evacuate near the German border. Firefighters, EU reinforcements and local farmers are working to contain the blaze as shifting winds and extreme heat complicate efforts."
-    }
-   ]
-  },
-  {
-   "id": "c1899cdbf5",
-   "topic": "World",
-   "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capital Ukraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian authorities. Russia\u2019s defence ministry said it had shot down 822 drones, while the mayor of Moscow, Sergei Sobyanin, reported that 600 drones were launched towards the capital\u2019s region, of which 201 were destroyed. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "\u2018Massive\u2019 Ukrainian drone attack on Russia kills at least six, says Moscow",
-   "updated": "2026-08-16T11:04:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
+    "family": 1,
     "pub": 1
    },
    "newsCount": 2,
    "opinionCount": 0,
-   "underreported": true,
+   "underreported": false,
    "articles": [
     {
-     "outlet": "guardian",
-     "title": "\u2018Massive\u2019 Ukrainian drone attack on Russia kills at least six, says Moscow",
-     "url": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire",
-     "author": "Dan Sabbagh in Kyiv",
+     "outlet": "breitbart",
+     "title": "Hundreds Forced to Evacuate Amid Massive Wildfire in Belgium",
+     "url": "https://www.breitbart.com/europe/2026/08/16/hundreds-forced-to-evacuate-amid-massive-wildfire-in-belgium/",
+     "author": "Breitbart London",
      "kind": "news",
-     "published": "2026-08-16T11:04:00+00:00",
-     "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capital Ukraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian authorities. Russia\u2019s defence ministry said it had shot down 822 drones, while the mayor of Moscow, Sergei Sobyanin, reported that 600 drones were launched towards the capital\u2019s region, of which 201 were destroyed. Continue reading..."
+     "published": "2026-08-16T11:21:19+00:00",
+     "summary": "Firefighters battled a massive wildfire in eastern Belgium on Sunday that has burned more than 27 square kilometers (10 square miles) in the High Fens. The post Hundreds Forced to Evacuate Amid Massive Wildfire in Belgium appeared first on Breitbart ."
     },
     {
-     "outlet": "aljazeera",
-     "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
-     "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-     "author": null,
+     "outlet": "france24",
+     "title": "\ud83d\udd34 Belgium wildfire scorches 3,000 hectares as villagers evacuate, EU sends aircraft",
+     "url": "https://www.france24.com/en/europe/20260816-eu-sends-aircraft-and-villagers-evacuate-as-belgium-battles-record-wildfire",
+     "author": "FRANCE24",
      "kind": "news",
-     "published": "2026-08-16T04:54:33+00:00",
-     "summary": "Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region in the escalating conflict."
+     "published": "2026-08-16T08:20:25+00:00",
+     "summary": null
     }
    ]
   },
@@ -2767,6 +2862,48 @@
    ]
   },
   {
+   "id": "1c94345e95",
+   "topic": "Other",
+   "summary": "Police say they have arrested the driver of a bus that crashed in Hungary, killing at least 12 people. The bus was carrying Polish pilgrims, media report.",
+   "summaryFrom": "dw",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Bus crash in Hungary kills at least 12",
+   "updated": "2026-08-16T09:47:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "Bus crash in Hungary kills at least 12",
+     "url": "https://www.dw.com/en/bus-crash-in-hungary-kills-at-least-12/a-78387230?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T09:47:00+00:00",
+     "summary": "Police say they have arrested the driver of a bus that crashed in Hungary, killing at least 12 people. The bus was carrying Polish pilgrims, media report."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "At least 12 people killed in Hungary bus crash",
+     "url": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T08:50:30+00:00",
+     "summary": "Bus carrying Polish tourists overturns, killing 12 people and injuring 10 others on the M3 motorway near Mezokeresztes."
+    }
+   ]
+  },
+  {
    "id": "d4be733d5c",
    "topic": "World",
    "summary": "Tehran said the three pilots \"were captured alive\" by Qatari forces after their fighter jets were shot down in the early days of the US-Israel war with Iran. Qatar has denied Iran's claims.",
@@ -2805,48 +2942,6 @@
      "kind": "news",
      "published": "2026-08-16T01:38:00+00:00",
      "summary": "Tehran said the three pilots \"were captured alive\" by Qatari forces after their fighter jets were shot down in the early days of the US-Israel war with Iran. Qatar has denied Iran's claims."
-    }
-   ]
-  },
-  {
-   "id": "77b8d50e0c",
-   "topic": "Other",
-   "summary": "A runner was hospitalized in Alaska after fending off a bear attack in Anchorage this week. The woman, who was running by herself at Prospect Heights\u2019 Wolverine Bowl trail, was able to get away from the brown bear by using her bear spray, according to the Alaska Department of Fish and Game. She was taken to a local hospital for treatment. BEAR ATTACK IN YELLOWSTONE NATIONAL PARK LEAVES 2 HIKERS INJURED Biologists went to the site of the attack and collected samples but no bears were seen. The department said anyone who sees a bear or another wild animal acting aggressively or unusually should report it. Warning signs have been posted at the Prospect Heights trailhead, the departmet said, adding that hikers should stay off closed trails. \"Thick, dense summer foliage can block sightlines, making surprise encounters more likely,\" the department said. \"Choose hiking routes with good\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Alaska runner hospitalized after using bear spray to fight off brown bear on trail",
-   "updated": "2026-08-16T09:23:43+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Alaska runner hospitalized after using bear spray to fight off brown bear on trail",
-     "url": "https://nypost.com/2026/08/16/us-news/alaska-runner-hospitalized-after-using-bear-spray-to-fight-off-brown-bear-on-trail/",
-     "author": "Fox News",
-     "kind": "news",
-     "published": "2026-08-16T09:23:43+00:00",
-     "summary": "\"If you surprise a bear, especially one with cubs or on a food cache, it may react in a threatened or defensive manner,\" the department said."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Alaska runner hospitalized after using bear spray to fight off brown bear on Alaska trail",
-     "url": "https://www.foxnews.com/us/alaska-runner-hospitalized-bear-spray-fight-off-brown-bear-alaska-trail",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T01:32:26+00:00",
-     "summary": "A runner was hospitalized in Alaska after fending off a bear attack in Anchorage this week. The woman, who was running by herself at Prospect Heights\u2019 Wolverine Bowl trail, was able to get away from the brown bear by using her bear spray, according to the Alaska Department of Fish and Game. She was taken to a local hospital for treatment. BEAR ATTACK IN YELLOWSTONE NATIONAL PARK LEAVES 2 HIKERS INJURED Biologists went to the site of the attack and collected samples but no bears were seen. The department said anyone who sees a bear or another wild animal acting aggressively or unusually should report it. Warning signs have been posted at the Prospect Heights trailhead, the departmet said, adding that hikers should stay off closed trails. \"Thick, dense summer foliage can block sightlines, making surprise encounters more likely,\" the department said. \"Choose hiking routes with good visibility and away from known attractants, like salmon-bearing streams.\" When hiking in bear country, people should carry a deterrent such as bear spray or a firearm, stay in groups, make noise to avoid surprising a bear, stay alert for signs of bears, don\u2019t approach bears and keep pets on a leash . WOMAN "
     }
    ]
   },
@@ -3015,48 +3110,6 @@
      "kind": "news",
      "published": "2026-08-15T21:41:43+00:00",
      "summary": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms."
-    }
-   ]
-  },
-  {
-   "id": "2046d4a5f4",
-   "topic": "Other",
-   "summary": "Islam Makhachev set the UFC record with his 17th straight win, reaching the milestone with a unanimous decision over Ian Machado Garry at UFC 330.",
-   "summaryFrom": "nypost",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "UFC 330: Makhachev secures record-setting win against Machado Garry",
-   "updated": "2026-08-16T07:04:29+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "UFC 330: Makhachev secures record-setting win against Machado Garry",
-     "url": "https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T07:04:29+00:00",
-     "summary": "Islam Makhachev records 17th UFC victory in a row in his welterweight title defeat of Ian Machado Garry."
-    },
-    {
-     "outlet": "nypost",
-     "title": "Islam Makhachev beats Ian Machado Garry at UFC 330 to set record with 17th consecutive win",
-     "url": "https://nypost.com/2026/08/16/sports/islam-makhachev-beats-ian-machado-garry-at-ufc-330/",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T05:50:33+00:00",
-     "summary": "Islam Makhachev set the UFC record with his 17th straight win, reaching the milestone with a unanimous decision over Ian Machado Garry at UFC 330."
     }
    ]
   },
@@ -3247,48 +3300,6 @@
    ]
   },
   {
-   "id": "ab695990ad",
-   "topic": "Other",
-   "summary": "Indiana, Illinois and surrounding states are preparing for another stretch of flooding through this weekend. (Image credit: Indianapolis Fire Department via AP)",
-   "summaryFrom": "npr",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
-   "updated": "2026-08-16T00:15:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Indiana requests federal aid as relentless flooding continues in Midwest",
-     "url": "https://www.cbsnews.com/video/indiana-requests-federal-aid-as-relentless-flooding-continues-in-midwest/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T00:15:00+00:00",
-     "summary": "Indiana requested federal aid on Saturday as the floods that have devastated parts of the Midwest continue. Lana Zak reports."
-    },
-    {
-     "outlet": "npr",
-     "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
-     "url": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
-     "author": "Laura Sullivan",
-     "kind": "news",
-     "published": "2026-08-15T20:04:13+00:00",
-     "summary": "Indiana, Illinois and surrounding states are preparing for another stretch of flooding through this weekend. (Image credit: Indianapolis Fire Department via AP)"
-    }
-   ]
-  },
-  {
    "id": "c8d3372590",
    "topic": "Politics",
    "summary": "The United States Navy is potentially redesigning incoming aircraft vessels to better align with President Trump\u2019s preferred aesthetic. The maritime branch is considering the shift on Ford-class ships to match the president\u2019s preference for the new aircraft carriers to resemble the World War II-era, according to a Saturday report from the Washington Post. The changes...",
@@ -3331,48 +3342,6 @@
    ]
   },
   {
-   "id": "c26019a127",
-   "topic": "Other",
-   "summary": "Former ABC News field producer Samira Said accused CBS News chief correspondent Matt Gutman of making sexualized remarks toward her while the two worked together at ABC, according to a wrongful-termination lawsuit filed Friday in Los Angeles. The post CBS Chief Correspondent Matt Gutman Accused of Harassment in ABC Producer Suit appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "CBS Chief Correspondent Matt Gutman Accused of Harassment in ABC Producer Suit",
-   "updated": "2026-08-15T23:26:41+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "CBS Chief Correspondent Matt Gutman Accused of Harassment in ABC Producer Suit",
-     "url": "https://www.breitbart.com/the-media/2026/08/15/cbs-matt-gutman-accused-sexualized-remarks-abc-producer-lawsuit/",
-     "author": "Mariane Angela",
-     "kind": "news",
-     "published": "2026-08-15T23:26:41+00:00",
-     "summary": "Former ABC News field producer Samira Said accused CBS News chief correspondent Matt Gutman of making sexualized remarks toward her while the two worked together at ABC, according to a wrongful-termination lawsuit filed Friday in Los Angeles. The post CBS Chief Correspondent Matt Gutman Accused of Harassment in ABC Producer Suit appeared first on Breitbart ."
-    },
-    {
-     "outlet": "latimes",
-     "title": "CBS News correspondent Matt Gutman accused of harassment in wrongful termination suit against ABC",
-     "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-14/cbs-news-matt-gutman-accused-sexual-harassment-lawsuit",
-     "author": "Stephen Battaglio",
-     "kind": "news",
-     "published": "2026-08-14T22:10:53+00:00",
-     "summary": "Gutman was included in a former ABC News producer's wrongful termination suit filed Friday in Los Angeles."
-    }
-   ]
-  },
-  {
    "id": "3ec1bf5278",
    "topic": "World",
    "summary": "The USS Abraham Lincoln deployed in the Arabian Sea on April 16, 2026. | US Navy via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: The cracks are starting to show in President Donald Trump\u2019s Iran campaign. What\u2019s happening? Conditions on a US warship deployed in the Middle East have grown so dire, multiple sailors have reportedly tried to go overboard (at least one did so but was rescued safely, according to CNN ).&nbsp; The attempts to jump overboard comes as family members of sailors are raising concerns with Democratic lawmakers about deteriorating mental health on the ship amid sanitation issues and shortages of food and basic supplies .&nbsp; The USS Abraham Lincoln aircraft carrier has been\u2026",
@@ -3411,6 +3380,48 @@
      "kind": "news",
      "published": "2026-08-13T21:55:00+00:00",
      "summary": "The USS Abraham Lincoln deployed in the Arabian Sea on April 16, 2026. | US Navy via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: The cracks are starting to show in President Donald Trump\u2019s Iran campaign. What\u2019s happening? Conditions on a US warship deployed in the Middle East have grown so dire, multiple sailors have reportedly tried to go overboard (at least one did so but was rescued safely, according to CNN ).&nbsp; The attempts to jump overboard comes as family members of sailors are raising concerns with Democratic lawmakers about deteriorating mental health on the ship amid sanitation issues and shortages of food and basic supplies .&nbsp; The USS Abraham Lincoln aircraft carrier has been deployed for more than 250 days, starting last November, including a stretch of more than 200 days at sea \u2014 a modern record. Its deployment was supposed to end months ago, in May, but has continued as Trump\u2019s Iran war stretches on .&nbsp; How is the administration responding? Defense Secretary Pete Hegseth "
+    }
+   ]
+  },
+  {
+   "id": "81135d987c",
+   "topic": "Other",
+   "summary": "The new X-Men MCU cast on stage at D-23. | Image: Marvel Entertainment With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for its upcoming, untitled X-Men film, which is scheduled to hit theaters on May 5th of 2028. Though, seeing as that's quite far into the future, we wouldn't be surprised if that date shifted slightly before then. In addition to Sink, the film will star Kit Connor as Scott Summers (Cyclops), Christopher Abbott as Charles Xavier (Professor X), Samara Weaving as Emma Frost, Maya Boyd as Storm, and Inde Navarrette as Rogue. \u2026 Read the full story at The Verge.",
+   "summaryFrom": "theverge",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Marvel unveils 'X-Men' cast at D23, where Disney reveals its future leans on its past",
+   "updated": "2026-08-15T19:40:22+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "latimes",
+     "title": "Marvel unveils 'X-Men' cast at D23, where Disney reveals its future leans on its past",
+     "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-08-15/d23-marvel-x-men-star-wars-pixar-disney-showcase",
+     "author": "Tracy Brown",
+     "kind": "news",
+     "published": "2026-08-15T19:40:22+00:00",
+     "summary": "The biggest announcements and takeaways from Disney's D23 showcase on upcoming film and TV projects from Marvel, Star Wars, Pixar and more."
+    },
+    {
+     "outlet": "theverge",
+     "title": "Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver",
+     "url": "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast",
+     "author": "Terrence O\u2019Brien",
+     "kind": "news",
+     "published": "2026-08-15T14:03:14+00:00",
+     "summary": "The new X-Men MCU cast on stage at D-23. | Image: Marvel Entertainment With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for its upcoming, untitled X-Men film, which is scheduled to hit theaters on May 5th of 2028. Though, seeing as that's quite far into the future, we wouldn't be surprised if that date shifted slightly before then. In addition to Sink, the film will star Kit Connor as Scott Summers (Cyclops), Christopher Abbott as Charles Xavier (Professor X), Samara Weaving as Emma Frost, Maya Boyd as Storm, and Inde Navarrette as Rogue. \u2026 Read the full story at The Verge."
     }
    ]
   }
