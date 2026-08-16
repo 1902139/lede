@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T13:46:36.819162+00:00",
+ "generated": "2026-08-16T14:39:58.081615+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -11,20 +11,20 @@
    "summaryFrom": "guardian",
    "emphasis": {
     "bigCount": 5,
-    "indieCount": 8,
+    "indieCount": 7,
     "big": [
      "invasion",
-     "appeared",
      "breitbart",
+     "appeared",
      "post"
     ],
     "indie": [
      "overnight",
      "authorities",
-     "kyiv",
-     "drone",
      "capital",
-     "warehouse"
+     "warehouse",
+     "indiana",
+     "weather"
     ]
    },
    "absent": [
@@ -32,14 +32,14 @@
    ],
    "headline": "\u2018Massive\u2019 Ukrainian drone attack on Russia kills at least six, says Moscow",
    "updated": "2026-08-16T13:35:56+00:00",
-   "outletCount": 11,
+   "outletCount": 10,
    "counts": {
     "family": 4,
     "corp": 1,
     "nonprofit": 4,
-    "pub": 4
+    "pub": 3
    },
-   "newsCount": 13,
+   "newsCount": 12,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -125,15 +125,6 @@
      "summary": null
     },
     {
-     "outlet": "aljazeera",
-     "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
-     "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T04:54:33+00:00",
-     "summary": "Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region in the escalating conflict."
-    },
-    {
      "outlet": "guardian",
      "title": "At least five people dead in Indiana amid worst flooding in over 30 years, officials say",
      "url": "https://www.theguardian.com/us-news/2026/aug/15/indiana-flooding-deaths",
@@ -178,15 +169,15 @@
     "indie": [
      "reported",
      "issues",
-     "thousands",
-     "faced",
      "broken",
-     "jumping"
+     "faced",
+     "considering",
+     "thousands"
     ]
    },
    "absent": [],
    "headline": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
-   "updated": "2026-08-16T13:41:38+00:00",
+   "updated": "2026-08-16T13:46:54+00:00",
    "outletCount": 9,
    "counts": {
     "corp": 2,
@@ -205,7 +196,7 @@
      "url": "https://abcnews.com/Politics/gallego-blames-trump-administration-uss-lincoln-conditions-true/story?id=135685345",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T13:41:38+00:00",
+     "published": "2026-08-16T13:46:54+00:00",
      "summary": "Adm. Mullen says morale has improved since the crew learned it's going home."
     },
     {
@@ -292,6 +283,116 @@
    ]
   },
   {
+   "id": "e4e85911fd",
+   "topic": "Climate & Energy",
+   "summary": "At least one person was killed in a storm-related car crash on Hawaii&#8217;s Big Island as Hurricane Lala struck late Saturday night. Gov. Josh Green confirmed the death, along with 19 roofs ripped off buildings after what he described as an &#8220;enormous storm.&#8221; Powerful waves pounded the Big Island\u2019s coast as Lala slowly passed by....",
+   "summaryFrom": "nypost",
+   "emphasis": {
+    "bigCount": 4,
+    "indieCount": 4,
+    "big": [
+     "tropical",
+     "saturday"
+    ],
+    "indie": [
+     "strong",
+     "persist",
+     "brings",
+     "category",
+     "making"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+   "updated": "2026-08-16T14:21:06+00:00",
+   "outletCount": 8,
+   "counts": {
+    "family": 2,
+    "corp": 2,
+    "pub": 3,
+    "nonprofit": 1
+   },
+   "newsCount": 8,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Tropical storm Lala kills 1, sweeps away homes as flooding hits Hawaii",
+     "url": "https://nypost.com/2026/08/16/us-news/hurrican-lala-in-hawaii-kills-at-least-one-destroys-homes/",
+     "author": "Joe Burn, Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T14:21:06+00:00",
+     "summary": "At least one person was killed in a storm-related car crash on Hawaii&#8217;s Big Island as Hurricane Lala struck late Saturday night. Gov. Josh Green confirmed the death, along with 19 roofs ripped off buildings after what he described as an &#8220;enormous storm.&#8221; Powerful waves pounded the Big Island\u2019s coast as Lala slowly passed by...."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Lala is a tropical storm again after lashing past Hawaii's Big Island",
+     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T13:28:10+00:00",
+     "summary": "As a hurricane, Lala skirted past Hawaii's Big Island, where it brought heavy rain and the possibility of life-threatening flooding and mudslides."
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Hurricane Lala Tracker as Storm Sparks Power Outage in Hawaii",
+     "url": "https://www.newsweek.com/hurricane-lala-tracker-as-storm-sparks-power-outage-in-hawaii-12328659",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T13:00:24+00:00",
+     "summary": "Hurricane Lala leaves 88,000+ without power in Hawaii as flooding, damaging winds and outages disrupt islands."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+     "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T12:53:43+00:00",
+     "summary": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas."
+    },
+    {
+     "outlet": "france24",
+     "title": "US : Hawaii narrowly avoids direct hit as Hurricane Lala brings strong weather",
+     "url": "https://www.france24.com/en/us-hawaii-narrowly-avoids-direct-hit-as-hurricane-lala-brings-severe-weather",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T08:53:56+00:00",
+     "summary": "Hawaii has narrowly avoided a historic direct hit from Hurricane Lala, but torrential rain and hurricane-force winds are still causing widespread flooding, mudslides and power outages across the islands. Authorities are urging residents to shelter in place as the storm moves west and dangerous conditions persist."
+    },
+    {
+     "outlet": "dw",
+     "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
+     "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T05:57:00+00:00",
+     "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is gradually weakening. However, the hurricane caused roads to flood and turned rivers into raging torrents."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Flights between L.A. and Hawaii disrupted as Hurricane Lala approaches the Big Island",
+     "url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
+     "author": "Josh Rottenberg",
+     "kind": "news",
+     "published": "2026-08-16T00:56:14+00:00",
+     "summary": "Several flights from LAX to Hawaii were canceled Saturday, including service to Kona, Maui, Kauai and Honolulu."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
+     "url": "https://www.pbs.org/newshour/nation/hawaiis-big-island-lashed-by-rain-and-wind-as-tropical-storm-lala-closes-in",
+     "author": "Ed White, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T15:17:14+00:00",
+     "summary": "The National Hurricane Center said Lala's maximum sustained winds increased to 75 mph, making it a Category 1 hurricane."
+    }
+   ]
+  },
+  {
    "id": "fe62922edd",
    "topic": "World",
    "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its\u2026",
@@ -300,16 +401,16 @@
     "bigCount": 6,
     "indieCount": 2,
     "big": [
-     "visits",
      "centcom",
+     "visits",
      "released",
      "iran",
-     "aircraft",
-     "carrier"
+     "carrier",
+     "aircraft"
     ],
     "indie": [
-     "aboard",
-     "deployment"
+     "deployment",
+     "aboard"
     ]
    },
    "absent": [
@@ -403,6 +504,185 @@
    ]
   },
   {
+   "id": "47b37decde",
+   "topic": "Justice & Policing",
+   "summary": "Spain and Morocco have boosted security around Spain\u2019s African enclave Ceuta following calls for another Moroccan migrant border rush, two weeks after a migrant invasion left at least 96 people dead. Soldiers have been watching commercial and government buildings in Ceuta while police are patrolling main streets, according to Reuters. Along the Moroccan border, security guards were seen on the beaches of Fnideq, one of the primary locations from which migrants illegally rushed Ceuta, Fox News reported . Morocco has arrested multiple people who circulated calls on social media for another migrant invasion into both Ceuta and Melilla, another Spanish African enclave. \u201cThe Ministry of the Interior has detected, during the last few days, the circulation of anonymous publications and messages on certain social networks inciting the organization of attempts at collective and illegal crossing\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 4,
+    "big": [
+     "invasion"
+    ],
+    "indie": [
+     "crossing",
+     "mass",
+     "media",
+     "social",
+     "attempted",
+     "enter"
+    ]
+   },
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Morocco tightens security as migrants gather near Ceuta border",
+   "updated": "2026-08-16T13:01:57+00:00",
+   "outletCount": 7,
+   "counts": {
+    "family": 3,
+    "pub": 3,
+    "nonprofit": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bloomberg",
+     "title": "Second Ceuta Incursion Attempt Fails as Morocco, Spain Boost Security",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-16/second-ceuta-incursion-attempt-fails-as-morocco-spain-boost-security",
+     "author": "Souhail Karam",
+     "kind": "news",
+     "published": "2026-08-16T13:01:57+00:00",
+     "summary": "Grassroots calls for a second incursion into Ceuta from Morocco fell flat over the weekend, with security tight and authorities turning back the relative handful who tried to make the move."
+    },
+    {
+     "outlet": "france24",
+     "title": "Morocco tightens security as migrants gather near Ceuta border",
+     "url": "https://www.france24.com/en/morocco-tightens-security-as-migrants-gather-near-ceuta-border",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T09:17:50+00:00",
+     "summary": "Morocco has deployed heavy security around the border city of Fnideq after false social media rumours claimed the border to Spain's Ceuta enclave would open. Hundreds of migrants, mostly from sub-Saharan Africa, have gathered nearby, raising fears of another mass crossing just weeks after tens of thousands attempted to enter the Spanish territory."
+    },
+    {
+     "outlet": "dw",
+     "title": "Morocco detains dozens of migrants trying to enter Spanish North African exclave Ceuta",
+     "url": "https://www.dw.com/en/morocco-detains-dozens-of-migrants-trying-to-enter-spanish-north-african-exclave-ceuta/a-78385761?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T23:26:00+00:00",
+     "summary": "The attempted crossings come two weeks after around 72,000 people rushed into the Spanish North African exclave from Morocco. Calls for another mass crossing had been circulating on social media this week."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+     "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T20:58:31+00:00",
+     "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Pics: Thousands of Illegal Migrants Set Up Makeshift Garbage Huts on Beach of Spanish Ceuta, Weeks After Invasion",
+     "url": "https://www.breitbart.com/europe/2026/08/15/pics-thousands-of-illegal-migrants-set-up-garbage-huts-on-ceuta-beach-sparking-warnings-of-disease-outbreak/",
+     "author": "Kurt Zindulka",
+     "kind": "news",
+     "published": "2026-08-15T19:47:05+00:00",
+     "summary": "More than two weeks after tens of thousands of illegal migrants stormed the border of the Spanish exclave of Ceuta, thousands of migrants remain in the city, resulting in the area's once pristine beach being converted into a full-on encampment with dozens of makeshift huts being constructed out of garbage, and prompting warnings of potential disease outbreaks due to the unsanitary conditions. The post Pics: Thousands of Illegal Migrants Set Up Makeshift Garbage Huts on Beach of Spanish Ceuta, Weeks After Invasion appeared first on Breitbart ."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+     "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+     "author": "Reuters",
+     "kind": "news",
+     "published": "2026-08-15T18:08:21+00:00",
+     "summary": "Border security tightened after social media posts call for another mass crossing into Spain\u2019s north African territory Moroccan police have arrested 111 people as they tried to enter Spain\u2019s north African territory of Ceuta, amid \u2060tightened security on both sides after social media posts \u200bcalled for another mass crossing. The attempted crossing on Saturday came two weeks after more than 72,000 migrants surged into Ceuta , causing tensions within the EU and prompting anti-immigration rhetoric among far-right parties worldwide. At least 96 people died trying to \u2060reach European soil. Continue reading..."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Calls For Another Migrant Border Invasion Force Spain And Morocco To Take Action",
+     "url": "https://www.dailywire.com/news/calls-for-another-migrant-border-invasion-force-spain-and-morocco-to-take-action",
+     "author": "Catherine Maxwell",
+     "kind": "opinion",
+     "published": "2026-08-15T13:55:25+00:00",
+     "summary": "Spain and Morocco have boosted security around Spain\u2019s African enclave Ceuta following calls for another Moroccan migrant border rush, two weeks after a migrant invasion left at least 96 people dead. Soldiers have been watching commercial and government buildings in Ceuta while police are patrolling main streets, according to Reuters. Along the Moroccan border, security guards were seen on the beaches of Fnideq, one of the primary locations from which migrants illegally rushed Ceuta, Fox News reported . Morocco has arrested multiple people who circulated calls on social media for another migrant invasion into both Ceuta and Melilla, another Spanish African enclave. \u201cThe Ministry of the Interior has detected, during the last few days, the circulation of anonymous publications and messages on certain social networks inciting the organization of attempts at collective and illegal crossing to the cities of Ceuta and Melilla, practices which carry serious risks to the safety of people and aim to instrumentalize migration issues in acts of incitement, which are criminalized by law,\u201d the Moroccan Ministry of the Interior said in a statement, according to Fox News. Meanwhile, Spain is stil"
+    }
+   ]
+  },
+  {
+   "id": "ac7085b98d",
+   "topic": "Politics",
+   "summary": "AUSTIN, Texas \u2014 Democrats teed up South Carolina to lead a six-state gantlet of early presidential contests, sealing a 2028 road map that pushes Black and Latino voters and labor to the front of the line for choosing the party\u2019s next national leader.",
+   "summaryFrom": "nbcnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Democrats' 2028 presidential calendar gives Black and Latino voters and union members an early say",
+   "updated": "2026-08-16T14:22:06+00:00",
+   "outletCount": 6,
+   "counts": {
+    "corp": 3,
+    "family": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "South Carolina to hold first 2028 Democratic presidential primary",
+     "url": "https://www.cbsnews.com/news/democratic-national-committee-presidential-primary-south-carolina-vote/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T14:22:06+00:00",
+     "summary": "South Carolina's Democratic presidential primary will take place on Jan. 22, 2028. Nevada, New Hampshire, New Mexico, Michigan and Virginia will also hold early Democratic nominating contests."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Democrats approve 2028 primary calendar that puts South Carolina first",
+     "url": "https://www.washingtonpost.com/politics/2026/08/15/democrats-approve-2028-primary-calendar-that-puts-south-carolina-first/",
+     "author": "Sammy Westfall",
+     "kind": "news",
+     "published": "2026-08-15T19:39:15+00:00",
+     "summary": "South Carolina would hold its primary on Jan. 22, 2028 under the Democratic National Committee\u2019s plan. Nevada would follow on Feb. 1. The plan aims to give a bigger voice to Black and Latino voters."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Democrats' 2028 presidential calendar gives Black and Latino voters and union members an early say",
+     "url": "https://www.pbs.org/newshour/politics/democrats-2028-presidential-calendar-gives-black-and-latino-voters-and-union-members-an-early-say",
+     "author": "Bill Barrow, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T19:00:56+00:00",
+     "summary": "The primary lineup pushes Iowa from the traditional top spot and makes South Carolina the leadoff state, voting on Jan. 22, 2028, followed by Nevada on Feb. 1."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
+     "url": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
+     "author": "Shane Goldmacher",
+     "kind": "news",
+     "published": "2026-08-15T18:27:45+00:00",
+     "summary": "The party\u2019s membership finalized the new order for the first six states to winnow the candidate field, pushing back Iowa and New Hampshire."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Democrats set their 2028 primary calendar, with South Carolina going first",
+     "url": "https://www.nbcnews.com/politics/2028-election/democrats-officially-set-2028-primary-calendar-south-carolina-going-fi-rcna592519",
+     "author": "Natasha Korecki",
+     "kind": "news",
+     "published": "2026-08-15T18:25:31+00:00",
+     "summary": "AUSTIN, Texas \u2014 Democrats teed up South Carolina to lead a six-state gantlet of early presidential contests, sealing a 2028 road map that pushes Black and Latino voters and labor to the front of the line for choosing the party\u2019s next national leader."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "DNC to finalize controversial 2028 primary calendar, elevating South Carolina",
+     "url": "https://abcnews.com/Politics/dnc-set-finalize-controversial-2028-primary-calendar-elevating/story?id=135616869",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T09:41:06+00:00",
+     "summary": "The DNC is expected to vote on Saturday to approve the new order of states for the 2028 presidential nominating process, amidst controversy over some of those decisions."
+    }
+   ]
+  },
+  {
    "id": "ef4b90933b",
    "topic": "Politics",
    "summary": "The board of the John F. Kennedy Center for the Performing Arts approved a plan on Thursday to enshrine President Donald Trump's name on the building, setting off a new battle in the war over what mark he should be able to leave on the institution. We have been down this road before. The Kennedy Center's board of trustees \"overstepped its statutory bounds by unilaterally renaming the Kennedy Center after President Trump,\" U.S. District Judge Christopher Cooper wrote in May. \"In 1964, Congress deliberately rechristened the 'National Cultural Center' the 'John F. Kennedy Center for the Performing Arts.' The text, structure, and evolution of the organic statute makes the institution's name abundantly clear.\" The center, as a result, was forced to remove Trump's name, which had been affixed to the facade as: THE DONALD J. TRUMP AND THE JOHN F. KENNEDY MEMORIAL CENTER FOR THE PERFORMING\u2026",
@@ -413,8 +693,8 @@
     "big": [
      "trump",
      "testing",
-     "facade",
-     "judge's"
+     "judge's",
+     "facade"
     ],
     "indie": []
    },
@@ -491,267 +771,71 @@
    ]
   },
   {
-   "id": "47b37decde",
-   "topic": "World",
-   "summary": "Spain and Morocco have boosted security around Spain\u2019s African enclave Ceuta following calls for another Moroccan migrant border rush, two weeks after a migrant invasion left at least 96 people dead. Soldiers have been watching commercial and government buildings in Ceuta while police are patrolling main streets, according to Reuters. Along the Moroccan border, security guards were seen on the beaches of Fnideq, one of the primary locations from which migrants illegally rushed Ceuta, Fox News reported . Morocco has arrested multiple people who circulated calls on social media for another migrant invasion into both Ceuta and Melilla, another Spanish African enclave. \u201cThe Ministry of the Interior has detected, during the last few days, the circulation of anonymous publications and messages on certain social networks inciting the organization of attempts at collective and illegal crossing\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 3,
-    "big": [
-     "invasion",
-     "along"
-    ],
-    "indie": [
-     "media",
-     "social",
-     "mass",
-     "crossing",
-     "attempted",
-     "enter"
-    ]
-   },
+   "id": "d16fa363c0",
+   "topic": "Politics",
+   "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions\u2026",
+   "summaryFrom": "reason",
+   "emphasis": null,
    "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Morocco tightens security as migrants gather near Ceuta border",
-   "updated": "2026-08-16T09:17:50+00:00",
-   "outletCount": 6,
-   "counts": {
-    "pub": 3,
-    "family": 2,
-    "corp": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 2,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "Morocco tightens security as migrants gather near Ceuta border",
-     "url": "https://www.france24.com/en/morocco-tightens-security-as-migrants-gather-near-ceuta-border",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T09:17:50+00:00",
-     "summary": "Morocco has deployed heavy security around the border city of Fnideq after false social media rumours claimed the border to Spain's Ceuta enclave would open. Hundreds of migrants, mostly from sub-Saharan Africa, have gathered nearby, raising fears of another mass crossing just weeks after tens of thousands attempted to enter the Spanish territory."
-    },
-    {
-     "outlet": "dw",
-     "title": "Morocco detains dozens of migrants trying to enter Spanish North African exclave Ceuta",
-     "url": "https://www.dw.com/en/morocco-detains-dozens-of-migrants-trying-to-enter-spanish-north-african-exclave-ceuta/a-78385761?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T23:26:00+00:00",
-     "summary": "The attempted crossings come two weeks after around 72,000 people rushed into the Spanish North African exclave from Morocco. Calls for another mass crossing had been circulating on social media this week."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-     "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T20:58:31+00:00",
-     "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Pics: Thousands of Illegal Migrants Set Up Makeshift Garbage Huts on Beach of Spanish Ceuta, Weeks After Invasion",
-     "url": "https://www.breitbart.com/europe/2026/08/15/pics-thousands-of-illegal-migrants-set-up-garbage-huts-on-ceuta-beach-sparking-warnings-of-disease-outbreak/",
-     "author": "Kurt Zindulka",
-     "kind": "news",
-     "published": "2026-08-15T19:47:05+00:00",
-     "summary": "More than two weeks after tens of thousands of illegal migrants stormed the border of the Spanish exclave of Ceuta, thousands of migrants remain in the city, resulting in the area's once pristine beach being converted into a full-on encampment with dozens of makeshift huts being constructed out of garbage, and prompting warnings of potential disease outbreaks due to the unsanitary conditions. The post Pics: Thousands of Illegal Migrants Set Up Makeshift Garbage Huts on Beach of Spanish Ceuta, Weeks After Invasion appeared first on Breitbart ."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Justice Department expands military's power to detain migrants near border",
-     "url": "https://www.cbsnews.com/news/justice-department-opinion-military-migrants-trespassing/",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-15T15:14:09+00:00",
-     "summary": "The Justice Department issued a legal opinion giving the U.S. military broader powers to detain migrants near certain areas along the southern border."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Calls For Another Migrant Border Invasion Force Spain And Morocco To Take Action",
-     "url": "https://www.dailywire.com/news/calls-for-another-migrant-border-invasion-force-spain-and-morocco-to-take-action",
-     "author": "Catherine Maxwell",
-     "kind": "opinion",
-     "published": "2026-08-15T13:55:25+00:00",
-     "summary": "Spain and Morocco have boosted security around Spain\u2019s African enclave Ceuta following calls for another Moroccan migrant border rush, two weeks after a migrant invasion left at least 96 people dead. Soldiers have been watching commercial and government buildings in Ceuta while police are patrolling main streets, according to Reuters. Along the Moroccan border, security guards were seen on the beaches of Fnideq, one of the primary locations from which migrants illegally rushed Ceuta, Fox News reported . Morocco has arrested multiple people who circulated calls on social media for another migrant invasion into both Ceuta and Melilla, another Spanish African enclave. \u201cThe Ministry of the Interior has detected, during the last few days, the circulation of anonymous publications and messages on certain social networks inciting the organization of attempts at collective and illegal crossing to the cities of Ceuta and Melilla, practices which carry serious risks to the safety of people and aim to instrumentalize migration issues in acts of incitement, which are criminalized by law,\u201d the Moroccan Ministry of the Interior said in a statement, according to Fox News. Meanwhile, Spain is stil"
-    }
-   ]
-  },
-  {
-   "id": "fc3549f0e2",
-   "topic": "Justice & Policing",
-   "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense, arguing that the weapons and murder counts against him should not move forward. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges.\u2026",
-   "summaryFrom": "axios",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 2,
-    "big": [
-     "court",
-     "friday",
-     "plea"
-    ],
-    "indie": [
-     "year-old",
-     "death",
-     "pleading"
-    ]
-   },
-   "absent": [
+    "corp",
+    "family",
     "coop"
    ],
-   "headline": "Luigi Mangione reveals motive for CEO's killing after pleading guilty in federal case",
-   "updated": "2026-08-15T15:31:17+00:00",
-   "outletCount": 6,
-   "counts": {
-    "corp": 2,
-    "nonprofit": 1,
-    "family": 2,
-    "pub": 1
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Luigi Mangione pleads guilty in federal case, admits to shooting Brian Thompson",
-     "url": "https://www.cbsnews.com/news/luigi-mangione-says-he-will-plead-guilty-in-federal-case/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T15:31:17+00:00",
-     "summary": "Luigi Mangione entered a guilty plea in his federal case at a court appearance in Manhattan Friday morning."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Luigi Mangione reveals motive for CEO's killing after pleading guilty in federal case",
-     "url": "https://www.pbs.org/newshour/show/luigi-mangione-reveals-motive-for-ceos-killing-after-pleading-guilty-in-federal-case",
-     "author": "Andrew Merlis",
-     "kind": "news",
-     "published": "2026-08-14T22:57:22+00:00",
-     "summary": "In a surprise turn, Luigi Mangione pleaded guilty to the shooting death of UnitedHealthcare CEO Brian Thompson. Mangione admitted he stalked and shot Thompson in 2024 outside a Hilton hotel in Manhattan. He potentially faces life in prison. The 28-year-old is also still facing state murder charges for Thompson's death in New York. Justice correspondent Ali Rogin reports."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Mangione admits to shooting insurance CEO, pleads guilty to federal charges",
-     "url": "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/",
-     "author": "Tim Craig, Joanna Slater, Jeremy Roebuck",
-     "kind": "news",
-     "published": "2026-08-14T20:53:00+00:00",
-     "summary": "Mangione read a statement in court in which he described targeting UnitedHealthcare CEO Brian Thompson outside an investor conference in late 2024."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-     "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T19:20:43+00:00",
-     "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death."
-    },
-    {
-     "outlet": "axios",
-     "title": "Luigi Mangione pleads guilty to stalking UnitedHealthcare CEO, admits killing him",
-     "url": "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case",
-     "author": "Avery Lotz",
-     "kind": "news",
-     "published": "2026-08-14T19:15:57+00:00",
-     "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense, arguing that the weapons and murder counts against him should not move forward. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges. \"Today's guilty plea marks an important step toward justice for Brian and for our family,\" Thompson's family said in a statement, noting they \"remain mindful that additional proceedings in New York and Pennsylvania are still to come, and we will continue to seek the justice Brian deserves.\" While Man"
-    },
-    {
-     "outlet": "time",
-     "title": "Luigi Mangione Pleads Guilty to Federal Charges in UnitedHealthcare CEO's Fatal Shooting",
-     "url": "https://time.com/article/2026/08/14/luigi-mangione-guilty-plea-federal-case-unitedhealthcare-brian-thompson/",
-     "author": "Chantelle Lee",
-     "kind": "news",
-     "published": "2026-08-14T15:41:30+00:00",
-     "summary": "Luigi Mangione on Friday pleaded guilty to both federal stalking charges against him in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson, admitting in court that he shot the healthcare executive in 2024. Luigi Mangione on Friday pleaded guilty to both federal stalking charges against him in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson, admitting in court that he shot the healthcare executive in 2024. Mangione pleaded guilty to two charges that each carry a possible life sentence: interstate stalking resulting in death and stalking through use of interstate facilities resulting in death. The judge accepted his plea. \u201cI shot Mr. Thompson in Manhattan,\u201d Mangione told the judge on Friday, according to the New York Times. \u201cI understood that my actions would place him in fear of death or bodily injury. I knew what I was doing was illegal.\u201d He said during the hearing that he tracked down Thompson \u201cafter years of enduring severe pain from a broken back, navigating the obstacles of the health insurance system and witnessing similar experiences of countless others,\u201d The Associated Press reported. He said he had 3-D printed a gun and attac"
-    }
-   ]
-  },
-  {
-   "id": "aee836d795",
-   "topic": "Other",
-   "summary": "Four works were taken during public holiday, the day after Italian police recovered paintings by C\u00e9zanne, Renoir and Matisse Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina. Thieves gained access to the regional museum of Messina , or MuMe, on Saturday evening, possibly capitalising on attention being focused on La Vara, a huge religious festival that takes place in the city on 15 August, when Italy marks the ferragosto national holiday. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 3,
-    "big": [],
-    "indie": [
-     "italian",
-     "taken",
-     "zanne",
-     "police",
-     "matisse",
-     "recovered"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-   "updated": "2026-08-16T13:34:38+00:00",
+   "headline": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
+   "updated": "2026-08-16T13:17:57+00:00",
    "outletCount": 5,
    "counts": {
     "pub": 2,
-    "corp": 1,
-    "nonprofit": 1,
-    "family": 1
+    "nonprofit": 3
    },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
+   "newsCount": 4,
+   "opinionCount": 1,
+   "underreported": true,
    "articles": [
     {
-     "outlet": "bbc",
-     "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-     "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+     "outlet": "aljazeera",
+     "title": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
+     "url": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T13:34:38+00:00",
-     "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "4 Renaissance paintings stolen from museum in Italy",
-     "url": "https://www.cbsnews.com/news/renaissance-paintings-stolen-museum-italy/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T12:06:28+00:00",
-     "summary": "Local officials have expressed their dismay and sadness at the theft which occurred during celebrations of the Virgin Mary."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Rare Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
-     "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
-     "author": "Lorenzo Tondo in Palermo",
-     "kind": "news",
-     "published": "2026-08-16T11:42:52+00:00",
-     "summary": "Four works were taken during public holiday, the day after Italian police recovered paintings by C\u00e9zanne, Renoir and Matisse Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina. Thieves gained access to the regional museum of Messina , or MuMe, on Saturday evening, possibly capitalising on attention being focused on La Vara, a huge religious festival that takes place in the city on 15 August, when Italy marks the ferragosto national holiday. Continue reading..."
-    },
-    {
-     "outlet": "nypost",
-     "title": "Four Antonello da Messina works stolen in Renaissance painter\u2019s hometown",
-     "url": "https://nypost.com/2026/08/16/world-news/antonello-da-messina-paintings-stolen-from-italian-city-museo-regionale-di-messina/",
-     "author": "Reuters",
-     "kind": "news",
-     "published": "2026-08-16T10:51:59+00:00",
-     "summary": "The thieves entered the museum on the night of August 15, a national holiday in Italy and the peak of the summer season, media said."
+     "published": "2026-08-16T13:17:57+00:00",
+     "summary": "Israeli settlers encircle Palestinian homes and cut off supplies, leading to a declaration of a military zone."
     },
     {
      "outlet": "france24",
-     "title": "Italy recovers millions of euros worth of stolen Renoir, C\u00e9zanne and Matisse paintings",
-     "url": "https://www.france24.com/en/video/20260816-italy-recovers-millions-of-euros-worth-of-stolen-renoir-c%C3%A9zanne-and-matisse-paintings",
-     "author": "FRANCE24",
+     "title": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
+     "url": "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
+     "author": "FRANCE 24",
      "kind": "news",
-     "published": "2026-08-16T08:56:50+00:00",
-     "summary": "Italian authorities have recovered three paintings by Renoir, C\u00e9zanne and Matisse, worth more than \u20ac9 million, months after they were stolen from a private museum near Parma. Five Moldovan suspects have been detained, with police saying the gang had carefully planned the heist and was equipped to disable the museum's security systems."
+     "published": "2026-08-16T12:02:18+00:00",
+     "summary": "A solar eclipse seen across parts of Europe, ongoing search-and-rescue efforts in Colombia after a devastating earthquake killed at least 300 people and left hundreds missing, and escalating violence by Israeli settlers in the occupied West Bank, condemned by the US ambassador to Israel as \"acts of terror\": FRANCE 24 takes a look at the week's most striking images."
+    },
+    {
+     "outlet": "reason",
+     "title": "Israeli Settler \"Terrorists\" Unjustly Expel West Bank Palestinians From Their Land",
+     "url": "https://reason.com/volokh/2026/08/15/israeli-settler-terrorists-unjustly-expel-west-bank-palestinians-from-their-land/",
+     "author": "Ilya Somin",
+     "kind": "opinion",
+     "published": "2026-08-15T22:17:52+00:00",
+     "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions are deeply unjust, amounting to ethnic cleansing and gross violations of private property rights. They also highlight broader dangers of ethno-nationalist claims to exclusive control over land. The Times of Israel (a center-right Israeli publication) has a helpful overview of the recent settler violenc"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Palestinians besieged in West Bank village of Qusra fear Israeli settlers will seize their homes",
+     "url": "https://www.pbs.org/newshour/world/palestinians-besieged-in-west-bank-village-of-qusra-fear-israeli-settlers-will-seize-their-homes",
+     "author": "Aref Tufaha, Associated Press",
+     "kind": "news",
+     "published": "2026-08-14T21:43:06+00:00",
+     "summary": "The standoff in Qusra between Palestinian families and Israeli settlers who apparently want to push them out entered a new stage Friday as activists supporting the Palestinians marched toward the besieged homes to replenish their dwindling food and water supply."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
+     "url": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
+     "author": "Emma Graham-Harrison in Jerusalem",
+     "kind": "news",
+     "published": "2026-08-13T18:54:09+00:00",
+     "summary": "Former PM of Israel calls events \u2018concerted and meticulous attempt at ethnic cleansing\u2019 against Palestinians Israeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top Israeli commander personally promised he would end a violent settler campaign to drive them out. Israeli soldiers also took over eight other homes in Qusra early on Thursday, telling the village\u2019s mayor, Abdul Azim Wadi, that the buildings were needed for a days-long operation to remove the settlers. They later relinquished six. Settlers still roam the village. Continue reading..."
     }
    ]
   },
@@ -894,191 +978,204 @@
    ]
   },
   {
-   "id": "2dd6812758",
-   "topic": "Politics",
-   "summary": "AUSTIN, Texas \u2014 Democrats teed up South Carolina to lead a six-state gantlet of early presidential contests, sealing a 2028 road map that pushes Black and Latino voters and labor to the front of the line for choosing the party\u2019s next national leader.",
-   "summaryFrom": "nbcnews",
-   "emphasis": null,
+   "id": "fc3549f0e2",
+   "topic": "Justice & Policing",
+   "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense, arguing that the weapons and murder counts against him should not move forward. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges.\u2026",
+   "summaryFrom": "axios",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 2,
+    "big": [
+     "court",
+     "friday"
+    ],
+    "indie": [
+     "pleading",
+     "death",
+     "manhattan",
+     "year-old"
+    ]
+   },
    "absent": [
-    "coop",
-    "pub"
+    "coop"
    ],
-   "headline": "Politics chat: Democrats take lessons from the primaries, set 2028 calendar",
-   "updated": "2026-08-16T11:46:22+00:00",
+   "headline": "Luigi Mangione reveals motive for CEO's killing after pleading guilty in federal case",
+   "updated": "2026-08-14T22:57:22+00:00",
    "outletCount": 5,
    "counts": {
     "nonprofit": 1,
     "family": 2,
-    "corp": 2
+    "pub": 1,
+    "corp": 1
    },
    "newsCount": 5,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "npr",
-     "title": "Politics chat: Democrats take lessons from the primaries, set 2028 calendar",
-     "url": "https://www.npr.org/2026/08/16/nx-s1-5929152/politics-chat-democrats-take-lessons-from-the-primaries-set-2028-calendar",
-     "author": "Danielle Kurtzleben",
+     "outlet": "pbsnewshour",
+     "title": "Luigi Mangione reveals motive for CEO's killing after pleading guilty in federal case",
+     "url": "https://www.pbs.org/newshour/show/luigi-mangione-reveals-motive-for-ceos-killing-after-pleading-guilty-in-federal-case",
+     "author": "Andrew Merlis",
      "kind": "news",
-     "published": "2026-08-16T11:46:22+00:00",
-     "summary": "We look at how the Democrats are gearing up for the 2028 presidential primaries, as well as their takeaways from the current batch of primary races."
+     "published": "2026-08-14T22:57:22+00:00",
+     "summary": "In a surprise turn, Luigi Mangione pleaded guilty to the shooting death of UnitedHealthcare CEO Brian Thompson. Mangione admitted he stalked and shot Thompson in 2024 outside a Hilton hotel in Manhattan. He potentially faces life in prison. The 28-year-old is also still facing state murder charges for Thompson's death in New York. Justice correspondent Ali Rogin reports."
     },
     {
      "outlet": "wapo",
-     "title": "Democrats approve 2028 primary calendar that puts South Carolina first",
-     "url": "https://www.washingtonpost.com/politics/2026/08/15/democrats-approve-2028-primary-calendar-that-puts-south-carolina-first/",
-     "author": "Sammy Westfall",
+     "title": "Mangione admits to shooting insurance CEO, pleads guilty to federal charges",
+     "url": "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/",
+     "author": "Tim Craig, Joanna Slater, Jeremy Roebuck",
      "kind": "news",
-     "published": "2026-08-15T19:39:15+00:00",
-     "summary": "South Carolina would hold its primary on Jan. 22, 2028 under the Democratic National Committee\u2019s plan. Nevada would follow on Feb. 1. The plan aims to give a bigger voice to Black and Latino voters."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
-     "url": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
-     "author": "Shane Goldmacher",
-     "kind": "news",
-     "published": "2026-08-15T18:27:45+00:00",
-     "summary": "The party\u2019s membership finalized the new order for the first six states to winnow the candidate field, pushing back Iowa and New Hampshire."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Democrats set their 2028 primary calendar, with South Carolina going first",
-     "url": "https://www.nbcnews.com/politics/2028-election/democrats-officially-set-2028-primary-calendar-south-carolina-going-fi-rcna592519",
-     "author": "Natasha Korecki",
-     "kind": "news",
-     "published": "2026-08-15T18:25:31+00:00",
-     "summary": "AUSTIN, Texas \u2014 Democrats teed up South Carolina to lead a six-state gantlet of early presidential contests, sealing a 2028 road map that pushes Black and Latino voters and labor to the front of the line for choosing the party\u2019s next national leader."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "DNC to finalize controversial 2028 primary calendar, elevating South Carolina",
-     "url": "https://abcnews.com/Politics/dnc-set-finalize-controversial-2028-primary-calendar-elevating/story?id=135616869",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T09:41:06+00:00",
-     "summary": "The DNC is expected to vote on Saturday to approve the new order of states for the 2028 presidential nominating process, amidst controversy over some of those decisions."
-    }
-   ]
-  },
-  {
-   "id": "e4e85911fd",
-   "topic": "Climate & Energy",
-   "summary": "Hawaii has narrowly avoided a historic direct hit from Hurricane Lala, but torrential rain and hurricane-force winds are still causing widespread flooding, mudslides and power outages across the islands. Authorities are urging residents to shelter in place as the storm moves west and dangerous conditions persist.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
-   "updated": "2026-08-16T13:00:24+00:00",
-   "outletCount": 4,
-   "counts": {
-    "corp": 1,
-    "pub": 3
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "Hurricane Lala Tracker as Storm Sparks Power Outage in Hawaii",
-     "url": "https://www.newsweek.com/hurricane-lala-tracker-as-storm-sparks-power-outage-in-hawaii-12328659",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T13:00:24+00:00",
-     "summary": "Hurricane Lala leaves 88,000+ without power in Hawaii as flooding, damaging winds and outages disrupt islands."
+     "published": "2026-08-14T20:53:00+00:00",
+     "summary": "Mangione read a statement in court in which he described targeting UnitedHealthcare CEO Brian Thompson outside an investor conference in late 2024."
     },
     {
      "outlet": "bbc",
-     "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
-     "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+     "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+     "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T12:53:43+00:00",
-     "summary": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas."
+     "published": "2026-08-14T19:20:43+00:00",
+     "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death."
     },
     {
-     "outlet": "france24",
-     "title": "US : Hawaii narrowly avoids direct hit as Hurricane Lala brings strong weather",
-     "url": "https://www.france24.com/en/us-hawaii-narrowly-avoids-direct-hit-as-hurricane-lala-brings-severe-weather",
-     "author": "FRANCE24",
+     "outlet": "axios",
+     "title": "Luigi Mangione pleads guilty to stalking UnitedHealthcare CEO, admits killing him",
+     "url": "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case",
+     "author": "Avery Lotz",
      "kind": "news",
-     "published": "2026-08-16T08:53:56+00:00",
-     "summary": "Hawaii has narrowly avoided a historic direct hit from Hurricane Lala, but torrential rain and hurricane-force winds are still causing widespread flooding, mudslides and power outages across the islands. Authorities are urging residents to shelter in place as the storm moves west and dangerous conditions persist."
+     "published": "2026-08-14T19:15:57+00:00",
+     "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense, arguing that the weapons and murder counts against him should not move forward. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges. \"Today's guilty plea marks an important step toward justice for Brian and for our family,\" Thompson's family said in a statement, noting they \"remain mindful that additional proceedings in New York and Pennsylvania are still to come, and we will continue to seek the justice Brian deserves.\" While Man"
     },
     {
-     "outlet": "dw",
-     "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
-     "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-rdf",
-     "author": null,
+     "outlet": "time",
+     "title": "Luigi Mangione Pleads Guilty to Federal Charges in UnitedHealthcare CEO's Fatal Shooting",
+     "url": "https://time.com/article/2026/08/14/luigi-mangione-guilty-plea-federal-case-unitedhealthcare-brian-thompson/",
+     "author": "Chantelle Lee",
      "kind": "news",
-     "published": "2026-08-16T05:57:00+00:00",
-     "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is gradually weakening. However, the hurricane caused roads to flood and turned rivers into raging torrents."
+     "published": "2026-08-14T15:41:30+00:00",
+     "summary": "Luigi Mangione on Friday pleaded guilty to both federal stalking charges against him in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson, admitting in court that he shot the healthcare executive in 2024. Luigi Mangione on Friday pleaded guilty to both federal stalking charges against him in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson, admitting in court that he shot the healthcare executive in 2024. Mangione pleaded guilty to two charges that each carry a possible life sentence: interstate stalking resulting in death and stalking through use of interstate facilities resulting in death. The judge accepted his plea. \u201cI shot Mr. Thompson in Manhattan,\u201d Mangione told the judge on Friday, according to the New York Times. \u201cI understood that my actions would place him in fear of death or bodily injury. I knew what I was doing was illegal.\u201d He said during the hearing that he tracked down Thompson \u201cafter years of enduring severe pain from a broken back, navigating the obstacles of the health insurance system and witnessing similar experiences of countless others,\u201d The Associated Press reported. He said he had 3-D printed a gun and attac"
     }
    ]
   },
   {
-   "id": "148790edfe",
-   "topic": "Politics",
-   "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions\u2026",
-   "summaryFrom": "reason",
+   "id": "8c91f091b7",
+   "topic": "Health",
+   "summary": "Jason Arday, the Cambridge professor who resigned nine days ago over plagiarism allegations, was found dead in his London home. Authorities said in a statement that an ambulance was called to his residence after Arday had been found &#8220;unresponsive.&#8221; He was pronounced dead at the scene. Police added that the death was being treated as \u201cunexpected\u201d but is not believed to be suspicious, according to The Telegraph. Just nine days ago, Cambridge launched an investigation into Arday. \u201cThe University of Cambridge has begun an investigation following new information about Professor Arday\u2019s academic qualifications and honorary appointments,\u201d the statement from the university said. \u201cIn order to ensure a fair process, we will not comment further until this has concluded.&#8221; Cambridge was not initially keen on opening an investigation. Cambridge said Arday was \u201cthe victim of a vile\u2026",
+   "summaryFrom": "dailywire",
    "emphasis": null,
    "absent": [
     "corp",
-    "family",
     "coop"
    ],
-   "headline": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
-   "updated": "2026-08-16T12:02:18+00:00",
+   "headline": "Cambridge University defends its mental health support for Jason Arday",
+   "updated": "2026-08-16T14:09:13+00:00",
    "outletCount": 4,
    "counts": {
+    "nonprofit": 2,
     "pub": 1,
-    "nonprofit": 3
+    "family": 1
    },
    "newsCount": 3,
    "opinionCount": 1,
    "underreported": true,
    "articles": [
     {
-     "outlet": "france24",
-     "title": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
-     "url": "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
-     "author": "FRANCE 24",
+     "outlet": "guardian",
+     "title": "Cambridge University defends its mental health support for Jason Arday",
+     "url": "https://www.theguardian.com/uk-news/2026/aug/16/cambridge-university-jason-arday-mental-health-support",
+     "author": "Rachel Hall",
      "kind": "news",
-     "published": "2026-08-16T12:02:18+00:00",
-     "summary": "A solar eclipse seen across parts of Europe, ongoing search-and-rescue efforts in Colombia after a devastating earthquake killed at least 300 people and left hundreds missing, and escalating violence by Israeli settlers in the occupied West Bank, condemned by the US ambassador to Israel as \"acts of terror\": FRANCE 24 takes a look at the week's most striking images."
-    },
-    {
-     "outlet": "reason",
-     "title": "Israeli Settler \"Terrorists\" Unjustly Expel West Bank Palestinians From Their Land",
-     "url": "https://reason.com/volokh/2026/08/15/israeli-settler-terrorists-unjustly-expel-west-bank-palestinians-from-their-land/",
-     "author": "Ilya Somin",
-     "kind": "opinion",
-     "published": "2026-08-15T22:17:52+00:00",
-     "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions are deeply unjust, amounting to ethnic cleansing and gross violations of private property rights. They also highlight broader dangers of ethno-nationalist claims to exclusive control over land. The Times of Israel (a center-right Israeli publication) has a helpful overview of the recent settler violenc"
+     "published": "2026-08-16T14:09:13+00:00",
+     "summary": "University says it continued to provide support after resignation of academic, who was found dead this week The University of Cambridge has defended its mental health support for the academic Jason Arday. The university said it had continued to provide Arday with extensive mental health support and security measures, including installing panic alarms and screening racist emails and post, after he resigned from his post as professor of sociology of education this month. Continue reading..."
     },
     {
      "outlet": "pbsnewshour",
-     "title": "Palestinians besieged in West Bank village of Qusra fear Israeli settlers will seize their homes",
-     "url": "https://www.pbs.org/newshour/world/palestinians-besieged-in-west-bank-village-of-qusra-fear-israeli-settlers-will-seize-their-homes",
-     "author": "Aref Tufaha, Associated Press",
+     "title": "Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation",
+     "url": "https://www.pbs.org/newshour/world/jason-arday-youngest-black-professor-at-cambridge-found-dead-at-41-after-resignation",
+     "author": "Sylvia Hui, Associated Press",
      "kind": "news",
-     "published": "2026-08-14T21:43:06+00:00",
-     "summary": "The standoff in Qusra between Palestinian families and Israeli settlers who apparently want to push them out entered a new stage Friday as activists supporting the Palestinians marched toward the besieged homes to replenish their dwindling food and water supply."
+     "published": "2026-08-14T23:25:02+00:00",
+     "summary": "A British sociologist who resigned last week from the University of Cambridge following weeks of public accusations of plagiarism and media scrutiny was found dead Friday."
     },
     {
-     "outlet": "guardian",
-     "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
-     "url": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
-     "author": "Emma Graham-Harrison in Jerusalem",
+     "outlet": "dw",
+     "title": "Jason Arday: Ex-Cambridge professor at centre of plagiarism scandal found dead",
+     "url": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-all-1573-rdf",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-13T18:54:09+00:00",
-     "summary": "Former PM of Israel calls events \u2018concerted and meticulous attempt at ethnic cleansing\u2019 against Palestinians Israeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top Israeli commander personally promised he would end a violent settler campaign to drive them out. Israeli soldiers also took over eight other homes in Qusra early on Thursday, telling the village\u2019s mayor, Abdul Azim Wadi, that the buildings were needed for a days-long operation to remove the settlers. They later relinquished six. Settlers still roam the village. Continue reading..."
+     "published": "2026-08-14T20:03:00+00:00",
+     "summary": "Jason Arday, the youngest ever Black professor at Cambridge, was found unresponsive at an address in London. Arday had recently resigned in the midst of a plagiarism row."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Professor Recently Outed For Fraudulent Biography Found Dead",
+     "url": "https://www.dailywire.com/news/professor-recently-outed-for-fraudulent-biography-found-dead",
+     "author": "Brecca Stoll",
+     "kind": "opinion",
+     "published": "2026-08-14T16:57:09+00:00",
+     "summary": "Jason Arday, the Cambridge professor who resigned nine days ago over plagiarism allegations, was found dead in his London home. Authorities said in a statement that an ambulance was called to his residence after Arday had been found &#8220;unresponsive.&#8221; He was pronounced dead at the scene. Police added that the death was being treated as \u201cunexpected\u201d but is not believed to be suspicious, according to The Telegraph. Just nine days ago, Cambridge launched an investigation into Arday. \u201cThe University of Cambridge has begun an investigation following new information about Professor Arday\u2019s academic qualifications and honorary appointments,\u201d the statement from the university said. \u201cIn order to ensure a fair process, we will not comment further until this has concluded.&#8221; Cambridge was not initially keen on opening an investigation. Cambridge said Arday was \u201cthe victim of a vile campaign to undermine his credibility, which must stop.\u201d The school began to change its tune when reports emerged that Arday had filed a harassment claim against a journalist who was investigating his work. The day that Cambridge announced its investigation, Arday resigned. \u201cI no longer wish to feel a"
+    }
+   ]
+  },
+  {
+   "id": "17791ac8bd",
+   "topic": "Other",
+   "summary": "Four works were taken during public holiday, the day after Italian police recovered paintings by C\u00e9zanne, Renoir and Matisse Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina. Thieves gained access to the Regional Museum of Messina , or MuMe, on Saturday evening, possibly capitalising on attention being focused on La Vara, a huge religious festival that takes place in the city on 15 August, when Italy marks the ferragosto national holiday. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "Rare Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
+   "updated": "2026-08-16T13:44:29+00:00",
+   "outletCount": 4,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 2,
+    "corp": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Rare Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
+     "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
+     "author": "Lorenzo Tondo in Palermo",
+     "kind": "news",
+     "published": "2026-08-16T13:44:29+00:00",
+     "summary": "Four works were taken during public holiday, the day after Italian police recovered paintings by C\u00e9zanne, Renoir and Matisse Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina. Thieves gained access to the Regional Museum of Messina , or MuMe, on Saturday evening, possibly capitalising on attention being focused on La Vara, a huge religious festival that takes place in the city on 15 August, when Italy marks the ferragosto national holiday. Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+     "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T13:34:38+00:00",
+     "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "4 Renaissance paintings stolen from museum in Italy",
+     "url": "https://www.cbsnews.com/news/renaissance-paintings-stolen-museum-italy/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T12:06:28+00:00",
+     "summary": "Local officials have expressed their dismay and sadness at the theft which occurred during celebrations of the Virgin Mary."
+    },
+    {
+     "outlet": "france24",
+     "title": "Italy recovers millions of euros worth of stolen Renoir, C\u00e9zanne and Matisse paintings",
+     "url": "https://www.france24.com/en/video/20260816-italy-recovers-millions-of-euros-worth-of-stolen-renoir-c%C3%A9zanne-and-matisse-paintings",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T08:56:50+00:00",
+     "summary": "Italian authorities have recovered three paintings by Renoir, C\u00e9zanne and Matisse, worth more than \u20ac9 million, months after they were stolen from a private museum near Parma. Five Moldovan suspects have been detained, with police saying the gang had carefully planned the heist and was equipped to disable the museum's security systems."
     }
    ]
   },
@@ -1279,11 +1376,11 @@
     "indieCount": 3,
     "big": [
      "airport",
-     "stations",
      "international",
-     "foot-washing",
      "worth",
-     "scrapped"
+     "stations",
+     "foot-washing",
+     "fort"
     ],
     "indie": [
      "order"
@@ -1430,8 +1527,8 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "trump",
-     "donald"
+     "donald",
+     "trump"
     ],
     "indie": []
    },
@@ -1490,92 +1587,175 @@
    ]
   },
   {
-   "id": "5b97c93064",
+   "id": "d4fc9b1517",
    "topic": "Other",
-   "summary": "Jason Arday, the Cambridge professor who resigned nine days ago over plagiarism allegations, was found dead in his London home. Authorities said in a statement that an ambulance was called to his residence after Arday had been found &#8220;unresponsive.&#8221; He was pronounced dead at the scene. Police added that the death was being treated as \u201cunexpected\u201d but is not believed to be suspicious, according to The Telegraph. Just nine days ago, Cambridge launched an investigation into Arday. \u201cThe University of Cambridge has begun an investigation following new information about Professor Arday\u2019s academic qualifications and honorary appointments,\u201d the statement from the university said. \u201cIn order to ensure a fair process, we will not comment further until this has concluded.&#8221; Cambridge was not initially keen on opening an investigation. Cambridge said Arday was \u201cthe victim of a vile\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [
-     "called",
-     "pronounced",
-     "statement",
-     "police"
-    ],
-    "indie": []
-   },
+   "summary": "One person was killed and four victims were injured in a mass shooting at an outdoor concert in Kentucky on Saturday. The shooting took place in Lexington and was barely a mile away from an event where Kentucky Gov. Andy Beshear was holding a Kentucky Democratic Party dinner. Authorities say two of the victims injured were children ages 14 and 4, while the other two injured were adults. All four were taken to a nearby hospital with non-life-threatening injuries. \"Before I continue, I do need to let y\u2019all know we do have some tough news tonight,\" Beshear said at his event after hearing of the shooting. GUNFIRE ERUPTS NEAR SEATTLE MAYOR\u2019S EVENT AS FAMILIES, CHILDREN GATHER \"About a mile and a half from here, we\u2019ve had a shooting actually since we started this dinner,\" he continued. \"We have five people that I think received injuries and probably have one deceased,\" he added before\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
    "absent": [
-    "coop"
+    "coop",
+    "nonprofit"
    ],
-   "headline": "Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation",
-   "updated": "2026-08-15T01:56:24+00:00",
-   "outletCount": 4,
+   "headline": "Live video captures panic as gunman opens fire at park in Kentucky",
+   "updated": "2026-08-16T14:31:58+00:00",
+   "outletCount": 3,
    "counts": {
+    "family": 1,
     "corp": 1,
-    "nonprofit": 1,
-    "pub": 1,
-    "family": 1
+    "pub": 1
    },
    "newsCount": 3,
-   "opinionCount": 1,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "dailybeast",
-     "title": "Youngest Black Professor\u2019s Plagiarism Scandal Takes Tragic Twist",
-     "url": "https://www.thedailybeast.com/youngest-black-professor-jason-ardays-plagiarism-scandal-takes-tragic-twist/",
-     "author": "William Vaillancourt",
-     "kind": "news",
-     "published": "2026-08-15T01:56:24+00:00",
-     "summary": "University of Cambridge A University of Cambridge professor who resigned last week amid plagiarism accusations has reportedly been found dead. Jason Arday, who taught sociology of education, was pronounced dead at an address in Battersea, south London, on Friday afternoon, according to The Telegraph . A Metropolitan Police spokesperson told the outlet in a statement that officers were called by the London Ambulance Service shortly after 3 p.m. Read more at The Daily Beast."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation",
-     "url": "https://www.pbs.org/newshour/world/jason-arday-youngest-black-professor-at-cambridge-found-dead-at-41-after-resignation",
-     "author": "Sylvia Hui, Associated Press",
-     "kind": "news",
-     "published": "2026-08-14T23:25:02+00:00",
-     "summary": "A British sociologist who resigned last week from the University of Cambridge following weeks of public accusations of plagiarism and media scrutiny was found dead Friday."
-    },
-    {
-     "outlet": "dw",
-     "title": "Jason Arday: Ex-Cambridge professor at centre of plagiarism scandal found dead",
-     "url": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-all-1573-rdf",
+     "outlet": "foxnews",
+     "title": "Lexington, Kentucky park shooting kills 1, injures 4 during live band performance",
+     "url": "https://www.foxnews.com/us/lexington-kentucky-park-shooting-kills-injures-live-band-performance",
      "author": null,
      "kind": "news",
-     "published": "2026-08-14T20:03:00+00:00",
-     "summary": "Jason Arday, the youngest ever Black professor at Cambridge, was found unresponsive at an address in London. Arday had recently resigned in the midst of a plagiarism row."
+     "published": "2026-08-16T14:31:58+00:00",
+     "summary": "One person was killed and four victims were injured in a mass shooting at an outdoor concert in Kentucky on Saturday. The shooting took place in Lexington and was barely a mile away from an event where Kentucky Gov. Andy Beshear was holding a Kentucky Democratic Party dinner. Authorities say two of the victims injured were children ages 14 and 4, while the other two injured were adults. All four were taken to a nearby hospital with non-life-threatening injuries. \"Before I continue, I do need to let y\u2019all know we do have some tough news tonight,\" Beshear said at his event after hearing of the shooting. GUNFIRE ERUPTS NEAR SEATTLE MAYOR\u2019S EVENT AS FAMILIES, CHILDREN GATHER \"About a mile and a half from here, we\u2019ve had a shooting actually since we started this dinner,\" he continued. \"We have five people that I think received injuries and probably have one deceased,\" he added before assuring diners that the situation had been resolved. \"To stop mass shootings, we have got to elect Democrats that will actually do something about it,\" Beshear said. Authorities say the shooting took place at around 6:45 p.m. in Charles Young Park. They did not offer any details about the victims, the dece"
     },
     {
-     "outlet": "dailywire",
-     "title": "Professor Recently Outed For Fraudulent Biography Found Dead",
-     "url": "https://www.dailywire.com/news/professor-recently-outed-for-fraudulent-biography-found-dead",
-     "author": "Brecca Stoll",
-     "kind": "opinion",
-     "published": "2026-08-14T16:57:09+00:00",
-     "summary": "Jason Arday, the Cambridge professor who resigned nine days ago over plagiarism allegations, was found dead in his London home. Authorities said in a statement that an ambulance was called to his residence after Arday had been found &#8220;unresponsive.&#8221; He was pronounced dead at the scene. Police added that the death was being treated as \u201cunexpected\u201d but is not believed to be suspicious, according to The Telegraph. Just nine days ago, Cambridge launched an investigation into Arday. \u201cThe University of Cambridge has begun an investigation following new information about Professor Arday\u2019s academic qualifications and honorary appointments,\u201d the statement from the university said. \u201cIn order to ensure a fair process, we will not comment further until this has concluded.&#8221; Cambridge was not initially keen on opening an investigation. Cambridge said Arday was \u201cthe victim of a vile campaign to undermine his credibility, which must stop.\u201d The school began to change its tune when reports emerged that Arday had filed a harassment claim against a journalist who was investigating his work. The day that Cambridge announced its investigation, Arday resigned. \u201cI no longer wish to feel a"
+     "outlet": "nbcnews",
+     "title": "Five shot in Lexington, Kentucky, park, leaving one dead",
+     "url": "https://www.nbcnews.com/news/us-news/five-shot-lexington-ky-park-leaving-one-dead-rcna592770",
+     "author": "Shayna Jacobs",
+     "kind": "news",
+     "published": "2026-08-16T14:17:14+00:00",
+     "summary": "Five people were shot, one fatally, during summer festivities at a downtown Lexington, Kentucky, park on Saturday evening, according to police."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Live video captures panic as gunman opens fire at park in Kentucky",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T09:24:22+00:00",
+     "summary": "Live video captures panic as gunman opens fire at park in Kentucky"
     }
    ]
   },
   {
-   "id": "fd481c993c",
-   "topic": "Climate & Energy",
-   "summary": "As a hurricane, Lala skirted past Hawaii's Big Island, where it brought heavy rain and the possibility of life-threatening flooding and mudslides.",
-   "summaryFrom": "cbsnews",
+   "id": "c2999d0648",
+   "topic": "Health",
+   "summary": "Tennis star Novak Djokovic alluded to a health condition after an early exit from the Cincinnati Open on Saturday, in which he lost to 25-year-old Thiago Agust\u00edn Tirante in the second round.",
+   "summaryFrom": "nbcnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Cincinnati Open: Djokovic stunned by Tirante in second round",
+   "updated": "2026-08-16T14:30:10+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "family": 1,
+    "pub": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nbcnews",
+     "title": "Novak Djokovic reveals unspecified health issue following ouster at the Cincinnati Open",
+     "url": "https://www.nbcnews.com/sports/tennis/novak-djokovic-reveals-health-issue-ouster-cincinnati-open-rcna592768",
+     "author": "Doha Madani",
+     "kind": "news",
+     "published": "2026-08-16T14:30:10+00:00",
+     "summary": "Tennis star Novak Djokovic alluded to a health condition after an early exit from the Cincinnati Open on Saturday, in which he lost to 25-year-old Thiago Agust\u00edn Tirante in the second round."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Novak Djokovic Reveals He\u2019s Been \u2018Dealing With (A Health Issue) For Many Years Now\u2019",
+     "url": "https://www.forbes.com/sites/adamzagoria/2026/08/16/novak-djokovic-reveals-hes-been-dealing-with-a-health-issue-for-many-years-now/",
+     "author": "Adam Zagoria, Contributor",
+     "kind": "news",
+     "published": "2026-08-16T10:51:11+00:00",
+     "summary": "The 24-time major champion got down on his knees on the court and later appeared to vomit into a towel during his 2-6, 6-4, 6-4 loss to Argentina\u2019s Thiago Agust\u00edn Tirante"
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
+     "url": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T09:03:05+00:00",
+     "summary": "Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Open in his first match since Wimbledon."
+    }
+   ]
+  },
+  {
+   "id": "2c13ceccef",
+   "topic": "Politics",
+   "summary": "When President Donald Trump signed an executive order on childhood vaccines this week, Jayme Franklin stood nearby, repeatedly touching her pregnant belly. Franklin, 28, gave brief remarks at the signing and applauded Trump\u2019s order, which seeks to reduce the number of routine vaccines recommended to children. \u201cThis is what this country was built on: freedom for parents to make the decisions that best suit their kid,\u201d she said at the signing. \u201cAnd I\u2019m not anti-vaccine at all. I\u2019m pro-vaccine, but we want to be able to have the freedom to space it out and to choose which one works for our child. We don&#8217;t believe that there&#8217;s a one-size-fits-all solution for every child.\u201d Franklin is a co-founder of The Conservateur, a media brand for conservative women that includes a lifestyle publication and podcast. She\u2019s also a self-described MAHA mom \u2014 a subset of the electorate who lean\u2026",
+   "summaryFrom": "the19th",
    "emphasis": null,
    "absent": [
     "coop",
     "pub"
    ],
-   "headline": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
-   "updated": "2026-08-16T13:28:10+00:00",
+   "headline": "What Trump\u2019s vaccine order says about his relationship with MAHA moms",
+   "updated": "2026-08-16T14:20:10+00:00",
    "outletCount": 3,
    "counts": {
     "corp": 1,
-    "family": 1,
-    "nonprofit": 1
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "abcnews",
+     "title": "GOP Sen. Bill Cassidy on Trump\u2019s vaccine executive order: \u2018Stupid thing to do\u2019",
+     "url": "https://abcnews.com/Politics/gop-sen-bill-cassidy-trumps-vaccine-executive-order/story?id=135685348",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T14:20:10+00:00",
+     "summary": "Republican Sen. Bill Cassidy said on ABC News' \"This Week\" that Trump's executive order on vaccines was a \"stupid thing to do.\""
+    },
+    {
+     "outlet": "the19th",
+     "title": "What Trump\u2019s vaccine order says about his relationship with MAHA moms",
+     "url": "https://19thnews.org/2026/08/trump-vaccine-order-maha-moms/",
+     "author": "Barbara Rodriguez",
+     "kind": "news",
+     "published": "2026-08-14T18:27:39+00:00",
+     "summary": "When President Donald Trump signed an executive order on childhood vaccines this week, Jayme Franklin stood nearby, repeatedly touching her pregnant belly. Franklin, 28, gave brief remarks at the signing and applauded Trump\u2019s order, which seeks to reduce the number of routine vaccines recommended to children. \u201cThis is what this country was built on: freedom for parents to make the decisions that best suit their kid,\u201d she said at the signing. \u201cAnd I\u2019m not anti-vaccine at all. I\u2019m pro-vaccine, but we want to be able to have the freedom to space it out and to choose which one works for our child. We don&#8217;t believe that there&#8217;s a one-size-fits-all solution for every child.\u201d Franklin is a co-founder of The Conservateur, a media brand for conservative women that includes a lifestyle publication and podcast. She\u2019s also a self-described MAHA mom \u2014 a subset of the electorate who lean into their identities as mothers to advocate for policies that they purport will make children healthier through the Make America Healthy Again movement. Its ranks include several high-ranking women in the White House, like press secretary Karoline Leavitt, who just announced she is leaving her job t"
+    },
+    {
+     "outlet": "theatlantic",
+     "title": "Trump\u2019s Latest Vaccine Order Is Making Things More Confusing",
+     "url": "https://www.theatlantic.com/newsletters/2026/08/us-childhood-vaccine-guidance-mess/688285/?utm_source=feed",
+     "author": "Will Gottsegen",
+     "kind": "news",
+     "published": "2026-08-13T22:49:00+00:00",
+     "summary": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here. In January, the Trump administration attempted to fundamentally change the way the United States handles childhood immunizations. Following a memo from the Department of Health and Human Services, the CDC updated its vaccine schedule to recommend that some shots no longer be given to all children. A federal court undid the effort in March. In an executive order in May, Donald Trump called on states to adopt the narrower schedule anyway. On Monday, Trump issued a new executive order on the same subject, focused on lowering the number of vaccines that the government recommends for all children. As I wrote earlier this week, this White House has a habit of doubling down when it doesn\u2019t get its way. But only states have the power to put these proposals into practice\u2014and many state policy makers, concerned that the White House is contradicting existing research, aren\u2019t keen to follow its guidance. According to the new executive order, preventive shots for hepatitis A, hepatitis B, dengue, and"
+    }
+   ]
+  },
+  {
+   "id": "04bf212d3d",
+   "topic": "World",
+   "summary": "Editor&rsquo;s Note: Washington Week With The Atlantic is a partnership between NewsHour Productions, WETA, and The Atlantic airing every Friday on PBS stations nationwide. Check your local listings , watch full episodes here , or listen to the weekly podcast here . Secretary of Defense Pete Hegseth has said that the U.S. could maintain a blockade of Iran \u201cindefinitely.\u201d On Washington Week With The Atlantic , panelists joined to discuss the political consequences of the continued conflict, and more. The president has made \u201ca total miscalculation\u201d with Iran, Elisabeth Bumiller, a writer at large at The New York Times , argued last night. What has unfolded since the conflict began reflects \u201cthe reason that previous presidents did not do what Donald Trump did, because of the inevitable consequences\u201d of \u201cigniting a regional war in the Middle East and closing the Strait of Hormuz.\u201d Joining\u2026",
+   "summaryFrom": "theatlantic",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Short pants: The long and the short of it",
+   "updated": "2026-08-16T13:57:16+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "family": 2
    },
    "newsCount": 3,
    "opinionCount": 0,
@@ -1583,30 +1763,30 @@
    "articles": [
     {
      "outlet": "cbsnews",
-     "title": "Lala is a tropical storm again after lashing past Hawaii's Big Island",
-     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+     "title": "Short pants: The long and the short of it",
+     "url": "https://www.cbsnews.com/video/short-pants-the-long-and-the-short-of-it/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T13:28:10+00:00",
-     "summary": "As a hurricane, Lala skirted past Hawaii's Big Island, where it brought heavy rain and the possibility of life-threatening flooding and mudslides."
+     "published": "2026-08-16T13:57:16+00:00",
+     "summary": "The summer of 1936 saw a heat wave so dangerous at least five thousand people died. It also saw the popularization of a cooler fashion alternative: shorts. Correspondent Mo Rocca looks at the long history of short pants; how at one time, in Yonkers, N.Y., the wearing of shorts was illegal; and how hot pants and Daisy Dukes became high fashion."
     },
     {
-     "outlet": "latimes",
-     "title": "Flights between L.A. and Hawaii disrupted as Hurricane Lala approaches the Big Island",
-     "url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
-     "author": "Josh Rottenberg",
+     "outlet": "theatlantic",
+     "title": "Iran\u2019s Long Shadow",
+     "url": "https://www.theatlantic.com/national/2026/08/political-consequences-iran-washington-week/688302/?utm_source=feed",
+     "author": "The Editors",
      "kind": "news",
-     "published": "2026-08-16T00:56:14+00:00",
-     "summary": "Several flights from LAX to Hawaii were canceled Saturday, including service to Kona, Maui, Kauai and Honolulu."
+     "published": "2026-08-15T14:25:00+00:00",
+     "summary": "Editor&rsquo;s Note: Washington Week With The Atlantic is a partnership between NewsHour Productions, WETA, and The Atlantic airing every Friday on PBS stations nationwide. Check your local listings , watch full episodes here , or listen to the weekly podcast here . Secretary of Defense Pete Hegseth has said that the U.S. could maintain a blockade of Iran \u201cindefinitely.\u201d On Washington Week With The Atlantic , panelists joined to discuss the political consequences of the continued conflict, and more. The president has made \u201ca total miscalculation\u201d with Iran, Elisabeth Bumiller, a writer at large at The New York Times , argued last night. What has unfolded since the conflict began reflects \u201cthe reason that previous presidents did not do what Donald Trump did, because of the inevitable consequences\u201d of \u201cigniting a regional war in the Middle East and closing the Strait of Hormuz.\u201d Joining the editor in chief of The Atlantic , Jeffrey Goldberg, to discuss this and more: Bumiller; Adam Harris, the host of Radio Atlantic ; Dan Lamothe, a national-security reporter at The Washington Post ; Liz Landers, a White House correspondent at PBS News Hour . Watch the full episode here ."
     },
     {
-     "outlet": "pbsnewshour",
-     "title": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
-     "url": "https://www.pbs.org/newshour/nation/hawaiis-big-island-lashed-by-rain-and-wind-as-tropical-storm-lala-closes-in",
-     "author": "Ed White, Associated Press",
+     "outlet": "semafor",
+     "title": "Leadership changes signal Iran expects a long war",
+     "url": "https://www.semafor.com/article/08/14/2026/amid-leadership-changes-iran-gears-up-for-a-long-war",
+     "author": "Prashant Rao",
      "kind": "news",
-     "published": "2026-08-15T15:17:14+00:00",
-     "summary": "The National Hurricane Center said Lala's maximum sustained winds increased to 75 mph, making it a Category 1 hurricane."
+     "published": "2026-08-14T11:19:19+00:00",
+     "summary": "Iran\u2019s recent reshuffle, as well as its shifting battlefield tactics, suggest it is adapting for a lengthening conflict with the US. Tehran has reordered its leadership in part because of repeated assassinations of its top brass by American and Israeli strikes. But recent moves point to how Iran is \u201c preparing for a prolonged confrontation ,\u201d an expert wrote in Foreign Policy, noting that Iran was centralizing its military apparatus and increasing its focus on offensive operations. The use of a drone swarm against a US fighter jet, meanwhile, pointed to how \u201cIran has sought to learn and implement important lessons about the modern battlefield ,\u201d in particular from the Russia-Ukraine conflict, the Institute for the Study of War said. \u2014 Prashant Rao"
     }
    ]
   },
@@ -2070,6 +2250,57 @@
    ]
   },
   {
+   "id": "ab35692bcd",
+   "topic": "Health",
+   "summary": "Eggs displayed in refrigerated section of a grocery store. \u2014Lindsey Nicholson\u2014Universal Images Group An egg recall linked to a salmonella outbreak was upgraded to the highest possible risk level by the U.S. Food and Drug Administration (FDA) on Wednesday. Nearly 1.6 million dozen eggs were labeled \u201cClass I,\u201d which the agency defines as \u201ca situation in which there is a reasonable probability that the use of or exposure to a violative product will cause serious adverse health consequences or death.\u201d Symptoms of salmonella infection include \u201cfever, diarrhea (which may be bloody), nausea, vomiting, and abdominal pain,\u201d according to the FDA . \u201cIllness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella, and the symptoms usually last four to seven days,\u201d its website said, noting that children under 5, the elderly, and the immunocompromised were more\u2026",
+   "summaryFrom": "time",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Massive egg recall in US south and south-west due to salmonella outbreak",
+   "updated": "2026-08-15T16:01:10+00:00",
+   "outletCount": 3,
+   "counts": {
+    "nonprofit": 1,
+    "family": 1,
+    "pub": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Massive egg recall in US south and south-west due to salmonella outbreak",
+     "url": "https://www.theguardian.com/us-news/2026/aug/15/egg-recall-us-south-and-south-west-salmonella-outbreak",
+     "author": "Marina Dunbar",
+     "kind": "news",
+     "published": "2026-08-15T16:01:10+00:00",
+     "summary": "About 1.6m dozen eggs from Texas recalled amid one of the largest recorded foodborne illness outbreaks in US history A massive egg recall affecting nearly 1.6m dozen eggs has been elevated to the US Food and Drug Administration\u2019s highest-risk warning as officials investigate a salmonella outbreak that has sickened nearly 100 people. The FDA on 12 August reclassified the recall of nearly 1.6m dozen white and brown cage-free eggs over concerns they may be contaminated with salmonella. Continue reading..."
+    },
+    {
+     "outlet": "time",
+     "title": "Salmonella Egg Recall Is Now Class I, the FDA\u2019s Highest Risk Level",
+     "url": "https://time.com/article/2026/08/15/eggs-recalled-for-salmonella-upgraded-to-highest-fda-risk-level/",
+     "author": "Rebecca Schneid",
+     "kind": "news",
+     "published": "2026-08-15T15:47:35+00:00",
+     "summary": "Eggs displayed in refrigerated section of a grocery store. \u2014Lindsey Nicholson\u2014Universal Images Group An egg recall linked to a salmonella outbreak was upgraded to the highest possible risk level by the U.S. Food and Drug Administration (FDA) on Wednesday. Nearly 1.6 million dozen eggs were labeled \u201cClass I,\u201d which the agency defines as \u201ca situation in which there is a reasonable probability that the use of or exposure to a violative product will cause serious adverse health consequences or death.\u201d Symptoms of salmonella infection include \u201cfever, diarrhea (which may be bloody), nausea, vomiting, and abdominal pain,\u201d according to the FDA . \u201cIllness usually occurs within 12 to 72 hours after eating food that is contaminated with Salmonella, and the symptoms usually last four to seven days,\u201d its website said, noting that children under 5, the elderly, and the immunocompromised were more likely to have severe reactions. The U.S. Centers for Disease Control and Prevention (CDC) said that eggs contaminated with Salmonella Enteritidis had infected at least 98 people across 17 states. No deaths have been reported, but 26 people have been hospitalized. Read More: The Trump Administration Wan"
+    },
+    {
+     "outlet": "dw",
+     "title": "US: FDA recalls 19 million eggs over salmonella risk",
+     "url": "https://www.dw.com/en/us-fda-recalls-19-million-eggs-over-salmonella-risk/a-78378361?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T03:49:00+00:00",
+     "summary": "The US has issued a serious health warning over the recalled eggs, saying exposure to the potentially contaminated products could cause severe illness or death."
+    }
+   ]
+  },
+  {
    "id": "d9f9a4b05a",
    "topic": "Health",
    "summary": "The Ebola outbreak in the Democratic Republic of Congo spread to a sixth province as the overall death toll surpassed 2,100 and cases topped 4,500. Experts say the virus may have been transmitted undetected for months, while health workers have struggled to contain the outbreak with poor medical supplies and no approved vaccine for the new strain \u2014 though several are in the works. The head of the World Health Organization this week warned that the current outbreak threatens to be the biggest ever, with authorities playing catch-up to the disease after \u201c a big head start. \u201d During the previous deadliest outbreak, which killed 11,000 people between 2014 and 2016, authorities had recorded 755 cases at the same point . \u2014 Jeronimo Gonzalez",
@@ -2274,9 +2505,387 @@
    ]
   },
   {
+   "id": "af486d68fc",
+   "topic": "Tech",
+   "summary": "Amid mounting public backlash, Flock Safety, the largest provider of automatic license plate readers (ALPR) in the United States, released a statement on Thursday touting new policies \"strengthening privacy, accountability, and security.\" But the changes still fail to address the constitutional concerns held by civil liberty and privacy advocates. Over the last few weeks, debate over ALPR systems has reached a new high. Privacy and data security concerns over the mass surveillance technology have prompted an anti-Flock movement, including websites that map more than 130,000 ALPR cameras across the country and a search engine that can find whether a particular license plate number has been looked up in Flock's database. In at least 23 states , activists have resorted to destroying the tech, according to The Guardian . And in July, over 20 local jurisdictions cancelled their contracts\u2026",
+   "summaryFrom": "reason",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "Flock Safety's New Privacy Rules Do Little To Ease Concerns Over ALPR Surveillance",
+   "updated": "2026-08-16T14:20:35+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "\u2018Have I Been Flocked?\u2019 Tool Launched as Flock Unveils New Privacy Rules",
+     "url": "https://www.newsweek.com/have-i-been-flocked-tool-launched-as-flock-unveils-new-privacy-rules-12328739",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T14:20:35+00:00",
+     "summary": "&#039;Have I Been Flocked?&#039; lets drivers check license plate searches as Flock introduces new privacy safeguards and oversight rules."
+    },
+    {
+     "outlet": "reason",
+     "title": "Flock Safety's New Privacy Rules Do Little To Ease Concerns Over ALPR Surveillance",
+     "url": "https://reason.com/2026/08/14/flock-safetys-new-privacy-rules-do-little-to-ease-concerns-over-alpr-surveillance/",
+     "author": "Autumn Billings",
+     "kind": "opinion",
+     "published": "2026-08-14T17:01:11+00:00",
+     "summary": "Amid mounting public backlash, Flock Safety, the largest provider of automatic license plate readers (ALPR) in the United States, released a statement on Thursday touting new policies \"strengthening privacy, accountability, and security.\" But the changes still fail to address the constitutional concerns held by civil liberty and privacy advocates. Over the last few weeks, debate over ALPR systems has reached a new high. Privacy and data security concerns over the mass surveillance technology have prompted an anti-Flock movement, including websites that map more than 130,000 ALPR cameras across the country and a search engine that can find whether a particular license plate number has been looked up in Flock's database. In at least 23 states , activists have resorted to destroying the tech, according to The Guardian . And in July, over 20 local jurisdictions cancelled their contracts with Flock Safety entirely. Adding fuel to the anti-Flock fire, reports began streaming in on the growing number of police misusing ALPR data, including conducting wrongful stops at gunpoint and using the data for purposes unrelated to law enforcement, such as stalking romantic interests . The Institute"
+    }
+   ]
+  },
+  {
+   "id": "4eee6f3aab",
+   "topic": "Justice & Policing",
+   "summary": "Evelyn Hockstein / REUTERS Democratic lawmakers are taking aim at the Supreme Court to curb its rightward shift. They\u2019ve grown increasingly frustrated by the court, as it has delivered sweeping conservative victories in recent years, erasing decades of progress, including scaling back the 1965 Voting Rights Act, overturning the constitutional right to an abortion, loosening campaign finance rules, and increasing executive power. Some in the party have argued that recent rulings from the high court are more about politics, and less about the interpretation of the law. \u201cThere\u2019s constant and building dismay about the increasingly appalling record of the court,\u201d Sen. Sheldon Whitehouse, a Democrat from Rhode Island, told The Washington Post. Read more at The Daily Beast.",
+   "summaryFrom": "dailybeast",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Supreme Court Fight Erupts Over Plot to End MAGA\u2019s Grip",
+   "updated": "2026-08-16T14:11:10+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "Supreme Court Fight Erupts Over Plot to End MAGA\u2019s Grip",
+     "url": "https://www.thedailybeast.com/supreme-court-fight-erupts-over-plot-to-end-magas-grip/",
+     "author": "Annabella Rosciglione",
+     "kind": "news",
+     "published": "2026-08-16T14:11:10+00:00",
+     "summary": "Evelyn Hockstein / REUTERS Democratic lawmakers are taking aim at the Supreme Court to curb its rightward shift. They\u2019ve grown increasingly frustrated by the court, as it has delivered sweeping conservative victories in recent years, erasing decades of progress, including scaling back the 1965 Voting Rights Act, overturning the constitutional right to an abortion, loosening campaign finance rules, and increasing executive power. Some in the party have argued that recent rulings from the high court are more about politics, and less about the interpretation of the law. \u201cThere\u2019s constant and building dismay about the increasingly appalling record of the court,\u201d Sen. Sheldon Whitehouse, a Democrat from Rhode Island, told The Washington Post. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Attorney General Todd Blanche says the DOJ may take states\u2019 voter-roll fight to Supreme Court",
+     "url": "https://www.nbcnews.com/meet-the-press/video/attorney-general-todd-blanche-says-the-doj-may-take-states-voter-roll-fight-to-supreme-court-268371525962",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T13:47:27+00:00",
+     "summary": "In an interview with Meet the Press, Attorney General Todd Blanche says \"absolutely it's a possibility\" that the Department of Justice may take the Trump administration's fight over voter rolls to the Supreme Court."
+    }
+   ]
+  },
+  {
+   "id": "dc1bc23744",
+   "topic": "Politics",
+   "summary": "US Attorney General Todd Blanche defended Jeanine Pirro for dismissing a federal vandalism case in a decision that angered President Donald Trump, saying the top prosecutor in Washington, DC, should be judged fairly.",
+   "summaryFrom": "bloomberg",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Blanche Defends DC Reflecting Pool Prosecutor Who Angered Trump",
+   "updated": "2026-08-16T14:09:24+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bloomberg",
+     "title": "Blanche Defends DC Reflecting Pool Prosecutor Who Angered Trump",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-16/blanche-defends-dc-reflecting-pool-prosecutor-who-angered-trump",
+     "author": "Tony Czuczka",
+     "kind": "news",
+     "published": "2026-08-16T14:09:24+00:00",
+     "summary": "US Attorney General Todd Blanche defended Jeanine Pirro for dismissing a federal vandalism case in a decision that angered President Donald Trump, saying the top prosecutor in Washington, DC, should be judged fairly."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Former Olympian's lawyers say Trump pushing 'false version' of Reflecting Pool case",
+     "url": "https://abcnews.com/Politics/former-olympian-david-hearns-lawyers-trump-pushing-false/story?id=135652830",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T23:10:16+00:00",
+     "summary": "Lawyers for former Olympian David Hearn argue Trump is pushing a \"false version\" of events in the Reflecting Pool vandalism case."
+    }
+   ]
+  },
+  {
+   "id": "594f564f54",
+   "topic": "Other",
+   "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Death toll from Zimbabwe capsized ferry accident rises to 80",
+   "updated": "2026-08-16T14:01:56+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Death toll from Zimbabwe capsized ferry accident rises to 80",
+     "url": "https://www.france24.com/en/africa/20260816-death-toll-from-zimbabwe-capsized-ferry-accident-rises-to-80",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-16T14:01:56+00:00",
+     "summary": "Rescue workers recovered eight more bodies on Sunday following a ferry capsizing accident that occured earlier this week on Lake Kariba in Zimbabwe, bringing the death toll to at least 80. The search continues, as authorities fear the number of casualties could rise even further."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+     "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+     "author": "Nadeem Badshah",
+     "kind": "news",
+     "published": "2026-08-15T19:39:07+00:00",
+     "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "27fd257a4d",
+   "topic": "Other",
+   "summary": "Girl called police after she was shot four times in shooting spree that left six dead, including gunman A 13-year-old girl in Michigan survived being shot four times in a shooting spree that left six people dead \u2013 including the suspected attacker \u2013 and called emergency help herself shortly before investigators identified the gunman, according to a state police official and her family. Those actions made the teen a \u201chero\u201d, said a relative of hers as well as two of the dead victims. The Associated Press contributed Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "\u2018She is a hero\u2019: 13-year-old survivor of Michigan shooting rampage called 911",
+   "updated": "2026-08-16T14:01:06+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "\u2018She is a hero\u2019: 13-year-old survivor of Michigan shooting rampage called 911",
+     "url": "https://www.theguardian.com/us-news/2026/aug/16/michigan-shooting-girl-survives",
+     "author": "Michael Sainato",
+     "kind": "news",
+     "published": "2026-08-16T14:01:06+00:00",
+     "summary": "Girl called police after she was shot four times in shooting spree that left six dead, including gunman A 13-year-old girl in Michigan survived being shot four times in a shooting spree that left six people dead \u2013 including the suspected attacker \u2013 and called emergency help herself shortly before investigators identified the gunman, according to a state police official and her family. Those actions made the teen a \u201chero\u201d, said a relative of hers as well as two of the dead victims. The Associated Press contributed Continue reading..."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "13-year-old survivor of Michigan rampage called 911 to report she\u2019d been shot",
+     "url": "https://www.nbcnews.com/news/us-news/13-year-old-survivor-michigan-rampage-called-911-rcna592709",
+     "author": "Marin Scott",
+     "kind": "news",
+     "published": "2026-08-15T19:57:46+00:00",
+     "summary": "A 13-year-old girl \u2014 the only survivor of a shooting rampage in rural Michigan \u2014 called 911 on Friday after she was shot four times, state police official and her family said Saturday."
+    }
+   ]
+  },
+  {
+   "id": "ff7c984702",
+   "topic": "Other",
+   "summary": "A nearly eight-year-old clip of Charlie Kirk ripping Left-wing streamer Hasan Piker&#8217;s communist dream went viral on social media again this week. In the exchange, which took place during a Politicon debate in Los Angeles on October 20, 2018 \u2014 the pair&#8217;s second meeting at the convention \u2014 Kirk asked Piker why he doesn&#8217;t live by the communist vision he calls for America to embrace. &#8220;Why don&#8217;t you give 95% of your money away and go live on a commune?&#8221; Kirk asked the America-hating communist streamer. &#8220;Do you really think that that&#8217;s how it works?&#8221; Piker replied. &#8220;Why not? Go live what you preach,&#8221; Kirk said as Piker attempted to interrupt the Turning Point USA founder. &#8220;I live what I practice,&#8221; Kirk added. &#8220;I am a free-market capitalist, I employ people, I took a risk, I have my own start-up business. Every\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "The secret communist messages hidden in the outfits of DSA pretty-boy Hasan Piker and his radical pals",
+   "updated": "2026-08-16T14:00:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 0,
+   "opinionCount": 2,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "The secret communist messages hidden in the outfits of DSA pretty-boy Hasan Piker and his radical pals",
+     "url": "https://nypost.com/2026/08/16/opinion/the-secret-communist-messages-hidden-in-hasan-pikers-outfits/",
+     "author": "Isabella Redjai",
+     "kind": "opinion",
+     "published": "2026-08-16T14:00:00+00:00",
+     "summary": "Beware the red carpet."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "FLASHBACK: Watch Charlie Kirk Expose Absurdity Of Hasan Piker\u2019s Communist Dream",
+     "url": "https://www.dailywire.com/news/flashback-watch-charlie-kirk-expose-absurdity-of-hasan-pikers-communist-dream",
+     "author": "Zach Jewell",
+     "kind": "opinion",
+     "published": "2026-08-15T11:57:28+00:00",
+     "summary": "A nearly eight-year-old clip of Charlie Kirk ripping Left-wing streamer Hasan Piker&#8217;s communist dream went viral on social media again this week. In the exchange, which took place during a Politicon debate in Los Angeles on October 20, 2018 \u2014 the pair&#8217;s second meeting at the convention \u2014 Kirk asked Piker why he doesn&#8217;t live by the communist vision he calls for America to embrace. &#8220;Why don&#8217;t you give 95% of your money away and go live on a commune?&#8221; Kirk asked the America-hating communist streamer. &#8220;Do you really think that that&#8217;s how it works?&#8221; Piker replied. &#8220;Why not? Go live what you preach,&#8221; Kirk said as Piker attempted to interrupt the Turning Point USA founder. &#8220;I live what I practice,&#8221; Kirk added. &#8220;I am a free-market capitalist, I employ people, I took a risk, I have my own start-up business. Every single day, I practice what I preach. He wants other people to contribute to what he considers to be a good idea, what he considers will make the world a better place.&#8221; &#8220;You have the freedom to go live as a socialist. Go do it, Hasan. What&#8217;s stopping you?&#8221; Piker called the ex"
+    }
+   ]
+  },
+  {
+   "id": "e8bf0d7895",
+   "topic": "Other",
+   "summary": "Yesterday in London, Jason Arday, the controversy-plagued British academic and author, was found dead. Made famous as the youngest Black professor in Cambridge\u2019s more than 800-year history, Arday had been dogged by weeks of scrutiny amid accusations of plagiarism, fake qualifications, and a fabricated backstory filled with hard-to-believe details. He claimed to have been mute until age 11 and illiterate until 18, disadvantages that did not deter him from getting a Ph.D., which he earned by age 30. He claimed, too, that he had suffered from various medical conditions throughout his life, including autism, epilepsy, locked-in syndrome, testicular cancer, and a brain tumor. He was, by his account, a world-class endurance athlete who had racked up a variety of impressive feats, including running 600 miles in six days. Then there were his academic accomplishments: Arday was billed as a\u2026",
+   "summaryFrom": "theatlantic",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Who is DEI critic and Jason Arday accuser, Nathan Cofnas?",
+   "updated": "2026-08-16T13:53:20+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Who is DEI critic and Jason Arday accuser, Nathan Cofnas?",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/who-is-dei-critic-and-jason-arday-accuser-nathan-cofnas?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T13:53:20+00:00",
+     "summary": "Nathan Cofnas, who accused Jason Arday of plagiarism, believes intelligence varies between racial groups."
+    },
+    {
+     "outlet": "theatlantic",
+     "title": "The Truths That Failed Jason Arday",
+     "url": "https://www.theatlantic.com/culture/2026/08/jason-arday-cambridge-professor-death/688304/?utm_source=feed",
+     "author": "Tyler Austin Harper",
+     "kind": "news",
+     "published": "2026-08-15T17:42:00+00:00",
+     "summary": "Yesterday in London, Jason Arday, the controversy-plagued British academic and author, was found dead. Made famous as the youngest Black professor in Cambridge\u2019s more than 800-year history, Arday had been dogged by weeks of scrutiny amid accusations of plagiarism, fake qualifications, and a fabricated backstory filled with hard-to-believe details. He claimed to have been mute until age 11 and illiterate until 18, disadvantages that did not deter him from getting a Ph.D., which he earned by age 30. He claimed, too, that he had suffered from various medical conditions throughout his life, including autism, epilepsy, locked-in syndrome, testicular cancer, and a brain tumor. He was, by his account, a world-class endurance athlete who had racked up a variety of impressive feats, including running 600 miles in six days. Then there were his academic accomplishments: Arday was billed as a once-in-a-generation talent, whose research in his field\u2014the sociology of education\u2014was \u201cthe best in the world,\u201d according to Hilary Cremin, the head of Cambridge\u2019s faculty of education. He claimed to have received a book advance of 1.4 million in unspecified currency for his memoir, released this week by"
+    }
+   ]
+  },
+  {
+   "id": "9f176bc1b1",
+   "topic": "World",
+   "summary": "The USS George Washington is departing the Pacific and expected to replace the USS Abraham Lincoln in the Middle East amid growing concerns about mental health and supply issues aboard the long-deployed carrier.",
+   "summaryFrom": "pbsnewshour",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "U.S. pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere",
+   "updated": "2026-08-16T13:50:37+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
+     "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
+     "author": "Edward Wong",
+     "kind": "news",
+     "published": "2026-08-16T13:50:37+00:00",
+     "summary": "The Sierra Madre, a Philippine naval ship, in the South China Sea in 2023. Last month, a Chinese Coast Guard vessel began circling the ship and confronted Philippine service members."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "U.S. pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere",
+     "url": "https://www.pbs.org/newshour/world/u-s-pulls-last-aircraft-carrier-in-asia-as-trump-focuses-on-iran-and-the-western-hemisphere",
+     "author": "Didi Tang, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T16:22:32+00:00",
+     "summary": "The USS George Washington is departing the Pacific and expected to replace the USS Abraham Lincoln in the Middle East amid growing concerns about mental health and supply issues aboard the long-deployed carrier."
+    }
+   ]
+  },
+  {
+   "id": "ac7124b709",
+   "topic": "Other",
+   "summary": "Lintao Zhang / Getty Szabo Sopov Kristof of Hungary practices ahead of the 2026 IWWF World Cable Wakeboard &amp; Wakeskate Championships at Shunyi Olympic Cable Park on August 9, 2026, in Beijing, China. Nick Wass / AP Washington Nationals\u2019 Dylan Crews slides into home plate to score on a single by Daylen Lile during the sixth inning of a game against the Cincinnati Reds on August 8, 2026, in Washington, D.C. Focke Strangmann / AFP / Getty Trotters compete at the first trotting race during the 90th Duhner Wattrennen horse race on the mudflats of the Elbe estuary during low tide in Cuxhaven-Duhnen, Germany, on August 9, 2026. Huw Fairclough / Getty Horses flee ahead of approaching flames as firefighters battle wildfires on Llangynidr Moor on August 9, 2026, in Ebbw Vale, Wales. Dipta Wahyu / Reuters A person observes a wildfire burning across a hill slope in Bromo Tengger Semeru National\u2026",
+   "summaryFrom": "theatlantic",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Gallery: Photos of the Week",
+   "updated": "2026-08-16T13:49:20+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Gallery: Photos of the Week",
+     "url": "https://www.cbsnews.com/video/gallery-photos-of-the-week-081626/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T13:49:20+00:00",
+     "summary": "\"Sunday Morning\" looks at some of the most evocative images captured the week of August 10, 2026, from a total solar eclipse, to a desperate search for survivors of an earthquake in Colombia."
+    },
+    {
+     "outlet": "theatlantic",
+     "title": "Photos of the Week: Mudflat Trot, Waterfall Jump, Pole Vault",
+     "url": "https://www.theatlantic.com/photography/2026/08/photos-week-mudflat-trot-waterfall-jump-pole-vault/688281/?utm_source=feed",
+     "author": "Alan Taylor",
+     "kind": "news",
+     "published": "2026-08-14T13:00:00+00:00",
+     "summary": "Lintao Zhang / Getty Szabo Sopov Kristof of Hungary practices ahead of the 2026 IWWF World Cable Wakeboard &amp; Wakeskate Championships at Shunyi Olympic Cable Park on August 9, 2026, in Beijing, China. Nick Wass / AP Washington Nationals\u2019 Dylan Crews slides into home plate to score on a single by Daylen Lile during the sixth inning of a game against the Cincinnati Reds on August 8, 2026, in Washington, D.C. Focke Strangmann / AFP / Getty Trotters compete at the first trotting race during the 90th Duhner Wattrennen horse race on the mudflats of the Elbe estuary during low tide in Cuxhaven-Duhnen, Germany, on August 9, 2026. Huw Fairclough / Getty Horses flee ahead of approaching flames as firefighters battle wildfires on Llangynidr Moor on August 9, 2026, in Ebbw Vale, Wales. Dipta Wahyu / Reuters A person observes a wildfire burning across a hill slope in Bromo Tengger Semeru National Park in Probolinggo, East Java province, Indonesia, on August 9, 2026. Amel Emric / Reuters A competitor takes part in the annual International Waterfall Jumping Competition held at Pliva Waterfall in the old town of Jajce, Bosnia and Herzegovina, on August 8, 2026. Eloisa Lopez / Reuters People car"
+    }
+   ]
+  },
+  {
    "id": "c3edff4bf5",
    "topic": "Politics",
-   "summary": "D uring her January 2025 confirmation hearing to be secretary of homeland security, Kristi Noem was asked how she would strengthen the nation\u2019s cyberdefenses. Noem told senators that she would make the department\u2019s Cybersecurity and Infrastructure Security Agency \u201csmaller\u201d and \u201cmore nimble.\u201d President Trump had created CISA as a stand-alone agency within the Department of Homeland Security during his first term to give cybersecurity more institutional heft, and it had grown quickly with support from lawmakers of both parties. But after CISA declared the 2020 presidential election to be \u201cthe most secure in American history\u201d and the agency\u2019s director, Christopher Krebs, refused to back Trump\u2019s claims that the vote had been stolen, Krebs became a target for the president\u2019s fury and a seething grudge.. During the DOGE fever of the first few months of Trump\u2019s return, CISA\u2019s budget was\u2026",
+   "summary": "D uring her January 2025 confirmation hearing to be secretary of homeland security, Kristi Noem was asked how she would strengthen the nation\u2019s cyberdefenses. Noem told senators that she would make the department\u2019s Cybersecurity and Infrastructure Security Agency \u201csmaller\u201d and \u201cmore nimble.\u201d President Trump had created CISA as a stand-alone agency within the Department of Homeland Security during his first term to give cybersecurity more institutional heft, and it had grown quickly with support from lawmakers of both parties. But after CISA declared the 2020 presidential election to be \u201cthe most secure in American history\u201d and the agency\u2019s director, Christopher Krebs, refused to back Trump\u2019s claims that the vote had been stolen, Krebs became a target for the president\u2019s fury and a seething grudge. During the DOGE fever of the first few months of Trump\u2019s return, CISA\u2019s budget was reduced\u2026",
    "summaryFrom": "theatlantic",
    "emphasis": null,
    "absent": [
@@ -2311,91 +2920,7 @@
      "author": "Yvonne Wingett Sanchez",
      "kind": "news",
      "published": "2026-08-16T12:00:00+00:00",
-     "summary": "D uring her January 2025 confirmation hearing to be secretary of homeland security, Kristi Noem was asked how she would strengthen the nation\u2019s cyberdefenses. Noem told senators that she would make the department\u2019s Cybersecurity and Infrastructure Security Agency \u201csmaller\u201d and \u201cmore nimble.\u201d President Trump had created CISA as a stand-alone agency within the Department of Homeland Security during his first term to give cybersecurity more institutional heft, and it had grown quickly with support from lawmakers of both parties. But after CISA declared the 2020 presidential election to be \u201cthe most secure in American history\u201d and the agency\u2019s director, Christopher Krebs, refused to back Trump\u2019s claims that the vote had been stolen, Krebs became a target for the president\u2019s fury and a seething grudge.. During the DOGE fever of the first few months of Trump\u2019s return, CISA\u2019s budget was reduced and its staff cut by one-third. The agency hasn\u2019t had a permanent, Senate-confirmed director since Trump retook office. In April, the White House proposed deeper cuts to CISA\u2019s budget, but Republican lawmakers have raised concerns that critical U.S. infrastructure is already too vulnerable. In June"
-    }
-   ]
-  },
-  {
-   "id": "8ba52ec1dc",
-   "topic": "Business & Economy",
-   "summary": "When Mark Walter purchased the majority ownership of the Lakers last year, expectations for the franchise\u2019s short- and long-term future soared. After being primarily owned by the Buss family \u2013 first Dr. Jerry Buss and then his children, led by Jeanie Buss \u2013 for 46 years, which was the longest majority ownership tenure in the...",
-   "summaryFrom": "nypost",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Mark Walter\u2019s Lakers sale memorialized by mass layoffs, price hikes, losing LeBron",
-   "updated": "2026-08-16T13:30:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Mark Walter\u2019s Lakers sale memorialized by mass layoffs, price hikes, losing LeBron",
-     "url": "https://nypost.com/2026/08/16/sports/lakers-sale-end-disappointing-mark-walter-era/",
-     "author": "Khobi Price",
-     "kind": "news",
-     "published": "2026-08-16T13:30:00+00:00",
-     "summary": "When Mark Walter purchased the majority ownership of the Lakers last year, expectations for the franchise\u2019s short- and long-term future soared. After being primarily owned by the Buss family \u2013 first Dr. Jerry Buss and then his children, led by Jeanie Buss \u2013 for 46 years, which was the longest majority ownership tenure in the..."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Inside Lakers mega-deal: Mark Walter made a shocking decision. Bob Iger, Joshua Kushner jumped at the chance",
-     "url": "https://www.latimes.com/sports/story/2026-08-14/inside-lakers-mega-deal-walters-shocking-decision-becomes-iger-kushners-chance",
-     "author": "Steve Henson",
-     "kind": "news",
-     "published": "2026-08-15T00:12:30+00:00",
-     "summary": "The lightning-quick sale of the Lakers to Bob Iger and Joshua Kushner comes as Mark Walter faces federal probes into allegedly conflicted insurance loans."
-    }
-   ]
-  },
-  {
-   "id": "8c91f091b7",
-   "topic": "Health",
-   "summary": "Yesterday in London, Jason Arday, the controversy-plagued British academic and author, was found dead. Made famous as the youngest Black professor in Cambridge\u2019s more than 800-year history, Arday had been dogged by weeks of scrutiny amid accusations of plagiarism, fake qualifications, and a fabricated backstory filled with hard-to-believe details. He claimed to have been mute until age 11 and illiterate until 18, disadvantages that did not deter him from getting a Ph.D., which he earned by age 30. He claimed, too, that he had suffered from various medical conditions throughout his life, including autism, epilepsy, locked-in syndrome, testicular cancer, and a brain tumor. He was, by his account, a world-class endurance athlete who had racked up a variety of impressive feats, including running 600 miles in six days. Then there were his academic accomplishments: Arday was billed as a\u2026",
-   "summaryFrom": "theatlantic",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Cambridge University defends its mental health support for Jason Arday",
-   "updated": "2026-08-16T13:16:38+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Cambridge University defends its mental health support for Jason Arday",
-     "url": "https://www.theguardian.com/uk-news/2026/aug/16/cambridge-university-jason-arday-mental-health-support",
-     "author": "Rachel Hall",
-     "kind": "news",
-     "published": "2026-08-16T13:16:38+00:00",
-     "summary": "University says it continued to provide support after resignation of academic, who was found dead this week The University of Cambridge has defended its mental health support for the academic Jason Arday. The university said it had continued to provide Arday with extensive mental health support and security measures, including installing panic alarms and screening racist emails and post, after he resigned from his post as professor of sociology of education earlier this month. Continue reading..."
-    },
-    {
-     "outlet": "theatlantic",
-     "title": "The Truths That Failed Jason Arday",
-     "url": "https://www.theatlantic.com/culture/2026/08/jason-arday-cambridge-professor-death/688304/?utm_source=feed",
-     "author": "Tyler Austin Harper",
-     "kind": "news",
-     "published": "2026-08-15T17:42:00+00:00",
-     "summary": "Yesterday in London, Jason Arday, the controversy-plagued British academic and author, was found dead. Made famous as the youngest Black professor in Cambridge\u2019s more than 800-year history, Arday had been dogged by weeks of scrutiny amid accusations of plagiarism, fake qualifications, and a fabricated backstory filled with hard-to-believe details. He claimed to have been mute until age 11 and illiterate until 18, disadvantages that did not deter him from getting a Ph.D., which he earned by age 30. He claimed, too, that he had suffered from various medical conditions throughout his life, including autism, epilepsy, locked-in syndrome, testicular cancer, and a brain tumor. He was, by his account, a world-class endurance athlete who had racked up a variety of impressive feats, including running 600 miles in six days. Then there were his academic accomplishments: Arday was billed as a once-in-a-generation talent, whose research in his field\u2014the sociology of education\u2014was \u201cthe best in the world,\u201d according to Hilary Cremin, the head of Cambridge\u2019s faculty of education. He claimed to have received a book advance of 1.4 million in unspecified currency for his memoir, released this week by"
+     "summary": "D uring her January 2025 confirmation hearing to be secretary of homeland security, Kristi Noem was asked how she would strengthen the nation\u2019s cyberdefenses. Noem told senators that she would make the department\u2019s Cybersecurity and Infrastructure Security Agency \u201csmaller\u201d and \u201cmore nimble.\u201d President Trump had created CISA as a stand-alone agency within the Department of Homeland Security during his first term to give cybersecurity more institutional heft, and it had grown quickly with support from lawmakers of both parties. But after CISA declared the 2020 presidential election to be \u201cthe most secure in American history\u201d and the agency\u2019s director, Christopher Krebs, refused to back Trump\u2019s claims that the vote had been stolen, Krebs became a target for the president\u2019s fury and a seething grudge. During the DOGE fever of the first few months of Trump\u2019s return, CISA\u2019s budget was reduced and its staff cut by one-third. The agency hasn\u2019t had a permanent, Senate-confirmed director since Trump retook office. In April, the White House proposed deeper cuts to CISA\u2019s budget, but Republican lawmakers have raised concerns that critical U.S. infrastructure is already too vulnerable. In June,"
     }
    ]
   },
@@ -2694,7 +3219,7 @@
    ]
   },
   {
-   "id": "4d5eb51799",
+   "id": "9c87a1796c",
    "topic": "World",
    "summary": "Jared Kushner, President Trump's envoy and son-in-law, is planning to visit Israel next week for talks on the situation in Gaza , according to five sources with knowledge of the plan. Why it matters: This would be Kushner's first trip to Israel since January. It comes as the White House and Trump's Board of Peace are trying to push forward with the next phase of the Gaza plan, which focuses on disarming Hamas and a potential Israeli withdrawal. The Netanyahu government is highly skeptical of the U.S. Gaza plan, and the upcoming election in October is making the issue even more politically sensitive. \"We see eye-to-eye on the strategic goal, but Israel has expressed some doubts about the plan and we want to talk to them in order to make sure we are coordinated,\" a U.S. official said, while noting the exact dates of the trip could change. Driving the news: Trump announced two weeks ago\u2026",
    "summaryFrom": "axios",
@@ -2704,7 +3229,7 @@
     "coop",
     "nonprofit"
    ],
-   "headline": "Hamas begins crucial talks with Egypt on Trump's Gaza peace plan",
+   "headline": "Kushner, Hamas delegation in Egypt for talks on Gaza peace plan",
    "updated": "2026-08-16T11:33:32+00:00",
    "outletCount": 2,
    "counts": {
@@ -2717,12 +3242,12 @@
    "articles": [
     {
      "outlet": "france24",
-     "title": "Hamas begins crucial talks with Egypt on Trump's Gaza peace plan",
+     "title": "Kushner, Hamas delegation in Egypt for talks on Gaza peace plan",
      "url": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
      "author": "FRANCE 24",
      "kind": "news",
      "published": "2026-08-16T11:33:32+00:00",
-     "summary": "A Hamas delegation began a meeting with Egypt's spy chief on Sunday to discuss ways to advance the implementation of a post-war plan for Gaza, an official from the Palestinian group told AFP."
+     "summary": "A Hamas delegation began a meeting with Egypt's spy chief on Sunday to discuss ways to advance the implementation of a post-war plan for Gaza while US envoy Jared Kushner met with Egyptian President Abdel Fattah al-Sissi."
     },
     {
      "outlet": "axios",
@@ -2774,48 +3299,6 @@
      "kind": "news",
      "published": "2026-08-16T08:20:25+00:00",
      "summary": null
-    }
-   ]
-  },
-  {
-   "id": "2e52b41d45",
-   "topic": "Other",
-   "summary": "Follow updates from the Community Shield, including the build-up, analysis and live text commentary of the game.",
-   "summaryFrom": "aljazeera",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Arsenal vs Manchester City LIVE: FA Community Shield",
-   "updated": "2026-08-16T11:00:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Arsenal vs Manchester City LIVE: FA Community Shield",
-     "url": "https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T11:00:00+00:00",
-     "summary": "Follow updates from the Community Shield, including the build-up, analysis and live text commentary of the game."
-    },
-    {
-     "outlet": "nypost",
-     "title": "How to watch Arsenal vs. Manchester City FA Community Shield match for free",
-     "url": "https://nypost.com/2026/08/16/sports/fa-community-shield-how-to-watch-arsenal-vs-man-city-for-free/",
-     "author": "Angela Tricarico",
-     "kind": "news",
-     "published": "2026-08-16T10:00:00+00:00",
-     "summary": "Following today's match, the Premier League kicks off in one week."
     }
    ]
   },
@@ -2984,444 +3467,6 @@
      "kind": "news",
      "published": "2026-08-14T16:35:06+00:00",
      "summary": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft."
-    }
-   ]
-  },
-  {
-   "id": "da8db275da",
-   "topic": "World",
-   "summary": "Jeff Daniels as President Ronald Reagan \u2014Courtesy of Angel Studios The Reykjavik Summit \u2014when U.S. President Ronald Reagan and Soviet Union President Mikhail Gorbachev talked in person in 1986\u2014is not known as an iconic bit of American history. But the face-to-face conversation between the leaders, held over Oct. 11 and 12 in the Icelandic capital, proved to be an important step toward the end of the Cold War . The summit (or meeting, depending on who you ask) came after \u201can unexpected invitation from Gorbachev,\u201d says Pete Souza , the former Presidential photographer for Reagan. At the time the Reagan administration refused to call it a summit. \u201cBefore two leaders like that have a summit meeting, there's lots of prep work that goes into it,\u201d recalls Souza. \u201cBut this was very last minute. The Reagan administration went to great effort leading up to Reykjavik, to not call it a summit.\u2026",
-   "summaryFrom": "time",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "In \u2018The Brink of War,\u2019 a Return to an Era of Razor-Edge Diplomacy",
-   "updated": "2026-08-16T09:02:28+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "In \u2018The Brink of War,\u2019 a Return to an Era of Razor-Edge Diplomacy",
-     "url": "https://www.nytimes.com/2026/08/16/us/politics/brink-of-war-reagan-nuclear-weapons.html",
-     "author": "Peter Baker",
-     "kind": "news",
-     "published": "2026-08-16T09:02:28+00:00",
-     "summary": "A new film depicts the 1986 nuclear arms summit in Reykjavik, Iceland, between Ronald Reagan and Mikhail Gorbachev, which both offered and dashed hopes of a dramatic breakthrough."
-    },
-    {
-     "outlet": "time",
-     "title": "The True Story Behind The Brink of War",
-     "url": "https://time.com/article/2026/08/14/brink-of-war-true-story/",
-     "author": "Barry Levitt",
-     "kind": "news",
-     "published": "2026-08-14T19:03:46+00:00",
-     "summary": "Jeff Daniels as President Ronald Reagan \u2014Courtesy of Angel Studios The Reykjavik Summit \u2014when U.S. President Ronald Reagan and Soviet Union President Mikhail Gorbachev talked in person in 1986\u2014is not known as an iconic bit of American history. But the face-to-face conversation between the leaders, held over Oct. 11 and 12 in the Icelandic capital, proved to be an important step toward the end of the Cold War . The summit (or meeting, depending on who you ask) came after \u201can unexpected invitation from Gorbachev,\u201d says Pete Souza , the former Presidential photographer for Reagan. At the time the Reagan administration refused to call it a summit. \u201cBefore two leaders like that have a summit meeting, there's lots of prep work that goes into it,\u201d recalls Souza. \u201cBut this was very last minute. The Reagan administration went to great effort leading up to Reykjavik, to not call it a summit. They\u2019d say, \u2018It\u2019s just a meeting, and we\u2019re not characterizing it as a summit.\u2019\u201d The summit\u2019s purpose was to discuss the arms controls between the two nations, in hopes of bringing an end to the long-lasting threat of nuclear war hanging over both countries, and the world as a whole. Over 30 hours, Reaga"
-    }
-   ]
-  },
-  {
-   "id": "8e10a1bbee",
-   "topic": "Other",
-   "summary": "American clocks 23.19sec to win final at Pan Pacs Douglass had first broken record with 23.49sec in heats Kate Douglass lowered her own world record in the women\u2019s 50m freestyle for the second time in one day, winning the Pan Pacific Championships final in 23.19sec. In the morning preliminaries, the 24-year-old American swam 23.49 to take the mark away from teammate Gretchen Walsh, who finished second in the evening final in 23.74. Australia\u2019s reigning world champion Meg Harris was third in 23.89. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m",
-   "updated": "2026-08-16T08:39:38+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m",
-     "url": "https://www.aljazeera.com/sports/2026/8/16/pallister-ledecky-pan-pacific-swimming-championship-800m-free-douglass-50m-free-world-record?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T08:39:38+00:00",
-     "summary": "US swim superstar Katie Ledecky was upstaged by Lani Pallister, while Kate Douglass made history twice in 50m freestyle."
-    },
-    {
-     "outlet": "guardian",
-     "title": "American Kate Douglass breaks 50m freestyle world record twice in one day",
-     "url": "https://www.theguardian.com/sport/2026/aug/15/kate-douglass-50m-freestyle-world-record-gretchen-walsh-pan-pacs",
-     "author": "Agencies",
-     "kind": "news",
-     "published": "2026-08-16T03:08:35+00:00",
-     "summary": "American clocks 23.19sec to win final at Pan Pacs Douglass had first broken record with 23.49sec in heats Kate Douglass lowered her own world record in the women\u2019s 50m freestyle for the second time in one day, winning the Pan Pacific Championships final in 23.19sec. In the morning preliminaries, the 24-year-old American swam 23.49 to take the mark away from teammate Gretchen Walsh, who finished second in the evening final in 23.74. Australia\u2019s reigning world champion Meg Harris was third in 23.89. Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "e78399ca91",
-   "topic": "Other",
-   "summary": "Australia will begin buying back guns in November, almost a year after a shooting at Sydney&#039;s Bondi killed 15 people.",
-   "summaryFrom": "aljazeera",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Australia to begin gun buyback scheme in response to Bondi shooting",
-   "updated": "2026-08-16T08:11:47+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Australia to begin gun buyback scheme in response to Bondi shooting",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T08:11:47+00:00",
-     "summary": "Australia will begin buying back guns in November, almost a year after a shooting at Sydney&#039;s Bondi killed 15 people."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Australian state to launch gun buyback after Bondi Beach attack",
-     "url": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T21:41:43+00:00",
-     "summary": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms."
-    }
-   ]
-  },
-  {
-   "id": "8141e7db79",
-   "topic": "Other",
-   "summary": "As we do every Friday, we're turning Racket over to you, the readers.",
-   "summaryFrom": "racket",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "pub"
-   ],
-   "headline": "Open Thread",
-   "updated": "2026-08-16T07:00:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 3,
-    "coop": 1
-   },
-   "newsCount": 0,
-   "opinionCount": 4,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "reason",
-     "title": "Open Thread",
-     "url": "https://reason.com/volokh/2026/08/16/open-thread-298/",
-     "author": "Eugene Volokh",
-     "kind": "opinion",
-     "published": "2026-08-16T07:00:00+00:00",
-     "summary": "The post Open Thread appeared first on Reason.com ."
-    },
-    {
-     "outlet": "reason",
-     "title": "Open Thread",
-     "url": "https://reason.com/volokh/2026/08/15/open-thread-297/",
-     "author": "Eugene Volokh",
-     "kind": "opinion",
-     "published": "2026-08-15T07:00:00+00:00",
-     "summary": "The post Open Thread appeared first on Reason.com ."
-    },
-    {
-     "outlet": "racket",
-     "title": "Time for a \u2018What Are You Listening to?\u2019 Open Thread",
-     "url": "https://racketmn.com/time-for-a-what-are-you-listening-to-open-thread",
-     "author": "Keith Harris",
-     "kind": "opinion",
-     "published": "2026-08-14T17:18:09+00:00",
-     "summary": "As we do every Friday, we're turning Racket over to you, the readers."
-    },
-    {
-     "outlet": "reason",
-     "title": "Open Thread",
-     "url": "https://reason.com/volokh/2026/08/14/open-thread-296/",
-     "author": "Eugene Volokh",
-     "kind": "opinion",
-     "published": "2026-08-14T07:00:00+00:00",
-     "summary": "The post Open Thread appeared first on Reason.com ."
-    }
-   ]
-  },
-  {
-   "id": "9f176bc1b1",
-   "topic": "World",
-   "summary": "The USS George Washington is departing the Pacific and expected to replace the USS Abraham Lincoln in the Middle East amid growing concerns about mental health and supply issues aboard the long-deployed carrier.",
-   "summaryFrom": "pbsnewshour",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "U.S. pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere",
-   "updated": "2026-08-16T06:53:38+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
-     "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
-     "author": "Edward Wong",
-     "kind": "news",
-     "published": "2026-08-16T06:53:38+00:00",
-     "summary": "The Sierra Madre, a Philippine naval ship, in the South China Sea in 2023. Last month, a Chinese Coast Guard vessel began circling the ship and confronted Philippine service members."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "U.S. pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere",
-     "url": "https://www.pbs.org/newshour/world/u-s-pulls-last-aircraft-carrier-in-asia-as-trump-focuses-on-iran-and-the-western-hemisphere",
-     "author": "Didi Tang, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T16:22:32+00:00",
-     "summary": "The USS George Washington is departing the Pacific and expected to replace the USS Abraham Lincoln in the Middle East amid growing concerns about mental health and supply issues aboard the long-deployed carrier."
-    }
-   ]
-  },
-  {
-   "id": "843e9d7145",
-   "topic": "Politics",
-   "summary": "Colombia's President Abelardo de la Espriella on Saturday called on US President Donald Trump to suspend tariffs on the South American nation as the country contiues to reel from a deadly earthquake. At least 300 people were killed in the quake that devastated the western Colombian cities of Cali and Pereira.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Colombia's new president asks Trump to suspend tariffs after deadly earthquake",
-   "updated": "2026-08-16T05:39:51+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "Colombia's new president asks Trump to suspend tariffs after deadly earthquake",
-     "url": "https://www.france24.com/en/americas/20260816-colombia-s-new-president-asks-trump-to-suspend-tariffs-after-deadly-earthquake",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-16T05:39:51+00:00",
-     "summary": "Colombia's President Abelardo de la Espriella on Saturday called on US President Donald Trump to suspend tariffs on the South American nation as the country contiues to reel from a deadly earthquake. At least 300 people were killed in the quake that devastated the western Colombian cities of Cali and Pereira."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Colombia Asks US to Pause Tariffs in Deadly Quake\u2019s Aftermath",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-15/colombia-asks-us-to-pause-tariffs-in-deadly-quake-s-aftermath",
-     "author": "Antonia Mufarech",
-     "kind": "news",
-     "published": "2026-08-15T21:30:08+00:00",
-     "summary": "Colombian President Abelardo de la Espriella asked US President Donald Trump to temporarily suspend tariffs on Colombian goods as the country grapples with the aftermath of a devastating earthquake that killed nearly 300 people."
-    }
-   ]
-  },
-  {
-   "id": "80daf3a1d1",
-   "topic": "Culture & Sport",
-   "summary": "23-year-old hits home run on first pitch in majors B\u00e1ez drives in five during 8-4 victory over Cubs Rookie was called up from Triple-A earlier in day Joshua B\u00e1ez became the first player to hit three home runs in his first three at-bats in the major leagues, leading the St Louis Cardinals to an 8-4 victory over the Chicago Cubs on Saturday. The 23-year-old left fielder, called up from Triple-A Memphis earlier in the day, hit the first pitch he saw into the Wrigley Field bleachers, then homered in his next two at-bats. He also drove in five runs. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Cardinals rookie Joshua B\u00e1ez makes MLB history with three homers in first three at-bats",
-   "updated": "2026-08-16T00:47:05+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "abcnews",
-     "title": "WATCH:  Joshua Baez becomes first MLB player to hit 3 homers in debut",
-     "url": "https://abcnews.com/video/135680711/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T00:47:05+00:00",
-     "summary": "Cardinals rookie outfielder Joshua Baez made MLB history by becoming the first player to hit three home runs in his big league debut."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Cardinals rookie Joshua B\u00e1ez makes MLB history with three homers in first three at-bats",
-     "url": "https://www.theguardian.com/sport/2026/aug/15/joshua-baez-three-home-runs-cardinals-cubs-mlb-record",
-     "author": "Agencies",
-     "kind": "news",
-     "published": "2026-08-15T21:24:52+00:00",
-     "summary": "23-year-old hits home run on first pitch in majors B\u00e1ez drives in five during 8-4 victory over Cubs Rookie was called up from Triple-A earlier in day Joshua B\u00e1ez became the first player to hit three home runs in his first three at-bats in the major leagues, leading the St Louis Cardinals to an 8-4 victory over the Chicago Cubs on Saturday. The 23-year-old left fielder, called up from Triple-A Memphis earlier in the day, hit the first pitch he saw into the Wrigley Field bleachers, then homered in his next two at-bats. He also drove in five runs. Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "c8d3372590",
-   "topic": "Politics",
-   "summary": "The United States Navy is potentially redesigning incoming aircraft vessels to better align with President Trump\u2019s preferred aesthetic. The maritime branch is considering the shift on Ford-class ships to match the president\u2019s preference for the new aircraft carriers to resemble the World War II-era, according to a Saturday report from the Washington Post. The changes...",
-   "summaryFrom": "thehill",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Navy looking into warship redesigns as part of Trump requests",
-   "updated": "2026-08-15T23:57:38+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "Navy looking into warship redesigns as part of Trump requests",
-     "url": "https://thehill.com/policy/defense/6031688-navy-carrier-design-trump/",
-     "author": "Mira Bhakta",
-     "kind": "news",
-     "published": "2026-08-15T23:57:38+00:00",
-     "summary": "The United States Navy is potentially redesigning incoming aircraft vessels to better align with President Trump\u2019s preferred aesthetic. The maritime branch is considering the shift on Ford-class ships to match the president\u2019s preference for the new aircraft carriers to resemble the World War II-era, according to a Saturday report from the Washington Post. The changes..."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Navy weighs major warship redesign to match Trump\u2019s preferences",
-     "url": "https://www.washingtonpost.com/national-security/2026/08/15/navy-weighs-major-warship-redesign-match-trumps-preferences/",
-     "author": "Noah Robertson, Tara  Copp",
-     "kind": "news",
-     "published": "2026-08-15T12:00:00+00:00",
-     "summary": "The president wants the new fleet of aircraft carriers to more resemble those from World War II. Such a change could cost billions."
-    }
-   ]
-  },
-  {
-   "id": "3ec1bf5278",
-   "topic": "World",
-   "summary": "The USS Abraham Lincoln deployed in the Arabian Sea on April 16, 2026. | US Navy via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: The cracks are starting to show in President Donald Trump\u2019s Iran campaign. What\u2019s happening? Conditions on a US warship deployed in the Middle East have grown so dire, multiple sailors have reportedly tried to go overboard (at least one did so but was rescued safely, according to CNN ).&nbsp; The attempts to jump overboard comes as family members of sailors are raising concerns with Democratic lawmakers about deteriorating mental health on the ship amid sanitation issues and shortages of food and basic supplies .&nbsp; The USS Abraham Lincoln aircraft carrier has been\u2026",
-   "summaryFrom": "vox",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "State Department spokesperson on Iran war and U.S. visa revocations",
-   "updated": "2026-08-15T21:20:51+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "npr",
-     "title": "State Department spokesperson on Iran war and U.S. visa revocations",
-     "url": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
-     "author": "Rob Schmitz",
-     "kind": "news",
-     "published": "2026-08-15T21:20:51+00:00",
-     "summary": "NPR's Rob Schmitz speaks with State Department spokesperson Tommy Pigott about the with Iran and the hundreds of thousands of foreign nationals who have had their U.S. visa revoked."
-    },
-    {
-     "outlet": "vox",
-     "title": "The Iran war\u2019s mental toll on US sailors",
-     "url": "https://www.vox.com/the-logoff-newsletter-trump/499337/us-iran-war-uss-lincoln-aircraft-carrier-sailors-mental-health",
-     "author": "Cameron Peters",
-     "kind": "news",
-     "published": "2026-08-13T21:55:00+00:00",
-     "summary": "The USS Abraham Lincoln deployed in the Arabian Sea on April 16, 2026. | US Navy via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: The cracks are starting to show in President Donald Trump\u2019s Iran campaign. What\u2019s happening? Conditions on a US warship deployed in the Middle East have grown so dire, multiple sailors have reportedly tried to go overboard (at least one did so but was rescued safely, according to CNN ).&nbsp; The attempts to jump overboard comes as family members of sailors are raising concerns with Democratic lawmakers about deteriorating mental health on the ship amid sanitation issues and shortages of food and basic supplies .&nbsp; The USS Abraham Lincoln aircraft carrier has been deployed for more than 250 days, starting last November, including a stretch of more than 200 days at sea \u2014 a modern record. Its deployment was supposed to end months ago, in May, but has continued as Trump\u2019s Iran war stretches on .&nbsp; How is the administration responding? Defense Secretary Pete Hegseth "
-    }
-   ]
-  },
-  {
-   "id": "81135d987c",
-   "topic": "Other",
-   "summary": "The new X-Men MCU cast on stage at D-23. | Image: Marvel Entertainment With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for its upcoming, untitled X-Men film, which is scheduled to hit theaters on May 5th of 2028. Though, seeing as that's quite far into the future, we wouldn't be surprised if that date shifted slightly before then. In addition to Sink, the film will star Kit Connor as Scott Summers (Cyclops), Christopher Abbott as Charles Xavier (Professor X), Samara Weaving as Emma Frost, Maya Boyd as Storm, and Inde Navarrette as Rogue. \u2026 Read the full story at The Verge.",
-   "summaryFrom": "theverge",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Marvel unveils 'X-Men' cast at D23, where Disney reveals its future leans on its past",
-   "updated": "2026-08-15T19:40:22+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "latimes",
-     "title": "Marvel unveils 'X-Men' cast at D23, where Disney reveals its future leans on its past",
-     "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-08-15/d23-marvel-x-men-star-wars-pixar-disney-showcase",
-     "author": "Tracy Brown",
-     "kind": "news",
-     "published": "2026-08-15T19:40:22+00:00",
-     "summary": "The biggest announcements and takeaways from Disney's D23 showcase on upcoming film and TV projects from Marvel, Star Wars, Pixar and more."
-    },
-    {
-     "outlet": "theverge",
-     "title": "Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver",
-     "url": "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast",
-     "author": "Terrence O\u2019Brien",
-     "kind": "news",
-     "published": "2026-08-15T14:03:14+00:00",
-     "summary": "The new X-Men MCU cast on stage at D-23. | Image: Marvel Entertainment With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for its upcoming, untitled X-Men film, which is scheduled to hit theaters on May 5th of 2028. Though, seeing as that's quite far into the future, we wouldn't be surprised if that date shifted slightly before then. In addition to Sink, the film will star Kit Connor as Scott Summers (Cyclops), Christopher Abbott as Charles Xavier (Professor X), Samara Weaving as Emma Frost, Maya Boyd as Storm, and Inde Navarrette as Rogue. \u2026 Read the full story at The Verge."
     }
    ]
   }
