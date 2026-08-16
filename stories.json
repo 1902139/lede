@@ -1,9 +1,144 @@
 {
- "generated": "2026-08-16T20:39:36.456911+00:00",
+ "generated": "2026-08-16T21:35:10.069633+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
+  {
+   "id": "21a5f55b8c",
+   "topic": "Politics",
+   "summary": "The U.S. Central Command (CENTCOM) on Sunday said the USS Abraham Lincoln has recorded one of the lowest numbers of mental health cases in the Navy, amid mounting allegations of poor conditions aboard the carrier. The Lincoln, which has been at sea for more than 260 days supporting the war with Iran, has been at the center of a dispute over allegations of supply shortages, plumbing problems and crew members threatening to jump overboard. Officials have repeatedly denied such claims and announced Friday that the carrier is expected to be replaced soon. In a statement posted by CENTCOM, commander Adm. Brad Cooper touted the carrier's mental health record among the Navy's 11 active aircraft carriers after reportedly visiting the ship over the weekend. \"My time aboard USS Abraham Lincoln yesterday was awe-inspiring. I wish every American could see the crew in action. You would beam with\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": {
+    "bigCount": 7,
+    "indieCount": 4,
+    "big": [
+     "command",
+     "iran",
+     "centcom",
+     "central",
+     "cases",
+     "supporting"
+    ],
+    "indie": []
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "US commander says mental health a 'priority' on USS Lincoln",
+   "updated": "2026-08-16T21:10:49+00:00",
+   "outletCount": 10,
+   "counts": {
+    "family": 5,
+    "pub": 2,
+    "corp": 2,
+    "nonprofit": 2
+   },
+   "newsCount": 10,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "CENTCOM commander touts USS Abraham Lincoln mental health record after more than 260 days without port call",
+     "url": "https://www.foxnews.com/politics/centcom-commander-touts-uss-abraham-lincoln-mental-health-record-after-more-than-260-days-without-port-call",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T21:10:49+00:00",
+     "summary": "The U.S. Central Command (CENTCOM) on Sunday said the USS Abraham Lincoln has recorded one of the lowest numbers of mental health cases in the Navy, amid mounting allegations of poor conditions aboard the carrier. The Lincoln, which has been at sea for more than 260 days supporting the war with Iran, has been at the center of a dispute over allegations of supply shortages, plumbing problems and crew members threatening to jump overboard. Officials have repeatedly denied such claims and announced Friday that the carrier is expected to be replaced soon. In a statement posted by CENTCOM, commander Adm. Brad Cooper touted the carrier's mental health record among the Navy's 11 active aircraft carriers after reportedly visiting the ship over the weekend. \"My time aboard USS Abraham Lincoln yesterday was awe-inspiring. I wish every American could see the crew in action. You would beam with absolute pride when witnessing their camaraderie, teamwork and resilience,\" Cooper said, according to the post on X. \"Here\u2019s an important fact: Of the U.S. Navy\u2019s 11 active aircraft carriers, the Lincoln currently has among the lowest number of cases related to mental health.\" US NAVY RELEASES PHOTOS OF"
+    },
+    {
+     "outlet": "bbc",
+     "title": "US commander says mental health a 'priority' on USS Lincoln",
+     "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T21:04:27+00:00",
+     "summary": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "US admiral praises USS Lincoln crew amid reported mental health concerns",
+     "url": "https://www.aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T20:46:01+00:00",
+     "summary": "Politicians voiced alarm over mental health struggles on carrier, with reports of sailors attempting to jump overboard."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Top Admiral Praises Sailors but Concedes Hardships After Visit to U.S.S. Lincoln",
+     "url": "https://www.nytimes.com/2026/08/16/us/politics/uss-lincoln-iran-admiral.html",
+     "author": "Helene Cooper",
+     "kind": "news",
+     "published": "2026-08-16T20:40:41+00:00",
+     "summary": "Admiral Brad Cooper, head of U.S. Central Command, acknowledged the difficulty of the carrier\u2019s nearly nine-month deployment but said mental health issues were lower than on other vessels."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Admiral Claims USS Abraham Lincoln\u2019s Mental Health Cases Are Relatively Low\u2014Despite Reported Crisis",
+     "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/16/admiral-claims-uss-abraham-lincolns-mental-health-cases-are-relatively-low-despite-reported-crisis/",
+     "author": "Mary Whitfill Roeloffs, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-16T19:49:50+00:00",
+     "summary": "The USS Abraham Lincoln has been supporting military operations in the Middle East against Iran for more than 260 days."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T19:33:58+00:00",
+     "summary": "Meanwhile, Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Democrats demand answers from Trump on USS Abraham Lincoln conditions",
+     "url": "https://www.theguardian.com/us-news/2026/aug/16/democrats-trump-uss-abraham-lincoln",
+     "author": "Marina Dunbar",
+     "kind": "news",
+     "published": "2026-08-16T17:08:20+00:00",
+     "summary": "Senator Ruben Gallego calls carrier\u2019s months-long deployment a \u2018deep problem\u2019 as wellbeing concerns mount Democrats on Sunday intensified their demands for answers from the Trump administration over conditions aboard the USS Abraham Lincoln as the aircraft carrier\u2019s nearly nine-month deployment continued fueling concern over crew morale, mental health and living conditions. Ruben Gallego, a Democratic senator from Arizona, said on Sunday that problems aboard the Lincoln had kept mounting \u2013 and he blamed the carrier\u2019s prolonged deployment on the unresolved war that Donald Trump started in February with Iran as well as lackluster leadership in general from the Republican president\u2019s administration. Continue reading..."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Gallego blames Trump administration for Lincoln conditions: 'True lack of leadership'",
+     "url": "https://abcnews.com/Politics/gallego-blames-trump-administration-uss-lincoln-conditions-true/story?id=135685345",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T13:46:54+00:00",
+     "summary": "Adm. Mullen says morale has improved since the crew learned it's going home."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Abcarian: Perez Hilton created the internet culture that watched his mental health crisis unfold",
+     "url": "https://www.latimes.com/opinion/story/2026-08-16/perez-hilton-mental-health-crisis",
+     "author": "Robin Abcarian",
+     "kind": "opinion",
+     "published": "2026-08-16T10:00:00+00:00",
+     "summary": "The celebrity gossip blogger became as famous as the stars he covered before social media upended his business model."
+    },
+    {
+     "outlet": "npr",
+     "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+     "url": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
+     "author": "Ava Pukatch",
+     "kind": "news",
+     "published": "2026-08-15T18:21:32+00:00",
+     "summary": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful. (Image credit: Julia Demaree Nikhinson)"
+    },
+    {
+     "outlet": "nyt",
+     "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
+     "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
+     "author": "Erica L. Green and Maggie Haberman",
+     "kind": "news",
+     "published": "2026-08-15T01:04:40+00:00",
+     "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted \u201cnot nearly long enough.\u201d"
+    }
+   ]
+  },
   {
    "id": "022e4698ad",
    "topic": "World",
@@ -14,12 +149,12 @@
     "indieCount": 6,
     "big": [],
     "indie": [
-     "held",
      "meets",
-     "rare",
      "meeting",
+     "rare",
+     "held",
      "trump",
-     "diplomatic"
+     "sunday"
     ]
    },
    "absent": [
@@ -90,7 +225,7 @@
      "author": null,
      "kind": "news",
      "published": "2026-08-16T17:31:00+00:00",
-     "summary": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators in Egypt."
+     "summary": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators and Hamas in Egypt."
     },
     {
      "outlet": "france24",
@@ -121,16 +256,16 @@
     "bigCount": 6,
     "indieCount": 2,
     "big": [
-     "major",
      "league",
+     "major",
      "seasons",
      "name",
      "famous",
      "former"
     ],
     "indie": [
-     "namesake",
-     "pioneering"
+     "pioneering",
+     "namesake"
     ]
    },
    "absent": [
@@ -224,233 +359,24 @@
    ]
   },
   {
-   "id": "c981a7f51a",
-   "topic": "Climate & Energy",
-   "summary": "Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn't done punishing the Big Island with hurricane-force gusts. (Image credit: Taylor Cozloff/AP)",
-   "summaryFrom": "npr",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 4,
-    "big": [
-     "wind"
-    ],
-    "indie": [
-     "landfall",
-     "making",
-     "again",
-     "sending"
-    ]
-   },
-   "absent": [
-    "family",
-    "coop"
-   ],
-   "headline": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
-   "updated": "2026-08-16T20:15:22+00:00",
-   "outletCount": 7,
-   "counts": {
-    "corp": 3,
-    "nonprofit": 2,
-    "pub": 2
-   },
-   "newsCount": 7,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Tropical Storm Lala brings drenching rain, wind across the Hawaiian islands",
-     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T20:15:22+00:00",
-     "summary": "As a hurricane, Lala skirted past Hawaii's Big Island, where it brought heavy rain and the possibility of life-threatening flooding and mudslides."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Lala weakens to tropical storm, brings heavy rain, wind, flooding to Hawaii",
-     "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T19:56:14+00:00",
-     "summary": "More than 30 inches of rain have fallen on the Big Island."
-    },
-    {
-     "outlet": "npr",
-     "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
-     "url": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T15:47:58+00:00",
-     "summary": "Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn't done punishing the Big Island with hurricane-force gusts. (Image credit: Taylor Cozloff/AP)"
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
-     "url": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T14:55:51+00:00",
-     "summary": "The devastating hurricane grazes the Big Island in Hawaii in the US, but avoids making landfall."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Lala is again a tropical storm, sending drenching rain and winds across the Hawaiian islands",
-     "url": "https://www.pbs.org/newshour/nation/lala-is-again-a-tropical-storm-sending-drenching-rain-and-winds-across-the-hawaiian-islands",
-     "author": "Ed White, Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T14:44:14+00:00",
-     "summary": "A search-and-rescue mission was launched after flash floods apparently swept several occupied homes off their foundations in coastal communities, authorities said."
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Hurricane Lala Tracker as Storm Sparks Power Outage in Hawaii",
-     "url": "https://www.newsweek.com/hurricane-lala-tracker-as-storm-sparks-power-outage-in-hawaii-12328659",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T13:00:24+00:00",
-     "summary": "Hurricane Lala leaves 88,000+ without power in Hawaii as flooding, damaging winds and outages disrupt islands."
-    },
-    {
-     "outlet": "dw",
-     "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
-     "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T05:57:00+00:00",
-     "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is gradually weakening. However, the hurricane caused roads to flood and turned rivers into raging torrents."
-    }
-   ]
-  },
-  {
-   "id": "c562c35538",
-   "topic": "Politics",
-   "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its\u2026",
-   "summaryFrom": "axios",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 4,
-    "big": [
-     "lack"
-    ],
-    "indie": [
-     "faced",
-     "broken",
-     "reportedly",
-     "shortages",
-     "plumbing",
-     "sailors"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Democrats demand answers from Trump on USS Abraham Lincoln conditions",
-   "updated": "2026-08-16T19:33:58+00:00",
-   "outletCount": 7,
-   "counts": {
-    "corp": 3,
-    "nonprofit": 2,
-    "family": 1,
-    "pub": 2
-   },
-   "newsCount": 8,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T19:33:58+00:00",
-     "summary": "Meanwhile, Israel is being condemned by Lebanese leaders for strikes in the south that killed at least 11 people, including children."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Democrats demand answers from Trump on USS Abraham Lincoln conditions",
-     "url": "https://www.theguardian.com/us-news/2026/aug/16/democrats-trump-uss-abraham-lincoln",
-     "author": "Marina Dunbar",
-     "kind": "news",
-     "published": "2026-08-16T17:08:20+00:00",
-     "summary": "Senator Ruben Gallego calls carrier\u2019s months-long deployment a \u2018deep problem\u2019 as wellbeing concerns mount Democrats on Sunday intensified their demands for answers from the Trump administration over conditions aboard the USS Abraham Lincoln as the aircraft carrier\u2019s nearly nine-month deployment continued fueling concern over crew morale, mental health and living conditions. Ruben Gallego, a Democratic senator from Arizona, said on Sunday that problems aboard the Lincoln had kept mounting \u2013 and he blamed the carrier\u2019s prolonged deployment on the unresolved war that Donald Trump started in February with Iran as well as lackluster leadership in general from the Republican president\u2019s administration. Continue reading..."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Gallego blames Trump administration for Lincoln conditions: 'True lack of leadership'",
-     "url": "https://abcnews.com/Politics/gallego-blames-trump-administration-uss-lincoln-conditions-true/story?id=135685345",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T13:46:54+00:00",
-     "summary": "Adm. Mullen says morale has improved since the crew learned it's going home."
-    },
-    {
-     "outlet": "npr",
-     "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
-     "url": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
-     "author": "Ava Pukatch",
-     "kind": "news",
-     "published": "2026-08-15T18:21:32+00:00",
-     "summary": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful. (Image credit: Julia Demaree Nikhinson)"
-    },
-    {
-     "outlet": "nyt",
-     "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
-     "author": "Erica L. Green and Maggie Haberman",
-     "kind": "news",
-     "published": "2026-08-15T01:04:40+00:00",
-     "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted \u201cnot nearly long enough.\u201d"
-    },
-    {
-     "outlet": "axios",
-     "title": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
-     "url": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
-     "author": "Donica Phifer",
-     "kind": "news",
-     "published": "2026-08-14T20:19:31+00:00",
-     "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle East deployment. While taking questions from the press Friday, a reporter mentioned families were worried, to which Trump replied \"no they're not.\" Zoom out: The Navy Times , The Military Times, and Stars and Stripes were among the first to report on conditions aboard the carrier. The ship hasn't m"
-    },
-    {
-     "outlet": "bbc",
-     "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-     "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T17:36:27+00:00",
-     "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-     "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-13T23:06:23+00:00",
-     "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
-    }
-   ]
-  },
-  {
    "id": "13a67312a2",
    "topic": "Other",
    "summary": "Roberto Serra - Iguana Press / Roberto Serra, Getty Images Thieves stole four works by Sicilian Renaissance painter Antonello da Messina from the MuMe regional museum in Sicily during Ferragosto, a major Italian public holiday. On Saturday evening, just before 10 p.m., they evaded the museum\u2019s alarm and security systems and made off with three of the five surviving panels of the 1473 San Gregorio Polyptych, and a double-sided Virgin Mary and Piet\u00e0 panel taken from an armored display case, according to the news agency LaPresse. \u201cWe are devastated by what happened. They were two of Antonello da Messina\u2019s most important and best-known works. It is a tremendous loss for the museum, the city, the community and the art world,\u201d MuMe director Marisa Mercurio said. Lynda Albertson, an art-crime analyst for the Association for Research into Crimes against Art, said the works will be difficult for\u2026",
    "summaryFrom": "dailybeast",
    "emphasis": {
     "bigCount": 2,
-    "indieCount": 6,
+    "indieCount": 5,
     "big": [
-     "ferragosto",
-     "stole"
+     "stole",
+     "ferragosto"
     ],
     "indie": [
      "stolen",
      "paintings",
+     "took",
      "italy",
      "hometown",
-     "took",
-     "million"
+     "overnight"
     ]
    },
    "absent": [
@@ -460,12 +386,12 @@
    "updated": "2026-08-16T19:18:00+00:00",
    "outletCount": 7,
    "counts": {
-    "pub": 4,
+    "pub": 3,
     "nonprofit": 2,
     "corp": 1,
     "family": 1
    },
-   "newsCount": 8,
+   "newsCount": 7,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
@@ -531,15 +457,6 @@
      "kind": "news",
      "published": "2026-08-16T13:07:27+00:00",
      "summary": "Thieves stole four works attributed to the Sicilian Renaissance painter Antonello da Messina from a regional museum in the Sicilian city of Messina on the Italian Ferragosto holiday, the news agency LaPresse reported Sunday. The post Thieves Steal Four Renaissance Artworks in Sicilian Museum Heist appeared first on Breitbart ."
-    },
-    {
-     "outlet": "france24",
-     "title": "Italy recovers millions of euros worth of stolen Renoir, C\u00e9zanne and Matisse paintings",
-     "url": "https://www.france24.com/en/video/20260816-italy-recovers-millions-of-euros-worth-of-stolen-renoir-c%C3%A9zanne-and-matisse-paintings",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T08:56:50+00:00",
-     "summary": "Italian authorities have recovered three paintings by Renoir, C\u00e9zanne and Matisse, worth more than \u20ac9 million, months after they were stolen from a private museum near Parma. Five Moldovan suspects have been detained, with police saying the gang had carefully planned the heist and was equipped to disable the museum's security systems."
     }
    ]
   },
@@ -631,6 +548,204 @@
    ]
   },
   {
+   "id": "c981a7f51a",
+   "topic": "Climate & Energy",
+   "summary": "Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn't done punishing the Big Island with hurricane-force gusts. (Image credit: Taylor Cozloff/AP)",
+   "summaryFrom": "npr",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 4,
+    "big": [
+     "wind"
+    ],
+    "indie": [
+     "landfall",
+     "winds",
+     "making",
+     "without",
+     "sending",
+     "again"
+    ]
+   },
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
+   "updated": "2026-08-16T21:27:09+00:00",
+   "outletCount": 6,
+   "counts": {
+    "corp": 2,
+    "nonprofit": 2,
+    "pub": 2
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "abcnews",
+     "title": "Lala weakens to tropical storm, brings heavy rain, wind, flooding to Hawaii",
+     "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T21:27:09+00:00",
+     "summary": "More than 30 inches of rain have fallen on the Big Island."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Tropical Storm Lala brings drenching rain, wind across the Hawaiian Islands",
+     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T21:11:45+00:00",
+     "summary": "As a hurricane, Lala skirted past Hawaii's Big Island, where it brought heavy rain and the possibility of life-threatening flooding and mudslides."
+    },
+    {
+     "outlet": "npr",
+     "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
+     "url": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T15:47:58+00:00",
+     "summary": "Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn't done punishing the Big Island with hurricane-force gusts. (Image credit: Taylor Cozloff/AP)"
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
+     "url": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T14:55:51+00:00",
+     "summary": "The devastating hurricane grazes the Big Island in Hawaii in the US, but avoids making landfall."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Lala is again a tropical storm, sending drenching rain and winds across the Hawaiian islands",
+     "url": "https://www.pbs.org/newshour/nation/lala-is-again-a-tropical-storm-sending-drenching-rain-and-winds-across-the-hawaiian-islands",
+     "author": "Ed White, Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T14:44:14+00:00",
+     "summary": "A search-and-rescue mission was launched after flash floods apparently swept several occupied homes off their foundations in coastal communities, authorities said."
+    },
+    {
+     "outlet": "dw",
+     "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
+     "url": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T05:57:00+00:00",
+     "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is gradually weakening. However, the hurricane caused roads to flood and turned rivers into raging torrents."
+    }
+   ]
+  },
+  {
+   "id": "fc026fda31",
+   "topic": "Politics",
+   "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its\u2026",
+   "summaryFrom": "axios",
+   "emphasis": {
+    "bigCount": 5,
+    "indieCount": 2,
+    "big": [
+     "trump",
+     "long",
+     "enough",
+     "deployment",
+     "diego-based",
+     "families"
+    ],
+    "indie": [
+     "overboard",
+     "thousands",
+     "jumping",
+     "broken",
+     "considering",
+     "reportedly"
+    ]
+   },
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
+   "updated": "2026-08-16T20:33:29+00:00",
+   "outletCount": 6,
+   "counts": {
+    "corp": 3,
+    "family": 2,
+    "pub": 2
+   },
+   "newsCount": 7,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "After Trump Says Carrier Deployment Not Long Enough, Mullen Warns of Risks",
+     "url": "https://www.newsweek.com/after-trump-says-carrier-deployment-not-long-enough-mullen-warns-of-risks-12329235",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T20:33:29+00:00",
+     "summary": "About 5,000 sailors and Marines are aboard the carrier, which has operated for more than 200 consecutive days without a port call."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' amid outcry from families",
+     "url": "https://www.latimes.com/politics/story/2026-08-14/uss-abraham-lincoln-deployment-conditions-families-trump-hegseth",
+     "author": "Christopher Buchanan, Ana Ceballos",
+     "kind": "news",
+     "published": "2026-08-14T21:13:51+00:00",
+     "summary": "Lawmakers are pressing for answers amid reports that sailors aboard the San Diego-based carrier have endured food shortages, plumbing failures and severe fatigue."
+    },
+    {
+     "outlet": "slate",
+     "title": "Trump on Long-Suffering Sailors: \u201cNot Nearly Long Enough\u201d",
+     "url": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html?via=rss",
+     "author": "Ian Prasad Philbrick",
+     "kind": "news",
+     "published": "2026-08-14T21:09:49+00:00",
+     "summary": "Sailors are suffering. Trump and his team are denying it."
+    },
+    {
+     "outlet": "axios",
+     "title": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
+     "url": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
+     "author": "Donica Phifer",
+     "kind": "news",
+     "published": "2026-08-14T20:19:31+00:00",
+     "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle East deployment. While taking questions from the press Friday, a reporter mentioned families were worried, to which Trump replied \"no they're not.\" Zoom out: The Navy Times , The Military Times, and Stars and Stripes were among the first to report on conditions aboard the carrier. The ship hasn't m"
+    },
+    {
+     "outlet": "time",
+     "title": "What to Know About the Growing Concerns Over Conditions on the Long-Deployed USS Abraham Lincoln",
+     "url": "https://time.com/article/2026/08/14/uss-abraham-lincoln-conditions-trump-iran-war/",
+     "author": "Connor Greene",
+     "kind": "news",
+     "published": "2026-08-14T20:14:50+00:00",
+     "summary": "In this U.S. Navy released handout, An F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 14, makes an arrested landing on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72) in support of Operation Epic Fury, on February 28, 2026. \u2014U.S. Navy/Getty Images The USS Abraham Lincoln has been at sea in the Middle East for months, and with no clear end in sight for the war in Iran , concerns for those aboard the aircraft carrier\u2014and for the vessel itself\u2014have mounted amid a series of troubling reports. Another aircraft carrier, the USS George Washington, had begun making its way towards the Middle East as of Thursday to replace the Lincoln, multiple news outlets reported. President Donald Trump appeared to confirm the reported ship swap on Friday, saying that the Lincoln \"is moving right now, or very shortly and is being replaced with another very similar ship.\u201d The Washington\u2019s deployment comes as reports have emerged in recent months recounting worsening living conditions, mental health concerns, and supply shortages on board the Lincoln. Trump seemed to deny the reports on the state of the Lincoln and its crew on Friday, responding \u201cNo, they\u2019re n"
+    },
+    {
+     "outlet": "bbc",
+     "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
+     "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T17:36:27+00:00",
+     "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+     "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-13T23:06:23+00:00",
+     "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+    }
+   ]
+  },
+  {
    "id": "40507e217d",
    "topic": "Other",
    "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant\u2026",
@@ -641,10 +756,10 @@
     "big": [
      "wounded",
      "shot",
-     "multiple",
      "around",
      "fire",
-     "opened"
+     "opened",
+     "multiple"
     ],
     "indie": []
    },
@@ -843,7 +958,7 @@
      "author": "Matthew Choi",
      "kind": "news",
      "published": "2026-08-16T18:15:38+00:00",
-     "summary": "The newly sworn-in attorney general rejected the idea of an independent Justice Deportment, lent support to Jeanine Pirro and declared the \u201canti-weaponization\u201d fund dead."
+     "summary": "The newly sworn-in attorney general rejected the idea of an independent Justice Department, lent support to Jeanine Pirro and declared the \u201canti-weaponization\u201d fund dead."
     },
     {
      "outlet": "guardian",
@@ -880,6 +995,75 @@
      "kind": "news",
      "published": "2026-08-16T13:47:27+00:00",
      "summary": "In an interview with Meet the Press, Attorney General Todd Blanche says \"absolutely it's a possibility\" that the Department of Justice may take the Trump administration's fight over voter rolls to the Supreme Court."
+    }
+   ]
+  },
+  {
+   "id": "6bf5e6b886",
+   "topic": "Justice & Policing",
+   "summary": "Border security tightened after social media posts call for another mass crossing into Spain\u2019s north African territory Moroccan police have arrested 111 people as they tried to enter Spain\u2019s north African territory of Ceuta, amid \u2060tightened security on both sides after social media posts \u200bcalled for another mass crossing. The attempted crossing on Saturday came two weeks after more than 72,000 migrants surged into Ceuta , causing tensions within the EU and prompting anti-immigration rhetoric among far-right parties worldwide. At least 96 people died trying to \u2060reach European soil. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain's Ceuta",
+   "updated": "2026-08-16T20:34:41+00:00",
+   "outletCount": 5,
+   "counts": {
+    "nonprofit": 2,
+    "pub": 3
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "pbsnewshour",
+     "title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain's Ceuta",
+     "url": "https://www.pbs.org/newshour/world/moroccan-security-forces-arrest-nearly-300-migrants-trying-to-reach-spains-ceuta",
+     "author": "Akram Oubachir, Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T20:34:41+00:00",
+     "summary": "The latest attempt comes two weeks after tens of thousands of would-be migrants, driven by poverty and misinformation, rushed toward Ceuta in one of the deadliest migration crises to hit the region."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T15:51:26+00:00",
+     "summary": "Moroccan migrants are protesting in Ceuta, demanding asylum two weeks after more than a massive migrant surge."
+    },
+    {
+     "outlet": "dw",
+     "title": "Morocco detains dozens of migrants trying to enter Spanish North African exclave Ceuta",
+     "url": "https://www.dw.com/en/morocco-detains-dozens-of-migrants-trying-to-enter-spanish-north-african-exclave-ceuta/a-78385761?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T23:26:00+00:00",
+     "summary": "The attempted crossings come two weeks after around 72,000 people rushed into the Spanish North African exclave from Morocco. Calls for another mass crossing had been circulating on social media this week."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+     "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T20:58:31+00:00",
+     "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+     "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+     "author": "Reuters",
+     "kind": "news",
+     "published": "2026-08-15T18:08:21+00:00",
+     "summary": "Border security tightened after social media posts call for another mass crossing into Spain\u2019s north African territory Moroccan police have arrested 111 people as they tried to enter Spain\u2019s north African territory of Ceuta, amid \u2060tightened security on both sides after social media posts \u200bcalled for another mass crossing. The attempted crossing on Saturday came two weeks after more than 72,000 migrants surged into Ceuta , causing tensions within the EU and prompting anti-immigration rhetoric among far-right parties worldwide. At least 96 people died trying to \u2060reach European soil. Continue reading..."
     }
    ]
   },
@@ -1022,89 +1206,6 @@
    ]
   },
   {
-   "id": "47b37decde",
-   "topic": "World",
-   "summary": "Spain and Morocco have boosted security around Spain\u2019s African enclave Ceuta following calls for another Moroccan migrant border rush, two weeks after a migrant invasion left at least 96 people dead. Soldiers have been watching commercial and government buildings in Ceuta while police are patrolling main streets, according to Reuters. Along the Moroccan border, security guards were seen on the beaches of Fnideq, one of the primary locations from which migrants illegally rushed Ceuta, Fox News reported . Morocco has arrested multiple people who circulated calls on social media for another migrant invasion into both Ceuta and Melilla, another Spanish African enclave. \u201cThe Ministry of the Interior has detected, during the last few days, the circulation of anonymous publications and messages on certain social networks inciting the organization of attempts at collective and illegal crossing\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 3,
-    "big": [
-     "spain"
-    ],
-    "indie": [
-     "social",
-     "migrants",
-     "mass",
-     "crossing",
-     "media",
-     "attempted"
-    ]
-   },
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Morocco tightens security as migrants gather near Ceuta border",
-   "updated": "2026-08-16T13:01:57+00:00",
-   "outletCount": 5,
-   "counts": {
-    "family": 2,
-    "pub": 3
-   },
-   "newsCount": 4,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bloomberg",
-     "title": "Second Ceuta Incursion Attempt Fails as Morocco, Spain Boost Security",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-16/second-ceuta-incursion-attempt-fails-as-morocco-spain-boost-security",
-     "author": "Souhail Karam",
-     "kind": "news",
-     "published": "2026-08-16T13:01:57+00:00",
-     "summary": "Grassroots calls for a second incursion into Ceuta from Morocco fell flat over the weekend, with security tight and authorities turning back the relative handful who tried to make the move."
-    },
-    {
-     "outlet": "france24",
-     "title": "Morocco tightens security as migrants gather near Ceuta border",
-     "url": "https://www.france24.com/en/morocco-tightens-security-as-migrants-gather-near-ceuta-border",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T09:17:50+00:00",
-     "summary": "Morocco has deployed heavy security around the border city of Fnideq after false social media rumours claimed the border to Spain's Ceuta enclave would open. Hundreds of migrants, mostly from sub-Saharan Africa, have gathered nearby, raising fears of another mass crossing just weeks after tens of thousands attempted to enter the Spanish territory."
-    },
-    {
-     "outlet": "dw",
-     "title": "Morocco detains dozens of migrants trying to enter Spanish North African exclave Ceuta",
-     "url": "https://www.dw.com/en/morocco-detains-dozens-of-migrants-trying-to-enter-spanish-north-african-exclave-ceuta/a-78385761?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T23:26:00+00:00",
-     "summary": "The attempted crossings come two weeks after around 72,000 people rushed into the Spanish North African exclave from Morocco. Calls for another mass crossing had been circulating on social media this week."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-     "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T20:58:31+00:00",
-     "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Calls For Another Migrant Border Invasion Force Spain And Morocco To Take Action",
-     "url": "https://www.dailywire.com/news/calls-for-another-migrant-border-invasion-force-spain-and-morocco-to-take-action",
-     "author": "Catherine Maxwell",
-     "kind": "opinion",
-     "published": "2026-08-15T13:55:25+00:00",
-     "summary": "Spain and Morocco have boosted security around Spain\u2019s African enclave Ceuta following calls for another Moroccan migrant border rush, two weeks after a migrant invasion left at least 96 people dead. Soldiers have been watching commercial and government buildings in Ceuta while police are patrolling main streets, according to Reuters. Along the Moroccan border, security guards were seen on the beaches of Fnideq, one of the primary locations from which migrants illegally rushed Ceuta, Fox News reported . Morocco has arrested multiple people who circulated calls on social media for another migrant invasion into both Ceuta and Melilla, another Spanish African enclave. \u201cThe Ministry of the Interior has detected, during the last few days, the circulation of anonymous publications and messages on certain social networks inciting the organization of attempts at collective and illegal crossing to the cities of Ceuta and Melilla, practices which carry serious risks to the safety of people and aim to instrumentalize migration issues in acts of incitement, which are criminalized by law,\u201d the Moroccan Ministry of the Interior said in a statement, according to Fox News. Meanwhile, Spain is stil"
-    }
-   ]
-  },
-  {
    "id": "e3ca7d9791",
    "topic": "World",
    "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading...",
@@ -1174,10 +1275,70 @@
    ]
   },
   {
+   "id": "1af9d68467",
+   "topic": "World",
+   "summary": "Israeli settlers run as they are chased by an Israeli military vehicle around Palestinian houses in the village of Qusra, south of Nablus, in the occupied West Bank, on Aug. 13, 2026. Photo by Zain Jaafar/AFP via Getty Images US Ambassador Mike Huckabee called settlers besieging a Palestinian American home in the occupied West Bank &#8220; Israeli terrorists .&#8221; It&#8217;s a welcome, rare rebuke from a U.S. official, but what kind of weight does it really have when the same official has been a long-time supporter of Israeli settlements? It wasn&#8217;t that long ago that Huckabee made similar comments about settler violence gripping the Palestinian Christian village of Taybeh , where attacks continue, or the settlers who beat Palestinian American Sayfollah Musallet to death (no one has been held accountable). Subscribe now What kind of weight do Huckabee&#8217;s comments really\u2026",
+   "summaryFrom": "zeteo",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family"
+   ],
+   "headline": "Israeli army besieges Palestinian homes in occupied West Bank",
+   "updated": "2026-08-16T17:45:52+00:00",
+   "outletCount": 4,
+   "counts": {
+    "pub": 2,
+    "coop": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Israeli army besieges Palestinian homes in occupied West Bank",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T17:45:52+00:00",
+     "summary": "Israeli troops have raided the village of Qusra, south of Nablus, in the occupied West Bank."
+    },
+    {
+     "outlet": "france24",
+     "title": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
+     "url": "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-16T12:02:18+00:00",
+     "summary": "A solar eclipse seen across parts of Europe, ongoing search-and-rescue efforts in Colombia after a devastating earthquake killed at least 300 people and left hundreds missing, and escalating violence by Israeli settlers in the occupied West Bank, condemned by the US ambassador to Israel as \"acts of terror\": FRANCE 24 takes a look at the week's most striking images."
+    },
+    {
+     "outlet": "zeteo",
+     "title": "This Week in Palestine: Israel Shoots 13-Year-Old as She \u2018Memorized the Quran\u2019 and Settlers Besiege Palestinian Families",
+     "url": "https://zeteo.com/p/this-week-in-palestine-israel-shoots",
+     "author": "Team Zeteo",
+     "kind": "news",
+     "published": "2026-08-15T17:01:34+00:00",
+     "summary": "Israeli settlers run as they are chased by an Israeli military vehicle around Palestinian houses in the village of Qusra, south of Nablus, in the occupied West Bank, on Aug. 13, 2026. Photo by Zain Jaafar/AFP via Getty Images US Ambassador Mike Huckabee called settlers besieging a Palestinian American home in the occupied West Bank &#8220; Israeli terrorists .&#8221; It&#8217;s a welcome, rare rebuke from a U.S. official, but what kind of weight does it really have when the same official has been a long-time supporter of Israeli settlements? It wasn&#8217;t that long ago that Huckabee made similar comments about settler violence gripping the Palestinian Christian village of Taybeh , where attacks continue, or the settlers who beat Palestinian American Sayfollah Musallet to death (no one has been held accountable). Subscribe now What kind of weight do Huckabee&#8217;s comments really have when, hours after using the phrase &#8220;Israeli terrorists,&#8221; he called the settlers &#8220; illegal trespassers &#8221; instead? Or when he defended the vast majority of settlers, saying they aren&#8217;t the problem, the &#8220; unsettlers &#8221; are, even though the settlements themselve"
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+     "url": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+     "author": "Emma Graham-Harrison in Jerusalem",
+     "kind": "news",
+     "published": "2026-08-14T17:52:51+00:00",
+     "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading..."
+    }
+   ]
+  },
+  {
    "id": "8c91f091b7",
    "topic": "Health",
-   "summary": "Jason Arday, the Cambridge professor who resigned nine days ago over plagiarism allegations, was found dead in his London home. Authorities said in a statement that an ambulance was called to his residence after Arday had been found &#8220;unresponsive.&#8221; He was pronounced dead at the scene. Police added that the death was being treated as \u201cunexpected\u201d but is not believed to be suspicious, according to The Telegraph. Just nine days ago, Cambridge launched an investigation into Arday. \u201cThe University of Cambridge has begun an investigation following new information about Professor Arday\u2019s academic qualifications and honorary appointments,\u201d the statement from the university said. \u201cIn order to ensure a fair process, we will not comment further until this has concluded.&#8221; Cambridge was not initially keen on opening an investigation. Cambridge said Arday was \u201cthe victim of a vile\u2026",
-   "summaryFrom": "dailywire",
+   "summary": "This article was featured in the One Story to Read Today newsletter. Sign up for it here. Yesterday in London, Jason Arday, the controversy-plagued British academic and author, was found dead. Made famous as the youngest Black professor in Cambridge\u2019s more than 800-year history, Arday had been dogged by weeks of scrutiny amid accusations of plagiarism, fake qualifications, and a fabricated backstory filled with hard-to-believe details. He claimed to have been mute until age 11 and illiterate until 18, disadvantages that did not deter him from getting a Ph.D., which he earned by age 30. He claimed, too, that he had suffered from various medical conditions throughout his life, including autism, epilepsy, locked-in syndrome, testicular cancer, and a brain tumor. He was, by his account, a world-class endurance athlete who had racked up a variety of impressive feats, including running 600\u2026",
+   "summaryFrom": "theatlantic",
    "emphasis": null,
    "absent": [
     "corp",
@@ -1187,13 +1348,13 @@
    "updated": "2026-08-16T14:09:13+00:00",
    "outletCount": 4,
    "counts": {
-    "nonprofit": 2,
-    "pub": 1,
-    "family": 1
+    "nonprofit": 1,
+    "family": 2,
+    "pub": 1
    },
    "newsCount": 3,
    "opinionCount": 1,
-   "underreported": true,
+   "underreported": false,
    "articles": [
     {
      "outlet": "guardian",
@@ -1205,13 +1366,13 @@
      "summary": "University says it continued to provide support after resignation of academic, who was found dead on Friday The University of Cambridge has defended its mental health support for the academic Jason Arday. The university said it had continued to provide Arday with extensive mental health support and security measures, including installing panic alarms and screening racist emails and post, after he resigned from his post as professor of sociology of education this month. Continue reading..."
     },
     {
-     "outlet": "pbsnewshour",
-     "title": "Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation",
-     "url": "https://www.pbs.org/newshour/world/jason-arday-youngest-black-professor-at-cambridge-found-dead-at-41-after-resignation",
-     "author": "Sylvia Hui, Associated Press",
+     "outlet": "theatlantic",
+     "title": "The Truths That Failed Jason Arday",
+     "url": "https://www.theatlantic.com/culture/2026/08/jason-arday-cambridge-professor-death/688304/?utm_source=feed",
+     "author": "Tyler Austin Harper",
      "kind": "news",
-     "published": "2026-08-14T23:25:02+00:00",
-     "summary": "A British sociologist who resigned last week from the University of Cambridge following weeks of public accusations of plagiarism and media scrutiny was found dead Friday."
+     "published": "2026-08-15T17:42:00+00:00",
+     "summary": "This article was featured in the One Story to Read Today newsletter. Sign up for it here. Yesterday in London, Jason Arday, the controversy-plagued British academic and author, was found dead. Made famous as the youngest Black professor in Cambridge\u2019s more than 800-year history, Arday had been dogged by weeks of scrutiny amid accusations of plagiarism, fake qualifications, and a fabricated backstory filled with hard-to-believe details. He claimed to have been mute until age 11 and illiterate until 18, disadvantages that did not deter him from getting a Ph.D., which he earned by age 30. He claimed, too, that he had suffered from various medical conditions throughout his life, including autism, epilepsy, locked-in syndrome, testicular cancer, and a brain tumor. He was, by his account, a world-class endurance athlete who had racked up a variety of impressive feats, including running 600 miles in six days. Then there were his academic accomplishments: Arday was billed as a once-in-a-generation talent, whose research in his field\u2014the sociology of education\u2014was \u201cthe best in the world,\u201d according to Hilary Cremin, the head of Cambridge\u2019s faculty of education. He claimed to have received a"
     },
     {
      "outlet": "dw",
@@ -1454,69 +1615,60 @@
    ]
   },
   {
-   "id": "a765ee5a58",
-   "topic": "Justice & Policing",
-   "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense, arguing that the weapons and murder counts against him should not move forward. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges.\u2026",
-   "summaryFrom": "axios",
+   "id": "15b77418c8",
+   "topic": "Other",
+   "summary": "Kentucky Gov. Andy Beshear (D) on Sunday said he has \"heard absolutely nothing back from\" Sen. Mitch McConnell (R-Ky.) after requesting updates on his health following his weekslong hospitalization. Beshear, a potential 2028 Democratic presidential contender, made the admission in an interview with CBS News's \"Face the Nation\" with fill-in host Ed O'Keefe, adding that...",
+   "summaryFrom": "thehill",
    "emphasis": null,
    "absent": [
+    "family",
     "coop",
-    "nonprofit"
+    "nonprofit",
+    "pub"
    ],
-   "headline": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-   "updated": "2026-08-14T20:53:00+00:00",
-   "outletCount": 4,
+   "headline": "Kentucky Gov. Andy Beshear says he's 'heard absolutely nothing back from Mitch McConnell'",
+   "updated": "2026-08-16T21:15:05+00:00",
+   "outletCount": 3,
    "counts": {
-    "family": 2,
-    "pub": 1,
-    "corp": 1
+    "corp": 3
    },
-   "newsCount": 4,
+   "newsCount": 3,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "wapo",
-     "title": "Mangione admits to shooting insurance CEO, pleads guilty to federal charges",
-     "url": "https://www.washingtonpost.com/nation/2026/08/14/mangione-admits-shooting-insurance-ceo-pleads-guilty-federal-charges/",
-     "author": "Tim Craig, Joanna Slater, Jeremy Roebuck",
+     "outlet": "thehill",
+     "title": "Kentucky Gov. Andy Beshear says he's 'heard absolutely nothing back from Mitch McConnell'",
+     "url": "https://thehill.com/homenews/senate/6032276-beshear-mitch-mcconnell-health-silence/",
+     "author": "Ryan Mancini",
      "kind": "news",
-     "published": "2026-08-14T20:53:00+00:00",
-     "summary": "Mangione read a statement in court in which he described targeting UnitedHealthcare CEO Brian Thompson outside an investor conference in late 2024."
+     "published": "2026-08-16T21:15:05+00:00",
+     "summary": "Kentucky Gov. Andy Beshear (D) on Sunday said he has \"heard absolutely nothing back from\" Sen. Mitch McConnell (R-Ky.) after requesting updates on his health following his weekslong hospitalization. Beshear, a potential 2028 Democratic presidential contender, made the admission in an interview with CBS News's \"Face the Nation\" with fill-in host Ed O'Keefe, adding that..."
     },
     {
-     "outlet": "bbc",
-     "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-     "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+     "outlet": "cbsnews",
+     "title": "Beshear says he's \"heard absolutely nothing\" from McConnell",
+     "url": "https://www.cbsnews.com/news/mitch-mcconnell-health-update-andy-beshear-kentucky/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-14T19:20:43+00:00",
-     "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death."
+     "published": "2026-08-16T18:03:16+00:00",
+     "summary": "Kentucky Gov. Andy Beshear said he hasn't heard back from Sen. Mitch McConnell following formal requests for an update on his health last month amid a weekslong hospitalization."
     },
     {
-     "outlet": "axios",
-     "title": "Luigi Mangione pleads guilty to stalking UnitedHealthcare CEO, admits killing him",
-     "url": "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case",
-     "author": "Avery Lotz",
+     "outlet": "newsweek",
+     "title": "Andy Beshear Says Mitch McConnell Owes Kentuckians an Update",
+     "url": "https://www.newsweek.com/andy-beshear-says-mitch-mcconnell-owes-kentuckians-an-update-12329103",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-14T19:15:57+00:00",
-     "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense, arguing that the weapons and murder counts against him should not move forward. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges. \"Today's guilty plea marks an important step toward justice for Brian and for our family,\" Thompson's family said in a statement, noting they \"remain mindful that additional proceedings in New York and Pennsylvania are still to come, and we will continue to seek the justice Brian deserves.\" While Man"
-    },
-    {
-     "outlet": "time",
-     "title": "Luigi Mangione Pleads Guilty to Federal Charges in UnitedHealthcare CEO's Fatal Shooting",
-     "url": "https://time.com/article/2026/08/14/luigi-mangione-guilty-plea-federal-case-unitedhealthcare-brian-thompson/",
-     "author": "Chantelle Lee",
-     "kind": "news",
-     "published": "2026-08-14T15:41:30+00:00",
-     "summary": "Luigi Mangione on Friday pleaded guilty to both federal stalking charges against him in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson, admitting in court that he shot the healthcare executive in 2024. Luigi Mangione on Friday pleaded guilty to both federal stalking charges against him in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson, admitting in court that he shot the healthcare executive in 2024. Mangione pleaded guilty to two charges that each carry a possible life sentence: interstate stalking resulting in death and stalking through use of interstate facilities resulting in death. The judge accepted his plea. \u201cI shot Mr. Thompson in Manhattan,\u201d Mangione told the judge on Friday, according to the New York Times. \u201cI understood that my actions would place him in fear of death or bodily injury. I knew what I was doing was illegal.\u201d He said during the hearing that he tracked down Thompson \u201cafter years of enduring severe pain from a broken back, navigating the obstacles of the health insurance system and witnessing similar experiences of countless others,\u201d The Associated Press reported. He said he had 3-D printed a gun and attac"
+     "published": "2026-08-16T17:19:57+00:00",
+     "summary": "Beshear said the situation reflects what he described as a broader accountability problem in Washington."
     }
    ]
   },
   {
-   "id": "6bf5e6b886",
-   "topic": "Justice & Policing",
-   "summary": "Border security tightened after social media posts call for another mass crossing into Spain\u2019s north African territory Moroccan police have arrested 111 people as they tried to enter Spain\u2019s north African territory of Ceuta, amid \u2060tightened security on both sides after social media posts \u200bcalled for another mass crossing. The attempted crossing on Saturday came two weeks after more than 72,000 migrants surged into Ceuta , causing tensions within the EU and prompting anti-immigration rhetoric among far-right parties worldwide. At least 96 people died trying to \u2060reach European soil. Continue reading...",
+   "id": "0a7f45b01e",
+   "topic": "Other",
+   "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": null,
    "absent": [
@@ -1524,94 +1676,94 @@
     "family",
     "coop"
    ],
-   "headline": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain's Ceuta",
-   "updated": "2026-08-16T20:34:41+00:00",
+   "headline": "Death toll rises to 84 from capsized ferry in Zimbabwe",
+   "updated": "2026-08-16T21:03:53+00:00",
    "outletCount": 3,
    "counts": {
-    "nonprofit": 2,
-    "pub": 1
+    "pub": 2,
+    "nonprofit": 1
    },
    "newsCount": 3,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
     {
-     "outlet": "pbsnewshour",
-     "title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain's Ceuta",
-     "url": "https://www.pbs.org/newshour/world/moroccan-security-forces-arrest-nearly-300-migrants-trying-to-reach-spains-ceuta",
-     "author": "Akram Oubachir, Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T20:34:41+00:00",
-     "summary": "The latest attempt comes two weeks after tens of thousands of would-be migrants, driven by poverty and misinformation, rushed toward Ceuta in one of the deadliest migration crises to hit the region."
-    },
-    {
      "outlet": "aljazeera",
-     "title": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss",
+     "title": "Death toll rises to 84 from capsized ferry in Zimbabwe",
+     "url": "https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T15:51:26+00:00",
-     "summary": "Moroccan migrants are protesting in Ceuta, demanding asylum two weeks after more than a massive migrant surge."
+     "published": "2026-08-16T21:03:53+00:00",
+     "summary": "The boat overturned during heavy winds near the Zambian border."
+    },
+    {
+     "outlet": "france24",
+     "title": "Death toll from Zimbabwe capsized ferry accident rises to 84",
+     "url": "https://www.france24.com/en/africa/20260816-death-toll-from-zimbabwe-capsized-ferry-accident-rises-to-80",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-16T14:01:56+00:00",
+     "summary": "Rescue workers recovered more bodies on Sunday following a ferry capsizing accident that occured earlier this week on Lake Kariba in Zimbabwe, bringing the death toll to at least 84. The search continues, as authorities fear the number of casualties could rise even further."
     },
     {
      "outlet": "guardian",
-     "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
-     "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-     "author": "Reuters",
+     "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+     "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+     "author": "Nadeem Badshah",
      "kind": "news",
-     "published": "2026-08-15T18:08:21+00:00",
-     "summary": "Border security tightened after social media posts call for another mass crossing into Spain\u2019s north African territory Moroccan police have arrested 111 people as they tried to enter Spain\u2019s north African territory of Ceuta, amid \u2060tightened security on both sides after social media posts \u200bcalled for another mass crossing. The attempted crossing on Saturday came two weeks after more than 72,000 migrants surged into Ceuta , causing tensions within the EU and prompting anti-immigration rhetoric among far-right parties worldwide. At least 96 people died trying to \u2060reach European soil. Continue reading..."
+     "published": "2026-08-15T19:39:07+00:00",
+     "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading..."
     }
    ]
   },
   {
-   "id": "21a5f55b8c",
-   "topic": "Health",
-   "summary": "In this U.S. Navy released handout, An F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 14, makes an arrested landing on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72) in support of Operation Epic Fury, on February 28, 2026. \u2014U.S. Navy/Getty Images The USS Abraham Lincoln has been at sea in the Middle East for months, and with no clear end in sight for the war in Iran , concerns for those aboard the aircraft carrier\u2014and for the vessel itself\u2014have mounted amid a series of troubling reports. Another aircraft carrier, the USS George Washington, had begun making its way towards the Middle East as of Thursday to replace the Lincoln, multiple news outlets reported. President Donald Trump appeared to confirm the reported ship swap on Friday, saying that the Lincoln \"is moving right now, or very shortly and is being replaced with another very\u2026",
-   "summaryFrom": "time",
+   "id": "5888b6d78c",
+   "topic": "Climate & Energy",
+   "summary": "Four-year-old boy, two men and three women among those who died since storms began on 11 August, officials say Days of storms and flooding in Indiana left at least six people dead as flood waters peaked in Indianapolis\u2019s White River \u2013 and rains were expected to ease in the state capital region and other parts of the state on Sunday. A four-year-old boy, two men and three women were among those who had died since the storms began on 11 August, state homeland security department spokesperson Liz Woods said. Continue reading...",
+   "summaryFrom": "guardian",
    "emphasis": null,
    "absent": [
+    "corp",
+    "family",
     "coop",
-    "nonprofit"
+    "pub"
    ],
-   "headline": "US commander says mental health a 'priority' on USS Lincoln",
-   "updated": "2026-08-16T20:14:37+00:00",
+   "headline": "Multiple people dead as flooding continues in Indiana",
+   "updated": "2026-08-16T20:38:40+00:00",
    "outletCount": 3,
    "counts": {
-    "pub": 1,
-    "corp": 1,
-    "family": 1
+    "nonprofit": 3
    },
    "newsCount": 3,
    "opinionCount": 0,
-   "underreported": false,
+   "underreported": true,
    "articles": [
     {
-     "outlet": "bbc",
-     "title": "US commander says mental health a 'priority' on USS Lincoln",
-     "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
-     "author": null,
+     "outlet": "npr",
+     "title": "Multiple people dead as flooding continues in Indiana",
+     "url": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
+     "author": "Chandelis Duster",
      "kind": "news",
-     "published": "2026-08-16T20:14:37+00:00",
-     "summary": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship."
+     "published": "2026-08-16T20:38:40+00:00",
+     "summary": "Some parts of Indiana received more than 11 inches of rainfall over three days, beginning Aug. 11, causing record floods. Several suburbs of Indianapolis also underwater. (Image credit: Obed Lamy)"
     },
     {
-     "outlet": "cbsnews",
-     "title": "Bacon says Congress \"should have oversight\" amid concerns about USS Lincoln",
-     "url": "https://www.cbsnews.com/news/uss-abraham-lincoln-conditions-don-bacon-face-the-nation-08-16-2026/",
-     "author": null,
+     "outlet": "guardian",
+     "title": "At least six people dead from days of storms and record flooding in Indiana",
+     "url": "https://www.theguardian.com/us-news/2026/aug/16/indiana-storms-flooding-deaths",
+     "author": "Associated Press",
      "kind": "news",
-     "published": "2026-08-16T17:07:44+00:00",
-     "summary": "GOP Rep. Don Bacon of Nebraska said Congress should conduct oversight following concerns about conditions aboard the USS Abraham Lincoln, which is being replaced after a nearly nine-month deployment."
+     "published": "2026-08-16T19:27:22+00:00",
+     "summary": "Four-year-old boy, two men and three women among those who died since storms began on 11 August, officials say Days of storms and flooding in Indiana left at least six people dead as flood waters peaked in Indianapolis\u2019s White River \u2013 and rains were expected to ease in the state capital region and other parts of the state on Sunday. A four-year-old boy, two men and three women were among those who had died since the storms began on 11 August, state homeland security department spokesperson Liz Woods said. Continue reading..."
     },
     {
-     "outlet": "time",
-     "title": "What to Know About the Growing Concerns Over Conditions on the Long-Deployed USS Abraham Lincoln",
-     "url": "https://time.com/article/2026/08/14/uss-abraham-lincoln-conditions-trump-iran-war/",
-     "author": "Connor Greene",
+     "outlet": "pbsnewshour",
+     "title": "At least 6 people have died from days of storms and record-setting flooding in Indiana",
+     "url": "https://www.pbs.org/newshour/nation/at-least-6-people-have-died-from-days-of-storms-and-record-setting-flooding-in-indiana",
+     "author": "Obed Lamy, Associated Press",
      "kind": "news",
-     "published": "2026-08-14T20:14:50+00:00",
-     "summary": "In this U.S. Navy released handout, An F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 14, makes an arrested landing on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72) in support of Operation Epic Fury, on February 28, 2026. \u2014U.S. Navy/Getty Images The USS Abraham Lincoln has been at sea in the Middle East for months, and with no clear end in sight for the war in Iran , concerns for those aboard the aircraft carrier\u2014and for the vessel itself\u2014have mounted amid a series of troubling reports. Another aircraft carrier, the USS George Washington, had begun making its way towards the Middle East as of Thursday to replace the Lincoln, multiple news outlets reported. President Donald Trump appeared to confirm the reported ship swap on Friday, saying that the Lincoln \"is moving right now, or very shortly and is being replaced with another very similar ship.\u201d The Washington\u2019s deployment comes as reports have emerged in recent months recounting worsening living conditions, mental health concerns, and supply shortages on board the Lincoln. Trump seemed to deny the reports on the state of the Lincoln and its crew on Friday, responding \u201cNo, they\u2019re n"
+     "published": "2026-08-16T17:50:54+00:00",
+     "summary": "A 4-year-old boy, two men and three women were among those who had died since the storms began Aug. 11, said Liz Woods, a spokesperson for the state Department of Homeland Security."
     }
    ]
   },
@@ -1663,57 +1815,6 @@
      "kind": "news",
      "published": "2026-08-16T17:17:40+00:00",
      "summary": "Tommy John, the former MLB pitcher whose elbow surgery set the standard in baseball and helped lengthen the careers of countless players, has died. He was 83. Mike Maguire, his agent, announced John\u2019s death in a statement. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! \"Thomas Edward \u2018Tommy\u2019 John Jr. passed away peacefully at his home in Lakewood Ranch last night surrounded by his loving wife, Cheryl, and his sister-in-laws Judith Florentino and Karen Jordan,\" the statement read. \"A private celebration of life will be held in Florida.\" John\u2019s death comes about a week after he released a farewell message to fans on New York Yankees\u2019 Old-Timers\u2019 Day . He said in his message he was \"saying goodbye\" as the team revealed he had been battling health issues. \"I want to thank the Yankees organization &amp; the Steinbrenner family for giving me this opportunity to say goodbye to everyone, along with all the friends &amp; fans who followed me throughout my 26-year career,\" John\u2019s message read. \"Thanks to Dr. Jobe, who saved my arm &amp; made it possible for me to continue pitching. That surgery has since gone on to save the careers of countless pitchers, includi"
-    }
-   ]
-  },
-  {
-   "id": "67505f3706",
-   "topic": "Climate & Energy",
-   "summary": "Four-year-old boy, two men and three women among those who died since storms began on 11 August, officials say Days of storms and flooding in Indiana left at least six people dead as flood waters peaked in Indianapolis\u2019s White River \u2013 and rains were expected to ease in the state capital region and other parts of the state on Sunday. A four-year-old boy, two men and three women were among those who had died since the storms began on 11 August, state homeland security department spokesperson Liz Woods said. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "At least six people dead from days of storms and record flooding in Indiana",
-   "updated": "2026-08-16T19:59:17+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "nonprofit": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Indiana Prepares for More Rain After Days of Deadly Storms",
-     "url": "https://www.nytimes.com/2026/08/16/us/indiana-storms-flooding.html",
-     "author": "Bernard Mokam",
-     "kind": "news",
-     "published": "2026-08-16T19:59:17+00:00",
-     "summary": "Since last week, hazardous weather has caused seven deaths, forced people from their homes and required some to be rescued by boat. The region was at risk for more flooding on Sunday."
-    },
-    {
-     "outlet": "guardian",
-     "title": "At least six people dead from days of storms and record flooding in Indiana",
-     "url": "https://www.theguardian.com/us-news/2026/aug/16/indiana-storms-flooding-deaths",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T19:27:22+00:00",
-     "summary": "Four-year-old boy, two men and three women among those who died since storms began on 11 August, officials say Days of storms and flooding in Indiana left at least six people dead as flood waters peaked in Indianapolis\u2019s White River \u2013 and rains were expected to ease in the state capital region and other parts of the state on Sunday. A four-year-old boy, two men and three women were among those who had died since the storms began on 11 August, state homeland security department spokesperson Liz Woods said. Continue reading..."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "At least 6 people have died from days of storms and record-setting flooding in Indiana",
-     "url": "https://www.pbs.org/newshour/nation/at-least-6-people-have-died-from-days-of-storms-and-record-setting-flooding-in-indiana",
-     "author": "Obed Lamy, Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T17:50:54+00:00",
-     "summary": "A 4-year-old boy, two men and three women were among those who had died since the storms began Aug. 11, said Liz Woods, a spokesperson for the state Department of Homeland Security."
     }
    ]
   },
@@ -1969,57 +2070,6 @@
      "kind": "opinion",
      "published": "2026-08-14T14:32:25+00:00",
      "summary": "There's something primordially satisfying about watching a big-screen dinosaur get the what-for from the business end of a just-loaded shotgun. The recent run of Jurassic Park movies sometimes seems to have lost this primal pleasure, replacing it with ho-hum computer-generated spectacle and cheap nostalgic callbacks to the franchise's better days. They've forgotten that the franchise was founded on a combination of awe and white-knuckle terror\u2014the raw and relatable fear of a giant, toothy monster that stalks the earth with a sort of evolutionary arrogance that comes from a couple million years atop the food chain. Newsflash: Humans rule the planet now. It's fun to watch these ancient planetary powerhouses get taken down a peg. Sic semper Tyrannosaurus. The End of Oak Street remembers what the Jurassic Park franchise has largely forgotten. It leans into the animal terror of encountering a dinosaur on the streets of an ordinary suburb. Set in the early 1980s, the movie lifts brashly from early Steven Spielberg, especially E.T. , depicting a seemingly ordinary family with its own ordinary troubles who find themselves in a sort of dinosaur-ridden episode of The Twilight Zone. The End o"
-    }
-   ]
-  },
-  {
-   "id": "1af9d68467",
-   "topic": "World",
-   "summary": "Israeli settlers run as they are chased by an Israeli military vehicle around Palestinian houses in the village of Qusra, south of Nablus, in the occupied West Bank, on Aug. 13, 2026. Photo by Zain Jaafar/AFP via Getty Images US Ambassador Mike Huckabee called settlers besieging a Palestinian American home in the occupied West Bank &#8220; Israeli terrorists .&#8221; It&#8217;s a welcome, rare rebuke from a U.S. official, but what kind of weight does it really have when the same official has been a long-time supporter of Israeli settlements? It wasn&#8217;t that long ago that Huckabee made similar comments about settler violence gripping the Palestinian Christian village of Taybeh , where attacks continue, or the settlers who beat Palestinian American Sayfollah Musallet to death (no one has been held accountable). Subscribe now What kind of weight do Huckabee&#8217;s comments really\u2026",
-   "summaryFrom": "zeteo",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "nonprofit"
-   ],
-   "headline": "Israeli army besieges Palestinian homes in occupied West Bank",
-   "updated": "2026-08-16T17:45:52+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "coop": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Israeli army besieges Palestinian homes in occupied West Bank",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T17:45:52+00:00",
-     "summary": "Israeli troops have raided the village of Qusra, south of Nablus, in the occupied West Bank."
-    },
-    {
-     "outlet": "france24",
-     "title": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
-     "url": "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-16T12:02:18+00:00",
-     "summary": "A solar eclipse seen across parts of Europe, ongoing search-and-rescue efforts in Colombia after a devastating earthquake killed at least 300 people and left hundreds missing, and escalating violence by Israeli settlers in the occupied West Bank, condemned by the US ambassador to Israel as \"acts of terror\": FRANCE 24 takes a look at the week's most striking images."
-    },
-    {
-     "outlet": "zeteo",
-     "title": "This Week in Palestine: Israel Shoots 13-Year-Old as She \u2018Memorized the Quran\u2019 and Settlers Besiege Palestinian Families",
-     "url": "https://zeteo.com/p/this-week-in-palestine-israel-shoots",
-     "author": "Team Zeteo",
-     "kind": "news",
-     "published": "2026-08-15T17:01:34+00:00",
-     "summary": "Israeli settlers run as they are chased by an Israeli military vehicle around Palestinian houses in the village of Qusra, south of Nablus, in the occupied West Bank, on Aug. 13, 2026. Photo by Zain Jaafar/AFP via Getty Images US Ambassador Mike Huckabee called settlers besieging a Palestinian American home in the occupied West Bank &#8220; Israeli terrorists .&#8221; It&#8217;s a welcome, rare rebuke from a U.S. official, but what kind of weight does it really have when the same official has been a long-time supporter of Israeli settlements? It wasn&#8217;t that long ago that Huckabee made similar comments about settler violence gripping the Palestinian Christian village of Taybeh , where attacks continue, or the settlers who beat Palestinian American Sayfollah Musallet to death (no one has been held accountable). Subscribe now What kind of weight do Huckabee&#8217;s comments really have when, hours after using the phrase &#8220;Israeli terrorists,&#8221; he called the settlers &#8220; illegal trespassers &#8221; instead? Or when he defended the vast majority of settlers, saying they aren&#8217;t the problem, the &#8220; unsettlers &#8221; are, even though the settlements themselve"
     }
    ]
   },
@@ -2381,57 +2431,6 @@
    ]
   },
   {
-   "id": "2f0df6930f",
-   "topic": "Justice & Policing",
-   "summary": "U.S. Attorney Jeanine Pirro's office has filed charges against the woman accused of vandalizing the World War II Memorial in Washington, DC. The post VIDEO \u2014 U.S. Attorney Jeanine Pirro Charges Suspect for D.C. WWII Memorial Vandalism: &#8216;A Despicable Attack&#8217; appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "VIDEO \u2014 U.S. Attorney Jeanine Pirro Charges Suspect for D.C. WWII Memorial Vandalism: 'A Despicable Attack'",
-   "updated": "2026-08-15T14:44:15+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 2,
-    "corp": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "VIDEO \u2014 U.S. Attorney Jeanine Pirro Charges Suspect for D.C. WWII Memorial Vandalism: 'A Despicable Attack'",
-     "url": "https://www.breitbart.com/crime/2026/08/15/video-u-s-attorney-jeanine-pirro-charges-suspect-for-d-c-wwii-memorial-vandalism-a-despicable-attack/",
-     "author": "Amy Furr",
-     "kind": "news",
-     "published": "2026-08-15T14:44:15+00:00",
-     "summary": "U.S. Attorney Jeanine Pirro's office has filed charges against the woman accused of vandalizing the World War II Memorial in Washington, DC. The post VIDEO \u2014 U.S. Attorney Jeanine Pirro Charges Suspect for D.C. WWII Memorial Vandalism: &#8216;A Despicable Attack&#8217; appeared first on Breitbart ."
-    },
-    {
-     "outlet": "nyt",
-     "title": "DOJ Charges Kentucky Woman in World War II Memorial Vandalism Case",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/world-war-2-memorial-vandalism.html",
-     "author": "Karoun Demirjian",
-     "kind": "news",
-     "published": "2026-08-14T19:04:23+00:00",
-     "summary": "Two felony charges have been filed against a Kentucky woman after spray paint was seen on the memorial in the capital."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Pirro announces arrest in WWII Memorial vandalism",
-     "url": "https://abcnews.com/Politics/pirro-announces-arrest-wwii-memorial-vandalism/story?id=135642645",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T17:15:04+00:00",
-     "summary": "Pirro said her office filed two felony charges against a woman who allegedly vandalized the WWII Memorial."
-    }
-   ]
-  },
-  {
    "id": "d3b357bdbe",
    "topic": "Politics",
    "summary": "A bulldozer clears a pathway in Big Bend National Park, Texas, on August 12, 2026. | Kaylee Greenlee/Bloomberg via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: Remember President Donald Trump\u2019s first-term border wall? It\u2019s still being built \u2014 through a pristine Texas national park. What\u2019s happening? The Trump administration is preparing to build hundreds of miles of roads through Big Bend National Park in southwest Texas as part of its latest border security project, despite a bipartisan outcry over damage to the beloved park.&nbsp; Starting last week, bulldozers and heavy machinery began to clear land for the construction of about 200 miles of patrol road, new border barriers, and electronic\u2026",
@@ -2479,6 +2478,57 @@
      "kind": "news",
      "published": "2026-08-13T22:51:21+00:00",
      "summary": "Photo: Marc Caputo/Axios Marco Rubio has three official Trump administration jobs and a fourth unofficial title: Viral meme star. He's been featured in countless \"Rubio Realizing\" images doctored to capture his grim reaction to being \"assigned\" more jobs, depending on the news of the day or the crisis du jour in the White House. Why it matters: For his 55th birthday on May 28, White House staffers and President Trump gifted Rubio with a gold-framed collage of their 68 favorite \"Rubio Realizing\" memes. A photo of the gift went viral Wednesday when this Axios reporter posted it on X. Zoom in: For the past 18 months, Rubio memes have featured him as everything from a Kiss band member to a samurai to a \"Bachelorette\" contestant in homage to his roles as secretary of state, national security adviser and chair of the U.S. bid for the World Expo in 2035. The memes are based on a photo from one of the most awkward moments in the Trump White House \u2014 on Feb. 28, 2025, when the president and Vice President Vance excoriated Ukrainian President Volodymyr Zelensky over the war with Russia. As the two U.S. leaders savaged Zelensky, Rubio sat ramrod straight on an Oval Office couch without engagin"
+    }
+   ]
+  },
+  {
+   "id": "a765ee5a58",
+   "topic": "Justice & Policing",
+   "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense, arguing that the weapons and murder counts against him should not move forward. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges.\u2026",
+   "summaryFrom": "axios",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+   "updated": "2026-08-14T19:20:43+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 1,
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+     "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T19:20:43+00:00",
+     "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death."
+    },
+    {
+     "outlet": "axios",
+     "title": "Luigi Mangione pleads guilty to stalking UnitedHealthcare CEO, admits killing him",
+     "url": "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case",
+     "author": "Avery Lotz",
+     "kind": "news",
+     "published": "2026-08-14T19:15:57+00:00",
+     "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense, arguing that the weapons and murder counts against him should not move forward. Driving the news: Mangione's trial over the two federal charges \u2014 interstate stalking resulting in death and stalking through use of interstate facilities resulting in death \u2014 was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for the federal charges. \"Today's guilty plea marks an important step toward justice for Brian and for our family,\" Thompson's family said in a statement, noting they \"remain mindful that additional proceedings in New York and Pennsylvania are still to come, and we will continue to seek the justice Brian deserves.\" While Man"
+    },
+    {
+     "outlet": "time",
+     "title": "Luigi Mangione Pleads Guilty to Federal Charges in UnitedHealthcare CEO's Fatal Shooting",
+     "url": "https://time.com/article/2026/08/14/luigi-mangione-guilty-plea-federal-case-unitedhealthcare-brian-thompson/",
+     "author": "Chantelle Lee",
+     "kind": "news",
+     "published": "2026-08-14T15:41:30+00:00",
+     "summary": "Luigi Mangione on Friday pleaded guilty to both federal stalking charges against him in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson, admitting in court that he shot the healthcare executive in 2024. Luigi Mangione on Friday pleaded guilty to both federal stalking charges against him in connection with the fatal shooting of UnitedHealthcare CEO Brian Thompson, admitting in court that he shot the healthcare executive in 2024. Mangione pleaded guilty to two charges that each carry a possible life sentence: interstate stalking resulting in death and stalking through use of interstate facilities resulting in death. The judge accepted his plea. \u201cI shot Mr. Thompson in Manhattan,\u201d Mangione told the judge on Friday, according to the New York Times. \u201cI understood that my actions would place him in fear of death or bodily injury. I knew what I was doing was illegal.\u201d He said during the hearing that he tracked down Thompson \u201cafter years of enduring severe pain from a broken back, navigating the obstacles of the health insurance system and witnessing similar experiences of countless others,\u201d The Associated Press reported. He said he had 3-D printed a gun and attac"
     }
    ]
   },
@@ -2534,44 +2584,296 @@
    ]
   },
   {
-   "id": "9082cc01bf",
-   "topic": "Politics",
-   "summary": "About 5,000 sailors and Marines are aboard the carrier, which has operated for more than 200 consecutive days without a port call.",
-   "summaryFrom": "newsweek",
+   "id": "15a3bf4b26",
+   "topic": "World",
+   "summary": "President Trump said Sunday he instructed Defense Secretary Pete Hegseth to \"substantially reduce\" U.S. military exercises with South Korea. The big picture: Trump wrote on Truth Social that South Korea declined his request to help the U.S. denuclearize Iran and cited his \"very good relationship\" with North Korean leader Kim Jong Un. Editor's note: This is a breaking news story. Please check back for updates.",
+   "summaryFrom": "axios",
    "emphasis": null,
    "absent": [
     "family",
     "coop",
-    "nonprofit",
-    "pub"
+    "nonprofit"
    ],
-   "headline": "After Trump Says Carrier Deployment Not Long Enough, Mullen Warns of Risks",
-   "updated": "2026-08-16T20:33:29+00:00",
+   "headline": "Trump says US will scale back military drills with South Korea",
+   "updated": "2026-08-16T21:32:58+00:00",
    "outletCount": 2,
    "counts": {
-    "corp": 2
+    "corp": 1,
+    "pub": 1
    },
    "newsCount": 2,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "newsweek",
-     "title": "After Trump Says Carrier Deployment Not Long Enough, Mullen Warns of Risks",
-     "url": "https://www.newsweek.com/after-trump-says-carrier-deployment-not-long-enough-mullen-warns-of-risks-12329235",
-     "author": null,
+     "outlet": "axios",
+     "title": "Trump tells Hegseth to cut U.S.-South Korea drills",
+     "url": "https://www.axios.com/2026/08/16/trump-us-south-korea-military-drills-cut",
+     "author": "Rebecca Falconer",
      "kind": "news",
-     "published": "2026-08-16T20:33:29+00:00",
-     "summary": "About 5,000 sailors and Marines are aboard the carrier, which has operated for more than 200 consecutive days without a port call."
+     "published": "2026-08-16T21:32:58+00:00",
+     "summary": "President Trump said Sunday he instructed Defense Secretary Pete Hegseth to \"substantially reduce\" U.S. military exercises with South Korea. The big picture: Trump wrote on Truth Social that South Korea declined his request to help the U.S. denuclearize Iran and cited his \"very good relationship\" with North Korean leader Kim Jong Un. Editor's note: This is a breaking news story. Please check back for updates."
     },
     {
-     "outlet": "slate",
-     "title": "Trump on Long-Suffering Sailors: \u201cNot Nearly Long Enough\u201d",
-     "url": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html?via=rss",
-     "author": "Ian Prasad Philbrick",
+     "outlet": "bbc",
+     "title": "Trump says US will scale back military drills with South Korea",
+     "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-14T21:09:49+00:00",
-     "summary": "Sailors are suffering. Trump and his team are denying it."
+     "published": "2026-08-16T21:27:42+00:00",
+     "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran."
+    }
+   ]
+  },
+  {
+   "id": "9dfee466e2",
+   "topic": "Other",
+   "summary": "A Berkeley mathematics professor is sounding the alarm that many students are woefully unprepared when they arrive at college because the University of California system's progressive \"test-blind\" policies have proven disastrous. \"Three days a week, I stand in front of lecture halls with 500 to 1,400 students. By the second week of the semester, I already know who is in trouble,\" professor Zvezdelina Stankova wrote in a San Francisco Standard op-ed published Saturday . \"Some students are five to eight years behind in mathematics. Office hours that should be spent discussing integrals instead become lessons on fractions and basic algebra you would expect students to learn in middle school,\" he said. Stankova and thousands of faculty members across the 10 UC campuses have signed open letters urging the university system to reinstate the SAT and ACT in admissions. Former UC president Janet\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "UC-Berkeley math prof says she has to teach fractions to calculus students because standards have fallen so far",
+   "updated": "2026-08-16T21:24:53+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "UC-Berkeley math prof says she has to teach fractions to calculus students because standards have fallen so far",
+     "url": "https://nypost.com/2026/08/16/us-news/uc-berkeley-math-prof-forced-to-teach-fractions-because-standards-have-fallen-so-far/",
+     "author": "Anthony Blair",
+     "kind": "news",
+     "published": "2026-08-16T21:24:53+00:00",
+     "summary": "In a scathing piece, she described the admissions process as \"less like careful evaluation and more like chance\" at the prestigious California college."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Berkeley math professor sounds alarm on liberal 'test-blind' policies, warns many students badly behind",
+     "url": "https://www.foxnews.com/media/berkeley-math-professor-sounds-alarm-liberal-test-blind-policies-warns-many-students-badly-behind",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T19:00:08+00:00",
+     "summary": "A Berkeley mathematics professor is sounding the alarm that many students are woefully unprepared when they arrive at college because the University of California system's progressive \"test-blind\" policies have proven disastrous. \"Three days a week, I stand in front of lecture halls with 500 to 1,400 students. By the second week of the semester, I already know who is in trouble,\" professor Zvezdelina Stankova wrote in a San Francisco Standard op-ed published Saturday . \"Some students are five to eight years behind in mathematics. Office hours that should be spent discussing integrals instead become lessons on fractions and basic algebra you would expect students to learn in middle school,\" he said. Stankova and thousands of faculty members across the 10 UC campuses have signed open letters urging the university system to reinstate the SAT and ACT in admissions. Former UC president Janet Napolitano, who also served in the Obama administration, led the way in 2020 to phase out the standardized testing, in part out of \"equity\" concerns . \"Since then, admissions officers have been forbidden from considering the one standardized measure that provided a common academic benchmark across C"
+    }
+   ]
+  },
+  {
+   "id": "4e91c17727",
+   "topic": "Other",
+   "summary": "The Los Angeles Rams worked out Aaron Donald for the second time this summer. On Sunday, Donald was listed as a player who &#8220;tried out&#8221; for the team, according to the NFL&#8217;s transaction wire. The three-time Defensive Player of the Year first auditioned for the team he previously spent 10 seasons with earlier this month...",
+   "summaryFrom": "nypost",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Aaron Donald officially works out for Rams \u2014 again, Sean McVay shares \u2018behind the scenes\u2019",
+   "updated": "2026-08-16T21:24:37+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Aaron Donald officially works out for Rams \u2014 again, Sean McVay shares \u2018behind the scenes\u2019",
+     "url": "https://nypost.com/2026/08/16/sports/aaron-donald-works-out-rams-again-sean-mcvay-behind-scenes/",
+     "author": "Valentina Martinez",
+     "kind": "news",
+     "published": "2026-08-16T21:24:37+00:00",
+     "summary": "The Los Angeles Rams worked out Aaron Donald for the second time this summer. On Sunday, Donald was listed as a player who &#8220;tried out&#8221; for the team, according to the NFL&#8217;s transaction wire. The three-time Defensive Player of the Year first auditioned for the team he previously spent 10 seasons with earlier this month..."
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Rams&#039; Sean McVay Reacts to Ty Simpson&#039;s Preseason Debut",
+     "url": "https://www.newsweek.com/sports/nfl/rams-sean-mcvay-reacts-to-ty-simpsons-preseason-debut-12329092",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T21:20:24+00:00",
+     "summary": "Los Angeles Rams quarterback Ty Simpson made his NFL preseason debut in the Rams&#039; 20-12 victory over the Kansas City Chiefs."
+    }
+   ]
+  },
+  {
+   "id": "e8bf0d7895",
+   "topic": "Other",
+   "summary": "When news broke on Friday that the disgraced academic Jason Arday had been found dead at home in London, after being accused of plagiarizing much of his work and lying about all manner of biographical details in his recent memoir, there were those on the left who leapt to blame racism. London Mayor Sadiq Khan immediately posted on X that &#8220;Jason Arday was the victim of a pernicious public shaming that other people in his position simply wouldn&#8217;t have faced.&#8221; &#8220;If Jason Arday were a white middle-class academic,&#8221; wrote left-wing Member of Parliament Zarah Sultana, &#8220;he would not have been hounded by the British press in the way he was.&#8221; Most deranged of all was Ibram X. Kendi, the prolific purveyor of &#8220;antiracism&#8221; who rose to fame during the racial reckoning of 2020. &#8220;The attacks are wielded by racist propagandists, resenting you\u2026",
+   "summaryFrom": "freepress",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Who is DEI critic and Jason Arday accuser, Nathan Cofnas?",
+   "updated": "2026-08-16T21:16:58+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "freepress",
+     "title": "Douglas Murray: The Tragedy of Jason Arday",
+     "url": "https://www.thefp.com/p/douglas-murray-tragedy-jason-arday",
+     "author": "Douglas Murray",
+     "kind": "news",
+     "published": "2026-08-16T21:16:58+00:00",
+     "summary": "When news broke on Friday that the disgraced academic Jason Arday had been found dead at home in London, after being accused of plagiarizing much of his work and lying about all manner of biographical details in his recent memoir, there were those on the left who leapt to blame racism. London Mayor Sadiq Khan immediately posted on X that &#8220;Jason Arday was the victim of a pernicious public shaming that other people in his position simply wouldn&#8217;t have faced.&#8221; &#8220;If Jason Arday were a white middle-class academic,&#8221; wrote left-wing Member of Parliament Zarah Sultana, &#8220;he would not have been hounded by the British press in the way he was.&#8221; Most deranged of all was Ibram X. Kendi, the prolific purveyor of &#8220;antiracism&#8221; who rose to fame during the racial reckoning of 2020. &#8220;The attacks are wielded by racist propagandists, resenting you for shining a light on anti-Black racism,&#8221; he wrote, addressing the deceased professor directly, in an essay titled &#8220;The Media Lynched Jason Arday.&#8221; This is manifestly, sinisterly untrue. Firstly, because there have been plenty of &#8220;white middle-class academics&#8221; who have be"
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Who is DEI critic and Jason Arday accuser, Nathan Cofnas?",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/who-is-dei-critic-and-jason-arday-accuser-nathan-cofnas?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T13:53:20+00:00",
+     "summary": "Nathan Cofnas, who accused Jason Arday of plagiarism, believes intelligence varies between racial groups."
+    }
+   ]
+  },
+  {
+   "id": "4b04ce6b38",
+   "topic": "Culture & Sport",
+   "summary": "The Volta a Portugal stage race resumed on Saturday, one day after the stage was cancelled due to the tragic mid-race death of Finlay Tarling, but with changes. The most notable is Tarling&apos;s NSN Development team has withdrawn from the race, and organizers also cancelled all non-race activities like the advertising caravan. Tarling, who was 19 years old and the younger brother of Netcompany-Ineos pro Josh Tarling, died Friday in a head-on collision when a driver of a non-race vehicle somehow entered the course. Tarling was reportedly behind the peloton at the time of the crash but still within the rolling race enclosure. The crash is under investigation by Portugal&apos;s national police. The NSN Development team&apos;s parent WorldTeam continued to race in both the Czech Tour and Tour of Norway &#x2013;&#xa0;&quot;with the full support of Fin&apos;s parents,&quot; the team wrote on\u2026",
+   "summaryFrom": "escapecollective",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Cyclist\u2019s parents share heartbreaking tribute following death from Volta a Portugal crash",
+   "updated": "2026-08-16T21:09:48+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "coop": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Cyclist\u2019s parents share heartbreaking tribute following death from Volta a Portugal crash",
+     "url": "https://nypost.com/2026/08/16/sports/cyclists-parents-share-heartbreaking-tribute-following-death-from-volta-a-portugal-crash/",
+     "author": "Ethan Sears",
+     "kind": "news",
+     "published": "2026-08-16T21:09:48+00:00",
+     "summary": "Michael and Dawn Tarling, whose son Finlay died at 19 after being hit by a car during the Volta a Portugal cycling race earlier this week, shared a tribute post on Instagram Sunday."
+    },
+    {
+     "outlet": "escapecollective",
+     "title": "Volta a Portugal continues after Tarling's death, without NSN team",
+     "url": "https://escapecollective.com/volta-a-portugal-continues-after-tarlings-death-without-nsn-team/",
+     "author": "Joe Lindsey",
+     "kind": "news",
+     "published": "2026-08-15T15:20:13+00:00",
+     "summary": "The Volta a Portugal stage race resumed on Saturday, one day after the stage was cancelled due to the tragic mid-race death of Finlay Tarling, but with changes. The most notable is Tarling&apos;s NSN Development team has withdrawn from the race, and organizers also cancelled all non-race activities like the advertising caravan. Tarling, who was 19 years old and the younger brother of Netcompany-Ineos pro Josh Tarling, died Friday in a head-on collision when a driver of a non-race vehicle somehow entered the course. Tarling was reportedly behind the peloton at the time of the crash but still within the rolling race enclosure. The crash is under investigation by Portugal&apos;s national police. The NSN Development team&apos;s parent WorldTeam continued to race in both the Czech Tour and Tour of Norway &#x2013;&#xa0;&quot;with the full support of Fin&apos;s parents,&quot; the team wrote on Instagram &#x2013;&#xa0;but the Development team withdrew from Portugal. A moment of silence was held at all three races."
+    }
+   ]
+  },
+  {
+   "id": "ed6c839245",
+   "topic": "Politics",
+   "summary": "President, 80, vows to keep far-right from power as Fl\u00e1vio Bolsonaro tells supporters he will \u2018fight this system\u2019 Brazil\u2019s leftwing president, Luiz In\u00e1cio Lula da Silva, has launched his campaign for a historic fourth term and vowed that as long as he lived he would not allow the \u201cshameless\u201d right to return to power. Addressing a sea of supporters in S\u00e3o Bernardo do Campo, the industrial city where his political career began nearly half a century ago, the 80-year-old politician reminded voters of the chaos and violence that unfolded during the 2018-22 presidency of his far-right predecessor, Jair Bolsonaro , whose son Fl\u00e1vio Bolsonaro will face Lula in October\u2019s presidential election . Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
+   "updated": "2026-08-16T20:36:32+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
+     "url": "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T20:36:32+00:00",
+     "summary": "Lula and Bolsonaro appeal to Brazil\u2019s women voters with promises to combat rising femicide and gender violence."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Brazil\u2019s Lula launches historic fourth term bid \u2013 but son of jailed Bolsonaro stands in his way",
+     "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
+     "author": "Tom Phillips in S\u00e3o Bernardo do Campo",
+     "kind": "news",
+     "published": "2026-08-16T18:44:41+00:00",
+     "summary": "President, 80, vows to keep far-right from power as Fl\u00e1vio Bolsonaro tells supporters he will \u2018fight this system\u2019 Brazil\u2019s leftwing president, Luiz In\u00e1cio Lula da Silva, has launched his campaign for a historic fourth term and vowed that as long as he lived he would not allow the \u201cshameless\u201d right to return to power. Addressing a sea of supporters in S\u00e3o Bernardo do Campo, the industrial city where his political career began nearly half a century ago, the 80-year-old politician reminded voters of the chaos and violence that unfolded during the 2018-22 presidency of his far-right predecessor, Jair Bolsonaro , whose son Fl\u00e1vio Bolsonaro will face Lula in October\u2019s presidential election . Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "b955178a82",
+   "topic": "Politics",
+   "summary": "Sunday on CNN\u2019s &#8220;State of the Union,&#8221; Sen. Bill Cassidy (R-LA) said President Donald Trump&#8217;s comments on childhood vaccines are &#8220;crazy, stupid.&#8221; Cassidy said, &#8220;Let\u2019s just take it from the perspective of the parent. Now instead of going to the The post GOP Sen. Cassidy: Trump&#8217;s Comments Undermining Faith in Vaccines &#8216;Crazy, Stupid&#8217; appeared first on Breitbart .",
+   "summaryFrom": "breitbart",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Cassidy on Trump's vaccine order, 'crazy, stupid' claims: 'This is why the president's poll numbers are going down'",
+   "updated": "2026-08-16T20:13:41+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "Cassidy on Trump's vaccine order, 'crazy, stupid' claims: 'This is why the president's poll numbers are going down'",
+     "url": "https://thehill.com/policy/healthcare/6032232-cassidy-slams-trump-vaccine-order/",
+     "author": "Ryan Mancini",
+     "kind": "news",
+     "published": "2026-08-16T20:13:41+00:00",
+     "summary": "Sen. Bill Cassidy (R-La.) on Sunday said President Trump's executive order that seeks to alter the childhood vaccine schedule is based on \"crazy, stupid\" claims, and that they are \"why the president's poll numbers are going down.\" CNN's Jake Tapper, in an interview with Cassidy, a physician, reiterated the senator's words in saying that \"someone needs to..."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "GOP Sen. Cassidy: Trump's Comments Undermining Faith in Vaccines 'Crazy, Stupid'",
+     "url": "https://www.breitbart.com/clips/2026/08/16/gop-sen-cassidy-trumps-comments-undermining-faith-in-vaccines-crazy-stupid/",
+     "author": "Pam Key",
+     "kind": "news",
+     "published": "2026-08-16T15:09:31+00:00",
+     "summary": "Sunday on CNN\u2019s &#8220;State of the Union,&#8221; Sen. Bill Cassidy (R-LA) said President Donald Trump&#8217;s comments on childhood vaccines are &#8220;crazy, stupid.&#8221; Cassidy said, &#8220;Let\u2019s just take it from the perspective of the parent. Now instead of going to the The post GOP Sen. Cassidy: Trump&#8217;s Comments Undermining Faith in Vaccines &#8216;Crazy, Stupid&#8217; appeared first on Breitbart ."
     }
    ]
   },
@@ -3122,7 +3424,7 @@
    ]
   },
   {
-   "id": "494ed681f3",
+   "id": "25869421cc",
    "topic": "Other",
    "summary": "Photo Illustration by Eric Faison/The Daily Beast/Getty The investigation into Nancy Guthrie\u2019s kidnapping may have been hobbled from the start by inexperienced homicide detectives, friction with the FBI, and a decision to give the family control of the crime scene too soon, according to a local law enforcement union leader. Sgt. Aaron Cross, president of the Pima County Deputies Organization, detailed what he believes went wrong in the case in an interview with TMZ Cross\u2019s biggest concern is that local investigators relinquished control of Guthrie\u2019s crime scene to her family too soon. Read more at The Daily Beast.",
    "summaryFrom": "dailybeast",
@@ -3133,7 +3435,7 @@
     "nonprofit",
     "pub"
    ],
-   "headline": "Todd Blanche says FBI will continue providing assistance on Nancy Guthrie investigation but doesn\u2019t yet have any updates",
+   "headline": "Todd Blanche says FBI will continue providing assistance on Nancy Guthrie investigation but doesn\u2019t have any updates",
    "updated": "2026-08-16T16:03:19+00:00",
    "outletCount": 2,
    "counts": {
@@ -3145,12 +3447,12 @@
    "articles": [
     {
      "outlet": "nbcnews",
-     "title": "Todd Blanche says FBI will continue providing assistance on Nancy Guthrie investigation but doesn\u2019t yet have any updates",
+     "title": "Todd Blanche says FBI will continue providing assistance on Nancy Guthrie investigation but doesn\u2019t have any updates",
      "url": "https://www.nbcnews.com/news/us-news/todd-blanche-best-course-fbi-takeover-nancy-guthrie-investigation-rcna592784",
      "author": "Alexandra Marquez",
      "kind": "news",
      "published": "2026-08-16T16:03:19+00:00",
-     "summary": "Attorney General Todd Blanche said that he doesn\u2019t believe it would be the best course of action for the FBI to take over the investigation into the disappearance of Nancy Guthrie in Arizona"
+     "summary": "Attorney General Todd Blanche said he doesn\u2019t believe it would be the best course of action for the FBI to take over the investigation into the disappearance of Nancy Guthrie in Arizona"
     },
     {
      "outlet": "dailybeast",
@@ -3202,258 +3504,6 @@
      "kind": "opinion",
      "published": "2026-08-16T11:21:48+00:00",
      "summary": "WNBA star Sophie Cunningham climbed onto a bar at a downtown Indianapolis honky-tonk Friday night and belted out Toby Keith&#8217;s &#8220;Courtesy of the Red, White and Blue&#8221; with a roomful of Indiana Fever fans, hours after her team beat the Dallas Wings. Cunningham had stopped in at Clayton&#8217;s Country Bar after the Fever&#8217;s 98-87 win over the Wings at Gainbridge Fieldhouse. Country singer Clayton Anderson spotted her at the end of the bar, grabbed a microphone and introduced her to the crowd \u2014 &#8220;Ladies and gentlemen, my friend, America&#8217;s sweetheart, Sophie Cunningham!&#8221; \u2014 before the two climbed up onto the bar to sing the post-9/11 anthem&#8217;s closing verse together. WATCH: Only Sophie Cunningham could go from playing a Fever game to randomly showing up at a bar and singing \u201cCourtesy of the Red, White and Blue\u201d with the fans. \ud83e\udd70\ud83c\uddfa\ud83c\uddf8 She\u2019s truly the freaking best. \u2764\ufe0f\u2764\ufe0f pic.twitter.com/FSvsnUOjPZ \u2014 Gina Milan (@ginamilan_) August 15, 2026 Cunningham took the last verse and the final chorus as the bar sang along loudly enough to drown her out in stretches, pulling up a pant leg and kicking the air on the chorus&#8217;s best-known line. &#8220;Hey, Un"
-    }
-   ]
-  },
-  {
-   "id": "76817c0d51",
-   "topic": "World",
-   "summary": "The Watergate-era maxim still applies today: follow the money. In American education, the question is not how much money is spent, but where the money goes. Does funding follow institutions, or does it follow children? Does it serve adult interests, or truly benefit students? This distinction increasingly explains why some states spend more without producing better results, while others see academic gains by empowering parents with meaningful educational choices. New York City is a striking example. In 2024, its Department of Education spent roughly $40 billion, about $36,000 per pupil, one of the highest levels in the nation. Despite this massive investment, student literacy outcomes remain dire. Recent reports found that in 503 of 906 NYC schools studied, most students failed both reading and math exams. State data revealed only 29% of eighth graders were proficient in reading. This\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Gallego: Congress boosting Iran war funding 'like giving a drunk more money and hoping that they'll stop drinking'",
-   "updated": "2026-08-16T15:53:08+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "Gallego: Congress boosting Iran war funding 'like giving a drunk more money and hoping that they'll stop drinking'",
-     "url": "https://thehill.com/homenews/senate/6031966-gallego-criticizes-iran-war/",
-     "author": "Max Rego",
-     "kind": "news",
-     "published": "2026-08-16T15:53:08+00:00",
-     "summary": "Democratic Sen. Ruben Gallego (Ariz.) on Sunday expressed strong opposition to Congress giving the Pentagon more funding amid the Iran war. During an interview on ABC News\u2019s \u201cThis Week,\u201d Gallego pivoted when host Martha Raddatz asked him about the Trump administration requesting from lawmakers $17 billion in military operation costs. \u201cWe are more focused on..."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "STEVE MOORE, ED POZZUOLI: Stop funding school systems. Let the money follow the child",
-     "url": "https://www.foxnews.com/opinion/steve-moore-ed-pozzuoli-stop-funding-school-systems-let-money-follow-child",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-14T11:00:46+00:00",
-     "summary": "The Watergate-era maxim still applies today: follow the money. In American education, the question is not how much money is spent, but where the money goes. Does funding follow institutions, or does it follow children? Does it serve adult interests, or truly benefit students? This distinction increasingly explains why some states spend more without producing better results, while others see academic gains by empowering parents with meaningful educational choices. New York City is a striking example. In 2024, its Department of Education spent roughly $40 billion, about $36,000 per pupil, one of the highest levels in the nation. Despite this massive investment, student literacy outcomes remain dire. Recent reports found that in 503 of 906 NYC schools studied, most students failed both reading and math exams. State data revealed only 29% of eighth graders were proficient in reading. This means more than seven out of 10 students cannot read at grade level, despite the city\u2019s unprecedented spending. If one of the nation\u2019s highest-funded school systems still leaves most students struggling to read proficiently, should policymakers continue focusing solely on increasing funding? Or should"
-    }
-   ]
-  },
-  {
-   "id": "27fd257a4d",
-   "topic": "Other",
-   "summary": "Girl called police after she was shot four times in shooting spree that left six dead, including gunman A 13-year-old girl in Michigan survived being shot four times in a shooting spree that left six people dead \u2013 including the suspected attacker \u2013 and called emergency help herself shortly before investigators identified the gunman, according to a state police official and her family. Those actions made the teen a \u201chero\u201d, said a relative of hers as well as two of the dead victims. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "\u2018She is a hero\u2019: 13-year-old survivor of Michigan shooting rampage called 911",
-   "updated": "2026-08-16T15:47:23+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "\u2018She is a hero\u2019: 13-year-old survivor of Michigan shooting rampage called 911",
-     "url": "https://www.theguardian.com/us-news/2026/aug/16/michigan-shooting-girl-survives",
-     "author": "Michael Sainato",
-     "kind": "news",
-     "published": "2026-08-16T15:47:23+00:00",
-     "summary": "Girl called police after she was shot four times in shooting spree that left six dead, including gunman A 13-year-old girl in Michigan survived being shot four times in a shooting spree that left six people dead \u2013 including the suspected attacker \u2013 and called emergency help herself shortly before investigators identified the gunman, according to a state police official and her family. Those actions made the teen a \u201chero\u201d, said a relative of hers as well as two of the dead victims. Continue reading..."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "13-year-old survivor of Michigan rampage called 911 to report she\u2019d been shot",
-     "url": "https://www.nbcnews.com/news/us-news/13-year-old-survivor-michigan-rampage-called-911-rcna592709",
-     "author": "Marin Scott",
-     "kind": "news",
-     "published": "2026-08-15T19:57:46+00:00",
-     "summary": "A 13-year-old girl \u2014 the only survivor of a shooting rampage in rural Michigan \u2014 called 911 on Friday after she was shot four times, state police official and her family said Saturday."
-    }
-   ]
-  },
-  {
-   "id": "223a0cff2f",
-   "topic": "Politics",
-   "summary": "Existing laws in Colorado reduce the administrative and regulatory costs of building new housing. Helen H. Richardson/The Denver Post via Getty Images In Colorado, a full-time worker must earn US$36.44 an hour to afford a modest two-bedroom apartment without spending more than 30% of their income on rent, according to a recent report from the National Low Income Housing Coalition. The state\u2019s minimum wage is $15.16. Someone earning that would have to work 96 hours a week, more than two full-time jobs, to cover rent. The report ranks Colorado as the 12th-least-affordable state in the country for renters. In July 2026, Congress offered state and local leaders a new set of tools to expand housing supply when it passed the 21st Century ROAD to Housing Act , the most significant federal housing legislation in decades . It authorizes relatively little new spending. Instead it offers\u2026",
-   "summaryFrom": "theconversation",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Congress just passed a housing law that rewards states for reform \u2014 here\u2019s why Colorado has a head start",
-   "updated": "2026-08-16T15:28:46+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "Colorado Tightens Law on Feeding Bears: How Other States Are Cracking Down",
-     "url": "https://www.newsweek.com/colorado-tightens-law-on-feeding-bears-how-other-states-are-cracking-down-12328888",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T15:28:46+00:00",
-     "summary": "Colorado&#039;s tougher bear-feeding law targets unsecured trash and food as states nationwide crack down on attractants."
-    },
-    {
-     "outlet": "theconversation",
-     "title": "Congress just passed a housing law that rewards states for reform \u2014 here\u2019s why Colorado has a head start",
-     "url": "https://theconversation.com/congress-just-passed-a-housing-law-that-rewards-states-for-reform-heres-why-colorado-has-a-head-start-289010",
-     "author": "Solomon Greene, Executive Director and Research Professor, University of Denver",
-     "kind": "news",
-     "published": "2026-08-14T12:38:16+00:00",
-     "summary": "Existing laws in Colorado reduce the administrative and regulatory costs of building new housing. Helen H. Richardson/The Denver Post via Getty Images In Colorado, a full-time worker must earn US$36.44 an hour to afford a modest two-bedroom apartment without spending more than 30% of their income on rent, according to a recent report from the National Low Income Housing Coalition. The state\u2019s minimum wage is $15.16. Someone earning that would have to work 96 hours a week, more than two full-time jobs, to cover rent. The report ranks Colorado as the 12th-least-affordable state in the country for renters. In July 2026, Congress offered state and local leaders a new set of tools to expand housing supply when it passed the 21st Century ROAD to Housing Act , the most significant federal housing legislation in decades . It authorizes relatively little new spending. Instead it offers competitive grants and technical assistance to state and local governments that ease the local rules that slow housing construction and raise its cost, and it loosens federal restrictions on how existing housing dollars can be spent. The ROAD to Housing Act will also prohibit large investors from buying more "
-    }
-   ]
-  },
-  {
-   "id": "d130e92b55",
-   "topic": "Culture & Sport",
-   "summary": "Mama probably never said there\u2019d be days like this . Newest St. Louis Cardinal Joshua Baez hit three homers in his first three plate appearances as a big leaguer yesterday in Chicago. According to Baseball Almanac , there have been 22,800 other MLBers since the National League\u2019s founding in 1876. None had a debut to match Baez\u2019s.&#160; In the top of the first inning against the Cubs, the Cards\u2019 outfielder hit the first big league pitch he ever saw 449 feet to center, almost leaving Wrigley Field. He faced Cubs\u2019 left-hander Matthew Boyd again in the third, and put a 3-2 pitch into the left field bleachers for his second HR. And he three-peated with a bomb to right in the top of the sixth. He finished the day 3-4, with 5 RBIs, in the Cards' 8-4 win. https://www.youtube.com/watch?v=2QJdGWANMdU",
-   "summaryFrom": "defector",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "In His Debut Game, Joshua Baez Ties Stump Wiedeman On Career Homers List",
-   "updated": "2026-08-16T15:27:04+00:00",
-   "outletCount": 2,
-   "counts": {
-    "coop": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "defector",
-     "title": "In His Debut Game, Joshua Baez Ties Stump Wiedeman On Career Homers List",
-     "url": "https://defector.com/in-his-debut-game-joshua-baez-ties-stump-wiedeman-on-career-homers-list",
-     "author": "Dave McKenna",
-     "kind": "news",
-     "published": "2026-08-16T15:27:04+00:00",
-     "summary": "Mama probably never said there\u2019d be days like this . Newest St. Louis Cardinal Joshua Baez hit three homers in his first three plate appearances as a big leaguer yesterday in Chicago. According to Baseball Almanac , there have been 22,800 other MLBers since the National League\u2019s founding in 1876. None had a debut to match Baez\u2019s.&#160; In the top of the first inning against the Cubs, the Cards\u2019 outfielder hit the first big league pitch he ever saw 449 feet to center, almost leaving Wrigley Field. He faced Cubs\u2019 left-hander Matthew Boyd again in the third, and put a 3-2 pitch into the left field bleachers for his second HR. And he three-peated with a bomb to right in the top of the sixth. He finished the day 3-4, with 5 RBIs, in the Cards' 8-4 win. https://www.youtube.com/watch?v=2QJdGWANMdU"
-    },
-    {
-     "outlet": "abcnews",
-     "title": "WATCH:  Joshua Baez becomes first MLB player to hit 3 homers in debut",
-     "url": "https://abcnews.com/video/135680711/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T00:47:05+00:00",
-     "summary": "Cardinals rookie outfielder Joshua Baez made MLB history by becoming the first player to hit three home runs in his big league debut."
-    }
-   ]
-  },
-  {
-   "id": "b52ef4b4f9",
-   "topic": "Other",
-   "summary": "NurPhoto / Marcin Golba, Getty Images When flames erupted in the middle of the night, the Gerber family\u2019s pet goose saved them and their barn animals from a fire\u2014by honking. Goosey forcefully squawked, waking up Bert Gerber as fire took to the Richmond, Texas barn where 60 turkeys and chickens slept. Bert successfully extinguished the fire with a water hose before any animals were hurt. \u201cIn just a couple more minutes,\u201d Bert said, \u201cit would\u2019ve been too much for a water hose.\u201d Bert had never heard Goosey, who is typically quiet and shy, honk. Bert\u2019s wife Chelsea Gerber shared the video captured by a surveillance camera on social media later that day, Aug. 3. \u201cGoosey wasn\u2019t just making noise,\u201d she wrote. \u201cHe was sounding the alarm.\u201d The Gerber family adopted Goosey just three months before the fire. Elaina Gerber, 9, was the one that fell in love with Goosey and begged her reluctant\u2026",
-   "summaryFrom": "dailybeast",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Pet Goose Warns Family of Fire and Saves Animals",
-   "updated": "2026-08-16T15:12:48+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dailybeast",
-     "title": "Pet Goose Warns Family of Fire and Saves Animals",
-     "url": "https://www.thedailybeast.com/pet-goose-alerts-family-to-barn-fire-saving-animals/",
-     "author": "Lauren Hartley",
-     "kind": "news",
-     "published": "2026-08-16T15:12:48+00:00",
-     "summary": "NurPhoto / Marcin Golba, Getty Images When flames erupted in the middle of the night, the Gerber family\u2019s pet goose saved them and their barn animals from a fire\u2014by honking. Goosey forcefully squawked, waking up Bert Gerber as fire took to the Richmond, Texas barn where 60 turkeys and chickens slept. Bert successfully extinguished the fire with a water hose before any animals were hurt. \u201cIn just a couple more minutes,\u201d Bert said, \u201cit would\u2019ve been too much for a water hose.\u201d Bert had never heard Goosey, who is typically quiet and shy, honk. Bert\u2019s wife Chelsea Gerber shared the video captured by a surveillance camera on social media later that day, Aug. 3. \u201cGoosey wasn\u2019t just making noise,\u201d she wrote. \u201cHe was sounding the alarm.\u201d The Gerber family adopted Goosey just three months before the fire. Elaina Gerber, 9, was the one that fell in love with Goosey and begged her reluctant parents to take him home. Every morning Goosey excitedly runs in a plastic children\u2019s pool and sleeps in the barn next to the chicken coop where he was when the fire started. The Gerbers said the fire was most likely caused by a ceiling wire that overheated or was chewed by an animal. Read it at https://ww"
-    },
-    {
-     "outlet": "wapo",
-     "title": "Pet goose honks to alert family of barn fire, saving their animals",
-     "url": "https://www.washingtonpost.com/lifestyle/2026/08/16/pet-goose-honks-alert-family-fire-helping-save-dozens-birds/",
-     "author": "Kyle Melnick",
-     "kind": "news",
-     "published": "2026-08-16T09:00:00+00:00",
-     "summary": "Goosey rushed out of the barn squawking so forcefully he woke up Bert Gerber, who had never heard him honk before."
-    }
-   ]
-  },
-  {
-   "id": "7739d7e748",
-   "topic": "World",
-   "summary": "Hundreds watched the 56-metre monument\u2019s consecration, including anti-communist leader Lech Wa\u0142\u0119sa An enormous statue of the Virgin Mary that is believed to be Europe\u2019s tallest was inaugurated on Saturday in a small Polish village, in the presence of the anti-communist leader Lech Wa\u0142\u0119sa. Hundreds of people took part in the consecration of the monument, which towers 55.6 metres (182ft) over Konotopie in central Poland, a village of fewer than 150 people. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Europe\u2019s tallest Virgin Mary statue unveiled in small Polish village",
-   "updated": "2026-08-16T15:00:04+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Europe\u2019s tallest Virgin Mary statue unveiled in small Polish village",
-     "url": "https://www.theguardian.com/world/2026/aug/16/tallest-statue-virgin-mary-poland-europe",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T15:00:04+00:00",
-     "summary": "Hundreds watched the 56-metre monument\u2019s consecration, including anti-communist leader Lech Wa\u0142\u0119sa An enormous statue of the Virgin Mary that is believed to be Europe\u2019s tallest was inaugurated on Saturday in a small Polish village, in the presence of the anti-communist leader Lech Wa\u0142\u0119sa. Hundreds of people took part in the consecration of the monument, which towers 55.6 metres (182ft) over Konotopie in central Poland, a village of fewer than 150 people. Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-     "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T11:35:25+00:00",
-     "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer."
     }
    ]
   }
