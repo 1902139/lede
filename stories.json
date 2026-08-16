@@ -1,9 +1,135 @@
 {
- "generated": "2026-08-16T01:58:26.707554+00:00",
+ "generated": "2026-08-16T03:14:33.260997+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
+  {
+   "id": "25736d721e",
+   "topic": "Politics",
+   "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation. The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle\u2026",
+   "summaryFrom": "axios",
+   "emphasis": {
+    "bigCount": 7,
+    "indieCount": 3,
+    "big": [
+     "carrier",
+     "east",
+     "middle",
+     "released",
+     "diego-based",
+     "food"
+    ],
+    "indie": []
+   },
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+   "updated": "2026-08-16T01:50:02+00:00",
+   "outletCount": 10,
+   "counts": {
+    "corp": 3,
+    "nonprofit": 3,
+    "family": 4
+   },
+   "newsCount": 10,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "Centcom commander visits USS Abraham Lincoln amid questions about conditions on ship",
+     "url": "https://thehill.com/policy/defense/6031712-adm-cooper-visits-uss-abraham-lincoln/",
+     "author": "Mira Bhakta",
+     "kind": "news",
+     "published": "2026-08-16T01:50:02+00:00",
+     "summary": "U.S. Central Command (Centcom) commander Adm. Brad Cooper visited the USS Abraham Lincoln Saturday after the ship had been docked in the Middle East for over 260 days since November. Centcom released a statement Saturday about the visit, stating Cooper, who oversees the war with Iran, visited the ship as part of a 10-day trip..."
+    },
+    {
+     "outlet": "npr",
+     "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+     "url": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
+     "author": "Ava Pukatch",
+     "kind": "news",
+     "published": "2026-08-15T18:21:32+00:00",
+     "summary": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful. (Image credit: Julia Demaree Nikhinson)"
+    },
+    {
+     "outlet": "nyt",
+     "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
+     "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
+     "author": "Erica L. Green and Maggie Haberman",
+     "kind": "news",
+     "published": "2026-08-15T01:04:40+00:00",
+     "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted \u201cnot nearly long enough.\u201d"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
+     "url": "https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln",
+     "author": "Veronica Vela",
+     "kind": "news",
+     "published": "2026-08-14T22:55:06+00:00",
+     "summary": "Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump downplays concerns about sailors onboard USS Abraham Lincoln amid record deployment",
+     "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-uss-abraham-lincoln-deployment",
+     "author": "Marina Dunbar and Joseph Gedeon",
+     "kind": "news",
+     "published": "2026-08-14T22:12:55+00:00",
+     "summary": "President said nine months at sea \u2018not nearly long enough\u2019 even as families call for attention to mental health crisis US navy veterans and military health experts express concern over USS Abraham Lincoln sailors Donald Trump has downplayed concerns about US sailors enduring a record-setting deployment of nearly nine months onboard the USS Abraham Lincoln on Friday, saying the deployment was \u201cnot nearly long enough\u201d as concerns mount over mental health and supply issues onboard the aircraft carrier. The US president made the comments during a brief exchange with reporters before flying to New York for an event highlighting falling violent crime rates across the US. Continue reading..."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' amid outcry from families",
+     "url": "https://www.latimes.com/politics/story/2026-08-14/uss-abraham-lincoln-deployment-conditions-families-trump-hegseth",
+     "author": "Christopher Buchanan, Ana Ceballos",
+     "kind": "news",
+     "published": "2026-08-14T21:13:51+00:00",
+     "summary": "Lawmakers are pressing for answers amid reports that sailors aboard the San Diego-based carrier have endured food shortages, plumbing failures and severe fatigue."
+    },
+    {
+     "outlet": "slate",
+     "title": "Trump on Long-Suffering Sailors: \u201cNot Nearly Long Enough\u201d",
+     "url": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html?via=rss",
+     "author": "Ian Prasad Philbrick",
+     "kind": "news",
+     "published": "2026-08-14T21:09:49+00:00",
+     "summary": "Sailors are suffering. Trump and his team are denying it."
+    },
+    {
+     "outlet": "axios",
+     "title": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
+     "url": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
+     "author": "Donica Phifer",
+     "kind": "news",
+     "published": "2026-08-14T20:19:31+00:00",
+     "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation. The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle East deployment. While taking questions from the press Friday, a reporter mentioned families were worried, to which Trump replied \"no they're not.\" Zoom out: The Navy Times , The Military Times, and Stars and Stripes were among the first to report on conditions aboard the carrier. The ship hasn't made"
+    },
+    {
+     "outlet": "time",
+     "title": "What to Know About the Growing Concerns Over Conditions on the Long-Deployed USS Abraham Lincoln",
+     "url": "https://time.com/article/2026/08/14/uss-abraham-lincoln-conditions-trump-iran-war/",
+     "author": "Connor Greene",
+     "kind": "news",
+     "published": "2026-08-14T20:14:50+00:00",
+     "summary": "In this U.S. Navy released handout, An F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 14, makes an arrested landing on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72) in support of Operation Epic Fury, on February 28, 2026. \u2014U.S. Navy/Getty Images The USS Abraham Lincoln has been at sea in the Middle East for months, and with no clear end in sight for the war in Iran , concerns for those aboard the aircraft carrier\u2014and for the vessel itself\u2014have mounted amid a series of troubling reports. Another aircraft carrier, the USS George Washington, had begun making its way towards the Middle East as of Thursday to replace the Lincoln, multiple news outlets reported. President Donald Trump appeared to confirm the reported ship swap on Friday, saying that the Lincoln \"is moving right now, or very shortly and is being replaced with another very similar ship.\u201d The Washington\u2019s deployment comes as reports have emerged in recent months recounting worsening living conditions, mental health concerns, and supply shortages on board the Lincoln. Trump seemed to deny the reports on the state of the Lincoln and its crew on Friday, responding \u201cNo, they\u2019re n"
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump dismisses families\u2019 concerns about USS Abraham Lincoln conditions",
+     "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-dismisses-families-concerns-about-uss-abraham-lincoln-conditions/",
+     "author": "Cat Zakrzewski",
+     "kind": "news",
+     "published": "2026-08-14T19:19:15+00:00",
+     "summary": "President Donald Trump dismissed the concerns of military families about worsening conditions on the USS Abraham Lincoln."
+    }
+   ]
+  },
   {
    "id": "a0884e8013",
    "topic": "Politics",
@@ -13,9 +139,9 @@
     "bigCount": 6,
     "indieCount": 2,
     "big": [
+     "democratic",
      "hampshire",
      "hold",
-     "democratic",
      "national",
      "approve",
      "party"
@@ -115,236 +241,104 @@
    ]
   },
   {
-   "id": "cf3330e0bc",
-   "topic": "Politics",
-   "summary": "President said nine months at sea \u2018not nearly long enough\u2019 even as families call for attention to mental health crisis US navy veterans and military health experts express concern over USS Abraham Lincoln sailors Donald Trump has downplayed concerns about US sailors enduring a record-setting deployment of nearly nine months onboard the USS Abraham Lincoln on Friday, saying the deployment was \u201cnot nearly long enough\u201d as concerns mount over mental health and supply issues onboard the aircraft carrier. The US president made the comments during a brief exchange with reporters before flying to New York for an event highlighting falling violent crime rates across the US. Continue reading...",
-   "summaryFrom": "guardian",
+   "id": "766f173698",
+   "topic": "Justice & Policing",
+   "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant\u2026",
+   "summaryFrom": "dailywire",
    "emphasis": {
-    "bigCount": 3,
-    "indieCount": 5,
-    "big": [],
+    "bigCount": 5,
+    "indieCount": 2,
+    "big": [
+     "wounded",
+     "suspect",
+     "arrested",
+     "found",
+     "left",
+     "early"
+    ],
     "indie": [
-     "issues",
-     "relieve",
-     "iran",
-     "reported",
-     "record-setting",
-     "mental"
+     "large",
+     "responded"
     ]
    },
    "absent": [
     "coop"
    ],
-   "headline": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
-   "updated": "2026-08-15T17:49:42+00:00",
-   "outletCount": 8,
+   "headline": "Multiple suspects at large after five shot at Virginia State University, police say",
+   "updated": "2026-08-16T03:02:15+00:00",
+   "outletCount": 7,
    "counts": {
-    "pub": 2,
     "corp": 2,
-    "nonprofit": 3,
-    "family": 1
+    "family": 3,
+    "pub": 1,
+    "nonprofit": 1
    },
-   "newsCount": 8,
-   "opinionCount": 0,
+   "newsCount": 6,
+   "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "aljazeera",
-     "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
-     "url": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
+     "outlet": "abcnews",
+     "title": "Va. State shooting: Suspect arrested, found hiding in dorm closet, police say",
+     "url": "https://abcnews.com/US/5-injured-shooting-virginia-state-university-arrests-made/story?id=135669705",
      "author": null,
      "kind": "news",
-     "published": "2026-08-15T17:49:42+00:00",
-     "summary": "The USS Washington&#039;s movement comes amid reports of dire conditions on the USS Lincoln amid the ongoing Iran war."
+     "published": "2026-08-16T03:02:15+00:00",
+     "summary": "A suspect in the shooting at Virginia State University early Saturday that left five people wounded, including one critically, has been arrested, according to police."
+    },
+    {
+     "outlet": "nypost",
+     "title": "Virginia State University mass shooting suspect caught after police manhunt for perp in campus bloodbath",
+     "url": "https://nypost.com/2026/08/15/us-news/virginia-state-university-mass-shooting-suspect-caught-after-police-manhunt-for-perp-in-campus-bloodbath/",
+     "author": "Daniel Cody",
+     "kind": "news",
+     "published": "2026-08-16T02:18:47+00:00",
+     "summary": "A teen has been arrested in connection with the shooting that rocked Virginia State University Saturday morning and left five people wounded, one in critical condition"
     },
     {
      "outlet": "cbsnews",
-     "title": "USS Washington aircraft carrier heads to Middle East to replace USS Lincoln",
-     "url": "https://www.cbsnews.com/news/aircraft-carrier-uss-george-washington-uss-lincoln-iran-middle-east/",
+     "title": "5 people injured in shooting at Virginia State University, 1 suspect arrested",
+     "url": "https://www.cbsnews.com/news/shooting-virginia-state-university/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-15T15:26:02+00:00",
-     "summary": "The USS George Washington aircraft carrier departed Vietnam last week and is headed to the Middle East to replace the USS Abraham Lincoln, according to a U.S. official."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
-     "url": "https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln",
-     "author": "Konstantin Toropin, Associated Press",
-     "kind": "news",
-     "published": "2026-08-14T23:10:05+00:00",
-     "summary": "The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump downplays concerns about sailors onboard USS Abraham Lincoln amid record deployment",
-     "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-uss-abraham-lincoln-deployment",
-     "author": "Marina Dunbar and Joseph Gedeon",
-     "kind": "news",
-     "published": "2026-08-14T22:12:55+00:00",
-     "summary": "President said nine months at sea \u2018not nearly long enough\u2019 even as families call for attention to mental health crisis US navy veterans and military health experts express concern over USS Abraham Lincoln sailors Donald Trump has downplayed concerns about US sailors enduring a record-setting deployment of nearly nine months onboard the USS Abraham Lincoln on Friday, saying the deployment was \u201cnot nearly long enough\u201d as concerns mount over mental health and supply issues onboard the aircraft carrier. The US president made the comments during a brief exchange with reporters before flying to New York for an event highlighting falling violent crime rates across the US. Continue reading..."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' amid outcry from families",
-     "url": "https://www.latimes.com/politics/story/2026-08-14/uss-abraham-lincoln-deployment-conditions-families-trump-hegseth",
-     "author": "Christopher Buchanan, Ana Ceballos",
-     "kind": "news",
-     "published": "2026-08-14T21:13:51+00:00",
-     "summary": "Lawmakers are pressing for answers amid reports that sailors aboard the San Diego-based carrier have endured food shortages, plumbing failures and severe fatigue."
-    },
-    {
-     "outlet": "slate",
-     "title": "Trump on Long-Suffering Sailors: \u201cNot Nearly Long Enough\u201d",
-     "url": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html?via=rss",
-     "author": "Ian Prasad Philbrick",
-     "kind": "news",
-     "published": "2026-08-14T21:09:49+00:00",
-     "summary": "Sailors are suffering. Trump and his team are denying it."
+     "published": "2026-08-16T01:41:45+00:00",
+     "summary": "Five people were injured in the shooting involving multiple suspects. One person is currently listed in critical condition, the university said."
     },
     {
      "outlet": "bbc",
-     "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-     "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+     "title": "Multiple suspects at large after five shot at Virginia State University, police say",
+     "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-14T17:36:27+00:00",
-     "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+     "published": "2026-08-15T19:34:22+00:00",
+     "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday."
     },
     {
-     "outlet": "npr",
-     "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
-     "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
-     "author": "The Associated Press",
+     "outlet": "breitbart",
+     "title": "Numerous People Injured After Multiple Shooters Open Fire at Virginia State University",
+     "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/numerous-people-injured-after-multiple-shooters-open-fire-virginia-state-university/",
+     "author": "AWR Hawkins",
      "kind": "news",
-     "published": "2026-08-14T06:31:29+00:00",
-     "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano)"
-    }
-   ]
-  },
-  {
-   "id": "25736d721e",
-   "topic": "Politics",
-   "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation. The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle\u2026",
-   "summaryFrom": "axios",
-   "emphasis": {
-    "bigCount": 7,
-    "indieCount": 3,
-    "big": [
-     "navy",
-     "east",
-     "friday",
-     "middle",
-     "gone",
-     "whether"
-    ],
-    "indie": []
-   },
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
-   "updated": "2026-08-15T22:16:12+00:00",
-   "outletCount": 7,
-   "counts": {
-    "corp": 3,
-    "nonprofit": 3,
-    "family": 4
-   },
-   "newsCount": 10,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "House Democrats question acting Navy Secretary on conditions aboard USS Abraham Lincoln",
-     "url": "https://thehill.com/homenews/house/6031642-house-democrats-probe-uss-lincoln/",
-     "author": "Mira Bhakta",
-     "kind": "news",
-     "published": "2026-08-15T22:16:12+00:00",
-     "summary": "A group of House Democrats sent a letter Friday to the Acting Secretary of the Navy Hung Cao probing into conditions on the USS Abraham Lincoln, a ship that has been docked in the Middle East for over 260 days. The letter \u2013 sent by Reps. Joe Courtney (D-Conn.), Maggie Goodlander (D-N.H.), Wesley Bell (D-Mo.),..."
+     "published": "2026-08-15T15:39:06+00:00",
+     "summary": "Five people were wounded after multiple shooters opened fire on the Virginia State University (VSU) campus Saturday around 1:30 a.m. The post Numerous People Injured After Multiple Shooters Open Fire at Virginia State University appeared first on Breitbart ."
     },
     {
-     "outlet": "npr",
-     "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
-     "url": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
-     "author": "Ava Pukatch",
+     "outlet": "guardian",
+     "title": "Multiple people injured in shooting at Virginia State University",
+     "url": "https://www.theguardian.com/us-news/2026/aug/15/multiple-people-injured-virginia-state-university-shooting",
+     "author": "Adam Gabbatt",
      "kind": "news",
-     "published": "2026-08-15T18:21:32+00:00",
-     "summary": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful. (Image credit: Julia Demaree Nikhinson)"
+     "published": "2026-08-15T13:20:41+00:00",
+     "summary": "School said shooting involved \u2018multiple suspects\u2019 as campus was locked down and police responded to scene Multiple people were injured in a shooting at Virginia State University (VSU), police said on Saturday morning, with several suspects still at large. The campus, about 20 miles (32km) south of Richmond, was temporarily put on lockdown as police released initial details about the shooting. Continue reading..."
     },
     {
-     "outlet": "npr",
-     "title": "Week in Politics: USS Lincoln; latest primaries and Democrats; White House ballroom",
-     "url": "https://www.npr.org/2026/08/15/nx-s1-5929131/week-in-politics-uss-lincoln-latest-primaries-and-democrats-white-house-ballroom",
-     "author": "Eyder Peralta",
-     "kind": "news",
-     "published": "2026-08-15T11:40:15+00:00",
-     "summary": "A shortage of some munitions as well as the problems with the USS Lincoln have the Trump administration on the defensive. Meanwhile, what the latest primaries show about Democratic enthusiasm."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
-     "author": "Erica L. Green and Maggie Haberman",
-     "kind": "news",
-     "published": "2026-08-15T01:04:40+00:00",
-     "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted \u201cnot nearly long enough.\u201d"
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
-     "url": "https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln",
-     "author": "Veronica Vela",
-     "kind": "news",
-     "published": "2026-08-14T22:55:06+00:00",
-     "summary": "Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Navy and USS Lincoln\u2019s Problems Are Tied to Attacks on U.S. Base Early in War",
-     "url": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html",
-     "author": "John Ismay",
-     "kind": "news",
-     "published": "2026-08-14T22:35:07+00:00",
-     "summary": "Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy\u2019s logistics hub after Iran damaged a base in Bahrain."
-    },
-    {
-     "outlet": "axios",
-     "title": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
-     "url": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
-     "author": "Donica Phifer",
-     "kind": "news",
-     "published": "2026-08-14T20:19:31+00:00",
-     "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation. The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its Middle East deployment. While taking questions from the press Friday, a reporter mentioned families were worried, to which Trump replied \"no they're not.\" Zoom out: The Navy Times , The Military Times, and Stars and Stripes were among the first to report on conditions aboard the carrier. The ship hasn't made"
-    },
-    {
-     "outlet": "time",
-     "title": "What to Know About the Growing Concerns Over Conditions on the Long-Deployed USS Abraham Lincoln",
-     "url": "https://time.com/article/2026/08/14/uss-abraham-lincoln-conditions-trump-iran-war/",
-     "author": "Connor Greene",
-     "kind": "news",
-     "published": "2026-08-14T20:14:50+00:00",
-     "summary": "In this U.S. Navy released handout, An F/A-18E Super Hornet, attached to Strike Fighter Squadron (VFA) 14, makes an arrested landing on the flight deck of Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72) in support of Operation Epic Fury, on February 28, 2026. \u2014U.S. Navy/Getty Images The USS Abraham Lincoln has been at sea in the Middle East for months, and with no clear end in sight for the war in Iran , concerns for those aboard the aircraft carrier\u2014and for the vessel itself\u2014have mounted amid a series of troubling reports. Another aircraft carrier, the USS George Washington, had begun making its way towards the Middle East as of Thursday to replace the Lincoln, multiple news outlets reported. President Donald Trump appeared to confirm the reported ship swap on Friday, saying that the Lincoln \"is moving right now, or very shortly and is being replaced with another very similar ship.\u201d The Washington\u2019s deployment comes as reports have emerged in recent months recounting worsening living conditions, mental health concerns, and supply shortages on board the Lincoln. Trump seemed to deny the reports on the state of the Lincoln and its crew on Friday, responding \u201cNo, they\u2019re n"
-    },
-    {
-     "outlet": "wapo",
-     "title": "Trump dismisses families\u2019 concerns about USS Abraham Lincoln conditions",
-     "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-dismisses-families-concerns-about-uss-abraham-lincoln-conditions/",
-     "author": "Cat Zakrzewski",
-     "kind": "news",
-     "published": "2026-08-14T19:19:15+00:00",
-     "summary": "President Donald Trump dismissed the concerns of military families about worsening conditions on the USS Abraham Lincoln."
-    },
-    {
-     "outlet": "axios",
-     "title": "Trump's White House remodel tab keeps growing",
-     "url": "https://www.axios.com/2026/08/13/trump-white-house-projects-cost",
-     "author": "Avery Lotz",
-     "kind": "news",
-     "published": "2026-08-13T15:01:10+00:00",
-     "summary": "The East Wing is gone, a new helipad is spreading across the lawn, and scaffolding wraps the White House's front columns, but the price tags for President Trump's renovations are far less obvious. The big picture: The muddled mix of funding streams \u2014 whether from private donors, the president himself or taxpayers \u2014 has fueled ethical questions about who's footing the ever-rising bill for the HGTV-reminiscent White House redesign. The latest: Senate Democrats urged the Government Accountability Office to audit the ballroom project's scope and cost Wednesday. One tally, reported exclusively by The Washington Post this week, says the president's construction projects, including upgrades to Lafayette Square and other renovations, could cost at least $927 million. The lawmakers cited a lack of transparency and \"limited congressional oversight, meaningful public input, and adherence to established federal processes.\" What they're saying: White House spokesperson Davis Ingle said in a statement that Trump \" continues to implement long-overdue and necessary renovations,\" calling him the \"Builder-in-Chief.\" As the administration has argued in court, Ingle said the East Wing project is \"inex"
+     "outlet": "dailywire",
+     "title": "Multiple People Shot At Virginia State University",
+     "url": "https://www.dailywire.com/news/multiple-people-shot-at-virginia-state-university",
+     "author": "Zach Jewell",
+     "kind": "opinion",
+     "published": "2026-08-15T07:47:18+00:00",
+     "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant law enforcement presence remains on campus as the investigation into this morning&#8217;s shooting continues.&#8221; It appears that no suspects have been taken into custody as of time of publication, and the university urged anyone with information on the shooting to contact law enforcement. pic.twi"
     }
    ]
   },
@@ -468,11 +462,11 @@
     ],
     "indie": [
      "death",
-     "admitted",
      "life",
-     "year-old",
-     "manhattan",
-     "pleading"
+     "admitted",
+     "case",
+     "pleading",
+     "manhattan"
     ]
    },
    "absent": [
@@ -557,99 +551,6 @@
    ]
   },
   {
-   "id": "766f173698",
-   "topic": "Justice & Policing",
-   "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 2,
-    "big": [
-     "wounded",
-     "arrested",
-     "suspect",
-     "around",
-     "opened",
-     "fire"
-    ],
-    "indie": [
-     "responded",
-     "large"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Multiple suspects at large after five shot at Virginia State University, police say",
-   "updated": "2026-08-16T01:49:48+00:00",
-   "outletCount": 6,
-   "counts": {
-    "corp": 2,
-    "pub": 1,
-    "family": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "abcnews",
-     "title": "Suspect arrested in Va. State shooting that wounded 5: Police",
-     "url": "https://abcnews.com/US/5-injured-shooting-virginia-state-university-arrests-made/story?id=135669705",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T01:49:48+00:00",
-     "summary": "A lockdown has been lifted after a shooting left five people injured, one of them critically, at Virginia State University."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "5 people injured in shooting at Virginia State University, 1 suspect arrested",
-     "url": "https://www.cbsnews.com/news/shooting-virginia-state-university/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T01:41:45+00:00",
-     "summary": "Five people were injured in the shooting involving multiple suspects. One person is currently listed in critical condition, the university said."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Multiple suspects at large after five shot at Virginia State University, police say",
-     "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T19:34:22+00:00",
-     "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Numerous People Injured After Multiple Shooters Open Fire at Virginia State University",
-     "url": "https://www.breitbart.com/2nd-amendment/2026/08/15/numerous-people-injured-after-multiple-shooters-open-fire-virginia-state-university/",
-     "author": "AWR Hawkins",
-     "kind": "news",
-     "published": "2026-08-15T15:39:06+00:00",
-     "summary": "Five people were wounded after multiple shooters opened fire on the Virginia State University (VSU) campus Saturday around 1:30 a.m. The post Numerous People Injured After Multiple Shooters Open Fire at Virginia State University appeared first on Breitbart ."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Multiple people injured in shooting at Virginia State University",
-     "url": "https://www.theguardian.com/us-news/2026/aug/15/multiple-people-injured-virginia-state-university-shooting",
-     "author": "Adam Gabbatt",
-     "kind": "news",
-     "published": "2026-08-15T13:20:41+00:00",
-     "summary": "School said shooting involved \u2018multiple suspects\u2019 as campus was locked down and police responded to scene Multiple people were injured in a shooting at Virginia State University (VSU), police said on Saturday morning, with several suspects still at large. The campus, about 20 miles (32km) south of Richmond, was temporarily put on lockdown as police released initial details about the shooting. Continue reading..."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Multiple People Shot At Virginia State University",
-     "url": "https://www.dailywire.com/news/multiple-people-shot-at-virginia-state-university",
-     "author": "Zach Jewell",
-     "kind": "opinion",
-     "published": "2026-08-15T07:47:18+00:00",
-     "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant law enforcement presence remains on campus as the investigation into this morning&#8217;s shooting continues.&#8221; It appears that no suspects have been taken into custody as of time of publication, and the university urged anyone with information on the shooting to contact law enforcement. pic.twi"
-    }
-   ]
-  },
-  {
    "id": "cc3b730f3d",
    "topic": "Politics",
    "summary": "Jeff Merkley has a plan to save the republic from Donald Trump's \" authoritarian playbook \", or so says the senator from Oregon. \" This is a president trying to become a strongman authoritarian,\" said Merkley on the On NOTUS podcast this week. \"If we don't repair the Constitution, we don't have a republic.\" His \"For Our Republic Act\", which was introduced earlier this month , is a sprawling piece of legislation that aims at reversing many of the president's claims of executive authority and clamping down on some of the more novel forms of corruption we've seen under the president's second term. Its proposed reforms range from moving immigration judges from the executive branch to the judicial branch, requiring congressional approval of executive-led department shutterings and reorganizations, and banning executive officers from trading in prediction markets and hawking crypto products.\u2026",
@@ -659,9 +560,9 @@
     "indieCount": 3,
     "big": [
      "reality",
+     "delusions",
      "defeat",
-     "called",
-     "delusions"
+     "called"
     ],
     "indie": [
      "become"
@@ -920,14 +821,14 @@
     "bigCount": 2,
     "indieCount": 3,
     "big": [
-     "killed",
      "friday",
+     "killed",
      "michigan"
     ],
     "indie": [
      "indiana",
-     "least",
      "state",
+     "least",
      "weather",
      "flooding",
      "heavy"
@@ -998,7 +899,7 @@
   },
   {
    "id": "a0ba21d917",
-   "topic": "Politics",
+   "topic": "Justice & Policing",
    "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions\u2026",
    "summaryFrom": "reason",
    "emphasis": null,
@@ -1046,6 +947,15 @@
      "summary": "The standoff in Qusra between Palestinian families and Israeli settlers who apparently want to push them out entered a new stage Friday as activists supporting the Palestinians marched toward the besieged homes to replenish their dwindling food and water supply."
     },
     {
+     "outlet": "guardian",
+     "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+     "url": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+     "author": "Emma Graham-Harrison in Jerusalem",
+     "kind": "news",
+     "published": "2026-08-14T17:52:51+00:00",
+     "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading..."
+    },
+    {
      "outlet": "bbc",
      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
      "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
@@ -1053,15 +963,6 @@
      "kind": "news",
      "published": "2026-08-14T17:03:17+00:00",
      "summary": "Two families have been trapped in their homes in the occupied West Bank for several days."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Israeli troops force families from homes amid settler terror campaign in West Bank",
-     "url": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
-     "author": "Emma Graham-Harrison in Jerusalem",
-     "kind": "news",
-     "published": "2026-08-13T18:54:09+00:00",
-     "summary": "Former PM of Israel calls events \u2018concerted and meticulous attempt at ethnic cleansing\u2019 against Palestinians Israeli troops have forced two Palestinian families to leave their besieged West Bank homes, the day after a top Israeli commander personally promised he would end a violent settler campaign to drive them out. Israeli soldiers also took over eight other homes in Qusra early on Thursday, telling the village\u2019s mayor, Abdul Azim Wadi, that the buildings were needed for a days-long operation to remove the settlers. They later relinquished six. Settlers still roam the village. Continue reading..."
     }
    ]
   },
@@ -1204,6 +1105,75 @@
    ]
   },
   {
+   "id": "cf3330e0bc",
+   "topic": "Other",
+   "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano)",
+   "summaryFrom": "npr",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
+   "updated": "2026-08-15T17:49:42+00:00",
+   "outletCount": 5,
+   "counts": {
+    "pub": 2,
+    "corp": 1,
+    "nonprofit": 2
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
+     "url": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T17:49:42+00:00",
+     "summary": "The USS Washington&#039;s movement comes amid reports of dire conditions on the USS Lincoln amid the ongoing Iran war."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "USS Washington aircraft carrier heads to Middle East to replace USS Lincoln",
+     "url": "https://www.cbsnews.com/news/aircraft-carrier-uss-george-washington-uss-lincoln-iran-middle-east/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T15:26:02+00:00",
+     "summary": "The USS George Washington aircraft carrier departed Vietnam last week and is headed to the Middle East to replace the USS Abraham Lincoln, according to a U.S. official."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
+     "url": "https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln",
+     "author": "Konstantin Toropin, Associated Press",
+     "kind": "news",
+     "published": "2026-08-14T23:10:05+00:00",
+     "summary": "The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days."
+    },
+    {
+     "outlet": "bbc",
+     "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
+     "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T17:36:27+00:00",
+     "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+    },
+    {
+     "outlet": "npr",
+     "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
+     "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-14T06:31:29+00:00",
+     "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano)"
+    }
+   ]
+  },
+  {
    "id": "166810adc6",
    "topic": "Politics",
    "summary": "A bulldozer clears a pathway in Big Bend National Park, Texas, on August 12, 2026. | Kaylee Greenlee/Bloomberg via Getty Images This story appeared in&nbsp; The Logoff , a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&nbsp; Subscribe here . Welcome to The Logoff: Remember President Donald Trump\u2019s first-term border wall? It\u2019s still being built \u2014 through a pristine Texas national park. What\u2019s happening? The Trump administration is preparing to build hundreds of miles of roads through Big Bend National Park in southwest Texas as part of its latest border security project, despite a bipartisan outcry over damage to the beloved park.&nbsp; Starting last week, bulldozers and heavy machinery began to clear land for the construction of about 200 miles of patrol road, new border barriers, and electronic\u2026",
@@ -1212,12 +1182,12 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
+     "images",
      "appeared",
      "president",
      "donald",
-     "images",
-     "viral",
-     "meme"
+     "jobs",
+     "marco"
     ],
     "indie": [
      "work",
@@ -1357,6 +1327,76 @@
    ]
   },
   {
+   "id": "4fd3c34fbe",
+   "topic": "Climate & Energy",
+   "summary": "Hurricane Lala on Saturday slammed Hawaii's Big Island as a Category 1 storm, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides.",
+   "summaryFrom": "cbsnews",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 2,
+    "big": [
+     "saturday"
+    ],
+    "indie": [
+     "strengthens",
+     "winds"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Storm Lala strengthens into a Category 1 hurricane as it nears Hawaii",
+   "updated": "2026-08-16T03:10:29+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 1,
+    "family": 1,
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Hurricane Lala lashes Hawaii's Big Island as a Category 1 storm. Maps show its path.",
+     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T03:10:29+00:00",
+     "summary": "Hurricane Lala on Saturday slammed Hawaii's Big Island as a Category 1 storm, where it was bringing heavy rain and the possibility of life-threatening flooding and mudslides."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Flights between L.A. and Hawaii disrupted as Hurricane Lala hits the Big Island",
+     "url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
+     "author": "Josh Rottenberg",
+     "kind": "news",
+     "published": "2026-08-16T00:56:14+00:00",
+     "summary": "Several flights from LAX to Hawaii were canceled Saturday, including service to Kona, Maui, Kauai and Honolulu."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Storm Lala strengthens into a Category 1 hurricane as it nears Hawaii",
+     "url": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T17:27:57+00:00",
+     "summary": "Authorities warn residents to take precautions as storm is expected to bring rain and strong winds to the island chain."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
+     "url": "https://www.pbs.org/newshour/nation/hawaiis-big-island-lashed-by-rain-and-wind-as-tropical-storm-lala-closes-in",
+     "author": "Ed White, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T15:17:14+00:00",
+     "summary": "The National Hurricane Center said Lala's maximum sustained winds increased to 75 mph, making it a Category 1 hurricane."
+    }
+   ]
+  },
+  {
    "id": "5178d4fdc8",
    "topic": "World",
    "summary": "Tehran said the three pilots \"were captured alive\" by Qatari forces after their fighter jets were shot down in the early days of the US-Israel war with Iran. Qatar has denied Iran's claims.",
@@ -1398,12 +1438,12 @@
     },
     {
      "outlet": "aljazeera",
-     "title": "Qatar denies it is detaining three Iranian bomber pilots",
+     "title": "Qatar denies Tehran\u2019s claim it is detaining Iranian bomber pilots",
      "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
      "author": null,
      "kind": "news",
      "published": "2026-08-15T20:55:29+00:00",
-     "summary": "Iran says Qatar is holding three pilots who were shot down in March. Doha decries &#039;misleading statements&#039;."
+     "summary": "Iran claims Qatar is holding three pilots who were shot down in March. Doha decries &#039;misleading statements&#039;."
     },
     {
      "outlet": "nyt",
@@ -1413,75 +1453,6 @@
      "kind": "news",
      "published": "2026-08-15T19:36:20+00:00",
      "summary": "Iran said the airmen have been held since March 2 when their fighter jets were shot down. The Qatari government denies detaining any Iranian pilots."
-    }
-   ]
-  },
-  {
-   "id": "4fd3c34fbe",
-   "topic": "Climate & Energy",
-   "summary": "The National Hurricane Center said Lala's maximum sustained winds increased to 75 mph, making it a Category 1 hurricane.",
-   "summaryFrom": "pbsnewshour",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [],
-    "indie": [
-     "strengthens",
-     "category",
-     "winds"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Storm Lala strengthens into a Category 1 hurricane as it nears Hawaii",
-   "updated": "2026-08-16T00:56:14+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 1,
-    "corp": 1,
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "latimes",
-     "title": "Flights between L.A. and Hawaii disrupted as Hurricane Lala hits the Big Island",
-     "url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
-     "author": "Josh Rottenberg",
-     "kind": "news",
-     "published": "2026-08-16T00:56:14+00:00",
-     "summary": "Several flights from LAX to Hawaii were canceled Saturday, including service to Kona, Maui, Kauai and Honolulu."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Hurricane Lala lashes Hawaii's Big Island. Maps show its path.",
-     "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T00:41:55+00:00",
-     "summary": "Hurricane Lala is forecast to bring heavy rain and life-threatening flooding to Hawaii this weekend."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Storm Lala strengthens into a Category 1 hurricane as it nears Hawaii",
-     "url": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T17:27:57+00:00",
-     "summary": "Authorities warn residents to take precautions as storm is expected to bring rain and strong winds to the island chain."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
-     "url": "https://www.pbs.org/newshour/nation/hawaiis-big-island-lashed-by-rain-and-wind-as-tropical-storm-lala-closes-in",
-     "author": "Ed White, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T15:17:14+00:00",
-     "summary": "The National Hurricane Center said Lala's maximum sustained winds increased to 75 mph, making it a Category 1 hurricane."
     }
    ]
   },
@@ -1691,11 +1662,11 @@
     "indieCount": 3,
     "big": [
      "foot-washing",
-     "international",
      "worth",
      "stations",
      "airport",
-     "scrapped"
+     "international",
+     "fort"
     ],
     "indie": [
      "order"
@@ -1842,8 +1813,8 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "donald",
-     "trump"
+     "trump",
+     "donald"
     ],
     "indie": []
    },
@@ -1962,6 +1933,108 @@
    ]
   },
   {
+   "id": "acfec951cb",
+   "topic": "Business & Economy",
+   "summary": "A rapidly spreading wildfire in the High Fens nature reserve near Belgium's border with Germany has scorched around 2,700 hectares and forced hundreds of people to evacuate.",
+   "summaryFrom": "dw",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Belgium: Hundreds evacuated as firefighters battle largest wildfire on record",
+   "updated": "2026-08-16T02:49:00+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 3
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "Belgium: Hundreds evacuated as firefighters battle largest wildfire on record",
+     "url": "https://www.dw.com/en/belgium-hundreds-evacuated-as-firefighters-battle-largest-wildfire-on-record/a-78386242?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T02:49:00+00:00",
+     "summary": "A rapidly spreading wildfire in the High Fens nature reserve near Belgium's border with Germany has scorched around 2,700 hectares and forced hundreds of people to evacuate."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
+     "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T17:47:42+00:00",
+     "summary": "The fire burning through the major park was described as the country's worst in recent years."
+    },
+    {
+     "outlet": "france24",
+     "title": "Hundreds of villagers evacuate as Belgium battles record wildfire",
+     "url": "https://www.france24.com/en/europe/20260815-hundreds-of-villagers-evacuate-as-belgium-battles-record-wildfire",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-15T15:37:09+00:00",
+     "summary": "Hundreds of residents were evacuated and more than 2,700 hectares were scorched as Belgium continued to battle one of the worst wildfires in its history on Saturday."
+    }
+   ]
+  },
+  {
+   "id": "4e7c8d1bfe",
+   "topic": "Culture & Sport",
+   "summary": "(L-R): Ewan McGregor as Greg and Anne Hathaway as Denise in The End of Oak Street \u2014Warner Bros. Pictures It's been 33 years since the enduring cinematic masterpiece that is Jurassic Park first hit theaters in June 1993. Since that fateful summer, Steven Spielberg's sci-fi survival thriller has reigned supreme as the undisputed king of dinosaur films. Now, The End of Oak Street is proving a dino blockbuster that serves up prehistoric horror with a side of genuine pathos is still a worthy endeavor. Based on Michael Crichton's 1990 novel, Jurassic Park not only delivered some of the most memorable creature-feature scares in movie history, it was also a sharp cautionary tale about scientific hubris and the illusion of man's control over nature that was anchored by stellar performances from its core cast. But over the course of numerous sequels and reboots, the franchise largely shifted away\u2026",
+   "summaryFrom": "time",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "The End of Oak Street Is a Nasty, Effective Exercise in Dino Terror",
+   "updated": "2026-08-16T01:46:31+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "forbes",
+     "title": "\u2018The End Of Oak Street\u2019 Projected To Open With $20 Million As \u2018Spider-Man\u2019 Holds Top Slot",
+     "url": "https://www.forbes.com/sites/timlammers/2026/08/15/the-end-of-oak-street-projected-to-open-with-20-million-as-spider-man-holds-top-slot/",
+     "author": "Tim Lammers, Contributor",
+     "kind": "news",
+     "published": "2026-08-16T01:46:31+00:00",
+     "summary": "Tom Holland\u2019s global blockbuster \u201cSpider-Man: Brand New Day\u201d is projected to easily defeat Anne Hathaway and Ewan McGregor\u2019s \u201cThe End of Oak Street\u201d in the dinosaur film\u2019s opening weekend frame at the domestic box office."
+    },
+    {
+     "outlet": "time",
+     "title": "The End of Oak Street Is the Best Dinosaur Movie Since Jurassic Park",
+     "url": "https://time.com/article/2026/08/10/the-end-of-oak-street-jurassic-park-comparison/",
+     "author": "Megan McCluskey",
+     "kind": "news",
+     "published": "2026-08-14T14:35:56+00:00",
+     "summary": "(L-R): Ewan McGregor as Greg and Anne Hathaway as Denise in The End of Oak Street \u2014Warner Bros. Pictures It's been 33 years since the enduring cinematic masterpiece that is Jurassic Park first hit theaters in June 1993. Since that fateful summer, Steven Spielberg's sci-fi survival thriller has reigned supreme as the undisputed king of dinosaur films. Now, The End of Oak Street is proving a dino blockbuster that serves up prehistoric horror with a side of genuine pathos is still a worthy endeavor. Based on Michael Crichton's 1990 novel, Jurassic Park not only delivered some of the most memorable creature-feature scares in movie history, it was also a sharp cautionary tale about scientific hubris and the illusion of man's control over nature that was anchored by stellar performances from its core cast. But over the course of numerous sequels and reboots, the franchise largely shifted away from resonant character drama in favor of high-octane action sequences and increasingly monstrous beasts. Outside the Jurassic universe, there haven't been many successful attempts to reinvent the dinosaur wheel, so to speak. Brian (Christian Convery) and Audrey (Maisy Stella) flee from an Allosauru"
+    },
+    {
+     "outlet": "reason",
+     "title": "The End of Oak Street Is a Nasty, Effective Exercise in Dino Terror",
+     "url": "https://reason.com/2026/08/14/the-end-of-oak-street-is-a-nasty-effective-exercise-in-dino-terror/",
+     "author": "Peter Suderman",
+     "kind": "opinion",
+     "published": "2026-08-14T14:32:25+00:00",
+     "summary": "There's something primordially satisfying about watching a big-screen dinosaur get the what-for from the business end of a just-loaded shotgun. The recent run of Jurassic Park movies sometimes seems to have lost this primal pleasure, replacing it with ho-hum computer-generated spectacle and cheap nostalgic callbacks to the franchise's better days. They've forgotten that the franchise was founded on a combination of awe and white-knuckle terror\u2014the raw and relatable fear of a giant, toothy monster that stalks the earth with a sort of evolutionary arrogance that comes from a couple million years atop the food chain. Newsflash: Humans rule the planet now. It's fun to watch these ancient planetary powerhouses get taken down a peg. Sic semper Tyrannosaurus. The End of Oak Street remembers what the Jurassic Park franchise has largely forgotten. It leans into the animal terror of encountering a dinosaur on the streets of an ordinary suburb. Set in the early 1980s, the movie lifts brashly from early Steven Spielberg, especially E.T. , depicting a seemingly ordinary family with its own ordinary troubles who find themselves in a sort of dinosaur-ridden episode of The Twilight Zone. The End o"
+    }
+   ]
+  },
+  {
    "id": "9a7abb8535",
    "topic": "Other",
    "summary": "KANSAS CITY &#8211; With arguably the deepest and most talented roster in the NFL, it\u2019s no surprise the Rams enter the season as the prohibitive Super Bowl favorites. There is, however, one question no one around the Rams wants to ask, much less contemplate: What happens if Matthew Stafford goes down? Los Angeles Rams quarterback...",
@@ -2069,126 +2142,6 @@
      "kind": "news",
      "published": "2026-08-15T21:48:16+00:00",
      "summary": "Palisades Village shopping center reopens 19 months after the devastating 2025 Pacific Palisades wildfires, marking a major milestone in local recovery."
-    }
-   ]
-  },
-  {
-   "id": "6aee59fe7a",
-   "topic": "Health",
-   "summary": "It was ugly when Jaxson Dart got absolutely rocked so hard during Saturday's preseason game that he lay motionless on the field as team trainers and doctors rushed to his aid. The moment looked like a snapshot from the 2025 season, when the New York Giants' quarterback was hit over and over again. And, like a handful of times in 2025, this hit resulted in Dart being evaluated for a concussion out of concern for the player's safety. Dart had one confirmed concussion out of those five previous evaluations and missed two games as a result. ANTHONY RICHARDSON'S TURNOVERS IN PRESEASON OPENER RAISE MORE QUESTIONS ABOUT HIS COLTS FUTURE \"I never thought I was going to be taken out,\" Dart said after the game. \"I want to keep playing until they tell me I'm not playing. Like, I want to be out there.\" The Giants season flashed before everyone's eyes until Dart emerged from the blue medical tent on\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Jaxson Dart Gets Honest About Concussion Tests After Giants&#039; Preseason Loss",
-   "updated": "2026-08-15T23:56:26+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 2,
-    "family": 3
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "Jaxson Dart Gets Honest About Concussion Tests After Giants&#039; Preseason Loss",
-     "url": "https://www.newsweek.com/sports/nfl/jaxson-dart-gets-honest-about-concussion-tests-after-giants-preseason-loss-12328331",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T23:56:26+00:00",
-     "summary": "Giants quarterback Jaxson Dart said he was &quot;puzzled&quot; by his medical tent visits after the team&#039;s preseason loss to Minnesota."
-    },
-    {
-     "outlet": "nypost",
-     "title": "Jaxson Dart scare brings familiar Giants concern into John Harbaugh era",
-     "url": "https://nypost.com/2026/08/15/sports/jaxson-dart-scare-brings-familiar-giants-concern-into-john-harbaugh-era/",
-     "author": "Steve Serby",
-     "kind": "news",
-     "published": "2026-08-15T23:53:56+00:00",
-     "summary": "Down went Jaxson Dart, and hard, on his back. Hearts raced all across MetLife Stadium and beyond. Deja Blue Tent all over again."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Jaxson Dart gets last laugh against blitzing Vikings coach Brian Flores and the ominous blue medical tent",
-     "url": "https://www.foxnews.com/outkick-sports/jaxson-dart-last-laugh-blitzing-vikings-coach-brian-flores-ominous-blue-medical-tent",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T23:12:47+00:00",
-     "summary": "It was ugly when Jaxson Dart got absolutely rocked so hard during Saturday's preseason game that he lay motionless on the field as team trainers and doctors rushed to his aid. The moment looked like a snapshot from the 2025 season, when the New York Giants' quarterback was hit over and over again. And, like a handful of times in 2025, this hit resulted in Dart being evaluated for a concussion out of concern for the player's safety. Dart had one confirmed concussion out of those five previous evaluations and missed two games as a result. ANTHONY RICHARDSON'S TURNOVERS IN PRESEASON OPENER RAISE MORE QUESTIONS ABOUT HIS COLTS FUTURE \"I never thought I was going to be taken out,\" Dart said after the game. \"I want to keep playing until they tell me I'm not playing. Like, I want to be out there.\" The Giants season flashed before everyone's eyes until Dart emerged from the blue medical tent on the sideline after the evaluation that cleared him to return. But the whole scene raises questions about what should and shouldn't be expected in any team's first preseason game. SUPREME COURT HANDS NFL A LOSS IN BRIAN FLORES DISCRIMINATION LAWSUIT, CLEARING PATH TO TRIAL So, some answers: Harbaugh "
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Vikings&#039; Kyler Murray Looked Solid in Short Preseason Appearance",
-     "url": "https://www.newsweek.com/sports/nfl/vikings-kyler-murray-looked-solid-in-short-preseason-appearance-12328158",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T22:51:43+00:00",
-     "summary": "Minnesota Vikings&#039; Kyler Murray is staring on quarterback."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "JJ McCarthy considered 'unpredictable'; Vikings hand starting QB role to Kyler Murray: report",
-     "url": "https://www.foxnews.com/sports/jj-mccarthy-considered-unpredictable-vikings-hand-starting-qb-role-kyler-murray-report",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T21:05:37+00:00",
-     "summary": "It may not have come as a surprise to people that Minnesota Vikings head coach Kevin O\u2019Connell quickly named Kyler Murray the starting quarterback of his offense over J.J. McCarthy, the team\u2019s 2024 first-round selection. But a recent report indicates it\u2019s more than just what happened on the training camp practice field between Murray and McCarthy that may have factored into such a quick decision. It was last summer when some within the Vikings organization were concerned that McCarthy, who missed his entire rookie season due to a knee injury and struggled with consistency in 2025, was \"unpredictable,\" according to CBS Sports . CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM Some believed that Max Brosmer, who was an undrafted free agent added to the quarterbacks room, should\u2019ve been the one under center for Minnesota in Week 1. That wasn\u2019t the case, but the Vikings made it known after watching McCarthy complete 57.6% of his passes, while throwing 11 touchdowns and 12 interceptions in 10 games \u2014 Minnesota went 6-4 over that span \u2014 they were in the quarterback market this offseason. KYLER MURRAY AND JJ MCCARTHY GIVE WILDLY DIFFERENT ANSWERS ABOUT THEIR VIKINGS QB ROOM DYNAMIC \"A f"
-    }
-   ]
-  },
-  {
-   "id": "077912646c",
-   "topic": "Climate & Energy",
-   "summary": "Hawaii\u2019s Big Island was seeing heavy rain and strong winds on Saturday as Lala gained strength, with conditions expected to deteriorate in the hours ahead. NBC News\u2019 Morgan Chesky reports.",
-   "summaryFrom": "nbcnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-   "updated": "2026-08-15T23:34:24+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 1,
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-     "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T23:34:24+00:00",
-     "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Hawaii braces for impact from Lala",
-     "url": "https://www.nbcnews.com/nightly-news/video/hawaii-braces-for-impact-from-lala-268362309511",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T23:06:26+00:00",
-     "summary": "Hawaii\u2019s Big Island was seeing heavy rain and strong winds on Saturday as Lala gained strength, with conditions expected to deteriorate in the hours ahead. NBC News\u2019 Morgan Chesky reports."
-    },
-    {
-     "outlet": "nyt",
-     "title": "The Last Hurricane to Hit Hawaii Became a Movie Star",
-     "url": "https://www.nytimes.com/2026/08/15/weather/hurricane-iniki-hawaii-history-lala.html",
-     "author": "Amy Graff and Pooja Salhotra",
-     "kind": "news",
-     "published": "2026-08-15T19:39:50+00:00",
-     "summary": "Hurricane Iniki devastated Kauai, causing at least seven deaths and $1.8 billion in damage. It also got a cameo in a Spielberg movie."
     }
    ]
   },
@@ -2346,57 +2299,6 @@
    ]
   },
   {
-   "id": "80daf3a1d1",
-   "topic": "Culture & Sport",
-   "summary": "St. Louis Cardinals rookie Joshua B\u00e1ez\u2019s first career game in the big leagues was something out of a movie. B\u00e1ez made Major League Baseball history by hitting a home run in each of his first three plate appearances in the Cardinals' game against the Chicago Cubs Saturday afternoon at Wrigley Field. The 23-year-old wasted no time in his first-ever at-bat, blasting the first pitch he saw in his major league career 450 feet to dead center field for a two-run homer to give the Cardinals a 3-0 lead. B\u00e1ez pummeled Cubs starter Matt Boyd\u2019s 93-mph fastball and sent the Cardinals\u2019 dugout into a frenzy. The rookie rounded the bases with a smile on his face the whole time. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM His second home run of the day came in the fourth inning, once again off Boyd. B\u00e1ez worked the count full, then hammered Boyd's 78-mph changeup 382 feet into the left-field\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Cardinals rookie Joshua B\u00e1ez makes MLB history with three homers in first three at-bats",
-   "updated": "2026-08-15T21:24:52+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 1,
-    "family": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Cardinals rookie Joshua B\u00e1ez makes MLB history with three homers in first three at-bats",
-     "url": "https://www.theguardian.com/sport/2026/aug/15/joshua-baez-three-home-runs-cardinals-cubs-mlb-record",
-     "author": "Agencies",
-     "kind": "news",
-     "published": "2026-08-15T21:24:52+00:00",
-     "summary": "23-year-old hits home run on first pitch in majors B\u00e1ez drives in five during 8-4 victory over Cubs Rookie was called up from Triple-A earlier in day Joshua B\u00e1ez became the first player to hit three home runs in his first three at-bats in the major leagues, leading the St Louis Cardinals to an 8-4 victory over the Chicago Cubs on Saturday. The 23-year-old left fielder, called up from Triple-A Memphis earlier in the day, hit the first pitch he saw into the Wrigley Field bleachers, then homered in his next two at-bats. He also drove in five runs. Continue reading..."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Cardinals rookie makes MLB history by hitting a home run in each of his first three career plate appearances",
-     "url": "https://www.foxnews.com/sports/cardinals-rookie-makes-mlb-history-hitting-home-run-first-three-career-plate-appearances",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T20:57:27+00:00",
-     "summary": "St. Louis Cardinals rookie Joshua B\u00e1ez\u2019s first career game in the big leagues was something out of a movie. B\u00e1ez made Major League Baseball history by hitting a home run in each of his first three plate appearances in the Cardinals' game against the Chicago Cubs Saturday afternoon at Wrigley Field. The 23-year-old wasted no time in his first-ever at-bat, blasting the first pitch he saw in his major league career 450 feet to dead center field for a two-run homer to give the Cardinals a 3-0 lead. B\u00e1ez pummeled Cubs starter Matt Boyd\u2019s 93-mph fastball and sent the Cardinals\u2019 dugout into a frenzy. The rookie rounded the bases with a smile on his face the whole time. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM His second home run of the day came in the fourth inning, once again off Boyd. B\u00e1ez worked the count full, then hammered Boyd's 78-mph changeup 382 feet into the left-field seats to give the Cardinals a 4-3 lead. B\u00e1ez's third home run also came off Boyd, this time off an 83-mph slider on the outside of the plate. The electrifying rookie hammered the ball 368 feet into the right-field seats for a two-run home run, giving the Cardinals a 6-3 lead. The Cardinals' dugout was in"
-    },
-    {
-     "outlet": "forbes",
-     "title": "Cardinals Cut Rookie Infielder Amid Brutal Stretch At The Plate",
-     "url": "https://www.forbes.com/sites/peterchawaga/2026/08/15/cardinals-cut-rookie-infielder-amid-brutal-stretch-at-the-plate/",
-     "author": "Peter Chawaga, Contributor",
-     "kind": "news",
-     "published": "2026-08-15T11:30:00+00:00",
-     "summary": "The St. Louis Cardinals made a difficult move with a young third baseman after a 0-for-27 start to the season."
-    }
-   ]
-  },
-  {
    "id": "cccf277238",
    "topic": "Politics",
    "summary": "Rep. Ralph Norman (R-SC) said he's willing to put in the work to win the Aug. 25 South Carolina Republican Senate runoff in an exclusive interview on Breitbart News Saturday. Norman said the country didn't have time to wait for someone who hasn't been involved in national issues and he was the \"known quantity\" for the Palmetto state's voters The post Exclusive \u2014 Ralph Norman: South Carolina Senate Runoff About Who Will Fight for SAVE America Act appeared first on Breitbart .",
@@ -2546,57 +2448,6 @@
      "kind": "news",
      "published": "2026-08-15T09:01:01+00:00",
      "summary": "The Sierra Madre, a Philippine naval ship, in the South China Sea in 2023. Last month, a Chinese Coast Guard vessel began circling the ship and confronted Philippine service members."
-    }
-   ]
-  },
-  {
-   "id": "40649a62e1",
-   "topic": "World",
-   "summary": "Israeli settlers run as they are chased by an Israeli military vehicle around Palestinian houses in the village of Qusra, south of Nablus, in the occupied West Bank, on Aug. 13, 2026. Photo by Zain Jaafar/AFP via Getty Images US Ambassador Mike Huckabee called settlers besieging a Palestinian American home in the occupied West Bank &#8220; Israeli terrorists .&#8221; It&#8217;s a welcome, rare rebuke from a U.S. official, but what kind of weight does it really have when the same official has been a long-time supporter of Israeli settlements? It wasn&#8217;t that long ago that Huckabee made similar comments about settler violence gripping the Palestinian Christian village of Taybeh , where attacks continue, or the settlers who beat Palestinian American Sayfollah Musallet to death (no one has been held accountable). Subscribe now What kind of weight do Huckabee&#8217;s comments really\u2026",
-   "summaryFrom": "zeteo",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family"
-   ],
-   "headline": "Israeli settlers besiege Palestinian families in occupied West Bank",
-   "updated": "2026-08-15T17:01:34+00:00",
-   "outletCount": 3,
-   "counts": {
-    "coop": 1,
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "zeteo",
-     "title": "This Week in Palestine: Israel Shoots 13-Year-Old as She \u2018Memorized the Quran\u2019 and Settlers Besiege Palestinian Families",
-     "url": "https://zeteo.com/p/this-week-in-palestine-israel-shoots",
-     "author": "Team Zeteo",
-     "kind": "news",
-     "published": "2026-08-15T17:01:34+00:00",
-     "summary": "Israeli settlers run as they are chased by an Israeli military vehicle around Palestinian houses in the village of Qusra, south of Nablus, in the occupied West Bank, on Aug. 13, 2026. Photo by Zain Jaafar/AFP via Getty Images US Ambassador Mike Huckabee called settlers besieging a Palestinian American home in the occupied West Bank &#8220; Israeli terrorists .&#8221; It&#8217;s a welcome, rare rebuke from a U.S. official, but what kind of weight does it really have when the same official has been a long-time supporter of Israeli settlements? It wasn&#8217;t that long ago that Huckabee made similar comments about settler violence gripping the Palestinian Christian village of Taybeh , where attacks continue, or the settlers who beat Palestinian American Sayfollah Musallet to death (no one has been held accountable). Subscribe now What kind of weight do Huckabee&#8217;s comments really have when, hours after using the phrase &#8220;Israeli terrorists,&#8221; he called the settlers &#8220; illegal trespassers &#8221; instead? Or when he defended the vast majority of settlers, saying they aren&#8217;t the problem, the &#8220; unsettlers &#8221; are, even though the settlements themselve"
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Israeli settlers besiege Palestinian families in occupied West Bank",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T15:48:07+00:00",
-     "summary": "Three Palestinian families say they have been trapped inside their homes in the occupied West Bank for nearly a week."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
-     "url": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
-     "author": "Emma Graham-Harrison in Jerusalem",
-     "kind": "news",
-     "published": "2026-08-14T17:52:51+00:00",
-     "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading..."
     }
    ]
   },
@@ -2754,57 +2605,6 @@
    ]
   },
   {
-   "id": "4e7c8d1bfe",
-   "topic": "Culture & Sport",
-   "summary": "The year of Anne Hathaway has kicked into hyperdrive. After the release of the legacy sequel \"The Devil Wears Prada 2,\" the indie art house film \"Mother Mary\" and on the heels of Christopher Nolan's epic \"The Odyssey,\" the Oscar winner now stars in the new movie, \"The End of Oak Street,\" (and she still has another movie slated for this fall). She and Ewan McGregor are Denise and Greg Platt, a not-so-happy couple who put on a happy face for their two teenage children, Audrey and Brian (Maisy Stella and Christian Convery) in their idyllic neighborhood on \u2014 you guessed it \u2014 Oak Street in Summer 1982. \u2018ONE NIGHT ONLY\u2019 REVIEW: MONICA BARBARO AND CALLUM TURNER CHARM IN HIGH-CONCEPT ROM-COM One night, a mysterious light floods the outside of their home, and they wake up without power and running water and are not even picking up any radio stations. It doesn't take long after Denise and Greg\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "The End of Oak Street Is a Nasty, Effective Exercise in Dino Terror",
-   "updated": "2026-08-15T12:00:50+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 2,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "'The End of Oak Street' Review: Anne Hathaway, Ewan McGregor fight dinosaurs in surprisingly fun movie",
-     "url": "https://www.foxnews.com/opinion/the-end-oak-street-review-anne-hathaway-ewan-mcgregor-fight-dinosaurs-surprisingly-fun-movie",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-15T12:00:50+00:00",
-     "summary": "The year of Anne Hathaway has kicked into hyperdrive. After the release of the legacy sequel \"The Devil Wears Prada 2,\" the indie art house film \"Mother Mary\" and on the heels of Christopher Nolan's epic \"The Odyssey,\" the Oscar winner now stars in the new movie, \"The End of Oak Street,\" (and she still has another movie slated for this fall). She and Ewan McGregor are Denise and Greg Platt, a not-so-happy couple who put on a happy face for their two teenage children, Audrey and Brian (Maisy Stella and Christian Convery) in their idyllic neighborhood on \u2014 you guessed it \u2014 Oak Street in Summer 1982. \u2018ONE NIGHT ONLY\u2019 REVIEW: MONICA BARBARO AND CALLUM TURNER CHARM IN HIGH-CONCEPT ROM-COM One night, a mysterious light floods the outside of their home, and they wake up without power and running water and are not even picking up any radio stations. It doesn't take long after Denise and Greg leave the house to figure out something isn't right. There are dinosaurs everywhere. The entirety of their neighborhood was somehow transported back to a prehistoric era where the end of the street is literally cut off by a giant cliff with jungles taking over people's backyards. The Platts must fight "
-    },
-    {
-     "outlet": "time",
-     "title": "The End of Oak Street Is the Best Dinosaur Movie Since Jurassic Park",
-     "url": "https://time.com/article/2026/08/10/the-end-of-oak-street-jurassic-park-comparison/",
-     "author": "Megan McCluskey",
-     "kind": "news",
-     "published": "2026-08-14T14:35:56+00:00",
-     "summary": "(L-R): Ewan McGregor as Greg and Anne Hathaway as Denise in The End of Oak Street \u2014Warner Bros. Pictures It's been 33 years since the enduring cinematic masterpiece that is Jurassic Park first hit theaters in June 1993. Since that fateful summer, Steven Spielberg's sci-fi survival thriller has reigned supreme as the undisputed king of dinosaur films. Now, The End of Oak Street is proving a dino blockbuster that serves up prehistoric horror with a side of genuine pathos is still a worthy endeavor. Based on Michael Crichton's 1990 novel, Jurassic Park not only delivered some of the most memorable creature-feature scares in movie history, it was also a sharp cautionary tale about scientific hubris and the illusion of man's control over nature that was anchored by stellar performances from its core cast. But over the course of numerous sequels and reboots, the franchise largely shifted away from resonant character drama in favor of high-octane action sequences and increasingly monstrous beasts. Outside the Jurassic universe, there haven't been many successful attempts to reinvent the dinosaur wheel, so to speak. Brian (Christian Convery) and Audrey (Maisy Stella) flee from an Allosauru"
-    },
-    {
-     "outlet": "reason",
-     "title": "The End of Oak Street Is a Nasty, Effective Exercise in Dino Terror",
-     "url": "https://reason.com/2026/08/14/the-end-of-oak-street-is-a-nasty-effective-exercise-in-dino-terror/",
-     "author": "Peter Suderman",
-     "kind": "opinion",
-     "published": "2026-08-14T14:32:25+00:00",
-     "summary": "There's something primordially satisfying about watching a big-screen dinosaur get the what-for from the business end of a just-loaded shotgun. The recent run of Jurassic Park movies sometimes seems to have lost this primal pleasure, replacing it with ho-hum computer-generated spectacle and cheap nostalgic callbacks to the franchise's better days. They've forgotten that the franchise was founded on a combination of awe and white-knuckle terror\u2014the raw and relatable fear of a giant, toothy monster that stalks the earth with a sort of evolutionary arrogance that comes from a couple million years atop the food chain. Newsflash: Humans rule the planet now. It's fun to watch these ancient planetary powerhouses get taken down a peg. Sic semper Tyrannosaurus. The End of Oak Street remembers what the Jurassic Park franchise has largely forgotten. It leans into the animal terror of encountering a dinosaur on the streets of an ordinary suburb. Set in the early 1980s, the movie lifts brashly from early Steven Spielberg, especially E.T. , depicting a seemingly ordinary family with its own ordinary troubles who find themselves in a sort of dinosaur-ridden episode of The Twilight Zone. The End o"
-    }
-   ]
-  },
-  {
    "id": "1d526e010b",
    "topic": "Politics",
    "summary": "Trump Media &amp; Technology Group\u2014the company owned by President Donald Trump that operates Truth Social\u2014is facing a lawsuit alleging that its plan to monetize access to the social media posts of the president and his closest advisers through its Truth API tool is unconstitutional. Announced in July and rolled out at the start of August, Trump Media describes its API as a data feed that \"provides licensed, real-time access to posts from the highest-ranking Truth Social accounts.\" It does so at prices ranging from $60,000 to $100,000 per month, according to Trump Media CEO Kevin McGurn. Under the terms of the licensing agreement, Truth API subscribers will receive posts from the Trump administration delivered directly to their devices in \"milliseconds,\" giving them an edge over regular users scrolling through their social feeds. Filed by The Intercept and the Freedom of the Press\u2026",
@@ -2903,6 +2703,48 @@
      "kind": "news",
      "published": "2026-08-13T15:19:39+00:00",
      "summary": "An F/A-18F Super Hornet launches from the flight deck of aircraft carrier USS Abraham Lincoln in support of Operation Epic Fury on February 28, 2026 at Sea. Photo by U.S. Navy via Getty Images. Thursday, August 13, 2026 &#8211; &nbsp; Iranian Foreign Minister Abbas Araghchi warns of &#8220;even bigger miscalculation&#8221; on Hormuz after U.S. President Donald Trump claims U.S. has &#8220;total control.&#8221; Washington Post: U.S. intelligence viewed Israeli warning of Iranian plot to kill Trump as &#8220;low confidence.&#8221; Slight bump in Hormuz traffic. Iran reports oil pollution off Qeshm Island, calls for Hormuz environmental fees. Iran kills two accused of intelligence ties to U.S. and Israel. Yemen&#8217;s Saudi-backed government claims success against Ansarallah attack. Saudi tankers reroute around Africa as empty fleet heads toward Gulf. X suspends Ansarallah spokesperson account. Israel kills Palestinian child in Gaza City strike. Israeli strikes kill two, including Gaza police chief. Israel detains Palestinians, destroys homes, and re-establishes settlement in occupied West Bank. Hamas says it will participate in Palestinian elections in November. Israeli forces blow "
+    }
+   ]
+  },
+  {
+   "id": "a71ce36f1f",
+   "topic": "Other",
+   "summary": "New York Mets fans can\u2019t get enough of Jefry Yan\u2019s acrobatic celebration when he strikes out a batter in relief, as it\u2019s become quite the social media sensation. But Yan got too excited on Saturday afternoon in the Mets\u2019 thrilling walk-off win over the Washington Nationals at Citi Field when he performed the viral celebration. The pitch hadn\u2019t been called strike three. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM Yan made his Citi Field debut in front of the Mets faithful, and in the top of the ninth with an 0-2 count and two out, he thought he placed his fastball perfectly on the outside corner to strike out Nasim Nu\u00f1ez to end the frame. The home plate umpire thought otherwise, but Yan was already midair in celebration. Yan, who seems to have springs in his feet with the way he jumps into the air to start his celebration, noticed that strike three wasn\u2019t called. As he touched\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Mets' Jefry Yan, known for high-flying strikeout celebration, performs it too soon in hilarious blunder",
+   "updated": "2026-08-16T02:45:06+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "Mets' Jefry Yan, known for high-flying strikeout celebration, performs it too soon in hilarious blunder",
+     "url": "https://www.foxnews.com/outkick-sports/mets-jefry-yan-known-high-flying-strikeout-celebration-performs-too-soon-hilarious-blunder",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T02:45:06+00:00",
+     "summary": "New York Mets fans can\u2019t get enough of Jefry Yan\u2019s acrobatic celebration when he strikes out a batter in relief, as it\u2019s become quite the social media sensation. But Yan got too excited on Saturday afternoon in the Mets\u2019 thrilling walk-off win over the Washington Nationals at Citi Field when he performed the viral celebration. The pitch hadn\u2019t been called strike three. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM Yan made his Citi Field debut in front of the Mets faithful, and in the top of the ninth with an 0-2 count and two out, he thought he placed his fastball perfectly on the outside corner to strike out Nasim Nu\u00f1ez to end the frame. The home plate umpire thought otherwise, but Yan was already midair in celebration. Yan, who seems to have springs in his feet with the way he jumps into the air to start his celebration, noticed that strike three wasn\u2019t called. As he touched back down on the mound, he started tapping the top of his hat to challenge the ball, forcing an ABS review . ANTHONY VOLPE HAS FACE-PALM MOMENT WITH ABS SYSTEM AS FIRST BATTER OF MINOR LEAGUE GAME But, after review, the umpire\u2019s call for a ball stood. \"Now, that was funny,\" Mets longtime play-by-play an"
+    },
+    {
+     "outlet": "nypost",
+     "title": "Jefry Yan unleashes wild strikeout dance prematurely in hilarious Mets moment: \u2018That was funny\u2019",
+     "url": "https://nypost.com/2026/08/15/sports/jefry-yan-unleashes-wild-strikeout-dance-prematurely-in-hilarious-mets-moment/",
+     "author": "Jared Schwartz",
+     "kind": "news",
+     "published": "2026-08-16T01:55:02+00:00",
+     "summary": "He celebrated a bit too early."
     }
    ]
   },
@@ -3033,132 +2875,6 @@
    ]
   },
   {
-   "id": "0696fed5f7",
-   "topic": "Other",
-   "summary": "One of the loudest cheers Saturday at MetLife Stadium came in between two nondescript second-quarter carries by Dante Miller.",
-   "summaryFrom": "nypost",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Odell Beckham Jr. tells The Post why his Giants return was \u2018everything I was expecting\u2019",
-   "updated": "2026-08-16T00:03:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Odell Beckham Jr. tells The Post why his Giants return was \u2018everything I was expecting\u2019",
-     "url": "https://nypost.com/2026/08/15/sports/odell-beckham-jr-tells-the-post-his-giants-return-was-everything-i-was-expecting/",
-     "author": "Ryan Dunleavy",
-     "kind": "news",
-     "published": "2026-08-16T00:03:00+00:00",
-     "summary": "One of the loudest cheers Saturday at MetLife Stadium came in between two nondescript second-quarter carries by Dante Miller."
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Giants&#039; Odell Beckham Jr. Makes His Return to MetLife Stadium",
-     "url": "https://www.newsweek.com/sports/nfl/giants-odell-beckham-jr-makes-his-return-to-metlife-stadium-12328159",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T22:32:22+00:00",
-     "summary": "New York Giants&#039; Odell Beckham Jr. was back at home."
-    }
-   ]
-  },
-  {
-   "id": "d204f4a23d",
-   "topic": "Other",
-   "summary": "Footage shows the moment local authorities encountered a Marine pilot who ejected from his F/A-18 fighter jet before it crashed into a mountainside in Washington. The post WATCH: Marine Pilot Shows Up on Rural Road After Ejecting from F-18 About to Crash appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Bloodied Marine pilot seen walking away from fiery fighter jet crash in video: \u2018Hey, buddy, I just crashed\u2019",
-   "updated": "2026-08-16T00:01:41+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Bloodied Marine pilot seen walking away from fiery fighter jet crash in video: \u2018Hey, buddy, I just crashed\u2019",
-     "url": "https://nypost.com/2026/08/15/us-news/bloodied-marine-pilot-seen-walking-away-from-fiery-fighter-jet-crash-you-hit-the-tree-bad-bud/",
-     "author": "Ella Morrison",
-     "kind": "news",
-     "published": "2026-08-16T00:01:41+00:00",
-     "summary": "New police bodycam footage shows a lucky-to-be-alive Marine pilot moments after ejecting from a fighter jet that crashed into a Washington state mountainside."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "WATCH: Marine Pilot Shows Up on Rural Road After Ejecting from F-18 About to Crash",
-     "url": "https://www.breitbart.com/national-security/2026/08/15/watch-marine-pilot-shows-up-rural-road-ejecting-f-18-about-crash/",
-     "author": "Lowell Cauffiel",
-     "kind": "news",
-     "published": "2026-08-15T17:28:23+00:00",
-     "summary": "Footage shows the moment local authorities encountered a Marine pilot who ejected from his F/A-18 fighter jet before it crashed into a mountainside in Washington. The post WATCH: Marine Pilot Shows Up on Rural Road After Ejecting from F-18 About to Crash appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
-   "id": "29b663e62b",
-   "topic": "Other",
-   "summary": "Former outfielder Reggie Smith was inducted into the Legends of Dodger Baseball on Saturday in a pregame ceremony. The observance included the three other members of the first quartet of teammates in major league history to each hit 30 or more home runs in a single season. A switch-hitter who went to Centennial High in...",
-   "summaryFrom": "nypost",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "World Series champ, 3x All-Star Reggie Smith inducted into Legends of Dodger Baseball",
-   "updated": "2026-08-15T23:58:54+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "World Series champ, 3x All-Star Reggie Smith inducted into Legends of Dodger Baseball",
-     "url": "https://nypost.com/2026/08/15/sports/reggie-smith-inducted-legends-of-dodger-baseball/",
-     "author": "Dylan Hernandez",
-     "kind": "news",
-     "published": "2026-08-15T23:58:54+00:00",
-     "summary": "Former outfielder Reggie Smith was inducted into the Legends of Dodger Baseball on Saturday in a pregame ceremony. The observance included the three other members of the first quartet of teammates in major league history to each hit 30 or more home runs in a single season. A switch-hitter who went to Centennial High in..."
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Dodgers Honoring Reggie Smith With Legends of Dodger Baseball Induction",
-     "url": "https://www.newsweek.com/sports/mlb/dodgers-honoring-reggie-smith-with-legends-of-dodger-baseball-induction-12328115",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T22:12:15+00:00",
-     "summary": "The Los Angeles Dodgers will be honoring Reggie Smith with a Legends of Dodger Baseball induction on Saturday."
-    }
-   ]
-  },
-  {
    "id": "c8d3372590",
    "topic": "Politics",
    "summary": "The United States Navy is potentially redesigning incoming aircraft vessels to better align with President Trump\u2019s preferred aesthetic. The maritime branch is considering the shift on Ford-class ships to match the president\u2019s preference for the new aircraft carriers to resemble the World War II-era, according to a Saturday report from the Washington Post. The changes...",
@@ -3197,6 +2913,108 @@
      "kind": "news",
      "published": "2026-08-15T12:00:00+00:00",
      "summary": "The president wants the new fleet of aircraft carriers to more resemble those from World War II. Such a change could cost billions."
+    }
+   ]
+  },
+  {
+   "id": "6aee59fe7a",
+   "topic": "Health",
+   "summary": "It was ugly when Jaxson Dart got absolutely rocked so hard during Saturday's preseason game that he lay motionless on the field as team trainers and doctors rushed to his aid. The moment looked like a snapshot from the 2025 season, when the New York Giants' quarterback was hit over and over again. And, like a handful of times in 2025, this hit resulted in Dart being evaluated for a concussion out of concern for the player's safety. Dart had one confirmed concussion out of those five previous evaluations and missed two games as a result. ANTHONY RICHARDSON'S TURNOVERS IN PRESEASON OPENER RAISE MORE QUESTIONS ABOUT HIS COLTS FUTURE \"I never thought I was going to be taken out,\" Dart said after the game. \"I want to keep playing until they tell me I'm not playing. Like, I want to be out there.\" The Giants season flashed before everyone's eyes until Dart emerged from the blue medical tent on\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Jaxson Dart Gets Honest About Concussion Tests After Giants&#039; Preseason Loss",
+   "updated": "2026-08-15T23:56:26+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2,
+    "family": 2
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "Jaxson Dart Gets Honest About Concussion Tests After Giants&#039; Preseason Loss",
+     "url": "https://www.newsweek.com/sports/nfl/jaxson-dart-gets-honest-about-concussion-tests-after-giants-preseason-loss-12328331",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T23:56:26+00:00",
+     "summary": "Giants quarterback Jaxson Dart said he was &quot;puzzled&quot; by his medical tent visits after the team&#039;s preseason loss to Minnesota."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Jaxson Dart gets last laugh against blitzing Vikings coach Brian Flores and the ominous blue medical tent",
+     "url": "https://www.foxnews.com/outkick-sports/jaxson-dart-last-laugh-blitzing-vikings-coach-brian-flores-ominous-blue-medical-tent",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T23:12:47+00:00",
+     "summary": "It was ugly when Jaxson Dart got absolutely rocked so hard during Saturday's preseason game that he lay motionless on the field as team trainers and doctors rushed to his aid. The moment looked like a snapshot from the 2025 season, when the New York Giants' quarterback was hit over and over again. And, like a handful of times in 2025, this hit resulted in Dart being evaluated for a concussion out of concern for the player's safety. Dart had one confirmed concussion out of those five previous evaluations and missed two games as a result. ANTHONY RICHARDSON'S TURNOVERS IN PRESEASON OPENER RAISE MORE QUESTIONS ABOUT HIS COLTS FUTURE \"I never thought I was going to be taken out,\" Dart said after the game. \"I want to keep playing until they tell me I'm not playing. Like, I want to be out there.\" The Giants season flashed before everyone's eyes until Dart emerged from the blue medical tent on the sideline after the evaluation that cleared him to return. But the whole scene raises questions about what should and shouldn't be expected in any team's first preseason game. SUPREME COURT HANDS NFL A LOSS IN BRIAN FLORES DISCRIMINATION LAWSUIT, CLEARING PATH TO TRIAL So, some answers: Harbaugh "
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Vikings&#039; Kyler Murray Looked Solid in Short Preseason Appearance",
+     "url": "https://www.newsweek.com/sports/nfl/vikings-kyler-murray-looked-solid-in-short-preseason-appearance-12328158",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T22:51:43+00:00",
+     "summary": "Minnesota Vikings&#039; Kyler Murray is staring on quarterback."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "JJ McCarthy considered 'unpredictable'; Vikings hand starting QB role to Kyler Murray: report",
+     "url": "https://www.foxnews.com/sports/jj-mccarthy-considered-unpredictable-vikings-hand-starting-qb-role-kyler-murray-report",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T21:05:37+00:00",
+     "summary": "It may not have come as a surprise to people that Minnesota Vikings head coach Kevin O\u2019Connell quickly named Kyler Murray the starting quarterback of his offense over J.J. McCarthy, the team\u2019s 2024 first-round selection. But a recent report indicates it\u2019s more than just what happened on the training camp practice field between Murray and McCarthy that may have factored into such a quick decision. It was last summer when some within the Vikings organization were concerned that McCarthy, who missed his entire rookie season due to a knee injury and struggled with consistency in 2025, was \"unpredictable,\" according to CBS Sports . CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM Some believed that Max Brosmer, who was an undrafted free agent added to the quarterbacks room, should\u2019ve been the one under center for Minnesota in Week 1. That wasn\u2019t the case, but the Vikings made it known after watching McCarthy complete 57.6% of his passes, while throwing 11 touchdowns and 12 interceptions in 10 games \u2014 Minnesota went 6-4 over that span \u2014 they were in the quarterback market this offseason. KYLER MURRAY AND JJ MCCARTHY GIVE WILDLY DIFFERENT ANSWERS ABOUT THEIR VIKINGS QB ROOM DYNAMIC \"A f"
+    }
+   ]
+  },
+  {
+   "id": "077912646c",
+   "topic": "Climate & Energy",
+   "summary": "Hawaii\u2019s Big Island was seeing heavy rain and strong winds on Saturday as Lala gained strength, with conditions expected to deteriorate in the hours ahead. NBC News\u2019 Morgan Chesky reports.",
+   "summaryFrom": "nbcnews",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+   "updated": "2026-08-15T23:34:24+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+     "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T23:34:24+00:00",
+     "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Hawaii braces for impact from Lala",
+     "url": "https://www.nbcnews.com/nightly-news/video/hawaii-braces-for-impact-from-lala-268363333565",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T23:16:07+00:00",
+     "summary": "Hawaii\u2019s Big Island was seeing heavy rain and strong winds on Saturday as Lala gained strength, with conditions expected to deteriorate in the hours ahead. NBC News\u2019 Morgan Chesky reports."
     }
    ]
   },
@@ -3323,6 +3141,48 @@
      "kind": "news",
      "published": "2026-08-15T19:01:40+00:00",
      "summary": "Kate Douglass, 24, is a five-time Olympic medalist."
+    }
+   ]
+  },
+  {
+   "id": "80daf3a1d1",
+   "topic": "Culture & Sport",
+   "summary": "St. Louis Cardinals rookie Joshua B\u00e1ez\u2019s first career game in the big leagues was something out of a movie. B\u00e1ez made Major League Baseball history by hitting a home run in each of his first three plate appearances in the Cardinals' game against the Chicago Cubs Saturday afternoon at Wrigley Field. The 23-year-old wasted no time in his first-ever at-bat, blasting the first pitch he saw in his major league career 450 feet to dead center field for a two-run homer to give the Cardinals a 3-0 lead. B\u00e1ez pummeled Cubs starter Matt Boyd\u2019s 93-mph fastball and sent the Cardinals\u2019 dugout into a frenzy. The rookie rounded the bases with a smile on his face the whole time. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM His second home run of the day came in the fourth inning, once again off Boyd. B\u00e1ez worked the count full, then hammered Boyd's 78-mph changeup 382 feet into the left-field\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Cardinals rookie Joshua B\u00e1ez makes MLB history with three homers in first three at-bats",
+   "updated": "2026-08-15T21:24:52+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Cardinals rookie Joshua B\u00e1ez makes MLB history with three homers in first three at-bats",
+     "url": "https://www.theguardian.com/sport/2026/aug/15/joshua-baez-three-home-runs-cardinals-cubs-mlb-record",
+     "author": "Agencies",
+     "kind": "news",
+     "published": "2026-08-15T21:24:52+00:00",
+     "summary": "23-year-old hits home run on first pitch in majors B\u00e1ez drives in five during 8-4 victory over Cubs Rookie was called up from Triple-A earlier in day Joshua B\u00e1ez became the first player to hit three home runs in his first three at-bats in the major leagues, leading the St Louis Cardinals to an 8-4 victory over the Chicago Cubs on Saturday. The 23-year-old left fielder, called up from Triple-A Memphis earlier in the day, hit the first pitch he saw into the Wrigley Field bleachers, then homered in his next two at-bats. He also drove in five runs. Continue reading..."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Cardinals rookie makes MLB history by hitting a home run in each of his first three career plate appearances",
+     "url": "https://www.foxnews.com/sports/cardinals-rookie-makes-mlb-history-hitting-home-run-first-three-career-plate-appearances",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-15T20:57:27+00:00",
+     "summary": "St. Louis Cardinals rookie Joshua B\u00e1ez\u2019s first career game in the big leagues was something out of a movie. B\u00e1ez made Major League Baseball history by hitting a home run in each of his first three plate appearances in the Cardinals' game against the Chicago Cubs Saturday afternoon at Wrigley Field. The 23-year-old wasted no time in his first-ever at-bat, blasting the first pitch he saw in his major league career 450 feet to dead center field for a two-run homer to give the Cardinals a 3-0 lead. B\u00e1ez pummeled Cubs starter Matt Boyd\u2019s 93-mph fastball and sent the Cardinals\u2019 dugout into a frenzy. The rookie rounded the bases with a smile on his face the whole time. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM His second home run of the day came in the fourth inning, once again off Boyd. B\u00e1ez worked the count full, then hammered Boyd's 78-mph changeup 382 feet into the left-field seats to give the Cardinals a 4-3 lead. B\u00e1ez's third home run also came off Boyd, this time off an 83-mph slider on the outside of the plate. The electrifying rookie hammered the ball 368 feet into the right-field seats for a two-run home run, giving the Cardinals a 6-3 lead. The Cardinals' dugout was in"
     }
    ]
   },
@@ -3659,6 +3519,90 @@
      "kind": "news",
      "published": "2026-08-13T21:37:37+00:00",
      "summary": "Pretty much all the movies you can catch in the Twin Cities this week."
+    }
+   ]
+  },
+  {
+   "id": "6c764dddeb",
+   "topic": "Climate & Energy",
+   "summary": "The Taliban seized power on Aug. 15, 2021, as the U.S. and other NATO troops withdrew following a costly two-decade war. The U.S. withdrawal led to chaos at Kabul airport as crowds of people tried to flee the country in desperation.",
+   "summaryFrom": "pbsnewshour",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "While Taliban leaders mark 5 years in power in Afghanistan, a UN official warns of a rights crisis",
+   "updated": "2026-08-15T17:09:42+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "pbsnewshour",
+     "title": "While Taliban leaders mark 5 years in power in Afghanistan, a UN official warns of a rights crisis",
+     "url": "https://www.pbs.org/newshour/world/while-taliban-leaders-mark-5-years-in-power-in-afghanistan-a-un-official-warns-of-a-rights-crisis",
+     "author": "Suzan Fraser, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T17:09:42+00:00",
+     "summary": "The Taliban seized power on Aug. 15, 2021, as the U.S. and other NATO troops withdrew following a costly two-decade war. The U.S. withdrawal led to chaos at Kabul airport as crowds of people tried to flee the country in desperation."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Five years after the Taliban swept to power, does the West have any influence?",
+     "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T17:00:14+00:00",
+     "summary": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left"
+    }
+   ]
+  },
+  {
+   "id": "5c6cb2e16c",
+   "topic": "Politics",
+   "summary": "President Donald Trump said Friday that far-left Democrats like Alexandria Ocasio-Cortez , D-N.Y., are now trying to distance themselves from some of the radical positions they once championed, noting he believes she may be after a 2028 bid for the White House. In an interview with Fox News correspondent Alexis McAdams, Trump was asked about Ocasio-Cortez's perceived shift away from her earlier calls to defund police departments and other soft-on-crime policies. \"If you really look at it, they're all saying the same thing,\" Trump said of progressive Democrats. \"They're all trying to disavow themselves from what they said about crime and, well, they're saying, \u2018We love sanctuary cities .\u2019\" When asked directly whether he thinks AOC is positioning herself for a presidential bid, Trump said he thinks AOC will run. The congresswoman has refused to rule out a run for president , but she\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Maher: Moderate Dems Afraid of Extreme Left",
+   "updated": "2026-08-15T15:45:38+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "Maher: Moderate Dems Afraid of Extreme Left",
+     "url": "https://www.breitbart.com/clips/2026/08/15/maher-moderate-dems-afraid-of-extreme-left/",
+     "author": "Ian Hanchett",
+     "kind": "news",
+     "published": "2026-08-15T15:45:38+00:00",
+     "summary": "On Friday&#8217;s broadcast of HBO&#8217;s &#8220;Real Time,&#8221; host Bill Maher said that moderates in the Democratic Party are afraid of the extreme left and also dismissed attempts by members of the Democratic Party to justify the far left as just The post Maher: Moderate Dems Afraid of Extreme Left appeared first on Breitbart ."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Trump claims AOC may run for president as far-left Dems back away from extreme policy",
+     "url": "https://www.foxnews.com/politics/president-trump-claims-aoc-far-left-democrats-backing-away-controversial-positions",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T21:01:38+00:00",
+     "summary": "President Donald Trump said Friday that far-left Democrats like Alexandria Ocasio-Cortez , D-N.Y., are now trying to distance themselves from some of the radical positions they once championed, noting he believes she may be after a 2028 bid for the White House. In an interview with Fox News correspondent Alexis McAdams, Trump was asked about Ocasio-Cortez's perceived shift away from her earlier calls to defund police departments and other soft-on-crime policies. \"If you really look at it, they're all saying the same thing,\" Trump said of progressive Democrats. \"They're all trying to disavow themselves from what they said about crime and, well, they're saying, \u2018We love sanctuary cities .\u2019\" When asked directly whether he thinks AOC is positioning herself for a presidential bid, Trump said he thinks AOC will run. The congresswoman has refused to rule out a run for president , but she hasn't looked past November's midterm elections. ALEXANDRIA OCASIO-CORTEZ SHRUGS OFF PAST 'DEFUND THE POLICE' COMMENTS, JOKING 'WOKE 1 WAS CRAZY' During an interview with ABC's \"This Week\" on Sunday, the congresswoman attempted to dismiss the extreme rhetoric of the so-called \" Woke 1 \" era. The term is u"
     }
    ]
   }
