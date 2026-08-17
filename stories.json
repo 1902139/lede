@@ -1,43 +1,70 @@
 {
- "generated": "2026-08-17T01:56:47.883616+00:00",
+ "generated": "2026-08-17T03:14:09.138951+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
   {
-   "id": "7faede8030",
+   "id": "c75d392b8a",
    "topic": "World",
-   "summary": "President Donald Trump ordered the Pentagon to scale back upcoming U.S.- South Korea military exercises on Sunday, arguing that the operations cost too much and send a hostile message to North Korean leader Kim Jong Un. At the same time, the president went on to criticize Seoul for declining to join U.S. war efforts to denuclearize Iran . Writing on Truth Social, Trump noted that while it was too late to cancel the drills entirely, he was dissatisfied with the longstanding military arrangement between Washington and Seoul. \"Based on my very good relationship with Kim Jong Un, of North Korea, I am not happy with the fact that the United States has, long ago, agreed to participate in Joint Military Exercises with South Korea,\" Trump wrote. NORTH KOREA LAUNCHES ANOTHER BALLISTIC MISSILE AS US, SOUTH KOREA PREPARE FOR MILITARY DRILLS \"These exercises are not only costly, with much of these\u2026",
-   "summaryFrom": "foxnews",
+   "summary": "Last winter, Donald Trump plunged recklessly into war with Iran. The United States is now losing that conflict. Iran remains defiant, much of the world economy is more threatened now than it was six months ago, U.S. military resources are overextended, and munition stores are dangerously depleted. Trump and the United States have suffered one embarrassment after another; last week, he had to sneak away from the region on a backup plane because of a possible assassination threat from Tehran. And so the president of the United States has taken the logical next step: He is punishing South Korea, a loyal American friend, and tempting U.S. enemies to doubt America\u2019s will to defend its allies. Early Sunday evening, Trump instructed the Defense Department to \u201csubstantially reduce\u201d its participation in an annual joint military exercise with the South Koreans. He did this, he said in a post on\u2026",
+   "summaryFrom": "theatlantic",
    "emphasis": {
-    "bigCount": 9,
+    "bigCount": 12,
     "indieCount": 5,
     "big": [
      "sunday",
-     "also",
-     "noted",
-     "truth",
      "denuclearize",
-     "ally"
+     "help",
+     "united",
+     "states",
+     "also"
     ],
     "indie": []
    },
    "absent": [
     "coop"
    ],
-   "headline": "Trump orders to scale back US-South Korea military drills",
-   "updated": "2026-08-17T01:39:16+00:00",
-   "outletCount": 14,
+   "headline": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+   "updated": "2026-08-17T02:51:27+00:00",
+   "outletCount": 16,
    "counts": {
-    "family": 4,
     "pub": 3,
+    "family": 7,
     "nonprofit": 2,
     "corp": 5
    },
-   "newsCount": 14,
-   "opinionCount": 0,
+   "newsCount": 16,
+   "opinionCount": 1,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+     "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T02:51:27+00:00",
+     "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises."
+    },
+    {
+     "outlet": "theatlantic",
+     "title": "Trump Will Make South Korea Pay For His Iran Humiliation",
+     "url": "https://www.theatlantic.com/ideas/2026/08/trump-iran-korea/688306/?utm_source=feed",
+     "author": "Tom Nichols",
+     "kind": "news",
+     "published": "2026-08-17T02:23:33+00:00",
+     "summary": "Last winter, Donald Trump plunged recklessly into war with Iran. The United States is now losing that conflict. Iran remains defiant, much of the world economy is more threatened now than it was six months ago, U.S. military resources are overextended, and munition stores are dangerously depleted. Trump and the United States have suffered one embarrassment after another; last week, he had to sneak away from the region on a backup plane because of a possible assassination threat from Tehran. And so the president of the United States has taken the logical next step: He is punishing South Korea, a loyal American friend, and tempting U.S. enemies to doubt America\u2019s will to defend its allies. Early Sunday evening, Trump instructed the Defense Department to \u201csubstantially reduce\u201d its participation in an annual joint military exercise with the South Koreans. He did this, he said in a post on Truth Social, in part because such activities are expensive, but worse, they are insulting to his friends in North Korea, a country that has been \u201cunthreatening and respectful\u201d while he\u2019s been in office. (Trump seems unconcerned about the dozens of nuclear weapons Pyongyang is pointing at U.S. and Sou"
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump orders cuts to South Korea joint drills despite warnings of North\u2019s growing battlefield experience",
+     "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+     "author": "Raphael Rashid in Seoul",
+     "kind": "news",
+     "published": "2026-08-17T01:49:36+00:00",
+     "summary": "President says move is based on \u2018very good relationship with Kim Jong-un\u2019 but US military officials have said Ukraine war is boosting regime\u2019s combat capabilities Donald Trump has said he is scaling back joint US military drills with South Korea aimed at deterring North Korea, despite military officials from both countries warning that Kim Jong-un\u2019s regime was learning new battlefield tactics from the Ukraine war. The drills under Ulchi Freedom Shield, one of two major annual exercises held by South Korea and the US, start on Monday and run until 27 August. Continue reading..."
+    },
     {
      "outlet": "nyt",
      "title": "Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea",
@@ -57,6 +84,15 @@
      "summary": "US President Donald Trump said annual military drills with South Korea send an \"inappropriate and hostile\" signal to North Korea."
     },
     {
+     "outlet": "foxnews",
+     "title": "Iran war thrusts Diego Garcia into spotlight as official calls US military base \u2018integral\u2019",
+     "url": "https://www.foxnews.com/world/iran-war-thrusts-diego-garcia-spotlight-official-calls-us-military-base-integral",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T00:38:23+00:00",
+     "summary": "An official with the self-described Chagossian government-in-exile said Sunday that the war with Iran has underscored Diego Garcia\u2019s strategic importance to U.S. forces and Middle East regional stability, with the Pentagon shifting logistics to the remote U.K.-U.S. base in the Indian Ocean after an Iranian strike on a major American installation in Bahrain. The base, in the southern Chagos Archipelago, has reportedly supported carrier strike groups including the USS Abraham Lincoln, whose forces have conducted air operations and helped enforce the blockade of Iranian ports. The U.S. military\u2019s wartime logistics network now stretches across a roughly 2,200-mile maritime supply route to Diego Garcia, allowing forces to avoid coastal facilities vulnerable to Iranian attacks but requiring longer shuttle runs and slower replenishment, according to The New York Times. \"That is an inconvenience, but it shows the importance of the base,\" James Tumbridge , an international lawyer who serves as attorney general for the Chagossian government-in-exile, told Fox News Digital. UK DEFENSE SHORTFALLS HIGHLIGHTED AS BRITAIN AVOIDS IRAN OFFENSIVE ROLE AMID TRUMP CRITICISM \"The base is integral to re"
+    },
+    {
      "outlet": "wapo",
      "title": "Trump reduces military exercises with South Korea, citing good ties with Kim Jong Un",
      "url": "https://www.washingtonpost.com/politics/2026/08/16/trump-reduces-military-exercises-with-south-korea-citing-good-ties-with-kim-jong-un/",
@@ -66,15 +102,6 @@
      "summary": "The president cited the cost of the drills and said he did not want to send a signal that is \"totally inappropriate and hostile\" to North Korea. He also criticized South Korea for not helping him on Iran."
     },
     {
-     "outlet": "guardian",
-     "title": "Trump orders cuts to South Korea joint drills despite warnings of North\u2019s growing battlefield experience",
-     "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
-     "author": "Raphael Rashid in Seoul",
-     "kind": "news",
-     "published": "2026-08-17T00:19:53+00:00",
-     "summary": "President says move is based on \u2018very good relationship with Kim Jong-un\u2019 but US military officials have said Ukraine war is boosting regime\u2019s combat capabilities Donald Trump has said he is scaling back joint US military drills with South Korea aimed at deterring North Korea, despite military officials from both countries warning that Kim Jong-un\u2019s regime was learning new battlefield tactics from the Ukraine war. The drills under Ulchi Freedom Shield, one of two major annual exercises held by South Korea and the US, start on Monday and run until 27 August. Continue reading..."
-    },
-    {
      "outlet": "aljazeera",
      "title": "Trump says US to \u2018substantially reduce\u2019 military drills with South Korea",
      "url": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
@@ -82,15 +109,6 @@
      "kind": "news",
      "published": "2026-08-17T00:11:18+00:00",
      "summary": "US president says he&#039;s &#039;not happy&#039; about the drills, citing his &#039;very good relationship&#039; with North Korea&#039;s Kim Jong Un."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-     "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T00:06:05+00:00",
-     "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises."
     },
     {
      "outlet": "foxnews",
@@ -157,12 +175,21 @@
     },
     {
      "outlet": "bloomberg",
-     "title": "Trump Says He\u2019s Curtailing Military Drills With South Korea",
+     "title": "Trump Reduces Joint South Korea Drills, Citing Lack of Iran Help",
      "url": "https://www.bloomberg.com/news/articles/2026-08-16/trump-says-he-s-curtailing-military-drills-with-south-korea",
-     "author": "Catherine Lucey and Se Young Lee",
+     "author": "Catherine Lucey, Se Young Lee and Alastair Gale",
      "kind": "news",
      "published": "2026-08-16T21:32:16+00:00",
-     "summary": "President Donald Trump said he told the Pentagon to \u201csubstantially reduce\u201d joint military exercises with South Korea and suggested his shift was driven by frustration that the longtime US ally hadn\u2019t provided more support for his war with Iran."
+     "summary": "President Donald Trump told the Pentagon to \u201csubstantially reduce\u201d joint military exercises with South Korea, indicating his shift was driven by frustration that the longtime US ally hadn\u2019t provided more support for his war with Iran."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Trump\u2019s \u2018Very Good\u2019 Relationship With Kim Jong Un Prompts Korea Drill Reduction",
+     "url": "https://www.dailywire.com/news/trumps-very-good-relationship-with-kim-jong-un-prompts-korea-drill-reduction",
+     "author": "Drew Berkemeyer",
+     "kind": "opinion",
+     "published": "2026-08-16T21:19:32+00:00",
+     "summary": "President Donald Trump said Sunday he has directed Defense Secretary Pete Hegseth to &#8220;substantially reduce&#8221; joint military exercises with South Korea, citing his &#8220;very good relationship&#8221; with North Korean leader Kim Jong Un and what he said was Seoul&#8217;s refusal to help the United States denuclearize Iran. \u201cBased on my very good relationship with Kim Jong Un, of North Korea, I am not happy with the fact that the United States has, long ago, agreed to participate in Joint Military Exercises with South Korea,\u201d Trump wrote on Truth Social . Trump said the exercises are costly, &#8220;with much of these costs paid for by the United States of America (as usual!),&#8221; and send a signal he called &#8220;totally inappropriate and hostile&#8221; toward North Korea, which he said &#8220;has been unthreatening and respectful&#8221; throughout his presidency. North Korea has conducted two ballistic missile tests this month, however, firing a short-range missile on August 6 and another that flew more than 700 kilometers on August 12 local time \u2014 Pyongyang&#8217;s 11th ballistic missile test of the year by South Korean count. North Korea&#8217;s Foreign Ministry on"
     }
    ]
   },
@@ -175,11 +202,11 @@
     "bigCount": 7,
     "indieCount": 3,
     "big": [
-     "support",
-     "middle",
      "east",
-     "lawmakers",
+     "middle",
+     "support",
      "diego-based",
+     "lawmakers",
      "months"
     ],
     "indie": []
@@ -306,8 +333,8 @@
      "procedure"
     ],
     "indie": [
-     "pioneering",
-     "namesake"
+     "namesake",
+     "pioneering"
     ]
    },
    "absent": [
@@ -414,10 +441,10 @@
     ],
     "indie": [
      "winds",
+     "sending",
+     "drenching",
      "landfall",
      "again",
-     "drenching",
-     "sending",
      "making"
     ]
    },
@@ -525,11 +552,11 @@
     ],
     "indie": [
      "meeting",
-     "held",
      "talks",
      "envoy",
-     "ceasefire",
-     "effort"
+     "held",
+     "effort",
+     "ceasefire"
     ]
    },
    "absent": [
@@ -632,11 +659,11 @@
     "indieCount": 2,
     "big": [
      "abraham",
-     "iran",
      "aboard",
-     "central",
+     "iran",
      "command",
-     "deployment"
+     "central",
+     "aircraft"
     ],
     "indie": []
    },
@@ -727,108 +754,6 @@
      "kind": "opinion",
      "published": "2026-08-16T10:00:00+00:00",
      "summary": "The celebrity gossip blogger became as famous as the stars he covered before social media upended his business model."
-    }
-   ]
-  },
-  {
-   "id": "13a67312a2",
-   "topic": "Other",
-   "summary": "Roberto Serra - Iguana Press / Roberto Serra, Getty Images Thieves stole four works by Sicilian Renaissance painter Antonello da Messina from the MuMe regional museum in Sicily during Ferragosto, a major Italian public holiday. On Saturday evening, just before 10 p.m., they evaded the museum\u2019s alarm and security systems and made off with three of the five surviving panels of the 1473 San Gregorio Polyptych, and a double-sided Virgin Mary and Piet\u00e0 panel taken from an armored display case, according to the news agency LaPresse. \u201cWe are devastated by what happened. They were two of Antonello da Messina\u2019s most important and best-known works. It is a tremendous loss for the museum, the city, the community and the art world,\u201d MuMe director Marisa Mercurio said. Lynda Albertson, an art-crime analyst for the Association for Research into Crimes against Art, said the works will be difficult for\u2026",
-   "summaryFrom": "dailybeast",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 5,
-    "big": [
-     "ferragosto",
-     "stole"
-    ],
-    "indie": [
-     "stolen",
-     "paintings",
-     "hometown",
-     "took",
-     "italy",
-     "overnight"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Italy: Thieves steal key Renaissance paintings in Sicily",
-   "updated": "2026-08-16T19:18:00+00:00",
-   "outletCount": 7,
-   "counts": {
-    "pub": 3,
-    "nonprofit": 2,
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 7,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Italy: Thieves steal key Renaissance paintings in Sicily",
-     "url": "https://www.dw.com/en/italy-thieves-steal-key-renaissance-paintings-in-sicily/a-78389559?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T19:18:00+00:00",
-     "summary": "Four Renaissance paintings by Antonello da Messina were stolen from his Sicilian hometown on Saturday after surviving earthquakes and centuries of history. Crooks took them while locals celebrated a religious holiday."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Thieves steal 4 Renaissance artworks in a Sicilian museum heist during an Italian holiday",
-     "url": "https://www.pbs.org/newshour/arts/thieves-steal-4-renaissance-artworks-in-a-sicilian-museum-heist-during-an-italian-holiday",
-     "author": "Colleen Barry, Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T17:14:44+00:00",
-     "summary": "Art expert Alberto Fiz estimated the value of the stolen works at 70 million euros ($81 million) to 80 million euros ($92 million)."
-    },
-    {
-     "outlet": "france24",
-     "title": "Italy: Four Renaissance artworks stolen from Messina museum in Sicily",
-     "url": "https://www.france24.com/en/italy-four-renaissance-artworks-stolen-from-messina-museum-in-sicily",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T15:49:59+00:00",
-     "summary": "Four artworks by Renaissance painter Antonello da Messina have been stolen from the Museo Regionale in Messina, Sicily, overnight on August 15. The thieves took three panels from his Polittico di San Gregorio, depriving the city of part of the only surviving works by the painter still held in his hometown. Italian authorities have launched an investigation. FRANCE 24's Seema Gupta, correspondent in Italy, has the latest."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Thieves Pull Off Brazen Heist of Renaissance Artworks in Sicily",
-     "url": "https://www.thedailybeast.com/thieves-steal-four-antonello-da-messina-works-from-sicily-museum/",
-     "author": "Lauren Hartley",
-     "kind": "news",
-     "published": "2026-08-16T14:27:52+00:00",
-     "summary": "Roberto Serra - Iguana Press / Roberto Serra, Getty Images Thieves stole four works by Sicilian Renaissance painter Antonello da Messina from the MuMe regional museum in Sicily during Ferragosto, a major Italian public holiday. On Saturday evening, just before 10 p.m., they evaded the museum\u2019s alarm and security systems and made off with three of the five surviving panels of the 1473 San Gregorio Polyptych, and a double-sided Virgin Mary and Piet\u00e0 panel taken from an armored display case, according to the news agency LaPresse. \u201cWe are devastated by what happened. They were two of Antonello da Messina\u2019s most important and best-known works. It is a tremendous loss for the museum, the city, the community and the art world,\u201d MuMe director Marisa Mercurio said. Lynda Albertson, an art-crime analyst for the Association for Research into Crimes against Art, said the works will be difficult for thieves to sell because they are instantly recognizable. \u201cStealing an Antonello may be far easier than selling one. If these are ordinary thieves, they will soon discover that \u2014 to their cost,\u201d she said. She added that such famous artworks are often used as collateral for other illicit activity. In "
-    },
-    {
-     "outlet": "guardian",
-     "title": "Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
-     "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
-     "author": "Lorenzo Tondo in Palermo",
-     "kind": "news",
-     "published": "2026-08-16T13:44:29+00:00",
-     "summary": "Theft of four works on national holiday described as wound to historical memory and cultural identity of city of Messina Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina. Thieves gained access to the Regional Museum of Messina , or MuMe, on Saturday evening, possibly capitalising on attention being focused on La Vara, a huge religious festival that takes place in the city on 15 August, when Italy marks the Ferragosto national holiday. Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-     "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T13:34:38+00:00",
-     "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Thieves Steal Four Renaissance Artworks in Sicilian Museum Heist",
-     "url": "https://www.breitbart.com/europe/2026/08/16/thieves-steal-four-renaissance-artworks-in-sicilian-museum-heist/",
-     "author": "Breitbart London",
-     "kind": "news",
-     "published": "2026-08-16T13:07:27+00:00",
-     "summary": "Thieves stole four works attributed to the Sicilian Renaissance painter Antonello da Messina from a regional museum in the Sicilian city of Messina on the Italian Ferragosto holiday, the news agency LaPresse reported Sunday. The post Thieves Steal Four Renaissance Artworks in Sicilian Museum Heist appeared first on Breitbart ."
     }
    ]
   },
@@ -1007,6 +932,84 @@
    ]
   },
   {
+   "id": "13a67312a2",
+   "topic": "Other",
+   "summary": "Roberto Serra - Iguana Press / Roberto Serra, Getty Images Thieves stole four works by Sicilian Renaissance painter Antonello da Messina from the MuMe regional museum in Sicily during Ferragosto, a major Italian public holiday. On Saturday evening, just before 10 p.m., they evaded the museum\u2019s alarm and security systems and made off with three of the five surviving panels of the 1473 San Gregorio Polyptych, and a double-sided Virgin Mary and Piet\u00e0 panel taken from an armored display case, according to the news agency LaPresse. \u201cWe are devastated by what happened. They were two of Antonello da Messina\u2019s most important and best-known works. It is a tremendous loss for the museum, the city, the community and the art world,\u201d MuMe director Marisa Mercurio said. Lynda Albertson, an art-crime analyst for the Association for Research into Crimes against Art, said the works will be difficult for\u2026",
+   "summaryFrom": "dailybeast",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "Italy: Thieves steal key Renaissance paintings in Sicily",
+   "updated": "2026-08-16T19:18:00+00:00",
+   "outletCount": 6,
+   "counts": {
+    "pub": 3,
+    "nonprofit": 2,
+    "corp": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "Italy: Thieves steal key Renaissance paintings in Sicily",
+     "url": "https://www.dw.com/en/italy-thieves-steal-key-renaissance-paintings-in-sicily/a-78389559?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T19:18:00+00:00",
+     "summary": "Four Renaissance paintings by Antonello da Messina were stolen from his Sicilian hometown on Saturday after surviving earthquakes and centuries of history. Crooks took them while locals celebrated a religious holiday."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Thieves steal 4 Renaissance artworks in a Sicilian museum heist during an Italian holiday",
+     "url": "https://www.pbs.org/newshour/arts/thieves-steal-4-renaissance-artworks-in-a-sicilian-museum-heist-during-an-italian-holiday",
+     "author": "Colleen Barry, Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T17:14:44+00:00",
+     "summary": "Art expert Alberto Fiz estimated the value of the stolen works at 70 million euros ($81 million) to 80 million euros ($92 million)."
+    },
+    {
+     "outlet": "france24",
+     "title": "Italy: Four Renaissance artworks stolen from Messina museum in Sicily",
+     "url": "https://www.france24.com/en/italy-four-renaissance-artworks-stolen-from-messina-museum-in-sicily",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T15:49:59+00:00",
+     "summary": "Four artworks by Renaissance painter Antonello da Messina have been stolen from the Museo Regionale in Messina, Sicily, overnight on August 15. The thieves took three panels from his Polittico di San Gregorio, depriving the city of part of the only surviving works by the painter still held in his hometown. Italian authorities have launched an investigation. FRANCE 24's Seema Gupta, correspondent in Italy, has the latest."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Thieves Pull Off Brazen Heist of Renaissance Artworks in Sicily",
+     "url": "https://www.thedailybeast.com/thieves-steal-four-antonello-da-messina-works-from-sicily-museum/",
+     "author": "Lauren Hartley",
+     "kind": "news",
+     "published": "2026-08-16T14:27:52+00:00",
+     "summary": "Roberto Serra - Iguana Press / Roberto Serra, Getty Images Thieves stole four works by Sicilian Renaissance painter Antonello da Messina from the MuMe regional museum in Sicily during Ferragosto, a major Italian public holiday. On Saturday evening, just before 10 p.m., they evaded the museum\u2019s alarm and security systems and made off with three of the five surviving panels of the 1473 San Gregorio Polyptych, and a double-sided Virgin Mary and Piet\u00e0 panel taken from an armored display case, according to the news agency LaPresse. \u201cWe are devastated by what happened. They were two of Antonello da Messina\u2019s most important and best-known works. It is a tremendous loss for the museum, the city, the community and the art world,\u201d MuMe director Marisa Mercurio said. Lynda Albertson, an art-crime analyst for the Association for Research into Crimes against Art, said the works will be difficult for thieves to sell because they are instantly recognizable. \u201cStealing an Antonello may be far easier than selling one. If these are ordinary thieves, they will soon discover that \u2014 to their cost,\u201d she said. She added that such famous artworks are often used as collateral for other illicit activity. In "
+    },
+    {
+     "outlet": "guardian",
+     "title": "Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
+     "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
+     "author": "Lorenzo Tondo in Palermo",
+     "kind": "news",
+     "published": "2026-08-16T13:44:29+00:00",
+     "summary": "Theft of four works on national holiday described as wound to historical memory and cultural identity of city of Messina Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina. Thieves gained access to the Regional Museum of Messina , or MuMe, on Saturday evening, possibly capitalising on attention being focused on La Vara, a huge religious festival that takes place in the city on 15 August, when Italy marks the Ferragosto national holiday. Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+     "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T13:34:38+00:00",
+     "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
+    }
+   ]
+  },
+  {
    "id": "4e3ba991db",
    "topic": "World",
    "summary": "People spend time near the river as a helicopter collects water to extinguish the fire that broke out in a distribution warehouse near Moscow, Russia, after Ukraine's drone attack on Aug. 16, 2026. \u2014Stringer/Anadolu\u2014Getty Images Ukraine launched one of its largest aerial assaults on Russia overnight on Saturday, firing on targets deep inside the country and killing at least six people, according to Russian authorities. Russia\u2019s defense ministry said it destroyed 822 drones. Sergei Sobyanin, the mayor of Moscow, said in a Telegram post that at least 600 drones were launched toward the capital city and that over a third were destroyed. The raid showcased the rapid advancement of Ukraine\u2019s drone and missile capabilities in recent months, which enabled it to strike deep inside Russian territory despite the country\u2019s advanced defense networks. Read More: Why It Is Time for the West to Crush\u2026",
@@ -1154,6 +1157,75 @@
    ]
   },
   {
+   "id": "2dd6812758",
+   "topic": "Politics",
+   "summary": "South Carolina would hold its primary on Jan. 22, 2028 under the Democratic National Committee\u2019s plan. Nevada would follow on Feb. 1. The plan aims to give a bigger voice to Black and Latino voters.",
+   "summaryFrom": "wapo",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Politics chat: Democrats take lessons from the primaries, set 2028 calendar",
+   "updated": "2026-08-16T11:46:22+00:00",
+   "outletCount": 5,
+   "counts": {
+    "nonprofit": 1,
+    "family": 2,
+    "corp": 2
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "npr",
+     "title": "Politics chat: Democrats take lessons from the primaries, set 2028 calendar",
+     "url": "https://www.npr.org/2026/08/16/nx-s1-5929152/politics-chat-democrats-take-lessons-from-the-primaries-set-2028-calendar",
+     "author": "Danielle Kurtzleben",
+     "kind": "news",
+     "published": "2026-08-16T11:46:22+00:00",
+     "summary": "We look at how the Democrats are gearing up for the 2028 presidential primaries, as well as their takeaways from the current batch of primary races."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Democrats approve 2028 primary calendar that puts South Carolina first",
+     "url": "https://www.washingtonpost.com/politics/2026/08/15/democrats-approve-2028-primary-calendar-that-puts-south-carolina-first/",
+     "author": "Sammy Westfall",
+     "kind": "news",
+     "published": "2026-08-15T19:39:15+00:00",
+     "summary": "South Carolina would hold its primary on Jan. 22, 2028 under the Democratic National Committee\u2019s plan. Nevada would follow on Feb. 1. The plan aims to give a bigger voice to Black and Latino voters."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
+     "url": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
+     "author": "Shane Goldmacher",
+     "kind": "news",
+     "published": "2026-08-15T18:27:46+00:00",
+     "summary": "The party\u2019s membership finalized the new order for the first six states to winnow the candidate field, pushing back Iowa and New Hampshire."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Democrats set their 2028 primary calendar, with South Carolina going first",
+     "url": "https://www.nbcnews.com/politics/2028-election/democrats-officially-set-2028-primary-calendar-south-carolina-going-fi-rcna592519",
+     "author": "Natasha Korecki",
+     "kind": "news",
+     "published": "2026-08-15T18:25:31+00:00",
+     "summary": "The party\u2019s new road map pushes Black and Latino voters and labor to the front of the line for choosing Democrats\u2019 presidential candidate."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "DNC to finalize controversial 2028 primary calendar, elevating South Carolina",
+     "url": "https://abcnews.com/Politics/dnc-set-finalize-controversial-2028-primary-calendar-elevating/story?id=135616869",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T09:41:06+00:00",
+     "summary": "The DNC is expected to vote on Saturday to approve the new order of states for the 2028 presidential nominating process, amidst controversy over some of those decisions."
+    }
+   ]
+  },
+  {
    "id": "6bf5e6b886",
    "topic": "Justice & Policing",
    "summary": "Border security tightened after social media posts call for another mass crossing into Spain\u2019s north African territory Moroccan police have arrested 111 people as they tried to enter Spain\u2019s north African territory of Ceuta, amid \u2060tightened security on both sides after social media posts \u200bcalled for another mass crossing. The attempted crossing on Saturday came two weeks after more than 72,000 migrants surged into Ceuta , causing tensions within the EU and prompting anti-immigration rhetoric among far-right parties worldwide. At least 96 people died trying to \u2060reach European soil. Continue reading...",
@@ -1214,201 +1286,104 @@
    ]
   },
   {
-   "id": "40507e217d",
-   "topic": "Other",
-   "summary": "A 19-year-old man was arrested Saturday in connection with a shooting that wounded five people at Virginia State University after authorities found him hiding inside a campus dormitory closet, police said. Camron Harris of Henrico, Virginia, was found hiding in a closet inside Seward Hall at approximately 4 p.m., more than 14 hours after the shooting erupted near university residence halls early Saturday morning, according to the Associated Press. Harris is not a student at Virginia State University. Camron Harris (Chesterfield County Police via AP) Police obtained eight felony warrants for Harris: four counts of malicious wounding and four counts of using a firearm in the commission of a felony. He was taken to the Chesterfield County Jail and is being held without bond. Authorities said additional charges may be filed, according to WTVR. The shooting occurred at approximately 1:28\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 2,
-    "big": [
-     "erupted",
-     "early",
-     "near",
-     "wounded"
-    ],
-    "indie": []
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Suspect in Virginia State University shooting found hiding in dorm closet",
-   "updated": "2026-08-16T19:39:03+00:00",
-   "outletCount": 4,
-   "counts": {
-    "nonprofit": 1,
-    "pub": 1,
-    "corp": 1,
-    "family": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 2,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Suspect in Virginia State University shooting found hiding in dorm closet",
-     "url": "https://www.theguardian.com/us-news/2026/aug/16/virginia-state-university-shooting-suspect-arrested",
-     "author": "Michael Sainato",
-     "kind": "news",
-     "published": "2026-08-16T19:39:03+00:00",
-     "summary": "Suspect, 19, who is not enrolled at the university arrested in connection with shooting of five people, authorities say A young man suspected in connection with the shooting of five people on Saturday on the campus of Virginia State University (VSU) hid in a dormitory closet for more than 14 hours before being found and arrested, according to authorities. The suspect \u2013 identified as 19-year-old Camron Harris \u2013 was found in Seward Hall on VSU\u2019s campus at 4pm, local police Lt James Lamb said, according to the Virginia news outlet WTVR . The shooting occurred at about 1.30am on Saturday. Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Teen suspect in Virginia campus shooting found hiding in closet",
-     "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T19:00:23+00:00",
-     "summary": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police."
-    },
-    {
-     "outlet": "thehill",
-     "title": "Suspect in Virginia State University shooting arrested, found hiding in closet",
-     "url": "https://thehill.com/homenews/state-watch/6032100-vsu-shooting-suspect-arrested/",
-     "author": "Julia Broberg",
-     "kind": "news",
-     "published": "2026-08-16T17:48:31+00:00",
-     "summary": "A 19-year-old man has been arrested as a suspect in the shooting of five people at Virginia State University after he was found hiding in a closet."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Virginia State Shooting Suspect Found Hiding On Campus",
-     "url": "https://www.dailywire.com/news/virginia-state-shooting-suspect-found-hiding-on-campus",
-     "author": "Drew Berkemeyer",
-     "kind": "opinion",
-     "published": "2026-08-16T17:47:42+00:00",
-     "summary": "A 19-year-old man was arrested Saturday in connection with a shooting that wounded five people at Virginia State University after authorities found him hiding inside a campus dormitory closet, police said. Camron Harris of Henrico, Virginia, was found hiding in a closet inside Seward Hall at approximately 4 p.m., more than 14 hours after the shooting erupted near university residence halls early Saturday morning, according to the Associated Press. Harris is not a student at Virginia State University. Camron Harris (Chesterfield County Police via AP) Police obtained eight felony warrants for Harris: four counts of malicious wounding and four counts of using a firearm in the commission of a felony. He was taken to the Chesterfield County Jail and is being held without bond. Authorities said additional charges may be filed, according to WTVR. The shooting occurred at approximately 1:28 a.m. Saturday near the university&#8217;s residence halls. Officers responding to the scene found five people suffering from gunshot wounds. One victim, a 21-year-old man who is not a VSU student, remains in critical condition. The other four victims, ranging in age from 17 to 23, suffered non-life-thre"
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Multiple People Shot At Virginia State University",
-     "url": "https://www.dailywire.com/news/multiple-people-shot-at-virginia-state-university",
-     "author": "Zach Jewell",
-     "kind": "opinion",
-     "published": "2026-08-15T07:47:18+00:00",
-     "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant law enforcement presence remains on campus as the investigation into this morning&#8217;s shooting continues.&#8221; It appears that no suspects have been taken into custody as of time of publication, and the university urged anyone with information on the shooting to contact law enforcement. pic.twi"
-    }
-   ]
-  },
-  {
-   "id": "2dd6812758",
-   "topic": "Politics",
-   "summary": "South Carolina would hold its primary on Jan. 22, 2028 under the Democratic National Committee\u2019s plan. Nevada would follow on Feb. 1. The plan aims to give a bigger voice to Black and Latino voters.",
-   "summaryFrom": "wapo",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Politics chat: Democrats take lessons from the primaries, set 2028 calendar",
-   "updated": "2026-08-16T11:46:22+00:00",
-   "outletCount": 4,
-   "counts": {
-    "nonprofit": 1,
-    "family": 2,
-    "corp": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "npr",
-     "title": "Politics chat: Democrats take lessons from the primaries, set 2028 calendar",
-     "url": "https://www.npr.org/2026/08/16/nx-s1-5929152/politics-chat-democrats-take-lessons-from-the-primaries-set-2028-calendar",
-     "author": "Danielle Kurtzleben",
-     "kind": "news",
-     "published": "2026-08-16T11:46:22+00:00",
-     "summary": "We look at how the Democrats are gearing up for the 2028 presidential primaries, as well as their takeaways from the current batch of primary races."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Democrats approve 2028 primary calendar that puts South Carolina first",
-     "url": "https://www.washingtonpost.com/politics/2026/08/15/democrats-approve-2028-primary-calendar-that-puts-south-carolina-first/",
-     "author": "Sammy Westfall",
-     "kind": "news",
-     "published": "2026-08-15T19:39:15+00:00",
-     "summary": "South Carolina would hold its primary on Jan. 22, 2028 under the Democratic National Committee\u2019s plan. Nevada would follow on Feb. 1. The plan aims to give a bigger voice to Black and Latino voters."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
-     "url": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
-     "author": "Shane Goldmacher",
-     "kind": "news",
-     "published": "2026-08-15T18:27:46+00:00",
-     "summary": "The party\u2019s membership finalized the new order for the first six states to winnow the candidate field, pushing back Iowa and New Hampshire."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "DNC to finalize controversial 2028 primary calendar, elevating South Carolina",
-     "url": "https://abcnews.com/Politics/dnc-set-finalize-controversial-2028-primary-calendar-elevating/story?id=135616869",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T09:41:06+00:00",
-     "summary": "The DNC is expected to vote on Saturday to approve the new order of states for the 2028 presidential nominating process, amidst controversy over some of those decisions."
-    }
-   ]
-  },
-  {
-   "id": "c26019a127",
-   "topic": "Justice & Policing",
-   "summary": "CBS News chief correspondent Matt Gutman is facing sexual harassment allegations in a lawsuit filed by a former ABC News colleague, who claims he made inappropriate sexual remarks on two assignments during his time at that network. Former ABC News field producer Samira Said named Gutman, ABC News and parent company The Walt Disney Co. as defendants in the suit filed Friday in Los Angeles Superior Court. Said, who worked in ABC&#8217;s Los Angeles bureau from May 2021 until March 2025, alleges discrimination, hostile work environment harassment, retaliation, failure to accommodate her medical conditions and wrongful termination. Said alleges she was &#8220;placed on a male-only team including on-air correspondent Matt Gutman&#8221; and two other male crew members. &#8220;While the team waited in a public queue during the assignment, Gutman initiated a discussion rating a female\u2026",
-   "summaryFrom": "dailywire",
+   "id": "9b0c8a01c0",
+   "topic": "Culture & Sport",
+   "summary": "Caitlin Clark and Angel Reese gave the WNBA an overtime thriller Sunday evening at State Farm Arena. Clark scored 26 points, hit two enormous free throws late in overtime and grabbed the game-sealing rebound as the Indiana Fever beat Reese and the Atlanta Dream, 95-91. ANGEL REESE\u2019S LATEST WNBA CONTROVERSY SHOWS HOW VICTIMHOOD BECAME CENTRAL TO HER BRAND It was a real team win for the Fever. But Clark and Reese were right in the middle of the biggest moments, including Reese\u2019s missed layup at the end of regulation that sent the game to overtime. Indiana had to earn it, too. The Fever trailed by eight after Atlanta scored 28 points in the third quarter to open a 72-64 advantage. But for a team known for its offensive firepower, it was Indiana\u2019s defense that made the clutch plays down the stretch. The Fever held the Dream to nine points in the fourth, outscored Atlanta 17-9 and forced\u2026",
+   "summaryFrom": "foxnews",
    "emphasis": null,
    "absent": [
     "coop",
     "nonprofit",
     "pub"
    ],
-   "headline": "CBS Chief Correspondent Matt Gutman Accused of Harassment in ABC Producer Suit",
-   "updated": "2026-08-15T23:26:41+00:00",
-   "outletCount": 4,
+   "headline": "Caitlin Clark caught smiling with Angel Reese in anguish over missing potential game-winning layup",
+   "updated": "2026-08-17T02:49:56+00:00",
+   "outletCount": 3,
    "counts": {
-    "family": 3,
+    "family": 2,
     "corp": 1
    },
    "newsCount": 3,
-   "opinionCount": 1,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "breitbart",
-     "title": "CBS Chief Correspondent Matt Gutman Accused of Harassment in ABC Producer Suit",
-     "url": "https://www.breitbart.com/the-media/2026/08/15/cbs-matt-gutman-accused-sexualized-remarks-abc-producer-lawsuit/",
-     "author": "Mariane Angela",
+     "outlet": "nypost",
+     "title": "Caitlin Clark caught smiling with Angel Reese in anguish over missing potential game-winning layup",
+     "url": "https://nypost.com/2026/08/16/sports/caitlin-clark-caught-smiling-after-angel-reese-misses-layup/",
+     "author": "Joseph Staszewski",
      "kind": "news",
-     "published": "2026-08-15T23:26:41+00:00",
-     "summary": "Former ABC News field producer Samira Said accused CBS News chief correspondent Matt Gutman of making sexualized remarks toward her while the two worked together at ABC, according to a wrongful-termination lawsuit filed Friday in Los Angeles. The post CBS Chief Correspondent Matt Gutman Accused of Harassment in ABC Producer Suit appeared first on Breitbart ."
+     "published": "2026-08-17T02:49:56+00:00",
+     "summary": "Maybe it was relief from Caitlin Clark. Maybe it was disbelief. Or maybe it was something different altogether."
     },
     {
-     "outlet": "dailybeast",
-     "title": "CBS News Star Accused of Harassment in Bombshell Lawsuit",
-     "url": "https://www.thedailybeast.com/cbs-news-star-matt-gutman-accused-of-sexual-harassment-in-bombshell-lawsuit/",
-     "author": "Wiktoria Gucia",
+     "outlet": "newsweek",
+     "title": "Caitlin Clark Laughs at Angel Reese After Blowing Game-Winning Layup",
+     "url": "https://www.newsweek.com/caitlin-clark-laughs-at-angel-reese-after-blowing-game-winning-layup-12329781",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-15T15:25:28+00:00",
-     "summary": "Adela Loconte / Variety via Getty Images A chief correspondent at CBS News has been accused of making sexual comments on the job. Matt Gutman, who joined the network in January as the first on-air hire by the MAGA-curious CBS News boss Bari Weiss, is being sued by a former ABC News field producer, Samira Said, with whom he worked at the network. Said named Gutman, 48, in a wrongful termination lawsuit filed in Los Angeles and alleged that he created a hostile work environment by making inappropriate sexual remarks to her. Read more at The Daily Beast."
+     "published": "2026-08-17T01:37:54+00:00",
+     "summary": "After watching Angel Reese blow a chance to beat the Fever, cameras caught Caitlin Clark enjoying a good laugh immediately after."
     },
     {
-     "outlet": "dailywire",
-     "title": "CBS News Star Matt Gutman Accused Of Sexual Harassment In New Lawsuit",
-     "url": "https://www.dailywire.com/news/cbs-news-star-matt-gutman-accused-of-sexual-harassment-in-new-lawsuit",
-     "author": "Catherine Maxwell",
-     "kind": "opinion",
-     "published": "2026-08-15T13:19:09+00:00",
-     "summary": "CBS News chief correspondent Matt Gutman is facing sexual harassment allegations in a lawsuit filed by a former ABC News colleague, who claims he made inappropriate sexual remarks on two assignments during his time at that network. Former ABC News field producer Samira Said named Gutman, ABC News and parent company The Walt Disney Co. as defendants in the suit filed Friday in Los Angeles Superior Court. Said, who worked in ABC&#8217;s Los Angeles bureau from May 2021 until March 2025, alleges discrimination, hostile work environment harassment, retaliation, failure to accommodate her medical conditions and wrongful termination. Said alleges she was &#8220;placed on a male-only team including on-air correspondent Matt Gutman&#8221; and two other male crew members. &#8220;While the team waited in a public queue during the assignment, Gutman initiated a discussion rating a female correspondent&#8217;s appearance and reducing her professional standing to a numerical score based on her physical attributes,&#8221; the complaint states. The other crew members allegedly joined in and tried to draw Said into the conversation; she declined and said the discussion was inappropriate, according"
+     "outlet": "foxnews",
+     "title": "Caitlin Clark and Angel Reese rivalry gets a new chapter in Fever-Dream overtime thriller",
+     "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-angel-reese-rivalry-new-chapter-fever-dream-overtime-thriller",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T00:17:30+00:00",
+     "summary": "Caitlin Clark and Angel Reese gave the WNBA an overtime thriller Sunday evening at State Farm Arena. Clark scored 26 points, hit two enormous free throws late in overtime and grabbed the game-sealing rebound as the Indiana Fever beat Reese and the Atlanta Dream, 95-91. ANGEL REESE\u2019S LATEST WNBA CONTROVERSY SHOWS HOW VICTIMHOOD BECAME CENTRAL TO HER BRAND It was a real team win for the Fever. But Clark and Reese were right in the middle of the biggest moments, including Reese\u2019s missed layup at the end of regulation that sent the game to overtime. Indiana had to earn it, too. The Fever trailed by eight after Atlanta scored 28 points in the third quarter to open a 72-64 advantage. But for a team known for its offensive firepower, it was Indiana\u2019s defense that made the clutch plays down the stretch. The Fever held the Dream to nine points in the fourth, outscored Atlanta 17-9 and forced overtime. It was the lowest fourth-quarter scoring output for the Dream this season. But it almost didn't matter. The Dream had the ball in the final seconds of regulation with the score tied 81-81. Rhyne Howard missed a 3 with 5.5 seconds left, but Reese grabbed the offensive rebound and had a clean lo"
+    }
+   ]
+  },
+  {
+   "id": "59ab4b1976",
+   "topic": "Culture & Sport",
+   "summary": "Von Miller, the eight-time Pro Bowler and two-time Super Bowl champion, is heading to Jerry\u2019s World for his 15th NFL season. Miller announced he is signing with the Dallas Cowboys , though the specifics of the deal were not disclosed. \"Dallas ! Let\u2019s make this one Special !\" Miller wrote on X with a photoshopped picture of himself in a Cowboys uniform. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM Cowboys legend Demarcus Ware, who also won a Super Bowl with the Denver Broncos alongside Miller, also posted a FaceTime screenshot of the two of them smiling together with the a smiling emoji and \"#CowboysNation.\" Miller also won SB 50 MVP during that game against the Carolina Panthers as well. Miller is coming off a nine-sack season for the Washington Commanders , where he also collected 26 combined tackles across 17 games with his fourth NFL franchise in his career. QUINNEN WILLIAMS\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Von Miller signs with Cowboys in homecoming move for 2-time Super Bowl champion: 'Let's make this one special'",
+   "updated": "2026-08-17T02:20:27+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "Von Miller signs with Cowboys in homecoming move for 2-time Super Bowl champion: 'Let's make this one special'",
+     "url": "https://www.foxnews.com/sports/von-miller-signs-cowboys-homecoming-move-2-time-super-bowl-champion-lets-make-this-one-special",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T02:20:27+00:00",
+     "summary": "Von Miller, the eight-time Pro Bowler and two-time Super Bowl champion, is heading to Jerry\u2019s World for his 15th NFL season. Miller announced he is signing with the Dallas Cowboys , though the specifics of the deal were not disclosed. \"Dallas ! Let\u2019s make this one Special !\" Miller wrote on X with a photoshopped picture of himself in a Cowboys uniform. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM Cowboys legend Demarcus Ware, who also won a Super Bowl with the Denver Broncos alongside Miller, also posted a FaceTime screenshot of the two of them smiling together with the a smiling emoji and \"#CowboysNation.\" Miller also won SB 50 MVP during that game against the Carolina Panthers as well. Miller is coming off a nine-sack season for the Washington Commanders , where he also collected 26 combined tackles across 17 games with his fourth NFL franchise in his career. QUINNEN WILLIAMS AGRESS TO $105.9M CONTRACT EXTENSION WITH COWBOYS, LOCKING HIM IN THROUGH 2030 SEASON Now, Miller will be facing off against the Commanders, and other NFC East foes, with the Cowboys. COWBOYS LEGEND RELISHES IN CALEB DOWNS PICK AS RIVAL TEAM MISSES OUT ON FILLING SECONDARY HOLE Miller is a future Hall "
     },
     {
-     "outlet": "latimes",
-     "title": "CBS News correspondent Matt Gutman accused of harassment in wrongful termination suit against ABC",
-     "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-14/cbs-news-matt-gutman-accused-sexual-harassment-lawsuit",
-     "author": "Stephen Battaglio",
+     "outlet": "newsweek",
+     "title": "Cowboys Adding 8-Time Pro Bowl Edge-Rusher: Report",
+     "url": "https://www.newsweek.com/cowboys-adding-8-time-pro-bowl-edge-rusher-report-12329833",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-14T22:10:53+00:00",
-     "summary": "Gutman was included in a former ABC News producer's wrongful termination suit filed Friday in Los Angeles."
+     "published": "2026-08-17T02:10:57+00:00",
+     "summary": "The Dallas Cowboys bolstered their defense with the addition of a Pro Bowl pass-rusher who played for a division rival last year."
+    },
+    {
+     "outlet": "nypost",
+     "title": "Von Miller signing with Cowboys in major defensive boost before season",
+     "url": "https://nypost.com/2026/08/16/sports/von-miller-signing-with-cowboys-in-major-defensive-boost/",
+     "author": "Andrew Crane",
+     "kind": "news",
+     "published": "2026-08-17T01:30:38+00:00",
+     "summary": "An eight-time Pro Bowler is staying in the NFC East."
     }
    ]
   },
@@ -1515,53 +1490,53 @@
    ]
   },
   {
-   "id": "17775a02ad",
-   "topic": "Culture & Sport",
-   "summary": "The tribute came as Bob Iger, 75, prepares for his next act after leaving the top job at Disney earlier this year and taking a new role following his acquisition of the Los Angeles Lakers.",
-   "summaryFrom": "nypost",
+   "id": "7f0a236106",
+   "topic": "Politics",
+   "summary": "Sen. John Fetterman (D-Pa.), who has bucked his party in recent years, warned against socialism\u2019s rise in the Democratic Party in the wake of democratic socialists and insurgent progressives winning primaries. On social media, Fetterman responded to a report on a poll from CBS News in which 58 percent of Democratic respondents said their opinion...",
+   "summaryFrom": "thehill",
    "emphasis": null,
    "absent": [
     "coop",
     "nonprofit",
     "pub"
    ],
-   "headline": "Robert Downey Jr. honors Bob Iger in 4-word sentiment at D23 as ex-Disney boss takes Lakers reigns",
-   "updated": "2026-08-17T00:36:10+00:00",
+   "headline": "CBS News poll on whether Democrats split over socialism",
+   "updated": "2026-08-17T01:09:41+00:00",
    "outletCount": 3,
    "counts": {
-    "family": 2,
-    "corp": 1
+    "corp": 2,
+    "family": 1
    },
-   "newsCount": 3,
-   "opinionCount": 0,
+   "newsCount": 2,
+   "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "nypost",
-     "title": "Robert Downey Jr. honors Bob Iger in 4-word sentiment at D23 as ex-Disney boss takes Lakers reigns",
-     "url": "https://nypost.com/2026/08/16/entertainment/robert-downey-jr-honors-bob-iger-in-4-word-sentiment-at-d23/",
-     "author": "Nina Joudeh",
-     "kind": "news",
-     "published": "2026-08-17T00:36:10+00:00",
-     "summary": "The tribute came as Bob Iger, 75, prepares for his next act after leaving the top job at Disney earlier this year and taking a new role following his acquisition of the Los Angeles Lakers."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Anne Hathaway, Bob Iger honored at 2026 Disney Legends Awards",
-     "url": "https://abcnews.com/GMA/Culture/disney-legends-2026-anne-hathaway-bob-iger-dwayne-johnson/story?id=135603616",
+     "outlet": "cbsnews",
+     "title": "CBS News poll on whether Democrats split over socialism",
+     "url": "https://www.cbsnews.com/news/democrats-socialism-economy-political-parties-opinion-poll/",
      "author": null,
-     "kind": "news",
-     "published": "2026-08-16T23:47:01+00:00",
-     "summary": "Disney's highest honor celebrated stars, storytellers and leaders from across the company."
+     "kind": "opinion",
+     "published": "2026-08-17T01:09:41+00:00",
+     "summary": "Americans think more young people in office would make politics better."
     },
     {
-     "outlet": "latimes",
-     "title": "Inside Lakers mega-deal: Mark Walter made a shocking decision. Bob Iger, Joshua Kushner jumped at the chance",
-     "url": "https://www.latimes.com/sports/story/2026-08-14/inside-lakers-mega-deal-walters-shocking-decision-becomes-iger-kushners-chance",
-     "author": "Steve Henson",
+     "outlet": "breitbart",
+     "title": "John Fetterman Responds to Poll That Democrats Hold Positive View of Socialism: 'This Is Lunacy'",
+     "url": "https://www.breitbart.com/politics/2026/08/16/john-fetterman-responds-to-poll-that-democrats-hold-positive-view-of-socialism-this-is-lunacy/",
+     "author": "Elizabeth Weibel",
      "kind": "news",
-     "published": "2026-08-15T00:12:30+00:00",
-     "summary": "The lightning-quick sale of the Lakers to Bob Iger and Joshua Kushner comes as Mark Walter faces federal probes into allegedly conflicted insurance loans."
+     "published": "2026-08-16T22:50:45+00:00",
+     "summary": "Sen. John Fetterman (D-PA) responded to a recent poll that found that more than half of Democrats have a positive view of socialism over capitalism, stating that \"this is lunacy.\" The post John Fetterman Responds to Poll That Democrats Hold Positive View of Socialism: &#8216;This Is Lunacy&#8217; appeared first on Breitbart ."
+    },
+    {
+     "outlet": "thehill",
+     "title": "Fetterman warns of socialism's rise in the Democratic Party: 'This is lunacy'",
+     "url": "https://thehill.com/homenews/campaign/6032418-fetterman-warns-socialism-rise/",
+     "author": "Tara Suter",
+     "kind": "news",
+     "published": "2026-08-16T22:46:56+00:00",
+     "summary": "Sen. John Fetterman (D-Pa.), who has bucked his party in recent years, warned against socialism\u2019s rise in the Democratic Party in the wake of democratic socialists and insurgent progressives winning primaries. On social media, Fetterman responded to a report on a poll from CBS News in which 58 percent of Democratic respondents said their opinion..."
     }
    ]
   },
@@ -1766,6 +1741,76 @@
      "kind": "news",
      "published": "2026-08-14T18:27:39+00:00",
      "summary": "When President Donald Trump signed an executive order on childhood vaccines this week, Jayme Franklin stood nearby, repeatedly touching her pregnant belly. Franklin, 28, gave brief remarks at the signing and applauded Trump\u2019s order, which seeks to reduce the number of routine vaccines recommended to children. \u201cThis is what this country was built on: freedom for parents to make the decisions that best suit their kid,\u201d she said at the signing. \u201cAnd I\u2019m not anti-vaccine at all. I\u2019m pro-vaccine, but we want to be able to have the freedom to space it out and to choose which one works for our child. We don&#8217;t believe that there&#8217;s a one-size-fits-all solution for every child.\u201d Franklin is a co-founder of The Conservateur, a media brand for conservative women that includes a lifestyle publication and podcast. She\u2019s also a self-described MAHA mom \u2014 a subset of the electorate who lean into their identities as mothers to advocate for policies that they purport will make children healthier through the Make America Healthy Again movement. Its ranks include several high-ranking women in the White House, like press secretary Karoline Leavitt, who just announced she is leaving her job t"
+    }
+   ]
+  },
+  {
+   "id": "40507e217d",
+   "topic": "Other",
+   "summary": "A 19-year-old man was arrested Saturday in connection with a shooting that wounded five people at Virginia State University after authorities found him hiding inside a campus dormitory closet, police said. Camron Harris of Henrico, Virginia, was found hiding in a closet inside Seward Hall at approximately 4 p.m., more than 14 hours after the shooting erupted near university residence halls early Saturday morning, according to the Associated Press. Harris is not a student at Virginia State University. Camron Harris (Chesterfield County Police via AP) Police obtained eight felony warrants for Harris: four counts of malicious wounding and four counts of using a firearm in the commission of a felony. He was taken to the Chesterfield County Jail and is being held without bond. Authorities said additional charges may be filed, according to WTVR. The shooting occurred at approximately 1:28\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 2,
+    "big": [
+     "early",
+     "near",
+     "wounded",
+     "erupted"
+    ],
+    "indie": []
+   },
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Suspect in Virginia State University shooting found hiding in dorm closet",
+   "updated": "2026-08-16T19:39:03+00:00",
+   "outletCount": 3,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 1,
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 2,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Suspect in Virginia State University shooting found hiding in dorm closet",
+     "url": "https://www.theguardian.com/us-news/2026/aug/16/virginia-state-university-shooting-suspect-arrested",
+     "author": "Michael Sainato",
+     "kind": "news",
+     "published": "2026-08-16T19:39:03+00:00",
+     "summary": "Suspect, 19, who is not enrolled at the university arrested in connection with shooting of five people, authorities say A young man suspected in connection with the shooting of five people on Saturday on the campus of Virginia State University (VSU) hid in a dormitory closet for more than 14 hours before being found and arrested, according to authorities. The suspect \u2013 identified as 19-year-old Camron Harris \u2013 was found in Seward Hall on VSU\u2019s campus at 4pm, local police Lt James Lamb said, according to the Virginia news outlet WTVR . The shooting occurred at about 1.30am on Saturday. Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Teen suspect in Virginia campus shooting found hiding in closet",
+     "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T19:00:23+00:00",
+     "summary": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Virginia State Shooting Suspect Found Hiding On Campus",
+     "url": "https://www.dailywire.com/news/virginia-state-shooting-suspect-found-hiding-on-campus",
+     "author": "Drew Berkemeyer",
+     "kind": "opinion",
+     "published": "2026-08-16T17:47:42+00:00",
+     "summary": "A 19-year-old man was arrested Saturday in connection with a shooting that wounded five people at Virginia State University after authorities found him hiding inside a campus dormitory closet, police said. Camron Harris of Henrico, Virginia, was found hiding in a closet inside Seward Hall at approximately 4 p.m., more than 14 hours after the shooting erupted near university residence halls early Saturday morning, according to the Associated Press. Harris is not a student at Virginia State University. Camron Harris (Chesterfield County Police via AP) Police obtained eight felony warrants for Harris: four counts of malicious wounding and four counts of using a firearm in the commission of a felony. He was taken to the Chesterfield County Jail and is being held without bond. Authorities said additional charges may be filed, according to WTVR. The shooting occurred at approximately 1:28 a.m. Saturday near the university&#8217;s residence halls. Officers responding to the scene found five people suffering from gunshot wounds. One victim, a 21-year-old man who is not a VSU student, remains in critical condition. The other four victims, ranging in age from 17 to 23, suffered non-life-thre"
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Multiple People Shot At Virginia State University",
+     "url": "https://www.dailywire.com/news/multiple-people-shot-at-virginia-state-university",
+     "author": "Zach Jewell",
+     "kind": "opinion",
+     "published": "2026-08-15T07:47:18+00:00",
+     "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant law enforcement presence remains on campus as the investigation into this morning&#8217;s shooting continues.&#8221; It appears that no suspects have been taken into custody as of time of publication, and the university urged anyone with information on the shooting to contact law enforcement. pic.twi"
     }
    ]
   },
@@ -2025,6 +2070,57 @@
    ]
   },
   {
+   "id": "c26019a127",
+   "topic": "Justice & Policing",
+   "summary": "CBS News chief correspondent Matt Gutman is facing sexual harassment allegations in a lawsuit filed by a former ABC News colleague, who claims he made inappropriate sexual remarks on two assignments during his time at that network. Former ABC News field producer Samira Said named Gutman, ABC News and parent company The Walt Disney Co. as defendants in the suit filed Friday in Los Angeles Superior Court. Said, who worked in ABC&#8217;s Los Angeles bureau from May 2021 until March 2025, alleges discrimination, hostile work environment harassment, retaliation, failure to accommodate her medical conditions and wrongful termination. Said alleges she was &#8220;placed on a male-only team including on-air correspondent Matt Gutman&#8221; and two other male crew members. &#8220;While the team waited in a public queue during the assignment, Gutman initiated a discussion rating a female\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "CBS Chief Correspondent Matt Gutman Accused of Harassment in ABC Producer Suit",
+   "updated": "2026-08-15T23:26:41+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 3
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "CBS Chief Correspondent Matt Gutman Accused of Harassment in ABC Producer Suit",
+     "url": "https://www.breitbart.com/the-media/2026/08/15/cbs-matt-gutman-accused-sexualized-remarks-abc-producer-lawsuit/",
+     "author": "Mariane Angela",
+     "kind": "news",
+     "published": "2026-08-15T23:26:41+00:00",
+     "summary": "Former ABC News field producer Samira Said accused CBS News chief correspondent Matt Gutman of making sexualized remarks toward her while the two worked together at ABC, according to a wrongful-termination lawsuit filed Friday in Los Angeles. The post CBS Chief Correspondent Matt Gutman Accused of Harassment in ABC Producer Suit appeared first on Breitbart ."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "CBS News Star Matt Gutman Accused Of Sexual Harassment In New Lawsuit",
+     "url": "https://www.dailywire.com/news/cbs-news-star-matt-gutman-accused-of-sexual-harassment-in-new-lawsuit",
+     "author": "Catherine Maxwell",
+     "kind": "opinion",
+     "published": "2026-08-15T13:19:09+00:00",
+     "summary": "CBS News chief correspondent Matt Gutman is facing sexual harassment allegations in a lawsuit filed by a former ABC News colleague, who claims he made inappropriate sexual remarks on two assignments during his time at that network. Former ABC News field producer Samira Said named Gutman, ABC News and parent company The Walt Disney Co. as defendants in the suit filed Friday in Los Angeles Superior Court. Said, who worked in ABC&#8217;s Los Angeles bureau from May 2021 until March 2025, alleges discrimination, hostile work environment harassment, retaliation, failure to accommodate her medical conditions and wrongful termination. Said alleges she was &#8220;placed on a male-only team including on-air correspondent Matt Gutman&#8221; and two other male crew members. &#8220;While the team waited in a public queue during the assignment, Gutman initiated a discussion rating a female correspondent&#8217;s appearance and reducing her professional standing to a numerical score based on her physical attributes,&#8221; the complaint states. The other crew members allegedly joined in and tried to draw Said into the conversation; she declined and said the discussion was inappropriate, according"
+    },
+    {
+     "outlet": "latimes",
+     "title": "CBS News correspondent Matt Gutman accused of harassment in wrongful termination suit against ABC",
+     "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-14/cbs-news-matt-gutman-accused-sexual-harassment-lawsuit",
+     "author": "Stephen Battaglio",
+     "kind": "news",
+     "published": "2026-08-14T22:10:53+00:00",
+     "summary": "Gutman was included in a former ABC News producer's wrongful termination suit filed Friday in Los Angeles."
+    }
+   ]
+  },
+  {
    "id": "de3990c6ff",
    "topic": "Politics",
    "summary": "Former Rep. Mary Peltola\u2019s (D-AK) Senate campaign made clear this week that it wants nothing to do with former Vice President Kamala Harris\u2019s message of support. On Wednesday, Harris\u2019s Fight for the People PAC sent an email urging supporters to \u201cstand behind Mary,\u201d The New York Times reported . It called the Alaska contest a \u201cmust-win race\u201d for Democrats hoping to retake the Senate and declared, \u201cIf there\u2019s anyone who can flip Alaska and secure the Senate majority for Democrats \u2014 it\u2019s Mary.\u201d The message linked to a page asking donors to split contributions between Peltola\u2019s campaign and Harris\u2019s own committee. Peltola\u2019s team responded immediately. The campaign said it had not approved the email and had no knowledge of it before it went out. \u201cMary isn\u2019t seeking endorsements from anyone from the Lower 48 \u2014 her focus is and always will be Alaska,\u201d the statement read, citing support she has\u2026",
@@ -2072,57 +2168,6 @@
      "kind": "news",
      "published": "2026-08-15T11:00:46+00:00",
      "summary": "High-profile Democrats aren't backing off their support for Maine Senate candidate Troy Jackson following reports he fathered children with his cousin. Former Democratic National Committee Chairwoman Donna Brazile was among the chorus of party voices throwing cold water on the claims about Jackson in a scandal-plagued Senate race that was already upended after former far-left candidate Graham Platner dropped out earlier this summer after a series of controversies that culminated in a rape allegation. Now, Jackson is facing even more turmoil with the most recent revelations of a 1988 police report accusing him of assault. \"There\u2019s a lot of people who are doing a lot of gossip as news, and I don't want to break news that might not be true \u2014 especially on something so personal \u2014 that's not what I do,\" Brazile told Fox News Digital when asked about a report Jackson had two children with his cousin and longtime partner Lana Pelletier. INTERNET ERUPTS OVER REPORT THAT PLATNER'S REPLACEMENT IN KEY SENATE RACE FATHERED CHILDREN WITH SECOND COUSIN Jackson became the Democrat nominee for Senate in Maine despite Platner winning the June 9 primary race. Platner formally dropped out on July 10,"
-    }
-   ]
-  },
-  {
-   "id": "cc0f5a9b70",
-   "topic": "Politics",
-   "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "UK's leader calls for reflection after the death of former Cambridge professor accused of plagiarism",
-   "updated": "2026-08-15T17:48:50+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 1,
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "pbsnewshour",
-     "title": "UK's leader calls for reflection after the death of former Cambridge professor accused of plagiarism",
-     "url": "https://www.pbs.org/newshour/world/uks-leader-calls-for-reflection-after-the-death-of-former-cambridge-professor-accused-of-plagiarism",
-     "author": "Sylvia Hui, Associated Press",
-     "kind": "news",
-     "published": "2026-08-15T17:48:50+00:00",
-     "summary": "Jason Arday, who became Cambridge's youngest Black professor in 2023, was found dead inside an address in south London on Friday."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "UK Left Blames Death of Ex-Cambridge Professor Arday on 'Racism', Media Scrutiny of Plagiarism Claims",
-     "url": "https://www.breitbart.com/europe/2026/08/15/uk-left-blames-death-of-ex-cambridge-professor-arday-on-racism-media-scrutiny-of-plagiarism-claims/",
-     "author": "Kurt Zindulka",
-     "kind": "news",
-     "published": "2026-08-15T15:58:25+00:00",
-     "summary": "British leftists have attempted to blame racism and media scrutiny for the untimely death of former Cambridge professor Jason Arday, who sensationally resigned last week amid plagiarism allegations and accusations of fabricating his backstory. The post UK Left Blames Death of Ex-Cambridge Professor Arday on &#8216;Racism&#8217;, Media Scrutiny of Plagiarism Claims appeared first on Breitbart ."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Family Of Ex-Cambridge Professor Blames \u2018Campaign Of Misinformation\u2019 For His Death",
-     "url": "https://www.dailywire.com/news/family-of-ex-cambridge-professor-blames-campaign-of-misinformation-for-his-death",
-     "author": "Virginia Kruta",
-     "kind": "opinion",
-     "published": "2026-08-14T19:16:44+00:00",
-     "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too long.&#8221; Arday, 41, was found unresponsive in his South London home on Friday \u2014 just over a week after he left his position at the prestigious university. Prior to leaving his post, he&#8217;d been accused of plagiarism and of embellishing his life story ahead of the release of his memoir, &#8220;Great a"
     }
    ]
   },
@@ -2229,53 +2274,170 @@
    ]
   },
   {
-   "id": "df0ec8988f",
-   "topic": "Culture & Sport",
-   "summary": "Caitlin Clark and Angel Reese gave the WNBA an overtime thriller Sunday evening at State Farm Arena. Clark scored 26 points, hit two enormous free throws late in overtime and grabbed the game-sealing rebound as the Indiana Fever beat Reese and the Atlanta Dream, 95-91. ANGEL REESE\u2019S LATEST WNBA CONTROVERSY SHOWS HOW VICTIMHOOD BECAME CENTRAL TO HER BRAND It was a real team win for the Fever. But Clark and Reese were right in the middle of the biggest moments, including Reese\u2019s missed layup at the end of regulation that sent the game to overtime. Indiana had to earn it, too. The Fever trailed by eight after Atlanta scored 28 points in the third quarter to open a 72-64 advantage. But for a team known for its offensive firepower, it was Indiana\u2019s defense that made the clutch plays down the stretch. The Fever held the Dream to nine points in the fourth, outscored Atlanta 17-9 and forced\u2026",
-   "summaryFrom": "foxnews",
+   "id": "1fa291dc49",
+   "topic": "Other",
+   "summary": "\u201cIt is with profound sadness that we share the tragic passing of our beloved Hayden,\u201d her representative said in a statement.",
+   "summaryFrom": "nypost",
    "emphasis": null,
    "absent": [
     "coop",
     "nonprofit",
     "pub"
    ],
-   "headline": "Caitlin Clark Laughs at Angel Reese After Blowing Game-Winning Layup",
-   "updated": "2026-08-17T01:37:54+00:00",
+   "headline": "Hayden Panettiere dies at 36",
+   "updated": "2026-08-17T03:11:02+00:00",
    "outletCount": 2,
    "counts": {
-    "corp": 2,
+    "corp": 1,
     "family": 1
    },
-   "newsCount": 3,
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "abcnews",
+     "title": "Hayden Panettiere dies at 36",
+     "url": "https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T03:11:02+00:00",
+     "summary": "Her representative confirmed her death to ABC News."
+    },
+    {
+     "outlet": "nypost",
+     "title": "Actress Hayden Panettiere dead at 36: report",
+     "url": "https://nypost.com/2026/08/16/us-news/actress-hayden-panettiere-dead-at-36-report/",
+     "author": "Ariel Zilber",
+     "kind": "news",
+     "published": "2026-08-17T03:08:33+00:00",
+     "summary": "\u201cIt is with profound sadness that we share the tragic passing of our beloved Hayden,\u201d her representative said in a statement."
+    }
+   ]
+  },
+  {
+   "id": "a0160320ec",
+   "topic": "Culture & Sport",
+   "summary": "Some people are fans of the Detroit Lions. But many, many more people are NOT fans of the Detroit Lions. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far&#160; here . Your team: &#160;Detroit Irritable Bowel Syndrome.",
+   "summaryFrom": "defector",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "SEC Team Loses 2 WRs for Entire 2026 Season",
+   "updated": "2026-08-17T03:00:43+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "coop": 1
+   },
+   "newsCount": 2,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
      "outlet": "newsweek",
-     "title": "Caitlin Clark Laughs at Angel Reese After Blowing Game-Winning Layup",
-     "url": "https://www.newsweek.com/caitlin-clark-laughs-at-angel-reese-after-blowing-game-winning-layup-12329781",
+     "title": "SEC Team Loses 2 WRs for Entire 2026 Season",
+     "url": "https://www.newsweek.com/sports/ncaa/sec-team-loses-2-wrs-for-entire-2026-season-12329058",
      "author": null,
      "kind": "news",
-     "published": "2026-08-17T01:37:54+00:00",
-     "summary": "After watching Angel Reese blow a chance to beat the Fever, cameras caught Caitlin Clark enjoying a good laugh immediately after."
+     "published": "2026-08-17T03:00:43+00:00",
+     "summary": "The South Carolina Gamecocks lost two wide receivers before the start of the 2026 college football regular season."
     },
     {
-     "outlet": "foxnews",
-     "title": "Caitlin Clark and Angel Reese rivalry gets a new chapter in Fever-Dream overtime thriller",
-     "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-angel-reese-rivalry-new-chapter-fever-dream-overtime-thriller",
-     "author": null,
+     "outlet": "defector",
+     "title": "Why Your Team Sucks 2026: Detroit Lions",
+     "url": "https://defector.com/why-your-team-sucks-2026-detroit-lions",
+     "author": "Drew Magary",
      "kind": "news",
-     "published": "2026-08-17T00:17:30+00:00",
-     "summary": "Caitlin Clark and Angel Reese gave the WNBA an overtime thriller Sunday evening at State Farm Arena. Clark scored 26 points, hit two enormous free throws late in overtime and grabbed the game-sealing rebound as the Indiana Fever beat Reese and the Atlanta Dream, 95-91. ANGEL REESE\u2019S LATEST WNBA CONTROVERSY SHOWS HOW VICTIMHOOD BECAME CENTRAL TO HER BRAND It was a real team win for the Fever. But Clark and Reese were right in the middle of the biggest moments, including Reese\u2019s missed layup at the end of regulation that sent the game to overtime. Indiana had to earn it, too. The Fever trailed by eight after Atlanta scored 28 points in the third quarter to open a 72-64 advantage. But for a team known for its offensive firepower, it was Indiana\u2019s defense that made the clutch plays down the stretch. The Fever held the Dream to nine points in the fourth, outscored Atlanta 17-9 and forced overtime. It was the lowest fourth-quarter scoring output for the Dream this season. But it almost didn't matter. The Dream had the ball in the final seconds of regulation with the score tied 81-81. Rhyne Howard missed a 3 with 5.5 seconds left, but Reese grabbed the offensive rebound and had a clean lo"
+     "published": "2026-08-14T14:40:59+00:00",
+     "summary": "Some people are fans of the Detroit Lions. But many, many more people are NOT fans of the Detroit Lions. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far&#160; here . Your team: &#160;Detroit Irritable Bowel Syndrome."
+    }
+   ]
+  },
+  {
+   "id": "2fa8d43152",
+   "topic": "Politics",
+   "summary": "The U.S. Navy is weighing a major revamp of the design of its new class of aircraft carriers to better suit the desires expressed by President Trump as the White House continues to wade into the designs of naval warships. The Navy is performing an internal review where it is weighing the possibility of moving...",
+   "summaryFrom": "thehill",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Navy considers major aircraft carrier revamp to better suit Trump\u2019s aesthetic",
+   "updated": "2026-08-17T02:58:32+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "thehill",
+     "title": "Navy considers major aircraft carrier revamp to better suit Trump\u2019s aesthetic",
+     "url": "https://thehill.com/policy/defense/6032559-navy-reviews-carrier-island-design/",
+     "author": "Filip Timotija",
+     "kind": "news",
+     "published": "2026-08-17T02:58:32+00:00",
+     "summary": "The U.S. Navy is weighing a major revamp of the design of its new class of aircraft carriers to better suit the desires expressed by President Trump as the White House continues to wade into the designs of naval warships. The Navy is performing an internal review where it is weighing the possibility of moving..."
     },
     {
-     "outlet": "newsweek",
-     "title": "Dave Portnoy Savagely Roasts Angel Reese During Dream Loss vs Fever",
-     "url": "https://www.newsweek.com/sports/dave-portnoy-savagely-roasts-angel-reese-during-dream-loss-vs-fever-12329749",
-     "author": null,
+     "outlet": "wapo",
+     "title": "Navy weighs major warship redesign to match Trump\u2019s preferences",
+     "url": "https://www.washingtonpost.com/national-security/2026/08/15/navy-weighs-major-warship-redesign-match-trumps-preferences/",
+     "author": "Noah Robertson, Tara  Copp",
      "kind": "news",
-     "published": "2026-08-17T00:08:55+00:00",
-     "summary": "After Angel Reese missed the game-winner against the Indiana Fever, Barstool Sports&#039; Dave Portnoy couldn&#039;t resist throwing shade."
+     "published": "2026-08-16T19:44:55+00:00",
+     "summary": "The president wants the new fleet of aircraft carriers to more resemble those from World War II. Such a change could cost billions."
+    }
+   ]
+  },
+  {
+   "id": "163ad8a627",
+   "topic": "Other",
+   "summary": "HBO\u2019s \u2018Lanterns\u2019 premiere introduces Hal Jordan and John Stewart through a sinister Nebraska murder mystery. Here\u2019s our recap, review and ending breakdown.",
+   "summaryFrom": "forbes",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "\u2018Lanterns\u2019 Episode 1 Recap: Hue Detective",
+   "updated": "2026-08-17T02:15:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "\u2018Lanterns\u2019 Episode 1 Recap: Hue Detective",
+     "url": "https://decider.com/2026/08/16/lanterns-episode-1-pilot-recap/",
+     "author": "mliss1578",
+     "kind": "news",
+     "published": "2026-08-17T02:15:00+00:00",
+     "summary": "HBO's new space cops are worth a ride-along."
+    },
+    {
+     "outlet": "forbes",
+     "title": "\u2018Lanterns\u2019 Series Premiere Recap And Review: Not That Super And Certainly No \u2018True Detective\u2019",
+     "url": "https://www.forbes.com/sites/erikkain/2026/08/16/lanterns-season-1-premiere-recap-review-hbo-max/",
+     "author": "Erik Kain, Senior Contributor",
+     "kind": "news",
+     "published": "2026-08-17T02:00:24+00:00",
+     "summary": "HBO\u2019s \u2018Lanterns\u2019 premiere introduces Hal Jordan and John Stewart through a sinister Nebraska murder mystery. Here\u2019s our recap, review and ending breakdown."
     }
    ]
   },
@@ -2322,86 +2484,44 @@
    ]
   },
   {
-   "id": "7f0a236106",
-   "topic": "Politics",
-   "summary": "More than half of Democrats hold a more positive view of socialism as opposed to capitalism, according to a recent CBS News/YouGov poll. The post Poll: 58 Percent of Democrats Hold Positive View of Socialism over Capitalism appeared first on Breitbart .",
+   "id": "b0ae1daabe",
+   "topic": "World",
+   "summary": "Iran\u2019s army chief announced a $30,000 bounty Sunday for anyone who kills or captures an American service member, as Tehran\u2019s armed forces escalated threats against U.S. personnel and separately vowed to continue confronting the United States until its enemies are \u201ccompletely\u201d defeated and forced to \u201csurrender.\u201d The post Iran Army Chief Offers $30,000 Bounty for Killing or Capturing U.S. Soldiers appeared first on Breitbart .",
    "summaryFrom": "breitbart",
    "emphasis": null,
    "absent": [
+    "corp",
     "coop",
-    "nonprofit",
-    "pub"
+    "nonprofit"
    ],
-   "headline": "CBS News poll on whether Democrats split over socialism",
-   "updated": "2026-08-17T01:09:41+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "CBS News poll on whether Democrats split over socialism",
-     "url": "https://www.cbsnews.com/news/democrats-socialism-economy-political-parties-opinion-poll/",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-17T01:09:41+00:00",
-     "summary": "Americans think more young people in office would make politics better."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Poll: 58 Percent of Democrats Hold Positive View of Socialism over Capitalism",
-     "url": "https://www.breitbart.com/politics/2026/08/16/poll-democrats-hold-positive-view-of-socialism-over-capitalism/",
-     "author": "Elizabeth Weibel",
-     "kind": "news",
-     "published": "2026-08-16T21:32:52+00:00",
-     "summary": "More than half of Democrats hold a more positive view of socialism as opposed to capitalism, according to a recent CBS News/YouGov poll. The post Poll: 58 Percent of Democrats Hold Positive View of Socialism over Capitalism appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
-   "id": "b2e95ff153",
-   "topic": "Politics",
-   "summary": "Rep. Haley Stevens, D-Mich., urged Democratic Senate nominee Abdul El-Sayed , who defeated her in Michigan's fierce Democratic primary election, to sever ties with controversial, far-left streamer Hasan Piker on \" The Sunday Briefing ,\" saying the party's nominee should now turn his attention toward Michigan voters as he pivots to the general election. Stevens maintained her primary-season criticism of Piker even while backing El-Sayed, describing herself as still committed to the party. \"It certainly makes sense to get rid of this Hasan Piker affiliation,\" she said, also asserting that the Democratic plans for healthcare, democracy and Black-owned businesses are better than those of Republican Mike Rogers, who will oppose El-Sayed in the Senate race. Asked whether El-Sayed had said or done anything other than winning the Democratic nomination to earn the support and assuage the\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Haley Stevens urges El-Sayed to ditch Hasan Piker affiliation after Michigan primary",
-   "updated": "2026-08-17T00:17:18+00:00",
+   "headline": "Iran offers $30,000 bounty for killing or capturing US soldiers",
+   "updated": "2026-08-17T00:34:12+00:00",
    "outletCount": 2,
    "counts": {
     "family": 1,
-    "corp": 1
+    "pub": 1
    },
    "newsCount": 2,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "foxnews",
-     "title": "Haley Stevens urges El-Sayed to ditch Hasan Piker affiliation after Michigan primary",
-     "url": "https://www.foxnews.com/media/haley-stevens-urges-el-sayed-ditch-hasan-piker-affiliation-michigan-primary",
-     "author": null,
+     "outlet": "breitbart",
+     "title": "Iran Army Chief Offers $30,000 Bounty for Killing or Capturing U.S. Soldiers",
+     "url": "https://www.breitbart.com/politics/2026/08/16/iran-army-chief-offers-30000-bounty-killing-capturing-u-s-soldiers/",
+     "author": "Joshua Klein",
      "kind": "news",
-     "published": "2026-08-17T00:17:18+00:00",
-     "summary": "Rep. Haley Stevens, D-Mich., urged Democratic Senate nominee Abdul El-Sayed , who defeated her in Michigan's fierce Democratic primary election, to sever ties with controversial, far-left streamer Hasan Piker on \" The Sunday Briefing ,\" saying the party's nominee should now turn his attention toward Michigan voters as he pivots to the general election. Stevens maintained her primary-season criticism of Piker even while backing El-Sayed, describing herself as still committed to the party. \"It certainly makes sense to get rid of this Hasan Piker affiliation,\" she said, also asserting that the Democratic plans for healthcare, democracy and Black-owned businesses are better than those of Republican Mike Rogers, who will oppose El-Sayed in the Senate race. Asked whether El-Sayed had said or done anything other than winning the Democratic nomination to earn the support and assuage the concerns of groups that voted for Stevens, such as Jewish voters , Black voters or Reagan-era Democrats, Stevens pointed to her own good performance with those demographics, identifying herself as a Zionist Democrat and asserting that her party had room for all those communities. HASAN PIKER TORCHED OVER PL"
+     "published": "2026-08-17T00:34:12+00:00",
+     "summary": "Iran\u2019s army chief announced a $30,000 bounty Sunday for anyone who kills or captures an American service member, as Tehran\u2019s armed forces escalated threats against U.S. personnel and separately vowed to continue confronting the United States until its enemies are \u201ccompletely\u201d defeated and forced to \u201csurrender.\u201d The post Iran Army Chief Offers $30,000 Bounty for Killing or Capturing U.S. Soldiers appeared first on Breitbart ."
     },
     {
-     "outlet": "thehill",
-     "title": "Stevens says 'it certainly makes sense' for El-Sayed to end affiliation with Piker",
-     "url": "https://thehill.com/homenews/campaign/6032080-stevens-calls-el-sayed-end-piker-tie/",
-     "author": "Ryan Mancini",
+     "outlet": "france24",
+     "title": "Iran offers $30,000 bounty for killing or capturing US soldiers",
+     "url": "https://www.france24.com/en/middle-east/20260816-iran-offers-30-000-bounty-for-killing-or-capturing-us-soldiers",
+     "author": "FRANCE 24",
      "kind": "news",
-     "published": "2026-08-16T18:12:06+00:00",
-     "summary": "Rep. Haley Stevens (D-Mich.) on Sunday said \"it certainly makes sense\" for her former Michigan Senate race opponent, Abdul El-Sayed (D), to end his affiliation with popular left-wing Twitch streamer Hasan Piker. Fox News's \"The Sunday Briefing\" co-host Jacqui Heinrich asked Stevens if she would call on El-Sayed, a progressive, to moderate his views on..."
+     "published": "2026-08-16T15:40:26+00:00",
+     "summary": "The Iranian military announced on Sunday it would be offering a $30,000 reward for killing or capturing US soldiers, with the bounty doubled if conducted by a woman. There have been no known deployments of US ground troops in Iran during the war except for a rescue mission carried out in April."
     }
    ]
   },
@@ -3326,132 +3446,6 @@
      "kind": "news",
      "published": "2026-08-16T12:18:09+00:00",
      "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools."
-    }
-   ]
-  },
-  {
-   "id": "3551a71ec7",
-   "topic": "Justice & Policing",
-   "summary": "Former Sen. Kyrsten Sinema is continuing to challenge the lawsuit brought by the wife of her former security guard and lover, Matthew Ammel. Sinema has admitted to having an affair with Ammel while she was the Democratic senator from Arizona. Heather Ammel\u2019s lawsuit alleges the tort of alienation of affection, an action many may find outdated in our more open or indulgent culture. I start teaching my torts class this week, and the alienation tort remains a controversy at the intersection of tort and constitutional law. There was a time when most states had morality crimes that punished adultery or homosexuality. They have been largely scrubbed from our books due to constitutional challenges and changing social mores. However, a spouse can still sue civilly over a third party ruining a marriage through adultery. Such \"heart balm\" actions go back to the earliest days of tort liability.\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "JONATHAN TURLEY: Former Sen Kyrsten Sinema fights affair lawsuit invoking centuries-old marriage tort",
-   "updated": "2026-08-16T14:39:24+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "JONATHAN TURLEY: Former Sen Kyrsten Sinema fights affair lawsuit invoking centuries-old marriage tort",
-     "url": "https://www.foxnews.com/opinion/jonathan-turley-former-sen-kyrsten-sinema-fights-affair-lawsuit-invoking-centuries-old-marriage-tort",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-16T14:39:24+00:00",
-     "summary": "Former Sen. Kyrsten Sinema is continuing to challenge the lawsuit brought by the wife of her former security guard and lover, Matthew Ammel. Sinema has admitted to having an affair with Ammel while she was the Democratic senator from Arizona. Heather Ammel\u2019s lawsuit alleges the tort of alienation of affection, an action many may find outdated in our more open or indulgent culture. I start teaching my torts class this week, and the alienation tort remains a controversy at the intersection of tort and constitutional law. There was a time when most states had morality crimes that punished adultery or homosexuality. They have been largely scrubbed from our books due to constitutional challenges and changing social mores. However, a spouse can still sue civilly over a third party ruining a marriage through adultery. Such \"heart balm\" actions go back to the earliest days of tort liability. However, the tort has been abolished in 42 states, leaving Hawaii, North Carolina , Mississippi, New Mexico, South Dakota and Utah as the exceptions. COURT FILINGS REVEAL KYRSTEN SINEMA HAD SEX MULTIPLE TIMES WITH MARRIED BODYGUARD WHILE SERVING AS SENATOR Early tort cases spoke of two violative acts :"
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Kyrsten Sinema Details Affair with Bodyguard in Legal Fight with His Ex-Wife: 'We Went Inside and Had Sex'",
-     "url": "https://www.breitbart.com/politics/2026/08/15/kyrsten-sinema-details-affair-with-bodyguard-in-legal-fight-with-his-ex-wife-we-went-inside-and-had-sex/",
-     "author": "Amy Furr",
-     "kind": "news",
-     "published": "2026-08-15T17:30:05+00:00",
-     "summary": "Former Democrat-turned-Independent Arizona senator Kyrsten Sinema has been open in court about her sexual relationship with a former bodyguard who is now her boyfriend. The post Kyrsten Sinema Details Affair with Bodyguard in Legal Fight with His Ex-Wife: &#8216;We Went Inside and Had Sex&#8217; appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
-   "id": "a3d713383c",
-   "topic": "Business & Economy",
-   "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions\u2026",
-   "summaryFrom": "reason",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "West Bank: Activist recounts life under settler siege in Qusra",
-   "updated": "2026-08-16T14:38:57+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "West Bank: Activist recounts life under settler siege in Qusra",
-     "url": "https://www.france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T14:38:57+00:00",
-     "summary": "A week after Israeli settlers began besieging Palestinian homes in the West Bank village of Qusra, human rights activist Netanael Hanadaro joined FRANCE 24 to recount what he witnessed there. He said he and other NGO members reached the isolated homes on foot and left food outside for the trapped residents, with the Israeli army saying it would deliver the supplies. Hanadaro described an extraordinary situation in which the homes, located on the outskirts of the village, have been surrounded by settlers while the army works to prevent clashes between the settlers and activists."
-    },
-    {
-     "outlet": "reason",
-     "title": "Israeli Settler \"Terrorists\" Unjustly Expel West Bank Palestinians From Their Land",
-     "url": "https://reason.com/volokh/2026/08/15/israeli-settler-terrorists-unjustly-expel-west-bank-palestinians-from-their-land/",
-     "author": "Ilya Somin",
-     "kind": "opinion",
-     "published": "2026-08-15T22:17:52+00:00",
-     "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions are deeply unjust, amounting to ethnic cleansing and gross violations of private property rights. They also highlight broader dangers of ethno-nationalist claims to exclusive control over land. The Times of Israel (a center-right Israeli publication) has a helpful overview of the recent settler violenc"
-    }
-   ]
-  },
-  {
-   "id": "059b89cc7a",
-   "topic": "Other",
-   "summary": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
-   "summaryFrom": "politico",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "8/16: Face The Nation",
-   "updated": "2026-08-16T14:30:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "8/16: Face The Nation",
-     "url": "https://www.cbsnews.com/video/081626-face-the-nation/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T14:30:00+00:00",
-     "summary": "This week on \"Face the Nation with Margaret Brennan,\" amid a number of socialist candidates in the Democratic Party, President Trump has found his rallying cry for the midterm elections. Democratic Gov. Andy Beshear of Kentucky and GOP Rep. Don Bacon join, plus a new poll from CBS News executive director of elections and surveys Anthony Salvanto."
-    },
-    {
-     "outlet": "politico",
-     "title": "The nation\u2019s cartoonists on the week in politics",
-     "url": "https://www.politico.com/gallery/2026/08/14/the-nations-cartoonists-on-the-week-in-politics-01037047",
-     "author": "By POLITICO Staff",
-     "kind": "news",
-     "published": "2026-08-14T09:00:00+00:00",
-     "summary": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker."
     }
    ]
   }
