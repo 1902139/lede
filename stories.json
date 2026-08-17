@@ -1,43 +1,61 @@
 {
- "generated": "2026-08-17T04:04:56.961617+00:00",
+ "generated": "2026-08-17T04:59:46.637818+00:00",
  "storyCount": 60,
- "feedsOk": 68,
+ "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
   {
-   "id": "c75d392b8a",
+   "id": "3aa967e983",
    "topic": "World",
    "summary": "Last winter, Donald Trump plunged recklessly into war with Iran. The United States is now losing that conflict. Iran remains defiant, much of the world economy is more threatened now than it was six months ago, U.S. military resources are overextended, and munition stores are dangerously depleted. Trump and the United States have suffered one embarrassment after another; last week, he had to sneak away from the region on a backup plane because of a possible assassination threat from Tehran. And so the president of the United States has taken the logical next step: He is punishing South Korea, a loyal American friend, and tempting U.S. enemies to doubt America\u2019s will to defend its allies. Early Sunday evening, Trump instructed the Defense Department to \u201csubstantially reduce\u201d its participation in an annual joint military exercise with the South Koreans. He did this, he said in a post on\u2026",
    "summaryFrom": "theatlantic",
    "emphasis": {
     "bigCount": 12,
-    "indieCount": 5,
+    "indieCount": 6,
     "big": [
-     "sunday",
      "denuclearize",
-     "help",
      "united",
      "states",
-     "also"
+     "also",
+     "noted",
+     "truth"
     ],
     "indie": []
    },
    "absent": [
     "coop"
    ],
-   "headline": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
-   "updated": "2026-08-17T02:51:27+00:00",
-   "outletCount": 16,
+   "headline": "Trump orders Pentagon to scale back military drills with South Korea, hours before start",
+   "updated": "2026-08-17T04:38:01+00:00",
+   "outletCount": 17,
    "counts": {
-    "pub": 3,
-    "family": 7,
+    "pub": 4,
     "nonprofit": 2,
+    "family": 7,
     "corp": 5
    },
-   "newsCount": 16,
+   "newsCount": 17,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "france24",
+     "title": "Trump orders Pentagon to scale back military drills with South Korea, hours before start",
+     "url": "https://www.france24.com/en/americas/20260817-trump-orders-pentagon-to-scale-back-military-drills-with-south-korea-hours-before-start",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-17T04:38:01+00:00",
+     "summary": "President Donald Trump on Sunday ordered the Pentagon to scale back \"inappropriate and hostile\" military drills with South Korea, claiming that the ally had failed to help with the war against Iran and citing his \"good relationship\" with North Korean leader Kim Jong-un."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump orders cuts to South Korea joint drills despite warnings of North\u2019s growing battlefield experience",
+     "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+     "author": "Raphael Rashid in Seoul",
+     "kind": "news",
+     "published": "2026-08-17T04:07:57+00:00",
+     "summary": "President says move is based on \u2018very good relationship with Kim Jong-un\u2019 but US military officials have said Ukraine war is boosting regime\u2019s combat capabilities Donald Trump has said he is scaling back joint US military drills with South Korea aimed at deterring North Korea, despite military officials from both countries warning that Kim Jong-un\u2019s regime was learning new battlefield tactics from the Ukraine war. The drills under Ulchi Freedom Shield, one of two major annual exercises held by South Korea and the US, start on Monday and run until 27 August. Continue reading..."
+    },
     {
      "outlet": "bbc",
      "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
@@ -55,15 +73,6 @@
      "kind": "news",
      "published": "2026-08-17T02:23:33+00:00",
      "summary": "Last winter, Donald Trump plunged recklessly into war with Iran. The United States is now losing that conflict. Iran remains defiant, much of the world economy is more threatened now than it was six months ago, U.S. military resources are overextended, and munition stores are dangerously depleted. Trump and the United States have suffered one embarrassment after another; last week, he had to sneak away from the region on a backup plane because of a possible assassination threat from Tehran. And so the president of the United States has taken the logical next step: He is punishing South Korea, a loyal American friend, and tempting U.S. enemies to doubt America\u2019s will to defend its allies. Early Sunday evening, Trump instructed the Defense Department to \u201csubstantially reduce\u201d its participation in an annual joint military exercise with the South Koreans. He did this, he said in a post on Truth Social, in part because such activities are expensive, but worse, they are insulting to his friends in North Korea, a country that has been \u201cunthreatening and respectful\u201d while he\u2019s been in office. (Trump seems unconcerned about the dozens of nuclear weapons Pyongyang is pointing at U.S. and Sou"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump orders cuts to South Korea joint drills despite warnings of North\u2019s growing battlefield experience",
-     "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
-     "author": "Raphael Rashid in Seoul",
-     "kind": "news",
-     "published": "2026-08-17T01:49:36+00:00",
-     "summary": "President says move is based on \u2018very good relationship with Kim Jong-un\u2019 but US military officials have said Ukraine war is boosting regime\u2019s combat capabilities Donald Trump has said he is scaling back joint US military drills with South Korea aimed at deterring North Korea, despite military officials from both countries warning that Kim Jong-un\u2019s regime was learning new battlefield tactics from the Ukraine war. The drills under Ulchi Freedom Shield, one of two major annual exercises held by South Korea and the US, start on Monday and run until 27 August. Continue reading..."
     },
     {
      "outlet": "nyt",
@@ -180,7 +189,7 @@
      "author": "Catherine Lucey, Se Young Lee and Alastair Gale",
      "kind": "news",
      "published": "2026-08-16T21:32:16+00:00",
-     "summary": "President Donald Trump told the Pentagon to \u201csubstantially reduce\u201d joint military exercises with South Korea, indicating his shift was driven by frustration that the longtime US ally hadn\u2019t provided more support for his war with Iran."
+     "summary": "President Donald Trump said he\u2019s told the Pentagon to \u201csubstantially reduce\u201d joint military exercises with South Korea, indicating his shift was driven by frustration the longtime US ally hadn\u2019t provided more support for his war with Iran."
     },
     {
      "outlet": "dailywire",
@@ -194,131 +203,116 @@
    ]
   },
   {
-   "id": "b120e655fe",
-   "topic": "Health",
-   "summary": "Focus On Sport / ocus on Sport, Getty Images Tommy John, the star pitcher who played 26 major league seasons mostly with the Yankees and Dodgers, has died at 83. Aside from winning 288 professional baseball games, he may be most known for inspiring the Tommy John elbow surgery. He was the first person to ever get the surgery after he tore his ulnar collateral ligament in his left elbow during the 1974 season. At the time, it was unclear whether John would ever be able to pitch again. Team doctor Frank Jobe performed the first-of-its-kind operation, which became medical history, and John returned to top form just a year later. On Aug. 8 during Old-Timers\u2019 Day at Yankee Stadium, John thanked Jobe, whom John said, \u201csaved my arm and made it possible for me to continue pitching. That surgery has since gone on to save the careers of countless pitchers, including many of the very best in the\u2026",
-   "summaryFrom": "dailybeast",
-   "emphasis": {
-    "bigCount": 8,
-    "indieCount": 2,
-    "big": [
-     "name",
-     "dodgers",
-     "lefty",
-     "former",
-     "named",
-     "procedure"
-    ],
-    "indie": [
-     "namesake",
-     "pioneering"
-    ]
-   },
+   "id": "03159250fd",
+   "topic": "Other",
+   "summary": "Actor Hayden Panettiere has died at 36. Nathan Congleton/NBC via Getty Images \"Heroes\" actor Hayden Panettiere has died at 36, her representative told ABC News. In May, she released a memoir detailing her struggles with postpartum depression and alcoholism. She wrote that after giving birth to her daughter in 2014, she felt like her \"soul was dead.\" Actor Hayden Panettiere has died at 36, her representative told ABC News on Monday. \"It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her \u2014 and to the millions who watched her onscreen,\" her father, Skip Panettiere, said in a statement to the outlet. The family did not immediately provide any other details about her death. Panettiere began her acting career as a child, with one of her earliest major roles\u2026",
+   "summaryFrom": "businessinsider",
+   "emphasis": null,
    "absent": [
     "coop",
-    "pub"
+    "nonprofit"
    ],
-   "headline": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
-   "updated": "2026-08-17T03:47:14+00:00",
+   "headline": "Heroes actress Hayden Panettiere dies aged 36",
+   "updated": "2026-08-17T04:53:27+00:00",
    "outletCount": 10,
    "counts": {
+    "pub": 1,
     "family": 4,
-    "corp": 4,
-    "nonprofit": 2
+    "corp": 5
    },
    "newsCount": 10,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
+     "outlet": "bbc",
+     "title": "Heroes actress Hayden Panettiere dies aged 36",
+     "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T04:53:27+00:00",
+     "summary": "Panettiere starred in TV shows including Heroes and Nashville along with films Remember the Titans and Raising Helen."
+    },
+    {
      "outlet": "nypost",
-     "title": "Yankees\u2019 Gerrit Cole remembers Tommy John as trailblazer for \u2018venturing into the unknown\u2019 with surgery",
-     "url": "https://nypost.com/2026/08/16/sports/yankees-gerrit-cole-remembers-tommy-john-as-trailblazer/",
-     "author": "Greg Joyce",
+     "title": "Hayden Panettiere\u2019s life in photos: Remembering the actress before her death at 36",
+     "url": "https://pagesix.com/2026/08/17/photos/hayden-panettieres-life-in-photos-remembering-the-actress-before-her-death-at-36/",
+     "author": "Jacquelyn Kozak",
      "kind": "news",
-     "published": "2026-08-17T03:47:14+00:00",
-     "summary": "As a recent beneficiary of the surgery named after Tommy John, Gerrit Cole joined in those remembering the former Yankees lefty."
+     "published": "2026-08-17T04:49:08+00:00",
+     "summary": "See the actress' life in photos."
     },
     {
-     "outlet": "newsweek",
-     "title": "Yankees Legends Pay Tribute to Tommy John",
-     "url": "https://www.newsweek.com/sports/mlb/yankees-tommy-john-dies-don-mattingly-willie-randolph-tribute-12329695",
+     "outlet": "abcnews",
+     "title": "Hayden Panettiere dies at 36",
+     "url": "https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473",
      "author": null,
      "kind": "news",
-     "published": "2026-08-17T02:38:48+00:00",
-     "summary": "Two teammates of Tommy John on the New York Yankees paid tribute to the pitcher, who passed away at age 83."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Tommy John, MLB All-Star pitcher who had a surgery named after him, dies at 83",
-     "url": "https://www.cbsnews.com/news/tommy-john-mlb-baseball-player-dies-83/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T01:08:44+00:00",
-     "summary": "One of Tommy John's biggest legacies to MLB was his comeback elbow reconstruction surgery that now bears his name."
-    },
-    {
-     "outlet": "npr",
-     "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
-     "url": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T18:58:25+00:00",
-     "summary": "The left-handed MLB pitcher was 31 years old when he tore the ulnar collateral ligament in his pitching elbow in 1974, an injury that had been a death knell for pitchers' careers up to that point. (Image credit: Damian Dovarganes)"
-    },
-    {
-     "outlet": "nyt",
-     "title": "Tommy John, Pitcher Who Gave His Name to Career-Saving Surgery, Dies at 83",
-     "url": "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html",
-     "author": "Bruce Weber",
-     "kind": "news",
-     "published": "2026-08-16T18:43:56+00:00",
-     "summary": "After tearing an elbow ligament, he underwent a risky procedure and returned at his best, changing baseball and giving new hope to injured players."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Yankees Great Who Inspired Famous Surgery Dies at 83",
-     "url": "https://www.thedailybeast.com/tommy-john-pitcher-who-inspired-elbow-surgery-dies-at-83/",
-     "author": "Lauren Hartley",
-     "kind": "news",
-     "published": "2026-08-16T18:40:04+00:00",
-     "summary": "Focus On Sport / ocus on Sport, Getty Images Tommy John, the star pitcher who played 26 major league seasons mostly with the Yankees and Dodgers, has died at 83. Aside from winning 288 professional baseball games, he may be most known for inspiring the Tommy John elbow surgery. He was the first person to ever get the surgery after he tore his ulnar collateral ligament in his left elbow during the 1974 season. At the time, it was unclear whether John would ever be able to pitch again. Team doctor Frank Jobe performed the first-of-its-kind operation, which became medical history, and John returned to top form just a year later. On Aug. 8 during Old-Timers\u2019 Day at Yankee Stadium, John thanked Jobe, whom John said, \u201csaved my arm and made it possible for me to continue pitching. That surgery has since gone on to save the careers of countless pitchers, including many of the very best in the game today.\u201d John was previously diagnosed with bladder cancer. He is survived by his second wife, Cheryl, his sons Tommy III and Travis, and daughter Tamara Mannelly. Read it at https://nypost.com/2026/08/16/sports/tommy-john-yankees-great-who-had-surgery-named-after-him-dead-at-83/ Read more at The "
-    },
-    {
-     "outlet": "wapo",
-     "title": "Tommy John, whose elbow surgery transformed baseball, dies at 83",
-     "url": "https://www.washingtonpost.com/nation/2026/08/16/tommy-john-whose-elbow-surgery-transformed-baseball-dies-83/",
-     "author": "Matt Schudel",
-     "kind": "news",
-     "published": "2026-08-16T18:23:45+00:00",
-     "summary": "The lefty made four all-star teams while pitching for the White Sox, Dodgers and Yankees. An innovative procedure extended his career to 26 seasons."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Tommy John, pitcher whose surgery changed baseball, dies at age of 83",
-     "url": "https://www.theguardian.com/sport/2026/aug/16/tommy-john-pitcher-whose-surgery-changed-baseball-dies-at-age-of-83",
-     "author": "Agencies",
-     "kind": "news",
-     "published": "2026-08-16T18:19:00+00:00",
-     "summary": "John was first player to undergo pioneering operation New York Yankees pay tribute to four-time All-Star Tommy John, the namesake of a ligament-replacement surgery that paved a path to recovery for injured baseball players, has died. He was 83. TMZ.com reported that the pitcher died at his home in Florida, surrounded by his family, including his wife, Cheryl. John \u2060had recently been in hospice \u2060care. Continue reading..."
+     "published": "2026-08-17T04:30:19+00:00",
+     "summary": "Her representative confirmed her death to ABC News."
     },
     {
      "outlet": "nbcnews",
-     "title": "Former MLB pitcher Tommy John dies at age 83",
-     "url": "https://www.nbcnews.com/sports/baseball/former-mlb-pitcher-tommy-john-dies-age-83-rcna592800",
-     "author": "David K. Li",
+     "title": "Actress Hayden Panettiere dies at 36",
+     "url": "https://www.nbcnews.com/video/actress-hayden-panettiere-dies-at-36-268386373991",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-16T17:51:11+00:00",
-     "summary": "Tommy John, the longtime Major League baseball pitcher whose name is forever linked to the groundbreaking elbow surgery that saved his career and those of countless others since, has died, officials said Sunday."
+     "published": "2026-08-17T04:26:56+00:00",
+     "summary": "Hayden Panettiere, known for her roles in \u2018Heroes\u2019 and \u2018Nashville,\u2019 has passed away at age 36. NBC News' Jessica Layton and Steve Patterson report on her death and how she recently spoke publicly about her experiences with postpartum depression and addiction."
+    },
+    {
+     "outlet": "businessinsider",
+     "title": "Hayden Panettiere opened up about motherhood and addiction months before her death at 36",
+     "url": "https://www.businessinsider.com/hayden-panettiere-dead-at-36-heroes-nashville-depression-alcoholism-2026-8",
+     "author": "Amanda Goh (agoh@businessinsider.com)",
+     "kind": "news",
+     "published": "2026-08-17T04:25:27+00:00",
+     "summary": "Actor Hayden Panettiere has died at 36. Nathan Congleton/NBC via Getty Images \"Heroes\" actor Hayden Panettiere has died at 36, her representative told ABC News. In May, she released a memoir detailing her struggles with postpartum depression and alcoholism. She wrote that after giving birth to her daughter in 2014, she felt like her \"soul was dead.\" Actor Hayden Panettiere has died at 36, her representative told ABC News on Monday. \"It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her \u2014 and to the millions who watched her onscreen,\" her father, Skip Panettiere, said in a statement to the outlet. The family did not immediately provide any other details about her death. Panettiere began her acting career as a child, with one of her earliest major roles as Sarah Roberts on the ABC soap opera \"One Life to Live,\" on which she appeared from 1994 to 1997. She later became widely known for playing Claire Bennet in the hit series \"Heroes\" and Juliette Barnes in the musical drama \"Nashville.\" In her memoir , released on May 19, Panettiere wrote about her "
+    },
+    {
+     "outlet": "nyt",
+     "title": "Hayden Panettiere, Star of \u2018Nashville\u2019 and \u2018Heroes,\u2019 Dies at 36",
+     "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html",
+     "author": "Matt Stevens",
+     "kind": "news",
+     "published": "2026-08-17T04:21:45+00:00",
+     "summary": "In May, she published a memoir after a tumultuous decade that involved depression, substance abuse, losing custody of her daughter and stints in rehab."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Hayden Panettiere, actress known for \"Heroes\" and \"Remember the Titans,\" dies at 36",
+     "url": "https://www.cbsnews.com/news/hayden-panettiere-dies-at-36/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T03:59:32+00:00",
+     "summary": "Hayden Panettiere, who starred in \"Remember the Titans\" as a child actor and rose to fame in the sci-fi series \"Heroes,\" has died at the age of 36."
     },
     {
      "outlet": "latimes",
-     "title": "Tommy John, Dodgers pitcher and medical pioneer, dies at 83",
-     "url": "https://www.latimes.com/sports/story/2026-08-16/tommy-john-obituary-surgery-yankees-dodgers",
-     "author": "Michael Kupper",
+     "title": "Hayden Panettiere, star of 'Heroes,' 'Nashville,' dies at 36",
+     "url": "https://www.latimes.com/entertainment-arts/story/2026-08-16/hayden-panettiere-dead-star-of-heroes-nashville-was-36",
+     "author": "Terry Castleman",
      "kind": "news",
-     "published": "2026-08-16T17:45:42+00:00",
-     "summary": "Tommy John, who ruptured a ligament in his left elbow in 1974, agreed to a radical surgery that revived his career and changed baseball. He pitched for 26 years."
+     "published": "2026-08-17T03:46:28+00:00",
+     "summary": "Actor Hayden Panettiere, who starred in TV dramas and movies, died Sunday, according to her family. She was 36."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "\u2018Nashville\u2019 Star Hayden Panettiere Dies at 36",
+     "url": "https://www.thedailybeast.com/obsessed/nashville-star-hayden-panettiere-dies-at-36/",
+     "author": "Cameron Adams",
+     "kind": "news",
+     "published": "2026-08-17T03:26:55+00:00",
+     "summary": "CAITLIN OCHS / REUTERS Actress Hayden Panettiere has died at the age of 36. \u201cIt is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her -- and to the millions who watched her onscreen,\u201d her representative said in a statement to ABC News . TMZ reported that Panettiere died earlier on Sunday, citing sources with direct knowledge. She and her on-again, off-again boyfriend Brian Hickerson flew from Los Angeles to the South on Saturday, the sources said, and his family is aware of the death. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Hayden Panettiere, \u2018Heroes,\u2019 \u2018Nashville\u2019 And \u2018Scream\u2019 Star, Dies At 36",
+     "url": "https://www.forbes.com/sites/timlammers/2026/08/16/hayden-panettiere-heroes-nashville-and-scream-star-dies-at-36/",
+     "author": "Tim Lammers, Contributor",
+     "kind": "news",
+     "published": "2026-08-17T03:12:07+00:00",
+     "summary": "Hayden Panettiere, a former child actress who transitioned into a successful career as an adult in film and television with such shows as \"Heroes,\" \"Nashville\" and two \"Scream\" films, has died."
     }
    ]
   },
@@ -332,10 +326,10 @@
     "indieCount": 3,
     "big": [
      "support",
-     "middle",
      "east",
-     "lawmakers",
+     "middle",
      "diego-based",
+     "lawmakers",
      "months"
     ],
     "indie": []
@@ -449,6 +443,245 @@
    ]
   },
   {
+   "id": "3270aff426",
+   "topic": "World",
+   "summary": "US envoy Jared Kushner met with Hamas\u2019 leader in Egypt on Sunday to push for the group\u2019s disarmament, as Washington attempts to salvage the stalled plan to end one of the region\u2019s ongoing conflicts. Kushner is also expected to meet on Monday with Israeli Prime Minister Benjamin Netanyahu, who rejected US President Donald Trump\u2019s peace plan. Israel has also rejected US calls to withdraw from Gaza and Lebanon, demanding that Hamas and Hezbollah disarm first . Israeli forces bombed Lebanon on Sunday in strikes that Iran regards as violations of a months-old ceasefire, adding pressure to faltering US-Iran negotiations: The White House is searching for new strategies to inflict economic pain on Tehran as Washington prepares measures aimed at creating \u201c economic isolation .\u201d \u2014 Brendan Ruberry",
+   "summaryFrom": "semafor",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 7,
+    "big": [
+     "group"
+    ],
+    "indie": [
+     "meeting",
+     "held",
+     "effort",
+     "ceasefire",
+     "progress",
+     "ahead"
+    ]
+   },
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+   "updated": "2026-08-17T04:50:56+00:00",
+   "outletCount": 9,
+   "counts": {
+    "pub": 4,
+    "family": 2,
+    "nonprofit": 3
+   },
+   "newsCount": 9,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+     "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T04:50:56+00:00",
+     "summary": "Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday."
+    },
+    {
+     "outlet": "semafor",
+     "title": "US and Hamas hold rare direct talks",
+     "url": "https://www.semafor.com/article/08/16/2026/us-hamas-hold-rare-direct-talks",
+     "author": "Brendan Ruberry",
+     "kind": "news",
+     "published": "2026-08-16T22:20:51+00:00",
+     "summary": "US envoy Jared Kushner met with Hamas\u2019 leader in Egypt on Sunday to push for the group\u2019s disarmament, as Washington attempts to salvage the stalled plan to end one of the region\u2019s ongoing conflicts. Kushner is also expected to meet on Monday with Israeli Prime Minister Benjamin Netanyahu, who rejected US President Donald Trump\u2019s peace plan. Israel has also rejected US calls to withdraw from Gaza and Lebanon, demanding that Hamas and Hezbollah disarm first . Israeli forces bombed Lebanon on Sunday in strikes that Iran regards as violations of a months-old ceasefire, adding pressure to faltering US-Iran negotiations: The White House is searching for new strategies to inflict economic pain on Tehran as Washington prepares measures aimed at creating \u201c economic isolation .\u201d \u2014 Brendan Ruberry"
+    },
+    {
+     "outlet": "guardian",
+     "title": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
+     "url": "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T22:07:32+00:00",
+     "summary": "Trump\u2019s son-in-law and envoy held rare meeting with Hamas chief in Egypt in push for progress on ceasefire Donald Trump\u2019s son-in-law and envoy, Jared Kushner , held a rare meeting with Hamas \u2019s political chief on Sunday in Egypt , in a new diplomatic effort to make progress in the stalled Gaza ceasefire. Kushner will meet on Monday with Benjamin Netanyahu, who is under pressure after rejecting the new 15-point, US-backed road map. The talks aim to salvage the plan for Hamas to disarm and Israel to withdraw from the Palestinian territory shattered by war . Continue reading..."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Kushner Meets With Hamas to Advance Trump\u2019s Gaza Plan",
+     "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
+     "author": "Aaron Boxerman and Zolan Kanno-Youngs",
+     "kind": "news",
+     "published": "2026-08-16T21:16:17+00:00",
+     "summary": "The president\u2019s son-in-law met the Palestinian militant group\u2019s leaders in Egypt, officials said. He will soon see Benjamin Netanyahu, the Israeli leader."
+    },
+    {
+     "outlet": "npr",
+     "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
+     "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T20:20:22+00:00",
+     "summary": "Jared Kushner, President Trump's son-in-law, held a rare meeting with Hamas leadership Sunday in Egypt, in a new diplomatic effort to make progress in the stalled Gaza ceasefire. (Image credit: Alex Brandon)"
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Kushner meets Hamas leaders in Egypt to push Trump\u2019s Gaza plan",
+     "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T19:23:28+00:00",
+     "summary": "After meeting with the US envoy, Hamas says it called on the Board of Peace to \u2018compel\u2019 Israel to accept the plan."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Kushner has rare meeting with Hamas' leader on Gaza road map. A meeting with Netanyahu is next",
+     "url": "https://www.pbs.org/newshour/world/kushner-has-rare-meeting-with-hamas-leader-on-gaza-road-map-a-meeting-with-netanyahu-is-next",
+     "author": "Cara Anna, Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T18:11:31+00:00",
+     "summary": "The talks aim to salvage the new 15-point, U.S.-backed road map for Hamas to disarm in Gaza and Israel to withdraw from the Palestinian territory shattered by war."
+    },
+    {
+     "outlet": "dw",
+     "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
+     "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T17:31:00+00:00",
+     "summary": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators and Hamas in Egypt."
+    },
+    {
+     "outlet": "france24",
+     "title": "Kushner, Hamas delegation in Egypt for talks on Gaza peace plan",
+     "url": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-16T11:33:32+00:00",
+     "summary": "A Hamas delegation held talks with Egyptian intelligence chief Hassan Rashad in Egypt on Sunday, followed by talks with US envoy Jared Kushner. Kushner had met shortly before with President Abdel Fattah al-Sisi in an effort to break the deadlock over the US-brockered peace plan for Gaza."
+    }
+   ]
+  },
+  {
+   "id": "b120e655fe",
+   "topic": "Health",
+   "summary": "Focus On Sport / ocus on Sport, Getty Images Tommy John, the star pitcher who played 26 major league seasons mostly with the Yankees and Dodgers, has died at 83. Aside from winning 288 professional baseball games, he may be most known for inspiring the Tommy John elbow surgery. He was the first person to ever get the surgery after he tore his ulnar collateral ligament in his left elbow during the 1974 season. At the time, it was unclear whether John would ever be able to pitch again. Team doctor Frank Jobe performed the first-of-its-kind operation, which became medical history, and John returned to top form just a year later. On Aug. 8 during Old-Timers\u2019 Day at Yankee Stadium, John thanked Jobe, whom John said, \u201csaved my arm and made it possible for me to continue pitching. That surgery has since gone on to save the careers of countless pitchers, including many of the very best in the\u2026",
+   "summaryFrom": "dailybeast",
+   "emphasis": {
+    "bigCount": 7,
+    "indieCount": 2,
+    "big": [
+     "dodgers",
+     "lefty",
+     "named",
+     "former",
+     "name",
+     "left"
+    ],
+    "indie": [
+     "pioneering",
+     "namesake"
+    ]
+   },
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
+   "updated": "2026-08-17T03:47:14+00:00",
+   "outletCount": 9,
+   "counts": {
+    "family": 3,
+    "corp": 4,
+    "nonprofit": 2
+   },
+   "newsCount": 9,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Yankees\u2019 Gerrit Cole remembers Tommy John as trailblazer for \u2018venturing into the unknown\u2019 with surgery",
+     "url": "https://nypost.com/2026/08/16/sports/yankees-gerrit-cole-remembers-tommy-john-as-trailblazer/",
+     "author": "Greg Joyce",
+     "kind": "news",
+     "published": "2026-08-17T03:47:14+00:00",
+     "summary": "As a recent beneficiary of the surgery named after Tommy John, Gerrit Cole joined in those remembering the former Yankees lefty."
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Yankees Legends Pay Tribute to Tommy John",
+     "url": "https://www.newsweek.com/sports/mlb/yankees-tommy-john-dies-don-mattingly-willie-randolph-tribute-12329695",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T02:38:48+00:00",
+     "summary": "Two teammates of Tommy John on the New York Yankees paid tribute to the pitcher, who passed away at age 83."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Tommy John, MLB All-Star pitcher who had a surgery named after him, dies at 83",
+     "url": "https://www.cbsnews.com/news/tommy-john-mlb-baseball-player-dies-83/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T01:08:44+00:00",
+     "summary": "One of Tommy John's biggest legacies to MLB was his comeback elbow reconstruction surgery that now bears his name."
+    },
+    {
+     "outlet": "npr",
+     "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
+     "url": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T18:58:25+00:00",
+     "summary": "The left-handed MLB pitcher was 31 years old when he tore the ulnar collateral ligament in his pitching elbow in 1974, an injury that had been a death knell for pitchers' careers up to that point. (Image credit: Damian Dovarganes)"
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Yankees Great Who Inspired Famous Surgery Dies at 83",
+     "url": "https://www.thedailybeast.com/tommy-john-pitcher-who-inspired-elbow-surgery-dies-at-83/",
+     "author": "Lauren Hartley",
+     "kind": "news",
+     "published": "2026-08-16T18:40:04+00:00",
+     "summary": "Focus On Sport / ocus on Sport, Getty Images Tommy John, the star pitcher who played 26 major league seasons mostly with the Yankees and Dodgers, has died at 83. Aside from winning 288 professional baseball games, he may be most known for inspiring the Tommy John elbow surgery. He was the first person to ever get the surgery after he tore his ulnar collateral ligament in his left elbow during the 1974 season. At the time, it was unclear whether John would ever be able to pitch again. Team doctor Frank Jobe performed the first-of-its-kind operation, which became medical history, and John returned to top form just a year later. On Aug. 8 during Old-Timers\u2019 Day at Yankee Stadium, John thanked Jobe, whom John said, \u201csaved my arm and made it possible for me to continue pitching. That surgery has since gone on to save the careers of countless pitchers, including many of the very best in the game today.\u201d John was previously diagnosed with bladder cancer. He is survived by his second wife, Cheryl, his sons Tommy III and Travis, and daughter Tamara Mannelly. Read it at https://nypost.com/2026/08/16/sports/tommy-john-yankees-great-who-had-surgery-named-after-him-dead-at-83/ Read more at The "
+    },
+    {
+     "outlet": "wapo",
+     "title": "Tommy John, whose elbow surgery transformed baseball, dies at 83",
+     "url": "https://www.washingtonpost.com/nation/2026/08/16/tommy-john-whose-elbow-surgery-transformed-baseball-dies-83/",
+     "author": "Matt Schudel",
+     "kind": "news",
+     "published": "2026-08-16T18:23:45+00:00",
+     "summary": "The lefty made four all-star teams while pitching for the White Sox, Dodgers and Yankees. An innovative procedure extended his career to 26 seasons."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Tommy John, pitcher whose surgery changed baseball, dies at age of 83",
+     "url": "https://www.theguardian.com/sport/2026/aug/16/tommy-john-pitcher-whose-surgery-changed-baseball-dies-at-age-of-83",
+     "author": "Agencies",
+     "kind": "news",
+     "published": "2026-08-16T18:19:00+00:00",
+     "summary": "John was first player to undergo pioneering operation New York Yankees pay tribute to four-time All-Star Tommy John, the namesake of a ligament-replacement surgery that paved a path to recovery for injured baseball players, has died. He was 83. TMZ.com reported that the pitcher died at his home in Florida, surrounded by his family, including his wife, Cheryl. John \u2060had recently been in hospice \u2060care. Continue reading..."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Former MLB pitcher Tommy John dies at age 83",
+     "url": "https://www.nbcnews.com/sports/baseball/former-mlb-pitcher-tommy-john-dies-age-83-rcna592800",
+     "author": "David K. Li",
+     "kind": "news",
+     "published": "2026-08-16T17:51:11+00:00",
+     "summary": "Tommy John, the longtime Major League baseball pitcher whose name is forever linked to the groundbreaking elbow surgery that saved his career and those of countless others since, has died, officials said Sunday."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Tommy John, Dodgers pitcher and medical pioneer, dies at 83",
+     "url": "https://www.latimes.com/sports/story/2026-08-16/tommy-john-obituary-surgery-yankees-dodgers",
+     "author": "Michael Kupper",
+     "kind": "news",
+     "published": "2026-08-16T17:45:42+00:00",
+     "summary": "Tommy John, who ruptured a ligament in his left elbow in 1974, agreed to a radical surgery that revived his career and changed baseball. He pitched for 26 years."
+    }
+   ]
+  },
+  {
    "id": "0fd50b472e",
    "topic": "Climate & Energy",
    "summary": "One person is dead, homes have been swept off their foundations and more than 130,000 customers are without power as Tropical Storm Lala grinds westward across the Hawaiian Islands, a day after it brushed the Big Island as a Category 1 hurricane. Gov. Josh Green (D-HI) said Saturday evening that one person was killed in a storm-related car crash on the Big Island&#8217;s southern end, and that 19 roofs had been lost and at least three hospitals were running on generator power. Hours later, flash flooding tore through the coastal communities of Naalehu and Waiohinu. &#8220;Several occupied homes may have been swept off their foundations, and based on that, civil defense has initiated a search and rescue mission,&#8221; Hawaii County Mayor Kimo Alameda said overnight. Responders went looking for people who had called 911 but could not be reached through the floodwaters. &#8220;What makes\u2026",
@@ -462,11 +695,11 @@
     ],
     "indie": [
      "winds",
-     "landfall",
-     "sending",
      "again",
+     "landfall",
      "drenching",
-     "making"
+     "making",
+     "sending"
     ]
    },
    "absent": [
@@ -560,89 +793,89 @@
    ]
   },
   {
-   "id": "1fa291dc49",
+   "id": "518db9dcd1",
    "topic": "Other",
-   "summary": "\"Nashville\" actress Hayden Panettiere died, her representative confirmed to Fox News Digital. She was 36. Circumstances surrounding her death were not immediately made available. \"It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her \u2013 and to the millions who watched her onscreen,\" her rep said in a statement provided to ABC News. \u2018SOPRANOS\u2019 STARS REUNITE IN EMOTIONAL FAREWELL FOR VINCENT PASTORE The New York native began acting at a young age, and was cast in \"One Life to Live\" when she was 4 years old. She found fame with a starring role alongside Denzel Washington in the 2000 classic, \"Remember the Titans.\" It was at the age of 15 when Panettiere remembered being offered \"happy pills,\" and her addiction to opioids and alcohol began. \u2018GODZILLA VS.\u2026",
-   "summaryFrom": "foxnews",
+   "summary": "Roberto Serra - Iguana Press / Roberto Serra, Getty Images Thieves stole four works by Sicilian Renaissance painter Antonello da Messina from the MuMe regional museum in Sicily during Ferragosto, a major Italian public holiday. On Saturday evening, just before 10 p.m., they evaded the museum\u2019s alarm and security systems and made off with three of the five surviving panels of the 1473 San Gregorio Polyptych, and a double-sided Virgin Mary and Piet\u00e0 panel taken from an armored display case, according to the news agency LaPresse. \u201cWe are devastated by what happened. They were two of Antonello da Messina\u2019s most important and best-known works. It is a tremendous loss for the museum, the city, the community and the art world,\u201d MuMe director Marisa Mercurio said. Lynda Albertson, an art-crime analyst for the Association for Research into Crimes against Art, said the works will be difficult for\u2026",
+   "summaryFrom": "dailybeast",
    "emphasis": null,
    "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
+    "family",
+    "coop"
    ],
-   "headline": "Hayden Panettiere dies at 36",
-   "updated": "2026-08-17T04:02:14+00:00",
+   "headline": "Thieves steal Renaissance artworks in museum heist during Italian holiday",
+   "updated": "2026-08-17T03:53:07+00:00",
    "outletCount": 7,
    "counts": {
-    "corp": 4,
-    "family": 3
+    "pub": 4,
+    "nonprofit": 2,
+    "corp": 1
    },
    "newsCount": 7,
    "opinionCount": 0,
-   "underreported": false,
+   "underreported": true,
    "articles": [
     {
-     "outlet": "abcnews",
-     "title": "Hayden Panettiere dies at 36",
-     "url": "https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473",
+     "outlet": "aljazeera",
+     "title": "Thieves steal Renaissance artworks in museum heist during Italian holiday",
+     "url": "https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-17T04:02:14+00:00",
-     "summary": "Her representative confirmed her death to ABC News."
+     "published": "2026-08-17T03:53:07+00:00",
+     "summary": "As Messina celebrated Sicilian holiday Ferragosto, thieves struck the MuMe museum to steal the masterworks by Antonello."
     },
     {
-     "outlet": "cbsnews",
-     "title": "Hayden Panettiere, actress known for \"Heroes\" and \"Remember the Titans,\" dies at 36",
-     "url": "https://www.cbsnews.com/news/hayden-panettiere-dies-at-36/",
+     "outlet": "dw",
+     "title": "Italy: Thieves steal key Renaissance paintings in Sicily",
+     "url": "https://www.dw.com/en/italy-thieves-steal-key-renaissance-paintings-in-sicily/a-78389559?maca=en-rss-en-all-1573-rdf",
      "author": null,
      "kind": "news",
-     "published": "2026-08-17T03:59:32+00:00",
-     "summary": "Hayden Panettiere, who starred in \"Remember the Titans\" as a child actor and rose to fame in the sci-fi series \"Heroes,\" has died at the age of 36."
+     "published": "2026-08-16T19:18:00+00:00",
+     "summary": "Four Renaissance paintings by Antonello da Messina were stolen from his Sicilian hometown on Saturday after surviving earthquakes and centuries of history. Crooks took them while locals celebrated a religious holiday."
     },
     {
-     "outlet": "latimes",
-     "title": "Hayden Panettiere, star of 'Heroes,' 'Nashville,' dies at 36",
-     "url": "https://www.latimes.com/entertainment-arts/story/2026-08-16/hayden-panettiere-dead-star-of-heroes-nashville-was-36",
-     "author": "Terry Castleman",
+     "outlet": "pbsnewshour",
+     "title": "Thieves steal 4 Renaissance artworks in a Sicilian museum heist during an Italian holiday",
+     "url": "https://www.pbs.org/newshour/arts/thieves-steal-4-renaissance-artworks-in-a-sicilian-museum-heist-during-an-italian-holiday",
+     "author": "Colleen Barry, Associated Press",
      "kind": "news",
-     "published": "2026-08-17T03:46:28+00:00",
-     "summary": "Actor Hayden Panettiere, who starred in TV dramas and movies, died Sunday, her representative said. She was 36."
+     "published": "2026-08-16T17:14:44+00:00",
+     "summary": "Art expert Alberto Fiz estimated the value of the stolen works at 70 million euros ($81 million) to 80 million euros ($92 million)."
     },
     {
-     "outlet": "nypost",
-     "title": "Hayden Panettiere, \u2018Nashville\u2019 and \u2018Heroes\u2019 actress, dead at 36",
-     "url": "https://pagesix.com/2026/08/16/celebrity-news/hayden-panettiere-nashville-and-heroes-actress-dead-at-36/",
-     "author": "Desiree Murphy",
+     "outlet": "france24",
+     "title": "Italy: Four Renaissance artworks stolen from Messina museum in Sicily",
+     "url": "https://www.france24.com/en/italy-four-renaissance-artworks-stolen-from-messina-museum-in-sicily",
+     "author": "FRANCE24",
      "kind": "news",
-     "published": "2026-08-17T03:29:06+00:00",
-     "summary": "Her family confirmed the news in a statement Sunday."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Actor Hayden Panettiere, known for roles in \u2018Heroes,\u2019 \u2018Nashville,\u2019 dies at 36",
-     "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/actor-hayden-panettiere-dies-36-rcna592856",
-     "author": "Bill Feather",
-     "kind": "news",
-     "published": "2026-08-17T03:28:38+00:00",
-     "summary": "The cause and manner of death were unclear. Panettiere revealed this year that she struggled with postpartum depression and addiction, which she said led to her decision to give up custody of her daughter in 2018."
+     "published": "2026-08-16T15:49:59+00:00",
+     "summary": "Four artworks by Renaissance painter Antonello da Messina have been stolen from the Museo Regionale in Messina, Sicily, overnight on August 15. The thieves took three panels from his Polittico di San Gregorio, depriving the city of part of the only surviving works by the painter still held in his hometown. Italian authorities have launched an investigation. FRANCE 24's Seema Gupta, correspondent in Italy, has the latest."
     },
     {
      "outlet": "dailybeast",
-     "title": "\u2018Nashville\u2019 Star Hayden Panettiere Dies at 36",
-     "url": "https://www.thedailybeast.com/obsessed/nashville-star-hayden-panettiere-dies-at-36/",
-     "author": "Cameron Adams",
+     "title": "Thieves Pull Off Brazen Heist of Renaissance Artworks in Sicily",
+     "url": "https://www.thedailybeast.com/thieves-steal-four-antonello-da-messina-works-from-sicily-museum/",
+     "author": "Lauren Hartley",
      "kind": "news",
-     "published": "2026-08-17T03:26:55+00:00",
-     "summary": "CAITLIN OCHS / REUTERS Actress Hayden Panettiere has died at the age of 36. \u201cIt is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her -- and to the millions who watched her onscreen,\u201d her representative said in a statement to ABC News . More details about her death were not immediately available. Read more at The Daily Beast."
+     "published": "2026-08-16T14:27:52+00:00",
+     "summary": "Roberto Serra - Iguana Press / Roberto Serra, Getty Images Thieves stole four works by Sicilian Renaissance painter Antonello da Messina from the MuMe regional museum in Sicily during Ferragosto, a major Italian public holiday. On Saturday evening, just before 10 p.m., they evaded the museum\u2019s alarm and security systems and made off with three of the five surviving panels of the 1473 San Gregorio Polyptych, and a double-sided Virgin Mary and Piet\u00e0 panel taken from an armored display case, according to the news agency LaPresse. \u201cWe are devastated by what happened. They were two of Antonello da Messina\u2019s most important and best-known works. It is a tremendous loss for the museum, the city, the community and the art world,\u201d MuMe director Marisa Mercurio said. Lynda Albertson, an art-crime analyst for the Association for Research into Crimes against Art, said the works will be difficult for thieves to sell because they are instantly recognizable. \u201cStealing an Antonello may be far easier than selling one. If these are ordinary thieves, they will soon discover that \u2014 to their cost,\u201d she said. She added that such famous artworks are often used as collateral for other illicit activity. In "
     },
     {
-     "outlet": "foxnews",
-     "title": "Hayden Panettiere dead at 36",
-     "url": "https://www.foxnews.com/entertainment/hayden-panettiere-dead-36",
+     "outlet": "guardian",
+     "title": "Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
+     "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
+     "author": "Lorenzo Tondo in Palermo",
+     "kind": "news",
+     "published": "2026-08-16T13:44:29+00:00",
+     "summary": "Theft of four works on national holiday described as wound to historical memory and cultural identity of city of Messina Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina. Thieves gained access to the Regional Museum of Messina , or MuMe, on Saturday evening, possibly capitalising on attention being focused on La Vara, a huge religious festival that takes place in the city on 15 August, when Italy marks the Ferragosto national holiday. Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+     "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-17T03:12:03+00:00",
-     "summary": "\"Nashville\" actress Hayden Panettiere died, her representative confirmed to Fox News Digital. She was 36. Circumstances surrounding her death were not immediately made available. \"It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her \u2013 and to the millions who watched her onscreen,\" her rep said in a statement provided to ABC News. \u2018SOPRANOS\u2019 STARS REUNITE IN EMOTIONAL FAREWELL FOR VINCENT PASTORE The New York native began acting at a young age, and was cast in \"One Life to Live\" when she was 4 years old. She found fame with a starring role alongside Denzel Washington in the 2000 classic, \"Remember the Titans.\" It was at the age of 15 when Panettiere remembered being offered \"happy pills,\" and her addiction to opioids and alcohol began. \u2018GODZILLA VS. KONG\u2019 ACTRESS KAYLEE HOTTLE CAUSE OF DEATH REVEALED \"They were to make me peppy during interviews,\" Panettiere told People in 2022. \"I had no idea that this was not an appropriate thing, or what door that would open for me when it came to my addiction.\" Panettiere noted that as her career skyrocketed,"
+     "published": "2026-08-16T13:34:38+00:00",
+     "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
     }
    ]
   },
@@ -658,9 +891,9 @@
      "abraham",
      "iran",
      "aboard",
-     "central",
      "command",
-     "aircraft"
+     "central",
+     "deployment"
     ],
     "indie": []
    },
@@ -920,153 +1153,6 @@
    ]
   },
   {
-   "id": "f784f37b2f",
-   "topic": "World",
-   "summary": "Trump\u2019s son-in-law and envoy held rare meeting with Hamas chief in Egypt in push for progress on ceasefire Donald Trump\u2019s son-in-law and envoy, Jared Kushner , held a rare meeting with Hamas \u2019s political chief on Sunday in Egypt , in a new diplomatic effort to make progress in the stalled Gaza ceasefire. Kushner will meet on Monday with Benjamin Netanyahu, who is under pressure after rejecting the new 15-point, US-backed road map. The talks aim to salvage the plan for Hamas to disarm and Israel to withdraw from the Palestinian territory shattered by war . Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "Iran war live: Tehran-US MoU set to expire; Hamas\u2019s al-Khayya meets Kushner",
-   "updated": "2026-08-17T00:00:35+00:00",
-   "outletCount": 6,
-   "counts": {
-    "pub": 3,
-    "nonprofit": 2,
-    "family": 1
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Iran war live: Tehran-US MoU set to expire; Hamas\u2019s al-Khayya meets Kushner",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T00:00:35+00:00",
-     "summary": "Hamas calls on Board of Peace to &#039;compel&#039; Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
-     "url": "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T22:07:32+00:00",
-     "summary": "Trump\u2019s son-in-law and envoy held rare meeting with Hamas chief in Egypt in push for progress on ceasefire Donald Trump\u2019s son-in-law and envoy, Jared Kushner , held a rare meeting with Hamas \u2019s political chief on Sunday in Egypt , in a new diplomatic effort to make progress in the stalled Gaza ceasefire. Kushner will meet on Monday with Benjamin Netanyahu, who is under pressure after rejecting the new 15-point, US-backed road map. The talks aim to salvage the plan for Hamas to disarm and Israel to withdraw from the Palestinian territory shattered by war . Continue reading..."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Kushner Meets With Hamas to Advance Trump\u2019s Gaza Plan",
-     "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
-     "author": "Aaron Boxerman and Zolan Kanno-Youngs",
-     "kind": "news",
-     "published": "2026-08-16T21:16:17+00:00",
-     "summary": "The president\u2019s son-in-law met the Palestinian militant group\u2019s leaders in Egypt, officials said. He will soon see Benjamin Netanyahu, the Israeli leader."
-    },
-    {
-     "outlet": "npr",
-     "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
-     "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T20:20:22+00:00",
-     "summary": "Jared Kushner, President Trump's son-in-law, held a rare meeting with Hamas leadership Sunday in Egypt, in a new diplomatic effort to make progress in the stalled Gaza ceasefire. (Image credit: Alex Brandon)"
-    },
-    {
-     "outlet": "bbc",
-     "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-     "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T19:58:14+00:00",
-     "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza."
-    },
-    {
-     "outlet": "dw",
-     "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
-     "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T17:31:00+00:00",
-     "summary": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators and Hamas in Egypt."
-    }
-   ]
-  },
-  {
-   "id": "13a67312a2",
-   "topic": "Other",
-   "summary": "Roberto Serra - Iguana Press / Roberto Serra, Getty Images Thieves stole four works by Sicilian Renaissance painter Antonello da Messina from the MuMe regional museum in Sicily during Ferragosto, a major Italian public holiday. On Saturday evening, just before 10 p.m., they evaded the museum\u2019s alarm and security systems and made off with three of the five surviving panels of the 1473 San Gregorio Polyptych, and a double-sided Virgin Mary and Piet\u00e0 panel taken from an armored display case, according to the news agency LaPresse. \u201cWe are devastated by what happened. They were two of Antonello da Messina\u2019s most important and best-known works. It is a tremendous loss for the museum, the city, the community and the art world,\u201d MuMe director Marisa Mercurio said. Lynda Albertson, an art-crime analyst for the Association for Research into Crimes against Art, said the works will be difficult for\u2026",
-   "summaryFrom": "dailybeast",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop"
-   ],
-   "headline": "Italy: Thieves steal key Renaissance paintings in Sicily",
-   "updated": "2026-08-16T19:18:00+00:00",
-   "outletCount": 5,
-   "counts": {
-    "pub": 2,
-    "nonprofit": 2,
-    "corp": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Italy: Thieves steal key Renaissance paintings in Sicily",
-     "url": "https://www.dw.com/en/italy-thieves-steal-key-renaissance-paintings-in-sicily/a-78389559?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T19:18:00+00:00",
-     "summary": "Four Renaissance paintings by Antonello da Messina were stolen from his Sicilian hometown on Saturday after surviving earthquakes and centuries of history. Crooks took them while locals celebrated a religious holiday."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Thieves steal 4 Renaissance artworks in a Sicilian museum heist during an Italian holiday",
-     "url": "https://www.pbs.org/newshour/arts/thieves-steal-4-renaissance-artworks-in-a-sicilian-museum-heist-during-an-italian-holiday",
-     "author": "Colleen Barry, Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T17:14:44+00:00",
-     "summary": "Art expert Alberto Fiz estimated the value of the stolen works at 70 million euros ($81 million) to 80 million euros ($92 million)."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Thieves Pull Off Brazen Heist of Renaissance Artworks in Sicily",
-     "url": "https://www.thedailybeast.com/thieves-steal-four-antonello-da-messina-works-from-sicily-museum/",
-     "author": "Lauren Hartley",
-     "kind": "news",
-     "published": "2026-08-16T14:27:52+00:00",
-     "summary": "Roberto Serra - Iguana Press / Roberto Serra, Getty Images Thieves stole four works by Sicilian Renaissance painter Antonello da Messina from the MuMe regional museum in Sicily during Ferragosto, a major Italian public holiday. On Saturday evening, just before 10 p.m., they evaded the museum\u2019s alarm and security systems and made off with three of the five surviving panels of the 1473 San Gregorio Polyptych, and a double-sided Virgin Mary and Piet\u00e0 panel taken from an armored display case, according to the news agency LaPresse. \u201cWe are devastated by what happened. They were two of Antonello da Messina\u2019s most important and best-known works. It is a tremendous loss for the museum, the city, the community and the art world,\u201d MuMe director Marisa Mercurio said. Lynda Albertson, an art-crime analyst for the Association for Research into Crimes against Art, said the works will be difficult for thieves to sell because they are instantly recognizable. \u201cStealing an Antonello may be far easier than selling one. If these are ordinary thieves, they will soon discover that \u2014 to their cost,\u201d she said. She added that such famous artworks are often used as collateral for other illicit activity. In "
-    },
-    {
-     "outlet": "guardian",
-     "title": "Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
-     "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
-     "author": "Lorenzo Tondo in Palermo",
-     "kind": "news",
-     "published": "2026-08-16T13:44:29+00:00",
-     "summary": "Theft of four works on national holiday described as wound to historical memory and cultural identity of city of Messina Four of the most important works of art by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina. Thieves gained access to the Regional Museum of Messina , or MuMe, on Saturday evening, possibly capitalising on attention being focused on La Vara, a huge religious festival that takes place in the city on 15 August, when Italy marks the Ferragosto national holiday. Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-     "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T13:34:38+00:00",
-     "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
-    }
-   ]
-  },
-  {
    "id": "4e3ba991db",
    "topic": "World",
    "summary": "People spend time near the river as a helicopter collects water to extinguish the fire that broke out in a distribution warehouse near Moscow, Russia, after Ukraine's drone attack on Aug. 16, 2026. \u2014Stringer/Anadolu\u2014Getty Images Ukraine launched one of its largest aerial assaults on Russia overnight on Saturday, firing on targets deep inside the country and killing at least six people, according to Russian authorities. Russia\u2019s defense ministry said it destroyed 822 drones. Sergei Sobyanin, the mayor of Moscow, said in a Telegram post that at least 600 drones were launched toward the capital city and that over a third were destroyed. The raid showcased the rapid advancement of Ukraine\u2019s drone and missile capabilities in recent months, which enabled it to strike deep inside Russian territory despite the country\u2019s advanced defense networks. Read More: Why It Is Time for the West to Crush\u2026",
@@ -1080,13 +1166,13 @@
    "updated": "2026-08-16T19:00:17+00:00",
    "outletCount": 5,
    "counts": {
-    "family": 2,
+    "family": 1,
     "nonprofit": 2,
-    "pub": 1
+    "pub": 2
    },
    "newsCount": 5,
    "opinionCount": 0,
-   "underreported": false,
+   "underreported": true,
    "articles": [
     {
      "outlet": "time",
@@ -1107,15 +1193,6 @@
      "summary": "Kyiv has stepped up its attacks on Russia this year, with long-range missiles and swarms of drones targeting military industries and energy facilities."
     },
     {
-     "outlet": "breitbart",
-     "title": "Ukraine Launches One of Its Largest Aerial Attacks of War, Killing at Least Six in Russia",
-     "url": "https://www.breitbart.com/europe/2026/08/16/ukraine-launches-one-of-its-largest-aerial-attacks-of-war-killing-at-least-six-in-russia/",
-     "author": "Breitbart London",
-     "kind": "news",
-     "published": "2026-08-16T11:05:26+00:00",
-     "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war. The post Ukraine Launches One of Its Largest Aerial Attacks of War, Killing at Least Six in Russia appeared first on Breitbart ."
-    },
-    {
      "outlet": "dw",
      "title": "Ukraine launches one of its largest attacks of war",
      "url": "https://www.dw.com/en/ukraine-launches-one-of-its-largest-attacks-of-war/a-78386779?maca=en-rss-en-all-1573-rdf",
@@ -1132,6 +1209,15 @@
      "kind": "news",
      "published": "2026-08-16T10:12:09+00:00",
      "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war. (Image credit: Francisco Seco)"
+    },
+    {
+     "outlet": "france24",
+     "title": "\ud83d\udd34 Live: Ukraine launches 600 drones at Russia, one of its largest aerial attacks of the war",
+     "url": "https://www.france24.com/en/europe/20260816-live-moscow-targeted-by-600-drones-overnight-explosions-heard-in-kyiv",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T09:53:40+00:00",
+     "summary": null
     }
    ]
   },
@@ -1205,6 +1291,186 @@
    ]
   },
   {
+   "id": "21b176eaf7",
+   "topic": "Health",
+   "summary": "The Ebola outbreak in the Democratic Republic of Congo spread to a sixth province as the overall death toll surpassed 2,100 and cases topped 4,500. Experts say the virus may have been transmitted undetected for months, while health workers have struggled to contain the outbreak with poor medical supplies and no approved vaccine for the new strain \u2014 though several are in the works. The head of the World Health Organization this week warned that the current outbreak threatens to be the biggest ever, with authorities playing catch-up to the disease after \u201c a big head start. \u201d During the previous deadliest outbreak, which killed 11,000 people between 2014 and 2016, authorities had recorded 755 cases at the same point . \u2014 Jeronimo Gonzalez",
+   "summaryFrom": "semafor",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Ebola outbreak in DR Congo becomes deadliest in its history",
+   "updated": "2026-08-17T04:41:31+00:00",
+   "outletCount": 4,
+   "counts": {
+    "pub": 2,
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
+     "url": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T04:41:31+00:00",
+     "summary": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Ebola outbreak in DR Congo becomes deadliest in country\u2019s history",
+     "url": "https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T01:41:40+00:00",
+     "summary": "A top UN official says &#039;speed, scale, and solidarity&#039; needed &#039;before this virus gets even further ahead of us&#039;."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Ebola outbreak in Democratic Republic of Congo now deadliest in country\u2019s history",
+     "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+     "author": "Nadeem Badshah",
+     "kind": "news",
+     "published": "2026-08-17T00:09:57+00:00",
+     "summary": "At least 2,325 people have been killed, according to government data, surpassing the death toll from 2018-20 outbreak The Ebola outbreak in the Democratic Republic of Congo is now the deadliest in the country\u2019s history with at least 2,325 people killed, according to government data, surpassing the toll from the 2018-20 outbreak. Congo\u2019s public health institute said on Sunday that confirmed cases had risen to 4,945, including 101 new cases detected in the previous 24 hours. Continue reading..."
+    },
+    {
+     "outlet": "semafor",
+     "title": "Ebola outbreak spreads to new province in DR Congo",
+     "url": "https://www.semafor.com/article/08/14/2026/ebola-outbreak-spreads-to-new-province-in-dr-congo",
+     "author": "Jeronimo Gonzalez",
+     "kind": "news",
+     "published": "2026-08-14T10:48:50+00:00",
+     "summary": "The Ebola outbreak in the Democratic Republic of Congo spread to a sixth province as the overall death toll surpassed 2,100 and cases topped 4,500. Experts say the virus may have been transmitted undetected for months, while health workers have struggled to contain the outbreak with poor medical supplies and no approved vaccine for the new strain \u2014 though several are in the works. The head of the World Health Organization this week warned that the current outbreak threatens to be the biggest ever, with authorities playing catch-up to the disease after \u201c a big head start. \u201d During the previous deadliest outbreak, which killed 11,000 people between 2014 and 2016, authorities had recorded 755 cases at the same point . \u2014 Jeronimo Gonzalez"
+    }
+   ]
+  },
+  {
+   "id": "add24b0459",
+   "topic": "Culture & Sport",
+   "summary": "Caitlin Clark and Angel Reese gave the WNBA an overtime thriller Sunday evening at State Farm Arena. Clark scored 26 points, hit two enormous free throws late in overtime and grabbed the game-sealing rebound as the Indiana Fever beat Reese and the Atlanta Dream, 95-91. ANGEL REESE\u2019S LATEST WNBA CONTROVERSY SHOWS HOW VICTIMHOOD BECAME CENTRAL TO HER BRAND It was a real team win for the Fever. But Clark and Reese were right in the middle of the biggest moments, including Reese\u2019s missed layup at the end of regulation that sent the game to overtime. Indiana had to earn it, too. The Fever trailed by eight after Atlanta scored 28 points in the third quarter to open a 72-64 advantage. But for a team known for its offensive firepower, it was Indiana\u2019s defense that made the clutch plays down the stretch. The Fever held the Dream to nine points in the fourth, outscored Atlanta 17-9 and forced\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Caitlin Clark Goes Viral for This Reaction to Angel Reese Missing Game-Winning Layup",
+   "updated": "2026-08-17T03:23:42+00:00",
+   "outletCount": 4,
+   "counts": {
+    "family": 3,
+    "corp": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "Caitlin Clark Goes Viral for This Reaction to Angel Reese Missing Game-Winning Layup",
+     "url": "https://www.breitbart.com/sports/2026/08/16/caitlin-clark-goes-viral-this-reaction-angel-reese-missing-game-winning-layup/",
+     "author": "Paul Bois",
+     "kind": "news",
+     "published": "2026-08-17T03:23:42+00:00",
+     "summary": "Indiana Fever star Caitlin Clark went viral on social media Sunday night after video captured her laughing behind a frustrated Angel Reese. The post Caitlin Clark Goes Viral for This Reaction to Angel Reese Missing Game-Winning Layup appeared first on Breitbart ."
+    },
+    {
+     "outlet": "nypost",
+     "title": "Caitlin Clark caught smiling with Angel Reese in anguish over missing potential game-winning layup",
+     "url": "https://nypost.com/2026/08/16/sports/caitlin-clark-caught-smiling-after-angel-reese-misses-layup/",
+     "author": "Joseph Staszewski",
+     "kind": "news",
+     "published": "2026-08-17T02:49:56+00:00",
+     "summary": "Maybe it was relief from Caitlin Clark. Maybe it was disbelief. Or maybe it was something different altogether."
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Caitlin Clark Laughs at Angel Reese After Blowing Game-Winning Layup",
+     "url": "https://www.newsweek.com/caitlin-clark-laughs-at-angel-reese-after-blowing-game-winning-layup-12329781",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T01:37:54+00:00",
+     "summary": "After watching Angel Reese blow a chance to beat the Fever, cameras caught Caitlin Clark enjoying a good laugh immediately after."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Caitlin Clark and Angel Reese rivalry gets a new chapter in Fever-Dream overtime thriller",
+     "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-angel-reese-rivalry-new-chapter-fever-dream-overtime-thriller",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T00:17:30+00:00",
+     "summary": "Caitlin Clark and Angel Reese gave the WNBA an overtime thriller Sunday evening at State Farm Arena. Clark scored 26 points, hit two enormous free throws late in overtime and grabbed the game-sealing rebound as the Indiana Fever beat Reese and the Atlanta Dream, 95-91. ANGEL REESE\u2019S LATEST WNBA CONTROVERSY SHOWS HOW VICTIMHOOD BECAME CENTRAL TO HER BRAND It was a real team win for the Fever. But Clark and Reese were right in the middle of the biggest moments, including Reese\u2019s missed layup at the end of regulation that sent the game to overtime. Indiana had to earn it, too. The Fever trailed by eight after Atlanta scored 28 points in the third quarter to open a 72-64 advantage. But for a team known for its offensive firepower, it was Indiana\u2019s defense that made the clutch plays down the stretch. The Fever held the Dream to nine points in the fourth, outscored Atlanta 17-9 and forced overtime. It was the lowest fourth-quarter scoring output for the Dream this season. But it almost didn't matter. The Dream had the ball in the final seconds of regulation with the score tied 81-81. Rhyne Howard missed a 3 with 5.5 seconds left, but Reese grabbed the offensive rebound and had a clean lo"
+    }
+   ]
+  },
+  {
+   "id": "dc3feadc64",
+   "topic": "World",
+   "summary": "Israeli settlers run as they are chased by an Israeli military vehicle around Palestinian houses in the village of Qusra, south of Nablus, in the occupied West Bank, on Aug. 13, 2026. Photo by Zain Jaafar/AFP via Getty Images US Ambassador Mike Huckabee called settlers besieging a Palestinian American home in the occupied West Bank &#8220; Israeli terrorists .&#8221; It&#8217;s a welcome, rare rebuke from a U.S. official, but what kind of weight does it really have when the same official has been a long-time supporter of Israeli settlements? It wasn&#8217;t that long ago that Huckabee made similar comments about settler violence gripping the Palestinian Christian village of Taybeh , where attacks continue, or the settlers who beat Palestinian American Sayfollah Musallet to death (no one has been held accountable). Subscribe now What kind of weight do Huckabee&#8217;s comments really\u2026",
+   "summaryFrom": "zeteo",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family"
+   ],
+   "headline": "UN\u2019s Albanese: Israel outsourcing coercion to settlers in West Bank",
+   "updated": "2026-08-16T23:58:45+00:00",
+   "outletCount": 4,
+   "counts": {
+    "pub": 2,
+    "coop": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "UN\u2019s Albanese: Israel outsourcing coercion to settlers in West Bank",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/uns-albanese-israel-outsourcing-coercion-to-settlers-in-west-bank?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T23:58:45+00:00",
+     "summary": "UN Special Rapporteur Francesca Albanese says Israel bears responsibility and is outsourcing coercion to settlers."
+    },
+    {
+     "outlet": "france24",
+     "title": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
+     "url": "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-16T12:02:18+00:00",
+     "summary": "A solar eclipse seen across parts of Europe, ongoing search-and-rescue efforts in Colombia after a devastating earthquake killed at least 300 people and left hundreds missing, and escalating violence by Israeli settlers in the occupied West Bank, condemned by the US ambassador to Israel as \"acts of terror\": FRANCE 24 takes a look at the week's most striking images."
+    },
+    {
+     "outlet": "zeteo",
+     "title": "This Week in Palestine: Israel Shoots 13-Year-Old as She \u2018Memorized the Quran\u2019 and Settlers Besiege Palestinian Families",
+     "url": "https://zeteo.com/p/this-week-in-palestine-israel-shoots",
+     "author": "Team Zeteo",
+     "kind": "news",
+     "published": "2026-08-15T17:01:34+00:00",
+     "summary": "Israeli settlers run as they are chased by an Israeli military vehicle around Palestinian houses in the village of Qusra, south of Nablus, in the occupied West Bank, on Aug. 13, 2026. Photo by Zain Jaafar/AFP via Getty Images US Ambassador Mike Huckabee called settlers besieging a Palestinian American home in the occupied West Bank &#8220; Israeli terrorists .&#8221; It&#8217;s a welcome, rare rebuke from a U.S. official, but what kind of weight does it really have when the same official has been a long-time supporter of Israeli settlements? It wasn&#8217;t that long ago that Huckabee made similar comments about settler violence gripping the Palestinian Christian village of Taybeh , where attacks continue, or the settlers who beat Palestinian American Sayfollah Musallet to death (no one has been held accountable). Subscribe now What kind of weight do Huckabee&#8217;s comments really have when, hours after using the phrase &#8220;Israeli terrorists,&#8221; he called the settlers &#8220; illegal trespassers &#8221; instead? Or when he defended the vast majority of settlers, saying they aren&#8217;t the problem, the &#8220; unsettlers &#8221; are, even though the settlements themselve"
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+     "url": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+     "author": "Emma Graham-Harrison in Jerusalem",
+     "kind": "news",
+     "published": "2026-08-14T17:52:51+00:00",
+     "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading..."
+    }
+   ]
+  },
+  {
    "id": "6bf5e6b886",
    "topic": "Justice & Policing",
    "summary": "Border security tightened after social media posts call for another mass crossing into Spain\u2019s north African territory Moroccan police have arrested 111 people as they tried to enter Spain\u2019s north African territory of Ceuta, amid \u2060tightened security on both sides after social media posts \u200bcalled for another mass crossing. The attempted crossing on Saturday came two weeks after more than 72,000 migrants surged into Ceuta , causing tensions within the EU and prompting anti-immigration rhetoric among far-right parties worldwide. At least 96 people died trying to \u2060reach European soil. Continue reading...",
@@ -1265,110 +1531,8 @@
    ]
   },
   {
-   "id": "9b0c8a01c0",
-   "topic": "Culture & Sport",
-   "summary": "Caitlin Clark and Angel Reese gave the WNBA an overtime thriller Sunday evening at State Farm Arena. Clark scored 26 points, hit two enormous free throws late in overtime and grabbed the game-sealing rebound as the Indiana Fever beat Reese and the Atlanta Dream, 95-91. ANGEL REESE\u2019S LATEST WNBA CONTROVERSY SHOWS HOW VICTIMHOOD BECAME CENTRAL TO HER BRAND It was a real team win for the Fever. But Clark and Reese were right in the middle of the biggest moments, including Reese\u2019s missed layup at the end of regulation that sent the game to overtime. Indiana had to earn it, too. The Fever trailed by eight after Atlanta scored 28 points in the third quarter to open a 72-64 advantage. But for a team known for its offensive firepower, it was Indiana\u2019s defense that made the clutch plays down the stretch. The Fever held the Dream to nine points in the fourth, outscored Atlanta 17-9 and forced\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Caitlin Clark caught smiling with Angel Reese in anguish over missing potential game-winning layup",
-   "updated": "2026-08-17T02:49:56+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 2,
-    "corp": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Caitlin Clark caught smiling with Angel Reese in anguish over missing potential game-winning layup",
-     "url": "https://nypost.com/2026/08/16/sports/caitlin-clark-caught-smiling-after-angel-reese-misses-layup/",
-     "author": "Joseph Staszewski",
-     "kind": "news",
-     "published": "2026-08-17T02:49:56+00:00",
-     "summary": "Maybe it was relief from Caitlin Clark. Maybe it was disbelief. Or maybe it was something different altogether."
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Caitlin Clark Laughs at Angel Reese After Blowing Game-Winning Layup",
-     "url": "https://www.newsweek.com/caitlin-clark-laughs-at-angel-reese-after-blowing-game-winning-layup-12329781",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T01:37:54+00:00",
-     "summary": "After watching Angel Reese blow a chance to beat the Fever, cameras caught Caitlin Clark enjoying a good laugh immediately after."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Caitlin Clark and Angel Reese rivalry gets a new chapter in Fever-Dream overtime thriller",
-     "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-angel-reese-rivalry-new-chapter-fever-dream-overtime-thriller",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T00:17:30+00:00",
-     "summary": "Caitlin Clark and Angel Reese gave the WNBA an overtime thriller Sunday evening at State Farm Arena. Clark scored 26 points, hit two enormous free throws late in overtime and grabbed the game-sealing rebound as the Indiana Fever beat Reese and the Atlanta Dream, 95-91. ANGEL REESE\u2019S LATEST WNBA CONTROVERSY SHOWS HOW VICTIMHOOD BECAME CENTRAL TO HER BRAND It was a real team win for the Fever. But Clark and Reese were right in the middle of the biggest moments, including Reese\u2019s missed layup at the end of regulation that sent the game to overtime. Indiana had to earn it, too. The Fever trailed by eight after Atlanta scored 28 points in the third quarter to open a 72-64 advantage. But for a team known for its offensive firepower, it was Indiana\u2019s defense that made the clutch plays down the stretch. The Fever held the Dream to nine points in the fourth, outscored Atlanta 17-9 and forced overtime. It was the lowest fourth-quarter scoring output for the Dream this season. But it almost didn't matter. The Dream had the ball in the final seconds of regulation with the score tied 81-81. Rhyne Howard missed a 3 with 5.5 seconds left, but Reese grabbed the offensive rebound and had a clean lo"
-    }
-   ]
-  },
-  {
-   "id": "a74c428d69",
-   "topic": "Health",
-   "summary": "The Ebola outbreak in the Democratic Republic of Congo spread to a sixth province as the overall death toll surpassed 2,100 and cases topped 4,500. Experts say the virus may have been transmitted undetected for months, while health workers have struggled to contain the outbreak with poor medical supplies and no approved vaccine for the new strain \u2014 though several are in the works. The head of the World Health Organization this week warned that the current outbreak threatens to be the biggest ever, with authorities playing catch-up to the disease after \u201c a big head start. \u201d During the previous deadliest outbreak, which killed 11,000 people between 2014 and 2016, authorities had recorded 755 cases at the same point . \u2014 Jeronimo Gonzalez",
-   "summaryFrom": "semafor",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "Ebola outbreak in DR Congo becomes deadliest in country\u2019s history",
-   "updated": "2026-08-17T01:41:40+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 1,
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Ebola outbreak in DR Congo becomes deadliest in country\u2019s history",
-     "url": "https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T01:41:40+00:00",
-     "summary": "A top UN official says &#039;speed, scale, and solidarity&#039; needed &#039;before this virus gets even further ahead of us&#039;."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Ebola outbreak in Democratic Republic of Congo now deadliest in country\u2019s history",
-     "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
-     "author": "Nadeem Badshah",
-     "kind": "news",
-     "published": "2026-08-17T00:09:57+00:00",
-     "summary": "At least 2,325 people have been killed, according to government data, surpassing the death toll from 2018-20 outbreak The Ebola outbreak in the Democratic Republic of Congo is now the deadliest in the country\u2019s history with at least 2,325 people killed, according to government data, surpassing the toll from the 2018-20 outbreak. Congo\u2019s public health institute said on Sunday that confirmed cases had risen to 4,945, including 101 new cases detected in the previous 24 hours. Continue reading..."
-    },
-    {
-     "outlet": "semafor",
-     "title": "Ebola outbreak spreads to new province in DR Congo",
-     "url": "https://www.semafor.com/article/08/14/2026/ebola-outbreak-spreads-to-new-province-in-dr-congo",
-     "author": "Jeronimo Gonzalez",
-     "kind": "news",
-     "published": "2026-08-14T10:48:50+00:00",
-     "summary": "The Ebola outbreak in the Democratic Republic of Congo spread to a sixth province as the overall death toll surpassed 2,100 and cases topped 4,500. Experts say the virus may have been transmitted undetected for months, while health workers have struggled to contain the outbreak with poor medical supplies and no approved vaccine for the new strain \u2014 though several are in the works. The head of the World Health Organization this week warned that the current outbreak threatens to be the biggest ever, with authorities playing catch-up to the disease after \u201c a big head start. \u201d During the previous deadliest outbreak, which killed 11,000 people between 2014 and 2016, authorities had recorded 755 cases at the same point . \u2014 Jeronimo Gonzalez"
-    }
-   ]
-  },
-  {
-   "id": "ecd8b48fe9",
-   "topic": "Justice & Policing",
+   "id": "7aed4eab95",
+   "topic": "Business & Economy",
    "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions\u2026",
    "summaryFrom": "reason",
    "emphasis": null,
@@ -1377,12 +1541,12 @@
     "family",
     "coop"
    ],
-   "headline": "Israeli settlers pitch tents for new illegal outpost in occupied West Bank",
-   "updated": "2026-08-17T01:28:13+00:00",
+   "headline": "Palestinian-American travels to West Bank home encircled by Israeli settler",
+   "updated": "2026-08-17T03:41:30+00:00",
    "outletCount": 3,
    "counts": {
-    "pub": 1,
-    "nonprofit": 2
+    "pub": 2,
+    "nonprofit": 1
    },
    "newsCount": 2,
    "opinionCount": 1,
@@ -1390,12 +1554,21 @@
    "articles": [
     {
      "outlet": "aljazeera",
-     "title": "Israeli settlers pitch tents for new illegal outpost in occupied West Bank",
-     "url": "https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss",
+     "title": "Palestinian-American travels to West Bank home encircled by Israeli settler",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-17T01:28:13+00:00",
-     "summary": "UN Special Rapporteur Albanese warns that Israel is &#039;using settlers to advance ethnic cleansing&#039; in the West Bank."
+     "published": "2026-08-17T03:41:30+00:00",
+     "summary": "Palestinian-American Loui Ridi is flying from the US to Qusra, where Israeli settlers have encircled his family\u2019s home."
+    },
+    {
+     "outlet": "france24",
+     "title": "West Bank: Activist recounts life under settler siege in Qusra",
+     "url": "https://www.france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T14:38:57+00:00",
+     "summary": "A week after Israeli settlers began besieging Palestinian homes in the West Bank village of Qusra, human rights activist Netanael Hanadaro joined FRANCE 24 to recount what he witnessed there. He said he and other NGO members reached the isolated homes on foot and left food outside for the trapped residents, with the Israeli army saying it would deliver the supplies. Hanadaro described an extraordinary situation in which the homes, located on the outskirts of the village, have been surrounded by settlers while the army works to prevent clashes between the settlers and activists."
     },
     {
      "outlet": "reason",
@@ -1405,15 +1578,57 @@
      "kind": "opinion",
      "published": "2026-08-15T22:17:52+00:00",
      "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions are deeply unjust, amounting to ethnic cleansing and gross violations of private property rights. They also highlight broader dangers of ethno-nationalist claims to exclusive control over land. The Times of Israel (a center-right Israeli publication) has a helpful overview of the recent settler violenc"
+    }
+   ]
+  },
+  {
+   "id": "d9cf8bfcd2",
+   "topic": "Other",
+   "summary": "\"Nashville\" actress Hayden Panettiere died, her representative confirmed to Fox News Digital. She was 36. Circumstances surrounding her death were not immediately made available. \"It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her \u2013 and to the millions who watched her onscreen,\" her rep said in a statement provided to ABC News. \u2018SOPRANOS\u2019 STARS REUNITE IN EMOTIONAL FAREWELL FOR VINCENT PASTORE The New York native began acting at a young age, and was cast in \"One Life to Live\" when she was 4 years old. She found fame with a starring role alongside Denzel Washington in the 2000 classic, \"Remember the Titans.\" It was at the age of 15 when Panettiere remembered being offered \"happy pills,\" and her addiction to opioids and alcohol began. \u2018GODZILLA VS.\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Hayden Panettiere dead at 36",
+   "updated": "2026-08-17T03:12:03+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 3
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "Hayden Panettiere dead at 36",
+     "url": "https://www.foxnews.com/entertainment/hayden-panettiere-dead-36",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T03:12:03+00:00",
+     "summary": "\"Nashville\" actress Hayden Panettiere died, her representative confirmed to Fox News Digital. She was 36. Circumstances surrounding her death were not immediately made available. \"It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her \u2013 and to the millions who watched her onscreen,\" her rep said in a statement provided to ABC News. \u2018SOPRANOS\u2019 STARS REUNITE IN EMOTIONAL FAREWELL FOR VINCENT PASTORE The New York native began acting at a young age, and was cast in \"One Life to Live\" when she was 4 years old. She found fame with a starring role alongside Denzel Washington in the 2000 classic, \"Remember the Titans.\" It was at the age of 15 when Panettiere remembered being offered \"happy pills,\" and her addiction to opioids and alcohol began. \u2018GODZILLA VS. KONG\u2019 ACTRESS KAYLEE HOTTLE CAUSE OF DEATH REVEALED \"They were to make me peppy during interviews,\" Panettiere told People in 2022. \"I had no idea that this was not an appropriate thing, or what door that would open for me when it came to my addiction.\" Panettiere noted that as her career skyrocketed,"
     },
     {
-     "outlet": "guardian",
-     "title": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
-     "url": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
-     "author": "Emma Graham-Harrison in Jerusalem",
+     "outlet": "nypost",
+     "title": "Hayden Panettiere, star of \u2018Heroes\u2019 and \u2018Nashville,\u2019 dead at 36",
+     "url": "https://nypost.com/2026/08/16/us-news/actress-hayden-panettiere-dead-at-36-report/",
+     "author": "Ariel Zilber",
      "kind": "news",
-     "published": "2026-08-14T17:52:51+00:00",
-     "summary": "Palestine\u2019s vice-president calls plan \u2018flagrant violation of international law\u2019 and a step towards full Israeli annexation Israel\u2019s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine\u2019s vice-president described as a \u201cflagrant violation of international law\u201d and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army\u2019s failure to tackle militants besieging three Palestinian families . Continue reading..."
+     "published": "2026-08-17T03:08:33+00:00",
+     "summary": "\"She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her -- and to the millions who watched her onscreen,\" her father said in a statement."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Actress Hayden Panetierre Dead At 36",
+     "url": "https://www.dailywire.com/news/actress-hayden-panetierre-dead-at-36",
+     "author": "Virginia Kruta",
+     "kind": "opinion",
+     "published": "2026-08-16T23:36:31+00:00",
+     "summary": "Actress Hayden Panettierre, best known for roles in &#8220;Nashville&#8221; and the NBC drama &#8220;Heroes,&#8221; has died at the age of 36. A representative for the actress confirmed the news on Sunday in a statement delivered first to ABC News: &#8220;It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her \u2014 and to the millions who watched her onscreen.&#8221; Panettierre had been very open in recent years about her history of substance abuse and her battle with postpartum depression \u2014 and had just published her memoir, &#8220;This Is Me: A Reckoning,&#8221; in May. The actress was raised in New York by her parents, actress and producer Lesley Vogel and Alan Lee \u201cSkip\u201d Panettiere, a retired New York City Fire Department captain \u2014 and she landed her first acting gig at just 11-months old. &#8220;My introduction to acting was actually at 11 months old,&#8221; Panettierre said during a 2023 interview with Entertainment Tonight , referencing a Playskool Toy Train commercial. &#8220;I don\u2019t know if that would really be an introduction to acting, bec"
     }
    ]
   },
@@ -1469,6 +1684,57 @@
    ]
   },
   {
+   "id": "e3ca7d9791",
+   "topic": "World",
+   "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "South Lebanon: How will Israeli strikes affect negotiations?",
+   "updated": "2026-08-17T00:01:10+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 1,
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bloomberg",
+     "title": "Israel Strikes Lebanon as US Prepares New Iran Sanctions",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-17/israel-strikes-lebanon-as-us-prepares-new-iran-sanctions-video",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T00:01:10+00:00",
+     "summary": "Lebanon saw its deadliest day of fighting in months, heaping pressure on stalled US-Iran negotiations while Washington preps fresh sanctions. Bloomberg's Wendy Benjaminson has the latest. (Source: Bloomberg)"
+    },
+    {
+     "outlet": "france24",
+     "title": "South Lebanon: How will Israeli strikes affect negotiations?",
+     "url": "https://www.france24.com/en/south-lebanon-how-will-israeli-strikes-affect-negotiations",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-16T13:00:14+00:00",
+     "summary": "Israel killed 11 people in strikes on southern Lebanon on Saturday, in what has been described as the biggest threat to the peace talks since the June agreement. Ziad Majed, Professor of Middle East Studies at the American University of Paris, spoke to FRANCE 24 about the potential impact of the strikes on the negotiations underway in Rome, the role of the United States, and Israel's policy towards Lebanon and especially Hezbollah."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
+     "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
+     "author": "William Christou",
+     "kind": "news",
+     "published": "2026-08-15T13:55:28+00:00",
+     "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading..."
+    }
+   ]
+  },
+  {
    "id": "aeb720edce",
    "topic": "Health",
    "summary": "House Minority Leader Hakeem Jeffries, D-N.Y., rejected support for Medicare for All and the Democratic Socialists of America's (DSA) agenda Sunday, saying Democrats should prioritize affordability as they seek to recapture the House in November following a wave of progressive primary victories. \"Meet the Press,\" host Kristen Welker asked Jeffries directly whether he personally supported Medicare for All. \"No, i \u2014 as you indicated, I haven\u2019t cosponsored the Medicare for All legislation that has been introduced over the last several years,\" Jeffries said. \"I do think we need to figure out how to fix our broken health care system and then build something better once we repair the damage that has been done.\" Jeffries also said that as the Democratic leader in the House, it was not legislation he supported, while also reiterating that he wanted to find a path to fix the health care system\u2026",
@@ -1516,6 +1782,57 @@
      "kind": "opinion",
      "published": "2026-08-16T13:00:37+00:00",
      "summary": "House Minority Leader Hakeem Jeffries (D-NY) drew a sharp distinction Sunday between the Democratic Party and the agenda of the Democratic Socialists of America, saying he does not support the organization\u2019s positions on issues including policing, immigration and the Senate. \u201cI don\u2019t support the DSA agenda as has been articulated by the DSA itself,\u201d Jeffries said during an appearance on NBC\u2019s \u201cMeet the Press.\u201d His comments came the same morning Chicago Mayor Rahm Emanuel, a potential 2028 presidential candidate, told CBS News that progressives should not use the Democratic Party as a vehicle because &#8220;they&#8217;re a separate party&#8221; \u2014 adding, in nearly the same construction Jeffries would use, &#8220;I don&#8217;t believe in defunding police. I don&#8217;t believe in open borders.&#8221; \u201cI do not support defunding the police. I do not support open borders. I do not support abolishing the Senate,\u201d Jeffries said. Instead, Jeffries said House Democrats are focused on what he described as the \u201cDemocratic agenda\u201d: lowering the cost of living, making housing and health care more affordable and addressing the affordability crisis. His comments come as Democratic socialists and"
+    }
+   ]
+  },
+  {
+   "id": "0a7f45b01e",
+   "topic": "Other",
+   "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Death toll rises to 84 from capsized ferry in Zimbabwe",
+   "updated": "2026-08-16T21:03:53+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Death toll rises to 84 from capsized ferry in Zimbabwe",
+     "url": "https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T21:03:53+00:00",
+     "summary": "The boat overturned during heavy winds near the Zambian border."
+    },
+    {
+     "outlet": "france24",
+     "title": "Death toll from Zimbabwe capsized ferry accident rises to 84",
+     "url": "https://www.france24.com/en/africa/20260816-death-toll-from-zimbabwe-capsized-ferry-accident-rises-to-80",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-16T14:01:56+00:00",
+     "summary": "Rescue workers recovered more bodies on Sunday following a ferry capsizing accident that occured earlier this week on Lake Kariba in Zimbabwe, bringing the death toll to at least 84. The search continues, as authorities fear the number of casualties could rise even further."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+     "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+     "author": "Nadeem Badshah",
+     "kind": "news",
+     "published": "2026-08-15T19:39:07+00:00",
+     "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading..."
     }
    ]
   },
@@ -1630,10 +1947,10 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "early",
+     "wounded",
      "near",
-     "erupted",
-     "wounded"
+     "early",
+     "erupted"
     ],
     "indie": []
    },
@@ -1896,57 +2213,6 @@
    ]
   },
   {
-   "id": "8c91f091b7",
-   "topic": "Health",
-   "summary": "Jason Arday, the Cambridge professor who resigned nine days ago over plagiarism allegations, was found dead in his London home. Authorities said in a statement that an ambulance was called to his residence after Arday had been found &#8220;unresponsive.&#8221; He was pronounced dead at the scene. Police added that the death was being treated as \u201cunexpected\u201d but is not believed to be suspicious, according to The Telegraph. Just nine days ago, Cambridge launched an investigation into Arday. \u201cThe University of Cambridge has begun an investigation following new information about Professor Arday\u2019s academic qualifications and honorary appointments,\u201d the statement from the university said. \u201cIn order to ensure a fair process, we will not comment further until this has concluded.&#8221; Cambridge was not initially keen on opening an investigation. Cambridge said Arday was \u201cthe victim of a vile\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "Cambridge University defends its mental health support for Jason Arday",
-   "updated": "2026-08-16T14:09:13+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 1,
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Cambridge University defends its mental health support for Jason Arday",
-     "url": "https://www.theguardian.com/uk-news/2026/aug/16/cambridge-university-jason-arday-mental-health-support",
-     "author": "Rachel Hall",
-     "kind": "news",
-     "published": "2026-08-16T14:09:13+00:00",
-     "summary": "University says it continued to provide support after resignation of academic, who was found dead on Friday The University of Cambridge has defended its mental health support for the academic Jason Arday. The university said it had continued to provide Arday with extensive mental health support and security measures, including installing panic alarms and screening racist emails and post, after he resigned from his post as professor of sociology of education this month. Continue reading..."
-    },
-    {
-     "outlet": "dw",
-     "title": "Jason Arday: Ex-Cambridge professor at centre of plagiarism scandal found dead",
-     "url": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T20:03:00+00:00",
-     "summary": "Jason Arday, the youngest ever Black professor at Cambridge, was found unresponsive at an address in London. Arday had recently resigned in the midst of a plagiarism row."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Professor Recently Outed For Fraudulent Biography Found Dead",
-     "url": "https://www.dailywire.com/news/professor-recently-outed-for-fraudulent-biography-found-dead",
-     "author": "Brecca Stoll",
-     "kind": "opinion",
-     "published": "2026-08-14T16:57:09+00:00",
-     "summary": "Jason Arday, the Cambridge professor who resigned nine days ago over plagiarism allegations, was found dead in his London home. Authorities said in a statement that an ambulance was called to his residence after Arday had been found &#8220;unresponsive.&#8221; He was pronounced dead at the scene. Police added that the death was being treated as \u201cunexpected\u201d but is not believed to be suspicious, according to The Telegraph. Just nine days ago, Cambridge launched an investigation into Arday. \u201cThe University of Cambridge has begun an investigation following new information about Professor Arday\u2019s academic qualifications and honorary appointments,\u201d the statement from the university said. \u201cIn order to ensure a fair process, we will not comment further until this has concluded.&#8221; Cambridge was not initially keen on opening an investigation. Cambridge said Arday was \u201cthe victim of a vile campaign to undermine his credibility, which must stop.\u201d The school began to change its tune when reports emerged that Arday had filed a harassment claim against a journalist who was investigating his work. The day that Cambridge announced its investigation, Arday resigned. \u201cI no longer wish to feel a"
-    }
-   ]
-  },
-  {
    "id": "c26019a127",
    "topic": "Justice & Policing",
    "summary": "CBS News chief correspondent Matt Gutman is facing sexual harassment allegations in a lawsuit filed by a former ABC News colleague, who claims he made inappropriate sexual remarks on two assignments during his time at that network. Former ABC News field producer Samira Said named Gutman, ABC News and parent company The Walt Disney Co. as defendants in the suit filed Friday in Los Angeles Superior Court. Said, who worked in ABC&#8217;s Los Angeles bureau from May 2021 until March 2025, alleges discrimination, hostile work environment harassment, retaliation, failure to accommodate her medical conditions and wrongful termination. Said alleges she was &#8220;placed on a male-only team including on-air correspondent Matt Gutman&#8221; and two other male crew members. &#8220;While the team waited in a public queue during the assignment, Gutman initiated a discussion rating a female\u2026",
@@ -1998,57 +2264,6 @@
    ]
   },
   {
-   "id": "0cc3e20e8a",
-   "topic": "World",
-   "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-   "updated": "2026-08-15T20:21:14+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-     "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T20:21:14+00:00",
-     "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
-    },
-    {
-     "outlet": "dw",
-     "title": "Lebanon says 11 killed in Israeli airstrikes",
-     "url": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T15:35:00+00:00",
-     "summary": "Lebanon's prime minister denounced the attacks on villages in southern Lebanon for targeting civilians in their homes. Israel said it was firing on Hezbollah infrastructure."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
-     "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
-     "author": "William Christou",
-     "kind": "news",
-     "published": "2026-08-15T13:55:28+00:00",
-     "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading..."
-    }
-   ]
-  },
-  {
    "id": "de3990c6ff",
    "topic": "Politics",
    "summary": "Former Rep. Mary Peltola\u2019s (D-AK) Senate campaign made clear this week that it wants nothing to do with former Vice President Kamala Harris\u2019s message of support. On Wednesday, Harris\u2019s Fight for the People PAC sent an email urging supporters to \u201cstand behind Mary,\u201d The New York Times reported . It called the Alaska contest a \u201cmust-win race\u201d for Democrats hoping to retake the Senate and declared, \u201cIf there\u2019s anyone who can flip Alaska and secure the Senate majority for Democrats \u2014 it\u2019s Mary.\u201d The message linked to a page asking donors to split contributions between Peltola\u2019s campaign and Harris\u2019s own committee. Peltola\u2019s team responded immediately. The campaign said it had not approved the email and had no knowledge of it before it went out. \u201cMary isn\u2019t seeking endorsements from anyone from the Lower 48 \u2014 her focus is and always will be Alaska,\u201d the statement read, citing support she has\u2026",
@@ -2096,6 +2311,75 @@
      "kind": "news",
      "published": "2026-08-15T11:00:46+00:00",
      "summary": "High-profile Democrats aren't backing off their support for Maine Senate candidate Troy Jackson following reports he fathered children with his cousin. Former Democratic National Committee Chairwoman Donna Brazile was among the chorus of party voices throwing cold water on the claims about Jackson in a scandal-plagued Senate race that was already upended after former far-left candidate Graham Platner dropped out earlier this summer after a series of controversies that culminated in a rape allegation. Now, Jackson is facing even more turmoil with the most recent revelations of a 1988 police report accusing him of assault. \"There\u2019s a lot of people who are doing a lot of gossip as news, and I don't want to break news that might not be true \u2014 especially on something so personal \u2014 that's not what I do,\" Brazile told Fox News Digital when asked about a report Jackson had two children with his cousin and longtime partner Lana Pelletier. INTERNET ERUPTS OVER REPORT THAT PLATNER'S REPLACEMENT IN KEY SENATE RACE FATHERED CHILDREN WITH SECOND COUSIN Jackson became the Democrat nominee for Senate in Maine despite Platner winning the June 9 primary race. Platner formally dropped out on July 10,"
+    }
+   ]
+  },
+  {
+   "id": "cc0f5a9b70",
+   "topic": "Politics",
+   "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 2,
+    "big": [],
+    "indie": [
+     "address",
+     "black",
+     "youngest"
+    ]
+   },
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "UK's leader calls for reflection after the death of former Cambridge professor accused of plagiarism",
+   "updated": "2026-08-15T17:48:50+00:00",
+   "outletCount": 3,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 1,
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 2,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "pbsnewshour",
+     "title": "UK's leader calls for reflection after the death of former Cambridge professor accused of plagiarism",
+     "url": "https://www.pbs.org/newshour/world/uks-leader-calls-for-reflection-after-the-death-of-former-cambridge-professor-accused-of-plagiarism",
+     "author": "Sylvia Hui, Associated Press",
+     "kind": "news",
+     "published": "2026-08-15T17:48:50+00:00",
+     "summary": "Jason Arday, who became Cambridge's youngest Black professor in 2023, was found dead inside an address in south London on Friday."
+    },
+    {
+     "outlet": "dw",
+     "title": "Jason Arday: Ex-Cambridge professor at centre of plagiarism scandal found dead",
+     "url": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-14T20:03:00+00:00",
+     "summary": "Jason Arday, the youngest ever Black professor at Cambridge, was found unresponsive at an address in London. Arday had recently resigned in the midst of a plagiarism row."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Family Of Ex-Cambridge Professor Blames \u2018Campaign Of Misinformation\u2019 For His Death",
+     "url": "https://www.dailywire.com/news/family-of-ex-cambridge-professor-blames-campaign-of-misinformation-for-his-death",
+     "author": "Virginia Kruta",
+     "kind": "opinion",
+     "published": "2026-08-14T19:16:44+00:00",
+     "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too long.&#8221; Arday, 41, was found unresponsive in his South London home on Friday \u2014 just over a week after he left his position at the prestigious university. Prior to leaving his post, he&#8217;d been accused of plagiarism and of embellishing his life story ahead of the release of his memoir, &#8220;Great a"
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Professor Recently Outed For Fraudulent Biography Found Dead",
+     "url": "https://www.dailywire.com/news/professor-recently-outed-for-fraudulent-biography-found-dead",
+     "author": "Brecca Stoll",
+     "kind": "opinion",
+     "published": "2026-08-14T16:57:09+00:00",
+     "summary": "Jason Arday, the Cambridge professor who resigned nine days ago over plagiarism allegations, was found dead in his London home. Authorities said in a statement that an ambulance was called to his residence after Arday had been found &#8220;unresponsive.&#8221; He was pronounced dead at the scene. Police added that the death was being treated as \u201cunexpected\u201d but is not believed to be suspicious, according to The Telegraph. Just nine days ago, Cambridge launched an investigation into Arday. \u201cThe University of Cambridge has begun an investigation following new information about Professor Arday\u2019s academic qualifications and honorary appointments,\u201d the statement from the university said. \u201cIn order to ensure a fair process, we will not comment further until this has concluded.&#8221; Cambridge was not initially keen on opening an investigation. Cambridge said Arday was \u201cthe victim of a vile campaign to undermine his credibility, which must stop.\u201d The school began to change its tune when reports emerged that Arday had filed a harassment claim against a journalist who was investigating his work. The day that Cambridge announced its investigation, Arday resigned. \u201cI no longer wish to feel a"
     }
    ]
   },
@@ -2454,6 +2738,48 @@
    ]
   },
   {
+   "id": "b0ae1daabe",
+   "topic": "World",
+   "summary": "Iran\u2019s army chief announced a $30,000 bounty Sunday for anyone who kills or captures an American service member, as Tehran\u2019s armed forces escalated threats against U.S. personnel and separately vowed to continue confronting the United States until its enemies are \u201ccompletely\u201d defeated and forced to \u201csurrender.\u201d The post Iran Army Chief Offers $30,000 Bounty for Killing or Capturing U.S. Soldiers appeared first on Breitbart .",
+   "summaryFrom": "breitbart",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Iran offers $30,000 bounty for killing or capturing US soldiers",
+   "updated": "2026-08-17T00:34:12+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "Iran Army Chief Offers $30,000 Bounty for Killing or Capturing U.S. Soldiers",
+     "url": "https://www.breitbart.com/politics/2026/08/16/iran-army-chief-offers-30000-bounty-killing-capturing-u-s-soldiers/",
+     "author": "Joshua Klein",
+     "kind": "news",
+     "published": "2026-08-17T00:34:12+00:00",
+     "summary": "Iran\u2019s army chief announced a $30,000 bounty Sunday for anyone who kills or captures an American service member, as Tehran\u2019s armed forces escalated threats against U.S. personnel and separately vowed to continue confronting the United States until its enemies are \u201ccompletely\u201d defeated and forced to \u201csurrender.\u201d The post Iran Army Chief Offers $30,000 Bounty for Killing or Capturing U.S. Soldiers appeared first on Breitbart ."
+    },
+    {
+     "outlet": "france24",
+     "title": "Iran offers $30,000 bounty for killing or capturing US soldiers",
+     "url": "https://www.france24.com/en/middle-east/20260816-iran-offers-30-000-bounty-for-killing-or-capturing-us-soldiers",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-16T15:40:26+00:00",
+     "summary": "The Iranian military announced on Sunday it would be offering a $30,000 reward for killing or capturing US soldiers, with the bounty doubled if conducted by a woman. There have been no known deployments of US ground troops in Iran during the war except for a rescue mission carried out in April."
+    }
+   ]
+  },
+  {
    "id": "2d3e51186d",
    "topic": "Other",
    "summary": "A shopper in Hawaiian Ocean View carries supplies through heavy rain on the island of Hawaii on Saturday.",
@@ -2622,48 +2948,6 @@
    ]
   },
   {
-   "id": "0a7f45b01e",
-   "topic": "Other",
-   "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Death toll rises to 84 from capsized ferry in Zimbabwe",
-   "updated": "2026-08-16T21:03:53+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Death toll rises to 84 from capsized ferry in Zimbabwe",
-     "url": "https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T21:03:53+00:00",
-     "summary": "The boat overturned during heavy winds near the Zambian border."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
-     "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
-     "author": "Nadeem Badshah",
-     "kind": "news",
-     "published": "2026-08-15T19:39:07+00:00",
-     "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading..."
-    }
-   ]
-  },
-  {
    "id": "b3d83b583e",
    "topic": "Culture & Sport",
    "summary": "Cristiano Ronaldo , one of the greatest soccer players to grace a pitch, believes this season will be his last. During an interview with Vogue , the Portuguese superstar told the outlet this upcoming season will be \"probably my last year of football.\" Ronaldo, 41, recently married longtime partner Georgina Rodr\u00edguez, and perhaps settling down with his family is what the legendary player wishes now. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM Ronaldo currently plays for the Saudi Pro League\u2019s Al-Nassr club, which he has been a part of since 2023. He has scored 102 goals through his 107 matches there. He also completed his sixth World Cup with Portugal, though he wanted to lift the trophy. Instead, Portugal fell to World Cup-winner Spain, 1-0, in full time in the Round of 16. CRISTIANO RONALDO SHUTS DOWN REPORTER'S LIONEL MESSI QUESTION IN AWKWARD MOMENT AFTER TWO-GOAL WIN It\u2019s\u2026",
@@ -2748,44 +3032,44 @@
    ]
   },
   {
-   "id": "7e67071196",
-   "topic": "World",
-   "summary": "Hamas leaders reaffirmed their commitment to disarm and demilitarize Gaza in a meeting with President Trump's adviser Jared Kushner in Egypt on Sunday, according to a source with direct knowledge. Why it matters: Kushner used the rare direct meeting to press Hamas for tangible steps on disarmament , warning that Israel doesn't trust the group to follow through. The source described the 90-minute meeting as \"very productive\" at making sure Hamas takes practical steps to fulfill its commitments. The White House and Trump's Board of Peace are pushing Hamas and Israel to move to the next phase of the U.S. 20-point peace plan. Kushner is expected to visit Israel on Monday and meet Israeli Prime Minister Benjamin Netanyahu to discuss \"corresponding steps\" Israel must take, the source said. Behind the scenes: Hamas leaders asked Kushner to tell Trump they remained committed to disarming, the\u2026",
-   "summaryFrom": "axios",
+   "id": "c030673b46",
+   "topic": "Other",
+   "summary": "In Saint-Louis, Senegal, traditional pirogue races are keeping alive a centuries-old tradition dating back nearly 200 years. Held in the fishing district of Guet Ndar, the 3.5-kilometre race brings together dozens of rowers and huge crowds, turning the event into both a major sporting competition and a celebration of local culture. But despite the race's popularity and the money it generates, competitors are not paid and are calling for greater recognition for the sport.",
+   "summaryFrom": "france24",
    "emphasis": null,
    "absent": [
+    "corp",
     "family",
     "coop",
-    "pub"
+    "nonprofit"
    ],
-   "headline": "Kushner has rare meeting with Hamas' leader on Gaza road map. A meeting with Netanyahu is next",
-   "updated": "2026-08-16T20:13:03+00:00",
+   "headline": "Senegal\u2019s Saint-Louis Regatta keeps centuries of tradition alive",
+   "updated": "2026-08-16T20:04:51+00:00",
    "outletCount": 2,
    "counts": {
-    "corp": 1,
-    "nonprofit": 1
+    "pub": 2
    },
    "newsCount": 2,
    "opinionCount": 0,
-   "underreported": false,
+   "underreported": true,
    "articles": [
     {
-     "outlet": "axios",
-     "title": "Inside Kushner's Hamas meeting: What comes next in Gaza",
-     "url": "https://www.axios.com/2026/08/16/kushner-hamas-gaza-disarmament-egypt-israel",
-     "author": "Barak Ravid",
+     "outlet": "aljazeera",
+     "title": "Senegal\u2019s Saint-Louis Regatta keeps centuries of tradition alive",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-16T20:13:03+00:00",
-     "summary": "Hamas leaders reaffirmed their commitment to disarm and demilitarize Gaza in a meeting with President Trump's adviser Jared Kushner in Egypt on Sunday, according to a source with direct knowledge. Why it matters: Kushner used the rare direct meeting to press Hamas for tangible steps on disarmament , warning that Israel doesn't trust the group to follow through. The source described the 90-minute meeting as \"very productive\" at making sure Hamas takes practical steps to fulfill its commitments. The White House and Trump's Board of Peace are pushing Hamas and Israel to move to the next phase of the U.S. 20-point peace plan. Kushner is expected to visit Israel on Monday and meet Israeli Prime Minister Benjamin Netanyahu to discuss \"corresponding steps\" Israel must take, the source said. Behind the scenes: Hamas leaders asked Kushner to tell Trump they remained committed to disarming, the source said. \"We thanked them for the commitment, but we want to see real efforts and not just words,\" the source added. \"It was important for Kushner to lock them into this commitment in person.\" Kushner also thanked Hamas leaders for their cooperation and efforts to recover the bodies of all decease"
+     "published": "2026-08-16T20:04:51+00:00",
+     "summary": "Thousands gathered in Saint-Louis, Senegal, for the annual regatta."
     },
     {
-     "outlet": "pbsnewshour",
-     "title": "Kushner has rare meeting with Hamas' leader on Gaza road map. A meeting with Netanyahu is next",
-     "url": "https://www.pbs.org/newshour/world/kushner-has-rare-meeting-with-hamas-leader-on-gaza-road-map-a-meeting-with-netanyahu-is-next",
-     "author": "Cara Anna, Associated Press",
+     "outlet": "france24",
+     "title": "Senegal: Saint-Louis\u2019 centuries-old pirogue racing tradition",
+     "url": "https://www.france24.com/en/senegal-saint-louis-centuries-old-pirogue-racing-tradition",
+     "author": "FRANCE24",
      "kind": "news",
-     "published": "2026-08-16T18:11:31+00:00",
-     "summary": "The talks aim to salvage the new 15-point, U.S.-backed road map for Hamas to disarm in Gaza and Israel to withdraw from the Palestinian territory shattered by war."
+     "published": "2026-08-16T15:51:32+00:00",
+     "summary": "In Saint-Louis, Senegal, traditional pirogue races are keeping alive a centuries-old tradition dating back nearly 200 years. Held in the fishing district of Guet Ndar, the 3.5-kilometre race brings together dozens of rowers and huge crowds, turning the event into both a major sporting competition and a celebration of local culture. But despite the race's popularity and the money it generates, competitors are not paid and are calling for greater recognition for the sport."
     }
    ]
   },
@@ -3290,132 +3574,6 @@
      "kind": "news",
      "published": "2026-08-16T11:35:25+00:00",
      "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Janeiro's Christ the Redeemer."
-    }
-   ]
-  },
-  {
-   "id": "b13d5492ab",
-   "topic": "Tech",
-   "summary": "Front group lauds purported benefits of data centers without disclosing its backer. By Lisa Sorg HENDERSON, N.C.\u2014On a recent summer evening Mitzi Parrott, who lives in Vance County, saw a television commercial on the evening news that gave her pause. Kathie Hamm and Bobbie Lequire, also of Vance County, saw it, too, streaming on Sling and posted on Nextdoor.",
-   "summaryFrom": "insideclimate",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "The Data Center Industry\u2019s PR Blitz Is Backfiring",
-   "updated": "2026-08-16T14:54:03+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nbcnews",
-     "title": "Rep. Ro Khanna calls for \u2018Data Center Bill of Rights\u2019 and says the industry needs regulation",
-     "url": "https://www.nbcnews.com/politics/congress/ro-khanna-data-center-bill-rights-industry-regulations-rcna592775",
-     "author": "Megan Brand",
-     "kind": "news",
-     "published": "2026-08-16T14:54:03+00:00",
-     "summary": "The California congressman also laid out how he believes he differs from Rep. Alexandria Ocasio-Cortez, as both progressives are floated as potential presidential candidates."
-    },
-    {
-     "outlet": "insideclimate",
-     "title": "The Data Center Industry\u2019s PR Blitz Is Backfiring",
-     "url": "https://insideclimatenews.org/news/14082026/data-center-pr-blitz-backfiring/",
-     "author": "By Lisa Sorg",
-     "kind": "news",
-     "published": "2026-08-14T09:00:00+00:00",
-     "summary": "Front group lauds purported benefits of data centers without disclosing its backer. By Lisa Sorg HENDERSON, N.C.\u2014On a recent summer evening Mitzi Parrott, who lives in Vance County, saw a television commercial on the evening news that gave her pause. Kathie Hamm and Bobbie Lequire, also of Vance County, saw it, too, streaming on Sling and posted on Nextdoor."
-    }
-   ]
-  },
-  {
-   "id": "4eee6f3aab",
-   "topic": "Justice & Policing",
-   "summary": "Evelyn Hockstein / REUTERS Democratic lawmakers are taking aim at the Supreme Court to curb its rightward shift. They\u2019ve grown increasingly frustrated by the court, as it has delivered sweeping conservative victories in recent years, erasing decades of progress, including scaling back the 1965 Voting Rights Act, overturning the constitutional right to an abortion, loosening campaign finance rules, and increasing executive power. Some in the party have argued that recent rulings from the high court are more about politics, and less about the interpretation of the law. \u201cThere\u2019s constant and building dismay about the increasingly appalling record of the court,\u201d Sen. Sheldon Whitehouse, a Democrat from Rhode Island, told The Washington Post. Read more at The Daily Beast.",
-   "summaryFrom": "dailybeast",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Supreme Court Fight Erupts Over Plot to End MAGA\u2019s Grip",
-   "updated": "2026-08-16T14:11:10+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dailybeast",
-     "title": "Supreme Court Fight Erupts Over Plot to End MAGA\u2019s Grip",
-     "url": "https://www.thedailybeast.com/supreme-court-fight-erupts-over-plot-to-end-magas-grip/",
-     "author": "Annabella Rosciglione",
-     "kind": "news",
-     "published": "2026-08-16T14:11:10+00:00",
-     "summary": "Evelyn Hockstein / REUTERS Democratic lawmakers are taking aim at the Supreme Court to curb its rightward shift. They\u2019ve grown increasingly frustrated by the court, as it has delivered sweeping conservative victories in recent years, erasing decades of progress, including scaling back the 1965 Voting Rights Act, overturning the constitutional right to an abortion, loosening campaign finance rules, and increasing executive power. Some in the party have argued that recent rulings from the high court are more about politics, and less about the interpretation of the law. \u201cThere\u2019s constant and building dismay about the increasingly appalling record of the court,\u201d Sen. Sheldon Whitehouse, a Democrat from Rhode Island, told The Washington Post. Read more at The Daily Beast."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Attorney General Todd Blanche says the DOJ may take states\u2019 voter-roll fight to Supreme Court",
-     "url": "https://www.nbcnews.com/meet-the-press/video/attorney-general-todd-blanche-says-the-doj-may-take-states-voter-roll-fight-to-supreme-court-268371525962",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T13:47:27+00:00",
-     "summary": "In an interview with Meet the Press, Attorney General Todd Blanche says \"absolutely it's a possibility\" that the Department of Justice may take the Trump administration's fight over voter rolls to the Supreme Court."
-    }
-   ]
-  },
-  {
-   "id": "9c95eb7e49",
-   "topic": "Culture & Sport",
-   "summary": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 53 people Rescue crews dug through collapsed buildings and landslide debris in eastern Indonesia on Sunday as they searched for bodies and possible survivors a day after a powerful earthquake killed at least 53 people, injured more than 100 and displaced thousands. At least 24 people died in Manggarai regency and 17 in neighbouring East Manggarai, with additional fatalities reported in Sikka, Ngada and Ende regencies, the national disaster management agency said. Rescuers were still searching for people feared buried beneath landslides triggered by the quake across six regencies on Flores, a predominantly Catholic island in Muslim-majority Indonesia. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-   "updated": "2026-08-16T12:37:21+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-     "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T12:37:21+00:00",
-     "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Rescue teams search for survivors in Indonesia after powerful earthquake",
-     "url": "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T03:57:34+00:00",
-     "summary": "Searchers dig through collapsed buildings and debris after 7.7 magnitude quake killed at least 53 people Rescue crews dug through collapsed buildings and landslide debris in eastern Indonesia on Sunday as they searched for bodies and possible survivors a day after a powerful earthquake killed at least 53 people, injured more than 100 and displaced thousands. At least 24 people died in Manggarai regency and 17 in neighbouring East Manggarai, with additional fatalities reported in Sikka, Ngada and Ende regencies, the national disaster management agency said. Rescuers were still searching for people feared buried beneath landslides triggered by the quake across six regencies on Flores, a predominantly Catholic island in Muslim-majority Indonesia. Continue reading..."
     }
    ]
   }
