@@ -1,49 +1,75 @@
 {
- "generated": "2026-08-17T09:02:33.461895+00:00",
+ "generated": "2026-08-17T09:58:54.260796+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
   {
-   "id": "8961a8d194",
+   "id": "fc8f37f9d3",
    "topic": "World",
-   "summary": "Last winter, Donald Trump plunged recklessly into war with Iran. The United States is now losing that conflict. Iran remains defiant, much of the world economy is more threatened now than it was six months ago, U.S. military resources are overextended, and munition stores are dangerously depleted. Trump and the United States have suffered one embarrassment after another; last week, he had to sneak away from the region on a backup plane because of a possible assassination threat from Tehran. And so the president of the United States has taken the logical next step: He is punishing South Korea, a loyal American friend, and tempting U.S. enemies to doubt America\u2019s will to defend its allies. Early Sunday evening, Trump instructed the Defense Department to \u201csubstantially reduce\u201d its participation in an annual joint military exercise with the South Koreans. He did this, he said in a post on\u2026",
-   "summaryFrom": "theatlantic",
+   "summary": "Confusing adversaries and allies is a basic foreign policy mistake. Leveraging enemies to attack friends is a deeper failure. President Trump committed both errors on Sunday when he announced that he was ordering the Pentagon to \u201csubstantially reduce the Joint Military Exercises\u201d with South Korea. According to his post on social media, the president\u2019s justifications were his \u201cvery good relationship\u201d with Pyongyang\u2019s dictator Kim Jong-un, and Seoul\u2019s failure to help Washington in its war with Tehran. Trump\u2019s explanation contradicts his dismissal of Seoul five months ago: \u201cWE NEVER DID\u201d need South Korea\u2019s help to reopen the Strait of Hormuz. Nor did America, in Trump\u2019s telling, need anyone\u2019s help. Now, months later, the president is revisiting a gambit he played in his first term: scaling down joint exercises with Seoul, apparently as an olive branch to Kim. Trump may have legitimate\u2026",
+   "summaryFrom": "dailywire",
    "emphasis": {
-    "bigCount": 14,
-    "indieCount": 11,
+    "bigCount": 15,
+    "indieCount": 8,
     "big": [
+     "sunday",
+     "states",
+     "united",
      "denuclearize",
      "major",
-     "also",
-     "truth",
-     "noted",
-     "hegseth"
+     "also"
     ],
     "indie": [
-     "korea's",
-     "both",
-     "since",
-     "june",
-     "people",
-     "killed"
+     "despite",
+     "begin",
+     "scaled",
+     "korea's"
     ]
    },
-   "absent": [],
-   "headline": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-   "updated": "2026-08-17T07:03:56+00:00",
-   "outletCount": 20,
+   "absent": [
+    "coop"
+   ],
+   "headline": "US and South Korea begin military drills despite Trump call to scale back",
+   "updated": "2026-08-17T09:22:17+00:00",
+   "outletCount": 19,
    "counts": {
-    "family": 9,
-    "corp": 5,
-    "pub": 6,
-    "nonprofit": 4,
-    "coop": 1
+    "pub": 5,
+    "nonprofit": 3,
+    "family": 10,
+    "corp": 5
    },
-   "newsCount": 24,
-   "opinionCount": 1,
+   "newsCount": 21,
+   "opinionCount": 2,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "france24",
+     "title": "US and South Korea begin military drills despite Trump call to scale back",
+     "url": "https://www.france24.com/en/us-and-south-korea-begin-military-drills-despite-trump-call-to-scale-back",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-17T09:22:17+00:00",
+     "summary": "US and South Korean forces began on Monday joint military drills as planned, despite Donald Trump calling for them to be scaled back. Trump said the exercises were too costly and hostile toward North Korea, while critics warned reducing them could weaken South Korea\u2019s security. The drills are set to continue until August 28."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump orders cuts to South Korea joint drills despite warnings about Kim regime",
+     "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+     "author": "Raphael Rashid in Seoul",
+     "kind": "news",
+     "published": "2026-08-17T09:10:24+00:00",
+     "summary": "President says he \u2018gets along great\u2019 with dictator but US officials say Ukraine war is boosting North\u2019s capabilities Donald Trump has said he is scaling back joint US military drills with South Korea aimed at deterring North Korea, despite military officials from both countries warning that Kim Jong-un\u2019s regime is learning new battlefield tactics from the Ukraine war. The drills under Ulchi Freedom Shield, one of two major annual exercises held by South Korea and the US, start on Monday and run until 27 August. Continue reading..."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Trump\u2019s Overture to North Korea Strains Alliance With the South",
+     "url": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html",
+     "author": "Choe Sang-Hun",
+     "kind": "news",
+     "published": "2026-08-17T09:05:33+00:00",
+     "summary": "President Trump wants to curtail military exercises with South Korea, saying they were hostile to North Korea. But under Mr. Kim, the North has become increasingly belligerent toward the South."
+    },
     {
      "outlet": "bloomberg",
      "title": "Israel Strikes Lebanon; Trump Reduces US-South Korea Drills | Daybreak Europe 8/17/2026",
@@ -70,15 +96,6 @@
      "kind": "news",
      "published": "2026-08-17T06:24:31+00:00",
      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea",
-     "url": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html",
-     "author": "Helene Cooper",
-     "kind": "news",
-     "published": "2026-08-17T06:16:21+00:00",
-     "summary": "In his post on Sunday, President Trump did not mention a rift in relations with North Korea in 2017, when Kim Jong Un called him a \u201cmentally deranged dotard.\u201d"
     },
     {
      "outlet": "npr",
@@ -108,22 +125,13 @@
      "summary": "The president echoed Pyongyang\u2019s complaints about the drill, saying they are totally \u201cinappropriate and hostile,\u201d towards an \u201cunthreatening and respectful\u201d North Korea"
     },
     {
-     "outlet": "france24",
-     "title": "Trump orders Pentagon to scale back military drills with South Korea hours before start",
-     "url": "https://www.france24.com/en/americas/20260817-trump-orders-pentagon-to-scale-back-military-drills-with-south-korea-hours-before-start",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-17T04:38:01+00:00",
-     "summary": "US President Donald Trump on Sunday ordered the Pentagon to scale back \"inappropriate and hostile\" military drills with South Korea, claiming that the ally had failed to help with the war against Iran and citing his \"good relationship\" with North Korean leader Kim Jong-un."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump orders cuts to South Korea joint drills despite warnings of North\u2019s growing battlefield experience",
-     "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
-     "author": "Raphael Rashid in Seoul",
-     "kind": "news",
-     "published": "2026-08-17T04:07:57+00:00",
-     "summary": "President says move is based on \u2018very good relationship with Kim Jong-un\u2019 but US military officials have said Ukraine war is boosting regime\u2019s combat capabilities Donald Trump has said he is scaling back joint US military drills with South Korea aimed at deterring North Korea, despite military officials from both countries warning that Kim Jong-un\u2019s regime was learning new battlefield tactics from the Ukraine war. The drills under Ulchi Freedom Shield, one of two major annual exercises held by South Korea and the US, start on Monday and run until 27 August. Continue reading..."
+     "outlet": "dailywire",
+     "title": "Trump\u2019s Break With South Korea Projects Weakness In The Pacific",
+     "url": "https://www.dailywire.com/news/trumps-break-with-south-korea-projects-weakness-in-the-pacific",
+     "author": "Michael Sobolik",
+     "kind": "opinion",
+     "published": "2026-08-17T04:00:34+00:00",
+     "summary": "Confusing adversaries and allies is a basic foreign policy mistake. Leveraging enemies to attack friends is a deeper failure. President Trump committed both errors on Sunday when he announced that he was ordering the Pentagon to \u201csubstantially reduce the Joint Military Exercises\u201d with South Korea. According to his post on social media, the president\u2019s justifications were his \u201cvery good relationship\u201d with Pyongyang\u2019s dictator Kim Jong-un, and Seoul\u2019s failure to help Washington in its war with Tehran. Trump\u2019s explanation contradicts his dismissal of Seoul five months ago: \u201cWE NEVER DID\u201d need South Korea\u2019s help to reopen the Strait of Hormuz. Nor did America, in Trump\u2019s telling, need anyone\u2019s help. Now, months later, the president is revisiting a gambit he played in his first term: scaling down joint exercises with Seoul, apparently as an olive branch to Kim. Trump may have legitimate reasons to be frustrated with South Korea. The liberal party in Seoul has an established track record of engagement with China, and has actively sought to weaken American sanctions on North Korea in years past. We should expect allies to act as allies. It is equally true that America\u2019s partners should ex"
     },
     {
      "outlet": "theatlantic",
@@ -234,24 +242,6 @@
      "summary": "President Donald Trump said Sunday he has directed Defense Secretary Pete Hegseth to &#8220;substantially reduce&#8221; joint military exercises with South Korea, citing his &#8220;very good relationship&#8221; with North Korean leader Kim Jong Un and what he said was Seoul&#8217;s refusal to help the United States denuclearize Iran. \u201cBased on my very good relationship with Kim Jong Un, of North Korea, I am not happy with the fact that the United States has, long ago, agreed to participate in Joint Military Exercises with South Korea,\u201d Trump wrote on Truth Social . Trump said the exercises are costly, &#8220;with much of these costs paid for by the United States of America (as usual!),&#8221; and send a signal he called &#8220;totally inappropriate and hostile&#8221; toward North Korea, which he said &#8220;has been unthreatening and respectful&#8221; throughout his presidency. North Korea has conducted two ballistic missile tests this month, however, firing a short-range missile on August 6 and another that flew more than 700 kilometers on August 12 local time \u2014 Pyongyang&#8217;s 11th ballistic missile test of the year by South Korean count. North Korea&#8217;s Foreign Ministry on"
     },
     {
-     "outlet": "france24",
-     "title": "South Lebanon: How will Israeli strikes affect negotiations?",
-     "url": "https://www.france24.com/en/south-lebanon-how-will-israeli-strikes-affect-negotiations",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T13:00:14+00:00",
-     "summary": "Israel killed 11 people in strikes on southern Lebanon on Saturday, in what has been described as the biggest threat to the peace talks since the June agreement. Ziad Majed, Professor of Middle East Studies at the American University of Paris, spoke to FRANCE 24 about the potential impact of the strikes on the negotiations underway in Rome, the role of the United States, and Israel's policy towards Lebanon and especially Hezbollah."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
-     "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
-     "author": "William Christou",
-     "kind": "news",
-     "published": "2026-08-15T13:55:28+00:00",
-     "summary": "Rescue services search for survivors and bodies after airstrikes hit homes in Ansar and Deir al-Zahrani Eleven people have been killed, including three children, and 19 injured in two Israeli airstrikes on southern Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar, killing seven people and flattening the building early on Saturday morning. Rescue services were working at the site to try to find survivors and locate bodies. Continue reading..."
-    },
-    {
      "outlet": "foxnews",
      "title": "Trump scores major immigration victory as judge clears way to end TPS protections for thousands of Somalis",
      "url": "https://www.foxnews.com/politics/trump-scores-major-immigration-victory-judge-clears-way-end-tps-protections-thousands-somalis",
@@ -259,15 +249,6 @@
      "kind": "news",
      "published": "2026-08-15T09:43:12+00:00",
      "summary": "President Donald Trump scored a major legal victory Friday after a federal judge cleared the way for his administration to terminate temporary legal protections for thousands of Somali nationals living in the United States. U.S. District Judge Allison Burroughs in Boston lifted a stay that had prevented the Department of Homeland Security from terminating Somalia's Temporary Protected Status (TPS) designation, citing a June Supreme Court ruling that sharply limited judicial review of similar administration actions. The decision allows the Trump administration to move forward with ending TPS for Somalia, potentially exposing affected migrants who lack another lawful basis to remain in the U.S. to deportation . SUPREME COURT'S LATEST IMMIGRATION RULING WILL CAUSE AMERICANS TO 'DIE AND SUFFER' ATTORNEY WARNS Burroughs, an appointee of former President Barack Obama, had previously blocked the termination from taking effect in a lawsuit brought by four Somali nationals and two advocacy groups, including African Communities Together. The Trump administration announced in January that it planned to terminate Somalia's TPS designation, with then- Homeland Security Secretary Kristi Noem arg"
-    },
-    {
-     "outlet": "zeteo",
-     "title": "First Draft: Did Israel Fake the Iran Threats Against Trump\u2019s Life?",
-     "url": "https://zeteo.com/p/did-israel-fake-the-iran-threats",
-     "author": "Mehdi Hasan",
-     "kind": "news",
-     "published": "2026-08-14T11:05:47+00:00",
-     "summary": "On this day in 2023, Donald Trump, his lawyer Rudy Giuliani, and 17 others were indicted on felony charges for trying to overturn the 2020 election in Georgia. The case collapsed in 2024, after Trump won re-election. Now he seems to want to commit those alleged crimes all over again. Happy Friday! Mehdi here, still recovering from my Wednesday interview with Count Binface &#8211; yes, Count Binface , that&#8217;s his name! Have you not seen it yet? Last night, Count Binface won 9,455 votes in the UK parliamentary by-election in Clacton, provoked by the resignation of sitting MP and Reform UK leader Nigel Farage in a weird and desperate attempt to distract from a hugely contentious financial scandal . Farage was re-elected with 22,239 votes, so the parliamentary investigation into his donations now picks up where it left off. So&#8230; what was the point of all this? But let&#8217;s turn this morning to the man Nigel Farage defers to, Donald Trump , who has been in a spot of bother recently because of the man he defers to: Benjamin Netanyahu . Subscribe now &#8216;Israeli-Derived&#8217; Donald Trump holds a press conference with Benjamin Netanyahu at his Mar-a-Lago club on Dec. 29, "
     }
    ]
   },
@@ -277,15 +258,15 @@
    "summary": "Actress Hayden Panettierre, best known for roles in &#8220;Nashville&#8221; and the NBC drama &#8220;Heroes,&#8221; has died at the age of 36. A representative for the actress confirmed the news on Sunday in a statement delivered first to ABC News: &#8220;It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her \u2014 and to the millions who watched her onscreen.&#8221; Panettierre had been very open in recent years about her history of substance abuse and her battle with postpartum depression \u2014 and had just published her memoir, &#8220;This Is Me: A Reckoning,&#8221; in May. The actress was raised in New York by her parents, actress and producer Lesley Vogel and Alan Lee \u201cSkip\u201d Panettiere, a retired New York City Fire Department captain \u2014 and she landed her\u2026",
    "summaryFrom": "dailywire",
    "emphasis": {
-    "bigCount": 10,
+    "bigCount": 11,
     "indieCount": 2,
     "big": [
      "star",
      "confirmed",
-     "family",
-     "tragic",
-     "representative",
-     "depression"
+     "daughter",
+     "actor",
+     "dead",
+     "tragic"
     ],
     "indie": []
    },
@@ -295,13 +276,13 @@
    ],
    "headline": "US actress Hayden Panettiere dies at 36",
    "updated": "2026-08-17T08:25:44+00:00",
-   "outletCount": 12,
+   "outletCount": 13,
    "counts": {
     "corp": 5,
     "pub": 2,
-    "family": 5
+    "family": 6
    },
-   "newsCount": 11,
+   "newsCount": 12,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
@@ -357,16 +338,16 @@
      "author": null,
      "kind": "news",
      "published": "2026-08-17T05:29:48+00:00",
-     "summary": "The actress leaves behind a daughter, Kaya. Her family has asked for privacy as they process their loss."
+     "summary": "The actress leaves behind an 11-year-old daughter, Kaya."
     },
     {
-     "outlet": "nbcnews",
-     "title": "Actress Hayden Panettiere dies at 36",
-     "url": "https://www.nbcnews.com/video/actress-hayden-panettiere-dies-at-36-268386373991",
-     "author": null,
+     "outlet": "breitbart",
+     "title": "'Scream' Franchise Star Hayden Panettiere Dead at 36",
+     "url": "https://www.breitbart.com/entertainment/2026/08/16/scream-franchise-star-hayden-panettiere-dead-36/",
+     "author": "Paul Bois",
      "kind": "news",
-     "published": "2026-08-17T04:26:56+00:00",
-     "summary": "Hayden Panettiere, known for her roles in \u2018Heroes\u2019 and \u2018Nashville,\u2019 has passed away at age 36. NBC News' Jessica Layton and Steve Patterson report on her death and how she recently spoke publicly about her experiences with postpartum depression and addiction."
+     "published": "2026-08-17T04:41:09+00:00",
+     "summary": "Actress Hayden Panettiere, one of the many stars who graced the Scream franchise, died this weekend at the young age of 36. The post &#8216;Scream&#8217; Franchise Star Hayden Panettiere Dead at 36 appeared first on Breitbart ."
     },
     {
      "outlet": "latimes",
@@ -385,6 +366,15 @@
      "kind": "news",
      "published": "2026-08-17T03:29:06+00:00",
      "summary": "The actress' family confirmed the tragic news in a statement Sunday."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Actor Hayden Panettiere, known for roles in \u2018Heroes\u2019 and \u2018Nashville,\u2019 dies at 36",
+     "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/actor-hayden-panettiere-dies-36-rcna592856",
+     "author": "Bill Feather",
+     "kind": "news",
+     "published": "2026-08-17T03:28:38+00:00",
+     "summary": "The cause and manner of death were unclear. Panettiere revealed this year that she struggled with postpartum depression and addiction, which she said led to her decision to give up custody of her daughter in 2018."
     },
     {
      "outlet": "dailybeast",
@@ -416,39 +406,153 @@
    ]
   },
   {
-   "id": "b120e655fe",
+   "id": "9daf7bfe92",
+   "topic": "World",
+   "summary": "On this day in 2023, Donald Trump, his lawyer Rudy Giuliani, and 17 others were indicted on felony charges for trying to overturn the 2020 election in Georgia. The case collapsed in 2024, after Trump won re-election. Now he seems to want to commit those alleged crimes all over again. Happy Friday! Mehdi here, still recovering from my Wednesday interview with Count Binface &#8211; yes, Count Binface , that&#8217;s his name! Have you not seen it yet? Last night, Count Binface won 9,455 votes in the UK parliamentary by-election in Clacton, provoked by the resignation of sitting MP and Reform UK leader Nigel Farage in a weird and desperate attempt to distract from a hugely contentious financial scandal . Farage was re-elected with 22,239 votes, so the parliamentary investigation into his donations now picks up where it left off. So&#8230; what was the point of all this? But let&#8217;s turn\u2026",
+   "summaryFrom": "zeteo",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 8,
+    "big": [
+     "group",
+     "leader"
+    ],
+    "indie": [
+     "middle",
+     "east",
+     "regional",
+     "meeting",
+     "held",
+     "ahead"
+    ]
+   },
+   "absent": [
+    "corp"
+   ],
+   "headline": "Middle East : Kushner to meet Netanyahu after talks with Hamas on Gaza plan",
+   "updated": "2026-08-17T09:00:36+00:00",
+   "outletCount": 8,
+   "counts": {
+    "pub": 5,
+    "nonprofit": 2,
+    "family": 2,
+    "coop": 1
+   },
+   "newsCount": 10,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Middle East : Kushner to meet Netanyahu after talks with Hamas on Gaza plan",
+     "url": "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-17T09:00:36+00:00",
+     "summary": "US envoy Jared Kushner is due to meet Israeli Prime Minister Benjamin Netanyahu on Monday after holding talks with Hamas leaders in Egypt aimed at reviving a US-backed Gaza peace plan that Israel has so far rejected. Noga Tarnopolsky, FRANCE 24's correspondent in Israel, has more on the stakes related to this visit."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Hamas calls for Trump\u2019s Board of Peace to \u2018compel\u2019 Israel over Gaza peace plan \u2013 Middle East crisis live",
+     "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
+     "author": "Mabel Banfield-Nwachi",
+     "kind": "news",
+     "published": "2026-08-17T09:00:26+00:00",
+     "summary": "Jared Kushner set to meet Netanyahu following talks with Hamas Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza Jared Kushner reportedly spent over two hours on Sunday at the meeting with Hamas chief Khalil al-Hayya in Egypt, where they discussed disarmament, according to a regional official and a Hamas official. Eight Muslim-majority countries have condemned Israel for rejecting Trump\u2019s Gaza roadmap, saying it \u201cfundamentally undermines the collective efforts undertaken to achieve a just and lasting peace.\u201d Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+     "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T08:43:12+00:00",
+     "summary": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Kushner to meet Netanyahu to push Trump Gaza plan",
+     "url": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T08:13:04+00:00",
+     "summary": "The talks come one day after the US president&#039;s son-in-law held a rare meeting with Hamas leaders in Egypt."
+    },
+    {
+     "outlet": "france24",
+     "title": "Middle East live: PM's office in Iraqi Kurdistan targeted by drones from Iran",
+     "url": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-17T04:45:34+00:00",
+     "summary": "The prime minister's office in Iraqi Kurdistan was targeted by two Iranian drones overnight, authorities said Monday. The attacks were launched from Iranian territory and no casualties were reported, the Kurdistan Regional \u200bGovernment security agency said. Follow our liveblog for all the latest updates."
+    },
+    {
+     "outlet": "semafor",
+     "title": "US and Hamas hold rare direct talks",
+     "url": "https://www.semafor.com/article/08/16/2026/us-hamas-hold-rare-direct-talks",
+     "author": "Brendan Ruberry",
+     "kind": "news",
+     "published": "2026-08-16T22:20:51+00:00",
+     "summary": "US envoy Jared Kushner met with Hamas\u2019 leader in Egypt on Sunday to push for the group\u2019s disarmament, as Washington attempts to salvage the stalled plan to end one of the region\u2019s ongoing conflicts. Kushner is also expected to meet on Monday with Israeli Prime Minister Benjamin Netanyahu, who rejected US President Donald Trump\u2019s peace plan. Israel has also rejected US calls to withdraw from Gaza and Lebanon, demanding that Hamas and Hezbollah disarm first . Israeli forces bombed Lebanon on Sunday in strikes that Iran regards as violations of a months-old ceasefire, adding pressure to faltering US-Iran negotiations: The White House is searching for new strategies to inflict economic pain on Tehran as Washington prepares measures aimed at creating \u201c economic isolation .\u201d \u2014 Brendan Ruberry"
+    },
+    {
+     "outlet": "guardian",
+     "title": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
+     "url": "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T22:07:32+00:00",
+     "summary": "Trump\u2019s son-in-law and envoy held rare meeting with Hamas chief in Egypt in push for progress on ceasefire Donald Trump\u2019s son-in-law and envoy, Jared Kushner , held a rare meeting with Hamas \u2019s political chief on Sunday in Egypt , in a new diplomatic effort to make progress in the stalled Gaza ceasefire. Kushner will meet on Monday with Benjamin Netanyahu, who is under pressure after rejecting the new 15-point, US-backed road map. The talks aim to salvage the plan for Hamas to disarm and Israel to withdraw from the Palestinian territory shattered by war . Continue reading..."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Kushner Meets With Hamas to Advance Trump\u2019s Gaza Plan",
+     "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
+     "author": "Aaron Boxerman and Zolan Kanno-Youngs",
+     "kind": "news",
+     "published": "2026-08-16T21:16:17+00:00",
+     "summary": "The president\u2019s son-in-law met the Palestinian militant group\u2019s leaders in Egypt, officials said. He will soon see Benjamin Netanyahu, the Israeli leader."
+    },
+    {
+     "outlet": "dw",
+     "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
+     "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T17:31:00+00:00",
+     "summary": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators and Hamas in Egypt."
+    },
+    {
+     "outlet": "zeteo",
+     "title": "First Draft: Did Israel Fake the Iran Threats Against Trump\u2019s Life?",
+     "url": "https://zeteo.com/p/did-israel-fake-the-iran-threats",
+     "author": "Mehdi Hasan",
+     "kind": "news",
+     "published": "2026-08-14T11:05:47+00:00",
+     "summary": "On this day in 2023, Donald Trump, his lawyer Rudy Giuliani, and 17 others were indicted on felony charges for trying to overturn the 2020 election in Georgia. The case collapsed in 2024, after Trump won re-election. Now he seems to want to commit those alleged crimes all over again. Happy Friday! Mehdi here, still recovering from my Wednesday interview with Count Binface &#8211; yes, Count Binface , that&#8217;s his name! Have you not seen it yet? Last night, Count Binface won 9,455 votes in the UK parliamentary by-election in Clacton, provoked by the resignation of sitting MP and Reform UK leader Nigel Farage in a weird and desperate attempt to distract from a hugely contentious financial scandal . Farage was re-elected with 22,239 votes, so the parliamentary investigation into his donations now picks up where it left off. So&#8230; what was the point of all this? But let&#8217;s turn this morning to the man Nigel Farage defers to, Donald Trump , who has been in a spot of bother recently because of the man he defers to: Benjamin Netanyahu . Subscribe now &#8216;Israeli-Derived&#8217; Donald Trump holds a press conference with Benjamin Netanyahu at his Mar-a-Lago club on Dec. 29, "
+    }
+   ]
+  },
+  {
+   "id": "061157ce57",
    "topic": "Health",
    "summary": "Focus On Sport / ocus on Sport, Getty Images Tommy John, the star pitcher who played 26 major league seasons mostly with the Yankees and Dodgers, has died at 83. Aside from winning 288 professional baseball games, he may be most known for inspiring the Tommy John elbow surgery. He was the first person to ever get the surgery after he tore his ulnar collateral ligament in his left elbow during the 1974 season. At the time, it was unclear whether John would ever be able to pitch again. Team doctor Frank Jobe performed the first-of-its-kind operation, which became medical history, and John returned to top form just a year later. On Aug. 8 during Old-Timers\u2019 Day at Yankee Stadium, John thanked Jobe, whom John said, \u201csaved my arm and made it possible for me to continue pitching. That surgery has since gone on to save the careers of countless pitchers, including many of the very best in the\u2026",
    "summaryFrom": "dailybeast",
-   "emphasis": {
-    "bigCount": 7,
-    "indieCount": 2,
-    "big": [
-     "dodgers",
-     "named",
-     "former",
-     "lefty",
-     "name",
-     "major"
-    ],
-    "indie": [
-     "namesake",
-     "pioneering"
-    ]
-   },
+   "emphasis": null,
    "absent": [
     "coop",
     "pub"
    ],
-   "headline": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
+   "headline": "Tommy John, pitcher whose surgery changed baseball, dies at age of 83",
    "updated": "2026-08-17T03:47:14+00:00",
-   "outletCount": 9,
+   "outletCount": 8,
    "counts": {
     "family": 3,
     "corp": 4,
-    "nonprofit": 2
+    "nonprofit": 1
    },
-   "newsCount": 9,
+   "newsCount": 8,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -478,15 +582,6 @@
      "kind": "news",
      "published": "2026-08-17T01:08:44+00:00",
      "summary": "One of Tommy John's biggest legacies to MLB was his comeback elbow reconstruction surgery that now bears his name."
-    },
-    {
-     "outlet": "npr",
-     "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
-     "url": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T18:58:25+00:00",
-     "summary": "The left-handed MLB pitcher was 31 years old when he tore the ulnar collateral ligament in his pitching elbow in 1974, an injury that had been a death knell for pitchers' careers up to that point. (Image credit: Damian Dovarganes)"
     },
     {
      "outlet": "dailybeast",
@@ -536,126 +631,6 @@
    ]
   },
   {
-   "id": "3270aff426",
-   "topic": "World",
-   "summary": "US envoy Jared Kushner met with Hamas\u2019 leader in Egypt on Sunday to push for the group\u2019s disarmament, as Washington attempts to salvage the stalled plan to end one of the region\u2019s ongoing conflicts. Kushner is also expected to meet on Monday with Israeli Prime Minister Benjamin Netanyahu, who rejected US President Donald Trump\u2019s peace plan. Israel has also rejected US calls to withdraw from Gaza and Lebanon, demanding that Hamas and Hezbollah disarm first . Israeli forces bombed Lebanon on Sunday in strikes that Iran regards as violations of a months-old ceasefire, adding pressure to faltering US-Iran negotiations: The White House is searching for new strategies to inflict economic pain on Tehran as Washington prepares measures aimed at creating \u201c economic isolation .\u201d \u2014 Brendan Ruberry",
-   "summaryFrom": "semafor",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 7,
-    "big": [
-     "group",
-     "leader"
-    ],
-    "indie": [
-     "held",
-     "ahead",
-     "meeting",
-     "ceasefire",
-     "trump's",
-     "saudi"
-    ]
-   },
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-   "updated": "2026-08-17T08:43:12+00:00",
-   "outletCount": 8,
-   "counts": {
-    "pub": 4,
-    "nonprofit": 3,
-    "family": 2
-   },
-   "newsCount": 9,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-     "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T08:43:12+00:00",
-     "summary": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Hamas calls for Trump\u2019s Board of Peace to \u2018compel\u2019 Israel over Gaza peace plan \u2013 Middle East crisis live",
-     "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
-     "author": "Mabel Banfield-Nwachi",
-     "kind": "news",
-     "published": "2026-08-17T08:33:53+00:00",
-     "summary": "Jared Kushner set to meet Netanyahu following talks with Hamas Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza Eight Muslim-majority countries have condemned Israel for rejecting Trump\u2019s Gaza roadmap, saying it \u201cfundamentally undermines the collective efforts undertaken to achieve a just and lasting peace.\u201d The joint statement \u2013 signed by Egypt, Jordan, Qatar, Indonesia, Saudi Arabia, Turkey, the United Arab Emirates and Pakistan \u2013 was issued during Trump\u2019s son-in-law and adviser Jared Kushner\u2019s visit to the Middle East. Continue reading..."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Kushner to meet Netanyahu to push Trump Gaza plan",
-     "url": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T08:13:04+00:00",
-     "summary": "The talks come one day after the US president&#039;s son-in-law held a rare meeting with Hamas leaders in Egypt."
-    },
-    {
-     "outlet": "france24",
-     "title": "Middle East live: US envoy Kushner to meet Netanyahu after talks with Hamas",
-     "url": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-17T04:45:34+00:00",
-     "summary": "US envoy Jared Kushner on Monday meets Israeli Prime Minister Benjamin Netanyahu following talks with Hamas leaders in Egypt aimed at reviving a US-backed Gaza peace plan that Israel has so far rejected. Follow our live blog for the latest updates."
-    },
-    {
-     "outlet": "semafor",
-     "title": "US and Hamas hold rare direct talks",
-     "url": "https://www.semafor.com/article/08/16/2026/us-hamas-hold-rare-direct-talks",
-     "author": "Brendan Ruberry",
-     "kind": "news",
-     "published": "2026-08-16T22:20:51+00:00",
-     "summary": "US envoy Jared Kushner met with Hamas\u2019 leader in Egypt on Sunday to push for the group\u2019s disarmament, as Washington attempts to salvage the stalled plan to end one of the region\u2019s ongoing conflicts. Kushner is also expected to meet on Monday with Israeli Prime Minister Benjamin Netanyahu, who rejected US President Donald Trump\u2019s peace plan. Israel has also rejected US calls to withdraw from Gaza and Lebanon, demanding that Hamas and Hezbollah disarm first . Israeli forces bombed Lebanon on Sunday in strikes that Iran regards as violations of a months-old ceasefire, adding pressure to faltering US-Iran negotiations: The White House is searching for new strategies to inflict economic pain on Tehran as Washington prepares measures aimed at creating \u201c economic isolation .\u201d \u2014 Brendan Ruberry"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
-     "url": "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T22:07:32+00:00",
-     "summary": "Trump\u2019s son-in-law and envoy held rare meeting with Hamas chief in Egypt in push for progress on ceasefire Donald Trump\u2019s son-in-law and envoy, Jared Kushner , held a rare meeting with Hamas \u2019s political chief on Sunday in Egypt , in a new diplomatic effort to make progress in the stalled Gaza ceasefire. Kushner will meet on Monday with Benjamin Netanyahu, who is under pressure after rejecting the new 15-point, US-backed road map. The talks aim to salvage the plan for Hamas to disarm and Israel to withdraw from the Palestinian territory shattered by war . Continue reading..."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Kushner Meets With Hamas to Advance Trump\u2019s Gaza Plan",
-     "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
-     "author": "Aaron Boxerman and Zolan Kanno-Youngs",
-     "kind": "news",
-     "published": "2026-08-16T21:16:17+00:00",
-     "summary": "The president\u2019s son-in-law met the Palestinian militant group\u2019s leaders in Egypt, officials said. He will soon see Benjamin Netanyahu, the Israeli leader."
-    },
-    {
-     "outlet": "npr",
-     "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
-     "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T20:20:22+00:00",
-     "summary": "Jared Kushner, President Trump's son-in-law, held a rare meeting with Hamas leadership Sunday in Egypt, in a new diplomatic effort to make progress in the stalled Gaza ceasefire. (Image credit: Alex Brandon)"
-    },
-    {
-     "outlet": "dw",
-     "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
-     "url": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T17:31:00+00:00",
-     "summary": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators and Hamas in Egypt."
-    }
-   ]
-  },
-  {
    "id": "c562c35538",
    "topic": "Politics",
    "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation and The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well-being, and pointed toward the USS George Washington coming to relieve the Lincoln from its\u2026",
@@ -665,10 +640,10 @@
     "indieCount": 2,
     "big": [
      "middle",
-     "sailors",
-     "support",
      "east",
-     "food",
+     "support",
+     "sailors",
+     "diego-based",
      "lawmakers"
     ],
     "indie": []
@@ -770,32 +745,28 @@
    "summaryFrom": "dailywire",
    "emphasis": {
     "bigCount": 3,
-    "indieCount": 4,
+    "indieCount": 3,
     "big": [
      "saturday"
     ],
     "indie": [
      "rain",
-     "winds",
-     "drenching",
-     "again",
-     "landfall",
-     "sending"
+     "winds"
     ]
    },
    "absent": [
     "coop"
    ],
    "headline": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
-   "updated": "2026-08-17T07:59:00+00:00",
-   "outletCount": 7,
+   "updated": "2026-08-17T09:41:37+00:00",
+   "outletCount": 6,
    "counts": {
     "corp": 1,
     "pub": 2,
-    "nonprofit": 2,
+    "nonprofit": 1,
     "family": 2
    },
-   "newsCount": 6,
+   "newsCount": 5,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
@@ -805,7 +776,7 @@
      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-17T07:59:00+00:00",
+     "published": "2026-08-17T09:41:37+00:00",
      "summary": "Lala was weakening but stili packing a punch as it moved away from the islands, forecasters said."
     },
     {
@@ -816,15 +787,6 @@
      "kind": "news",
      "published": "2026-08-17T00:20:51+00:00",
      "summary": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash."
-    },
-    {
-     "outlet": "npr",
-     "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
-     "url": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T15:47:58+00:00",
-     "summary": "Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn't done punishing the Big Island with hurricane-force gusts. (Image credit: Taylor Cozloff/AP)"
     },
     {
      "outlet": "pbsnewshour",
@@ -1030,6 +992,75 @@
    ]
   },
   {
+   "id": "0cf9cf005b",
+   "topic": "Politics",
+   "summary": "Actor Hayden Panettiere has died at 36. Nathan Congleton/NBC via Getty Images \"Heroes\" actor Hayden Panettiere has died at 36. In May, she released a memoir detailing her struggles with postpartum depression and alcoholism. She wrote that after giving birth to her daughter in 2014, she felt like her \"soul was dead.\" Actor Hayden Panettiere has died at 36, her representative told Business Insider on Monday. \"It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her \u2014 and to the millions who watched her onscreen. We ask for privacy as our family takes time to process this unimaginable loss,\" her father, Skip Panettiere, said in a statement. The family did not immediately provide any other details about her death. Panettiere began her acting career as a\u2026",
+   "summaryFrom": "businessinsider",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Actress Hayden Panettiere remembered as 'amazing talent' after death at 36",
+   "updated": "2026-08-17T09:55:42+00:00",
+   "outletCount": 5,
+   "counts": {
+    "corp": 3,
+    "family": 2
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "abcnews",
+     "title": "Actress Hayden Panettiere remembered as 'amazing talent' after death at 36",
+     "url": "https://abcnews.com/GMA/Culture/actress-hayden-panettiere-remembered-amazing-talent-after-death/story?id=135700489",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T09:55:42+00:00",
+     "summary": "Panettiere, star of \"Heroes\" and \"Nashville,\" died at 36, her representative told ABC News."
+    },
+    {
+     "outlet": "nypost",
+     "title": "Hayden Panettiere\u2019s death had no \u2018signs of foul play\u2019: Report",
+     "url": "https://pagesix.com/2026/08/17/celebrity-news/hayden-panettieres-death-at-36-had-no-signs-of-foul-play-report/",
+     "author": "Chris Bradford",
+     "kind": "news",
+     "published": "2026-08-17T09:23:45+00:00",
+     "summary": "Foul play appears to have been ruled out in the death of \u201cHeroes\u201d star Hayden Panettiere, according to a report."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Actress Hayden Panettiere dies at 36",
+     "url": "https://www.nbcnews.com/video/actress-hayden-panettiere-dies-at-36-268386373991",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T04:26:56+00:00",
+     "summary": "Hayden Panettiere, known for her roles in \u2018Heroes\u2019 and \u2018Nashville,\u2019 has passed away at age 36. NBC News' Jessica Layton and Steve Patterson report on her death and how she recently spoke publicly about her experiences with postpartum depression and addiction."
+    },
+    {
+     "outlet": "businessinsider",
+     "title": "Hayden Panettiere opened up about motherhood and addiction months before her death at 36",
+     "url": "https://www.businessinsider.com/hayden-panettiere-dead-at-36-heroes-nashville-depression-alcoholism-2026-8",
+     "author": "Amanda Goh (agoh@businessinsider.com)",
+     "kind": "news",
+     "published": "2026-08-17T04:25:27+00:00",
+     "summary": "Actor Hayden Panettiere has died at 36. Nathan Congleton/NBC via Getty Images \"Heroes\" actor Hayden Panettiere has died at 36. In May, she released a memoir detailing her struggles with postpartum depression and alcoholism. She wrote that after giving birth to her daughter in 2014, she felt like her \"soul was dead.\" Actor Hayden Panettiere has died at 36, her representative told Business Insider on Monday. \"It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her \u2014 and to the millions who watched her onscreen. We ask for privacy as our family takes time to process this unimaginable loss,\" her father, Skip Panettiere, said in a statement. The family did not immediately provide any other details about her death. Panettiere began her acting career as a child, with one of her earliest major roles as Sarah Roberts on the ABC soap opera \"One Life to Live,\" on which she appeared from 1994 to 1997. She later became widely known for playing Claire Bennet in the hit series \"Heroes\" and Juliette Barnes in the musical drama \"Nashville.\" In her memoir , released"
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Al Sharpton: If Dems Take House, Should Subpoena Police Who Said No Foul Play in Death of Black Teen Nolan Wells",
+     "url": "https://www.breitbart.com/politics/2026/08/15/al-sharpton-if-dems-take-house-should-subpoena-police-who-said-no-foul-play-in-death-of-black-teen-nolan-wells/",
+     "author": "Mariane Angela",
+     "kind": "news",
+     "published": "2026-08-16T02:37:53+00:00",
+     "summary": "Al Sharpton called on Democrats to investigate the death of 18-year-old Nolan Wells if they take control of the House. The post Al Sharpton: If Dems Take House, Should Subpoena Police Who Said No Foul Play in Death of Black Teen Nolan Wells appeared first on Breitbart ."
+    }
+   ]
+  },
+  {
    "id": "7afc397fdb",
    "topic": "Health",
    "summary": "The Ebola outbreak in the Democratic Republic of Congo spread to a sixth province as the overall death toll surpassed 2,100 and cases topped 4,500. Experts say the virus may have been transmitted undetected for months, while health workers have struggled to contain the outbreak with poor medical supplies and no approved vaccine for the new strain \u2014 though several are in the works. The head of the World Health Organization this week warned that the current outbreak threatens to be the biggest ever, with authorities playing catch-up to the disease after \u201c a big head start. \u201d During the previous deadliest outbreak, which killed 11,000 people between 2014 and 2016, authorities had recorded 755 cases at the same point . \u2014 Jeronimo Gonzalez",
@@ -1187,10 +1218,10 @@
     "big": [
      "abraham",
      "iran",
-     "military",
      "conditions",
+     "military",
      "command",
-     "sunday"
+     "middle"
     ],
     "indie": []
    },
@@ -1267,78 +1298,9 @@
    ]
   },
   {
-   "id": "2dd6812758",
-   "topic": "Politics",
-   "summary": "South Carolina would hold its primary on Jan. 22, 2028 under the Democratic National Committee\u2019s plan. Nevada would follow on Feb. 1. The plan aims to give a bigger voice to Black and Latino voters.",
-   "summaryFrom": "wapo",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Politics chat: Democrats take lessons from the primaries, set 2028 calendar",
-   "updated": "2026-08-16T11:46:22+00:00",
-   "outletCount": 5,
-   "counts": {
-    "nonprofit": 1,
-    "family": 2,
-    "corp": 2
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "npr",
-     "title": "Politics chat: Democrats take lessons from the primaries, set 2028 calendar",
-     "url": "https://www.npr.org/2026/08/16/nx-s1-5929152/politics-chat-democrats-take-lessons-from-the-primaries-set-2028-calendar",
-     "author": "Danielle Kurtzleben",
-     "kind": "news",
-     "published": "2026-08-16T11:46:22+00:00",
-     "summary": "We look at how the Democrats are gearing up for the 2028 presidential primaries, as well as their takeaways from the current batch of primary races."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Democrats approve 2028 primary calendar that puts South Carolina first",
-     "url": "https://www.washingtonpost.com/politics/2026/08/15/democrats-approve-2028-primary-calendar-that-puts-south-carolina-first/",
-     "author": "Sammy Westfall",
-     "kind": "news",
-     "published": "2026-08-15T19:39:15+00:00",
-     "summary": "South Carolina would hold its primary on Jan. 22, 2028 under the Democratic National Committee\u2019s plan. Nevada would follow on Feb. 1. The plan aims to give a bigger voice to Black and Latino voters."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
-     "url": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
-     "author": "Shane Goldmacher",
-     "kind": "news",
-     "published": "2026-08-15T18:27:46+00:00",
-     "summary": "The party\u2019s membership finalized the new order for the first six states to winnow the candidate field, pushing back Iowa and New Hampshire."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Democrats set their 2028 primary calendar, with South Carolina going first",
-     "url": "https://www.nbcnews.com/politics/2028-election/democrats-officially-set-2028-primary-calendar-south-carolina-going-fi-rcna592519",
-     "author": "Natasha Korecki",
-     "kind": "news",
-     "published": "2026-08-15T18:25:31+00:00",
-     "summary": "The party\u2019s new road map pushes Black and Latino voters and labor to the front of the line for choosing Democrats\u2019 presidential candidate."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "DNC to finalize controversial 2028 primary calendar, elevating South Carolina",
-     "url": "https://abcnews.com/Politics/dnc-set-finalize-controversial-2028-primary-calendar-elevating/story?id=135616869",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-14T09:41:06+00:00",
-     "summary": "The DNC is expected to vote on Saturday to approve the new order of states for the 2028 presidential nominating process, amidst controversy over some of those decisions."
-    }
-   ]
-  },
-  {
-   "id": "bf890708a7",
-   "topic": "World",
-   "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capital Ukraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian authorities. The defence ministry in Moscow said it had shot down 1,478 Ukrainian drones in the past 24 hours \u2013 the highest ever total claimed \u2013 in an escalating air war in which seven Ukrainians were also killed as Russia bombed 13 locations inside the country. Continue reading...",
+   "id": "e756de40b3",
+   "topic": "Other",
+   "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": null,
    "absent": [
@@ -1346,103 +1308,112 @@
     "family",
     "coop"
    ],
-   "headline": "Ukrainian strikes kill six in Russia, acting governor says",
-   "updated": "2026-08-17T08:47:19+00:00",
+   "headline": "Indonesia: Thousands await aid as quake death toll rises to 68",
+   "updated": "2026-08-17T09:33:00+00:00",
    "outletCount": 4,
    "counts": {
     "pub": 3,
-    "nonprofit": 1
+    "nonprofit": 2
    },
-   "newsCount": 4,
+   "newsCount": 5,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
     {
-     "outlet": "bbc",
-     "title": "Ukrainian strikes kill six in Russia, acting governor says",
-     "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+     "outlet": "dw",
+     "title": "Indonesia: Thousands await aid as quake death toll rises to 68",
+     "url": "https://www.dw.com/en/indonesia-thousands-await-aid-as-quake-death-toll-rises-to-68/a-78395000?maca=en-rss-en-all-1573-rdf",
      "author": null,
      "kind": "news",
-     "published": "2026-08-17T08:47:19+00:00",
-     "summary": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "At least six people killed in Ukrainian missile attack on Russia\u2019s Belgorod",
-     "url": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T08:00:05+00:00",
-     "summary": "Overnight Russian missile and drone attacks across Ukraine kill two people and injure 19."
+     "published": "2026-08-17T09:33:00+00:00",
+     "summary": "Indonesia marked its Independence Day on Monday but celebrations have been overshadowed by an earthquake which has left over 60 people dead and thousands homeless. Residents say they need aid as soon as possible."
     },
     {
      "outlet": "france24",
-     "title": "Drone and missile strikes kill 19 in Russia and Ukraine",
-     "url": "https://www.france24.com/en/europe/20260816-drone-and-missile-strikes-kill-19-in-russia-and-ukraine",
+     "title": "More than 12,000 await aid after deadly Indonesian quake",
+     "url": "https://www.france24.com/en/asia-pacific/20260817-more-than-12-000-await-aid-after-deadly-indonesian-quake",
      "author": "FRANCE 24",
      "kind": "news",
-     "published": "2026-08-16T19:12:31+00:00",
-     "summary": "At least 19 people were killed Sunday in drone and missile strikes in Russia and Ukraine which destroyed a book market in Kyiv while Moscow faced one of the most massive attacks since the start of the war. Ukraine and Russia have been escalating their long-range strikes for months, resulting in a growing number of civilian casualties, more than four years after the start of the Russian invasion."
+     "published": "2026-08-17T04:37:14+00:00",
+     "summary": "More than 12,000 people displaced by a deadly 7.7-magnitude earthquake in eastern Indonesia were awaiting urgent aid on Monday as they sheltered at schools, police stations and government offices, while many remained stranded outside."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Rescuers in Indonesia recover more bodies in earthquake aftermath, raising death toll to 53",
+     "url": "https://www.pbs.org/newshour/world/rescuers-in-indonesia-recover-more-bodies-in-earthquake-aftermath-raising-death-toll-to-53",
+     "author": "Firdia Lisnawati, Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T15:25:05+00:00",
+     "summary": "More than 900 homes were destroyed and 450 more damaged in East Nusa Tenggara province, forcing about 5,000 people into temporary shelters."
+    },
+    {
+     "outlet": "france24",
+     "title": "Death toll from Zimbabwe capsized ferry accident rises to 84",
+     "url": "https://www.france24.com/en/africa/20260816-death-toll-from-zimbabwe-capsized-ferry-accident-rises-to-80",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-16T14:01:56+00:00",
+     "summary": "Rescue workers recovered more bodies on Sunday following a ferry capsizing accident that occured earlier this week on Lake Kariba in Zimbabwe, bringing the death toll to at least 84. The search continues, as authorities fear the number of casualties could rise even further."
     },
     {
      "outlet": "guardian",
-     "title": "Ukrainian drone attack on Russia kills at least six, says Moscow",
-     "url": "https://www.theguardian.com/world/2026/aug/16/ukrainian-drone-attack-on-russia-wildberries-warehouse-fire",
-     "author": "Dan Sabbagh in Kyiv",
+     "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+     "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+     "author": "Nadeem Badshah",
      "kind": "news",
-     "published": "2026-08-16T16:10:19+00:00",
-     "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capital Ukraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian authorities. The defence ministry in Moscow said it had shot down 1,478 Ukrainian drones in the past 24 hours \u2013 the highest ever total claimed \u2013 in an escalating air war in which seven Ukrainians were also killed as Russia bombed 13 locations inside the country. Continue reading..."
+     "published": "2026-08-15T19:39:07+00:00",
+     "summary": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading..."
     }
    ]
   },
   {
-   "id": "dc3feadc64",
-   "topic": "World",
-   "summary": "Israeli settlers run as they are chased by an Israeli military vehicle around Palestinian houses in the village of Qusra, south of Nablus, in the occupied West Bank, on Aug. 13, 2026. Photo by Zain Jaafar/AFP via Getty Images US Ambassador Mike Huckabee called settlers besieging a Palestinian American home in the occupied West Bank &#8220; Israeli terrorists .&#8221; It&#8217;s a welcome, rare rebuke from a U.S. official, but what kind of weight does it really have when the same official has been a long-time supporter of Israeli settlements? It wasn&#8217;t that long ago that Huckabee made similar comments about settler violence gripping the Palestinian Christian village of Taybeh , where attacks continue, or the settlers who beat Palestinian American Sayfollah Musallet to death (no one has been held accountable). Subscribe now What kind of weight do Huckabee&#8217;s comments really\u2026",
-   "summaryFrom": "zeteo",
+   "id": "16f26ffefd",
+   "topic": "Justice & Policing",
+   "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions\u2026",
+   "summaryFrom": "reason",
    "emphasis": null,
    "absent": [
     "corp",
-    "family"
+    "family",
+    "coop"
    ],
-   "headline": "UN\u2019s Albanese: Israel outsourcing coercion to settlers in West Bank",
-   "updated": "2026-08-16T23:58:45+00:00",
+   "headline": "West Bank : UN delivers aid to besieged Palestinian families in Qusra",
+   "updated": "2026-08-17T09:18:49+00:00",
    "outletCount": 4,
    "counts": {
     "pub": 2,
-    "coop": 1,
-    "nonprofit": 1
+    "nonprofit": 2
    },
-   "newsCount": 4,
-   "opinionCount": 0,
+   "newsCount": 3,
+   "opinionCount": 1,
    "underreported": true,
    "articles": [
     {
+     "outlet": "france24",
+     "title": "West Bank : UN delivers aid to besieged Palestinian families in Qusra",
+     "url": "https://www.france24.com/en/west-bank-un-delivers-aid-to-besieged-palestinian-families-in-qusra",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-17T09:18:49+00:00",
+     "summary": "The UN delivered aid to Qusra in the West Bank after Israeli settlers cut off several Palestinian families from food, water and electricity. Residents say they have faced months of harassment and attacks, while rights groups accuse settlers of trying to force Palestinians from the area. Critics warn that Israel\u2019s plan to transfer law enforcement powers in the West Bank could further entrench control over the territory."
+    },
+    {
      "outlet": "aljazeera",
-     "title": "UN\u2019s Albanese: Israel outsourcing coercion to settlers in West Bank",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/uns-albanese-israel-outsourcing-coercion-to-settlers-in-west-bank?traffic_source=rss",
+     "title": "Palestinian-American travels to West Bank home encircled by Israeli settler",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T23:58:45+00:00",
-     "summary": "UN Special Rapporteur Francesca Albanese says Israel bears responsibility and is outsourcing coercion to settlers."
+     "published": "2026-08-17T03:41:30+00:00",
+     "summary": "Palestinian-American Loui Ridi is flying from the US to Qusra, where Israeli settlers have encircled his family\u2019s home."
     },
     {
-     "outlet": "france24",
-     "title": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
-     "url": "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-16T12:02:18+00:00",
-     "summary": "A solar eclipse seen across parts of Europe, ongoing search-and-rescue efforts in Colombia after a devastating earthquake killed at least 300 people and left hundreds missing, and escalating violence by Israeli settlers in the occupied West Bank, condemned by the US ambassador to Israel as \"acts of terror\": FRANCE 24 takes a look at the week's most striking images."
-    },
-    {
-     "outlet": "zeteo",
-     "title": "This Week in Palestine: Israel Shoots 13-Year-Old as She \u2018Memorized the Quran\u2019 and Settlers Besiege Palestinian Families",
-     "url": "https://zeteo.com/p/this-week-in-palestine-israel-shoots",
-     "author": "Team Zeteo",
-     "kind": "news",
-     "published": "2026-08-15T17:01:34+00:00",
-     "summary": "Israeli settlers run as they are chased by an Israeli military vehicle around Palestinian houses in the village of Qusra, south of Nablus, in the occupied West Bank, on Aug. 13, 2026. Photo by Zain Jaafar/AFP via Getty Images US Ambassador Mike Huckabee called settlers besieging a Palestinian American home in the occupied West Bank &#8220; Israeli terrorists .&#8221; It&#8217;s a welcome, rare rebuke from a U.S. official, but what kind of weight does it really have when the same official has been a long-time supporter of Israeli settlements? It wasn&#8217;t that long ago that Huckabee made similar comments about settler violence gripping the Palestinian Christian village of Taybeh , where attacks continue, or the settlers who beat Palestinian American Sayfollah Musallet to death (no one has been held accountable). Subscribe now What kind of weight do Huckabee&#8217;s comments really have when, hours after using the phrase &#8220;Israeli terrorists,&#8221; he called the settlers &#8220; illegal trespassers &#8221; instead? Or when he defended the vast majority of settlers, saying they aren&#8217;t the problem, the &#8220; unsettlers &#8221; are, even though the settlements themselve"
+     "outlet": "reason",
+     "title": "Israeli Settler \"Terrorists\" Unjustly Expel West Bank Palestinians From Their Land",
+     "url": "https://reason.com/volokh/2026/08/15/israeli-settler-terrorists-unjustly-expel-west-bank-palestinians-from-their-land/",
+     "author": "Ilya Somin",
+     "kind": "opinion",
+     "published": "2026-08-15T22:17:52+00:00",
+     "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions are deeply unjust, amounting to ethnic cleansing and gross violations of private property rights. They also highlight broader dangers of ethno-nationalist claims to exclusive control over land. The Times of Israel (a center-right Israeli publication) has a helpful overview of the recent settler violenc"
     },
     {
      "outlet": "guardian",
@@ -1456,62 +1427,113 @@
    ]
   },
   {
-   "id": "4e3ba991db",
-   "topic": "World",
-   "summary": "People spend time near the river as a helicopter collects water to extinguish the fire that broke out in a distribution warehouse near Moscow, Russia, after Ukraine's drone attack on Aug. 16, 2026. \u2014Stringer/Anadolu\u2014Getty Images Ukraine launched one of its largest aerial assaults on Russia overnight on Saturday, firing on targets deep inside the country and killing at least six people, according to Russian authorities. Russia\u2019s defense ministry said it destroyed 822 drones. Sergei Sobyanin, the mayor of Moscow, said in a Telegram post that at least 600 drones were launched toward the capital city and that over a third were destroyed. The raid showcased the rapid advancement of Ukraine\u2019s drone and missile capabilities in recent months, which enabled it to strike deep inside Russian territory despite the country\u2019s advanced defense networks. Read More: Why It Is Time for the West to Crush\u2026",
-   "summaryFrom": "time",
+   "id": "68878b208a",
+   "topic": "Politics",
+   "summary": "When President Donald Trump signed an executive order on childhood vaccines this week, Jayme Franklin stood nearby, repeatedly touching her pregnant belly. Franklin, 28, gave brief remarks at the signing and applauded Trump\u2019s order, which seeks to reduce the number of routine vaccines recommended to children. \u201cThis is what this country was built on: freedom for parents to make the decisions that best suit their kid,\u201d she said at the signing. \u201cAnd I\u2019m not anti-vaccine at all. I\u2019m pro-vaccine, but we want to be able to have the freedom to space it out and to choose which one works for our child. We don&#8217;t believe that there&#8217;s a one-size-fits-all solution for every child.\u201d Franklin is a co-founder of The Conservateur, a media brand for conservative women that includes a lifestyle publication and podcast. She\u2019s also a self-described MAHA mom \u2014 a subset of the electorate who lean\u2026",
+   "summaryFrom": "the19th",
    "emphasis": null,
    "absent": [
-    "corp",
-    "coop"
+    "family",
+    "coop",
+    "pub"
    ],
-   "headline": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-   "updated": "2026-08-16T19:00:17+00:00",
+   "headline": "Republican senator denounces Trump\u2019s \u2018crazy, stupid\u2019 claims about MMR vaccine safety",
+   "updated": "2026-08-16T19:58:31+00:00",
    "outletCount": 4,
    "counts": {
-    "family": 1,
     "nonprofit": 2,
-    "pub": 1
+    "corp": 2
    },
    "newsCount": 4,
    "opinionCount": 0,
-   "underreported": true,
+   "underreported": false,
    "articles": [
     {
-     "outlet": "time",
-     "title": "Ukraine Launches One of the War\u2019s Largest Drone Attacks, Killing 6",
-     "url": "https://time.com/article/2026/08/16/ukraine-launches-one-of-the-wars-largest-drone-attacks-killing-6/",
-     "author": "Rebecca Schneid",
+     "outlet": "guardian",
+     "title": "Republican senator denounces Trump\u2019s \u2018crazy, stupid\u2019 claims about MMR vaccine safety",
+     "url": "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims",
+     "author": "Robert Mackey",
      "kind": "news",
-     "published": "2026-08-16T19:00:17+00:00",
-     "summary": "People spend time near the river as a helicopter collects water to extinguish the fire that broke out in a distribution warehouse near Moscow, Russia, after Ukraine's drone attack on Aug. 16, 2026. \u2014Stringer/Anadolu\u2014Getty Images Ukraine launched one of its largest aerial assaults on Russia overnight on Saturday, firing on targets deep inside the country and killing at least six people, according to Russian authorities. Russia\u2019s defense ministry said it destroyed 822 drones. Sergei Sobyanin, the mayor of Moscow, said in a Telegram post that at least 600 drones were launched toward the capital city and that over a third were destroyed. The raid showcased the rapid advancement of Ukraine\u2019s drone and missile capabilities in recent months, which enabled it to strike deep inside Russian territory despite the country\u2019s advanced defense networks. Read More: Why It Is Time for the West to Crush Putin\u2019s War Economy Calling the assault one of the \u201cmost massive drone attacks in recent memory,\u201d the Moscow region\u2019s Gov. Andrei Vorobyov said on Telegram that one of the people killed in the attack was an 83-year-old man who died when a drone \u201ccrashed onto a private home.\u201d Five others were killed i"
+     "published": "2026-08-16T19:58:31+00:00",
+     "summary": "Outgoing Louisiana senator Bill Cassidy, a medical doctor, voted to confirm anti-vaccine activist RFK Jr as health secretary before speaking out Republican senator Bill Cassidy \u2013 a medical doctor who voted to confirm anti-vaccine activist Robert F Kennedy as federal health secretary in early 2025 \u2013 on Sunday denounced Donald Trump \u2019s \u201ccrazy, stupid\u201d claims about the safety of the combined MMR vaccine for undermining faith in immunization. When Trump recently ordered changes to the recommended childhood vaccination schedule, with Kennedy by his side, the president called for two shots of the combined Measles, Mumps and Rubella vaccine to be scrapped in favor of two doses of three separate vaccines, claiming that the MMR shots are \u201csort of like a nuclear weapon\u201d that could be \u201cquite lethal\u201d. Continue reading..."
     },
     {
-     "outlet": "pbsnewshour",
-     "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-     "url": "https://www.pbs.org/newshour/world/ukraine-launches-one-of-its-largest-aerial-attacks-of-the-war-killing-at-least-6-people-in-russia",
-     "author": "Associated Press",
+     "outlet": "dailybeast",
+     "title": "GOP Senator Savages Trump\u2019s \u2018Crazy Stupid\u2019 New Order",
+     "url": "https://www.thedailybeast.com/gop-senator-bill-cassidy-savages-trumps-crazy-stupid-new-order/",
+     "author": "Katie Francis",
      "kind": "news",
-     "published": "2026-08-16T15:05:50+00:00",
-     "summary": "Kyiv has stepped up its attacks on Russia this year, with long-range missiles and swarms of drones targeting military industries and energy facilities."
+     "published": "2026-08-16T14:56:06+00:00",
+     "summary": "CNN Republican Sen. Bill Cassidy is raging against President Donald Trump\u2019s \u201cpotentially tragic\u201d overhaul of the childhood vaccine schedule. Cassidy, a physician, appeared on State of the Union Sunday, and was asked about Trump\u2019s claims that the current combined MMR vaccine could be \u201cquite lethal,\u201d and was comparable to \u201cpumping\u201d a child with \u201ca large vat\u201d or \u201cgallons\u201d of chemicals . \u201cYeah, that\u2019s a crazy, stupid thing,\u201d Cassidy said. Read more at The Daily Beast."
     },
     {
-     "outlet": "dw",
-     "title": "Ukraine launches one of its largest attacks of war",
-     "url": "https://www.dw.com/en/ukraine-launches-one-of-its-largest-attacks-of-war/a-78386779?maca=en-rss-en-all-1573-rdf",
+     "outlet": "abcnews",
+     "title": "GOP Sen. Bill Cassidy on Trump\u2019s vaccine executive order: \u2018Stupid thing to do\u2019",
+     "url": "https://abcnews.com/Politics/gop-sen-bill-cassidy-trumps-vaccine-executive-order/story?id=135685348",
      "author": null,
      "kind": "news",
-     "published": "2026-08-16T10:59:00+00:00",
-     "summary": "Russia says hundreds of drones targeted Moscow overnight, with six fatalities in the capital and southern Rostov region. Five people were killed in strikes across Ukraine."
+     "published": "2026-08-16T14:20:10+00:00",
+     "summary": "Republican Sen. Bill Cassidy said on ABC News' \"This Week\" that Trump's executive order on vaccines was a \"stupid thing to do.\""
     },
     {
-     "outlet": "npr",
-     "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-     "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
-     "author": "The Associated Press",
+     "outlet": "the19th",
+     "title": "What Trump\u2019s vaccine order says about his relationship with MAHA moms",
+     "url": "https://19thnews.org/2026/08/trump-vaccine-order-maha-moms/",
+     "author": "Barbara Rodriguez",
      "kind": "news",
-     "published": "2026-08-16T10:12:09+00:00",
-     "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war. (Image credit: Francisco Seco)"
+     "published": "2026-08-14T18:27:39+00:00",
+     "summary": "When President Donald Trump signed an executive order on childhood vaccines this week, Jayme Franklin stood nearby, repeatedly touching her pregnant belly. Franklin, 28, gave brief remarks at the signing and applauded Trump\u2019s order, which seeks to reduce the number of routine vaccines recommended to children. \u201cThis is what this country was built on: freedom for parents to make the decisions that best suit their kid,\u201d she said at the signing. \u201cAnd I\u2019m not anti-vaccine at all. I\u2019m pro-vaccine, but we want to be able to have the freedom to space it out and to choose which one works for our child. We don&#8217;t believe that there&#8217;s a one-size-fits-all solution for every child.\u201d Franklin is a co-founder of The Conservateur, a media brand for conservative women that includes a lifestyle publication and podcast. She\u2019s also a self-described MAHA mom \u2014 a subset of the electorate who lean into their identities as mothers to advocate for policies that they purport will make children healthier through the Make America Healthy Again movement. Its ranks include several high-ranking women in the White House, like press secretary Karoline Leavitt, who just announced she is leaving her job t"
+    }
+   ]
+  },
+  {
+   "id": "27b7afd2a1",
+   "topic": "Politics",
+   "summary": "As chief US diplomat, Rubio could do great good. His pandering and neglect are a disgrace we shouldn\u2019t ignore Viewed from the state department in Washington DC, the world is on fire \u2013 but record heatwaves are not to blame. The unresolved Iran war has badly burned Donald Trump. His military campaign conclusively failed , energy and food prices are still rising, and a Republican rout in November\u2019s midterm elections looms. Humiliatingly, Israel this week flatly rejected his latest Gaza peace proposals, days after Trump congratulated himself on a \u201chistoric breakthrough\u201d. In Europe, Russia\u2019s attacks on Nato allies grow increasingly brazen, threatening a wider escalation. The Ukraine war, which Trump vowed to end, is now well into its fifth year, with civilians on both sides caught in the killing fields. And these are just the bigger firestorms. There are plenty more. Rarely has the need for\u2026",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Marco Rubio has unique power to promote peace, but he hasn\u2019t. He is almost as bad for the world as Trump | Simon Tisdall",
+   "updated": "2026-08-17T09:13:52+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "China Wants Trump to Roll Out the Red Carpet\u2014and Roll Over",
+     "url": "https://www.newsweek.com/china-wants-trump-to-roll-out-the-red-carpet-and-roll-over-12323370",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T09:13:52+00:00",
+     "summary": "China wants to run relations with the U.S. in a leader-to-leader system, in the same way it already does with Russia&#039;s Vladimir Putin."
+    },
+    {
+     "outlet": "nyt",
+     "title": "China Wants Its Data to Power the World\u2019s A.I.",
+     "url": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
+     "author": "David Pierson and Berry Wang",
+     "kind": "news",
+     "published": "2026-08-17T04:01:07+00:00",
+     "summary": "China is exporting more than A.I. models. It wants its data to influence the world\u2019s chatbots, raising fears that Beijing\u2019s narratives will spread with the technology."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Marco Rubio has unique power to promote peace, but he hasn\u2019t. He is almost as bad for the world as Trump | Simon Tisdall",
+     "url": "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat",
+     "author": "Simon Tisdall",
+     "kind": "opinion",
+     "published": "2026-08-16T05:00:16+00:00",
+     "summary": "As chief US diplomat, Rubio could do great good. His pandering and neglect are a disgrace we shouldn\u2019t ignore Viewed from the state department in Washington DC, the world is on fire \u2013 but record heatwaves are not to blame. The unresolved Iran war has badly burned Donald Trump. His military campaign conclusively failed , energy and food prices are still rising, and a Republican rout in November\u2019s midterm elections looms. Humiliatingly, Israel this week flatly rejected his latest Gaza peace proposals, days after Trump congratulated himself on a \u201chistoric breakthrough\u201d. In Europe, Russia\u2019s attacks on Nato allies grow increasingly brazen, threatening a wider escalation. The Ukraine war, which Trump vowed to end, is now well into its fifth year, with civilians on both sides caught in the killing fields. And these are just the bigger firestorms. There are plenty more. Rarely has the need for effective, professional diplomacy been more pressing. So step forward Marco Rubio, US secretary of state and chief American diplomat. These are challenges that, if successfully tackled, could propel the 55-year-old son of Cuban immigrants and the former US senator for Florida into pole position in th"
     }
    ]
   },
@@ -1567,53 +1589,53 @@
    ]
   },
   {
-   "id": "5dd7b67e23",
-   "topic": "Other",
-   "summary": "Actor Hayden Panettiere has died at 36. Nathan Congleton/NBC via Getty Images \"Heroes\" actor Hayden Panettiere has died at 36, Business Insider has confirmed. In May, she released a memoir detailing her struggles with postpartum depression and alcoholism. She wrote that after giving birth to her daughter in 2014, she felt like her \"soul was dead.\" Actor Hayden Panettiere has died at 36, her representative told Business Insider on Monday. \"It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her \u2014 and to the millions who watched her onscreen. We ask for privacy as our family takes time to process this unimaginable loss,\" her father, Skip Panettiere, said in a statement. The family did not immediately provide any other details about her death. Panettiere\u2026",
-   "summaryFrom": "businessinsider",
+   "id": "bf890708a7",
+   "topic": "World",
+   "summary": "At least 19 people were killed Sunday in drone and missile strikes in Russia and Ukraine which destroyed a book market in Kyiv while Moscow faced one of the most massive attacks since the start of the war. Ukraine and Russia have been escalating their long-range strikes for months, resulting in a growing number of civilian casualties, more than four years after the start of the Russian invasion.",
+   "summaryFrom": "france24",
    "emphasis": null,
    "absent": [
+    "corp",
+    "family",
     "coop",
-    "pub"
+    "nonprofit"
    ],
-   "headline": "Hayden Panettiere \u2013 a life in pictures",
-   "updated": "2026-08-17T08:06:00+00:00",
+   "headline": "Ukrainian strikes kill six in Russia, acting governor says",
+   "updated": "2026-08-17T08:47:19+00:00",
    "outletCount": 3,
    "counts": {
-    "family": 1,
-    "nonprofit": 1,
-    "corp": 1
+    "pub": 3
    },
    "newsCount": 3,
    "opinionCount": 0,
-   "underreported": false,
+   "underreported": true,
    "articles": [
     {
-     "outlet": "nypost",
-     "title": "Tributes to Hayden Panettiere pour in following her death at 36: \u2018Don\u2019t be gone\u2019",
-     "url": "https://pagesix.com/2026/08/17/entertainment/hayden-panettiere-tributes-pour-in-following-her-death-at-36-dont-be-gone/",
-     "author": "Chris Bradford",
+     "outlet": "bbc",
+     "title": "Ukrainian strikes kill six in Russia, acting governor says",
+     "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-17T08:06:00+00:00",
-     "summary": "A devastated Selma Blair has paid tribute to Hayden Panettiere following her death at age 36 \u2013 writing in one post: \u201cI\u2019m dying, Please be here.\u201d"
+     "published": "2026-08-17T08:47:19+00:00",
+     "summary": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says."
     },
     {
-     "outlet": "guardian",
-     "title": "Hayden Panettiere \u2013 a life in pictures",
-     "url": "https://www.theguardian.com/tv-and-radio/gallery/2026/aug/17/hayden-panettiere-death-star-tv-movies-nashville-heroes-scream",
-     "author": "Guardian Staff",
+     "outlet": "aljazeera",
+     "title": "At least six people killed in Ukrainian missile attack on Russia\u2019s Belgorod",
+     "url": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-17T05:43:34+00:00",
-     "summary": "The American actor known for her roles in Nashville, Heroes and Remember the Titans has died aged 36 Continue reading..."
+     "published": "2026-08-17T08:00:05+00:00",
+     "summary": "Overnight Russian missile and drone attacks across Ukraine kill two people and injure 19."
     },
     {
-     "outlet": "businessinsider",
-     "title": "Hayden Panettiere opened up about motherhood and addiction months before her death at 36",
-     "url": "https://www.businessinsider.com/hayden-panettiere-dead-at-36-heroes-nashville-depression-alcoholism-2026-8",
-     "author": "Amanda Goh (agoh@businessinsider.com)",
+     "outlet": "france24",
+     "title": "Drone and missile strikes kill 19 in Russia and Ukraine",
+     "url": "https://www.france24.com/en/europe/20260816-drone-and-missile-strikes-kill-19-in-russia-and-ukraine",
+     "author": "FRANCE 24",
      "kind": "news",
-     "published": "2026-08-17T04:25:27+00:00",
-     "summary": "Actor Hayden Panettiere has died at 36. Nathan Congleton/NBC via Getty Images \"Heroes\" actor Hayden Panettiere has died at 36, Business Insider has confirmed. In May, she released a memoir detailing her struggles with postpartum depression and alcoholism. She wrote that after giving birth to her daughter in 2014, she felt like her \"soul was dead.\" Actor Hayden Panettiere has died at 36, her representative told Business Insider on Monday. \"It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her \u2014 and to the millions who watched her onscreen. We ask for privacy as our family takes time to process this unimaginable loss,\" her father, Skip Panettiere, said in a statement. The family did not immediately provide any other details about her death. Panettiere began her acting career as a child, with one of her earliest major roles as Sarah Roberts on the ABC soap opera \"One Life to Live,\" on which she appeared from 1994 to 1997. She later became widely known for playing Claire Bennet in the hit series \"Heroes\" and Juliette Barnes in the musical drama \"Nash"
+     "published": "2026-08-16T19:12:31+00:00",
+     "summary": "At least 19 people were killed Sunday in drone and missile strikes in Russia and Ukraine which destroyed a book market in Kyiv while Moscow faced one of the most massive attacks since the start of the war. Ukraine and Russia have been escalating their long-range strikes for months, resulting in a growing number of civilian casualties, more than four years after the start of the Russian invasion."
     }
    ]
   },
@@ -1669,7 +1691,7 @@
    ]
   },
   {
-   "id": "c0dd78f8a3",
+   "id": "5dd7b67e23",
    "topic": "Other",
    "summary": "\"Nashville\" actress Hayden Panettiere died, her representative confirmed to Fox News Digital. She was 36. Circumstances surrounding her death were not immediately made available. \"It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her \u2013 and to the millions who watched her onscreen,\" her rep said in a statement provided to ABC News. \u2018SOPRANOS\u2019 STARS REUNITE IN EMOTIONAL FAREWELL FOR VINCENT PASTORE The New York native began acting at a young age, and was cast in \"One Life to Live\" when she was 4 years old. She found fame with a starring role alongside Denzel Washington in the 2000 classic, \"Remember the Titans.\" It was at the age of 15 when Panettiere remembered being offered \"happy pills,\" and her addiction to opioids and alcohol began. \u2018GODZILLA VS.\u2026",
    "summaryFrom": "foxnews",
@@ -1677,19 +1699,28 @@
    "absent": [
     "corp",
     "coop",
-    "nonprofit",
     "pub"
    ],
-   "headline": "Hayden Panettiere Spoke Extensively About Her Struggles Before She Passed",
-   "updated": "2026-08-17T04:57:28+00:00",
+   "headline": "Hayden Panettiere \u2013 a life in pictures",
+   "updated": "2026-08-17T05:43:34+00:00",
    "outletCount": 3,
    "counts": {
-    "family": 3
+    "nonprofit": 1,
+    "family": 2
    },
    "newsCount": 3,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Hayden Panettiere \u2013 a life in pictures",
+     "url": "https://www.theguardian.com/tv-and-radio/gallery/2026/aug/17/hayden-panettiere-death-star-tv-movies-nashville-heroes-scream",
+     "author": "Guardian Staff",
+     "kind": "news",
+     "published": "2026-08-17T05:43:34+00:00",
+     "summary": "The American actor known for her roles in Nashville, Heroes and Remember the Titans has died aged 36 Continue reading..."
+    },
     {
      "outlet": "forbes",
      "title": "Hayden Panettiere Spoke Extensively About Her Struggles Before She Passed",
@@ -1700,15 +1731,6 @@
      "summary": "Hollywood is reeling from the unexpected passing of Hayden Panettiere at 36, with no cause of death yet released."
     },
     {
-     "outlet": "breitbart",
-     "title": "'Scream' Franchise Star Hayden Panettiere Dead at 36",
-     "url": "https://www.breitbart.com/entertainment/2026/08/16/scream-franchise-star-hayden-panettiere-dead-36/",
-     "author": "Paul Bois",
-     "kind": "news",
-     "published": "2026-08-17T04:41:09+00:00",
-     "summary": "Actress Hayden Panettiere, one of the many stars who graced the Scream franchise, died this weekend at the young age of 36. The post &#8216;Scream&#8217; Franchise Star Hayden Panettiere Dead at 36 appeared first on Breitbart ."
-    },
-    {
      "outlet": "foxnews",
      "title": "Hayden Panettiere dead at 36",
      "url": "https://www.foxnews.com/entertainment/hayden-panettiere-dead-36",
@@ -1716,108 +1738,6 @@
      "kind": "news",
      "published": "2026-08-17T03:12:03+00:00",
      "summary": "\"Nashville\" actress Hayden Panettiere died, her representative confirmed to Fox News Digital. She was 36. Circumstances surrounding her death were not immediately made available. \"It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her \u2013 and to the millions who watched her onscreen,\" her rep said in a statement provided to ABC News. \u2018SOPRANOS\u2019 STARS REUNITE IN EMOTIONAL FAREWELL FOR VINCENT PASTORE The New York native began acting at a young age, and was cast in \"One Life to Live\" when she was 4 years old. She found fame with a starring role alongside Denzel Washington in the 2000 classic, \"Remember the Titans.\" It was at the age of 15 when Panettiere remembered being offered \"happy pills,\" and her addiction to opioids and alcohol began. \u2018GODZILLA VS. KONG\u2019 ACTRESS KAYLEE HOTTLE CAUSE OF DEATH REVEALED \"They were to make me peppy during interviews,\" Panettiere told People in 2022. \"I had no idea that this was not an appropriate thing, or what door that would open for me when it came to my addiction.\" Panettiere noted that as her career skyrocketed,"
-    }
-   ]
-  },
-  {
-   "id": "7aed4eab95",
-   "topic": "Business & Economy",
-   "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions\u2026",
-   "summaryFrom": "reason",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Palestinian-American travels to West Bank home encircled by Israeli settler",
-   "updated": "2026-08-17T03:41:30+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Palestinian-American travels to West Bank home encircled by Israeli settler",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T03:41:30+00:00",
-     "summary": "Palestinian-American Loui Ridi is flying from the US to Qusra, where Israeli settlers have encircled his family\u2019s home."
-    },
-    {
-     "outlet": "france24",
-     "title": "West Bank: Activist recounts life under settler siege in Qusra",
-     "url": "https://www.france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-16T14:38:57+00:00",
-     "summary": "A week after Israeli settlers began besieging Palestinian homes in the West Bank village of Qusra, human rights activist Netanael Hanadaro joined FRANCE 24 to recount what he witnessed there. He said he and other NGO members reached the isolated homes on foot and left food outside for the trapped residents, with the Israeli army saying it would deliver the supplies. Hanadaro described an extraordinary situation in which the homes, located on the outskirts of the village, have been surrounded by settlers while the army works to prevent clashes between the settlers and activists."
-    },
-    {
-     "outlet": "reason",
-     "title": "Israeli Settler \"Terrorists\" Unjustly Expel West Bank Palestinians From Their Land",
-     "url": "https://reason.com/volokh/2026/08/15/israeli-settler-terrorists-unjustly-expel-west-bank-palestinians-from-their-land/",
-     "author": "Ilya Somin",
-     "kind": "opinion",
-     "published": "2026-08-15T22:17:52+00:00",
-     "summary": "As a general rule, I support Israel in its conflicts with adversaries like Hamas, Hezbollah and Iran. While I am no great fan of either the present Israeli government or the ideology of Zionism, Israel upholds liberal democratic values to a far greater extent than any of its enemies, and their victory would be a terrible catastrophe. Thus, I've even gone so far as to argue that it is a mistake for the Israelis to make hostage exchange deals with groups like Hamas, because doing so encourages more more terrorism. But it is also important to remember that not all Israeli actions are just, and that Palestinian Arabs also have human rights that must be respected. This is one of those times where these points must be emphasized. Over the last few years, Israeli settlers on the West Bank have repeatedly attacked Palestinians living there, seeking to force them off their land. These actions are deeply unjust, amounting to ethnic cleansing and gross violations of private property rights. They also highlight broader dangers of ethno-nationalist claims to exclusive control over land. The Times of Israel (a center-right Israeli publication) has a helpful overview of the recent settler violenc"
-    }
-   ]
-  },
-  {
-   "id": "add24b0459",
-   "topic": "Culture & Sport",
-   "summary": "Caitlin Clark and Angel Reese gave the WNBA an overtime thriller Sunday evening at State Farm Arena. Clark scored 26 points, hit two enormous free throws late in overtime and grabbed the game-sealing rebound as the Indiana Fever beat Reese and the Atlanta Dream, 95-91. ANGEL REESE\u2019S LATEST WNBA CONTROVERSY SHOWS HOW VICTIMHOOD BECAME CENTRAL TO HER BRAND It was a real team win for the Fever. But Clark and Reese were right in the middle of the biggest moments, including Reese\u2019s missed layup at the end of regulation that sent the game to overtime. Indiana had to earn it, too. The Fever trailed by eight after Atlanta scored 28 points in the third quarter to open a 72-64 advantage. But for a team known for its offensive firepower, it was Indiana\u2019s defense that made the clutch plays down the stretch. The Fever held the Dream to nine points in the fourth, outscored Atlanta 17-9 and forced\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Caitlin Clark Goes Viral for This Reaction to Angel Reese Missing Game-Winning Layup",
-   "updated": "2026-08-17T03:23:42+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 3
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Caitlin Clark Goes Viral for This Reaction to Angel Reese Missing Game-Winning Layup",
-     "url": "https://www.breitbart.com/sports/2026/08/16/caitlin-clark-goes-viral-this-reaction-angel-reese-missing-game-winning-layup/",
-     "author": "Paul Bois",
-     "kind": "news",
-     "published": "2026-08-17T03:23:42+00:00",
-     "summary": "Indiana Fever star Caitlin Clark went viral on social media Sunday night after video captured her laughing behind a frustrated Angel Reese. The post Caitlin Clark Goes Viral for This Reaction to Angel Reese Missing Game-Winning Layup appeared first on Breitbart ."
-    },
-    {
-     "outlet": "nypost",
-     "title": "Caitlin Clark caught smiling with Angel Reese in anguish over missing potential game-winning layup",
-     "url": "https://nypost.com/2026/08/16/sports/caitlin-clark-caught-smiling-after-angel-reese-misses-layup/",
-     "author": "Joseph Staszewski",
-     "kind": "news",
-     "published": "2026-08-17T02:49:56+00:00",
-     "summary": "Maybe it was relief from Caitlin Clark. Maybe it was disbelief. Or maybe it was something different altogether."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Caitlin Clark and Angel Reese rivalry gets a new chapter in Fever-Dream overtime thriller",
-     "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-angel-reese-rivalry-new-chapter-fever-dream-overtime-thriller",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T00:17:30+00:00",
-     "summary": "Caitlin Clark and Angel Reese gave the WNBA an overtime thriller Sunday evening at State Farm Arena. Clark scored 26 points, hit two enormous free throws late in overtime and grabbed the game-sealing rebound as the Indiana Fever beat Reese and the Atlanta Dream, 95-91. ANGEL REESE\u2019S LATEST WNBA CONTROVERSY SHOWS HOW VICTIMHOOD BECAME CENTRAL TO HER BRAND It was a real team win for the Fever. But Clark and Reese were right in the middle of the biggest moments, including Reese\u2019s missed layup at the end of regulation that sent the game to overtime. Indiana had to earn it, too. The Fever trailed by eight after Atlanta scored 28 points in the third quarter to open a 72-64 advantage. But for a team known for its offensive firepower, it was Indiana\u2019s defense that made the clutch plays down the stretch. The Fever held the Dream to nine points in the fourth, outscored Atlanta 17-9 and forced overtime. It was the lowest fourth-quarter scoring output for the Dream this season. But it almost didn't matter. The Dream had the ball in the final seconds of regulation with the score tied 81-81. Rhyne Howard missed a 3 with 5.5 seconds left, but Reese grabbed the offensive rebound and had a clean lo"
     }
    ]
   },
@@ -2026,57 +1946,6 @@
    ]
   },
   {
-   "id": "68878b208a",
-   "topic": "Politics",
-   "summary": "When President Donald Trump signed an executive order on childhood vaccines this week, Jayme Franklin stood nearby, repeatedly touching her pregnant belly. Franklin, 28, gave brief remarks at the signing and applauded Trump\u2019s order, which seeks to reduce the number of routine vaccines recommended to children. \u201cThis is what this country was built on: freedom for parents to make the decisions that best suit their kid,\u201d she said at the signing. \u201cAnd I\u2019m not anti-vaccine at all. I\u2019m pro-vaccine, but we want to be able to have the freedom to space it out and to choose which one works for our child. We don&#8217;t believe that there&#8217;s a one-size-fits-all solution for every child.\u201d Franklin is a co-founder of The Conservateur, a media brand for conservative women that includes a lifestyle publication and podcast. She\u2019s also a self-described MAHA mom \u2014 a subset of the electorate who lean\u2026",
-   "summaryFrom": "the19th",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Republican senator denounces Trump\u2019s \u2018crazy, stupid\u2019 claims about MMR vaccine safety",
-   "updated": "2026-08-16T19:58:31+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 2,
-    "corp": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Republican senator denounces Trump\u2019s \u2018crazy, stupid\u2019 claims about MMR vaccine safety",
-     "url": "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims",
-     "author": "Robert Mackey",
-     "kind": "news",
-     "published": "2026-08-16T19:58:31+00:00",
-     "summary": "Outgoing Louisiana senator Bill Cassidy, a medical doctor, voted to confirm anti-vaccine activist RFK Jr as health secretary before speaking out Republican senator Bill Cassidy \u2013 a medical doctor who voted to confirm anti-vaccine activist Robert F Kennedy as federal health secretary in early 2025 \u2013 on Sunday denounced Donald Trump \u2019s \u201ccrazy, stupid\u201d claims about the safety of the combined MMR vaccine for undermining faith in immunization. When Trump recently ordered changes to the recommended childhood vaccination schedule, with Kennedy by his side, the president called for two shots of the combined Measles, Mumps and Rubella vaccine to be scrapped in favor of two doses of three separate vaccines, claiming that the MMR shots are \u201csort of like a nuclear weapon\u201d that could be \u201cquite lethal\u201d. Continue reading..."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "GOP Senator Savages Trump\u2019s \u2018Crazy Stupid\u2019 New Order",
-     "url": "https://www.thedailybeast.com/gop-senator-bill-cassidy-savages-trumps-crazy-stupid-new-order/",
-     "author": "Katie Francis",
-     "kind": "news",
-     "published": "2026-08-16T14:56:06+00:00",
-     "summary": "CNN Republican Sen. Bill Cassidy is raging against President Donald Trump\u2019s \u201cpotentially tragic\u201d overhaul of the childhood vaccine schedule. Cassidy, a physician, appeared on State of the Union Sunday, and was asked about Trump\u2019s claims that the current combined MMR vaccine could be \u201cquite lethal,\u201d and was comparable to \u201cpumping\u201d a child with \u201ca large vat\u201d or \u201cgallons\u201d of chemicals . \u201cYeah, that\u2019s a crazy, stupid thing,\u201d Cassidy said. Read more at The Daily Beast."
-    },
-    {
-     "outlet": "the19th",
-     "title": "What Trump\u2019s vaccine order says about his relationship with MAHA moms",
-     "url": "https://19thnews.org/2026/08/trump-vaccine-order-maha-moms/",
-     "author": "Barbara Rodriguez",
-     "kind": "news",
-     "published": "2026-08-14T18:27:39+00:00",
-     "summary": "When President Donald Trump signed an executive order on childhood vaccines this week, Jayme Franklin stood nearby, repeatedly touching her pregnant belly. Franklin, 28, gave brief remarks at the signing and applauded Trump\u2019s order, which seeks to reduce the number of routine vaccines recommended to children. \u201cThis is what this country was built on: freedom for parents to make the decisions that best suit their kid,\u201d she said at the signing. \u201cAnd I\u2019m not anti-vaccine at all. I\u2019m pro-vaccine, but we want to be able to have the freedom to space it out and to choose which one works for our child. We don&#8217;t believe that there&#8217;s a one-size-fits-all solution for every child.\u201d Franklin is a co-founder of The Conservateur, a media brand for conservative women that includes a lifestyle publication and podcast. She\u2019s also a self-described MAHA mom \u2014 a subset of the electorate who lean into their identities as mothers to advocate for policies that they purport will make children healthier through the Make America Healthy Again movement. Its ranks include several high-ranking women in the White House, like press secretary Karoline Leavitt, who just announced she is leaving her job t"
-    }
-   ]
-  },
-  {
    "id": "40507e217d",
    "topic": "Other",
    "summary": "A 19-year-old man was arrested Saturday in connection with a shooting that wounded five people at Virginia State University after authorities found him hiding inside a campus dormitory closet, police said. Camron Harris of Henrico, Virginia, was found hiding in a closet inside Seward Hall at approximately 4 p.m., more than 14 hours after the shooting erupted near university residence halls early Saturday morning, according to the Associated Press. Harris is not a student at Virginia State University. Camron Harris (Chesterfield County Police via AP) Police obtained eight felony warrants for Harris: four counts of malicious wounding and four counts of using a firearm in the commission of a felony. He was taken to the Chesterfield County Jail and is being held without bond. Authorities said additional charges may be filed, according to WTVR. The shooting occurred at approximately 1:28\u2026",
@@ -2085,10 +1954,10 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "wounded",
-     "erupted",
      "near",
-     "early"
+     "early",
+     "wounded",
+     "erupted"
     ],
     "indie": []
    },
@@ -2143,6 +2012,57 @@
      "kind": "opinion",
      "published": "2026-08-15T07:47:18+00:00",
      "summary": "Five people were wounded when at least one gunman opened fire at Virginia State University early Saturday morning, just two days before the start of the semester. Gunfire erupted near some of the university\u2019s dormitories in Chesterfield County around 1:30 a.m. ET, WTVR CBS 6 reported . When police arrived, they found five people suffering from gunshot wounds. One victim was initially treated for life-threatening wounds and was later upgraded to critical condition. The other four victims appear to have suffered minor graze wounds. In a post on social media, university officials said that the shooting involves &#8220;multiple suspects.&#8221; &#8220;VSU Police and the Chesterfield County Police Department are actively investigating,&#8221; Virginia State University said at 5:56 a.m. In an update at 8:22 a.m., the university said that the lockdown had been lifted, but &#8220;a significant law enforcement presence remains on campus as the investigation into this morning&#8217;s shooting continues.&#8221; It appears that no suspects have been taken into custody as of time of publication, and the university urged anyone with information on the shooting to contact law enforcement. pic.twi"
+    }
+   ]
+  },
+  {
+   "id": "4e3ba991db",
+   "topic": "World",
+   "summary": "People spend time near the river as a helicopter collects water to extinguish the fire that broke out in a distribution warehouse near Moscow, Russia, after Ukraine's drone attack on Aug. 16, 2026. \u2014Stringer/Anadolu\u2014Getty Images Ukraine launched one of its largest aerial assaults on Russia overnight on Saturday, firing on targets deep inside the country and killing at least six people, according to Russian authorities. Russia\u2019s defense ministry said it destroyed 822 drones. Sergei Sobyanin, the mayor of Moscow, said in a Telegram post that at least 600 drones were launched toward the capital city and that over a third were destroyed. The raid showcased the rapid advancement of Ukraine\u2019s drone and missile capabilities in recent months, which enabled it to strike deep inside Russian territory despite the country\u2019s advanced defense networks. Read More: Why It Is Time for the West to Crush\u2026",
+   "summaryFrom": "time",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+   "updated": "2026-08-16T19:00:17+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 1,
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "time",
+     "title": "Ukraine Launches One of the War\u2019s Largest Drone Attacks, Killing 6",
+     "url": "https://time.com/article/2026/08/16/ukraine-launches-one-of-the-wars-largest-drone-attacks-killing-6/",
+     "author": "Rebecca Schneid",
+     "kind": "news",
+     "published": "2026-08-16T19:00:17+00:00",
+     "summary": "People spend time near the river as a helicopter collects water to extinguish the fire that broke out in a distribution warehouse near Moscow, Russia, after Ukraine's drone attack on Aug. 16, 2026. \u2014Stringer/Anadolu\u2014Getty Images Ukraine launched one of its largest aerial assaults on Russia overnight on Saturday, firing on targets deep inside the country and killing at least six people, according to Russian authorities. Russia\u2019s defense ministry said it destroyed 822 drones. Sergei Sobyanin, the mayor of Moscow, said in a Telegram post that at least 600 drones were launched toward the capital city and that over a third were destroyed. The raid showcased the rapid advancement of Ukraine\u2019s drone and missile capabilities in recent months, which enabled it to strike deep inside Russian territory despite the country\u2019s advanced defense networks. Read More: Why It Is Time for the West to Crush Putin\u2019s War Economy Calling the assault one of the \u201cmost massive drone attacks in recent memory,\u201d the Moscow region\u2019s Gov. Andrei Vorobyov said on Telegram that one of the people killed in the attack was an 83-year-old man who died when a drone \u201ccrashed onto a private home.\u201d Five others were killed i"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+     "url": "https://www.pbs.org/newshour/world/ukraine-launches-one-of-its-largest-aerial-attacks-of-the-war-killing-at-least-6-people-in-russia",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T15:05:50+00:00",
+     "summary": "Kyiv has stepped up its attacks on Russia this year, with long-range missiles and swarms of drones targeting military industries and energy facilities."
+    },
+    {
+     "outlet": "dw",
+     "title": "Ukraine launches one of its largest attacks of war",
+     "url": "https://www.dw.com/en/ukraine-launches-one-of-its-largest-attacks-of-war/a-78386779?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-16T10:59:00+00:00",
+     "summary": "Russia says hundreds of drones targeted Moscow overnight, with six fatalities in the capital and southern Rostov region. Five people were killed in strikes across Ukraine."
     }
    ]
   },
@@ -2351,6 +2271,57 @@
    ]
   },
   {
+   "id": "2dd6812758",
+   "topic": "Politics",
+   "summary": "South Carolina would hold its primary on Jan. 22, 2028 under the Democratic National Committee\u2019s plan. Nevada would follow on Feb. 1. The plan aims to give a bigger voice to Black and Latino voters.",
+   "summaryFrom": "wapo",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Politics chat: Democrats take lessons from the primaries, set 2028 calendar",
+   "updated": "2026-08-16T11:46:22+00:00",
+   "outletCount": 3,
+   "counts": {
+    "nonprofit": 1,
+    "family": 2
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "npr",
+     "title": "Politics chat: Democrats take lessons from the primaries, set 2028 calendar",
+     "url": "https://www.npr.org/2026/08/16/nx-s1-5929152/politics-chat-democrats-take-lessons-from-the-primaries-set-2028-calendar",
+     "author": "Danielle Kurtzleben",
+     "kind": "news",
+     "published": "2026-08-16T11:46:22+00:00",
+     "summary": "We look at how the Democrats are gearing up for the 2028 presidential primaries, as well as their takeaways from the current batch of primary races."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Democrats approve 2028 primary calendar that puts South Carolina first",
+     "url": "https://www.washingtonpost.com/politics/2026/08/15/democrats-approve-2028-primary-calendar-that-puts-south-carolina-first/",
+     "author": "Sammy Westfall",
+     "kind": "news",
+     "published": "2026-08-15T19:39:15+00:00",
+     "summary": "South Carolina would hold its primary on Jan. 22, 2028 under the Democratic National Committee\u2019s plan. Nevada would follow on Feb. 1. The plan aims to give a bigger voice to Black and Latino voters."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
+     "url": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
+     "author": "Shane Goldmacher",
+     "kind": "news",
+     "published": "2026-08-15T18:27:46+00:00",
+     "summary": "The party\u2019s membership finalized the new order for the first six states to winnow the candidate field, pushing back Iowa and New Hampshire."
+    }
+   ]
+  },
+  {
    "id": "c26019a127",
    "topic": "Justice & Policing",
    "summary": "CBS News chief correspondent Matt Gutman is facing sexual harassment allegations in a lawsuit filed by a former ABC News colleague, who claims he made inappropriate sexual remarks on two assignments during his time at that network. Former ABC News field producer Samira Said named Gutman, ABC News and parent company The Walt Disney Co. as defendants in the suit filed Friday in Los Angeles Superior Court. Said, who worked in ABC&#8217;s Los Angeles bureau from May 2021 until March 2025, alleges discrimination, hostile work environment harassment, retaliation, failure to accommodate her medical conditions and wrongful termination. Said alleges she was &#8220;placed on a male-only team including on-air correspondent Matt Gutman&#8221; and two other male crew members. &#8220;While the team waited in a public queue during the assignment, Gutman initiated a discussion rating a female\u2026",
@@ -2402,57 +2373,6 @@
    ]
   },
   {
-   "id": "de3990c6ff",
-   "topic": "Politics",
-   "summary": "Former Rep. Mary Peltola\u2019s (D-AK) Senate campaign made clear this week that it wants nothing to do with former Vice President Kamala Harris\u2019s message of support. On Wednesday, Harris\u2019s Fight for the People PAC sent an email urging supporters to \u201cstand behind Mary,\u201d The New York Times reported . It called the Alaska contest a \u201cmust-win race\u201d for Democrats hoping to retake the Senate and declared, \u201cIf there\u2019s anyone who can flip Alaska and secure the Senate majority for Democrats \u2014 it\u2019s Mary.\u201d The message linked to a page asking donors to split contributions between Peltola\u2019s campaign and Harris\u2019s own committee. Peltola\u2019s team responded immediately. The campaign said it had not approved the email and had no knowledge of it before it went out. \u201cMary isn\u2019t seeking endorsements from anyone from the Lower 48 \u2014 her focus is and always will be Alaska,\u201d the statement read, citing support she has\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Alaska candidate for US Senate rejects Kamala Harris\u2019s unsolicited support",
-   "updated": "2026-08-15T18:16:22+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dailywire",
-     "title": "Dem Senate Hopeful Runs From Kamala Harris Support",
-     "url": "https://www.dailywire.com/news/dem-senate-hopeful-runs-from-kamala-harris-support",
-     "author": "Leona Salinas",
-     "kind": "opinion",
-     "published": "2026-08-15T18:16:22+00:00",
-     "summary": "Former Rep. Mary Peltola\u2019s (D-AK) Senate campaign made clear this week that it wants nothing to do with former Vice President Kamala Harris\u2019s message of support. On Wednesday, Harris\u2019s Fight for the People PAC sent an email urging supporters to \u201cstand behind Mary,\u201d The New York Times reported . It called the Alaska contest a \u201cmust-win race\u201d for Democrats hoping to retake the Senate and declared, \u201cIf there\u2019s anyone who can flip Alaska and secure the Senate majority for Democrats \u2014 it\u2019s Mary.\u201d The message linked to a page asking donors to split contributions between Peltola\u2019s campaign and Harris\u2019s own committee. Peltola\u2019s team responded immediately. The campaign said it had not approved the email and had no knowledge of it before it went out. \u201cMary isn\u2019t seeking endorsements from anyone from the Lower 48 \u2014 her focus is and always will be Alaska,\u201d the statement read, citing support she has received from several Alaska labor groups. Peltola did not endorse Harris in 2024. Peltola, a former congresswoman, is running against incumbent Senator Dan Sullivan (R-AK). Limited polling thus far shows the race to be competitive, but Peltola would need to far outperform Harris\u2019s 2024 showing in t"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Alaska candidate for US Senate rejects Kamala Harris\u2019s unsolicited support",
-     "url": "https://www.theguardian.com/us-news/2026/aug/15/alaska-mary-peltola-rejects-kamala-harris-unsolicited-support",
-     "author": "Adam Gabbatt",
-     "kind": "news",
-     "published": "2026-08-15T15:07:54+00:00",
-     "summary": "Former VP sent fundraising appeal for Democrat Mary Peltola\u2019s campaign \u2013 with half of donations going to Harris\u2019s organization Alaska US Senate candidate Mary Peltola has rejected the support of Kamala Harris , her fellow Democrat, after the 2024 presidential candidate sent out a seemingly unsolicited fundraising appeal on Peltola\u2019s behalf. Harris, who lost Alaska \u2013 typically a Republican-voting state \u2013 by 13 points during her unsuccessful White House run, on Wednesday sent an email from her political organization to supporters of Peltola, a former US House member. Continue reading..."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Top Dem operative brushes off latest scandal plaguing Maine Senate candidate as 'salacious gossip'",
-     "url": "https://www.foxnews.com/politics/top-dem-operative-brushes-off-latest-scandal-plaguing-maine-senate-candidate-salacious-gossip",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-15T11:00:46+00:00",
-     "summary": "High-profile Democrats aren't backing off their support for Maine Senate candidate Troy Jackson following reports he fathered children with his cousin. Former Democratic National Committee Chairwoman Donna Brazile was among the chorus of party voices throwing cold water on the claims about Jackson in a scandal-plagued Senate race that was already upended after former far-left candidate Graham Platner dropped out earlier this summer after a series of controversies that culminated in a rape allegation. Now, Jackson is facing even more turmoil with the most recent revelations of a 1988 police report accusing him of assault. \"There\u2019s a lot of people who are doing a lot of gossip as news, and I don't want to break news that might not be true \u2014 especially on something so personal \u2014 that's not what I do,\" Brazile told Fox News Digital when asked about a report Jackson had two children with his cousin and longtime partner Lana Pelletier. INTERNET ERUPTS OVER REPORT THAT PLATNER'S REPLACEMENT IN KEY SENATE RACE FATHERED CHILDREN WITH SECOND COUSIN Jackson became the Democrat nominee for Senate in Maine despite Platner winning the June 9 primary race. Platner formally dropped out on July 10,"
-    }
-   ]
-  },
-  {
    "id": "cc0f5a9b70",
    "topic": "Politics",
    "summary": "Family members are blaming &#8220;misinformation&#8221; and a &#8220;campaign of harassment&#8221; for the death ex-Cambridge professor Jason Arday. &#8220;Jason was subjected to a campaign of sustained abuse for more than three years since he accepted the role of professor at Cambridge University by those who would leave no stone unturned in their quest to undermine him,&#8221; Arday&#8217;s family said in a statement first published by The Guardian . &#8220;The campaign of misinformation was too much for Jason, who was a gentle man and who always wanted to see the best in everyone. We are in shock to have lost this amazing father, partner, brother, uncle and son,&#8221; they wrote, adding, &#8220;We won\u2019t comment further at this point beyond asking the press to leave us alone now, and to stop the campaign of harassment which has been waged against Jason and his family for too\u2026",
@@ -2463,8 +2383,8 @@
     "big": [],
     "indie": [
      "black",
-     "youngest",
-     "address"
+     "address",
+     "youngest"
     ]
    },
    "absent": [
@@ -2573,6 +2493,48 @@
    ]
   },
   {
+   "id": "ca8a28f6b2",
+   "topic": "Politics",
+   "summary": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich After the House passed its version of Donald Trump \u2019s One Big Beautiful Bill Act (OBBBA) last year \u2013 the one that paired a $5tn-plus tax cut with $1tn-plus of cuts from food stamps and Medicaid \u2013 the House speaker, Mike Johnson , explained that \u201cthis is not giving tax cuts to the millionaires\u201d. The beneficiaries, he said, were \u201csmall business owners\u201d that \u201cprovide the jobs in every community in America\u201d. Johnson was playing to the myth of the modest, sturdy Main Street job creator. It is an appealing story. It\u2019s also the most consequential piece of BS distorting American policy that deprives the government of tax revenue, stunts American capitalism, twists regulations, thwarts competition and overwhelmingly serves millionaires\u2019 interests. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "Donald Trump doesn\u2019t just love billionaires, he loves multimillionaires too",
+   "updated": "2026-08-17T09:45:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "slate",
+     "title": "Donald Trump Has Committed Too Many High Crimes to Count. But Should Democrats Really Impeach Again?",
+     "url": "https://slate.com/news-and-politics/2026/08/trump-impeachment-2027-corruption-murder-democrats.html?via=rss",
+     "author": "Frank Bowman",
+     "kind": "news",
+     "published": "2026-08-17T09:45:00+00:00",
+     "summary": "An editorial collage features a high-contrast portrait of Donald Trump looking upward, layered alongside a grayscale photograph of the U.S. Capitol dome against a solid peach-colored background. A white banner overlaid across the image contains italicized text citing the U.S. Constitution's impeachment clause regarding the removal of civil officers for treason, bribery, or high crimes and misdemeanors."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Donald Trump doesn\u2019t just love billionaires, he loves multimillionaires too",
+     "url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
+     "author": "Eduardo Porter",
+     "kind": "news",
+     "published": "2026-08-15T10:00:54+00:00",
+     "summary": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich After the House passed its version of Donald Trump \u2019s One Big Beautiful Bill Act (OBBBA) last year \u2013 the one that paired a $5tn-plus tax cut with $1tn-plus of cuts from food stamps and Medicaid \u2013 the House speaker, Mike Johnson , explained that \u201cthis is not giving tax cuts to the millionaires\u201d. The beneficiaries, he said, were \u201csmall business owners\u201d that \u201cprovide the jobs in every community in America\u201d. Johnson was playing to the myth of the modest, sturdy Main Street job creator. It is an appealing story. It\u2019s also the most consequential piece of BS distorting American policy that deprives the government of tax revenue, stunts American capitalism, twists regulations, thwarts competition and overwhelmingly serves millionaires\u2019 interests. Continue reading..."
+    }
+   ]
+  },
+  {
    "id": "623022e5fd",
    "topic": "Other",
    "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Serving in Mission International said Kevin Rideout \u201cis in good health in the care of US officials\u201d and would soon be reunited with his extended family. Continue reading...",
@@ -2580,20 +2542,29 @@
    "emphasis": null,
    "absent": [
     "corp",
-    "family",
-    "coop"
+    "coop",
+    "pub"
    ],
    "headline": "American missionary kidnapped in Niger freed after nine months",
-   "updated": "2026-08-14T14:55:17+00:00",
-   "outletCount": 3,
+   "updated": "2026-08-17T09:05:56+00:00",
+   "outletCount": 2,
    "counts": {
-    "nonprofit": 2,
-    "pub": 1
+    "family": 1,
+    "nonprofit": 1
    },
-   "newsCount": 3,
+   "newsCount": 2,
    "opinionCount": 0,
-   "underreported": true,
+   "underreported": false,
    "articles": [
+    {
+     "outlet": "nypost",
+     "title": "American missionary Kevin Rideout set to head home to US after more than 9 months in captivity",
+     "url": "https://nypost.com/2026/08/17/world-news/american-missionary-kevin-rideout-set-to-head-home-to-us-after-more-than-9-months-in-captivity-in-niger/",
+     "author": "Fox News",
+     "kind": "news",
+     "published": "2026-08-17T09:05:56+00:00",
+     "summary": "SIM International says the Christian missionary was released into the care of US officials, will soon reunite with family."
+    },
     {
      "outlet": "guardian",
      "title": "American missionary kidnapped in Niger freed after nine months",
@@ -2602,24 +2573,48 @@
      "kind": "news",
      "published": "2026-08-14T14:55:17+00:00",
      "summary": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, his organisation has said. Serving in Mission International said Kevin Rideout \u201cis in good health in the care of US officials\u201d and would soon be reunited with his extended family. Continue reading..."
-    },
+    }
+   ]
+  },
+  {
+   "id": "6d90693aaf",
+   "topic": "Politics",
+   "summary": "President Trump appointed his former personal lawyer Will Scharf as White House counsel. Maggie Haberman, our White House correspondent, explains how Scharf might help the president avoid congressional oversight at a critical time.",
+   "summaryFrom": "nyt",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "UK PM Burnham exchanged messages with White House imposter",
+   "updated": "2026-08-17T09:03:19+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
     {
-     "outlet": "npr",
-     "title": "U.S. missionary who was kidnapped in Niger is released",
-     "url": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
-     "author": "Jewel Bright",
+     "outlet": "nyt",
+     "title": "Who Is the New White House Counsel?",
+     "url": "https://www.nytimes.com/video/us/100000011088612/who-is-the-new-white-house-counsel.html",
+     "author": "Maggie Haberman, Nour Idriss, June Kim and Edward Vega",
      "kind": "news",
-     "published": "2026-08-14T12:11:50+00:00",
-     "summary": "Kevin Rideout \"is in good health in the care of US officials,\" SIM International said in a statement, adding he would soon be reunited with his family. (Image credit: AP Photo)"
+     "published": "2026-08-17T09:03:19+00:00",
+     "summary": "President Trump appointed his former personal lawyer Will Scharf as White House counsel. Maggie Haberman, our White House correspondent, explains how Scharf might help the president avoid congressional oversight at a critical time."
     },
     {
      "outlet": "bbc",
-     "title": "US missionary released following kidnap in Niger, Christian group says",
-     "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+     "title": "UK PM Burnham exchanged messages with White House imposter",
+     "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-14T10:18:02+00:00",
-     "summary": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials."
+     "published": "2026-08-17T08:38:10+00:00",
+     "summary": "Downing Street has declined to comment on the security breach, first reported by Politico."
     }
    ]
   },
@@ -2662,6 +2657,48 @@
      "kind": "news",
      "published": "2026-08-17T00:00:35+00:00",
      "summary": "Hamas calls on Board of Peace to &#039;compel&#039; Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo."
+    }
+   ]
+  },
+  {
+   "id": "a66ff84031",
+   "topic": "Tech",
+   "summary": "There are already nearly 4,600 data centers in the United States, and thousands more in the works. In 2025, companies spent almost $400 billion on U.S.-based data centers, with spending trending even higher this year. From New York to Texas, the backlash is growing. \"Leading the nation\" read a sign on the podium as New York Democrat Gov. Kathy Hochul introduced a statewide moratorium on hyperscale data centers. Texas followed on Aug. 3, when Republican Gov. Greg Abbott announced a pause on new data center grid connections until state agencies can audit the projects. At least 14 other states are considering similar actions, including Maryland, Michigan, Minnesota, Wisconsin and even Virginia, whose northern suburbs are the data center capital of the world. These misguided efforts seek to protect residents from data centers by ensuring they miss out on the benefits. Communities that\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Texas will audit up to 300 projects, mostly data centers, after Gov. Greg Abbott\u2019s order",
+   "updated": "2026-08-17T09:00:21+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "From New York to Texas, states should respect local control on data centers",
+     "url": "https://www.foxnews.com/opinion/new-york-texas-states-respect-local-control-data-centers",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-17T09:00:21+00:00",
+     "summary": "There are already nearly 4,600 data centers in the United States, and thousands more in the works. In 2025, companies spent almost $400 billion on U.S.-based data centers, with spending trending even higher this year. From New York to Texas, the backlash is growing. \"Leading the nation\" read a sign on the podium as New York Democrat Gov. Kathy Hochul introduced a statewide moratorium on hyperscale data centers. Texas followed on Aug. 3, when Republican Gov. Greg Abbott announced a pause on new data center grid connections until state agencies can audit the projects. At least 14 other states are considering similar actions, including Maryland, Michigan, Minnesota, Wisconsin and even Virginia, whose northern suburbs are the data center capital of the world. These misguided efforts seek to protect residents from data centers by ensuring they miss out on the benefits. Communities that excluded canals and railroads in the 19th century often found themselves bypassed by new economic activity. TEXAS GOV. GREG ABBOTT EFFECTIVELY PAUSES NEW DATA CENTER PROJECTS PENDING STATEWIDE GRID AUDIT States that make it hard to build artificial intelligence (AI) infrastructure risk a similar mistake. "
+    },
+    {
+     "outlet": "texastribune",
+     "title": "Texas will audit up to 300 projects, mostly data centers, after Gov. Greg Abbott\u2019s order",
+     "url": "https://feeds.texastribune.org/link/16799/17418589/texas-data-center-approval-pause-ercot-power-grid",
+     "author": "Paul Cobler",
+     "kind": "news",
+     "published": "2026-08-14T22:03:09+00:00",
+     "summary": "The state\u2019s power grid operator had already planned on auditing several data center proposals, but Abbott\u2019s directive reworks the timeline and adds new requirements."
     }
    ]
   },
@@ -2713,132 +2750,6 @@
      "kind": "news",
      "published": "2026-08-16T18:23:40+00:00",
      "summary": "GOP Sen. Bill Cassidy (La.) on Sunday accused Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. of breaking his pledge to not attempt to tweak the childhood vaccine schedule. Discussing President Trump\u2019s recent executive order seeking to alter the schedule on ABC News\u2019s \u201cThis Week,\u201d Cassidy alluded to \u201cguarantees\u201d Kennedy and the White..."
-    }
-   ]
-  },
-  {
-   "id": "5c34512629",
-   "topic": "World",
-   "summary": "President Trump said a cease-fire agreed in June would lead to limits on Iran\u2019s nuclear program and finish the conflict, but the countries appear far apart.",
-   "summaryFrom": "nyt",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Deadline for wider U.S.-Iran deal about to expire amid stalemate",
-   "updated": "2026-08-17T08:56:19+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Deadline for wider U.S.-Iran deal about to expire amid stalemate",
-     "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-expired-strait-of-hormuz/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T08:56:19+00:00",
-     "summary": "The 60-day deadline for the U.S. and Iran to reach a wider deal and re-open the Strait of Hormuz expires Monday with no deal in sight."
-    },
-    {
-     "outlet": "nyt",
-     "title": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War",
-     "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
-     "author": "Aaron Boxerman",
-     "kind": "news",
-     "published": "2026-08-17T04:01:19+00:00",
-     "summary": "President Trump said a cease-fire agreed in June would lead to limits on Iran\u2019s nuclear program and finish the conflict, but the countries appear far apart."
-    }
-   ]
-  },
-  {
-   "id": "7af35a0f01",
-   "topic": "Politics",
-   "summary": "Even under a new president, analysts and insiders don\u2019t see a path for a U.S. offshore wind revival without fundamental reforms. By Ajani Stella The United States had a vision: Offshore wind would produce enough energy to power over 10 million homes by 2030.&nbsp;",
-   "summaryFrom": "insideclimate",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Offshore Wind Will Struggle Long After Trump\u2019s Attacks",
-   "updated": "2026-08-17T08:55:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "insideclimate",
-     "title": "Offshore Wind Will Struggle Long After Trump\u2019s Attacks",
-     "url": "https://insideclimatenews.org/news/17082026/offshore-wind-will-struggle-after-trump/",
-     "author": "By Ajani Stella",
-     "kind": "news",
-     "published": "2026-08-17T08:55:00+00:00",
-     "summary": "Even under a new president, analysts and insiders don\u2019t see a path for a U.S. offshore wind revival without fundamental reforms. By Ajani Stella The United States had a vision: Offshore wind would produce enough energy to power over 10 million homes by 2030.&nbsp;"
-    },
-    {
-     "outlet": "slate",
-     "title": "Trump on Long-Suffering Sailors: \u201cNot Nearly Long Enough\u201d",
-     "url": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html?via=rss",
-     "author": "Ian Prasad Philbrick",
-     "kind": "news",
-     "published": "2026-08-14T21:09:49+00:00",
-     "summary": "Sailors are suffering. Trump and his team are denying it."
-    }
-   ]
-  },
-  {
-   "id": "50b78f391c",
-   "topic": "World",
-   "summary": "Wildfire thought to be largest in Belgium\u2019s history creeps closer to German border prompting evacuations Over in France, prime minister S\u00e9bastien Lecornu was booed on arrival to Le Porge, one of the towns most affected by the massive wildfire in the Gironde region last month. Lecornu was set to meet with the local officials to discuss the reconstruction of the region, but a clip published by BFMTV showed a group of frustrated local residents booing his arrival. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Wildfires rage in France and Greece as Belgium tackles enormous blaze \u2013\u00a0Europe live",
-   "updated": "2026-08-17T08:50:17+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Wildfires rage in France and Greece as Belgium tackles enormous blaze \u2013\u00a0Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
-     "author": "Jakub Krupa",
-     "kind": "news",
-     "published": "2026-08-17T08:50:17+00:00",
-     "summary": "Wildfire thought to be largest in Belgium\u2019s history creeps closer to German border prompting evacuations Over in France, prime minister S\u00e9bastien Lecornu was booed on arrival to Le Porge, one of the towns most affected by the massive wildfire in the Gironde region last month. Lecornu was set to meet with the local officials to discuss the reconstruction of the region, but a clip published by BFMTV showed a group of frustrated local residents booing his arrival. Continue reading..."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Firefighters battle massive wildfires in Belgium and Greece as 2 die on an island near Athens",
-     "url": "https://www.pbs.org/newshour/world/firefighters-battle-massive-wildfires-in-belgium-and-greece-as-2-die-on-an-island-near-athens",
-     "author": "Ahmad Seir Nassiri, Associated Press",
-     "kind": "news",
-     "published": "2026-08-16T22:37:06+00:00",
-     "summary": "A blaze in eastern Belgium burned about 12 square miles in the High Fens, a large nature reserve, in one of the country's worst wildfires in recent history."
     }
    ]
   },
@@ -3011,48 +2922,6 @@
    ]
   },
   {
-   "id": "90ce3160ec",
-   "topic": "Other",
-   "summary": "Cuba\u2019s economy is under severe pressure from tightening US sanctions, shrinking tourism and the loss of past economic lifelines from the Soviet Union and Venezuela. Cuban lawmakers have passed 176 free-market reforms aimed at expanding foreign and private investment, decentralizing the economy and liberalizing sectors including tourism, banking, property and agriculture. But economists and Cuban-American investors say Havana faces a credibility problem: the government has promised reform before, and it remains unclear whether it will truly reduce state control or simply buy time. Tourism could be an early opportunity if sanctions ease, but investors say Cuba will need legal, political and institutional change before capital returns at scale. (Source: Bloomberg)",
-   "summaryFrom": "bloomberg",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Cuba Is Out of Time",
-   "updated": "2026-08-17T07:31:41+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Cuba Is Out of Time",
-     "url": "https://www.nytimes.com/2026/08/17/opinion/cuba-trump-rubio-venezuela.html",
-     "author": "Michael J. Bustamante",
-     "kind": "opinion",
-     "published": "2026-08-17T07:31:41+00:00",
-     "summary": "Governments can afford to keep playing the waiting game. Ordinary Cubans cannot."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Is Cuba Finally Ready for Capitalism?",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-16/is-cuba-finally-ready-for-capitalism-video",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T14:03:32+00:00",
-     "summary": "Cuba\u2019s economy is under severe pressure from tightening US sanctions, shrinking tourism and the loss of past economic lifelines from the Soviet Union and Venezuela. Cuban lawmakers have passed 176 free-market reforms aimed at expanding foreign and private investment, decentralizing the economy and liberalizing sectors including tourism, banking, property and agriculture. But economists and Cuban-American investors say Havana faces a credibility problem: the government has promised reform before, and it remains unclear whether it will truly reduce state control or simply buy time. Tourism could be an early opportunity if sanctions ease, but investors say Cuba will need legal, political and institutional change before capital returns at scale. (Source: Bloomberg)"
-    }
-   ]
-  },
-  {
    "id": "bf30b83400",
    "topic": "Other",
    "summary": "As we do every Friday, we're turning Racket over to you, the readers.",
@@ -3197,48 +3066,6 @@
    ]
   },
   {
-   "id": "cddf72be83",
-   "topic": "Culture & Sport",
-   "summary": "Kelly Clarkson has no plans to introduce her children to one infamous chapter of her career. During her final Las Vegas concert on Saturday, the 44-year-old singer revealed that she has banned daughter River Rose, 12, and son Remington, 10, from watching her 2003 musical comedy, \"From Justin to Kelly.\" \"Well, it\u2019s an Oscar-worthy number, and it\u2019s called \u2018From Justin to Kelly,\u2019\" Clarkson joked, according to a video obtained by Us Weekly , before explaining her participation in two words: \"Contractually obligated.\" KELLY CLARKSON LAUGHS OFF WIND-BLOWN WARDROBE MALFUNCTION ON STAGE \"Man, read the f\u2014ing fine print, you know,\" she told the crowd. \"I didn\u2019t know that if you won, you had to do a movie. Not all of us want to be Meryl Streep, we just like watching her, OK? I was like, \u2018I don\u2019t want to be in a movie,\u2019 but they were like, \u2018Yeah, but you won.\u2019 And I was like, \u2018And I feel like I\u2019m\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Kelly Clarkson won\u2019t let her kids watch \u2018From Justin to Kelly\u2019 after brutal admission about 2003 film",
-   "updated": "2026-08-17T06:13:35+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Kelly Clarkson won\u2019t let her kids watch \u2018From Justin to Kelly\u2019 after brutal admission about 2003 film",
-     "url": "https://pagesix.com/2026/08/17/entertainment/kelly-clarkson-wont-let-her-kids-watch-from-justin-to-kelly-after-brutal-admission-about-2003-film/",
-     "author": "Fox News",
-     "kind": "news",
-     "published": "2026-08-17T06:13:35+00:00",
-     "summary": "The 'American Idol' winner called the 2003 musical comedy 's---' during her final Las Vegas concert."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Kelly Clarkson won\u2019t let her kids watch \u2018From Justin to Kelly\u2019 after brutal admission about 2003 film",
-     "url": "https://www.foxnews.com/entertainment/kelly-clarkson-wont-let-kids-watch-justin-kelly-brutal-admission-2003-film",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-16T19:48:48+00:00",
-     "summary": "Kelly Clarkson has no plans to introduce her children to one infamous chapter of her career. During her final Las Vegas concert on Saturday, the 44-year-old singer revealed that she has banned daughter River Rose, 12, and son Remington, 10, from watching her 2003 musical comedy, \"From Justin to Kelly.\" \"Well, it\u2019s an Oscar-worthy number, and it\u2019s called \u2018From Justin to Kelly,\u2019\" Clarkson joked, according to a video obtained by Us Weekly , before explaining her participation in two words: \"Contractually obligated.\" KELLY CLARKSON LAUGHS OFF WIND-BLOWN WARDROBE MALFUNCTION ON STAGE \"Man, read the f\u2014ing fine print, you know,\" she told the crowd. \"I didn\u2019t know that if you won, you had to do a movie. Not all of us want to be Meryl Streep, we just like watching her, OK? I was like, \u2018I don\u2019t want to be in a movie,\u2019 but they were like, \u2018Yeah, but you won.\u2019 And I was like, \u2018And I feel like I\u2019m losing? It doesn\u2019t feel quite like a win.\u2019\" LIKE WHAT YOU\u2019RE READING? CLICK HERE FOR MORE ENTERTAINMENT NEWS Clarkson starred opposite \"American Idol\" season one runner-up Justin Guarini in the musical, which hit theaters shortly after she became the reality competition\u2019s inaugural winner. The movie f"
-    }
-   ]
-  },
-  {
    "id": "65ce577e1c",
    "topic": "World",
    "summary": "The Indomitable Lionesses outshine their opponents to claim first final victory on their fourth attempt in Morocco.",
@@ -3361,6 +3188,48 @@
      "kind": "news",
      "published": "2026-08-16T17:00:00+00:00",
      "summary": "The incarcerated hip-hop group that emerged from the controversial \u2018Scared Straight\u2019 program set out to deglamorize the gangster rap of the moment."
+    }
+   ]
+  },
+  {
+   "id": "add24b0459",
+   "topic": "Culture & Sport",
+   "summary": "Caitlin Clark and Angel Reese gave the WNBA an overtime thriller Sunday evening at State Farm Arena. Clark scored 26 points, hit two enormous free throws late in overtime and grabbed the game-sealing rebound as the Indiana Fever beat Reese and the Atlanta Dream, 95-91. ANGEL REESE\u2019S LATEST WNBA CONTROVERSY SHOWS HOW VICTIMHOOD BECAME CENTRAL TO HER BRAND It was a real team win for the Fever. But Clark and Reese were right in the middle of the biggest moments, including Reese\u2019s missed layup at the end of regulation that sent the game to overtime. Indiana had to earn it, too. The Fever trailed by eight after Atlanta scored 28 points in the third quarter to open a 72-64 advantage. But for a team known for its offensive firepower, it was Indiana\u2019s defense that made the clutch plays down the stretch. The Fever held the Dream to nine points in the fourth, outscored Atlanta 17-9 and forced\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Caitlin Clark Goes Viral for This Reaction to Angel Reese Missing Game-Winning Layup",
+   "updated": "2026-08-17T03:23:42+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "Caitlin Clark Goes Viral for This Reaction to Angel Reese Missing Game-Winning Layup",
+     "url": "https://www.breitbart.com/sports/2026/08/16/caitlin-clark-goes-viral-this-reaction-angel-reese-missing-game-winning-layup/",
+     "author": "Paul Bois",
+     "kind": "news",
+     "published": "2026-08-17T03:23:42+00:00",
+     "summary": "Indiana Fever star Caitlin Clark went viral on social media Sunday night after video captured her laughing behind a frustrated Angel Reese. The post Caitlin Clark Goes Viral for This Reaction to Angel Reese Missing Game-Winning Layup appeared first on Breitbart ."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Caitlin Clark and Angel Reese rivalry gets a new chapter in Fever-Dream overtime thriller",
+     "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-angel-reese-rivalry-new-chapter-fever-dream-overtime-thriller",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T00:17:30+00:00",
+     "summary": "Caitlin Clark and Angel Reese gave the WNBA an overtime thriller Sunday evening at State Farm Arena. Clark scored 26 points, hit two enormous free throws late in overtime and grabbed the game-sealing rebound as the Indiana Fever beat Reese and the Atlanta Dream, 95-91. ANGEL REESE\u2019S LATEST WNBA CONTROVERSY SHOWS HOW VICTIMHOOD BECAME CENTRAL TO HER BRAND It was a real team win for the Fever. But Clark and Reese were right in the middle of the biggest moments, including Reese\u2019s missed layup at the end of regulation that sent the game to overtime. Indiana had to earn it, too. The Fever trailed by eight after Atlanta scored 28 points in the third quarter to open a 72-64 advantage. But for a team known for its offensive firepower, it was Indiana\u2019s defense that made the clutch plays down the stretch. The Fever held the Dream to nine points in the fourth, outscored Atlanta 17-9 and forced overtime. It was the lowest fourth-quarter scoring output for the Dream this season. But it almost didn't matter. The Dream had the ball in the final seconds of regulation with the score tied 81-81. Rhyne Howard missed a 3 with 5.5 seconds left, but Reese grabbed the offensive rebound and had a clean lo"
     }
    ]
   },
@@ -3491,48 +3360,6 @@
    ]
   },
   {
-   "id": "59ab4b1976",
-   "topic": "Other",
-   "summary": "Von Miller, the eight-time Pro Bowler and two-time Super Bowl champion, is heading to Jerry\u2019s World for his 15th NFL season. Miller announced he is signing with the Dallas Cowboys , though the specifics of the deal were not disclosed. \"Dallas ! Let\u2019s make this one Special !\" Miller wrote on X with a photoshopped picture of himself in a Cowboys uniform. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM Cowboys legend Demarcus Ware, who also won a Super Bowl with the Denver Broncos alongside Miller, also posted a FaceTime screenshot of the two of them smiling together with the a smiling emoji and \"#CowboysNation.\" Miller also won SB 50 MVP during that game against the Carolina Panthers as well. Miller is coming off a nine-sack season for the Washington Commanders , where he also collected 26 combined tackles across 17 games with his fourth NFL franchise in his career. QUINNEN WILLIAMS\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Von Miller signs with Cowboys in homecoming move for 2-time Super Bowl champion: 'Let's make this one special'",
-   "updated": "2026-08-17T02:20:27+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Von Miller signs with Cowboys in homecoming move for 2-time Super Bowl champion: 'Let's make this one special'",
-     "url": "https://www.foxnews.com/sports/von-miller-signs-cowboys-homecoming-move-2-time-super-bowl-champion-lets-make-this-one-special",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T02:20:27+00:00",
-     "summary": "Von Miller, the eight-time Pro Bowler and two-time Super Bowl champion, is heading to Jerry\u2019s World for his 15th NFL season. Miller announced he is signing with the Dallas Cowboys , though the specifics of the deal were not disclosed. \"Dallas ! Let\u2019s make this one Special !\" Miller wrote on X with a photoshopped picture of himself in a Cowboys uniform. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM Cowboys legend Demarcus Ware, who also won a Super Bowl with the Denver Broncos alongside Miller, also posted a FaceTime screenshot of the two of them smiling together with the a smiling emoji and \"#CowboysNation.\" Miller also won SB 50 MVP during that game against the Carolina Panthers as well. Miller is coming off a nine-sack season for the Washington Commanders , where he also collected 26 combined tackles across 17 games with his fourth NFL franchise in his career. QUINNEN WILLIAMS AGRESS TO $105.9M CONTRACT EXTENSION WITH COWBOYS, LOCKING HIM IN THROUGH 2030 SEASON Now, Miller will be facing off against the Commanders, and other NFC East foes, with the Cowboys. COWBOYS LEGEND RELISHES IN CALEB DOWNS PICK AS RIVAL TEAM MISSES OUT ON FILLING SECONDARY HOLE Miller is a future Hall "
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Cowboys Adding 8-Time Pro Bowl Edge-Rusher: Report",
-     "url": "https://www.newsweek.com/cowboys-adding-8-time-pro-bowl-edge-rusher-report-12329833",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T02:10:57+00:00",
-     "summary": "The Dallas Cowboys bolstered their defense with the addition of a Pro Bowl pass-rusher who played for a division rival last year."
-    }
-   ]
-  },
-  {
    "id": "d48bd5fb64",
    "topic": "Other",
    "summary": "An influencer whose 3-year-old son drowned more than a year ago has apologized for letting her 16-month-old sit on a boat without a life jacket, telling followers it was a lapse in judgment she deeply regrets.",
@@ -3655,6 +3482,132 @@
      "kind": "news",
      "published": "2026-08-16T16:23:08+00:00",
      "summary": "Duane Davis speaks with attorney Michael Sanft during the fourth day of jury selection in a murder trial related to the 1996 killing of rapper Tupac Shakur, at Clark County District Court Regional Justice Center in Las Vegas, Nevada, on Aug. 13, 2026. \u2014Bizuayeha Tesfaye\u2014Pool Nearly 30 years ago, Tupac Shakur, known by the stage name 2Pac, was killed in a drive-by shooting in Las Vegas, Nevada. One of four men in a white Cadillac fired 13 shots into the 25-year-old rap legend\u2019s vehicle, according to TIME reporting from September 1996. Shakur was riding with the co-founder of Death Row Records, Marion \u201cSuge\u201d Knight. Knight was grazed by a bullet but survived. Shakur was shot multiple times, and one bullet tore through his lung; he was pronounced dead at the hospital six days later on Sept. 13, 1996. The events that unfolded have been the subject of many true crime documentaries, books, and podcasts. But one fundamental question has remained unresolved: Who was responsible for Shakur's death? The first person ever charged in Shakur\u2019s murder faces trial on Monday in Nevada. Who is on trial for the murder of Tupac Shakur? And why now? On trial is Duane \u201cKeffe D\u201d Davis, 63, a former lead"
+    }
+   ]
+  },
+  {
+   "id": "1534982b3d",
+   "topic": "Politics",
+   "summary": "New York Rep. Alexandria Ocasio-Cortez is laughing off \"Woke 1.\" But she's carrying baggage from the 2020 era of cultural progressivism that some Democrats say is an obstacle to a future presidential run. Why it matters: AOC's pivot to the cultural center \u2014 which she began to roll out last week in a high-profile ABC interview by saying, \"Woke 1 was crazy\" \u2014 is potential damage control for her past remarks about law enforcement, immigration and a range of social issues. Ocasio-Cortez told ABC that the left's so-called excesses of that period were partly the result of the COVID pandemic and lockdowns. But she made some of her most controversial remarks before the pandemic hit the U.S. in 2020. \"This is really going to be something that handicaps her, especially with demographics that are culturally more moderate,\" former Biden White House adviser Yemisi Egbewole told us, pointing to Black\u2026",
+   "summaryFrom": "axios",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "How AOC is rewriting her own \"Woke 1\" history",
+   "updated": "2026-08-16T21:40:09+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "axios",
+     "title": "How AOC is rewriting her own \"Woke 1\" history",
+     "url": "https://www.axios.com/2026/08/16/aoc-walk-back-positions-2028",
+     "author": "Alex Thompson",
+     "kind": "news",
+     "published": "2026-08-16T21:40:09+00:00",
+     "summary": "New York Rep. Alexandria Ocasio-Cortez is laughing off \"Woke 1.\" But she's carrying baggage from the 2020 era of cultural progressivism that some Democrats say is an obstacle to a future presidential run. Why it matters: AOC's pivot to the cultural center \u2014 which she began to roll out last week in a high-profile ABC interview by saying, \"Woke 1 was crazy\" \u2014 is potential damage control for her past remarks about law enforcement, immigration and a range of social issues. Ocasio-Cortez told ABC that the left's so-called excesses of that period were partly the result of the COVID pandemic and lockdowns. But she made some of her most controversial remarks before the pandemic hit the U.S. in 2020. \"This is really going to be something that handicaps her, especially with demographics that are culturally more moderate,\" former Biden White House adviser Yemisi Egbewole told us, pointing to Black voters in the South who have a large voice in Democratic presidential primaries. Flashback: In the early 2020s, Ocasio-Cortez was one of the most aggressive and well-known advocates for \"defunding\" the police \u2014 an idea that polls have long shown is not popular. In the summer of 2020, she blasted New"
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Democrats Suddenly Can\u2019t Define \u2018Woke\u2019 After AOC Says It Was \u2018Crazy\u2019",
+     "url": "https://www.dailywire.com/news/democrats-suddenly-cant-define-woke-after-aoc-says-it-was-crazy",
+     "author": "Virginia Kruta",
+     "kind": "opinion",
+     "published": "2026-08-16T19:57:17+00:00",
+     "summary": "Rep. Alexandria Ocasio-Cortez (D-NY) handed her party a problem it spent Sunday morning refusing to answer when she laughed off a slate of far-left policy positions as the excesses of &#8220;Woke 1.&#8221; Two of the biggest Sunday shows put Ocasio-Cortez&#8217;s remark to Democratic guests as a loyalty test, and both guests gave a near-identical non-answer. NBC&#8217;s Kristen Welker and CNN&#8217;s Jake Tapper each raised it on &#8220; Meet the Press &#8221; and &#8220; State of the Union ,&#8221; respectively. Welker put the question to Rep. Ro Khanna (D-CA) directly, quoting Ocasio-Cortez and asking whether he agreed. &#8220;She said &#8216;Woke 1 was crazy,&#8217; effectively suggesting some progressive views just went too far in the 2020s,&#8221; Welker said. &#8220;Do you agree with Alexandria Ocasio-Cortez that Woke 1 was crazy?&#8221; &#8220;Well, I don&#8217;t know what these labels mean,&#8221; Khanna replied, immediately pivoting to a recitation of his own record: &#8220;I&#8217;ll tell you what I&#8217;ve always stood for. I have never been for defunding police.&#8221; He went on to volunteer that he has &#8220;called for abolishing ICE.&#8221; Welker followed up by as"
+    }
+   ]
+  },
+  {
+   "id": "c8aa5d4e86",
+   "topic": "Other",
+   "summary": "When news broke on Friday that the disgraced academic Jason Arday had been found dead at home in London, after being accused of plagiarizing much of his work and lying about all manner of biographical details in his recent memoir, there were those on the left who leapt to blame racism. London Mayor Sadiq Khan immediately posted on X that &#8220;Jason Arday was the victim of a pernicious public shaming that other people in his position simply wouldn&#8217;t have faced.&#8221; &#8220;If Jason Arday were a white middle-class academic,&#8221; wrote left-wing Member of Parliament Zarah Sultana, &#8220;he would not have been hounded by the British press in the way he was.&#8221; Most deranged of all was Ibram X. Kendi, the prolific purveyor of &#8220;antiracism&#8221; who rose to fame during the racial reckoning of 2020. &#8220;The attacks are wielded by racist propagandists, resenting you\u2026",
+   "summaryFrom": "freepress",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Douglas Murray: The Tragedy of Jason Arday",
+   "updated": "2026-08-16T21:16:58+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "freepress",
+     "title": "Douglas Murray: The Tragedy of Jason Arday",
+     "url": "https://www.thefp.com/p/douglas-murray-tragedy-jason-arday",
+     "author": "Douglas Murray",
+     "kind": "news",
+     "published": "2026-08-16T21:16:58+00:00",
+     "summary": "When news broke on Friday that the disgraced academic Jason Arday had been found dead at home in London, after being accused of plagiarizing much of his work and lying about all manner of biographical details in his recent memoir, there were those on the left who leapt to blame racism. London Mayor Sadiq Khan immediately posted on X that &#8220;Jason Arday was the victim of a pernicious public shaming that other people in his position simply wouldn&#8217;t have faced.&#8221; &#8220;If Jason Arday were a white middle-class academic,&#8221; wrote left-wing Member of Parliament Zarah Sultana, &#8220;he would not have been hounded by the British press in the way he was.&#8221; Most deranged of all was Ibram X. Kendi, the prolific purveyor of &#8220;antiracism&#8221; who rose to fame during the racial reckoning of 2020. &#8220;The attacks are wielded by racist propagandists, resenting you for shining a light on anti-Black racism,&#8221; he wrote, addressing the deceased professor directly, in an essay titled &#8220;The Media Lynched Jason Arday.&#8221; This is manifestly, sinisterly untrue. Firstly, because there have been plenty of &#8220;white middle-class academics&#8221; who have be"
+    },
+    {
+     "outlet": "theatlantic",
+     "title": "The Truths That Failed Jason Arday",
+     "url": "https://www.theatlantic.com/culture/2026/08/jason-arday-cambridge-professor-death/688304/?utm_source=feed",
+     "author": "Tyler Austin Harper",
+     "kind": "news",
+     "published": "2026-08-15T17:42:00+00:00",
+     "summary": "This article was featured in the One Story to Read Today newsletter. Sign up for it here. Yesterday in London, Jason Arday, the controversy-plagued British academic and author, was found dead. Made famous as the youngest Black professor in Cambridge\u2019s more than 800-year history, Arday had been dogged by weeks of scrutiny amid accusations of plagiarism, fake qualifications, and a fabricated backstory filled with hard-to-believe details. He claimed to have been mute until age 11 and illiterate until 18, disadvantages that did not deter him from getting a Ph.D., which he earned by age 30. He claimed, too, that he had suffered from various medical conditions throughout his life, including autism, epilepsy, locked-in syndrome, testicular cancer, and a brain tumor. He was, by his account, a world-class endurance athlete who had racked up a variety of impressive feats, including running 600 miles in six days. Then there were his academic accomplishments: Arday was billed as a once-in-a-generation talent, whose research in his field\u2014the sociology of education\u2014was \u201cthe best in the world,\u201d according to Hilary Cremin, the head of Cambridge\u2019s faculty of education. He claimed to have received a"
+    }
+   ]
+  },
+  {
+   "id": "7e67071196",
+   "topic": "World",
+   "summary": "Hamas leaders reaffirmed their commitment to disarm and demilitarize Gaza in a meeting with President Trump's adviser Jared Kushner in Egypt on Sunday, according to a source with direct knowledge. Why it matters: Kushner used the rare direct meeting to press Hamas for tangible steps on disarmament , warning that Israel doesn't trust the group to follow through. The source described the 90-minute meeting as \"very productive\" at making sure Hamas takes practical steps to fulfill its commitments. The White House and Trump's Board of Peace are pushing Hamas and Israel to move to the next phase of the U.S. 20-point peace plan. Kushner is expected to visit Israel on Monday and meet Israeli Prime Minister Benjamin Netanyahu to discuss \"corresponding steps\" Israel must take, the source said. Behind the scenes: Hamas leaders asked Kushner to tell Trump they remained committed to disarming, the\u2026",
+   "summaryFrom": "axios",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "Kushner has rare meeting with Hamas' leader on Gaza road map. A meeting with Netanyahu is next",
+   "updated": "2026-08-16T20:13:03+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "axios",
+     "title": "Inside Kushner's Hamas meeting: What comes next in Gaza",
+     "url": "https://www.axios.com/2026/08/16/kushner-hamas-gaza-disarmament-egypt-israel",
+     "author": "Barak Ravid",
+     "kind": "news",
+     "published": "2026-08-16T20:13:03+00:00",
+     "summary": "Hamas leaders reaffirmed their commitment to disarm and demilitarize Gaza in a meeting with President Trump's adviser Jared Kushner in Egypt on Sunday, according to a source with direct knowledge. Why it matters: Kushner used the rare direct meeting to press Hamas for tangible steps on disarmament , warning that Israel doesn't trust the group to follow through. The source described the 90-minute meeting as \"very productive\" at making sure Hamas takes practical steps to fulfill its commitments. The White House and Trump's Board of Peace are pushing Hamas and Israel to move to the next phase of the U.S. 20-point peace plan. Kushner is expected to visit Israel on Monday and meet Israeli Prime Minister Benjamin Netanyahu to discuss \"corresponding steps\" Israel must take, the source said. Behind the scenes: Hamas leaders asked Kushner to tell Trump they remained committed to disarming, the source said. \"We thanked them for the commitment, but we want to see real efforts and not just words,\" the source added. \"It was important for Kushner to lock them into this commitment in person.\" Kushner also thanked Hamas leaders for their cooperation and efforts to recover the bodies of all decease"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Kushner has rare meeting with Hamas' leader on Gaza road map. A meeting with Netanyahu is next",
+     "url": "https://www.pbs.org/newshour/world/kushner-has-rare-meeting-with-hamas-leader-on-gaza-road-map-a-meeting-with-netanyahu-is-next",
+     "author": "Cara Anna, Associated Press",
+     "kind": "news",
+     "published": "2026-08-16T18:11:31+00:00",
+     "summary": "The talks aim to salvage the new 15-point, U.S.-backed road map for Hamas to disarm in Gaza and Israel to withdraw from the Palestinian territory shattered by war."
     }
    ]
   }
