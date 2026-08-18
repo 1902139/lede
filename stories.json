@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-18T04:53:55.342432+00:00",
+ "generated": "2026-08-18T05:46:11.747998+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -237,33 +237,34 @@
   },
   {
    "id": "bf5a36aa4b",
-   "topic": "Politics",
+   "topic": "World",
    "summary": "Congressional Democrats are planning a new push to constrain President Trump 's war powers after he threatened Monday to \"bomb the shit\" out of Oman. Why it matters: War powers resolutions, though largely symbolic, have become Democrats' go-to tool for trying to rein in what they see as a far too trigger-happy administration. \"At this point we may just need to file war powers resolutions for the 192 other countries,\" Rep. Ro Khanna (D-Calif.) told Axios. The White House did not immediately respond to a request for comment. Driving the news: Sen. Tim Kaine (D-Va.) announced in a statement on Monday afternoon that he will introduce an Oman war powers resolution when the Senate returns to session next month. Kaine noted that the the U.S. \"has a strong diplomatic relationship and a free trade agreement\" with Oman and argued that Trump's threats work to the benefit of \"real adversaries\" such\u2026",
    "summaryFrom": "axios",
    "emphasis": {
-    "bigCount": 12,
-    "indieCount": 4,
+    "bigCount": 13,
+    "indieCount": 3,
     "big": [
-     "remains",
+     "threatened",
+     "military",
      "told",
-     "truce",
-     "sight",
-     "conflict",
-     "longtime"
+     "remains",
+     "south",
+     "korea"
     ],
     "indie": [
-     "flag",
-     "surrender"
+     "surrender",
+     "flag"
     ]
    },
-   "absent": [],
+   "absent": [
+    "nonprofit"
+   ],
    "headline": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
-   "updated": "2026-08-18T04:01:03+00:00",
+   "updated": "2026-08-18T05:40:18+00:00",
    "outletCount": 13,
    "counts": {
-    "corp": 6,
+    "corp": 7,
     "pub": 2,
-    "nonprofit": 1,
     "family": 6,
     "coop": 1
    },
@@ -277,7 +278,7 @@
      "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-expired-strait-of-hormuz/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-18T04:01:03+00:00",
+     "published": "2026-08-18T05:40:18+00:00",
      "summary": "The 60-day deadline for the U.S. and Iran to negotiate a peace deal and reopen the Strait of Hormuz expired, with no agreement in sight."
     },
     {
@@ -317,15 +318,6 @@
      "summary": "Congressional Democrats are planning a new push to constrain President Trump 's war powers after he threatened Monday to \"bomb the shit\" out of Oman. Why it matters: War powers resolutions, though largely symbolic, have become Democrats' go-to tool for trying to rein in what they see as a far too trigger-happy administration. \"At this point we may just need to file war powers resolutions for the 192 other countries,\" Rep. Ro Khanna (D-Calif.) told Axios. The White House did not immediately respond to a request for comment. Driving the news: Sen. Tim Kaine (D-Va.) announced in a statement on Monday afternoon that he will introduce an Oman war powers resolution when the Senate returns to session next month. Kaine noted that the the U.S. \"has a strong diplomatic relationship and a free trade agreement\" with Oman and argued that Trump's threats work to the benefit of \"real adversaries\" such as Russia and China. The Virginia Democrat said he hopes to \"find some Republican colleagues to join with Democrats and check this blindly stumbling power-drunk President from inflicting more damage on the U.S. and the world.\" Catch up quick: Trump issued his threat to the gulf country, an American "
     },
     {
-     "outlet": "pbsnewshour",
-     "title": "Where the Iran war stands as 60-day window to reach peace deal expires",
-     "url": "https://www.pbs.org/newshour/show/war-with-iran",
-     "author": "Dan Sagalyn",
-     "kind": "news",
-     "published": "2026-08-17T22:55:06+00:00",
-     "summary": "President Trump lashed out at U.S. allies on Monday as the deadline to reach a deal to end the war with Iran expires. Trump threatened to bomb Oman, which has been mediating negotiations, and called for military exercises with South Korea to be scaled back, in part for refusing to join the war. Amna Nawaz discussed where the war stands and what happens next with Alan Eyre and Reuel Marc Gerecht."
-    },
-    {
      "outlet": "breitbart",
      "title": "Trump Doubles Down on Declaring Strait of Hormuz U.S. Territory as Iran Threatens to Break U.S. Blockade",
      "url": "https://www.breitbart.com/politics/2026/08/17/trump-doubles-down-on-declaring-strait-of-hormuz-u-s-territory-as-iran-threatens-to-break-u-s-blockade/",
@@ -333,6 +325,15 @@
      "kind": "news",
      "published": "2026-08-17T22:20:46+00:00",
      "summary": "President Donald Trump doubled down Monday on declaring the Strait of Hormuz U.S. territory, asserting that Washington has \u201ctotal control\u201d of the strategic waterway as Tehran threatened a military attack to break the U.S. naval blockade and declared a shift toward a more offensive posture. The post Trump Doubles Down on Declaring Strait of Hormuz U.S. Territory as Iran Threatens to Break U.S. Blockade appeared first on Breitbart ."
+    },
+    {
+     "outlet": "thehill",
+     "title": "Trump rips allies Oman, South Korea amid escalating tensions with Iran",
+     "url": "https://thehill.com/homenews/administration/6034221-us-economic-pressure-iran-blockade/",
+     "author": "Rachel Frazin",
+     "kind": "news",
+     "published": "2026-08-17T22:00:39+00:00",
+     "summary": "President Trump is lashing out at rivals and allies alike amid an escalating game of economic chicken between the U.S. and Iran. On Monday, he threatened to \"bomb the s\u2011\u2011\u2011 out of\" Oman, a day after he told Defense Secretary Pete Hegseth to substantially reduce joint military exercises with South Korea. Trump separately on Monday doubled..."
     },
     {
      "outlet": "nbcnews",
@@ -426,17 +427,17 @@
     "bigCount": 7,
     "indieCount": 3,
     "big": [
-     "scott",
      "rodney",
+     "scott",
      "criticism",
-     "security",
      "post",
-     "halt"
+     "halt",
+     "security"
     ],
     "indie": [
-     "controversial",
      "area",
-     "opposition"
+     "opposition",
+     "controversial"
     ]
    },
    "absent": [
@@ -558,8 +559,8 @@
     "big": [
      "million",
      "carroll's",
-     "denied",
      "request",
+     "denied",
      "rehearing",
      "declined"
     ],
@@ -674,6 +675,132 @@
    ]
   },
   {
+   "id": "836811f21f",
+   "topic": "Politics",
+   "summary": "Donald Trump and Pete Hegseth during a press conference at the NATO Summit in Ankara, Turkey, on July 8, 2026. Photo by Jakub Porzycki/NurPhoto via Getty Images. However terribly you think the Iran war is going for Donald Trump, the reality is almost certainly worse. The worse it gets, the more the White House tries to cover up and hide the damage from the American people, and the more the president uses the Justice Department to threaten media outlets that expose the sheer tonnage of the damage. President Trump won&#8217;t even be straight with the country about how he&#8217;s running out of weapons &#8211; when his war has depleted well upwards of 90% of certain crucial munitions, as Zeteo has learned. When reporters have dug in on this topic, he&#8217;s huffily accused them of &#8220; treason ,&#8221; and pledged that those responsible for leaking the information &#8220;are being\u2026",
+   "summaryFrom": "zeteo",
+   "emphasis": {
+    "bigCount": 4,
+    "indieCount": 6,
+    "big": [
+     "national"
+    ],
+    "indie": [
+     "deadline",
+     "monday",
+     "house",
+     "hegseth",
+     "pete"
+    ]
+   },
+   "absent": [],
+   "headline": "Middle East live: Iran declares 60-day negotiation memorandum of understanding deadline void",
+   "updated": "2026-08-18T05:07:06+00:00",
+   "outletCount": 9,
+   "counts": {
+    "pub": 2,
+    "corp": 3,
+    "nonprofit": 3,
+    "family": 1,
+    "coop": 1
+   },
+   "newsCount": 10,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Middle East live: Iran declares 60-day negotiation memorandum of understanding deadline void",
+     "url": "https://www.france24.com/en/middle-east/20260818-middle-east-live-iran-declares-60-day-negotiation-deadline-null-and-void",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-18T05:07:06+00:00",
+     "summary": "Iran's foreign ministry spokesman Esmaeil Baghaei said the 60-day negotiation deadline set out under the June Iran-US memorandum of understanding for a lasting settlement had been rendered null and void by \"violations\" committed by Washington. After meeting with Benjamin Netanyahu, US envoy Jared Kushner said Monday he hoped to see the start of Hamas's disarmament within \"30 days\". Follow the latest developments."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Where things stand in the Iran war, 60 days after memorandum of understanding",
+     "url": "https://www.cbsnews.com/video/where-things-stand-in-the-iran-war-60-days-after-memorandum-of-understanding/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T23:57:59+00:00",
+     "summary": "It has been 60 days since the U.S. and Iran signed a memorandum of understanding that called for negotiations to reach a larger peace deal. Despite that, the war continues. CBS News national security contributor Joseph Zacks has more."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Where the Iran war stands as 60-day window to reach peace deal expires",
+     "url": "https://www.pbs.org/newshour/show/war-with-iran",
+     "author": "Dan Sagalyn",
+     "kind": "news",
+     "published": "2026-08-17T22:55:06+00:00",
+     "summary": "President Trump lashed out at U.S. allies on Monday as the deadline to reach a deal to end the war with Iran expires. Trump threatened to bomb Oman, which has been mediating negotiations, and called for military exercises with South Korea to be scaled back, in part for refusing to join the war. Amna Nawaz discussed where the war stands and what happens next with Alan Eyre and Reuel Marc Gerecht."
+    },
+    {
+     "outlet": "slate",
+     "title": "Donald Trump Promised to Keep Us Out of Protracted Wars of Choice in the Middle East. We Are Now in a Protracted War of Choice in the Middle East.",
+     "url": "https://slate.com/news-and-politics/2026/08/trump-iran-war-peace-oman.html?via=rss",
+     "author": "Ian Prasad Philbrick",
+     "kind": "news",
+     "published": "2026-08-17T21:35:48+00:00",
+     "summary": "Iran\u2019s supreme leader appears behind Donald Trump"
+    },
+    {
+     "outlet": "wapo",
+     "title": "60 days after signing Iran deal, Trump stuck in quagmire as war drags on",
+     "url": "https://www.washingtonpost.com/politics/2026/08/17/60-days-after-signing-iran-deal-trump-stuck-quagmire-peace-talks-stall/",
+     "author": "Cleve R. Wootson Jr., Rachel Chason",
+     "kind": "news",
+     "published": "2026-08-17T21:20:35+00:00",
+     "summary": "President Donald Trump\u2019s interim deal with Iran in June set aside two months for negotiations, but the window has now closed and broader talks are at a standstill."
+    },
+    {
+     "outlet": "zeteo",
+     "title": "SCOOP: Trump\u2019s Iran War Has Burned Through Well Over 90% of Key Long-Range Missiles",
+     "url": "https://zeteo.com/p/scoop-trumps-iran-war-has-burned",
+     "author": "Asawin Suebsaeng",
+     "kind": "news",
+     "published": "2026-08-17T20:49:43+00:00",
+     "summary": "Donald Trump and Pete Hegseth during a press conference at the NATO Summit in Ankara, Turkey, on July 8, 2026. Photo by Jakub Porzycki/NurPhoto via Getty Images. However terribly you think the Iran war is going for Donald Trump, the reality is almost certainly worse. The worse it gets, the more the White House tries to cover up and hide the damage from the American people, and the more the president uses the Justice Department to threaten media outlets that expose the sheer tonnage of the damage. President Trump won&#8217;t even be straight with the country about how he&#8217;s running out of weapons &#8211; when his war has depleted well upwards of 90% of certain crucial munitions, as Zeteo has learned. When reporters have dug in on this topic, he&#8217;s huffily accused them of &#8220; treason ,&#8221; and pledged that those responsible for leaking the information &#8220;are being hunted down&#8221; aggressively. Subscribe now The staggering rate of U.S. weapons exhaustion is one of many indications of how colossally disastrous the Iran war has been for the American side since the very moment Trump launched the conflict in February. And the extent to which Trump has routinely ord"
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Trump says Iran will not make the deal he believes is necessary",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T20:49:30+00:00",
+     "summary": "Trump says Iran will not make the deal he believes is necessary"
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Trump \u2018doesn\u2019t have a plan\u2019 on Iran: Voters in key Pennsylvania district upset with handling of war",
+     "url": "https://www.nbcnews.com/meet-the-press/video/trump-doesn-t-have-a-plan-on-iran-voters-in-key-pennsylvania-district-upset-with-handling-of-war-268422725765",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T20:48:54+00:00",
+     "summary": "NBC News Senior National Politics Reporter Jon Allen hits the road for his Drive to Decision Day series to talk to voters in several battleground congressional districts that could determine the control of Congress. Jon Allen starts his road trip in New Jersey\u2019s 7th congressional district and Pennsylvania\u2019s 7th and 8th congressional districts."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Jon Ossoff accuses Trump and Hegseth of lying about Iran war \u2013 video",
+     "url": "https://www.theguardian.com/us-news/video/2026/aug/17/jon-ossoff-accuses-trump-and-hegseth-of-lying-about-iran-war-video",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T17:02:53+00:00",
+     "summary": "Democratic senator Jon Ossoff attacked Donald Trump and&nbsp;the defense secretary, Pete Hegseth,&nbsp;over the Iran war, saying they lied 'the nation into a war'. Ossoff, who is running for re-election in Georgia in November, made the comments while speaking at a rally in midtown Atlanta on Sunday afternoon Jon Ossoff calls Trump\u2019s handling of Iran war \u2018uniquely despicable\u2019 in excoriating speech Continue reading..."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Donald Trump doesn\u2019t just love billionaires, he loves multimillionaires too",
+     "url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
+     "author": "Eduardo Porter",
+     "kind": "news",
+     "published": "2026-08-15T10:00:54+00:00",
+     "summary": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich After the House passed its version of Donald Trump \u2019s One Big Beautiful Bill Act (OBBBA) last year \u2013 the one that paired a $5tn-plus tax cut with $1tn-plus of cuts from food stamps and Medicaid \u2013 the House speaker, Mike Johnson , explained that \u201cthis is not giving tax cuts to the millionaires\u201d. The beneficiaries, he said, were \u201csmall business owners\u201d that \u201cprovide the jobs in every community in America\u201d. Johnson was playing to the myth of the modest, sturdy Main Street job creator. It is an appealing story. It\u2019s also the most consequential piece of BS distorting American policy that deprives the government of tax revenue, stunts American capitalism, twists regulations, thwarts competition and overwhelmingly serves millionaires\u2019 interests. Continue reading..."
+    }
+   ]
+  },
+  {
    "id": "385a47f2de",
    "topic": "World",
    "summary": "President Trump spent the weekend turning on two US security partners. He ordered a cutback in joint military exercises with South Korea, citing his &#8220;very good relationship&#8221; with Kim Jong Un, the North Korean dictator \u2014 and threatened to bomb Oman, one of the countries mediating between Washington and Tehran. On Sunday, Trump posted on Truth Social that based on his \u201cvery good relationship with Kim Jong Un\u201d and the finances required, he ordered Pete Hegseth to \u201csubstantially reduce\u201d annual joint military exercises with South Korea, designed to prepare against threats from North Korea. At the end of his post: \u201cWhile somewhat unrelated (?), I recently asked the President of South Korea if they would like to join us in the Denuclearization of the Islamic Republic of Iran, and they said, \u201cNo thanks!\u201d And on Monday afternoon, Trump told reporters in the Oval Office a similar\u2026",
@@ -683,17 +810,17 @@
     "indieCount": 4,
     "big": [
      "donald",
+     "break",
      "world",
      "speaking",
-     "break",
-     "reduce",
-     "substantially"
+     "substantially",
+     "reduce"
     ],
     "indie": [
      "deal",
+     "israeli",
      "jerusalem",
      "stalled",
-     "israeli",
      "east"
     ]
    },
@@ -797,6 +924,105 @@
    ]
   },
   {
+   "id": "2c71945cfc",
+   "topic": "Health",
+   "summary": "The Ebola outbreak in the DR Congo became the deadliest in its history, with the virus \u201c killing someone every 30 minutes ,\u201d a UN official said. The current outbreak is spreading five times faster than previous ones: It took only three months for fatalities to hit 2,000, compared to the five months it took to reach 1,000 deaths during the 2014-16 West Africa outbreak. Researchers believe the virus may have been spreading undetected since February, and an expert said cases were still being detected very late , thwarting chances of successful treatment. Violence in the conflict-affected region likely hampered detection efforts; research suggests countries \u201cmay be least able to spot outbreaks in precisely the places where the danger is greatest .\u201d \u2014 Tasneem Nashrulla",
+   "summaryFrom": "semafor",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 4,
+    "big": [],
+    "indie": [
+     "country",
+     "health",
+     "record",
+     "cases",
+     "killed",
+     "government"
+    ]
+   },
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "DR Congo Ebola outbreak becomes country\u2019s deadliest",
+   "updated": "2026-08-18T03:54:22+00:00",
+   "outletCount": 7,
+   "counts": {
+    "family": 3,
+    "pub": 3,
+    "nonprofit": 1
+   },
+   "newsCount": 7,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bloomberg",
+     "title": "Congo Ebola Outbreak: Financial Oversight Takes Priority as Distrust Grows",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-18/congo-ebola-outbreak-financial-oversight-takes-priority-as-distrust-grows",
+     "author": "Jason Gale",
+     "kind": "news",
+     "published": "2026-08-18T03:54:22+00:00",
+     "summary": "Ebola is reviving suspicions of profiteering in eastern Democratic Republic of Congo, where distrust over how response money is handled is undermining the community cooperation needed to contain the world\u2019s fastest-growing outbreak."
+    },
+    {
+     "outlet": "semafor",
+     "title": "Ebola outbreak in DR Congo becomes deadliest in country's history",
+     "url": "https://www.semafor.com/article/08/17/2026/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history",
+     "author": "Tasneem Nashrulla",
+     "kind": "news",
+     "published": "2026-08-17T22:30:56+00:00",
+     "summary": "The Ebola outbreak in the DR Congo became the deadliest in its history, with the virus \u201c killing someone every 30 minutes ,\u201d a UN official said. The current outbreak is spreading five times faster than previous ones: It took only three months for fatalities to hit 2,000, compared to the five months it took to reach 1,000 deaths during the 2014-16 West Africa outbreak. Researchers believe the virus may have been spreading undetected since February, and an expert said cases were still being detected very late , thwarting chances of successful treatment. Violence in the conflict-affected region likely hampered detection efforts; research suggests countries \u201cmay be least able to spot outbreaks in precisely the places where the danger is greatest .\u201d \u2014 Tasneem Nashrulla"
+    },
+    {
+     "outlet": "breitbart",
+     "title": "'Ebola Is Winning': Outbreak Becomes Deadliest in DR Congo's History",
+     "url": "https://www.breitbart.com/africa/2026/08/17/ebola-is-winning-outbreak-becomes-deadliest-dr-congos-history/",
+     "author": "Frances Martel",
+     "kind": "news",
+     "published": "2026-08-17T18:40:42+00:00",
+     "summary": "The Democratic Republic of the Congo (DRC) confirmed that at least 2,325 people have died of Ebola infections. The post &#8216;Ebola Is Winning&#8217;: Outbreak Becomes Deadliest in DR Congo&#8217;s History appeared first on Breitbart ."
+    },
+    {
+     "outlet": "france24",
+     "title": "DR Congo Ebola outbreak becomes country\u2019s deadliest",
+     "url": "https://www.france24.com/en/dr-congo-ebola-outbreak-becomes-country-s-deadliest",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-17T15:28:03+00:00",
+     "summary": "The DRC\u2019s latest Ebola outbreak has killed 2,325 people, making it the country\u2019s deadliest outbreak on record. Nearly 5,000 cases have been confirmed as the virus spreads to a sixth province, while health authorities work to tackle mistrust and contain transmission. Two vaccines have also entered early human trials."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country\u2019s history",
+     "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+     "author": "Nadeem Badshah and Rachel Savage",
+     "kind": "news",
+     "published": "2026-08-17T14:07:31+00:00",
+     "summary": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country\u2019s history, with at least 2,325 people dead, according to government data, surpassing the toll from the 2018-20 outbreak. The DRC\u2019s public health institute said confirmed cases had risen to 4,945, including 101 detected in the previous 24 hours. Continue reading..."
+    },
+    {
+     "outlet": "dw",
+     "title": "DRC Ebola outbreak becomes deadliest in country's history",
+     "url": "https://www.dw.com/en/drc-ebola-outbreak-becomes-deadliest-in-country-s-history/a-78394992?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T10:06:00+00:00",
+     "summary": "An Ebola outbreak in the Democratic Republic of Congo has now killed 2,325 people, according to government figures. The UN says one person in the country is dying every 30 minutes of the disease."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
+     "url": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T04:41:31+00:00",
+     "summary": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo."
+    }
+   ]
+  },
+  {
    "id": "83d7c81a89",
    "topic": "Justice & Policing",
    "summary": "The operations director for a controversial leftist congresswoman downplayed the killing of UnitedHealthcare CEO Brian Thompson after Luigi Mangione pleaded guilty to related charges last week. \"You\u2019ll never convince me that Luigi is a villain while everyone in the Epstein files is roaming free,\" Briana Rose Lee said Friday on X after Mangione pleaded guilty to interstate stalking resulting in death and cyberstalking/use of interstate facilities resulting in death. Ilhan Omar, D-Minn., is currently seeking re-election for her fifth term in Congress. Lee's X bio says she does \"operations\" for the progressive congresswoman. Her LinkedIn profile confirms she has been working for Omar since January 2024, and that she is the former chairwoman of the Minneapolis Democratic-Farm-Labor (DFL) party. \"On the morning of Dec. 4, 2024, I shot Mr. Thompson in Manhattan,\" Mangione told the court\u2026",
@@ -805,8 +1031,8 @@
     "bigCount": 5,
     "indieCount": 2,
     "big": [
-     "respond",
      "delays",
+     "respond",
      "prosecutors",
      "unitedhealthcare",
      "stalking"
@@ -903,20 +1129,20 @@
     "bigCount": 4,
     "indieCount": 5,
     "big": [
+     "told",
      "matters",
      "steps",
-     "told",
-     "adviser",
      "commitment",
+     "adviser",
      "direct"
     ],
     "indie": [
      "son-in-law",
      "administration",
      "until",
-     "east",
      "middle",
-     "us-backed"
+     "us-backed",
+     "east"
     ]
    },
    "absent": [
@@ -1019,253 +1245,6 @@
    ]
   },
   {
-   "id": "9e0043821c",
-   "topic": "Politics",
-   "summary": "Donald Trump and Pete Hegseth during a press conference at the NATO Summit in Ankara, Turkey, on July 8, 2026. Photo by Jakub Porzycki/NurPhoto via Getty Images. However terribly you think the Iran war is going for Donald Trump, the reality is almost certainly worse. The worse it gets, the more the White House tries to cover up and hide the damage from the American people, and the more the president uses the Justice Department to threaten media outlets that expose the sheer tonnage of the damage. President Trump won&#8217;t even be straight with the country about how he&#8217;s running out of weapons &#8211; when his war has depleted well upwards of 90% of certain crucial munitions, as Zeteo has learned. When reporters have dug in on this topic, he&#8217;s huffily accused them of &#8220; treason ,&#8221; and pledged that those responsible for leaking the information &#8220;are being\u2026",
-   "summaryFrom": "zeteo",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 3,
-    "big": [
-     "negotiations",
-     "national"
-    ],
-    "indie": [
-     "pete",
-     "hegseth"
-    ]
-   },
-   "absent": [],
-   "headline": "Trump says Iran will not make the deal he believes is necessary",
-   "updated": "2026-08-17T23:57:59+00:00",
-   "outletCount": 6,
-   "counts": {
-    "corp": 2,
-    "family": 1,
-    "coop": 1,
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Where things stand in the Iran war, 60 days after memorandum of understanding",
-     "url": "https://www.cbsnews.com/video/where-things-stand-in-the-iran-war-60-days-after-memorandum-of-understanding/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T23:57:59+00:00",
-     "summary": "It has been 60 days since the U.S. and Iran signed a memorandum of understanding that called for negotiations to reach a larger peace deal. Despite that, the war continues. CBS News national security contributor Joseph Zacks has more."
-    },
-    {
-     "outlet": "wapo",
-     "title": "60 days after signing Iran deal, Trump stuck in quagmire as war drags on",
-     "url": "https://www.washingtonpost.com/politics/2026/08/17/60-days-after-signing-iran-deal-trump-stuck-quagmire-peace-talks-stall/",
-     "author": "Cleve R. Wootson Jr., Rachel Chason",
-     "kind": "news",
-     "published": "2026-08-17T21:20:35+00:00",
-     "summary": "President Donald Trump\u2019s interim deal with Iran in June set aside two months for negotiations, but the window has now closed and broader talks are at a standstill."
-    },
-    {
-     "outlet": "zeteo",
-     "title": "SCOOP: Trump\u2019s Iran War Has Burned Through Well Over 90% of Key Long-Range Missiles",
-     "url": "https://zeteo.com/p/scoop-trumps-iran-war-has-burned",
-     "author": "Asawin Suebsaeng",
-     "kind": "news",
-     "published": "2026-08-17T20:49:43+00:00",
-     "summary": "Donald Trump and Pete Hegseth during a press conference at the NATO Summit in Ankara, Turkey, on July 8, 2026. Photo by Jakub Porzycki/NurPhoto via Getty Images. However terribly you think the Iran war is going for Donald Trump, the reality is almost certainly worse. The worse it gets, the more the White House tries to cover up and hide the damage from the American people, and the more the president uses the Justice Department to threaten media outlets that expose the sheer tonnage of the damage. President Trump won&#8217;t even be straight with the country about how he&#8217;s running out of weapons &#8211; when his war has depleted well upwards of 90% of certain crucial munitions, as Zeteo has learned. When reporters have dug in on this topic, he&#8217;s huffily accused them of &#8220; treason ,&#8221; and pledged that those responsible for leaking the information &#8220;are being hunted down&#8221; aggressively. Subscribe now The staggering rate of U.S. weapons exhaustion is one of many indications of how colossally disastrous the Iran war has been for the American side since the very moment Trump launched the conflict in February. And the extent to which Trump has routinely ord"
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Trump says Iran will not make the deal he believes is necessary",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T20:49:30+00:00",
-     "summary": "Trump says Iran will not make the deal he believes is necessary"
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Trump \u2018doesn\u2019t have a plan\u2019 on Iran: Voters in key Pennsylvania district upset with handling of war",
-     "url": "https://www.nbcnews.com/meet-the-press/video/trump-doesn-t-have-a-plan-on-iran-voters-in-key-pennsylvania-district-upset-with-handling-of-war-268422725765",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T20:48:54+00:00",
-     "summary": "NBC News Senior National Politics Reporter Jon Allen hits the road for his Drive to Decision Day series to talk to voters in several battleground congressional districts that could determine the control of Congress. Jon Allen starts his road trip in New Jersey\u2019s 7th congressional district and Pennsylvania\u2019s 7th and 8th congressional districts."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Jon Ossoff accuses Trump and Hegseth of lying about Iran war \u2013 video",
-     "url": "https://www.theguardian.com/us-news/video/2026/aug/17/jon-ossoff-accuses-trump-and-hegseth-of-lying-about-iran-war-video",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T17:02:53+00:00",
-     "summary": "Democratic senator Jon Ossoff attacked Donald Trump and&nbsp;the defense secretary, Pete Hegseth,&nbsp;over the Iran war, saying they lied 'the nation into a war'. Ossoff, who is running for re-election in Georgia in November, made the comments while speaking at a rally in midtown Atlanta on Sunday afternoon Jon Ossoff calls Trump\u2019s handling of Iran war \u2018uniquely despicable\u2019 in excoriating speech Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "2c71945cfc",
-   "topic": "Health",
-   "summary": "The Ebola outbreak in the DR Congo became the deadliest in its history, with the virus \u201c killing someone every 30 minutes ,\u201d a UN official said. The current outbreak is spreading five times faster than previous ones: It took only three months for fatalities to hit 2,000, compared to the five months it took to reach 1,000 deaths during the 2014-16 West Africa outbreak. Researchers believe the virus may have been spreading undetected since February, and an expert said cases were still being detected very late , thwarting chances of successful treatment. Violence in the conflict-affected region likely hampered detection efforts; research suggests countries \u201cmay be least able to spot outbreaks in precisely the places where the danger is greatest .\u201d \u2014 Tasneem Nashrulla",
-   "summaryFrom": "semafor",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 4,
-    "big": [],
-    "indie": [
-     "country",
-     "health",
-     "cases",
-     "killed",
-     "record",
-     "government"
-    ]
-   },
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "DR Congo Ebola outbreak becomes country\u2019s deadliest",
-   "updated": "2026-08-17T22:30:56+00:00",
-   "outletCount": 6,
-   "counts": {
-    "family": 2,
-    "pub": 3,
-    "nonprofit": 1
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "semafor",
-     "title": "Ebola outbreak in DR Congo becomes deadliest in country's history",
-     "url": "https://www.semafor.com/article/08/17/2026/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history",
-     "author": "Tasneem Nashrulla",
-     "kind": "news",
-     "published": "2026-08-17T22:30:56+00:00",
-     "summary": "The Ebola outbreak in the DR Congo became the deadliest in its history, with the virus \u201c killing someone every 30 minutes ,\u201d a UN official said. The current outbreak is spreading five times faster than previous ones: It took only three months for fatalities to hit 2,000, compared to the five months it took to reach 1,000 deaths during the 2014-16 West Africa outbreak. Researchers believe the virus may have been spreading undetected since February, and an expert said cases were still being detected very late , thwarting chances of successful treatment. Violence in the conflict-affected region likely hampered detection efforts; research suggests countries \u201cmay be least able to spot outbreaks in precisely the places where the danger is greatest .\u201d \u2014 Tasneem Nashrulla"
-    },
-    {
-     "outlet": "breitbart",
-     "title": "'Ebola Is Winning': Outbreak Becomes Deadliest in DR Congo's History",
-     "url": "https://www.breitbart.com/africa/2026/08/17/ebola-is-winning-outbreak-becomes-deadliest-dr-congos-history/",
-     "author": "Frances Martel",
-     "kind": "news",
-     "published": "2026-08-17T18:40:42+00:00",
-     "summary": "The Democratic Republic of the Congo (DRC) confirmed that at least 2,325 people have died of Ebola infections. The post &#8216;Ebola Is Winning&#8217;: Outbreak Becomes Deadliest in DR Congo&#8217;s History appeared first on Breitbart ."
-    },
-    {
-     "outlet": "france24",
-     "title": "DR Congo Ebola outbreak becomes country\u2019s deadliest",
-     "url": "https://www.france24.com/en/dr-congo-ebola-outbreak-becomes-country-s-deadliest",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-17T15:28:03+00:00",
-     "summary": "The DRC\u2019s latest Ebola outbreak has killed 2,325 people, making it the country\u2019s deadliest outbreak on record. Nearly 5,000 cases have been confirmed as the virus spreads to a sixth province, while health authorities work to tackle mistrust and contain transmission. Two vaccines have also entered early human trials."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country\u2019s history",
-     "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
-     "author": "Nadeem Badshah and Rachel Savage",
-     "kind": "news",
-     "published": "2026-08-17T14:07:31+00:00",
-     "summary": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country\u2019s history, with at least 2,325 people dead, according to government data, surpassing the toll from the 2018-20 outbreak. The DRC\u2019s public health institute said confirmed cases had risen to 4,945, including 101 detected in the previous 24 hours. Continue reading..."
-    },
-    {
-     "outlet": "dw",
-     "title": "DRC Ebola outbreak becomes deadliest in country's history",
-     "url": "https://www.dw.com/en/drc-ebola-outbreak-becomes-deadliest-in-country-s-history/a-78394992?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T10:06:00+00:00",
-     "summary": "An Ebola outbreak in the Democratic Republic of Congo has now killed 2,325 people, according to government figures. The UN says one person in the country is dying every 30 minutes of the disease."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
-     "url": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T04:41:31+00:00",
-     "summary": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo."
-    }
-   ]
-  },
-  {
-   "id": "8277043ce5",
-   "topic": "Justice & Policing",
-   "summary": "The coroner\u2019s office completed an autopsy Monday and said there were \u201cno signs of trauma\u201d that would have contributed to the star\u2019s earth. The official cause is still under investigation. NBC News\u2019 Steve Patterson reports.",
-   "summaryFrom": "nbcnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "US actress Hayden Panettiere dies at 36",
-   "updated": "2026-08-18T00:08:09+00:00",
-   "outletCount": 5,
-   "counts": {
-    "corp": 3,
-    "family": 1,
-    "pub": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Hayden Panettiere, known for \"Heroes\" and \"Remember the Titans,\" dies at 36",
-     "url": "https://www.cbsnews.com/news/hayden-panettiere-dies-at-36/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-18T00:08:09+00:00",
-     "summary": "Hayden Panettiere, who starred in \"Remember the Titans\" as a child actor and rose to fame in the series \"Heroes,\" has died at the age of 36. The coroner's office says she was found in cardiac arrest."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Actress Hayden Panettiere dies at 36 as investigation continues",
-     "url": "https://www.nbcnews.com/nightly-news/video/actress-hayden-panettiere-dies-at-36-as-investigation-continues-268431941821",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T23:06:17+00:00",
-     "summary": "The coroner\u2019s office completed an autopsy Monday and said there were \u201cno signs of trauma\u201d that would have contributed to the star\u2019s earth. The official cause is still under investigation. NBC News\u2019 Steve Patterson reports."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Actress Hayden Panettiere dies at 36, found in cardiac arrest",
-     "url": "https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T19:19:28+00:00",
-     "summary": "Hayden Panettiere's representative confirmed her death to ABC News on Sunday. The \"Nashville\" actress's cause of death is still to be determined."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Actress Hayden Panettiere, star of \u2018Heroes\u2019 and \u2018Nashville,\u2019 dies at 36",
-     "url": "https://www.washingtonpost.com/obituaries/2026/08/17/hayden-panettiere-former-child-actress-who-starred-heroes-dies-36/",
-     "author": "Sammy Westfall, Grey Battle, Ashley Fetters Maloy",
-     "kind": "news",
-     "published": "2026-08-17T18:19:06+00:00",
-     "summary": "Ms. Panettiere was in cardiac arrest before she died, the coroner\u2019s office said. In a May memoir, she detailed the difficulties she had growing up in the public eye."
-    },
-    {
-     "outlet": "dw",
-     "title": "US actress Hayden Panettiere dies at 36",
-     "url": "https://www.dw.com/en/us-actress-hayden-panettiere-dies-at-36/a-78391169?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T06:16:00+00:00",
-     "summary": "Hayden Panettiere's death was announced by her father in a statement to US network ABC news. The actress was known for her roles in TV shows such as \"Nashville\" and \"Heroes.\""
-    }
-   ]
-  },
-  {
    "id": "d132349706",
    "topic": "Other",
    "summary": "Hayden Panettiere has died at the age of 36. No official cause of death was given for the versatile actress and Golden Globe nominee. Emergency responders found her in cardiac arrest before she was pronounced dead at a home in South Carolina. Police say there was no evidence of foul play. Senior arts correspondent Jeffrey Brown remembers Panettiere's life and career.",
@@ -1274,31 +1253,42 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "heroes",
-     "tribute",
      "sunday",
-     "nashville"
+     "friends",
+     "co-stars",
+     "remembered",
+     "heroes",
+     "tribute"
     ],
     "indie": [
      "life"
     ]
    },
    "absent": [
-    "corp",
     "coop"
    ],
    "headline": "Remembering the life and career of Hayden Panettiere",
-   "updated": "2026-08-17T22:42:21+00:00",
+   "updated": "2026-08-18T00:09:01+00:00",
    "outletCount": 5,
    "counts": {
+    "corp": 1,
     "nonprofit": 1,
-    "family": 3,
+    "family": 2,
     "pub": 1
    },
    "newsCount": 5,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Hayden Panettiere remembered by co-stars and friends after her death",
+     "url": "https://www.cbsnews.com/news/hayden-panettiere-death-celebrity-tributes-reactions/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-18T00:09:01+00:00",
+     "summary": "Co-stars and friends of Hayden Panettiere\u200b are remembering her for her friendship, intelligence and talent after her shocking death on Sunday."
+    },
     {
      "outlet": "pbsnewshour",
      "title": "Remembering the life and career of Hayden Panettiere",
@@ -1325,15 +1315,6 @@
      "kind": "news",
      "published": "2026-08-17T19:55:28+00:00",
      "summary": "Hayden Panettiere, the accomplished former child actor known for roles in 'Ice Princess' and 'Heroes,' died Sunday at age 36. Her Hollywood peers remembered her career on social media."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Hayden Panettiere: Celebrities Pay Tribute to Late \u2018Nashville\u2019 Star",
-     "url": "https://www.breitbart.com/entertainment/2026/08/17/hayden-panettiere-celebrities-pay-tribute-to-late-nashville-star/",
-     "author": "Breitbart News",
-     "kind": "news",
-     "published": "2026-08-17T14:12:16+00:00",
-     "summary": "Celebrities are paying tribute to late Heroes and Nashville star Hayden Panettiere. The post Hayden Panettiere: Celebrities Pay Tribute to Late \u2018Nashville\u2019 Star appeared first on Breitbart ."
     },
     {
      "outlet": "bbc",
@@ -1416,7 +1397,67 @@
    ]
   },
   {
-   "id": "3a0d67a17a",
+   "id": "8818485042",
+   "topic": "Other",
+   "summary": "Jeanie Buss wants to remain as controlling owner Family were set to sell stake to Bob Iger and Josh Jushner Jeanie Buss is reportedly challenging her siblings\u2019 attempt to sell the family\u2019s remaining stake in the Los Angeles Lakers. Hours after the Buss family released a statement revealing their \u2060intention to sell their 17.8% ownership of the franchise to Bob Iger and Josh Kushner, CNBC and ESPN reported that Jeanie Buss\u2019s lawyer sought to halt her siblings\u2019 sale on \u2060legal grounds. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Jeanie Buss reportedly attempting to halt her siblings\u2019 attempt to sell remaining stake in Lakers",
+   "updated": "2026-08-18T05:13:24+00:00",
+   "outletCount": 4,
+   "counts": {
+    "family": 3,
+    "nonprofit": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "forbes",
+     "title": "Lakers Sale: Jeanie Buss Opposes Family\u2019s Plan To Sell Remaining Stake To Josh Kushner, Bob Iger",
+     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/18/lakers-sale-jeanie-buss-opposes-familys-plan-to-sell-remaining-stake-to-josh-kushner-bob-iger/",
+     "author": "Siladitya Ray, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-18T05:13:24+00:00",
+     "summary": "The Buss family own a 17.8% minority stake in the Los Angeles Lakers, with Jeanie serving as the team's governor."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Jeanie Buss reportedly attempting to halt her siblings\u2019 attempt to sell remaining stake in Lakers",
+     "url": "https://www.theguardian.com/sport/2026/aug/17/jeanie-buss-reportedly-attempting-to-halt-her-siblings-attempt-to-sell-remaining-stake-in-lakers",
+     "author": "Reuters",
+     "kind": "news",
+     "published": "2026-08-18T03:19:57+00:00",
+     "summary": "Jeanie Buss wants to remain as controlling owner Family were set to sell stake to Bob Iger and Josh Jushner Jeanie Buss is reportedly challenging her siblings\u2019 attempt to sell the family\u2019s remaining stake in the Los Angeles Lakers. Hours after the Buss family released a statement revealing their \u2060intention to sell their 17.8% ownership of the franchise to Bob Iger and Josh Kushner, CNBC and ESPN reported that Jeanie Buss\u2019s lawyer sought to halt her siblings\u2019 sale on \u2060legal grounds. Continue reading..."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Jeanie Buss Opposes Reported Sale of the Lakers, Says Siblings Can't Without Her Approval",
+     "url": "https://www.breitbart.com/sports/2026/08/17/jeanie-buss-opposes-reported-sale-of-the-lakers-says-siblings-cant-without-her-approval/",
+     "author": "Paul Bois",
+     "kind": "news",
+     "published": "2026-08-18T03:19:33+00:00",
+     "summary": "Jeanie Buss reportedly opposes the sale of the Lakers, adding that her siblings cannot sell their stake without her approval. The post Jeanie Buss Opposes Reported Sale of the Lakers, Says Siblings Can&#8217;t Without Her Approval appeared first on Breitbart ."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Jeanie Buss contests family sale of Lakers ownership stake to Bob Iger, Joshua Kushner",
+     "url": "https://www.latimes.com/sports/lakers/story/2026-08-17/lakers-jeanie-buss-family-selling-ownership-stake",
+     "author": "Thuc Nhi Nguyen",
+     "kind": "news",
+     "published": "2026-08-17T20:22:21+00:00",
+     "summary": "Jeanie Buss' attorney demanded her brothers retract statements the Buss family is selling its 17.8% ownership stake, citing a court ruling she is to be owner for life."
+    }
+   ]
+  },
+  {
+   "id": "5c25008e57",
    "topic": "Justice & Policing",
    "summary": "More than a dozen Penn Staters are charged in connection with an alleged massive cocaine distribution ring as one of the alleged ringleaders, Agostino Abbatiello, 24, of Westbury, New York remains at large. Pennsylvania Attorney General Dave Sunday announced that Abbatiello is among 14 people who are facing charges related to the coke trafficking operation where students and two off-campus fraternities were allegedly involved. \"In all, 13 defendants were Penn State University students at or around the time of the alleged conduct, in 2023 and 2024. The 14th defendant, the father of a student, is charged with tampering with evidence and hindering the investigation,\" the Attorney General's office said. SUSPECT ARRESTED FOR ALLEGEDLY RUNNING METH LAB AT MICHIGAN STATE UNIVERSITY\u2019S LARGEST ACADEMIC BUILDING In the Monday announcement, the AG said suspects Abbatiello and Thomas Robinson were\u2026",
    "summaryFrom": "foxnews",
@@ -1426,7 +1467,7 @@
     "nonprofit",
     "pub"
    ],
-   "headline": "13 Penn State frat bros busted in cocaine trafficking ring\u2014including LI student at \u2018top of the food chain\u2019",
+   "headline": "13 Penn State frat bros busted in cocaine trafficking ring\u2014including Long Island student at \u2018top of the food chain\u2019",
    "updated": "2026-08-18T04:48:58+00:00",
    "outletCount": 4,
    "counts": {
@@ -1439,7 +1480,7 @@
    "articles": [
     {
      "outlet": "nypost",
-     "title": "13 Penn State frat bros busted in cocaine trafficking ring\u2014including LI student at \u2018top of the food chain\u2019",
+     "title": "13 Penn State frat bros busted in cocaine trafficking ring\u2014including Long Island student at \u2018top of the food chain\u2019",
      "url": "https://nypost.com/2026/08/18/us-news/13-penn-state-frat-bros-busted-in-cocaine-trafficking-ringincluding-ny-student-at-top-of-the-food-chain/",
      "author": "Daniel Cody",
      "kind": "news",
@@ -1586,7 +1627,7 @@
     },
     {
      "outlet": "france24",
-     "title": "Zambia's president Hichilema wins re-election with big economic promises",
+     "title": "Zambia's President Hichilema wins re-election with big economic promises",
      "url": "https://www.france24.com/en/africa/20260818-zambia-president-hichilema-wins-re-election-with-big-economic-promises",
      "author": "FRANCE 24",
      "kind": "news",
@@ -1601,66 +1642,6 @@
      "kind": "news",
      "published": "2026-08-18T01:03:58+00:00",
      "summary": "Zambian President Hakainde Hichilema was declared the winner of the nation\u2019s elections, an outcome that investors will welcome as he sets out to build on economic successes in Africa\u2019s second-biggest copper producer."
-    }
-   ]
-  },
-  {
-   "id": "8818485042",
-   "topic": "Other",
-   "summary": "Jeanie Buss wants to remain as controlling owner Family were set to sell stake to Bob Iger and Josh Jushner Jeanie Buss is reportedly challenging her siblings\u2019 attempt to sell the family\u2019s remaining stake in the Los Angeles Lakers. Hours after the Buss family released a statement revealing their \u2060intention to sell their 17.8% ownership of the franchise to Bob Iger and Josh Kushner, CNBC and ESPN reported that Jeanie Buss\u2019s lawyer sought to halt her siblings\u2019 sale on \u2060legal grounds. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Jeanie Buss reportedly attempting to halt her siblings\u2019 attempt to sell remaining stake in Lakers",
-   "updated": "2026-08-18T03:19:57+00:00",
-   "outletCount": 4,
-   "counts": {
-    "nonprofit": 1,
-    "family": 3
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Jeanie Buss reportedly attempting to halt her siblings\u2019 attempt to sell remaining stake in Lakers",
-     "url": "https://www.theguardian.com/sport/2026/aug/17/jeanie-buss-reportedly-attempting-to-halt-her-siblings-attempt-to-sell-remaining-stake-in-lakers",
-     "author": "Reuters",
-     "kind": "news",
-     "published": "2026-08-18T03:19:57+00:00",
-     "summary": "Jeanie Buss wants to remain as controlling owner Family were set to sell stake to Bob Iger and Josh Jushner Jeanie Buss is reportedly challenging her siblings\u2019 attempt to sell the family\u2019s remaining stake in the Los Angeles Lakers. Hours after the Buss family released a statement revealing their \u2060intention to sell their 17.8% ownership of the franchise to Bob Iger and Josh Kushner, CNBC and ESPN reported that Jeanie Buss\u2019s lawyer sought to halt her siblings\u2019 sale on \u2060legal grounds. Continue reading..."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Jeanie Buss Opposes Reported Sale of the Lakers, Says Siblings Can't Without Her Approval",
-     "url": "https://www.breitbart.com/sports/2026/08/17/jeanie-buss-opposes-reported-sale-of-the-lakers-says-siblings-cant-without-her-approval/",
-     "author": "Paul Bois",
-     "kind": "news",
-     "published": "2026-08-18T03:19:33+00:00",
-     "summary": "Jeanie Buss reportedly opposes the sale of the Lakers, adding that her siblings cannot sell their stake without her approval. The post Jeanie Buss Opposes Reported Sale of the Lakers, Says Siblings Can&#8217;t Without Her Approval appeared first on Breitbart ."
-    },
-    {
-     "outlet": "forbes",
-     "title": "Jeanie Buss\u2019 Is Contesting Siblings\u2019 Attempts To Sell Lakers\u2019 Share",
-     "url": "https://www.forbes.com/sites/markmedina/2026/08/17/jeanie-buss-is-contesting-siblings-attempts-to-sell-lakers-share/",
-     "author": "Mark Medina, Contributor",
-     "kind": "news",
-     "published": "2026-08-17T23:29:10+00:00",
-     "summary": "Jeanie Buss' lawyer has contested the Buss' family's attempts to sell its minority ownership shares of the Los Angeles Lakers"
-    },
-    {
-     "outlet": "latimes",
-     "title": "Jeanie Buss contests family sale of Lakers ownership stake to Bob Iger, Joshua Kushner",
-     "url": "https://www.latimes.com/sports/lakers/story/2026-08-17/lakers-jeanie-buss-family-selling-ownership-stake",
-     "author": "Thuc Nhi Nguyen",
-     "kind": "news",
-     "published": "2026-08-17T20:22:21+00:00",
-     "summary": "Jeanie Buss' attorney demanded her brothers retract statements the Buss family is selling its 17.8% ownership stake, citing a court ruling she is to be owner for life."
     }
    ]
   },
@@ -1785,25 +1766,36 @@
    ]
   },
   {
-   "id": "17ada2489d",
+   "id": "49c630b783",
    "topic": "Justice & Policing",
-   "summary": "Audio from the 911 call related to the death of \u201cNashville\u201d actress Hayden Panettiere, 36, shows that she was discovered unresponsive from an apparent cardiac arrest. According to a report from entertainment site TMZ , law enforcement received a call about an \u201cunresponsive female\u201d at 1:51 p.m. Sunday and were dispatched to a Greenville, South Carolina apartment. Responding paramedics administered \u201cadvanced cardiac life support\u201d but were ultimately unsuccessful in their attempts to revive her. Law enforcement officials stated that there was \u201cno sign of foul play,\u201d but said that an autopsy would be conducted on Monday to determine cause and manner of death. Fans are still reeling from the unexpected death of the 36-year-old actress, which was announced late Sunday night. Panettiere had just released her tell-all memoir, \u201cThis Is Me: A Reckoning,\u201d earlier this year. Her death occurred 5\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
+   "summary": "A child actor since she was cast in various commercials as an 11-month-old, Panettiere was best known for her role as the country music star Juliette Barnes in the series Nashville . (Image credit: Jon Kopaloff)",
+   "summaryFrom": "npr",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 2,
+    "big": [
+     "cardiac",
+     "found",
+     "arrest"
+    ],
+    "indie": [
+     "known"
+    ]
+   },
    "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
+    "coop"
    ],
-   "headline": "Hayden Panettiere Was in Cardiac Arrest When Authorities Responded to 911 Call",
+   "headline": "Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36",
    "updated": "2026-08-18T01:46:58+00:00",
    "outletCount": 4,
    "counts": {
-    "family": 2,
-    "corp": 2
+    "family": 1,
+    "corp": 1,
+    "nonprofit": 1,
+    "pub": 1
    },
-   "newsCount": 3,
-   "opinionCount": 1,
+   "newsCount": 4,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
@@ -1816,31 +1808,91 @@
      "summary": "After the authorities responded to a 911 call in Greenville, S.C., an initial police investigation found no evidence of \u201cfoul play or suspicious circumstances.\u201d"
     },
     {
-     "outlet": "cbsnews",
-     "title": "Hollywood grieves Hayden Panettiere as authorities investigate her death at 36",
-     "url": "https://www.cbsnews.com/video/hollywood-grieves-hayden-panettiere-authorities-investigate-death-36/",
+     "outlet": "abcnews",
+     "title": "Actress Hayden Panettiere dies at 36, found in cardiac arrest",
+     "url": "https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473",
      "author": null,
      "kind": "news",
-     "published": "2026-08-17T23:26:00+00:00",
-     "summary": "With no signs of foul play or trauma, authorities said the investigation into actor Hayden Panettiere's death is just beginning. The former child star was on \"Guiding Light\" and also had breakout roles in \"Heroes\" and \"Nashville.\" She died at 36 years old. Mark Strassmann reports."
+     "published": "2026-08-17T19:19:28+00:00",
+     "summary": "Hayden Panettiere's representative confirmed her death to ABC News on Sunday. The \"Nashville\" actress's cause of death is still to be determined."
     },
     {
-     "outlet": "slate",
-     "title": "Why Hayden Panettiere\u2019s Sudden Death Is So Devastating",
-     "url": "https://slate.com/culture/2026/08/hayden-panettiere-death-movies-shows-memoir-ice-princess-bring-it-on-nashville.html?via=rss",
-     "author": "Nadira Goffe",
+     "outlet": "npr",
+     "title": "Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36",
+     "url": "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
+     "author": "NPR Staff",
      "kind": "news",
-     "published": "2026-08-17T17:21:44+00:00",
-     "summary": "Losing Hayden Panettiere at 36 is a heartbreak."
+     "published": "2026-08-17T10:00:10+00:00",
+     "summary": "A child actor since she was cast in various commercials as an 11-month-old, Panettiere was best known for her role as the country music star Juliette Barnes in the series Nashville . (Image credit: Jon Kopaloff)"
     },
     {
-     "outlet": "dailywire",
-     "title": "911 Call Reveals New Clue In Hayden Panettiere\u2019s Shocking Death At 36",
-     "url": "https://www.dailywire.com/news/911-call-reveals-new-clue-in-hayden-panettieres-shocking-death-at-36",
-     "author": "Amanda Harding",
-     "kind": "opinion",
-     "published": "2026-08-17T08:36:45+00:00",
-     "summary": "Audio from the 911 call related to the death of \u201cNashville\u201d actress Hayden Panettiere, 36, shows that she was discovered unresponsive from an apparent cardiac arrest. According to a report from entertainment site TMZ , law enforcement received a call about an \u201cunresponsive female\u201d at 1:51 p.m. Sunday and were dispatched to a Greenville, South Carolina apartment. Responding paramedics administered \u201cadvanced cardiac life support\u201d but were ultimately unsuccessful in their attempts to revive her. Law enforcement officials stated that there was \u201cno sign of foul play,\u201d but said that an autopsy would be conducted on Monday to determine cause and manner of death. Fans are still reeling from the unexpected death of the 36-year-old actress, which was announced late Sunday night. Panettiere had just released her tell-all memoir, \u201cThis Is Me: A Reckoning,\u201d earlier this year. Her death occurred 5 days before her 37th birthday. The former child star began acting in commercials when she was just 11 months old and later transitioned to films and television shows. Panettiere was best known for her breakout role as Claire Bennet, a high school cheerleader with healing powers, on the NBC superhero se"
+     "outlet": "dw",
+     "title": "US actress Hayden Panettiere dies at 36",
+     "url": "https://www.dw.com/en/us-actress-hayden-panettiere-dies-at-36/a-78391169?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T06:16:00+00:00",
+     "summary": "Hayden Panettiere's death was announced by her father in a statement to US network ABC news. The actress was known for her roles in TV shows such as \"Nashville\" and \"Heroes.\""
+    }
+   ]
+  },
+  {
+   "id": "374b1d648e",
+   "topic": "Other",
+   "summary": "The coroner\u2019s office completed an autopsy Monday and said there were \u201cno signs of trauma\u201d that would have contributed to the star\u2019s earth. The official cause is still under investigation. NBC News\u2019 Steve Patterson reports.",
+   "summaryFrom": "nbcnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Hayden Panettiere, known for \"Heroes\" and \"Remember the Titans,\" dies at 36",
+   "updated": "2026-08-18T00:08:09+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 2,
+    "family": 2
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Hayden Panettiere, known for \"Heroes\" and \"Remember the Titans,\" dies at 36",
+     "url": "https://www.cbsnews.com/news/hayden-panettiere-dies-at-36/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-18T00:08:09+00:00",
+     "summary": "Hayden Panettiere, who starred in \"Remember the Titans\" as a child actor and rose to fame in the series \"Heroes,\" has died at the age of 36. The coroner's office says she was found in cardiac arrest."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Actress Hayden Panettiere dies at 36 as investigation continues",
+     "url": "https://www.nbcnews.com/nightly-news/video/actress-hayden-panettiere-dies-at-36-as-investigation-continues-268431941821",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T23:06:17+00:00",
+     "summary": "The coroner\u2019s office completed an autopsy Monday and said there were \u201cno signs of trauma\u201d that would have contributed to the star\u2019s earth. The official cause is still under investigation. NBC News\u2019 Steve Patterson reports."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Actress Hayden Panettiere, star of \u2018Heroes\u2019 and \u2018Nashville,\u2019 dies at 36",
+     "url": "https://www.washingtonpost.com/obituaries/2026/08/17/hayden-panettiere-former-child-actress-who-starred-heroes-dies-36/",
+     "author": "Sammy Westfall, Grey Battle, Ashley Fetters Maloy",
+     "kind": "news",
+     "published": "2026-08-17T18:19:06+00:00",
+     "summary": "Ms. Panettiere was in cardiac arrest before she died, the coroner\u2019s office said. In a May memoir, she detailed the difficulties she had growing up in the public eye."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Hayden Panettiere: Celebrities Pay Tribute to Late \u2018Nashville\u2019 Star",
+     "url": "https://www.breitbart.com/entertainment/2026/08/17/hayden-panettiere-celebrities-pay-tribute-to-late-nashville-star/",
+     "author": "Breitbart News",
+     "kind": "news",
+     "published": "2026-08-17T14:12:16+00:00",
+     "summary": "Celebrities are paying tribute to late Heroes and Nashville star Hayden Panettiere. The post Hayden Panettiere: Celebrities Pay Tribute to Late \u2018Nashville\u2019 Star appeared first on Breitbart ."
     }
    ]
   },
@@ -2094,22 +2146,22 @@
    ]
   },
   {
-   "id": "49c630b783",
+   "id": "06289b93ee",
    "topic": "Other",
    "summary": "Actor Hayden Panettiere has died at 36. Nathan Congleton/NBC via Getty Images \"Nashville\" and \"Heroes\" actor Hayden Panettiere has died at 36. Panettiere was found in cardiac arrest prior to her death, the Greenville County Coroner's Office told Business Insider. In May, the actor released a memoir detailing her struggles with postpartum depression and alcoholism. Actor Hayden Panettiere has died at 36, her representative told Business Insider on Monday. \"It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her \u2014 and to the millions who watched her onscreen,\" her father, Skip Panettiere, said in a statement. \"We ask for privacy as our family takes time to process this unimaginable loss,\" the statement added. At approximately 1:51 pm on Sunday, a 911 call\u2026",
    "summaryFrom": "businessinsider",
    "emphasis": null,
    "absent": [
     "coop",
+    "nonprofit",
     "pub"
    ],
-   "headline": "Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36",
+   "headline": "Hayden Panettiere dead at 36: What we know about her final moments",
    "updated": "2026-08-17T18:36:07+00:00",
    "outletCount": 4,
    "counts": {
-    "family": 1,
-    "corp": 2,
-    "nonprofit": 1
+    "family": 2,
+    "corp": 2
    },
    "newsCount": 4,
    "opinionCount": 0,
@@ -2143,64 +2195,64 @@
      "summary": "Mario Anzuoni / REUTERS Gayle King thought Hayden Panettiere was \u201cclearly still struggling\u201d after an off-camera conversation with the actress just months ago. The CBS host, 71, opened Monday morning\u2019s show with a tribute to the late star, who was found dead at 36 in South Carolina on Sunday, August 16. Panettiere, who starred in Heroes and Nashville , spoke to King in one of her final interviews. She appeared on CBS Mornings on May 18 to promote her newly released memoir, This Is Me: A Reckoning . King and Panettiere had a candid conversation about the actress\u2019s reflections on mental health, acting, and motherhood. Read more at The Daily Beast."
     },
     {
-     "outlet": "npr",
-     "title": "Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36",
-     "url": "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
-     "author": "NPR Staff",
+     "outlet": "breitbart",
+     "title": "'Scream' Franchise Star Hayden Panettiere Dead at 36",
+     "url": "https://www.breitbart.com/entertainment/2026/08/16/scream-franchise-star-hayden-panettiere-dead-36/",
+     "author": "Paul Bois",
      "kind": "news",
-     "published": "2026-08-17T10:00:10+00:00",
-     "summary": "A child actor since she was cast in various commercials as an 11-month-old, Panettiere was best known for her role as the country music star Juliette Barnes in the series Nashville . (Image credit: Jon Kopaloff)"
+     "published": "2026-08-17T04:41:09+00:00",
+     "summary": "Actress Hayden Panettiere, one of the many stars who graced the Scream franchise, died this weekend at the young age of 36. The post &#8216;Scream&#8217; Franchise Star Hayden Panettiere Dead at 36 appeared first on Breitbart ."
     }
    ]
   },
   {
-   "id": "7957e10d16",
-   "topic": "Other",
-   "summary": "MPs, friends and campaigners gathered to remember former Cambridge professor after his death on Friday Tens of thousands of people gathered in Trafalgar Square in London to remember and pay tribute to Jason Arday, the former Cambridge professor who died on Friday. Stand Up to Racism, which organised the vigil, estimated that 30,000 mourners had gathered in the square to listen to emotional speeches from MPs, friends and campaigners on Arday\u2019s life and legacy and join in a minute\u2019s silence. Many were dressed in black and held flowers, which they were asked to leave beneath Nelson\u2019s column. People also carried placards reading \u201crest in power\u201d. Continue reading...",
-   "summaryFrom": "guardian",
+   "id": "70252b0855",
+   "topic": "Politics",
+   "summary": "In 2006, I was deployed aboard the USS Iwo Jima as a Marine. Israel invaded Lebanon that summer and we were diverted off the coast of Beirut, where we stayed underway for weeks, without port calls or a break, while we evacuated U.S. citizens. The pace of operations was relentless; it put a strain on all of us. After several months, we returned home. Days before we pulled into our home port, word spread through the ship that a member of the crew had been found dead in his rack&#8212;a suicide. Days later, when we flew off the ship to be reunited with our families, his body was loaded onto one of those flights, to be reunited with his. I thought of this reading the extensive recent coverage of the USS Abraham Lincoln , a Nimitz-class aircraft carrier, currently deployed in the Persian Gulf. It has been at sea for more than 260 days, a record for the ship. Roughly 40 of those days underway\u2026",
+   "summaryFrom": "freepress",
    "emphasis": null,
    "absent": [
-    "corp",
-    "coop"
+    "coop",
+    "nonprofit"
    ],
-   "headline": "Thousands mourn Jason Arday in London, blaming \u2018racist\u2019 press for his death",
-   "updated": "2026-08-18T03:17:58+00:00",
+   "headline": "What it's like to be on a warship like the USS Abraham Lincoln",
+   "updated": "2026-08-18T05:07:06+00:00",
    "outletCount": 3,
    "counts": {
     "pub": 1,
-    "family": 1,
-    "nonprofit": 1
+    "corp": 1,
+    "family": 1
    },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": true,
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
    "articles": [
     {
-     "outlet": "aljazeera",
-     "title": "Thousands mourn Jason Arday in London, blaming \u2018racist\u2019 press for his death",
-     "url": "https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss",
+     "outlet": "bbc",
+     "title": "What it's like to be on a warship like the USS Abraham Lincoln",
+     "url": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-18T03:17:58+00:00",
-     "summary": "Mourners blame relentless and &#039;racist&#039; media scrutiny for former Cambridge University professor&#039;s death."
+     "published": "2026-08-18T05:07:06+00:00",
+     "summary": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December."
     },
     {
-     "outlet": "nyt",
-     "title": "After Jason Arday\u2019s Death, Mistaken Calls for Censorship",
-     "url": "https://www.nytimes.com/2026/08/17/opinion/jason-arday-cambridge-plagiarism-media.html",
-     "author": "Michelle Goldberg",
-     "kind": "opinion",
-     "published": "2026-08-18T01:28:36+00:00",
-     "summary": "Some who once championed Arday seem to be trying to deflect from their own embarrassing credulity."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Tens of thousands pay tribute to Jason Arday at Trafalgar Square vigil",
-     "url": "https://www.theguardian.com/uk-news/2026/aug/17/tens-of-thousands-pay-tribute-jason-arday-trafalgar-square-vigil",
-     "author": "Rachel Hall",
+     "outlet": "thehill",
+     "title": "Trump says concern about USS Abraham Lincoln is 'a CNN fake report'",
+     "url": "https://thehill.com/homenews/administration/6034334-trump-dismisses-uss-lincoln-report/",
+     "author": "Ryan Mancini",
      "kind": "news",
-     "published": "2026-08-17T20:32:38+00:00",
-     "summary": "MPs, friends and campaigners gathered to remember former Cambridge professor after his death on Friday Tens of thousands of people gathered in Trafalgar Square in London to remember and pay tribute to Jason Arday, the former Cambridge professor who died on Friday. Stand Up to Racism, which organised the vigil, estimated that 30,000 mourners had gathered in the square to listen to emotional speeches from MPs, friends and campaigners on Arday\u2019s life and legacy and join in a minute\u2019s silence. Many were dressed in black and held flowers, which they were asked to leave beneath Nelson\u2019s column. People also carried placards reading \u201crest in power\u201d. Continue reading..."
+     "published": "2026-08-18T00:01:21+00:00",
+     "summary": "President Trump on Monday said concerns over the status of service members aboard the USS Abraham Lincoln were \"a CNN fake report.\" Trump lashed out at a CNN reporter amid questions from journalists in the Oval Office, telling her, \"Quiet, quiet. You're very disrespectful,\" after moving on to the next reporter, who asked if there..."
+    },
+    {
+     "outlet": "freepress",
+     "title": "The Cynical Coverage of Conditions on the USS Abraham Lincoln",
+     "url": "https://www.thefp.com/p/uss-abraham-lincoln-navy-iran-war-strait-hormuz-sailor-suicide-elliot-ackerman",
+     "author": "Elliot Ackerman",
+     "kind": "news",
+     "published": "2026-08-17T16:01:24+00:00",
+     "summary": "In 2006, I was deployed aboard the USS Iwo Jima as a Marine. Israel invaded Lebanon that summer and we were diverted off the coast of Beirut, where we stayed underway for weeks, without port calls or a break, while we evacuated U.S. citizens. The pace of operations was relentless; it put a strain on all of us. After several months, we returned home. Days before we pulled into our home port, word spread through the ship that a member of the crew had been found dead in his rack&#8212;a suicide. Days later, when we flew off the ship to be reunited with our families, his body was loaded onto one of those flights, to be reunited with his. I thought of this reading the extensive recent coverage of the USS Abraham Lincoln , a Nimitz-class aircraft carrier, currently deployed in the Persian Gulf. It has been at sea for more than 260 days, a record for the ship. Roughly 40 of those days underway have been during sustained combat operations, which places an additional strain on the crew. And earlier this month, a sailor leapt off the flight deck and into the water. Fortunately, the sailor was recovered and evacuated after what appears to be a suicide attempt, with several other attempts now "
     }
    ]
   },
@@ -2501,12 +2553,12 @@
     },
     {
      "outlet": "dailywire",
-     "title": "Hayden Panettiere Autopsy Reveals New Details About Her Death",
-     "url": "https://www.dailywire.com/news/hayden-panettiere-autopsy-reveals-new-details-of-her-death",
+     "title": "Actress Hayden Panettiere Dead At 36",
+     "url": "https://www.dailywire.com/news/actress-hayden-panetierre-dead-at-36",
      "author": "Virginia Kruta",
      "kind": "opinion",
-     "published": "2026-08-17T12:27:32+00:00",
-     "summary": "The autopsy for actress Hayden Panettiere has revealed more information about her shocking death at the age of 36. The Greenville County Coroner\u2019s Office delivered an initial statement on the &#8220;Nashville&#8221; actress&#8217;s post-mortem, saying that her body had not shown visible &#8220;signs of trauma&#8221; at the time of her death. &#8220;The decedent has been identified as Hayden [Lesley] Panettiere, 36, of California. Panettiere was found unresponsive inside the residence, where she had been temporarily staying. An autopsy was completed today. At autopsy, no signs of trauma were discovered that would have contributed to the death,&#8221; the statement read. &#8220;This investigation remains active and ongoing. No further details are available for release at this time,&#8221; the coroner&#8217;s statement concluded, but the office stipulated that additional testing was ongoing and that additional information would be released as it was made available. First responders were dispatched to an apartment in Greenville, South Carolina, where Panettierre was reportedly staying with on-again boyfriend Brian Hickerson, on Sunday. Their arrival came following a 911 call indicating"
+     "published": "2026-08-17T06:00:31+00:00",
+     "summary": "Actress Hayden Panettiere, best known for roles in &#8220;Nashville&#8221; and the NBC drama &#8220;Heroes,&#8221; has died at the age of 36. A representative for the actress confirmed the news on Sunday in a statement delivered first to ABC News: &#8220;It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her \u2014 and to the millions who watched her onscreen.&#8221; Panettiere had been very open in recent years about her history of substance abuse and her battle with postpartum depression \u2014 and had just published her memoir, &#8220;This Is Me: A Reckoning,&#8221; in May. The actress was raised in New York by her parents, actress and producer Lesley Vogel and Alan Lee \u201cSkip\u201d Panettiere, a retired New York City Fire Department captain \u2014 and she landed her first acting gig at just 11-months old. &#8220;My introduction to acting was actually at 11 months old,&#8221; Panettiere said during a 2023 interview with Entertainment Tonight , referencing a Playskool Toy Train commercial. &#8220;I don\u2019t know if that would really be an introduction to acting, becaus"
     }
    ]
   },
@@ -2664,6 +2716,57 @@
    ]
   },
   {
+   "id": "c8f1cc934a",
+   "topic": "Justice & Policing",
+   "summary": "Duane Davis speaks with attorney Michael Sanft during the fourth day of jury selection in a murder trial related to the 1996 killing of rapper Tupac Shakur, at Clark County District Court Regional Justice Center in Las Vegas, Nevada, on Aug. 13, 2026. \u2014Bizuayeha Tesfaye\u2014Pool Nearly 30 years ago, Tupac Shakur, known by the stage name 2Pac, was killed in a drive-by shooting in Las Vegas, Nevada. One of four men in a white Cadillac fired 13 shots into the 25-year-old rap legend\u2019s vehicle, according to TIME reporting from September 1996. Shakur was riding with the co-founder of Death Row Records, Marion \u201cSuge\u201d Knight. Knight was grazed by a bullet but survived. Shakur was shot multiple times, and one bullet tore through his lung; he was pronounced dead at the hospital six days later on Sept. 13, 1996. The events that unfolded have been the subject of many true crime documentaries, books,\u2026",
+   "summaryFrom": "time",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "\u2018Truth or fiction\u2019: US trial of Tupac Shakur\u2019s accused killer begins",
+   "updated": "2026-08-17T21:39:22+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 2,
+    "family": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "\u2018Truth or fiction\u2019: US trial of Tupac Shakur\u2019s accused killer begins",
+     "url": "https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T21:39:22+00:00",
+     "summary": "Prosecutors claim Duane Davis was \u2018on-site commander\u2019 in murder of Shakur, who died after drive-by shooting in 1996."
+    },
+    {
+     "outlet": "france24",
+     "title": "Tupac Shakur's accused killer was out for 'revenge', jury hears",
+     "url": "https://www.france24.com/en/live-news/20260817-tupac-shakur-s-accused-killer-was-out-for-revenge-jury-hears",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T18:19:09+00:00",
+     "summary": "Rapper Tupac Shakur was shot dead in an act of gang revenge ordered by a mobster who later boasted of it, jurors heard Monday, as one of America's most anticipated trials got under way, 30 years after the murder."
+    },
+    {
+     "outlet": "time",
+     "title": "30 Years After Tupac Shakur Was Killed, a Murder Trial Begins",
+     "url": "https://time.com/article/2026/08/16/30-years-after-tupac-shakur-was-killed-a-murder-trial-begins/",
+     "author": "Rebecca Schneid",
+     "kind": "news",
+     "published": "2026-08-16T16:23:08+00:00",
+     "summary": "Duane Davis speaks with attorney Michael Sanft during the fourth day of jury selection in a murder trial related to the 1996 killing of rapper Tupac Shakur, at Clark County District Court Regional Justice Center in Las Vegas, Nevada, on Aug. 13, 2026. \u2014Bizuayeha Tesfaye\u2014Pool Nearly 30 years ago, Tupac Shakur, known by the stage name 2Pac, was killed in a drive-by shooting in Las Vegas, Nevada. One of four men in a white Cadillac fired 13 shots into the 25-year-old rap legend\u2019s vehicle, according to TIME reporting from September 1996. Shakur was riding with the co-founder of Death Row Records, Marion \u201cSuge\u201d Knight. Knight was grazed by a bullet but survived. Shakur was shot multiple times, and one bullet tore through his lung; he was pronounced dead at the hospital six days later on Sept. 13, 1996. The events that unfolded have been the subject of many true crime documentaries, books, and podcasts. But one fundamental question has remained unresolved: Who was responsible for Shakur's death? The first person ever charged in Shakur\u2019s murder faces trial on Monday in Nevada. Who is on trial for the murder of Tupac Shakur? And why now? On trial is Duane \u201cKeffe D\u201d Davis, 63, a former lead"
+    }
+   ]
+  },
+  {
    "id": "049a2b6c5a",
    "topic": "Culture & Sport",
    "summary": "According to a report from ESPN , the NBA hasn't found any evidence that Los Angeles Clippers owner Steve Ballmer arranged to pay Kawhi Leonard in excess of salary-cap rules via the fraudulent green-banking company Aspiration. Just under a year ago, after a series of reports from podcaster Pablo Torre, the NBA hired the prestigious law firm Wachtell, Lipton, Rosen &#38; Katz to investigate the alleged scheme. Per the ESPN report, lawyers representing Ballmer and the NBA have been negotiating a resolution over the past few days, and \"the league has presented no evidence\" to Ballmer that he cheated. Here is a brief summary of how we got here: In early September 2025, Torre reported that Leonard had signed a no-show marketing deal with the now-defunct bank Aspiration, and that this functioned as a way for the Clippers to pay Leonard more than his official salary. Ballmer went on ESPN and\u2026",
@@ -2768,7 +2871,7 @@
   {
    "id": "685f35c2e6",
    "topic": "Other",
-   "summary": "Actress Hayden Panettiere, best known for roles in &#8220;Nashville&#8221; and the NBC drama &#8220;Heroes,&#8221; has died at the age of 36. A representative for the actress confirmed the news on Sunday in a statement delivered first to ABC News: &#8220;It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her \u2014 and to the millions who watched her onscreen.&#8221; Panettiere had been very open in recent years about her history of substance abuse and her battle with postpartum depression \u2014 and had just published her memoir, &#8220;This Is Me: A Reckoning,&#8221; in May. The actress was raised in New York by her parents, actress and producer Lesley Vogel and Alan Lee \u201cSkip\u201d Panettiere, a retired New York City Fire Department captain \u2014 and she landed her\u2026",
+   "summary": "The autopsy for actress Hayden Panettiere has revealed more information about her shocking death at the age of 36. The Greenville County Coroner\u2019s Office delivered an initial statement on the &#8220;Nashville&#8221; actress&#8217;s post-mortem, saying that her body had not shown visible &#8220;signs of trauma&#8221; at the time of her death. &#8220;The decedent has been identified as Hayden [Lesley] Panettiere, 36, of California. Panettiere was found unresponsive inside the residence, where she had been temporarily staying. An autopsy was completed today. At autopsy, no signs of trauma were discovered that would have contributed to the death,&#8221; the statement read. &#8220;This investigation remains active and ongoing. No further details are available for release at this time,&#8221; the coroner&#8217;s statement concluded, but the office stipulated that additional testing was\u2026",
    "summaryFrom": "dailywire",
    "emphasis": null,
    "absent": [
@@ -2780,8 +2883,8 @@
    "updated": "2026-08-17T17:47:23+00:00",
    "outletCount": 3,
    "counts": {
-    "corp": 1,
-    "family": 2
+    "corp": 2,
+    "family": 1
    },
    "newsCount": 2,
    "opinionCount": 1,
@@ -2797,22 +2900,64 @@
      "summary": "Kai Pfaffenbach / REUTERS Actress Hayden Panettiere was just 36 years old when she was found deceased from an apparent overdose on Sunday. The tell-tale signs of her premature demise were on display in her harrowing memoir, This Is Me: A Reckoning , which hit shelves just three months ago. Panettiere had just completed a press tour to promote the book, in which she describes her battles with addiction, her relationship with her now 11-year-old daughter, and alleges predatory behavior from some of Hollywood\u2019s elite. Read more at The Daily Beast."
     },
     {
-     "outlet": "dailywire",
-     "title": "Actress Hayden Panettiere Dead At 36",
-     "url": "https://www.dailywire.com/news/actress-hayden-panetierre-dead-at-36",
-     "author": "Virginia Kruta",
-     "kind": "opinion",
-     "published": "2026-08-17T06:00:31+00:00",
-     "summary": "Actress Hayden Panettiere, best known for roles in &#8220;Nashville&#8221; and the NBC drama &#8220;Heroes,&#8221; has died at the age of 36. A representative for the actress confirmed the news on Sunday in a statement delivered first to ABC News: &#8220;It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her \u2014 and to the millions who watched her onscreen.&#8221; Panettiere had been very open in recent years about her history of substance abuse and her battle with postpartum depression \u2014 and had just published her memoir, &#8220;This Is Me: A Reckoning,&#8221; in May. The actress was raised in New York by her parents, actress and producer Lesley Vogel and Alan Lee \u201cSkip\u201d Panettiere, a retired New York City Fire Department captain \u2014 and she landed her first acting gig at just 11-months old. &#8220;My introduction to acting was actually at 11 months old,&#8221; Panettiere said during a 2023 interview with Entertainment Tonight , referencing a Playskool Toy Train commercial. &#8220;I don\u2019t know if that would really be an introduction to acting, becaus"
+     "outlet": "slate",
+     "title": "Why Hayden Panettiere\u2019s Sudden Death Is So Devastating",
+     "url": "https://slate.com/culture/2026/08/hayden-panettiere-death-movies-shows-memoir-ice-princess-bring-it-on-nashville.html?via=rss",
+     "author": "Nadira Goffe",
+     "kind": "news",
+     "published": "2026-08-17T17:21:44+00:00",
+     "summary": "Losing Hayden Panettiere at 36 is a heartbreak."
     },
     {
-     "outlet": "breitbart",
-     "title": "'Scream' Franchise Star Hayden Panettiere Dead at 36",
-     "url": "https://www.breitbart.com/entertainment/2026/08/16/scream-franchise-star-hayden-panettiere-dead-36/",
-     "author": "Paul Bois",
+     "outlet": "dailywire",
+     "title": "Hayden Panettiere Autopsy Reveals New Details About Her Death",
+     "url": "https://www.dailywire.com/news/hayden-panettiere-autopsy-reveals-new-details-of-her-death",
+     "author": "Virginia Kruta",
+     "kind": "opinion",
+     "published": "2026-08-17T12:27:32+00:00",
+     "summary": "The autopsy for actress Hayden Panettiere has revealed more information about her shocking death at the age of 36. The Greenville County Coroner\u2019s Office delivered an initial statement on the &#8220;Nashville&#8221; actress&#8217;s post-mortem, saying that her body had not shown visible &#8220;signs of trauma&#8221; at the time of her death. &#8220;The decedent has been identified as Hayden [Lesley] Panettiere, 36, of California. Panettiere was found unresponsive inside the residence, where she had been temporarily staying. An autopsy was completed today. At autopsy, no signs of trauma were discovered that would have contributed to the death,&#8221; the statement read. &#8220;This investigation remains active and ongoing. No further details are available for release at this time,&#8221; the coroner&#8217;s statement concluded, but the office stipulated that additional testing was ongoing and that additional information would be released as it was made available. First responders were dispatched to an apartment in Greenville, South Carolina, where Panettierre was reportedly staying with on-again boyfriend Brian Hickerson, on Sunday. Their arrival came following a 911 call indicating"
+    }
+   ]
+  },
+  {
+   "id": "a3d003e9fc",
+   "topic": "Justice & Policing",
+   "summary": "The prosecution and defense delivered their opening statements in Tupac Shakur's murder trial. NBC News' Misty Marris discusses how the prosecution laid the framework for their case while defense attacked the credibility the case's credibility.",
+   "summaryFrom": "nbcnews",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+   "updated": "2026-08-18T05:24:15+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+     "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-17T04:41:09+00:00",
-     "summary": "Actress Hayden Panettiere, one of the many stars who graced the Scream franchise, died this weekend at the young age of 36. The post &#8216;Scream&#8217; Franchise Star Hayden Panettiere Dead at 36 appeared first on Breitbart ."
+     "published": "2026-08-18T05:24:15+00:00",
+     "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Tupac murder trial legal teams lay out framework of their case in opening statements",
+     "url": "https://www.nbcnews.com/now/video/tupac-murder-trial-legal-teams-lay-out-framework-of-their-case-in-opening-statements-268415045519",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T18:21:10+00:00",
+     "summary": "The prosecution and defense delivered their opening statements in Tupac Shakur's murder trial. NBC News' Misty Marris discusses how the prosecution laid the framework for their case while defense attacked the credibility the case's credibility."
     }
    ]
   },
@@ -2849,7 +2994,7 @@
     },
     {
      "outlet": "aljazeera",
-     "title": "Two students killed in Philippines school shooting",
+     "title": "Two students killed in Philippine school shooting",
      "url": "https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss",
      "author": null,
      "kind": "news",
@@ -3023,6 +3168,48 @@
      "kind": "news",
      "published": "2026-08-17T21:50:17+00:00",
      "summary": "The WNBA admitted Monday that league security improperly forced a mother and her teenage daughter to cover their XX-XY Athletics shirts during Sunday's game between the Indiana Fever and Atlanta Dream. \"The WNBA is aware of interactions at last night's game in Atlanta in which fans were asked by league security to cover their shirts,\" a WNBA spokesperson said in a statement provided to OutKick. \"This should not have happened.\" The Dream also responded Monday, distancing the organization from the security decision and placing responsibility with the league. \"The Atlanta Dream believes in creating a safe and inclusive environment for everyone. Unfortunately, at last night's game, WNBA security took actions that fell short of that standard. At no point was Dream personnel involved in the decisions made by WNBA security,\" the team said. The Dream also pointed to the WNBA's statement acknowledging that the fans should not have been asked to cover their shirts. The WNBA's admission is as damning as it is simple: its own security forced paying fans to cover shirts supporting women's sports. MOM AND DAUGHTER TOLD TO COVER UP XX-XY T-SHIRTS, SAY THEY WERE THREATENED WITH EJECTION AT FEVER-D"
+    }
+   ]
+  },
+  {
+   "id": "7957e10d16",
+   "topic": "Other",
+   "summary": "Mourners blame relentless and &#039;racist&#039; media scrutiny for former Cambridge University professor&#039;s death.",
+   "summaryFrom": "aljazeera",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Thousands mourn Jason Arday in London, blaming \u2018racist\u2019 press for his death",
+   "updated": "2026-08-18T03:17:58+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 1,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Thousands mourn Jason Arday in London, blaming \u2018racist\u2019 press for his death",
+     "url": "https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-18T03:17:58+00:00",
+     "summary": "Mourners blame relentless and &#039;racist&#039; media scrutiny for former Cambridge University professor&#039;s death."
+    },
+    {
+     "outlet": "nyt",
+     "title": "After Jason Arday\u2019s Death, Mistaken Calls for Censorship",
+     "url": "https://www.nytimes.com/2026/08/17/opinion/jason-arday-cambridge-plagiarism-media.html",
+     "author": "Michelle Goldberg",
+     "kind": "opinion",
+     "published": "2026-08-18T01:28:36+00:00",
+     "summary": "Some who once championed Arday seem to be trying to deflect from their own embarrassing credulity."
     }
    ]
   },
@@ -3233,90 +3420,6 @@
      "kind": "news",
      "published": "2026-08-17T19:04:47+00:00",
      "summary": "The House Ethics Committee is investigating a sitting Democratic lawmaker over allegations of sexual misconduct. The committee, which acts as the House of Representatives' internal watchdog, announced Monday that it is investigating Rep. Jimmy Gomez, D-Calif., over allegations including \"inappropriate sexual contact with a House staffer.\" Gomez told Fox News Digital in a statement that he \"made personal mistakes outside my marriage\" but added that his extramarital relations were consensual and that he did not break any laws. He's the latest House lawmaker to be accused of misconduct or harassment in relation to aides on Capitol Hill, an issue that's rocked Congress and forced a new reckoning over rules of engagement for lawmakers in Washington. CAPITOL HILL SEX SCANDALS TRIGGER NEW PUSH TO REDRAW THE LINE FOR LAWMAKERS Gomez, who has been in Congress since 2017, is known as a founder and chair of the Congressional Dads Caucus. According to its website, the caucus was created to \"ensure that dads step up at home and in the halls of Congress.\" Gomez is a married father of one. He told Fox News Digital in a statement on the investigation, \"Although my actions were consensual in nature"
-    }
-   ]
-  },
-  {
-   "id": "a3d003e9fc",
-   "topic": "Justice & Policing",
-   "summary": "The prosecution and defense delivered their opening statements in Tupac Shakur's murder trial. NBC News' Misty Marris discusses how the prosecution laid the framework for their case while defense attacked the credibility the case's credibility.",
-   "summaryFrom": "nbcnews",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-   "updated": "2026-08-18T02:06:04+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-     "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-18T02:06:04+00:00",
-     "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer, \"We'll take care of it,\" an officer testified."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Tupac murder trial legal teams lay out framework of their case in opening statements",
-     "url": "https://www.nbcnews.com/now/video/tupac-murder-trial-legal-teams-lay-out-framework-of-their-case-in-opening-statements-268415045519",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T18:21:10+00:00",
-     "summary": "The prosecution and defense delivered their opening statements in Tupac Shakur's murder trial. NBC News' Misty Marris discusses how the prosecution laid the framework for their case while defense attacked the credibility the case's credibility."
-    }
-   ]
-  },
-  {
-   "id": "b9d345ff4c",
-   "topic": "Health",
-   "summary": "Co-stars and friends of Hayden Panettiere\u200b are remembering her for her friendship, intelligence and talent after her shocking death on Sunday.",
-   "summaryFrom": "cbsnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Hayden Panettiere suffered from \u2018really severe\u2019 health issues in months leading up to death: \u2018Hard for her to move her legs\u2019",
-   "updated": "2026-08-18T02:05:06+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Hayden Panettiere suffered from \u2018really severe\u2019 health issues in months leading up to death: \u2018Hard for her to move her legs\u2019",
-     "url": "https://pagesix.com/2026/08/17/celebrity-news/hayden-panettiere-suffered-from-health-issues-leading-up-to-death-hard-for-her-to-move-her-legs/",
-     "author": "Leah Bitsky",
-     "kind": "news",
-     "published": "2026-08-18T02:05:06+00:00",
-     "summary": "An insider revealed to Page Six that the actress suffered pain that was so bad it affected her mobility."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Hayden Panettiere remembered by co-stars and friends after her death",
-     "url": "https://www.cbsnews.com/news/hayden-panettiere-death-celebrity-tributes-reactions/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-18T00:09:01+00:00",
-     "summary": "Co-stars and friends of Hayden Panettiere\u200b are remembering her for her friendship, intelligence and talent after her shocking death on Sunday."
     }
    ]
   },
@@ -3657,48 +3760,6 @@
    ]
   },
   {
-   "id": "d7dd0d0065",
-   "topic": "Politics",
-   "summary": "In 2006, I was deployed aboard the USS Iwo Jima as a Marine. Israel invaded Lebanon that summer and we were diverted off the coast of Beirut, where we stayed underway for weeks, without port calls or a break, while we evacuated U.S. citizens. The pace of operations was relentless; it put a strain on all of us. After several months, we returned home. Days before we pulled into our home port, word spread through the ship that a member of the crew had been found dead in his rack&#8212;a suicide. Days later, when we flew off the ship to be reunited with our families, his body was loaded onto one of those flights, to be reunited with his. I thought of this reading the extensive recent coverage of the USS Abraham Lincoln , a Nimitz-class aircraft carrier, currently deployed in the Persian Gulf. It has been at sea for more than 260 days, a record for the ship. Roughly 40 of those days underway\u2026",
-   "summaryFrom": "freepress",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Trump says concern about USS Abraham Lincoln is 'a CNN fake report'",
-   "updated": "2026-08-18T00:01:21+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "thehill",
-     "title": "Trump says concern about USS Abraham Lincoln is 'a CNN fake report'",
-     "url": "https://thehill.com/homenews/administration/6034334-trump-dismisses-uss-lincoln-report/",
-     "author": "Ryan Mancini",
-     "kind": "news",
-     "published": "2026-08-18T00:01:21+00:00",
-     "summary": "President Trump on Monday said concerns over the status of service members aboard the USS Abraham Lincoln were \"a CNN fake report.\" Trump lashed out at a CNN reporter amid questions from journalists in the Oval Office, telling her, \"Quiet, quiet. You're very disrespectful,\" after moving on to the next reporter, who asked if there..."
-    },
-    {
-     "outlet": "freepress",
-     "title": "The Cynical Coverage of Conditions on the USS Abraham Lincoln",
-     "url": "https://www.thefp.com/p/uss-abraham-lincoln-navy-iran-war-strait-hormuz-sailor-suicide-elliot-ackerman",
-     "author": "Elliot Ackerman",
-     "kind": "news",
-     "published": "2026-08-17T16:01:24+00:00",
-     "summary": "In 2006, I was deployed aboard the USS Iwo Jima as a Marine. Israel invaded Lebanon that summer and we were diverted off the coast of Beirut, where we stayed underway for weeks, without port calls or a break, while we evacuated U.S. citizens. The pace of operations was relentless; it put a strain on all of us. After several months, we returned home. Days before we pulled into our home port, word spread through the ship that a member of the crew had been found dead in his rack&#8212;a suicide. Days later, when we flew off the ship to be reunited with our families, his body was loaded onto one of those flights, to be reunited with his. I thought of this reading the extensive recent coverage of the USS Abraham Lincoln , a Nimitz-class aircraft carrier, currently deployed in the Persian Gulf. It has been at sea for more than 260 days, a record for the ship. Roughly 40 of those days underway have been during sustained combat operations, which places an additional strain on the crew. And earlier this month, a sailor leapt off the flight deck and into the water. Fortunately, the sailor was recovered and evacuated after what appears to be a suicide attempt, with several other attempts now "
-    }
-   ]
-  },
-  {
    "id": "38abe9883d",
    "topic": "Other",
    "summary": "A recent poll showed overwhelming support from Wyomingites for public land. A new PAC is hoping to capitalize. By Jake Bolster Wyoming\u2019s cherished open spaces appear to be at the forefront of voters\u2019 minds as they head to the polls in an election that could decide whether public lands continue to come under scrutiny from state lawmakers.",
@@ -3741,44 +3802,44 @@
    ]
   },
   {
-   "id": "f848ca7caa",
-   "topic": "Politics",
-   "summary": "The Justice Department plans to send 1,000 monitors to watch voting during the midterm elections in November, a historic figure for a Republican administration, Assistant Attorney General Harmeet Dhillon said.",
-   "summaryFrom": "bloomberg",
+   "id": "a12fa3a45d",
+   "topic": "Health",
+   "summary": "The defense began its work on Monday in the case of Lindsay Clancy, the Massachusetts woman on trial for killing her three children. Her mother and sister took the stand and Shanelle Kaul has the details.",
+   "summaryFrom": "cbsnews",
    "emphasis": null,
    "absent": [
-    "corp",
+    "family",
     "coop",
-    "nonprofit",
     "pub"
    ],
-   "headline": "Justice Department plans to send about 1,000 monitors to the polls this fall",
-   "updated": "2026-08-17T23:36:42+00:00",
+   "headline": "Mom and sister testify about Lindsay Clancy's declining mental state before she killed her children",
+   "updated": "2026-08-17T23:36:32+00:00",
    "outletCount": 2,
    "counts": {
-    "family": 2
+    "corp": 1,
+    "nonprofit": 1
    },
    "newsCount": 2,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "wapo",
-     "title": "Justice Department plans to send about 1,000 monitors to the polls this fall",
-     "url": "https://www.washingtonpost.com/politics/2026/08/17/justice-department-plans-send-about-1000-monitors-polls-this-fall/",
-     "author": "Patrick Marley",
+     "outlet": "cbsnews",
+     "title": "Details as Lindsay Clancy's mom and sister take the stand",
+     "url": "https://www.cbsnews.com/video/details-as-lindsay-clancys-mom-sister-stand/",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-17T23:36:42+00:00",
-     "summary": "The move to send 1,000 poll monitors is likely the largest number under a Republican president, a DOJ official said."
+     "published": "2026-08-17T23:36:32+00:00",
+     "summary": "The defense began its work on Monday in the case of Lindsay Clancy, the Massachusetts woman on trial for killing her three children. Her mother and sister took the stand and Shanelle Kaul has the details."
     },
     {
-     "outlet": "bloomberg",
-     "title": "DOJ Plans to Deploy 1,000 Monitors to Watch Midterm Elections",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-17/doj-plans-to-deploy-1-000-monitors-to-watch-midterm-elections",
-     "author": "Jimmy Jenkins and Chris Strohm",
+     "outlet": "pbsnewshour",
+     "title": "Mom and sister testify about Lindsay Clancy's declining mental state before she killed her children",
+     "url": "https://www.pbs.org/newshour/nation/mom-and-sister-testify-about-lindsay-clancys-declining-mental-state-before-she-killed-her-children",
+     "author": "Leah Willingham, Associated Press",
      "kind": "news",
-     "published": "2026-08-17T20:34:58+00:00",
-     "summary": "The Justice Department plans to send 1,000 monitors to watch voting during the midterm elections in November, a historic figure for a Republican administration, Assistant Attorney General Harmeet Dhillon said."
+     "published": "2026-08-17T20:06:25+00:00",
+     "summary": "Clancy's mother and sister recounted how they saw her become increasingly anxious, paranoid and suicidal in the months before she killed her three children."
     }
    ]
   }
