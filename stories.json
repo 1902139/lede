@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-18T03:59:27.385374+00:00",
+ "generated": "2026-08-18T04:53:55.342432+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -14,11 +14,11 @@
     "indieCount": 8,
     "big": [
      "defense",
-     "secretary",
+     "sunday",
      "longtime",
      "denuclearize",
      "scales",
-     "sunday"
+     "pete"
     ],
     "indie": [
      "despite",
@@ -33,7 +33,7 @@
    ],
    "headline": "Trump says talking to North Korea\u2019s Kim makes the south safer",
    "updated": "2026-08-18T02:30:03+00:00",
-   "outletCount": 17,
+   "outletCount": 16,
    "counts": {
     "family": 7,
     "pub": 5,
@@ -198,6 +198,15 @@
      "summary": "US President Donald Trump called for US-South Korean military drills to be scaled back just hours before they were due to begin, describing North Korea as 'unthreatening and respectful'. South Korea said it hoped Trump\u2019s personal relationship with North Korean leader Kim Jong Un could help bring Pyongyang back to the negotiating table. FRANCE 24\u2019s Chlo\u00e9 Borgnon examines the real threat posed by North Korea, from its military capabilities and growing nuclear arsenal to its increasingly close ties with Russia amid Ukraine war."
     },
     {
+     "outlet": "nyt",
+     "title": "Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea",
+     "url": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html",
+     "author": "Helene Cooper",
+     "kind": "news",
+     "published": "2026-08-17T06:16:21+00:00",
+     "summary": "In his post on Sunday, President Trump did not mention a rift in relations with North Korea in 2017, when Kim Jong Un called him a \u201cmentally deranged dotard.\u201d"
+    },
+    {
      "outlet": "axios",
      "title": "Trump tells Hegseth to cut back U.S.-South Korea drills",
      "url": "https://www.axios.com/2026/08/16/trump-us-south-korea-military-drills-cut",
@@ -214,15 +223,6 @@
      "kind": "opinion",
      "published": "2026-08-16T21:19:32+00:00",
      "summary": "President Donald Trump said Sunday he has directed Defense Secretary Pete Hegseth to &#8220;substantially reduce&#8221; joint military exercises with South Korea, citing his &#8220;very good relationship&#8221; with North Korean leader Kim Jong Un and what he said was Seoul&#8217;s refusal to help the United States denuclearize Iran. \u201cBased on my very good relationship with Kim Jong Un, of North Korea, I am not happy with the fact that the United States has, long ago, agreed to participate in Joint Military Exercises with South Korea,\u201d Trump wrote on Truth Social . Trump said the exercises are costly, &#8220;with much of these costs paid for by the United States of America (as usual!),&#8221; and send a signal he called &#8220;totally inappropriate and hostile&#8221; toward North Korea, which he said &#8220;has been unthreatening and respectful&#8221; throughout his presidency. North Korea has conducted two ballistic missile tests this month, however, firing a short-range missile on August 6 and another that flew more than 700 kilometers on August 12 local time \u2014 Pyongyang&#8217;s 11th ballistic missile test of the year by South Korean count. North Korea&#8217;s Foreign Ministry on"
-    },
-    {
-     "outlet": "latimes",
-     "title": "Trump turns to containing the fallout from setbacks in Iran",
-     "url": "https://www.latimes.com/politics/story/2026-08-16/trump-turns-to-containing-fallout-from-setbacks-in-iran",
-     "author": "Michael Wilner",
-     "kind": "news",
-     "published": "2026-08-16T10:00:00+00:00",
-     "summary": "The current approach \u2014 an economic choke hold on Iran \u2014 is being led by Treasury Secretary Scott Bessent."
     },
     {
      "outlet": "guardian",
@@ -242,14 +242,14 @@
    "summaryFrom": "axios",
    "emphasis": {
     "bigCount": 12,
-    "indieCount": 3,
+    "indieCount": 4,
     "big": [
-     "strait",
-     "threatens",
      "remains",
      "told",
      "truce",
-     "sight"
+     "sight",
+     "conflict",
+     "longtime"
     ],
     "indie": [
      "flag",
@@ -258,16 +258,16 @@
    },
    "absent": [],
    "headline": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
-   "updated": "2026-08-18T01:13:40+00:00",
-   "outletCount": 12,
+   "updated": "2026-08-18T04:01:03+00:00",
+   "outletCount": 13,
    "counts": {
     "corp": 6,
-    "pub": 1,
+    "pub": 2,
     "nonprofit": 1,
     "family": 6,
     "coop": 1
    },
-   "newsCount": 15,
+   "newsCount": 16,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -277,8 +277,8 @@
      "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-expired-strait-of-hormuz/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-18T01:13:40+00:00",
-     "summary": "The 60-day deadline for the U.S. and Iran to negotiate a peace deal and reopen the Strait of Hormuz is expiring, with no agreement in sight."
+     "published": "2026-08-18T04:01:03+00:00",
+     "summary": "The 60-day deadline for the U.S. and Iran to negotiate a peace deal and reopen the Strait of Hormuz expired, with no agreement in sight."
     },
     {
      "outlet": "aljazeera",
@@ -371,6 +371,15 @@
      "summary": "President Donald Trump thirsted after brutal dictator Kim Jong Un during an appearance in the Oval Office after revealing the U.S. would scale back its military partnership with South Korea in the region. Trump, 80, was questioned about his decision and the North Korean dictator while taking questions on Monday, where he gushed over Kim Jong Un treating him with \u201crespect.\u201d \u201cHow do you respond to the folks who say that you are prioritizing the interests of adversaries in North Korea over our long partners?\u201d a reporter asked. Read more at The Daily Beast."
     },
     {
+     "outlet": "bbc",
+     "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+     "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T19:25:05+00:00",
+     "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires."
+    },
+    {
      "outlet": "semafor",
      "title": "Hormuz reopening remains distant as US-Iran truce expires",
      "url": "https://www.semafor.com/article/08/17/2026/hormuz-reopening-remains-distant-as-us-iran-truce-expires",
@@ -404,7 +413,7 @@
      "author": "Courtney Subramanian and Catherine Lucey",
      "kind": "news",
      "published": "2026-08-17T11:36:14+00:00",
-     "summary": "The prospects for peace in the Middle East suffered a fresh setback, with President Donald Trump saying he\u2019s not interested in extending the expiring agreement with Iran and fighting flaring anew in Lebanon."
+     "summary": "The prospects for peace in the Middle East suffered a fresh setback, with President Donald Trump saying he\u2019s not interested in extending the expiring agreement with Iran and tensions flaring anew in the Strait of Hormuz."
     }
    ]
   },
@@ -414,45 +423,38 @@
    "summary": "A bulldozer plows through land during construction for a section of border wall near Santa Elena Canyon on August 14, 2026 in Big Bend National Park, Texas. | Photo: Brandon Bell via Getty Images About 22 miles south of the former mining town of Patagonia, Arizona, down a winding, unpaved mountain road that passes cows grazing on open range, stands a cottonwood tree believed to be at least 200 years old. The \"grandmother\" tree, as some locals call it, is imperiled and already showing signs of stress, almost as if it knows its fate. The leaves are yellowing prematurely, falling to the ground at the height of summer. On July 27th, a construction crew felled three neighboring trees to build an extension of President Donald Trump's wall along the US-Mexico border. An activist climbed up the last tree standing two days later and ever sin \u2026 Read the full story at The Verge.",
    "summaryFrom": "theverge",
    "emphasis": {
-    "bigCount": 8,
+    "bigCount": 7,
     "indieCount": 3,
     "big": [
      "scott",
      "rodney",
      "criticism",
-     "halt",
+     "security",
      "post",
-     "security"
+     "halt"
     ],
     "indie": [
-     "area"
+     "controversial",
+     "area",
+     "opposition"
     ]
    },
    "absent": [
     "coop"
    ],
    "headline": "Trump pauses controversial border construction in Texas national park",
-   "updated": "2026-08-18T01:48:29+00:00",
-   "outletCount": 11,
+   "updated": "2026-08-18T01:36:00+00:00",
+   "outletCount": 10,
    "counts": {
-    "family": 4,
+    "family": 3,
     "pub": 1,
     "corp": 4,
     "nonprofit": 2
    },
-   "newsCount": 11,
+   "newsCount": 10,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Trump admin briefly pauses contentious border project in Texas\u2019 Big Bend National Park",
-     "url": "https://nypost.com/2026/08/17/us-news/trump-admin-briefly-pauses-contentious-border-project-in-texas-big-bend-national-park/",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-18T01:48:29+00:00",
-     "summary": "The controversial project faced \u201cfierce bipartisan opposition\u201d over environmental damage in the rugged national park."
-    },
     {
      "outlet": "breitbart",
      "title": "CBP Pauses Border Security Projects in Big Bend National Park Amid Public Outcry",
@@ -551,7 +553,7 @@
    "summary": "E. Jean Carroll attends the Make Equality Reality Gala in New York on Oct. 8, 2024. \u2014Steven Ferdman\u2014Getty Images The Supreme Court on Monday denied President Donald Trump \u2019s request for a rehearing in relation to a 2023 civil case that found him liable for sexually abusing and defaming writer E. Jean Carroll, court documents show. The President\u2019s legal battle with Carroll began in 2019, after the writer alleged she was raped by Trump in a changing room at Bergdorf Goodman in New York City in the 1990s. It resulted in two separate trials. In one lawsuit, filed under the New York Adult Survivors Act in 2022, a jury awarded Carroll some $5 million in damages for the sexual abuse and defamation. Trump asked the Supreme Court to review the decision, but it denied the petition in June . He requested a rehearing by the highest court, but that request was denied Monday without comment.\u2026",
    "summaryFrom": "time",
    "emphasis": {
-    "bigCount": 6,
+    "bigCount": 7,
     "indieCount": 3,
     "big": [
      "million",
@@ -568,14 +570,14 @@
    ],
    "headline": "Trump loses second Supreme Court bid over E Jean Carroll sex abuse case",
    "updated": "2026-08-18T01:34:37+00:00",
-   "outletCount": 9,
+   "outletCount": 10,
    "counts": {
     "family": 4,
-    "corp": 2,
+    "corp": 3,
     "pub": 2,
     "nonprofit": 1
    },
-   "newsCount": 9,
+   "newsCount": 10,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -659,75 +661,66 @@
      "kind": "news",
      "published": "2026-08-17T15:22:36+00:00",
      "summary": "The Supreme Court once again declined to take up President Trump 's attempt to toss a jury's $5 million finding that he sexually abused and defamed E. Jean Carroll. The big picture: Carroll's payday had been long delayed as the president fought the verdict. The Supreme Court already declined to throw it out earlier this year. Trump's lawyers are also still fighting a separate $83.3 million defamation judgment he was ordered to pay her, arguing he's entitled to presidential immunity. Driving the news: The justices did not explain their reasoning for declining to take up the challenge, as is typical. After the Supreme Court rejected Trump's bid to toss the civil verdict in late June, his legal team petitioned for a rehearing, pointing to his separate challenge over immunity claims. Carroll received the more than $5 million she was owed earlier this year, which her legal team said she would place in an interest-bearing account until Trump's petition was denied. What they're saying: A spokesman for Trump's legal team slammed what he described as the \"Democrat-funded travesty of the Carroll Hoaxes\" in a statement provided to Axios. Roberta Kaplan, Carroll's attorney, applauded the Supre"
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Supreme Court turns away Trump\u2019s latest bid to block E. Jean Carroll award",
+     "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-declines-trump-appeal-e-jean-carroll-award-rcna592887",
+     "author": "Lawrence Hurley",
+     "kind": "news",
+     "published": "2026-08-17T13:32:51+00:00",
+     "summary": "The Supreme Court turned away for a second time President Donald Trump\u2019s bid to overturn a jury verdict that awarded $5 million to writer E. Jean Carroll and found Trump liable for sexual abuse and defamation."
     }
    ]
   },
   {
-   "id": "7a24073c86",
+   "id": "385a47f2de",
    "topic": "World",
    "summary": "President Trump spent the weekend turning on two US security partners. He ordered a cutback in joint military exercises with South Korea, citing his &#8220;very good relationship&#8221; with Kim Jong Un, the North Korean dictator \u2014 and threatened to bomb Oman, one of the countries mediating between Washington and Tehran. On Sunday, Trump posted on Truth Social that based on his \u201cvery good relationship with Kim Jong Un\u201d and the finances required, he ordered Pete Hegseth to \u201csubstantially reduce\u201d annual joint military exercises with South Korea, designed to prepare against threats from North Korea. At the end of his post: \u201cWhile somewhat unrelated (?), I recently asked the President of South Korea if they would like to join us in the Denuclearization of the Islamic Republic of Iran, and they said, \u201cNo thanks!\u201d And on Monday afternoon, Trump told reporters in the Oval Office a similar\u2026",
    "summaryFrom": "motherjones",
    "emphasis": {
-    "bigCount": 6,
-    "indieCount": 3,
+    "bigCount": 5,
+    "indieCount": 4,
     "big": [
      "donald",
-     "substantially",
+     "world",
+     "speaking",
+     "break",
      "reduce",
-     "pentagon",
-     "post"
+     "substantially"
     ],
     "indie": [
-     "oman",
-     "bomb",
-     "talks",
-     "threatens",
-     "threat",
-     "peace"
+     "deal",
+     "jerusalem",
+     "stalled",
+     "israeli",
+     "east"
     ]
    },
    "absent": [
+    "corp",
     "coop"
    ],
-   "headline": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-   "updated": "2026-08-17T22:43:32+00:00",
-   "outletCount": 9,
+   "headline": "Trump threatens to bomb Oman if it \u2018gets in the way\u2019 of Iran deal as Kushner meets Netanyahu \u2013 as it happened",
+   "updated": "2026-08-17T21:23:29+00:00",
+   "outletCount": 8,
    "counts": {
-    "corp": 2,
-    "pub": 1,
+    "family": 5,
     "nonprofit": 2,
-    "family": 4
+    "pub": 2
    },
-   "newsCount": 8,
-   "opinionCount": 1,
+   "newsCount": 7,
+   "opinionCount": 2,
    "underreported": false,
    "articles": [
     {
-     "outlet": "abcnews",
-     "title": "Trump contradicts Vance, says nukes, not oil prices, No. 1 priority in Iran",
-     "url": "https://abcnews.com/Politics/trump-contradicts-vance-nukes-oil-prices-1-priority/story?id=135711978",
-     "author": null,
+     "outlet": "nyt",
+     "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
+     "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
+     "author": "David M. Halbfinger and Adam Rasgon",
      "kind": "news",
-     "published": "2026-08-17T22:43:32+00:00",
-     "summary": "Vance\u2019s comments about prioritizing gas prices diverge from the president's stated mission of eliminating Iran's nuclear and ballistic missile programs."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Oil jumps past $91 as Trump casts doubt on a new deal with Iran",
-     "url": "https://www.nbcnews.com/business/economy/oil-jumps-trump-no-iran-ceasefire-rcna592978",
-     "author": "Steve Kopack",
-     "kind": "news",
-     "published": "2026-08-17T19:43:54+00:00",
-     "summary": "The president said the critical Strait of Hormuz was \u201copen,\u201d but the latest shipping traffic data didn\u2019t appear to support his claim."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-     "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T19:25:05+00:00",
-     "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires."
+     "published": "2026-08-17T21:23:29+00:00",
+     "summary": "Jared Kushner speaking about the Board of Peace, an organization backed by the Trump administration to end the war in Gaza, during the World Economic Forum in Davos, Switzerland, in January."
     },
     {
      "outlet": "guardian",
@@ -757,13 +750,31 @@
      "summary": "On the eve of the 10-day Ulchi Freedom Shield military drills \u2014involving 18,000 South Korean troops alongside thousands of U.S. and U.N. forces\u2014President Donald Trump dropped one of his trademark bombshells. Announcing he would \u201csubstantially reduce\u201d American participation, Trump cited his \u201cvery good relationship with Kim Jong Un\u201d and need to rebuke Seoul for refusing to join his war against Iran. On the eve of the 10-day Ulchi Freedom Shield military drills \u2014involving 18,000 South Korean troops alongside thousands of U.S. and U.N. forces\u2014President Donald Trump dropped one of his trademark bombshells. Announcing he would \u201csubstantially reduce\u201d American participation, Trump cited his \u201cvery good relationship with Kim Jong Un\u201d and need to rebuke Seoul for refusing to join his war against Iran . \u201cThese exercises are not only costly \u2026 but send a signal that is totally inappropriate and hostile to a country that, as long as Donald J. Trump has been president, has been unthreatening and respectful,\u201d Trump posted on Truth Social. In response, South Korea\u2019s presidential Blue House said it remained in \u201cclose coordination\" with Washington regarding the drills, which had begun as \u201cpreviously n"
     },
     {
-     "outlet": "nyt",
-     "title": "Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea",
-     "url": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html",
-     "author": "Helene Cooper",
+     "outlet": "france24",
+     "title": "Middle East live: Trump threatens to bomb Oman if they get in way of Hormuz shipping deal",
+     "url": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas",
+     "author": "FRANCE24",
      "kind": "news",
-     "published": "2026-08-17T06:16:21+00:00",
-     "summary": "In his post on Sunday, President Trump did not mention a rift in relations with North Korea in 2017, when Kim Jong Un called him a \u201cmentally deranged dotard.\u201d"
+     "published": "2026-08-17T12:09:55+00:00",
+     "summary": null
+    },
+    {
+     "outlet": "dw",
+     "title": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
+     "url": "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T12:01:00+00:00",
+     "summary": "The meeting comes amid a stalled post-war Gaza plan and after an Israeli minister called for more Palestinians to be killed in the enclave. Meanwhile, Iran says it is finalizing a deal with Oman on the Strait of Hormuz."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Trump Threatens To Bomb Another Middle Eastern Country",
+     "url": "https://www.dailywire.com/news/trump-threatens-to-bomb-another-middle-eastern-country",
+     "author": "Leona Salinas",
+     "kind": "opinion",
+     "published": "2026-08-17T10:29:21+00:00",
+     "summary": "As the 60-day memorandum of understanding with Iran expired on Monday, President Donald Trump delivered a blunt message to the regime, while warning that if Oman gets in the way of U.S. efforts in the Strait of Hormuz, \u201cwe\u2019ll bomb the sh*t out of them.\u201d Speaking with Fox News , the president said Iran should &#8220;put up the white flag of surrender.&#8221; He said he has &#8220;no time schedule&#8221; and is &#8220;not in a hurry,&#8221; while emphasizing that Oman must not interfere. The ongoing naval blockade, he made clear, will keep grinding economic pressure on the regime even as Iranian officials talk tough in public. Trump described the Iranians as \u201cgood poker players, but they\u2019re dying.\u201d The blockade is already exacting a real cost, and the domestic midterms are irrelevant to how he forms his approach. He confirmed that American officials are maintaining a direct back channel with the Islamic Revolutionary Guard Corps, speaking not only with the political leadership in Tehran but with the IRGC officials themselves. On the military side, the president called what the United States has used so far against Iran \u201cpeanuts.\u201d The U.S. still holds significant hoards of mid-level w"
     },
     {
      "outlet": "dailywire",
@@ -786,130 +797,6 @@
    ]
   },
   {
-   "id": "2b5859e74a",
-   "topic": "World",
-   "summary": "Hamas leaders reaffirmed their commitment to disarm and demilitarize Gaza in a meeting with President Trump's adviser Jared Kushner in Egypt on Sunday, according to a source with direct knowledge. Why it matters: Kushner used the rare direct meeting to press Hamas for tangible steps on disarmament , warning that Israel doesn't trust the group to follow through. The source described the 90-minute meeting as \"very productive\" at making sure Hamas takes practical steps to fulfill its commitments. The White House and Trump's Board of Peace are pushing Hamas and Israel to move to the next phase of the U.S. 20-point peace plan. Kushner is expected to visit Israel on Monday and meet Israeli Prime Minister Benjamin Netanyahu to discuss \"corresponding steps\" Israel must take, the source said. Behind the scenes: Hamas leaders asked Kushner to tell Trump they remained committed to disarming, the\u2026",
-   "summaryFrom": "axios",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 5,
-    "big": [
-     "israel",
-     "egypt",
-     "sunday",
-     "disarmament",
-     "direct",
-     "group"
-    ],
-    "indie": [
-     "son-in-law",
-     "middle",
-     "east",
-     "deal",
-     "breakthrough",
-     "ceasefire"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
-   "updated": "2026-08-17T21:23:29+00:00",
-   "outletCount": 8,
-   "counts": {
-    "family": 3,
-    "nonprofit": 2,
-    "pub": 3,
-    "corp": 1
-   },
-   "newsCount": 8,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
-     "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
-     "author": "David M. Halbfinger and Adam Rasgon",
-     "kind": "news",
-     "published": "2026-08-17T21:23:29+00:00",
-     "summary": "Jared Kushner speaking about the Board of Peace, an organization backed by the Trump administration to end the war in Gaza, during the World Economic Forum in Davos, Switzerland, in January."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
-     "url": "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
-     "author": "Peter Beaumont",
-     "kind": "news",
-     "published": "2026-08-17T16:42:04+00:00",
-     "summary": "Israeli PM again insists troops will not withdraw from strip until Hamas first disarms, but calls meeting constructive Benjamin Netanyahu has told Donald Trump\u2019s son-in-law and envoy Jared Kushner there can be no progress on the stalled Gaza ceasefire deal or an Israeli withdrawal from the coastal strip until Hamas first disarms. An Israeli official said there had been no breakthrough in \u200cthe meeting between the pair, saying Netanyahu had made it clear the IDF would not withdraw and would continue to carry out operations in Gaza. Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
-     "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T16:02:58+00:00",
-     "summary": "Donald Trump's Middle East envoy and son-in-law, Jared Kushner, is seeking to gain Israeli backing for the US-backed Gaza peace plan."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Kushner Reveals What Hamas Told Him In Rare Face-To-Face Meeting",
-     "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule",
-     "author": "Daily Wire",
-     "kind": "opinion",
-     "published": "2026-08-17T16:00:33+00:00",
-     "summary": null
-    },
-    {
-     "outlet": "guardian",
-     "title": "Can Trump\u2019s peace plan for Gaza be saved? \u2013 The Latest",
-     "url": "https://www.theguardian.com/news/audio/2026/aug/17/can-trumps-peace-plan-for-gaza-be-saved-the-latest",
-     "author": "Presented by Nosheen Iqbal with Devika Bhat; produced by Bryony Moore and Annie La Vespa; senior producer Ryan Ramgobin",
-     "kind": "news",
-     "published": "2026-08-17T15:56:48+00:00",
-     "summary": "Donald Trump\u2019s son-in-law Jared Kushner is on a diplomatic mission in the Middle East to meet Hamas officials and the Israeli prime minister, Benjamin Netanyahu, in an attempt to salvage a ceasefire in Gaza. The talks come after Netanyahu rejected the US-backed 15-point peace plan for the territory in a rare public break with the Trump administration this month. Nosheen Iqbal speaks to global editor Devika Bhat \u2013 watch on YouTube Continue reading..."
-    },
-    {
-     "outlet": "dw",
-     "title": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
-     "url": "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T12:01:00+00:00",
-     "summary": "The meeting comes amid a stalled post-war Gaza plan and after an Israeli minister called for more Palestinians to be killed in the enclave. Meanwhile, Iran says it is finalizing a deal with Oman on the Strait of Hormuz."
-    },
-    {
-     "outlet": "france24",
-     "title": "Trump\u2019s Gaza plan: What is at stake for Netanyahu?",
-     "url": "https://www.france24.com/en/trump-s-gaza-plan-what-is-at-stake-for-netanyahu",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-17T10:30:47+00:00",
-     "summary": "The Trump administration is stepping up diplomatic efforts to secure a peace plan for Gaza. US envoy Jared Kushner is set to meet Israeli Prime Minister Benjamin Netanyahu in a bid to persuade him to back the proposal. With Netanyahu facing major political and personal stakes ahead of a possible re-election, FRANCE 24\u2019s Philip Turle examines whether the meeting could bring a breakthrough in Gaza and analyses what is at stake for all sides."
-    },
-    {
-     "outlet": "semafor",
-     "title": "US and Hamas hold rare direct talks",
-     "url": "https://www.semafor.com/article/08/16/2026/us-hamas-hold-rare-direct-talks",
-     "author": "Brendan Ruberry",
-     "kind": "news",
-     "published": "2026-08-16T22:20:51+00:00",
-     "summary": "US envoy Jared Kushner met with Hamas\u2019 leader in Egypt on Sunday to push for the group\u2019s disarmament, as Washington attempts to salvage the stalled plan to end one of the region\u2019s ongoing conflicts. Kushner is also expected to meet on Monday with Israeli Prime Minister Benjamin Netanyahu, who rejected US President Donald Trump\u2019s peace plan. Israel has also rejected US calls to withdraw from Gaza and Lebanon, demanding that Hamas and Hezbollah disarm first . Israeli forces bombed Lebanon on Sunday in strikes that Iran regards as violations of a months-old ceasefire, adding pressure to faltering US-Iran negotiations: The White House is searching for new strategies to inflict economic pain on Tehran as Washington prepares measures aimed at creating \u201c economic isolation .\u201d \u2014 Brendan Ruberry"
-    },
-    {
-     "outlet": "axios",
-     "title": "Inside Kushner's Hamas meeting: What comes next in Gaza",
-     "url": "https://www.axios.com/2026/08/16/kushner-hamas-gaza-disarmament-egypt-israel",
-     "author": "Barak Ravid",
-     "kind": "news",
-     "published": "2026-08-16T20:13:03+00:00",
-     "summary": "Hamas leaders reaffirmed their commitment to disarm and demilitarize Gaza in a meeting with President Trump's adviser Jared Kushner in Egypt on Sunday, according to a source with direct knowledge. Why it matters: Kushner used the rare direct meeting to press Hamas for tangible steps on disarmament , warning that Israel doesn't trust the group to follow through. The source described the 90-minute meeting as \"very productive\" at making sure Hamas takes practical steps to fulfill its commitments. The White House and Trump's Board of Peace are pushing Hamas and Israel to move to the next phase of the U.S. 20-point peace plan. Kushner is expected to visit Israel on Monday and meet Israeli Prime Minister Benjamin Netanyahu to discuss \"corresponding steps\" Israel must take, the source said. Behind the scenes: Hamas leaders asked Kushner to tell Trump they remained committed to disarming, the source said. \"We thanked them for the commitment, but we want to see real efforts and not just words,\" the source added. \"It was important for Kushner to lock them into this commitment in person.\" Kushner also thanked Hamas leaders for their cooperation and efforts to recover the bodies of all decease"
-    }
-   ]
-  },
-  {
    "id": "83d7c81a89",
    "topic": "Justice & Policing",
    "summary": "The operations director for a controversial leftist congresswoman downplayed the killing of UnitedHealthcare CEO Brian Thompson after Luigi Mangione pleaded guilty to related charges last week. \"You\u2019ll never convince me that Luigi is a villain while everyone in the Epstein files is roaming free,\" Briana Rose Lee said Friday on X after Mangione pleaded guilty to interstate stalking resulting in death and cyberstalking/use of interstate facilities resulting in death. Ilhan Omar, D-Minn., is currently seeking re-election for her fifth term in Congress. Lee's X bio says she does \"operations\" for the progressive congresswoman. Her LinkedIn profile confirms she has been working for Omar since January 2024, and that she is the former chairwoman of the Minneapolis Democratic-Farm-Labor (DFL) party. \"On the morning of Dec. 4, 2024, I shot Mr. Thompson in Manhattan,\" Mangione told the court\u2026",
@@ -918,8 +805,8 @@
     "bigCount": 5,
     "indieCount": 2,
     "big": [
-     "delays",
      "respond",
+     "delays",
      "prosecutors",
      "unitedhealthcare",
      "stalking"
@@ -1004,6 +891,130 @@
      "kind": "news",
      "published": "2026-08-15T15:31:29+00:00",
      "summary": "Luigi Mangione pleaded guilty in federal court on Friday, admitting that he shot and killed UnitedHealthcare CEO Brian Thompson on the streets of Manhattan on December 4, 2024. The murder was astonishingly brazen. In case anyone has forgotten, Mangione followed Thompson, shot him from behind at point-blank range, then fled the scene, only to be caught in a Pennsylvania McDonald&#8217;s five days later. Technically, while Mangione admitted stalking resulting in the death of Thompson, he did not plead guilty to killing him, because that was not the charge he faced in federal court. (There were murder charges in the original federal indictment, but those charges were dismissed on technical grounds back in January.) Instead , Mangione pleaded guilty to &#8220;stalking&#8221; Thompson with the intent of killing him. We don&#8217;t know yet what sentence Mangione will receive. What we do know is that Mangione&#8217;s New York state court murder trial is set to begin on September 8. The timing of the surprise federal guilty plea strongly suggests that Mangione&#8217;s lawyers intend to argue that the state trial is now barred by double jeopardy, and according to some reports , they have a"
+    }
+   ]
+  },
+  {
+   "id": "8aea27a9e2",
+   "topic": "World",
+   "summary": "President Trump adviser Jared Kushner told Israeli Prime Minister Benjamin Netanyahu on Monday that the U.S. wants Israel to take \"small steps\" in Gaza to test whether Hamas' commitment to start disarming is genuine, a U.S. official said. Why it matters: The four-hour meeting took place amid deep skepticism from Netanyahu about the U.S. plan for Gaza \u2014 and ahead of an October election that makes the Israeli leader reluctant to offer significant concessions on the politically sensitive issue. While the meeting helped clarify misunderstandings, addressed some of Netanyahu's concerns and produced a joint understanding on how to move forward, it also crystallized the remaining differences and made clear how difficult near-term progress will be. Driving the news: Kushner arrived in Israel after meetings in Egypt Sunday with Hamas leaders and with the Egyptian, Qatari and Turkish mediators.\u2026",
+   "summaryFrom": "axios",
+   "emphasis": {
+    "bigCount": 4,
+    "indieCount": 5,
+    "big": [
+     "matters",
+     "steps",
+     "told",
+     "adviser",
+     "commitment",
+     "direct"
+    ],
+    "indie": [
+     "son-in-law",
+     "administration",
+     "until",
+     "east",
+     "middle",
+     "us-backed"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "\u2018We will not allow Gaza to be rebuilt\u2019 until Hamas disarms, Kushner says",
+   "updated": "2026-08-17T23:25:17+00:00",
+   "outletCount": 7,
+   "counts": {
+    "pub": 4,
+    "corp": 2,
+    "family": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 8,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "\u2018We will not allow Gaza to be rebuilt\u2019 until Hamas disarms, Kushner says",
+     "url": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T23:25:17+00:00",
+     "summary": "Trump&#039;s son-in-law and envoy says US will not &#039;restrict Israel&#039;s right to defend itself&#039; as strikes on Gaza continue."
+    },
+    {
+     "outlet": "axios",
+     "title": "Kushner urges Netanyahu to test Hamas disarmament in Gaza",
+     "url": "https://www.axios.com/2026/08/17/kushner-netanyahu-hamas-gaza",
+     "author": "Barak Ravid",
+     "kind": "news",
+     "published": "2026-08-17T18:41:29+00:00",
+     "summary": "President Trump adviser Jared Kushner told Israeli Prime Minister Benjamin Netanyahu on Monday that the U.S. wants Israel to take \"small steps\" in Gaza to test whether Hamas' commitment to start disarming is genuine, a U.S. official said. Why it matters: The four-hour meeting took place amid deep skepticism from Netanyahu about the U.S. plan for Gaza \u2014 and ahead of an October election that makes the Israeli leader reluctant to offer significant concessions on the politically sensitive issue. While the meeting helped clarify misunderstandings, addressed some of Netanyahu's concerns and produced a joint understanding on how to move forward, it also crystallized the remaining differences and made clear how difficult near-term progress will be. Driving the news: Kushner arrived in Israel after meetings in Egypt Sunday with Hamas leaders and with the Egyptian, Qatari and Turkish mediators. Kushner brought a delegation to the meeting with Netanyahu that included the High Representative of Trump's Gaza Board of Peace, Nikolay Mladenov, as well as former British Prime Minister Tony Blair and Board of Peace senior advisers Aryeh Lightstone and Liran Tancman. During the meeting, Netanyahu ex"
+    },
+    {
+     "outlet": "france24",
+     "title": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
+     "url": "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-17T18:14:46+00:00",
+     "summary": "Israeli Prime Minister Benjamin Netanyahu and US envoy Jared Kushner agreed Monday that an American general would oversee the disarmament of Hamas, an Israeli official said, as Netanyahu insisted Israel would not withdraw from Gaza until the group gives up its weapons.The understanding comes as President Donald Trump\u2019s administration seeks to revive its Gaza peace plan amid tensions with Netanyahu."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
+     "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T16:02:58+00:00",
+     "summary": "Donald Trump's Middle East envoy and son-in-law, Jared Kushner, is seeking to gain Israeli backing for the US-backed Gaza peace plan."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Kushner Reveals What Hamas Told Him In Rare Face-To-Face Meeting",
+     "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule",
+     "author": "Daily Wire",
+     "kind": "opinion",
+     "published": "2026-08-17T16:00:33+00:00",
+     "summary": null
+    },
+    {
+     "outlet": "guardian",
+     "title": "Can Trump\u2019s peace plan for Gaza be saved? \u2013 The Latest",
+     "url": "https://www.theguardian.com/news/audio/2026/aug/17/can-trumps-peace-plan-for-gaza-be-saved-the-latest",
+     "author": "Presented by Nosheen Iqbal with Devika Bhat; produced by Bryony Moore and Annie La Vespa; senior producer Ryan Ramgobin",
+     "kind": "news",
+     "published": "2026-08-17T15:56:48+00:00",
+     "summary": "Donald Trump\u2019s son-in-law Jared Kushner is on a diplomatic mission in the Middle East to meet Hamas officials and the Israeli prime minister, Benjamin Netanyahu, in an attempt to salvage a ceasefire in Gaza. The talks come after Netanyahu rejected the US-backed 15-point peace plan for the territory in a rare public break with the Trump administration this month. Nosheen Iqbal speaks to global editor Devika Bhat \u2013 watch on YouTube Continue reading..."
+    },
+    {
+     "outlet": "france24",
+     "title": "Trump\u2019s Gaza plan: What is at stake for Netanyahu?",
+     "url": "https://www.france24.com/en/trump-s-gaza-plan-what-is-at-stake-for-netanyahu",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-17T10:30:47+00:00",
+     "summary": "The Trump administration is stepping up diplomatic efforts to secure a peace plan for Gaza. US envoy Jared Kushner is set to meet Israeli Prime Minister Benjamin Netanyahu in a bid to persuade him to back the proposal. With Netanyahu facing major political and personal stakes ahead of a possible re-election, FRANCE 24\u2019s Philip Turle examines whether the meeting could bring a breakthrough in Gaza and analyses what is at stake for all sides."
+    },
+    {
+     "outlet": "semafor",
+     "title": "US and Hamas hold rare direct talks",
+     "url": "https://www.semafor.com/article/08/16/2026/us-hamas-hold-rare-direct-talks",
+     "author": "Brendan Ruberry",
+     "kind": "news",
+     "published": "2026-08-16T22:20:51+00:00",
+     "summary": "US envoy Jared Kushner met with Hamas\u2019 leader in Egypt on Sunday to push for the group\u2019s disarmament, as Washington attempts to salvage the stalled plan to end one of the region\u2019s ongoing conflicts. Kushner is also expected to meet on Monday with Israeli Prime Minister Benjamin Netanyahu, who rejected US President Donald Trump\u2019s peace plan. Israel has also rejected US calls to withdraw from Gaza and Lebanon, demanding that Hamas and Hezbollah disarm first . Israeli forces bombed Lebanon on Sunday in strikes that Iran regards as violations of a months-old ceasefire, adding pressure to faltering US-Iran negotiations: The White House is searching for new strategies to inflict economic pain on Tehran as Washington prepares measures aimed at creating \u201c economic isolation .\u201d \u2014 Brendan Ruberry"
+    },
+    {
+     "outlet": "axios",
+     "title": "Inside Kushner's Hamas meeting: What comes next in Gaza",
+     "url": "https://www.axios.com/2026/08/16/kushner-hamas-gaza-disarmament-egypt-israel",
+     "author": "Barak Ravid",
+     "kind": "news",
+     "published": "2026-08-16T20:13:03+00:00",
+     "summary": "Hamas leaders reaffirmed their commitment to disarm and demilitarize Gaza in a meeting with President Trump's adviser Jared Kushner in Egypt on Sunday, according to a source with direct knowledge. Why it matters: Kushner used the rare direct meeting to press Hamas for tangible steps on disarmament , warning that Israel doesn't trust the group to follow through. The source described the 90-minute meeting as \"very productive\" at making sure Hamas takes practical steps to fulfill its commitments. The White House and Trump's Board of Peace are pushing Hamas and Israel to move to the next phase of the U.S. 20-point peace plan. Kushner is expected to visit Israel on Monday and meet Israeli Prime Minister Benjamin Netanyahu to discuss \"corresponding steps\" Israel must take, the source said. Behind the scenes: Hamas leaders asked Kushner to tell Trump they remained committed to disarming, the source said. \"We thanked them for the commitment, but we want to see real efforts and not just words,\" the source added. \"It was important for Kushner to lock them into this commitment in person.\" Kushner also thanked Hamas leaders for their cooperation and efforts to recover the bodies of all decease"
     }
    ]
   },
@@ -1107,8 +1118,8 @@
     "indie": [
      "country",
      "health",
-     "killed",
      "cases",
+     "killed",
      "record",
      "government"
     ]
@@ -1263,10 +1274,10 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "tribute",
      "heroes",
-     "nashville",
-     "sunday"
+     "tribute",
+     "sunday",
+     "nashville"
     ],
     "indie": [
      "life"
@@ -1405,6 +1416,255 @@
    ]
   },
   {
+   "id": "3a0d67a17a",
+   "topic": "Justice & Policing",
+   "summary": "More than a dozen Penn Staters are charged in connection with an alleged massive cocaine distribution ring as one of the alleged ringleaders, Agostino Abbatiello, 24, of Westbury, New York remains at large. Pennsylvania Attorney General Dave Sunday announced that Abbatiello is among 14 people who are facing charges related to the coke trafficking operation where students and two off-campus fraternities were allegedly involved. \"In all, 13 defendants were Penn State University students at or around the time of the alleged conduct, in 2023 and 2024. The 14th defendant, the father of a student, is charged with tampering with evidence and hindering the investigation,\" the Attorney General's office said. SUSPECT ARRESTED FOR ALLEGEDLY RUNNING METH LAB AT MICHIGAN STATE UNIVERSITY\u2019S LARGEST ACADEMIC BUILDING In the Monday announcement, the AG said suspects Abbatiello and Thomas Robinson were\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "13 Penn State frat bros busted in cocaine trafficking ring\u2014including LI student at \u2018top of the food chain\u2019",
+   "updated": "2026-08-18T04:48:58+00:00",
+   "outletCount": 4,
+   "counts": {
+    "family": 2,
+    "corp": 2
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "13 Penn State frat bros busted in cocaine trafficking ring\u2014including LI student at \u2018top of the food chain\u2019",
+     "url": "https://nypost.com/2026/08/18/us-news/13-penn-state-frat-bros-busted-in-cocaine-trafficking-ringincluding-ny-student-at-top-of-the-food-chain/",
+     "author": "Daniel Cody",
+     "kind": "news",
+     "published": "2026-08-18T04:48:58+00:00",
+     "summary": "\u201cIn fact, according to the evidence uncovered, cutting and packaging cocaine was, for some pledges, an indoctrination into the fraternities,\" Attorney General Dave Sunday said."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Penn State frat brothers charged with running cocaine trafficking ring",
+     "url": "https://www.cbsnews.com/news/penn-state-fraternity-cocaine-trafficking-ring/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-18T00:34:00+00:00",
+     "summary": "Two Penn State fraternities are at the center of a cocaine trafficking ring bust, leading to charges against 14 people, authorities said."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Penn State cocaine bust nets 14 arrests over alleged pledge coke-cutting \u2018indoctrination' rituals",
+     "url": "https://www.foxnews.com/us/penn-state-cocaine-bust-nets-14-arrests-over-alleged-pledge-coke-cutting-indoctrination-rituals",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T23:36:26+00:00",
+     "summary": "More than a dozen Penn Staters are charged in connection with an alleged massive cocaine distribution ring as one of the alleged ringleaders, Agostino Abbatiello, 24, of Westbury, New York remains at large. Pennsylvania Attorney General Dave Sunday announced that Abbatiello is among 14 people who are facing charges related to the coke trafficking operation where students and two off-campus fraternities were allegedly involved. \"In all, 13 defendants were Penn State University students at or around the time of the alleged conduct, in 2023 and 2024. The 14th defendant, the father of a student, is charged with tampering with evidence and hindering the investigation,\" the Attorney General's office said. SUSPECT ARRESTED FOR ALLEGEDLY RUNNING METH LAB AT MICHIGAN STATE UNIVERSITY\u2019S LARGEST ACADEMIC BUILDING In the Monday announcement, the AG said suspects Abbatiello and Thomas Robinson were the main coke suppliers. They allegedly made regular trips to Philadelphia and New York to pick up \"large quantities\" of the illegal drug. Members of the Delta Upsilon and Sigma Chi fraternities allegedly cut and packaged the coke inside their frat houses off campus and distributed it to Penn State s"
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Penn State students accused of running drug ring out of off-campus fraternities",
+     "url": "https://www.nbcnews.com/news/us-news/penn-state-students-accused-running-drug-ring-campus-fraternities-rcna592990",
+     "author": "David Chang, NBC Philadelphia",
+     "kind": "news",
+     "published": "2026-08-17T19:44:16+00:00",
+     "summary": "More than a dozen Penn State University students are accused of packaging and selling cocaine as part of a multistate drug operation."
+    }
+   ]
+  },
+  {
+   "id": "c42f35496d",
+   "topic": "Politics",
+   "summary": "CNN fired back at the White House on Monday after President Donald Trump 's rapid response team took aim at CNN White House correspondent Kristen Holmes. While Trump took questions from the Oval Office, Holmes asked him for his reaction to viral comments made by Sen. Jon Ossoff, D-Ga., who claimed Trump would rather \"build a ballroom and travel with [White House aide]\" Natalie [Harp]\" than do his job as president, to which Trump replied by calling him \"Pee-wee Herman.\" The Rapid Response 47 account on X slammed Holmes for invoking Ossoff's jab, which fueled online fodder for liberal critics pushing unfounded claims of an inappropriate relationship between Trump and Harp. TRUMP MEETS WITH TEEN LIFEGUARD AND BOY SAVED IN VIRAL OCEAN RESCUE AT OVAL OFFICE \"[Holmes] is a disgraceful, humiliating embarrassment to her alleged profession,\" the White House -run account wrote on X. \"@POTUS hosts\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "White House launches personal attack on CNN reporter over question to Trump",
+   "updated": "2026-08-18T04:19:20+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 2,
+    "nonprofit": 1,
+    "family": 2
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "CNN Stars Back Female Colleague After Trump Launches Vile Personal Attack",
+     "url": "https://www.thedailybeast.com/cnn-stars-back-female-colleague-kristen-holmes-after-trump-launches-vile-personal-attack/",
+     "author": "Cameron Adams",
+     "kind": "news",
+     "published": "2026-08-18T04:19:20+00:00",
+     "summary": "CNN CNN stars have backed their colleague Kristen Holmes after President Donald Trump and his administration made twisted personal attacks on her. Holmes appeared to set Trump off during a press gaggle in the Oval Office on Monday after asking the president for his response to a remark by Democratic Sen. Jon Ossoff about Trump\u2019s close aide Natalie Harp, 35. Ossoff referenced the president\u2019s \u201chuman printer\u201d at a rally Sunday night, claiming that Trump \u201cdoesn\u2019t want to do the job. He wants to build his ballroom and travel with Natalie on their apparently defenseless flying palace gifted by the Emir of Qatar.\u201d Read more at The Daily Beast."
+    },
+    {
+     "outlet": "guardian",
+     "title": "White House launches personal attack on CNN reporter over question to Trump",
+     "url": "https://www.theguardian.com/us-news/2026/aug/17/white-house-personal-attack-cnn-reporter-trump",
+     "author": "Sam Levin",
+     "kind": "news",
+     "published": "2026-08-18T02:04:28+00:00",
+     "summary": "CNN says attack \u2018beneath the office\u2019 after Kristen Holmes asked president about Jon Ossoff\u2019s comments on key aide The White House launched a personal attack against a CNN reporter on Monday with a social media post that mentioned her children and accused her of asking a \u201cdisgusting and inhumane question\u201d. A White House post targeted Kristen Holmes, a senior White House correspondent for the network, after she asked Donald Trump to respond to a widely shared comment by Democratic senator Jon Ossoff in a speech on Sunday . Continue reading..."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "CNN fires back at Trump White House over attacks on reporter, calls them 'beneath the office'",
+     "url": "https://www.foxnews.com/media/cnn-fires-back-trump-white-house-attacks-reporter-calls-beneath-office",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T22:44:20+00:00",
+     "summary": "CNN fired back at the White House on Monday after President Donald Trump 's rapid response team took aim at CNN White House correspondent Kristen Holmes. While Trump took questions from the Oval Office, Holmes asked him for his reaction to viral comments made by Sen. Jon Ossoff, D-Ga., who claimed Trump would rather \"build a ballroom and travel with [White House aide]\" Natalie [Harp]\" than do his job as president, to which Trump replied by calling him \"Pee-wee Herman.\" The Rapid Response 47 account on X slammed Holmes for invoking Ossoff's jab, which fueled online fodder for liberal critics pushing unfounded claims of an inappropriate relationship between Trump and Harp. TRUMP MEETS WITH TEEN LIFEGUARD AND BOY SAVED IN VIRAL OCEAN RESCUE AT OVAL OFFICE \"[Holmes] is a disgraceful, humiliating embarrassment to her alleged profession,\" the White House -run account wrote on X. \"@POTUS hosts a hero lifeguard in the Oval Office and she uses it as an opportunity to take a cheap shot about one of President Trump's staffers. These scumbags are the lowest of the low.\" \"Someday, your children will come across your disgusting and inhumane question. They will be sickened and embarrassed to have"
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "White House Reporters Find New Way to Bow to Trump",
+     "url": "https://www.thedailybeast.com/white-house-reporters-find-new-way-to-bow-to-donald-trump/",
+     "author": "Annabella Rosciglione",
+     "kind": "news",
+     "published": "2026-08-17T19:38:26+00:00",
+     "summary": "Eric Lee / Getty Images Even after President Donald Trump secretly put White House reporters in grave danger, the White House Correspondents\u2019 Association is already confirming that he has been invited to next year\u2019s dinner. This year\u2019s dinner, which was rescheduled after a gunman attempted to storm the venue, was filled with vile insults from Trump toward reporters, including CNN star Kaitlan Collins. It left many questioning why White House reporters need to get quite so cozy with the officials they cover, particularly at an event this lavish. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump says White House needs \u2018military complex\u2019 as courts block his ballroom",
+     "url": "https://www.washingtonpost.com/politics/2026/08/16/trump-says-white-house-needs-military-complex-courts-block-his-ballroom/",
+     "author": "Dan Diamond",
+     "kind": "news",
+     "published": "2026-08-16T18:46:11+00:00",
+     "summary": "When Trump first unveiled his plans for the new East Wing addition, he said it was needed to host VIP guests. More recently, he is calling it a \u201cdesperately needed National Security structure.\u201d"
+    }
+   ]
+  },
+  {
+   "id": "c7eb135f3d",
+   "topic": "Politics",
+   "summary": "Zambian President Hakainde Hichilema won a second term on Tuesday after campaigning on his record of economic recovery, including a major debt restructuring deal. The 64-year-old faces pressure to deliver more jobs and opportunities as critics accuse his government of failing to ease poverty and becoming less tolerant of dissent.",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Hichilema wins second term as president of copper-rich Zambia",
+   "updated": "2026-08-18T04:07:13+00:00",
+   "outletCount": 4,
+   "counts": {
+    "pub": 3,
+    "family": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Hichilema wins second term as president of copper-rich Zambia",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-18T04:07:13+00:00",
+     "summary": "Hichilema wins Zambia\u2019s election with 60% after attacks on election officials briefly halted the vote count."
+    },
+    {
+     "outlet": "dw",
+     "title": "Zambia's Hichilema wins second presidential term",
+     "url": "https://www.dw.com/en/zambia-s-hichilema-wins-second-presidential-term/a-78406328?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-18T04:03:00+00:00",
+     "summary": "Hakainde Hichilema won over 60% of the vote in the first round of Zambia's presidential election. which also saw authorities launch raids against leading opposition figures on election night."
+    },
+    {
+     "outlet": "france24",
+     "title": "Zambia's president Hichilema wins re-election with big economic promises",
+     "url": "https://www.france24.com/en/africa/20260818-zambia-president-hichilema-wins-re-election-with-big-economic-promises",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-18T01:22:51+00:00",
+     "summary": "Zambian President Hakainde Hichilema won a second term on Tuesday after campaigning on his record of economic recovery, including a major debt restructuring deal. The 64-year-old faces pressure to deliver more jobs and opportunities as critics accuse his government of failing to ease poverty and becoming less tolerant of dissent."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Zambia\u2019s Pro-Business President Secures Second Term in Election",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-18/zambia-s-pro-business-president-secures-second-term-in-election",
+     "author": "Matthew Hill and Taonga Mitimingi",
+     "kind": "news",
+     "published": "2026-08-18T01:03:58+00:00",
+     "summary": "Zambian President Hakainde Hichilema was declared the winner of the nation\u2019s elections, an outcome that investors will welcome as he sets out to build on economic successes in Africa\u2019s second-biggest copper producer."
+    }
+   ]
+  },
+  {
+   "id": "8818485042",
+   "topic": "Other",
+   "summary": "Jeanie Buss wants to remain as controlling owner Family were set to sell stake to Bob Iger and Josh Jushner Jeanie Buss is reportedly challenging her siblings\u2019 attempt to sell the family\u2019s remaining stake in the Los Angeles Lakers. Hours after the Buss family released a statement revealing their \u2060intention to sell their 17.8% ownership of the franchise to Bob Iger and Josh Kushner, CNBC and ESPN reported that Jeanie Buss\u2019s lawyer sought to halt her siblings\u2019 sale on \u2060legal grounds. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Jeanie Buss reportedly attempting to halt her siblings\u2019 attempt to sell remaining stake in Lakers",
+   "updated": "2026-08-18T03:19:57+00:00",
+   "outletCount": 4,
+   "counts": {
+    "nonprofit": 1,
+    "family": 3
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Jeanie Buss reportedly attempting to halt her siblings\u2019 attempt to sell remaining stake in Lakers",
+     "url": "https://www.theguardian.com/sport/2026/aug/17/jeanie-buss-reportedly-attempting-to-halt-her-siblings-attempt-to-sell-remaining-stake-in-lakers",
+     "author": "Reuters",
+     "kind": "news",
+     "published": "2026-08-18T03:19:57+00:00",
+     "summary": "Jeanie Buss wants to remain as controlling owner Family were set to sell stake to Bob Iger and Josh Jushner Jeanie Buss is reportedly challenging her siblings\u2019 attempt to sell the family\u2019s remaining stake in the Los Angeles Lakers. Hours after the Buss family released a statement revealing their \u2060intention to sell their 17.8% ownership of the franchise to Bob Iger and Josh Kushner, CNBC and ESPN reported that Jeanie Buss\u2019s lawyer sought to halt her siblings\u2019 sale on \u2060legal grounds. Continue reading..."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Jeanie Buss Opposes Reported Sale of the Lakers, Says Siblings Can't Without Her Approval",
+     "url": "https://www.breitbart.com/sports/2026/08/17/jeanie-buss-opposes-reported-sale-of-the-lakers-says-siblings-cant-without-her-approval/",
+     "author": "Paul Bois",
+     "kind": "news",
+     "published": "2026-08-18T03:19:33+00:00",
+     "summary": "Jeanie Buss reportedly opposes the sale of the Lakers, adding that her siblings cannot sell their stake without her approval. The post Jeanie Buss Opposes Reported Sale of the Lakers, Says Siblings Can&#8217;t Without Her Approval appeared first on Breitbart ."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Jeanie Buss\u2019 Is Contesting Siblings\u2019 Attempts To Sell Lakers\u2019 Share",
+     "url": "https://www.forbes.com/sites/markmedina/2026/08/17/jeanie-buss-is-contesting-siblings-attempts-to-sell-lakers-share/",
+     "author": "Mark Medina, Contributor",
+     "kind": "news",
+     "published": "2026-08-17T23:29:10+00:00",
+     "summary": "Jeanie Buss' lawyer has contested the Buss' family's attempts to sell its minority ownership shares of the Los Angeles Lakers"
+    },
+    {
+     "outlet": "latimes",
+     "title": "Jeanie Buss contests family sale of Lakers ownership stake to Bob Iger, Joshua Kushner",
+     "url": "https://www.latimes.com/sports/lakers/story/2026-08-17/lakers-jeanie-buss-family-selling-ownership-stake",
+     "author": "Thuc Nhi Nguyen",
+     "kind": "news",
+     "published": "2026-08-17T20:22:21+00:00",
+     "summary": "Jeanie Buss' attorney demanded her brothers retract statements the Buss family is selling its 17.8% ownership stake, citing a court ruling she is to be owner for life."
+    }
+   ]
+  },
+  {
    "id": "73c1cc2d7c",
    "topic": "Politics",
    "summary": "President, who has decried mail-in ballots amid false claims of election fraud, issued March order to curb voting by mail Donald Trump voted by mail in Florida\u2019s Republican primary, Politico reports, citing Palm Beach county voting records. The White House has confirmed the president\u2019s mail-in vote, according to the New York Times , which added that this is at least the third time the president has mailed his ballot. In March, the president signed an executive \u2060order restricting the \u200buse of mail-in ballots ahead of the November midterm elections that will decide control of US Congress. Trump has repeatedly criticized mail-in voting, calling for restrictions on the policy for years and falsely claiming that his 2020 election defeat was the result of widespread voter fraud. Continue reading...",
@@ -1525,66 +1785,6 @@
    ]
   },
   {
-   "id": "c42f35496d",
-   "topic": "Politics",
-   "summary": "CNN fired back at the White House on Monday after President Donald Trump 's rapid response team took aim at CNN White House correspondent Kristen Holmes. While Trump took questions from the Oval Office, Holmes asked him for his reaction to viral comments made by Sen. Jon Ossoff, D-Ga., who claimed Trump would rather \"build a ballroom and travel with [White House aide]\" Natalie [Harp]\" than do his job as president, to which Trump replied by calling him \"Pee-wee Herman.\" The Rapid Response 47 account on X slammed Holmes for invoking Ossoff's jab, which fueled online fodder for liberal critics pushing unfounded claims of an inappropriate relationship between Trump and Harp. TRUMP MEETS WITH TEEN LIFEGUARD AND BOY SAVED IN VIRAL OCEAN RESCUE AT OVAL OFFICE \"[Holmes] is a disgraceful, humiliating embarrassment to her alleged profession,\" the White House -run account wrote on X. \"@POTUS hosts\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "White House launches personal attack on CNN reporter over question to Trump",
-   "updated": "2026-08-18T02:04:28+00:00",
-   "outletCount": 4,
-   "counts": {
-    "nonprofit": 1,
-    "corp": 1,
-    "family": 2
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "White House launches personal attack on CNN reporter over question to Trump",
-     "url": "https://www.theguardian.com/us-news/2026/aug/17/white-house-personal-attack-cnn-reporter-trump",
-     "author": "Sam Levin",
-     "kind": "news",
-     "published": "2026-08-18T02:04:28+00:00",
-     "summary": "CNN says attack \u2018beneath the office\u2019 after Kristen Holmes asked president about Jon Ossoff\u2019s comments on key aide The White House launched a personal attack against a CNN reporter on Monday with a social media post that mentioned her children and accused her of asking a \u201cdisgusting and inhumane question\u201d. A White House post targeted Kristen Holmes, a senior White House correspondent for the network, after she asked Donald Trump to respond to a widely shared comment by Democratic senator Jon Ossoff in a speech on Sunday . Continue reading..."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "White House Goons Hurl Twisted Insult at Female CNN Star Abused by Trump",
-     "url": "https://www.thedailybeast.com/white-house-goons-hurl-twisted-insult-at-female-cnn-star-kristen-holmes-abused-by-trump/",
-     "author": "Cameron Adams",
-     "kind": "news",
-     "published": "2026-08-18T01:36:26+00:00",
-     "summary": "Kylie Cooper / REUTERS Donald Trump\u2019s goons have followed the lead of their boss to hurl twisted personal insults at a female CNN reporter for doing her job. During a press gaggle in the Oval Office on Monday, CNN\u2019s Kristen Holmes asked Trump about his shock decision to scale back joint U.S. and South Korea military drills, the day before they were due to begin. The president shouted \u201cQUIET!\u201d at Holmes , calling her \u201cdisrespectful\u201d before repeating, \u201cBE QUIET! BE QUIET! You\u2019re a fake reporter and you report fake news!\u201d Read more at The Daily Beast."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "CNN fires back at Trump White House over attacks on reporter, calls them 'beneath the office'",
-     "url": "https://www.foxnews.com/media/cnn-fires-back-trump-white-house-attacks-reporter-calls-beneath-office",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T22:44:20+00:00",
-     "summary": "CNN fired back at the White House on Monday after President Donald Trump 's rapid response team took aim at CNN White House correspondent Kristen Holmes. While Trump took questions from the Oval Office, Holmes asked him for his reaction to viral comments made by Sen. Jon Ossoff, D-Ga., who claimed Trump would rather \"build a ballroom and travel with [White House aide]\" Natalie [Harp]\" than do his job as president, to which Trump replied by calling him \"Pee-wee Herman.\" The Rapid Response 47 account on X slammed Holmes for invoking Ossoff's jab, which fueled online fodder for liberal critics pushing unfounded claims of an inappropriate relationship between Trump and Harp. TRUMP MEETS WITH TEEN LIFEGUARD AND BOY SAVED IN VIRAL OCEAN RESCUE AT OVAL OFFICE \"[Holmes] is a disgraceful, humiliating embarrassment to her alleged profession,\" the White House -run account wrote on X. \"@POTUS hosts a hero lifeguard in the Oval Office and she uses it as an opportunity to take a cheap shot about one of President Trump's staffers. These scumbags are the lowest of the low.\" \"Someday, your children will come across your disgusting and inhumane question. They will be sickened and embarrassed to have"
-    },
-    {
-     "outlet": "wapo",
-     "title": "Trump says White House needs \u2018military complex\u2019 as courts block his ballroom",
-     "url": "https://www.washingtonpost.com/politics/2026/08/16/trump-says-white-house-needs-military-complex-courts-block-his-ballroom/",
-     "author": "Dan Diamond",
-     "kind": "news",
-     "published": "2026-08-16T18:46:11+00:00",
-     "summary": "When Trump first unveiled his plans for the new East Wing addition, he said it was needed to host VIP guests. More recently, he is calling it a \u201cdesperately needed National Security structure.\u201d"
-    }
-   ]
-  },
-  {
    "id": "17ada2489d",
    "topic": "Justice & Policing",
    "summary": "Audio from the 911 call related to the death of \u201cNashville\u201d actress Hayden Panettiere, 36, shows that she was discovered unresponsive from an apparent cardiac arrest. According to a report from entertainment site TMZ , law enforcement received a call about an \u201cunresponsive female\u201d at 1:51 p.m. Sunday and were dispatched to a Greenville, South Carolina apartment. Responding paramedics administered \u201cadvanced cardiac life support\u201d but were ultimately unsuccessful in their attempts to revive her. Law enforcement officials stated that there was \u201cno sign of foul play,\u201d but said that an autopsy would be conducted on Monday to determine cause and manner of death. Fans are still reeling from the unexpected death of the 36-year-old actress, which was announced late Sunday night. Panettiere had just released her tell-all memoir, \u201cThis Is Me: A Reckoning,\u201d earlier this year. Her death occurred 5\u2026",
@@ -1641,66 +1841,6 @@
      "kind": "opinion",
      "published": "2026-08-17T08:36:45+00:00",
      "summary": "Audio from the 911 call related to the death of \u201cNashville\u201d actress Hayden Panettiere, 36, shows that she was discovered unresponsive from an apparent cardiac arrest. According to a report from entertainment site TMZ , law enforcement received a call about an \u201cunresponsive female\u201d at 1:51 p.m. Sunday and were dispatched to a Greenville, South Carolina apartment. Responding paramedics administered \u201cadvanced cardiac life support\u201d but were ultimately unsuccessful in their attempts to revive her. Law enforcement officials stated that there was \u201cno sign of foul play,\u201d but said that an autopsy would be conducted on Monday to determine cause and manner of death. Fans are still reeling from the unexpected death of the 36-year-old actress, which was announced late Sunday night. Panettiere had just released her tell-all memoir, \u201cThis Is Me: A Reckoning,\u201d earlier this year. Her death occurred 5 days before her 37th birthday. The former child star began acting in commercials when she was just 11 months old and later transitioned to films and television shows. Panettiere was best known for her breakout role as Claire Bennet, a high school cheerleader with healing powers, on the NBC superhero se"
-    }
-   ]
-  },
-  {
-   "id": "09929f3568",
-   "topic": "Politics",
-   "summary": "As the 60-day memorandum of understanding with Iran expired on Monday, President Donald Trump delivered a blunt message to the regime, while warning that if Oman gets in the way of U.S. efforts in the Strait of Hormuz, \u201cwe\u2019ll bomb the sh*t out of them.\u201d Speaking with Fox News , the president said Iran should &#8220;put up the white flag of surrender.&#8221; He said he has &#8220;no time schedule&#8221; and is &#8220;not in a hurry,&#8221; while emphasizing that Oman must not interfere. The ongoing naval blockade, he made clear, will keep grinding economic pressure on the regime even as Iranian officials talk tough in public. Trump described the Iranians as \u201cgood poker players, but they\u2019re dying.\u201d The blockade is already exacting a real cost, and the domestic midterms are irrelevant to how he forms his approach. He confirmed that American officials are maintaining a direct back channel\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Middle East live: Trump threatens to bomb Oman if they get in way of Hormuz shipping deal",
-   "updated": "2026-08-18T00:56:26+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 2,
-    "corp": 1,
-    "pub": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Trump Threatens a Middle East Mediator",
-     "url": "https://www.nytimes.com/2026/08/17/briefing/trump-threatens-a-middle-east-mediator.html",
-     "author": "Matthew Cullen",
-     "kind": "news",
-     "published": "2026-08-18T00:56:26+00:00",
-     "summary": "Also, killings plunge in Baltimore. Here\u2019s the latest at the end of Monday."
-    },
-    {
-     "outlet": "slate",
-     "title": "Donald Trump Promised to Keep Us Out of Protracted Wars of Choice in the Middle East. We Are Now in a Protracted War of Choice in the Middle East.",
-     "url": "https://slate.com/news-and-politics/2026/08/trump-iran-war-peace-oman.html?via=rss",
-     "author": "Ian Prasad Philbrick",
-     "kind": "news",
-     "published": "2026-08-17T21:35:48+00:00",
-     "summary": "Iran\u2019s supreme leader appears behind Donald Trump"
-    },
-    {
-     "outlet": "france24",
-     "title": "Middle East live: Trump threatens to bomb Oman if they get in way of Hormuz shipping deal",
-     "url": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-17T12:09:55+00:00",
-     "summary": null
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Trump Threatens To Bomb Another Middle Eastern Country",
-     "url": "https://www.dailywire.com/news/trump-threatens-to-bomb-another-middle-eastern-country",
-     "author": "Leona Salinas",
-     "kind": "opinion",
-     "published": "2026-08-17T10:29:21+00:00",
-     "summary": "As the 60-day memorandum of understanding with Iran expired on Monday, President Donald Trump delivered a blunt message to the regime, while warning that if Oman gets in the way of U.S. efforts in the Strait of Hormuz, \u201cwe\u2019ll bomb the sh*t out of them.\u201d Speaking with Fox News , the president said Iran should &#8220;put up the white flag of surrender.&#8221; He said he has &#8220;no time schedule&#8221; and is &#8220;not in a hurry,&#8221; while emphasizing that Oman must not interfere. The ongoing naval blockade, he made clear, will keep grinding economic pressure on the regime even as Iranian officials talk tough in public. Trump described the Iranians as \u201cgood poker players, but they\u2019re dying.\u201d The blockade is already exacting a real cost, and the domestic midterms are irrelevant to how he forms his approach. He confirmed that American officials are maintaining a direct back channel with the Islamic Revolutionary Guard Corps, speaking not only with the political leadership in Tehran but with the IRGC officials themselves. On the military side, the president called what the United States has used so far against Iran \u201cpeanuts.\u201d The U.S. still holds significant hoards of mid-level w"
     }
    ]
   },
@@ -2014,57 +2154,6 @@
    ]
   },
   {
-   "id": "8818485042",
-   "topic": "Other",
-   "summary": "Jeanie Buss wants to remain as controlling owner Family were set to sell stake to Bob Iger and Josh Jushner Jeanie Buss is reportedly challenging her siblings\u2019 attempt to sell the family\u2019s remaining stake in the Los Angeles Lakers. Hours after the Buss family released a statement revealing their \u2060intention to sell their 17.8% ownership of the franchise to Bob Iger and Josh Kushner, CNBC and ESPN reported that Jeanie Buss\u2019s lawyer sought to halt her siblings\u2019 sale on \u2060legal grounds. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Jeanie Buss reportedly attempting to halt her siblings\u2019 attempt to sell remaining stake in Lakers",
-   "updated": "2026-08-18T03:19:57+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 1,
-    "family": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Jeanie Buss reportedly attempting to halt her siblings\u2019 attempt to sell remaining stake in Lakers",
-     "url": "https://www.theguardian.com/sport/2026/aug/17/jeanie-buss-reportedly-attempting-to-halt-her-siblings-attempt-to-sell-remaining-stake-in-lakers",
-     "author": "Reuters",
-     "kind": "news",
-     "published": "2026-08-18T03:19:57+00:00",
-     "summary": "Jeanie Buss wants to remain as controlling owner Family were set to sell stake to Bob Iger and Josh Jushner Jeanie Buss is reportedly challenging her siblings\u2019 attempt to sell the family\u2019s remaining stake in the Los Angeles Lakers. Hours after the Buss family released a statement revealing their \u2060intention to sell their 17.8% ownership of the franchise to Bob Iger and Josh Kushner, CNBC and ESPN reported that Jeanie Buss\u2019s lawyer sought to halt her siblings\u2019 sale on \u2060legal grounds. Continue reading..."
-    },
-    {
-     "outlet": "forbes",
-     "title": "Jeanie Buss\u2019 Is Contesting Siblings\u2019 Attempts To Sell Lakers\u2019 Share",
-     "url": "https://www.forbes.com/sites/markmedina/2026/08/17/jeanie-buss-is-contesting-siblings-attempts-to-sell-lakers-share/",
-     "author": "Mark Medina, Contributor",
-     "kind": "news",
-     "published": "2026-08-17T23:29:10+00:00",
-     "summary": "Jeanie Buss' lawyer has contested the Buss' family's attempts to sell its minority ownership shares of the Los Angeles Lakers"
-    },
-    {
-     "outlet": "latimes",
-     "title": "Jeanie Buss contests family sale of Lakers ownership stake to Bob Iger, Joshua Kushner",
-     "url": "https://www.latimes.com/sports/lakers/story/2026-08-17/lakers-jeanie-buss-family-selling-ownership-stake",
-     "author": "Thuc Nhi Nguyen",
-     "kind": "news",
-     "published": "2026-08-17T20:22:21+00:00",
-     "summary": "Jeanie Buss' attorney demanded her brothers retract statements the Buss family is selling its 17.8% ownership stake, citing a court ruling she is to be owner for life."
-    }
-   ]
-  },
-  {
    "id": "7957e10d16",
    "topic": "Other",
    "summary": "MPs, friends and campaigners gathered to remember former Cambridge professor after his death on Friday Tens of thousands of people gathered in Trafalgar Square in London to remember and pay tribute to Jason Arday, the former Cambridge professor who died on Friday. Stand Up to Racism, which organised the vigil, estimated that 30,000 mourners had gathered in the square to listen to emotional speeches from MPs, friends and campaigners on Arday\u2019s life and legacy and join in a minute\u2019s silence. Many were dressed in black and held flowers, which they were asked to leave beneath Nelson\u2019s column. People also carried placards reading \u201crest in power\u201d. Continue reading...",
@@ -2371,108 +2460,6 @@
    ]
   },
   {
-   "id": "fdcb93cb66",
-   "topic": "Politics",
-   "summary": "Zambian President Hakainde Hichilema won a second term on Tuesday after campaigning on his record of economic recovery, including a major debt restructuring deal. The 64-year-old faces pressure to deliver more jobs and opportunities as critics accuse his government of failing to ease poverty and becoming less tolerant of dissent.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Zambia's president Hichilema wins re-election with big economic promises",
-   "updated": "2026-08-18T01:22:51+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "france24",
-     "title": "Zambia's president Hichilema wins re-election with big economic promises",
-     "url": "https://www.france24.com/en/africa/20260818-zambia-president-hichilema-wins-re-election-with-big-economic-promises",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-18T01:22:51+00:00",
-     "summary": "Zambian President Hakainde Hichilema won a second term on Tuesday after campaigning on his record of economic recovery, including a major debt restructuring deal. The 64-year-old faces pressure to deliver more jobs and opportunities as critics accuse his government of failing to ease poverty and becoming less tolerant of dissent."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Zambia\u2019s Hichilema wins second term as president",
-     "url": "https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-18T01:17:50+00:00",
-     "summary": "Official results show Hichilema receiving about 60 percent of votes, compared with \u206038 percent for his main challenger."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Zambia\u2019s Pro-Business President Secures Second Term in Election",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-18/zambia-s-pro-business-president-secures-second-term-in-election",
-     "author": "Matthew Hill and Taonga Mitimingi",
-     "kind": "news",
-     "published": "2026-08-18T01:03:58+00:00",
-     "summary": "Zambian President Hakainde Hichilema was declared the winner of the nation\u2019s elections, an outcome that investors will welcome as he sets out to build on economic successes in Africa\u2019s second-biggest copper producer."
-    }
-   ]
-  },
-  {
-   "id": "444a69aead",
-   "topic": "Justice & Policing",
-   "summary": "More than a dozen Penn Staters are charged in connection with an alleged massive cocaine distribution ring as one of the alleged ringleaders, Agostino Abbatiello, 24, of Westbury, New York remains at large. Pennsylvania Attorney General Dave Sunday announced that Abbatiello is among 14 people who are facing charges related to the coke trafficking operation where students and two off-campus fraternities were allegedly involved. \"In all, 13 defendants were Penn State University students at or around the time of the alleged conduct, in 2023 and 2024. The 14th defendant, the father of a student, is charged with tampering with evidence and hindering the investigation,\" the Attorney General's office said. SUSPECT ARRESTED FOR ALLEGEDLY RUNNING METH LAB AT MICHIGAN STATE UNIVERSITY\u2019S LARGEST ACADEMIC BUILDING In the Monday announcement, the AG said suspects Abbatiello and Thomas Robinson were\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Penn State frat brothers charged with running cocaine trafficking ring",
-   "updated": "2026-08-18T00:34:00+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 2,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Penn State frat brothers charged with running cocaine trafficking ring",
-     "url": "https://www.cbsnews.com/news/penn-state-fraternity-cocaine-trafficking-ring/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-18T00:34:00+00:00",
-     "summary": "Two Penn State fraternities are at the center of a cocaine trafficking ring bust, leading to charges against 14 people, authorities said."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Penn State cocaine bust nets 14 arrests over alleged pledge coke-cutting \u2018indoctrination' rituals",
-     "url": "https://www.foxnews.com/us/penn-state-cocaine-bust-nets-14-arrests-over-alleged-pledge-coke-cutting-indoctrination-rituals",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T23:36:26+00:00",
-     "summary": "More than a dozen Penn Staters are charged in connection with an alleged massive cocaine distribution ring as one of the alleged ringleaders, Agostino Abbatiello, 24, of Westbury, New York remains at large. Pennsylvania Attorney General Dave Sunday announced that Abbatiello is among 14 people who are facing charges related to the coke trafficking operation where students and two off-campus fraternities were allegedly involved. \"In all, 13 defendants were Penn State University students at or around the time of the alleged conduct, in 2023 and 2024. The 14th defendant, the father of a student, is charged with tampering with evidence and hindering the investigation,\" the Attorney General's office said. SUSPECT ARRESTED FOR ALLEGEDLY RUNNING METH LAB AT MICHIGAN STATE UNIVERSITY\u2019S LARGEST ACADEMIC BUILDING In the Monday announcement, the AG said suspects Abbatiello and Thomas Robinson were the main coke suppliers. They allegedly made regular trips to Philadelphia and New York to pick up \"large quantities\" of the illegal drug. Members of the Delta Upsilon and Sigma Chi fraternities allegedly cut and packaged the coke inside their frat houses off campus and distributed it to Penn State s"
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Penn State students accused of running drug ring out of off-campus fraternities",
-     "url": "https://www.nbcnews.com/news/us-news/penn-state-students-accused-running-drug-ring-campus-fraternities-rcna592990",
-     "author": "David Chang, NBC Philadelphia",
-     "kind": "news",
-     "published": "2026-08-17T19:44:16+00:00",
-     "summary": "More than a dozen Penn State University students are accused of packaging and selling cocaine as part of a multistate drug operation."
-    }
-   ]
-  },
-  {
    "id": "78b0c6a52f",
    "topic": "Other",
    "summary": "Hayden Panettiere appears on NBC's \"Today Show\" on Sept. 24, 2024. \u2014Nathan Congleton\u2014NBC via Getty Images Hayden Panettiere , who is best known for her starring roles in TV shows like Heroes and Nashville , died on Sunday at age 36. She leaves behind a daughter, Kaya Evdokia Klitschko, who is 11. In a statement to TIME, Greenville Police say that officers \u201cresponded to a report of an unresponsive female\u201d at an address in Greenville, South Carolina , just before 2 p.m. \u201cUpon arrival, medical assistance was administered; however, the individual, later identified as Hayden Panettiere, was pronounced deceased at the scene,\u201d the statement reads. Read More: Hayden Panettiere\u2019s Life Since Becoming a Mom Has \u2018Evolved in a Beautiful Way\u2019 Greenville Police also confirm that \u201cthe preliminary investigation has not indicated any signs of foul play or suspicious circumstances\u201d and that \u201can\u2026",
@@ -2571,57 +2558,6 @@
      "kind": "news",
      "published": "2026-08-17T15:35:47+00:00",
      "summary": "Tropical storm warnings remain for some of the state's islands, as the storm is due to progress west."
-    }
-   ]
-  },
-  {
-   "id": "8aea27a9e2",
-   "topic": "World",
-   "summary": "President Trump adviser Jared Kushner told Israeli Prime Minister Benjamin Netanyahu on Monday that the U.S. wants Israel to take \"small steps\" in Gaza to test whether Hamas' commitment to start disarming is genuine, a U.S. official said. Why it matters: The four-hour meeting took place amid deep skepticism from Netanyahu about the U.S. plan for Gaza \u2014 and ahead of an October election that makes the Israeli leader reluctant to offer significant concessions on the politically sensitive issue. While the meeting helped clarify misunderstandings, addressed some of Netanyahu's concerns and produced a joint understanding on how to move forward, it also crystallized the remaining differences and made clear how difficult near-term progress will be. Driving the news: Kushner arrived in Israel after meetings in Egypt Sunday with Hamas leaders and with the Egyptian, Qatari and Turkish mediators.\u2026",
-   "summaryFrom": "axios",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "\u2018We will not allow Gaza to be rebuilt\u2019 until Hamas disarms, Kushner says",
-   "updated": "2026-08-17T23:25:17+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "corp": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "\u2018We will not allow Gaza to be rebuilt\u2019 until Hamas disarms, Kushner says",
-     "url": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-17T23:25:17+00:00",
-     "summary": "Trump&#039;s son-in-law and envoy says US will not &#039;restrict Israel&#039;s right to defend itself&#039; as strikes on Gaza continue."
-    },
-    {
-     "outlet": "axios",
-     "title": "Kushner urges Netanyahu to test Hamas disarmament in Gaza",
-     "url": "https://www.axios.com/2026/08/17/kushner-netanyahu-hamas-gaza",
-     "author": "Barak Ravid",
-     "kind": "news",
-     "published": "2026-08-17T18:41:29+00:00",
-     "summary": "President Trump adviser Jared Kushner told Israeli Prime Minister Benjamin Netanyahu on Monday that the U.S. wants Israel to take \"small steps\" in Gaza to test whether Hamas' commitment to start disarming is genuine, a U.S. official said. Why it matters: The four-hour meeting took place amid deep skepticism from Netanyahu about the U.S. plan for Gaza \u2014 and ahead of an October election that makes the Israeli leader reluctant to offer significant concessions on the politically sensitive issue. While the meeting helped clarify misunderstandings, addressed some of Netanyahu's concerns and produced a joint understanding on how to move forward, it also crystallized the remaining differences and made clear how difficult near-term progress will be. Driving the news: Kushner arrived in Israel after meetings in Egypt Sunday with Hamas leaders and with the Egyptian, Qatari and Turkish mediators. Kushner brought a delegation to the meeting with Netanyahu that included the High Representative of Trump's Gaza Board of Peace, Nikolay Mladenov, as well as former British Prime Minister Tony Blair and Board of Peace senior advisers Aryeh Lightstone and Liran Tancman. During the meeting, Netanyahu ex"
-    },
-    {
-     "outlet": "france24",
-     "title": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
-     "url": "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-17T18:14:46+00:00",
-     "summary": "Israeli Prime Minister Benjamin Netanyahu and US envoy Jared Kushner agreed Monday that an American general would oversee the disarmament of Hamas, an Israeli official said, as Netanyahu insisted Israel would not withdraw from Gaza until the group gives up its weapons.The understanding comes as President Donald Trump\u2019s administration seeks to revive its Gaza peace plan amid tensions with Netanyahu."
     }
    ]
   },
@@ -2881,6 +2817,48 @@
    ]
   },
   {
+   "id": "a32a752f39",
+   "topic": "Other",
+   "summary": "Two students, including the shooter, have been killed and at least two others wounded at a private university campus in the southern port city of Zamboanga.",
+   "summaryFrom": "dw",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Philippines: student livestreams school shooting",
+   "updated": "2026-08-18T04:27:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "Philippines: student livestreams school shooting",
+     "url": "https://www.dw.com/en/philippines-student-livestreams-school-shooting/a-78406343?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-18T04:27:00+00:00",
+     "summary": "Two students, including the shooter, have been killed and at least two others wounded at a private university campus in the southern port city of Zamboanga."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Two students killed in Philippines school shooting",
+     "url": "https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-18T02:51:22+00:00",
+     "summary": "Mayor Khymer Adan Olaso says the casualties in Zamboanga were both students and included the gunman."
+    }
+   ]
+  },
+  {
    "id": "28bf93059c",
    "topic": "Culture & Sport",
    "summary": "Cam Skattebo got honest about how last year&#039;s season-ending injury affects him now that he&#039;s back on the field for the Giants.",
@@ -3003,6 +2981,48 @@
      "kind": "news",
      "published": "2026-08-17T23:37:25+00:00",
      "summary": "NBC / Nathan Congleton/NBC via Getty I Human remains found in the vicinity of Nancy Guthrie\u2019s home don\u2019t appear to be related to her disappearance, police said Monday. The Pima County Sheriff\u2019s Department, in a statement seven months into the search for the 84-year-old mother of Today show co-host Savannah Guthrie, acknowledged that the remains bring investigators no closer to finding the person or people responsible for her kidnapping. Read more at The Daily Beast."
+    }
+   ]
+  },
+  {
+   "id": "ff26854d7d",
+   "topic": "Culture & Sport",
+   "summary": "The WNBA admitted Monday that league security improperly forced a mother and her teenage daughter to cover their XX-XY Athletics shirts during Sunday's game between the Indiana Fever and Atlanta Dream. \"The WNBA is aware of interactions at last night's game in Atlanta in which fans were asked by league security to cover their shirts,\" a WNBA spokesperson said in a statement provided to OutKick. \"This should not have happened.\" The Dream also responded Monday, distancing the organization from the security decision and placing responsibility with the league. \"The Atlanta Dream believes in creating a safe and inclusive environment for everyone. Unfortunately, at last night's game, WNBA security took actions that fell short of that standard. At no point was Dream personnel involved in the decisions made by WNBA security,\" the team said. The Dream also pointed to the WNBA's statement\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "WNBA Admits Security in Atlanta Was Wrong for Asking Mother and Daughter to Cover 'XX-XY Athletics' Shirt",
+   "updated": "2026-08-18T03:36:48+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "WNBA Admits Security in Atlanta Was Wrong for Asking Mother and Daughter to Cover 'XX-XY Athletics' Shirt",
+     "url": "https://www.breitbart.com/sports/2026/08/17/wnba-admits-security-atlanta-was-wrong-asking-mother-daughter-cover-xx-xy-athletics-shirt/",
+     "author": "Paul Bois",
+     "kind": "news",
+     "published": "2026-08-18T03:36:48+00:00",
+     "summary": "The WNBA criticized security at the Atlanta Gateway Center Arena telling a mother and daughter to cover their \"XX-XY Athletics\" shirt. The post WNBA Admits Security in Atlanta Was Wrong for Asking Mother and Daughter to Cover &#8216;XX-XY Athletics&#8217; Shirt appeared first on Breitbart ."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "WNBA admits security in Atlanta was wrong to make fans cover shirts at Dream-Fever game",
+     "url": "https://www.foxnews.com/outkick-sports/wnba-admits-security-atlanta-wrong-make-fans-cover-shirts-dream-fever-game",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-17T21:50:17+00:00",
+     "summary": "The WNBA admitted Monday that league security improperly forced a mother and her teenage daughter to cover their XX-XY Athletics shirts during Sunday's game between the Indiana Fever and Atlanta Dream. \"The WNBA is aware of interactions at last night's game in Atlanta in which fans were asked by league security to cover their shirts,\" a WNBA spokesperson said in a statement provided to OutKick. \"This should not have happened.\" The Dream also responded Monday, distancing the organization from the security decision and placing responsibility with the league. \"The Atlanta Dream believes in creating a safe and inclusive environment for everyone. Unfortunately, at last night's game, WNBA security took actions that fell short of that standard. At no point was Dream personnel involved in the decisions made by WNBA security,\" the team said. The Dream also pointed to the WNBA's statement acknowledging that the fans should not have been asked to cover their shirts. The WNBA's admission is as damning as it is simple: its own security forced paying fans to cover shirts supporting women's sports. MOM AND DAUGHTER TOLD TO COVER UP XX-XY T-SHIRTS, SAY THEY WERE THREATENED WITH EJECTION AT FEVER-D"
     }
    ]
   },
@@ -3511,48 +3531,6 @@
    ]
   },
   {
-   "id": "ad88553452",
-   "topic": "World",
-   "summary": "British-made drones have been used for the first time, prompting Moscow to make one of its periodic allusions to the threat of nuclear war. The post Russia Hypes &#8216;Nuclear War&#8217; Threat After British Drones Launched By Ukraine For First Time appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Russia warns UK over supplying drones to Ukraine",
-   "updated": "2026-08-18T01:16:41+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Russia warns UK over supplying drones to Ukraine",
-     "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-18T01:16:41+00:00",
-     "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Russia Hypes 'Nuclear War' Threat After British Drones Launched By Ukraine For First Time",
-     "url": "https://www.breitbart.com/europe/2026/08/17/russia-hypes-nuclear-war-threat-after-british-drones-launched-by-ukraine-for-first-time/",
-     "author": "Oliver JJ Lane",
-     "kind": "news",
-     "published": "2026-08-17T17:02:04+00:00",
-     "summary": "British-made drones have been used for the first time, prompting Moscow to make one of its periodic allusions to the threat of nuclear war. The post Russia Hypes &#8216;Nuclear War&#8217; Threat After British Drones Launched By Ukraine For First Time appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
    "id": "c365513f4e",
    "topic": "Politics",
    "summary": "When COVID hit in March 2020, I was living in Los Angeles. What I saw there changed the course of my life. It became clear almost immediately that local officials in California weren't following the science. They were following the politics. Every decision, every mandate, every shutdown got filtered through one lens: how do we use this crisis to fight back against Trump and Republicans? Californians paid for that calculation. Businesses shuttered. Kids lost years of school. Families lost everything they'd built. I watched it happen in real time. Florida went a different way. Governor Ron DeSantis stood firm. While Dr. Anthony Fauci pushed school closures, vaccine mandates, and business lockdowns, DeSantis said no. He signed executive orders and legislation suspending every local COVID mandate on Florida 's citizens and businesses, and put into state law the presumption that schools stay\u2026",
@@ -3759,6 +3737,48 @@
      "kind": "news",
      "published": "2026-08-17T08:50:00+00:00",
      "summary": "A recent poll showed overwhelming support from Wyomingites for public land. A new PAC is hoping to capitalize. By Jake Bolster Wyoming\u2019s cherished open spaces appear to be at the forefront of voters\u2019 minds as they head to the polls in an election that could decide whether public lands continue to come under scrutiny from state lawmakers."
+    }
+   ]
+  },
+  {
+   "id": "f848ca7caa",
+   "topic": "Politics",
+   "summary": "The Justice Department plans to send 1,000 monitors to watch voting during the midterm elections in November, a historic figure for a Republican administration, Assistant Attorney General Harmeet Dhillon said.",
+   "summaryFrom": "bloomberg",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Justice Department plans to send about 1,000 monitors to the polls this fall",
+   "updated": "2026-08-17T23:36:42+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "wapo",
+     "title": "Justice Department plans to send about 1,000 monitors to the polls this fall",
+     "url": "https://www.washingtonpost.com/politics/2026/08/17/justice-department-plans-send-about-1000-monitors-polls-this-fall/",
+     "author": "Patrick Marley",
+     "kind": "news",
+     "published": "2026-08-17T23:36:42+00:00",
+     "summary": "The move to send 1,000 poll monitors is likely the largest number under a Republican president, a DOJ official said."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "DOJ Plans to Deploy 1,000 Monitors to Watch Midterm Elections",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-17/doj-plans-to-deploy-1-000-monitors-to-watch-midterm-elections",
+     "author": "Jimmy Jenkins and Chris Strohm",
+     "kind": "news",
+     "published": "2026-08-17T20:34:58+00:00",
+     "summary": "The Justice Department plans to send 1,000 monitors to watch voting during the midterm elections in November, a historic figure for a Republican administration, Assistant Attorney General Harmeet Dhillon said."
     }
    ]
   }
