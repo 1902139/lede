@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T03:11:26.862469+00:00",
+ "generated": "2026-08-20T04:00:11.880796+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -15,10 +15,10 @@
     "big": [
      "operation",
      "warfare",
-     "d-day",
-     "unprecedented",
-     "taken",
-     "ever"
+     "negotiations",
+     "help",
+     "countries",
+     "pressure"
     ],
     "indie": [
      "helping"
@@ -26,12 +26,12 @@
    },
    "absent": [],
    "headline": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-   "updated": "2026-08-20T02:16:49+00:00",
+   "updated": "2026-08-20T03:57:06+00:00",
    "outletCount": 13,
    "counts": {
+    "corp": 3,
     "pub": 3,
-    "family": 7,
-    "corp": 2,
+    "family": 6,
     "nonprofit": 1,
     "coop": 1
    },
@@ -40,22 +40,22 @@
    "underreported": false,
    "articles": [
     {
+     "outlet": "cbsnews",
+     "title": "Trump announces \"crushing economic operation\" on Iran as talks in limbo",
+     "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T03:57:06+00:00",
+     "summary": "President Trump said Wednesday the U.S. might return to negotiations with Iran eventually, but said currently \"the situation is so good.\""
+    },
+    {
      "outlet": "bbc",
      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-20T02:16:49+00:00",
+     "published": "2026-08-20T03:22:57+00:00",
      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict."
-    },
-    {
-     "outlet": "nypost",
-     "title": "Trump announces \u2018Economic D-Day\u2019 against Iran: \u2018Most crushing economic operation ever taken\u2019",
-     "url": "https://nypost.com/2026/08/19/us-news/trump-announces-economic-d-day-against-iran-most-crushing-economic-operation-ever-taken/",
-     "author": "Victor Nava",
-     "kind": "news",
-     "published": "2026-08-20T01:56:53+00:00",
-     "summary": "\u201cTherefore, today, I am announcing the MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY!\" Trump announced. \u201cThis will be Economic Warfare and Isolation on an unprecedented scale.\u201d"
     },
     {
      "outlet": "nyt",
@@ -168,41 +168,48 @@
    ]
   },
   {
-   "id": "7a619f5847",
-   "topic": "World",
+   "id": "bb3f55a467",
+   "topic": "Justice & Policing",
    "summary": "Prince Harry and Meghan Markle are heading back across the pond. Jonathan Brady / POOL / AFP Prince Harry and Meghan Markle are moving back to the UK. They will live in a private residence and enroll their children in a school in the UK. The news comes after years of strain in the couple's relationship with the royal family. Prince Harry and Meghan Markle are moving back to the UK. On Wednesday, People reported that the couple would be moving back to Britain \"for an extended period of time\" with their children, Prince Archie, 7, and Princess Lilibet, 5. The Duke and Duchess of Sussex won't return to their royal duties, which they stepped back from in January 2020, but they plan to live near London. The move will put them in proximity to King Charles, Prince William, and the rest of the royal family for the first time in over six years. Harry, 41, and Meghan, 45, have had a strained\u2026",
    "summaryFrom": "businessinsider",
    "emphasis": {
-    "bigCount": 8,
-    "indieCount": 2,
+    "bigCount": 11,
+    "indieCount": 3,
     "big": [
      "family",
-     "markle",
      "away",
      "kingdom",
-     "residence",
-     "pond"
+     "planned",
+     "timeline",
+     "earlier"
     ],
-    "indie": [
-     "expected"
-    ]
+    "indie": []
    },
    "absent": [
     "coop"
    ],
-   "headline": "Prince Harry and Meghan \u2018moving back to Britain this month\u2019",
-   "updated": "2026-08-20T02:15:14+00:00",
-   "outletCount": 10,
+   "headline": "Harry and Meghan moving back to Britain: reports",
+   "updated": "2026-08-20T03:10:00+00:00",
+   "outletCount": 12,
    "counts": {
-    "family": 5,
+    "pub": 2,
+    "family": 7,
     "nonprofit": 1,
-    "corp": 3,
-    "pub": 1
+    "corp": 4
    },
-   "newsCount": 9,
+   "newsCount": 13,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "dw",
+     "title": "Harry and Meghan moving back to Britain: reports",
+     "url": "https://www.dw.com/en/harry-and-meghan-moving-back-to-britain-reports/a-78438052?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T03:10:00+00:00",
+     "summary": "Prince Harry and Meghan Markle will return to the UK after living in the US for over six years, according to reports. The former senior royals will reportedly live in a private residence."
+    },
     {
      "outlet": "nyt",
      "title": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
@@ -211,6 +218,15 @@
      "kind": "news",
      "published": "2026-08-20T02:15:14+00:00",
      "summary": "The prince and his wife, whose relations with King Charles and the rest of the royal family have long been strained, will remain non-working royals, according to a person familiar with the decision."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Harry and Meghan\u2019s Break with Britain and Planned Return: a Timeline",
+     "url": "https://www.nytimes.com/2026/08/19/world/europe/harry-meghan-uk-royals-timeline.html",
+     "author": "Ephrat Livni",
+     "kind": "news",
+     "published": "2026-08-20T01:58:03+00:00",
+     "summary": "Meghan, Duchess of Sussex, and Prince Harry, Duke of Sussex, posed for a selfie with children and their families during a visit to the Royal Children\u2019s Hospital in Melbourne, Australia, earlier this year."
     },
     {
      "outlet": "guardian",
@@ -247,6 +263,15 @@
      "kind": "news",
      "published": "2026-08-19T23:27:00+00:00",
      "summary": "The couple said in January 2020 that they would be stepping away from \"senior\" royal roles\u200b and were working to become financially independent from the royal family."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Harry and Meghan set to return to UK",
+     "url": "https://www.nbcnews.com/nightly-news/video/harry-and-meghan-set-to-return-to-uk-268559941528",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T23:10:47+00:00",
+     "summary": "The Duke and Duchess of Sussex are expected to move back to the UK. The Telegraph newspaper reports that six years after they stepped down as working royals, they will make the UK their primary base with their children. NBC News\u2019 Daniele Hamamdjian has more."
     },
     {
      "outlet": "foxnews",
@@ -292,6 +317,15 @@
      "kind": "opinion",
      "published": "2026-08-19T19:33:33+00:00",
      "summary": "In a royal surprise, Prince Harry and Duchess Meghan Markle plan to leave California and establish a home base in the United Kingdom, British media reported Wednesday. The couple and their two children, Prince Archie, 7, and Princess Lilibet, 5, will head back across the pond later this month after giving up their senior royal roles and settling in California during the coronavirus pandemic, The Telegraph reported. With the children set to start school in September, the couple is expected to keep their homes in Montecito, California, and Portugal. The move comes after years of bitter tensions between Harry and his estranged royal family \u2014 and just months after a low-key British trip that nonetheless caught the attention of royal watchers. In July, King Charles III privately met with Prince Harry, Meghan Markle, and their two children in the first family gathering since the royal rift erupted several years ago, The Daily Wire previously reported. The king and Queen Camilla met with the Duke and Duchess of Sussex, Prince Archie, and Princess Lilibet at the Highgrove House country estate. Relations deteriorated after Harry and Meghan\u2019s bombshell 2021 interview with Oprah Winfrey, in w"
+    },
+    {
+     "outlet": "wapo",
+     "title": "Woman who planned to kill Treasury Secretary Bessent gets six years in prison",
+     "url": "https://www.washingtonpost.com/politics/2026/08/18/woman-who-planned-kill-treasury-secretary-bessent-gets-six-years/",
+     "author": "Salvador Rizzo",
+     "kind": "news",
+     "published": "2026-08-18T21:26:24+00:00",
+     "summary": "Riley English of Massachusetts turned herself in after arriving at the Capitol with miniature molotov cocktails just before Scott Bessent\u2019s Senate confirmation."
     }
    ]
   },
@@ -306,10 +340,10 @@
     "big": [
      "reporters",
      "meeting",
-     "white",
      "impromptu",
      "house",
-     "request"
+     "white",
+     "denied"
     ],
     "indie": [
      "claimed"
@@ -411,6 +445,125 @@
      "kind": "opinion",
      "published": "2026-08-19T16:15:56+00:00",
      "summary": "President Donald Trump offered a remarkably specific assessment of North Korea&#8217;s secretive nuclear arsenal on Wednesday, saying dictator Kim Jong Un has 57 nuclear weapons as he confirmed plans for another meeting with the North Korean leader. Trump made the comments during an impromptu meeting with reporters while touring a new White House helipad, where he was asked whether the two leaders would meet again. The reporter began by asking whether or not Trump had been exchanging letters with Kim, and while the president refused to answer that question, he asserted that it was a good thing to have a working relationship with a leader who has nuclear weapons. &#8220;I can\u2019t tell you that,\u201d Trump said of any possible correspondence. &#8220;But I get along with him. And you know what? The fact that I get along with him, that\u2019s a good thing, not a bad thing.&#8221; &#8220;He has 57 very powerful nuclear weapons. They should have never allowed it to happen. They should&#8217;ve never allowed it,&#8221; Trump continued. &#8220;If I were president [then] I wouldn&#8217;t have allowed it, but he&#8217;s got them.&#8221; The figure was notably more precise than American officials typica"
+    }
+   ]
+  },
+  {
+   "id": "25fca336f7",
+   "topic": "Politics",
+   "summary": "Heidi Overton during an executive order signing in the Oval Office of the White House in Washington, D.C., on Aug. 10, 2026. \u2014Bonnie Cash\u2014UPI/Bloomberg/Getty Images President Donald Trump announced on Wednesday that he was tapping Dr. Heidi Overton to lead the U.S. Food and Drug Administration (FDA), the health agency responsible for overseeing the safety and effectiveness of products including food, drugs, and medical devices. \u201cDr. Heidi has been a ROCKSTAR in my Administration, where she has worked directly with Secretary Kennedy, Dr. Oz, and team, to deliver on the MOST TRANSFORMATIVE Health Agenda in History,\u201d the President said in a Truth Social post . \u201cWe need her leadership at the FDA now to ensure that the U.S. remains the WORLD LEADER for Scientific Discovery and CURES.\u201d He went on to say that, in the role, Overton would work with Health and Human Services Secretary Robert F.\u2026",
+   "summaryFrom": "time",
+   "emphasis": {
+    "bigCount": 6,
+    "indieCount": 3,
+    "big": [
+     "wednesday",
+     "announced",
+     "nominee",
+     "agency",
+     "deputy",
+     "domestic"
+    ],
+    "indie": [
+     "nominates"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
+   "updated": "2026-08-19T23:05:56+00:00",
+   "outletCount": 8,
+   "counts": {
+    "family": 3,
+    "nonprofit": 2,
+    "corp": 3,
+    "pub": 1
+   },
+   "newsCount": 9,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "time",
+     "title": "Who Is Heidi Overton, Trump\u2019s Nominee to Lead the FDA?",
+     "url": "https://time.com/article/2026/08/19/heidi-overton-trump-fda-nominee/",
+     "author": "Chantelle Lee",
+     "kind": "news",
+     "published": "2026-08-19T23:05:56+00:00",
+     "summary": "Heidi Overton during an executive order signing in the Oval Office of the White House in Washington, D.C., on Aug. 10, 2026. \u2014Bonnie Cash\u2014UPI/Bloomberg/Getty Images President Donald Trump announced on Wednesday that he was tapping Dr. Heidi Overton to lead the U.S. Food and Drug Administration (FDA), the health agency responsible for overseeing the safety and effectiveness of products including food, drugs, and medical devices. \u201cDr. Heidi has been a ROCKSTAR in my Administration, where she has worked directly with Secretary Kennedy, Dr. Oz, and team, to deliver on the MOST TRANSFORMATIVE Health Agenda in History,\u201d the President said in a Truth Social post . \u201cWe need her leadership at the FDA now to ensure that the U.S. remains the WORLD LEADER for Scientific Discovery and CURES.\u201d He went on to say that, in the role, Overton would work with Health and Human Services Secretary Robert F. Kennedy Jr. and Centers for Medicare and Medicaid Services Administrator Dr. Mehmet Oz \u201cto RAPIDLY deliver on my priorities of FASTER Cures, INCREASED American Innovation, MAJOR Clinical Trial Reforms, LOWER Drug Prices, and even more MAHA WINS!\u201d If confirmed by the Republican-controlled Senate, Overt"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
+     "url": "https://www.pbs.org/newshour/show/what-to-know-about-dr-heidi-overton-trumps-pick-to-lead-the-fda",
+     "author": "Bridget Craig",
+     "kind": "news",
+     "published": "2026-08-19T22:40:07+00:00",
+     "summary": "President Trump has tapped one of his top White House health policy aides, Dr. Heidi Overton, to lead the Food and Drug Administration. Overton has been a strong supporter of the president's health agenda, including efforts to overhaul the childhood vaccine schedule, changes that have drawn sharp criticism from medical experts. Geoff Bennett discussed more with Lauren Gardner of Politico."
+    },
+    {
+     "outlet": "thehill",
+     "title": "Trump\u2019s FDA nominee draws mixed reception",
+     "url": "https://thehill.com/newsletters/healthcare/6040025-trumps-fda-nominee-draws-mixed-reception/",
+     "author": "Nathaniel Weixel",
+     "kind": "news",
+     "published": "2026-08-19T22:24:30+00:00",
+     "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story Trump\u2019s FDA nominee draws mixed reception President Trump on Wednesday announced Dr. Heidi Overton as his pick to lead the Food and Drug Administration (FDA), which drew varied reactions from the health sector. \u00a9 Jacquelyn Martin, The Associated Press \u201cDr...."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump picks White House aide Dr. Heidi Overton for top FDA job",
+     "url": "https://abcnews.com/Politics/trump-picks-dr-heidi-overton-top-fda-job/story?id=135777387",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T20:55:11+00:00",
+     "summary": "Trump nominated Overton to be the next commissioner of the Food and Drug Administration."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Trump nominates aide Heidi Overton to lead US Food and Drug Administration",
+     "url": "https://www.bbc.co.uk/news/articles/ckg3j6xzxk2o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T16:55:23+00:00",
+     "summary": "A former conservative think tank leader, she holds degrees from University of New Mexico School of Medicine and Johns Hopkins' Bloomberg School of Public Health."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Trump to nominate Dr Heidi Overton as next FDA commissioner",
+     "url": "https://www.foxnews.com/politics/trump-nominate-dr-heidi-overton-next-fda-commissioner",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T16:45:31+00:00",
+     "summary": "President Donald Trump announced Wednesday that he is nominating Dr. Heidi Overton, his deputy assistant for domestic policy, as the next commissioner for the Food and Drug Administration (FDA). Trump said Overton, a physician known for her pro-life views, has been a \"ROCKSTAR\" in his administration so far. \"Dr. Overton will continue putting AMERICA FIRST, and creating a HEALTHY AMERICA,\" Trump said in a Truth Social post. \"She has worked directly with Secretary Kennedy, Dr. Oz, and team, to deliver on the MOST TRANSFORMATIVE Health Agenda in History. She is known to take on the HARDEST issues, and bring me solutions that work best for the Country,\" Trump added. FDA PROPOSES NEW OVERSIGHT OF FOOD ADDITIVES In Overton's current role, she regularly briefs the president on various health issues. Earlier this month, Overton was at Trump's side in the Oval Office as he signed an executive order that aimed to overhaul how many vaccines are recommended to children . A memo on the order recommends children receive immunizations for 11 diseases, fewer than the 18 current Centers for Disease Control and Prevention (CDC) guidelines. It also called for shots to be spaced out in separate visits"
+    },
+    {
+     "outlet": "axios",
+     "title": "Trump taps Heidi Overton as FDA commissioner",
+     "url": "https://www.axios.com/2026/08/19/trump-heidi-overton-fda-commissioner",
+     "author": "Caitlin Owens",
+     "kind": "news",
+     "published": "2026-08-19T16:39:12+00:00",
+     "summary": "President Trump has decided to nominate White House aide Heidi Overton to lead the Food and Drug Administration, according to a senior administration official. Why it matters: The agency was left in turmoil after the exit of former commissioner Marty Makary earlier this year, threatening the stability of U.S. drug development. Context: Overton, currently deputy director of the White House Domestic Policy Council , was one of several candidates that the White House had been considering for weeks. Though other top FDA positions still don't have permanent leadership, the senior administration official said more decisions will likely follow closely behind. Bloomberg first reported that Overton was the president's choice. The intrigue: Overton appeared at last week's signing of an executive order calling for an overhaul of the childhood vaccine schedule, including slimming down the number of federally recommended shots and splitting up the MMR vaccine into three different shots. \"We do still recommend the measles vaccine for all children, but we want parents to be informed about the timing and to have the option to separate them out,\" Overton said at the event. Between the lines: Overto"
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump nominates abortion opponent Heidi Overton to be head of FDA",
+     "url": "https://www.theguardian.com/us-news/2026/aug/19/heidi-overton-fda-commissioner-nomination",
+     "author": "Jessica Glenza",
+     "kind": "news",
+     "published": "2026-08-19T16:31:59+00:00",
+     "summary": "Overton has said that Congress should strictly regulate abortion drug mifepristone \u2018to protect women and children\u2019 Donald Trump nominated Dr Heidi Overton \u2013 an abortion opponent who stood next to the president as he made false claims about vaccines \u2013 to be commissioner of the US Food and Drug Administration (FDA). \u201cToday I am honored to nominate the wonderful Dr. Heidi Overton, MD, PhD, as our next FDA Commissioner. Dr. Heidi has been a ROCKSTAR in my Administration, where she has worked directly with Secretary Kennedy, Dr. Oz, and team, to deliver on the MOST TRANSFORMATIVE Health Agenda in History. She is known to take on the HARDEST issues, and bring me solutions that work best for the Country,\u201d the president wrote on Truth Social on Wednesday. Continue reading..."
+    },
+    {
+     "outlet": "time",
+     "title": "CNN Condemns the White House\u2019s Attacks on Journalist Kristen Holmes: Here\u2019s What to Know",
+     "url": "https://time.com/article/2026/08/18/cnn-white-house-kristen-holmes-journalist-attacks/",
+     "author": "Chantelle Lee",
+     "kind": "news",
+     "published": "2026-08-18T22:12:26+00:00",
+     "summary": "CNN condemned the White House for launching personal attacks on one of the network\u2019s journalists . \u201cKristen Holmes is one of the most respected and accomplished journalists covering the White House,\u201d CNN said of its senior White House correspondent in a statement shared on X on Monday. \u201cThis afternoon, she did her job and asked the President of the United States a tough, relevant, and newsworthy question on behalf of the American people.\u201d \u201cPublic officials are free to challenge reporting they disagree with, but personal attacks on journalists for asking questions are beneath the office and inconsistent with the principles of a free press,\u201d CNN continued. \u201cWe stand firmly behind Kristen and reject these attacks in the strongest possible terms.\u201d The network\u2019s rebuke came after a question that Holmes asked President Donald Trump during an Oval Office event on Monday drew a heated response from Trump and, later, a series of critical posts from the White House targeting the journalist. \u201cJon Ossoff said that you\u2019d rather travel with your aide Natalie Harp and build the ballroom than do your job as President,\u201d Holmes asked the President, referring to a comment the Democratic Georgia Senat"
     }
    ]
   },
@@ -539,8 +692,8 @@
     "indieCount": 2,
     "big": [
      "experimental",
-     "patients",
      "wednesday",
+     "patients",
      "moderna's",
      "high-risk",
      "spreading"
@@ -629,95 +782,6 @@
    ]
   },
   {
-   "id": "7fc572b601",
-   "topic": "Other",
-   "summary": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story National debt marks new milestone The U.S. national debt crossed $40 trillion on Tuesday, according to newly released data from the Treasury Department. \u00a9 AP Photo/Mary Altaffer It marks a key milestone for the U.S.,...",
-   "summaryFrom": "thehill",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 3,
-    "big": [
-     "treasury"
-    ],
-    "indie": [
-     "decade",
-     "passes",
-     "record"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "US national debt passes $40tn after doubling in a decade",
-   "updated": "2026-08-20T01:24:26+00:00",
-   "outletCount": 6,
-   "counts": {
-    "pub": 2,
-    "corp": 2,
-    "family": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "US national debt passes $40tn after doubling in a decade",
-     "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T01:24:26+00:00",
-     "summary": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "US national debt passes record $40 trillion",
-     "url": "https://www.aljazeera.com/economy/2026/8/19/us-national-debt-passes-record-40-trillion?traffic_source=rss",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-19T23:59:16+00:00",
-     "summary": "The amount has doubled in the last decade, from Trump&#039;s first term through the Biden administration."
-    },
-    {
-     "outlet": "thehill",
-     "title": "National debt marks new milestone",
-     "url": "https://thehill.com/newsletters/business-economy/6040082-national-debt-marks-new-milestone/",
-     "author": "Julia Shapero",
-     "kind": "news",
-     "published": "2026-08-19T22:33:38+00:00",
-     "summary": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story National debt marks new milestone The U.S. national debt crossed $40 trillion on Tuesday, according to newly released data from the Treasury Department. \u00a9 AP Photo/Mary Altaffer It marks a key milestone for the U.S.,..."
-    },
-    {
-     "outlet": "forbes",
-     "title": "The $40 Trillion National Debt \u2018News\u2019 Is A Big Load Of Meaninglessness",
-     "url": "https://www.forbes.com/sites/johntamny/2026/08/19/the-40-trillion-national-debt-news-is-a-big-load-of-meaninglessness/",
-     "author": "John Tamny, Contributor",
-     "kind": "news",
-     "published": "2026-08-19T22:30:37+00:00",
-     "summary": "The crisis is that there\u2019s no debt crisis, &amp; there\u2019s no debt crisis because the holders of Treasury debt are confident Treasury will have no problem paying off the debt."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "The U.S. national debt now stands at $40 trillion",
-     "url": "https://www.pbs.org/newshour/economy/the-u-s-national-debt-now-stands-at-40-trillion",
-     "author": "Fatima Hussein, Associated Press",
-     "kind": "news",
-     "published": "2026-08-19T21:51:11+00:00",
-     "summary": "The national debt surpassed a record $40 trillion on Wednesday, a staggering milestone as defense costs, social programs like Social Security and Medicare and interest on the burgeoning deficit to make up an enormous share of federal spending."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "National debt tops $40 trillion after doubling in under 10 years",
-     "url": "https://www.cbsnews.com/news/national-debt-tops-40-trillion-doubles/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T20:32:20+00:00",
-     "summary": "Federal debt has mounted amid tax cuts and trillions in pandemic spending, adding to the nation's interest payments."
-    }
-   ]
-  },
-  {
    "id": "bec3564fee",
    "topic": "Politics",
    "summary": "The News Another Republican congressman got tossed out by his party. Another member of the Democratic Socialists of America won where Democrats weren\u2019t expecting. And a few of the president\u2019s chosen candidates flopped. Very few of Tuesday\u2019s primaries were for seats that will be competitive in November; a special election in California, which couldn\u2019t be called immediately, had no Republicans at all. Know More Republicans cleaned up some messes. Rep. Cory Mills became the fourth House Republican to lose his primary this year, solving a problem for colleagues who wanted him and his scandals out of the building. The president studiously avoided re-endorsing Mills, whom he helped win a competitive 2022 primary; Ryan Elijah, the former TV reporter who beat him, said in his victory speech that he\u2019d had \u201cindirect channels\u201d to Trump and was grateful for the silence from Mar-a-Lago. \u201cI would\u2026",
@@ -729,13 +793,13 @@
    ],
    "headline": "A democratic socialist win and losses for Trump allies: takeaways from primaries in three key states",
    "updated": "2026-08-19T21:51:21+00:00",
-   "outletCount": 6,
+   "outletCount": 7,
    "counts": {
     "family": 5,
     "nonprofit": 1,
-    "corp": 2
+    "corp": 3
    },
-   "newsCount": 8,
+   "newsCount": 9,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -810,97 +874,104 @@
      "kind": "news",
      "published": "2026-08-19T03:04:23+00:00",
      "summary": "President Donald Trump just suffered another endorsement loss, this time in deep-red Wyoming. Republican state Sen. Eric Barlow defeated Trump-backed Superintendent of Public Instruction Megan Degenfelder in the gubernatorial primary on Tuesday. It\u2019s another blow to Trump\u2019s once-stellar primary endorsement record, which has shown vulnerabilities in recent weeks. Former MyPillow CEO Mike Lindell lost his primary for governor in Minnesota last week, as did a Trump-endorsed Michigan congressional candidate who fell to an opponent who had already dropped out. Two other Trump-backed candidates fell in Florida Tuesday: Rep. Cory Mills and House candidate Catalina Lauf. Trump\u2019s endorsement power has seemed to particularly wane in governor\u2019s races. Georgia Lt. Gov. Burt Jones, Iowa Rep. Randy Feenstra and South Carolina Lt. Gov. Pamela Evette all fell in their primaries this year despite the president\u2019s support. Barlow, a fourth generation Wyomingite rancher, centered his campaign on protecting public lands , funding public schools and expanding rural health care access . Degenfelder leaned heavily on her Trump endorsement, and her campaign as well as outside groups supporting her ran repe"
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Two Trump-backed candidates lose, Debbie Wasserman Schultz wins in Tuesday\u2019s House primaries in Florida",
+     "url": "https://www.nbcnews.com/politics/2026-election/two-trump-backed-candidates-lose-debbie-wasserman-schultz-wins-tuesday-rcna592392",
+     "author": "Matt Dixon",
+     "kind": "news",
+     "published": "2026-08-19T01:00:09+00:00",
+     "summary": "Rep. Debbie Wasserman Schultz, D-Fla., during the third day of the Democratic National Convention at the United Center, in Chicago, on Aug. 21, 2024."
     }
    ]
   },
   {
-   "id": "1a31c4c3a5",
-   "topic": "Politics",
-   "summary": "Florida State Rep. Angie Nixon just defeated Alex Vindman , the presumed frontrunner, in the state\u2019s Democratic Senate primary\u2014even though Vindman raised roughly sixteen times as much money as Nixon. Nixon, 42, helped lead the fight against Republican-led redistricting in Florida that disproportionately supports GOP voters, who are mostly white. According to the Miami Herald , 86 percent of Florida\u2019s congressional districts will favor the GOP, even though only 41 percent of voters are registered Republicans. The three-time state lawmaker from Jacksonville protested the bill during an April legislative session and videos of her wielding a pink bullhorn and declaring &#8220;this is a violation of the constitution&#8221; went viral. Nixon also staged a sit-in at the governor\u2019s office in May, where she was arrested and faces a jury trial on charges of trespassing and resisting an officer\u2026",
-   "summaryFrom": "motherjones",
+   "id": "7fc572b601",
+   "topic": "Other",
+   "summary": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story National debt marks new milestone The U.S. national debt crossed $40 trillion on Tuesday, according to newly released data from the Treasury Department. \u00a9 AP Photo/Mary Altaffer It marks a key milestone for the U.S.,...",
+   "summaryFrom": "thehill",
    "emphasis": {
-    "bigCount": 2,
-    "indieCount": 4,
+    "bigCount": 3,
+    "indieCount": 3,
     "big": [
-     "tuesday"
+     "treasury"
     ],
     "indie": [
-     "progressive",
-     "alex",
-     "democrat",
-     "retired",
-     "defeated"
+     "passes",
+     "decade",
+     "record"
     ]
    },
    "absent": [
-    "corp",
-    "coop",
-    "pub"
+    "coop"
    ],
-   "headline": "Florida senate primary winner Angie Nixon relied on grassroots organizing",
-   "updated": "2026-08-19T20:44:46+00:00",
+   "headline": "US national debt passes $40tn after doubling in a decade",
+   "updated": "2026-08-20T01:24:26+00:00",
    "outletCount": 6,
    "counts": {
-    "nonprofit": 4,
-    "family": 2
+    "pub": 2,
+    "corp": 2,
+    "family": 1,
+    "nonprofit": 1
    },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": true,
+   "newsCount": 5,
+   "opinionCount": 1,
+   "underreported": false,
    "articles": [
     {
-     "outlet": "npr",
-     "title": "Florida senate primary winner Angie Nixon relied on grassroots organizing",
-     "url": "https://www.npr.org/2026/08/19/nx-s1-5937530/florida-senate-primary-winner-angie-nixon-relied-on-grassroots-organizing",
-     "author": "Sarah Handel",
-     "kind": "news",
-     "published": "2026-08-19T20:44:46+00:00",
-     "summary": "NPR's Juana Summers talks with Angie Nixon, a progressive democrat who won her U.S. Senate primary in Florida despite being massively outmatched in terms of spending."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Another democratic socialist victory \u2013 Angie Nixon in Florida \u2013 sends shock waves through party establishment",
-     "url": "https://www.theguardian.com/us-news/2026/aug/19/angie-nixon-florida-democratic-socialist",
-     "author": "Richard Luscombe in Miami",
-     "kind": "news",
-     "published": "2026-08-19T19:35:48+00:00",
-     "summary": "\u2018They call us extreme, they call us radical,\u2019 the progressive Senate candidate said. \u2018But I think people see through that\u2019 US politics live \u2013 latest updates It wasn\u2019t supposed to be this way. In conservative Florida , Alex Vindman \u2013 a retired army intelligence officer who blew this whistle on Donald Trump in his first term \u2013 appeared set to carry the Democratic establishment banner as the party staged a long-shot bid to topple a Republican US senator. Continue reading..."
-    },
-    {
-     "outlet": "motherjones",
-     "title": "Angie Nixon Goes on Trial in September. She Just Won Florida\u2019s Senate Primary.",
-     "url": "https://www.motherjones.com/politics/2026/08/angie-nixon-alex-vindman-florida-primary-redistricting-gerrymander/",
-     "author": "Alex Nguyen and Sophie Hurwitz",
-     "kind": "news",
-     "published": "2026-08-19T16:57:18+00:00",
-     "summary": "Florida State Rep. Angie Nixon just defeated Alex Vindman , the presumed frontrunner, in the state\u2019s Democratic Senate primary\u2014even though Vindman raised roughly sixteen times as much money as Nixon. Nixon, 42, helped lead the fight against Republican-led redistricting in Florida that disproportionately supports GOP voters, who are mostly white. According to the Miami Herald , 86 percent of Florida\u2019s congressional districts will favor the GOP, even though only 41 percent of voters are registered Republicans. The three-time state lawmaker from Jacksonville protested the bill during an April legislative session and videos of her wielding a pink bullhorn and declaring &#8220;this is a violation of the constitution&#8221; went viral. Nixon also staged a sit-in at the governor\u2019s office in May, where she was arrested and faces a jury trial on charges of trespassing and resisting an officer without violence in September.&nbsp; Despite Democratic opposition, Florida Gov. Ron DeSantis approved the new map in May. In June, the state\u2019s Supreme Court allowed the new map to stay in effect for the upcoming 2026 US House elections.&nbsp; Nixon ran on an affordability platform , pushing Medicare f"
-    },
-    {
-     "outlet": "foxnews",
-     "title": "5 takeaways from Florida Senate primary: GOP Sen Ashley Moody will face DSA's Nixon",
-     "url": "https://www.foxnews.com/politics/5-takeaways-florida-senate-primary-gop-sen-ashley-moody-face-dsa-nixon",
+     "outlet": "bbc",
+     "title": "US national debt passes $40tn after doubling in a decade",
+     "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-19T13:48:31+00:00",
-     "summary": "President Donald Trump celebrated the primary defeat of longtime political foe Alexander Vindman on Tuesday night after Democratic Florida State Rep. Angie Nixon pulled off a stunning upset in the primary that sought to flip the seat held by Sen. Ashley Moody , R-Fla. This will be the first general election race for Moody, outgoing Republican Gov. Ron DeSantis' handpicked successor for former senator and current Secretary of State Marco Rubio, and it will be an ideological battle between a leading legal mind and one of the Democratic Socialists of America's up-and-coming figures in Nixon. Here are five takeaways from Tuesday night's high-profile Florida Senate primary: FAR-LEFT SOCIALIST WINS MASSIVE FLORIDA UPSET: KEY TAKEAWAYS FROM TUESDAY'S PRIMARIES Trump dunks on Impeachment 1 witness The Obama-Biden establishment Democrat era sees another one of its national political figures suffer a loss in Florida, a state that once was former President Barack Obama's key swing state. \"SleazeBag Vindman loses tonight to a Radical Left Lunatic,\" Trump wrote in a Truth Social post Tuesday night. \"How cool is that???\" Vindman, a retired Army Lt. Col. who fled Soviet Ukraine as a child with hi"
+     "published": "2026-08-20T01:24:26+00:00",
+     "summary": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years."
     },
     {
-     "outlet": "nyt",
-     "title": "Angie Nixon Notches Another Win for the Left Through Old-Fashioned Organizing",
-     "url": "https://www.nytimes.com/2026/08/19/us/politics/florida-primary-progressives-upset.html",
-     "author": "Patricia Mazzei",
-     "kind": "news",
-     "published": "2026-08-19T13:04:02+00:00",
-     "summary": "State Representative Angie Nixon scored a stunning upset on Tuesday in Florida\u2019s Democratic Senate primary. Her victory will test the strength of a democratic socialist in a red state."
+     "outlet": "aljazeera",
+     "title": "US national debt passes record $40 trillion",
+     "url": "https://www.aljazeera.com/economy/2026/8/19/us-national-debt-passes-record-40-trillion?traffic_source=rss",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-19T23:59:16+00:00",
+     "summary": "The amount has doubled in the last decade, from Trump&#039;s first term through the Biden administration."
     },
     {
-     "outlet": "the19th",
-     "title": "Angie Nixon notches an upset victory in Florida\u2019s Democratic Senate primary",
-     "url": "https://19thnews.org/2026/08/angie-nixon-wins-florida-democratic-senate-primary/",
-     "author": "Mel Leonor",
+     "outlet": "thehill",
+     "title": "National debt marks new milestone",
+     "url": "https://thehill.com/newsletters/business-economy/6040082-national-debt-marks-new-milestone/",
+     "author": "Julia Shapero",
      "kind": "news",
-     "published": "2026-08-19T00:01:21+00:00",
-     "summary": "Florida Democrat Angie Nixon, a progressive who recently joined the Democratic Socialists of America, won Democrats\u2019 nomination for a U.S. Senate seat in a stunning upset that gave progressives a win in a highly unlikely state.&nbsp; Nixon, a Florida state representative and community organizer, defeated retired Lt. Col. Alex Vindman to face Republican Ashley Moody, who was appointed to fill the seat vacated by Secretary of State Marco Rubio in January 2025.&nbsp; Nixon\u2019s win in Florida is stunning given the state\u2019s large Latino population, which for years has punished Democrats who become linked to the \u201csocialist\u201d label. In the past decade, Republicans have grown their power in the state by appealing to the population\u2019s fears of socialism, pointing to authoritarian regimes in Cuba, Venezuela and elsewhere.&nbsp; In a victory speech Tuesday night, Nixon thanked \u201cthe hundreds of thousands of Floridians who stood up because they believe in a vision of a better Florida, that we deserve to thrive not just survive \u2014&nbsp;the voters that know we can have better and we can accomplish more for our communities, who believe that healthcare, childcare and housing are a human right.\u201d&nbsp; \u201cWe"
+     "published": "2026-08-19T22:33:38+00:00",
+     "summary": "Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story National debt marks new milestone The U.S. national debt crossed $40 trillion on Tuesday, according to newly released data from the Treasury Department. \u00a9 AP Photo/Mary Altaffer It marks a key milestone for the U.S.,..."
+    },
+    {
+     "outlet": "forbes",
+     "title": "The $40 Trillion National Debt \u2018News\u2019 Is A Big Load Of Meaninglessness",
+     "url": "https://www.forbes.com/sites/johntamny/2026/08/19/the-40-trillion-national-debt-news-is-a-big-load-of-meaninglessness/",
+     "author": "John Tamny, Contributor",
+     "kind": "news",
+     "published": "2026-08-19T22:30:37+00:00",
+     "summary": "The crisis is that there\u2019s no debt crisis, &amp; there\u2019s no debt crisis because the holders of Treasury debt are confident Treasury will have no problem paying off the debt."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "The U.S. national debt now stands at $40 trillion",
+     "url": "https://www.pbs.org/newshour/economy/the-u-s-national-debt-now-stands-at-40-trillion",
+     "author": "Fatima Hussein, Associated Press",
+     "kind": "news",
+     "published": "2026-08-19T21:51:11+00:00",
+     "summary": "The national debt surpassed a record $40 trillion on Wednesday, a staggering milestone as defense costs, social programs like Social Security and Medicare and interest on the burgeoning deficit to make up an enormous share of federal spending."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "National debt tops $40 trillion after doubling in under 10 years",
+     "url": "https://www.cbsnews.com/news/national-debt-tops-40-trillion-doubles/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T20:32:20+00:00",
+     "summary": "Federal debt has mounted amid tax cuts and trillions in pandemic spending, adding to the nation's interest payments."
     }
    ]
   },
@@ -997,8 +1068,8 @@
     ],
     "indie": [
      "capabilities",
-     "country",
-     "strong"
+     "strong",
+     "country"
     ]
    },
    "absent": [
@@ -1082,11 +1153,11 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "senate",
-     "primary",
-     "angie",
      "nixon",
-     "stunning"
+     "senate",
+     "stunning",
+     "primary",
+     "angie"
     ],
     "indie": [
      "voting"
@@ -1166,11 +1237,11 @@
     "big": [],
     "indie": [
      "ecuador",
-     "remote",
      "wednesday",
-     "chief",
+     "remote",
+     "seven",
      "intelligence",
-     "seven"
+     "chief"
     ]
    },
    "absent": [
@@ -1237,149 +1308,71 @@
    ]
   },
   {
-   "id": "639d0f8393",
+   "id": "1a31c4c3a5",
    "topic": "Politics",
-   "summary": "A White House aide is becoming a household name due to a feeding frenzy by liberal media stemming from a comment by an ambitious Democrat. Sen. Jon Ossoff, D-Ga., who polls currently suggest will win re-election in November and has already been generating 2028 presidential buzz, went viral over the weekend for a jab he made at President Donald Trump , heavily suggesting Trump was having an inappropriate relationship with his personal aide, Natalie Harp. Ossoff claimed Trump would rather \"build a ballroom and travel with Natalie\" than do his job as president. The comment drew instant backlash from conservatives. When asked about it on MS NOW, Ossoff insisted he referenced her merely as Trump's \"security blanket\" and nothing more, leaving conservatives to pummel him as a \"coward\" for not standing behind what they considered to be sexist innuendo. JON OSSOFF DODGES ON WHY HE INVOKED TRUMP\u2026",
-   "summaryFrom": "foxnews",
+   "summary": "Florida State Rep. Angie Nixon just defeated Alex Vindman , the presumed frontrunner, in the state\u2019s Democratic Senate primary\u2014even though Vindman raised roughly sixteen times as much money as Nixon. Nixon, 42, helped lead the fight against Republican-led redistricting in Florida that disproportionately supports GOP voters, who are mostly white. According to the Miami Herald , 86 percent of Florida\u2019s congressional districts will favor the GOP, even though only 41 percent of voters are registered Republicans. The three-time state lawmaker from Jacksonville protested the bill during an April legislative session and videos of her wielding a pink bullhorn and declaring &#8220;this is a violation of the constitution&#8221; went viral. Nixon also staged a sit-in at the governor\u2019s office in May, where she was arrested and faces a jury trial on charges of trespassing and resisting an officer\u2026",
+   "summaryFrom": "motherjones",
    "emphasis": null,
    "absent": [
+    "corp",
     "coop",
     "pub"
    ],
-   "headline": "Trump\u2019s White House Business Shindig Will Be a Cesspool of Financial Conflicts",
-   "updated": "2026-08-20T00:15:46+00:00",
+   "headline": "Florida senate primary winner Angie Nixon relied on grassroots organizing",
+   "updated": "2026-08-19T20:44:46+00:00",
    "outletCount": 5,
    "counts": {
-    "family": 3,
-    "corp": 1,
-    "nonprofit": 1
+    "nonprofit": 4,
+    "family": 1
    },
-   "newsCount": 4,
-   "opinionCount": 1,
-   "underreported": false,
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": true,
    "articles": [
     {
-     "outlet": "forbes",
-     "title": "Natalie Harp Worked At White House For Over A Year Without Security Clearance, Report Says",
-     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/19/natalie-harp-worked-at-white-house-for-over-a-year-without-security-clearance-report-says/",
-     "author": "Antonio Peque\u00f1o IV, Forbes Staff",
+     "outlet": "npr",
+     "title": "Florida senate primary winner Angie Nixon relied on grassroots organizing",
+     "url": "https://www.npr.org/2026/08/19/nx-s1-5937530/florida-senate-primary-winner-angie-nixon-relied-on-grassroots-organizing",
+     "author": "Sarah Handel",
      "kind": "news",
-     "published": "2026-08-20T00:15:46+00:00",
-     "summary": "Natalie Harp, a close aide to President Donald Trump, has surged into the national spotlight over her near-constant presence around the president."
+     "published": "2026-08-19T20:44:46+00:00",
+     "summary": "NPR's Juana Summers talks with Angie Nixon, a progressive democrat who won her U.S. Senate primary in Florida despite being massively outmatched in terms of spending."
     },
     {
-     "outlet": "foxnews",
-     "title": "Jon Ossoff's controversial Trump jab sparks media feeding frenzy over White House aide Natalie Harp",
-     "url": "https://www.foxnews.com/media/jon-ossoffs-controversial-trump-jab-sparks-media-feeding-frenzy-over-white-house-aide-natalie-harp",
-     "author": null,
+     "outlet": "guardian",
+     "title": "Another democratic socialist victory \u2013 Angie Nixon in Florida \u2013 sends shock waves through party establishment",
+     "url": "https://www.theguardian.com/us-news/2026/aug/19/angie-nixon-florida-democratic-socialist",
+     "author": "Richard Luscombe in Miami",
      "kind": "news",
-     "published": "2026-08-19T22:57:18+00:00",
-     "summary": "A White House aide is becoming a household name due to a feeding frenzy by liberal media stemming from a comment by an ambitious Democrat. Sen. Jon Ossoff, D-Ga., who polls currently suggest will win re-election in November and has already been generating 2028 presidential buzz, went viral over the weekend for a jab he made at President Donald Trump , heavily suggesting Trump was having an inappropriate relationship with his personal aide, Natalie Harp. Ossoff claimed Trump would rather \"build a ballroom and travel with Natalie\" than do his job as president. The comment drew instant backlash from conservatives. When asked about it on MS NOW, Ossoff insisted he referenced her merely as Trump's \"security blanket\" and nothing more, leaving conservatives to pummel him as a \"coward\" for not standing behind what they considered to be sexist innuendo. JON OSSOFF DODGES ON WHY HE INVOKED TRUMP AIDE'S NAME DURING GEORGIA CAMPAIGN RALLY Still, that hasn't stopped the media from obsessing over the 35-year-old White House aide. The New York Times published a profile on how Harp \"emerge[d]\" in the national spotlight after Ossoff's comment. \"She never takes a day off, not even on Sunday,\" the Ti"
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Opinion: Here\u2019s the Real Role Natalie Harp Fills in Trump\u2019s White House",
-     "url": "https://www.thedailybeast.com/heres-the-real-role-natalie-harp-fills-in-trumps-white-house/",
-     "author": "Michael Ian Black",
-     "kind": "opinion",
-     "published": "2026-08-19T21:55:00+00:00",
-     "summary": "Photo Illustration by Eric Faison/The Daily Beast/Getty We\u2019ve all been hearing an awful lot about Natalie Harp of late. The perky blonde 35-year-old is forever at our octogenarian president\u2019s side, her bright eyes beaming. She first came to the world\u2019s attention as \u201cThe Human Printer,\u201d an aide who traveled with Trump during his years in exile at Mar-A-Lago. Harp\u2019s job was, as that nickname suggests, to travel with both Trump and a computer printer , which she used to print out complimentary tweets, memes and various text-based ephemera. Kind of like the way you keep a toddler distracted with rattles and chew toys. Read more at The Daily Beast."
+     "published": "2026-08-19T19:35:48+00:00",
+     "summary": "\u2018They call us extreme, they call us radical,\u2019 the progressive Senate candidate said. \u2018But I think people see through that\u2019 US politics live \u2013 latest updates It wasn\u2019t supposed to be this way. In conservative Florida , Alex Vindman \u2013 a retired army intelligence officer who blew this whistle on Donald Trump in his first term \u2013 appeared set to carry the Democratic establishment banner as the party staged a long-shot bid to topple a Republican US senator. Continue reading..."
     },
     {
      "outlet": "motherjones",
-     "title": "Trump\u2019s White House Business Shindig Will Be a Cesspool of Financial Conflicts",
-     "url": "https://www.motherjones.com/politics/2026/08/trump-conflicts-interest-crypto-world-liberty-financial-prediction-markets-polymarket-kalshi-corruption-cftc/",
-     "author": "Russ Choma",
+     "title": "Angie Nixon Goes on Trial in September. She Just Won Florida\u2019s Senate Primary.",
+     "url": "https://www.motherjones.com/politics/2026/08/angie-nixon-alex-vindman-florida-primary-redistricting-gerrymander/",
+     "author": "Alex Nguyen and Sophie Hurwitz",
      "kind": "news",
-     "published": "2026-08-18T22:46:15+00:00",
-     "summary": "Donald Trump will welcome the leaders of major cryptocurrency and prediction-market companies to the White House on Wednesday to discuss how they should be regulated\u2014a potential make-or-break moment for nascent industries that have struggled to establish themselves as credible and legal. As it happens, Trump himself is a crypto and prediction-market leader. The president and his adult children are major investors in both industries. In the past, presidents have divested from their business interests while serving, or have taken pains to distance themselves from any involvement. During his second term, Trump has done essentially the opposite. And his hand in the regulation of two industries he&#8217;s directly involved with is merely one headline from this president&#8217;s Financial Conflicts News of the Week. Consider World Liberty Financial, a crypto firm Trump co-owns, in which a senior government official from the United Arab Emirates acquired a $500 million stake just months before the administration, ignoring national security concerns, agreed to provide the UAE with America&#8217;s most advanced AI chips. World Liberty Financial calls itself as a &#8220;de-fi&#8221; company\u2014"
+     "published": "2026-08-19T16:57:18+00:00",
+     "summary": "Florida State Rep. Angie Nixon just defeated Alex Vindman , the presumed frontrunner, in the state\u2019s Democratic Senate primary\u2014even though Vindman raised roughly sixteen times as much money as Nixon. Nixon, 42, helped lead the fight against Republican-led redistricting in Florida that disproportionately supports GOP voters, who are mostly white. According to the Miami Herald , 86 percent of Florida\u2019s congressional districts will favor the GOP, even though only 41 percent of voters are registered Republicans. The three-time state lawmaker from Jacksonville protested the bill during an April legislative session and videos of her wielding a pink bullhorn and declaring &#8220;this is a violation of the constitution&#8221; went viral. Nixon also staged a sit-in at the governor\u2019s office in May, where she was arrested and faces a jury trial on charges of trespassing and resisting an officer without violence in September.&nbsp; Despite Democratic opposition, Florida Gov. Ron DeSantis approved the new map in May. In June, the state\u2019s Supreme Court allowed the new map to stay in effect for the upcoming 2026 US House elections.&nbsp; Nixon ran on an affordability platform , pushing Medicare f"
     },
     {
-     "outlet": "time",
-     "title": "CNN Condemns the White House\u2019s Attacks on Journalist Kristen Holmes: Here\u2019s What to Know",
-     "url": "https://time.com/article/2026/08/18/cnn-white-house-kristen-holmes-journalist-attacks/",
-     "author": "Chantelle Lee",
+     "outlet": "nyt",
+     "title": "Angie Nixon Notches Another Win for the Left Through Old-Fashioned Organizing",
+     "url": "https://www.nytimes.com/2026/08/19/us/politics/florida-primary-progressives-upset.html",
+     "author": "Patricia Mazzei",
      "kind": "news",
-     "published": "2026-08-18T22:12:26+00:00",
-     "summary": "CNN condemned the White House for launching personal attacks on one of the network\u2019s journalists . \u201cKristen Holmes is one of the most respected and accomplished journalists covering the White House,\u201d CNN said of its senior White House correspondent in a statement shared on X on Monday. \u201cThis afternoon, she did her job and asked the President of the United States a tough, relevant, and newsworthy question on behalf of the American people.\u201d \u201cPublic officials are free to challenge reporting they disagree with, but personal attacks on journalists for asking questions are beneath the office and inconsistent with the principles of a free press,\u201d CNN continued. \u201cWe stand firmly behind Kristen and reject these attacks in the strongest possible terms.\u201d The network\u2019s rebuke came after a question that Holmes asked President Donald Trump during an Oval Office event on Monday drew a heated response from Trump and, later, a series of critical posts from the White House targeting the journalist. \u201cJon Ossoff said that you\u2019d rather travel with your aide Natalie Harp and build the ballroom than do your job as President,\u201d Holmes asked the President, referring to a comment the Democratic Georgia Senat"
-    }
-   ]
-  },
-  {
-   "id": "25fca336f7",
-   "topic": "Health",
-   "summary": "Heidi Overton during an executive order signing in the Oval Office of the White House in Washington, D.C., on Aug. 10, 2026. \u2014Bonnie Cash\u2014UPI/Bloomberg/Getty Images President Donald Trump announced on Wednesday that he was tapping Dr. Heidi Overton to lead the U.S. Food and Drug Administration (FDA), the health agency responsible for overseeing the safety and effectiveness of products including food, drugs, and medical devices. \u201cDr. Heidi has been a ROCKSTAR in my Administration, where she has worked directly with Secretary Kennedy, Dr. Oz, and team, to deliver on the MOST TRANSFORMATIVE Health Agenda in History,\u201d the President said in a Truth Social post . \u201cWe need her leadership at the FDA now to ensure that the U.S. remains the WORLD LEADER for Scientific Discovery and CURES.\u201d He went on to say that, in the role, Overton would work with Health and Human Services Secretary Robert F.\u2026",
-   "summaryFrom": "time",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
-   "updated": "2026-08-19T23:05:56+00:00",
-   "outletCount": 5,
-   "counts": {
-    "family": 2,
-    "nonprofit": 1,
-    "corp": 3
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "time",
-     "title": "Who Is Heidi Overton, Trump\u2019s Nominee to Lead the FDA?",
-     "url": "https://time.com/article/2026/08/19/heidi-overton-trump-fda-nominee/",
-     "author": "Chantelle Lee",
-     "kind": "news",
-     "published": "2026-08-19T23:05:56+00:00",
-     "summary": "Heidi Overton during an executive order signing in the Oval Office of the White House in Washington, D.C., on Aug. 10, 2026. \u2014Bonnie Cash\u2014UPI/Bloomberg/Getty Images President Donald Trump announced on Wednesday that he was tapping Dr. Heidi Overton to lead the U.S. Food and Drug Administration (FDA), the health agency responsible for overseeing the safety and effectiveness of products including food, drugs, and medical devices. \u201cDr. Heidi has been a ROCKSTAR in my Administration, where she has worked directly with Secretary Kennedy, Dr. Oz, and team, to deliver on the MOST TRANSFORMATIVE Health Agenda in History,\u201d the President said in a Truth Social post . \u201cWe need her leadership at the FDA now to ensure that the U.S. remains the WORLD LEADER for Scientific Discovery and CURES.\u201d He went on to say that, in the role, Overton would work with Health and Human Services Secretary Robert F. Kennedy Jr. and Centers for Medicare and Medicaid Services Administrator Dr. Mehmet Oz \u201cto RAPIDLY deliver on my priorities of FASTER Cures, INCREASED American Innovation, MAJOR Clinical Trial Reforms, LOWER Drug Prices, and even more MAHA WINS!\u201d If confirmed by the Republican-controlled Senate, Overt"
+     "published": "2026-08-19T13:04:02+00:00",
+     "summary": "State Representative Angie Nixon scored a stunning upset on Tuesday in Florida\u2019s Democratic Senate primary. Her victory will test the strength of a democratic socialist in a red state."
     },
     {
-     "outlet": "pbsnewshour",
-     "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
-     "url": "https://www.pbs.org/newshour/show/what-to-know-about-dr-heidi-overton-trumps-pick-to-lead-the-fda",
-     "author": "Bridget Craig",
+     "outlet": "the19th",
+     "title": "Angie Nixon notches an upset victory in Florida\u2019s Democratic Senate primary",
+     "url": "https://19thnews.org/2026/08/angie-nixon-wins-florida-democratic-senate-primary/",
+     "author": "Mel Leonor",
      "kind": "news",
-     "published": "2026-08-19T22:40:07+00:00",
-     "summary": "President Trump has tapped one of his top White House health policy aides, Dr. Heidi Overton, to lead the Food and Drug Administration. Overton has been a strong supporter of the president's health agenda, including efforts to overhaul the childhood vaccine schedule, changes that have drawn sharp criticism from medical experts. Geoff Bennett discussed more with Lauren Gardner of Politico."
-    },
-    {
-     "outlet": "thehill",
-     "title": "Trump\u2019s FDA nominee draws mixed reception",
-     "url": "https://thehill.com/newsletters/healthcare/6040025-trumps-fda-nominee-draws-mixed-reception/",
-     "author": "Nathaniel Weixel",
-     "kind": "news",
-     "published": "2026-08-19T22:24:30+00:00",
-     "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story Trump\u2019s FDA nominee draws mixed reception President Trump on Wednesday announced Dr. Heidi Overton as his pick to lead the Food and Drug Administration (FDA), which drew varied reactions from the health sector. \u00a9 Jacquelyn Martin, The Associated Press \u201cDr...."
-    },
-    {
-     "outlet": "thehill",
-     "title": "Cassidy criticizes Trump's FDA pick, says her role in vaccine order is 'almost disqualifying'",
-     "url": "https://thehill.com/homenews/senate/6039997-bill-cassidy-heidi-overton-fda-vaccines/",
-     "author": "Finya Swai",
-     "kind": "news",
-     "published": "2026-08-19T22:06:45+00:00",
-     "summary": "Sen. Bill Cassidy (R-La.), who chairs the Senate Health Committee, laid out his concerns over President Trump\u2019s choice to tap Dr. Heidi Overton to lead the Food and Drug Administration (FDA), saying her involvement in the administration\u2019s recent vaccine order is \u201calmost disqualifying.\u201d \u201cWhile I respect Dr. Overton\u2019s experience as a physician, I have strong..."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Trump to nominate Dr Heidi Overton as next FDA commissioner",
-     "url": "https://www.foxnews.com/politics/trump-nominate-dr-heidi-overton-next-fda-commissioner",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T16:45:31+00:00",
-     "summary": "President Donald Trump announced Wednesday that he is nominating Dr. Heidi Overton, his deputy assistant for domestic policy, as the next commissioner for the Food and Drug Administration (FDA). Trump said Overton, a physician known for her pro-life views, has been a \"ROCKSTAR\" in his administration so far. \"Dr. Overton will continue putting AMERICA FIRST, and creating a HEALTHY AMERICA,\" Trump said in a Truth Social post. \"She has worked directly with Secretary Kennedy, Dr. Oz, and team, to deliver on the MOST TRANSFORMATIVE Health Agenda in History. She is known to take on the HARDEST issues, and bring me solutions that work best for the Country,\" Trump added. FDA PROPOSES NEW OVERSIGHT OF FOOD ADDITIVES In Overton's current role, she regularly briefs the president on various health issues. Earlier this month, Overton was at Trump's side in the Oval Office as he signed an executive order that aimed to overhaul how many vaccines are recommended to children . A memo on the order recommends children receive immunizations for 11 diseases, fewer than the 18 current Centers for Disease Control and Prevention (CDC) guidelines. It also called for shots to be spaced out in separate visits"
-    },
-    {
-     "outlet": "axios",
-     "title": "Trump taps Heidi Overton as FDA commissioner",
-     "url": "https://www.axios.com/2026/08/19/trump-heidi-overton-fda-commissioner",
-     "author": "Caitlin Owens",
-     "kind": "news",
-     "published": "2026-08-19T16:39:12+00:00",
-     "summary": "President Trump has decided to nominate White House aide Heidi Overton to lead the Food and Drug Administration, according to a senior administration official. Why it matters: The agency was left in turmoil after the exit of former commissioner Marty Makary earlier this year, threatening the stability of U.S. drug development. Context: Overton, currently deputy director of the White House Domestic Policy Council , was one of several candidates that the White House had been considering for weeks. Though other top FDA positions still don't have permanent leadership, the senior administration official said more decisions will likely follow closely behind. Bloomberg first reported that Overton was the president's choice. The intrigue: Overton appeared at last week's signing of an executive order calling for an overhaul of the childhood vaccine schedule, including slimming down the number of federally recommended shots and splitting up the MMR vaccine into three different shots. \"We do still recommend the measles vaccine for all children, but we want parents to be informed about the timing and to have the option to separate them out,\" Overton said at the event. Between the lines: Overto"
+     "published": "2026-08-19T00:01:21+00:00",
+     "summary": "Florida Democrat Angie Nixon, a progressive who recently joined the Democratic Socialists of America, won Democrats\u2019 nomination for a U.S. Senate seat in a stunning upset that gave progressives a win in a highly unlikely state.&nbsp; Nixon, a Florida state representative and community organizer, defeated retired Lt. Col. Alex Vindman to face Republican Ashley Moody, who was appointed to fill the seat vacated by Secretary of State Marco Rubio in January 2025.&nbsp; Nixon\u2019s win in Florida is stunning given the state\u2019s large Latino population, which for years has punished Democrats who become linked to the \u201csocialist\u201d label. In the past decade, Republicans have grown their power in the state by appealing to the population\u2019s fears of socialism, pointing to authoritarian regimes in Cuba, Venezuela and elsewhere.&nbsp; In a victory speech Tuesday night, Nixon thanked \u201cthe hundreds of thousands of Floridians who stood up because they believe in a vision of a better Florida, that we deserve to thrive not just survive \u2014&nbsp;the voters that know we can have better and we can accomplish more for our communities, who believe that healthcare, childcare and housing are a human right.\u201d&nbsp; \u201cWe"
     }
    ]
   },
@@ -1393,9 +1386,9 @@
     "indieCount": 2,
     "big": [
      "lost",
-     "campaign",
+     "committee",
      "r-fla",
-     "committee"
+     "campaign"
     ],
     "indie": [
      "lawmaker"
@@ -1465,72 +1458,62 @@
    ]
   },
   {
-   "id": "c6247c5239",
+   "id": "a9ebe69e9f",
    "topic": "Politics",
-   "summary": "Overton has said that Congress should strictly regulate abortion drug mifepristone \u2018to protect women and children\u2019 Donald Trump nominated Dr Heidi Overton \u2013 an abortion opponent who stood next to the president as he made false claims about vaccines \u2013 to be commissioner of the US Food and Drug Administration (FDA). \u201cToday I am honored to nominate the wonderful Dr. Heidi Overton, MD, PhD, as our next FDA Commissioner. Dr. Heidi has been a ROCKSTAR in my Administration, where she has worked directly with Secretary Kennedy, Dr. Oz, and team, to deliver on the MOST TRANSFORMATIVE Health Agenda in History. She is known to take on the HARDEST issues, and bring me solutions that work best for the Country,\u201d the president wrote on Truth Social on Wednesday. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [
-     "house",
-     "white"
-    ],
-    "indie": [
-     "nominates"
-    ]
-   },
+   "summary": "A Missouri judge handed President Donald Trump and Republicans a major redistricting victory Wednesday, ruling that the state's referendum process cannot be used to challenge congressional maps drawn by the Legislature and allowing a new GOP-friendly map to remain in place for November's midterm elections. Cole County Circuit Judge Daniel Green ruled Wednesday that Missouri's constitutional referendum provisions \"do not apply to congressional redistricting enacted by the General Assembly,\" siding with Republican Secretary of State Denny Hoskins in a closely watched fight over a Trump-backed map that could help determine control of the U.S. House. Green also ruled that Hoskins' decision not to certify the referendum petition was \"lawful\" and ordered that the Republican-backed congressional map \"remains in full force and effect for the 2026 general election.\" TRUMP ALLIES NOTCH\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
    "absent": [
-    "coop"
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
    ],
-   "headline": "Trump nominates aide Heidi Overton to lead US Food and Drug Administration",
-   "updated": "2026-08-20T02:20:41+00:00",
+   "headline": "Missouri judge hands Trump, GOP major redistricting win ahead of midterm elections",
+   "updated": "2026-08-20T03:52:49+00:00",
    "outletCount": 4,
    "counts": {
-    "family": 1,
-    "corp": 1,
-    "pub": 1,
-    "nonprofit": 1
+    "family": 4
    },
-   "newsCount": 4,
-   "opinionCount": 0,
+   "newsCount": 3,
+   "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
+     "outlet": "foxnews",
+     "title": "Missouri judge hands Trump, GOP major redistricting win ahead of midterm elections",
+     "url": "https://www.foxnews.com/politics/missouri-judge-hands-trump-gop-major-redistricting-win-ahead-midterm-elections",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T03:52:49+00:00",
+     "summary": "A Missouri judge handed President Donald Trump and Republicans a major redistricting victory Wednesday, ruling that the state's referendum process cannot be used to challenge congressional maps drawn by the Legislature and allowing a new GOP-friendly map to remain in place for November's midterm elections. Cole County Circuit Judge Daniel Green ruled Wednesday that Missouri's constitutional referendum provisions \"do not apply to congressional redistricting enacted by the General Assembly,\" siding with Republican Secretary of State Denny Hoskins in a closely watched fight over a Trump-backed map that could help determine control of the U.S. House. Green also ruled that Hoskins' decision not to certify the referendum petition was \"lawful\" and ordered that the Republican-backed congressional map \"remains in full force and effect for the 2026 general election.\" TRUMP ALLIES NOTCH REDISTRICTING WIN AS JUDGES FIND NO 'SMOKING GUN' TO SCRAP RED STATE MAP Plaintiff Richard von Glahn appealed the ruling Wednesday evening, according to the court docket . The ruling preserves a map passed by Missouri's Republican-led Legislature after Trump urged GOP-controlled states to redraw congressional "
+    },
+    {
      "outlet": "nypost",
-     "title": "Betting favorite to succeed Karoline Leavitt says she\u2019s \u2018not in the running\u2019 for White House press secretary job",
-     "url": "https://nypost.com/2026/08/19/us-news/betting-favorite-to-succeed-karoline-leavitt-says-shes-not-in-the-running-for-white-house-press-secretary-job/",
-     "author": "Victor Nava",
+     "title": "Missouri court approves GOP-friendly US House districts to be used in November election in huge win for Trump admin",
+     "url": "https://nypost.com/2026/08/19/us-news/missouri-court-approves-gop-friendly-us-house-districts-to-be-used-in-november-election/",
+     "author": "Associated Press",
      "kind": "news",
-     "published": "2026-08-20T02:20:41+00:00",
-     "summary": "\u201cFlattered by the Kalshi odds, but I\u2019m not in the running for any job,\u201d Alina Habba wrote on X."
+     "published": "2026-08-20T02:25:54+00:00",
+     "summary": "The ruling Wednesday by Cole County Circuit Judge Daniel Green is a victory for Republicans seeking to hold onto their slim majority in the U.S. House. But the case is likely to end up in the state Supreme Court."
     },
     {
-     "outlet": "abcnews",
-     "title": "Trump picks White House aide Dr. Heidi Overton for top FDA job",
-     "url": "https://abcnews.com/Politics/trump-picks-dr-heidi-overton-top-fda-job/story?id=135777387",
-     "author": null,
+     "outlet": "wapo",
+     "title": "How Trump\u2019s dismissive comment could damage GOP chances in a key House race",
+     "url": "https://www.washingtonpost.com/politics/2026/08/19/how-trumps-dismissiveness-iran-could-impact-key-house-race/",
+     "author": "Dan Merica",
      "kind": "news",
-     "published": "2026-08-19T20:55:11+00:00",
-     "summary": "Trump nominated Overton to be the next commissioner of the Food and Drug Administration."
+     "published": "2026-08-19T10:17:14+00:00",
+     "summary": "The president has minimized poor conditions about the USS Abraham Lincoln. That could complicate a key House race."
     },
     {
-     "outlet": "bbc",
-     "title": "Trump nominates aide Heidi Overton to lead US Food and Drug Administration",
-     "url": "https://www.bbc.co.uk/news/articles/ckg3j6xzxk2o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T16:55:23+00:00",
-     "summary": "A former conservative think tank leader, she holds degrees from University of New Mexico School of Medicine and Johns Hopkins' Bloomberg School of Public Health."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump nominates abortion opponent Heidi Overton to be head of FDA",
-     "url": "https://www.theguardian.com/us-news/2026/aug/19/heidi-overton-fda-commissioner-nomination",
-     "author": "Jessica Glenza",
-     "kind": "news",
-     "published": "2026-08-19T16:31:59+00:00",
-     "summary": "Overton has said that Congress should strictly regulate abortion drug mifepristone \u2018to protect women and children\u2019 Donald Trump nominated Dr Heidi Overton \u2013 an abortion opponent who stood next to the president as he made false claims about vaccines \u2013 to be commissioner of the US Food and Drug Administration (FDA). \u201cToday I am honored to nominate the wonderful Dr. Heidi Overton, MD, PhD, as our next FDA Commissioner. Dr. Heidi has been a ROCKSTAR in my Administration, where she has worked directly with Secretary Kennedy, Dr. Oz, and team, to deliver on the MOST TRANSFORMATIVE Health Agenda in History. She is known to take on the HARDEST issues, and bring me solutions that work best for the Country,\u201d the president wrote on Truth Social on Wednesday. Continue reading..."
+     "outlet": "dailywire",
+     "title": "Businessman Defeats 2 Felons, A Trump Endorsee, And Madison Cawthorn For GOP House Nomination",
+     "url": "https://www.dailywire.com/news/businessman-defeats-2-felons-a-trump-endorsee-and-madison-cawthorn-for-gop-house-nomination",
+     "author": "Leif Le Mahieu",
+     "kind": "opinion",
+     "published": "2026-08-19T09:26:11+00:00",
+     "summary": "A Florida businessman won a chaotic Republican House primary that featured a former Trump adviser, two former congressmen from different states, and a January 6 defendant. Media mogul Jim Schwartzel defeated nine other candidates to win the GOP nomination to replace Rep. Byron Donalds in Florida\u2019s 19th Congressional District on Tuesday. Schwartzel defeated the Trump-endorsed Catalina Lauf, earning 29% of the vote to the former Commerce Department adviser\u2019s 22%. Other candidates in the race included former Illinois state Senator Jim Oberweis, former North Carolina Rep. Madison Cawthorn, former New York Rep. Chris Collins, and January 6 defendant John Strand. The seat opened up after Donalds decided to run for governor. President Donald Trump endorsed Lauf last week, saying she \u201chas proven she has the Courage and Wisdom to deliver strong results for the incredible people of her State and Nation.\u201d Before her run for Donald&#8217;s seat, Lauf ran for Congress in Illinois twice, including once in the Republican primary against Oberweis. Cawthorn represented North Carolina&#8217;s 11th district in Congress from 2021 to 2023, and he made national headlines for saying he was invited to coc"
     }
    ]
   },
@@ -1603,10 +1586,10 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "memo",
      "warns",
+     "obtained",
      "husted",
-     "obtained"
+     "memo"
     ],
     "indie": [
      "raising"
@@ -1787,6 +1770,66 @@
    ]
   },
   {
+   "id": "639d0f8393",
+   "topic": "Politics",
+   "summary": "A White House aide is becoming a household name due to a feeding frenzy by liberal media stemming from a comment by an ambitious Democrat. Sen. Jon Ossoff, D-Ga., who polls currently suggest will win re-election in November and has already been generating 2028 presidential buzz, went viral over the weekend for a jab he made at President Donald Trump , heavily suggesting Trump was having an inappropriate relationship with his personal aide, Natalie Harp. Ossoff claimed Trump would rather \"build a ballroom and travel with Natalie\" than do his job as president. The comment drew instant backlash from conservatives. When asked about it on MS NOW, Ossoff insisted he referenced her merely as Trump's \"security blanket\" and nothing more, leaving conservatives to pummel him as a \"coward\" for not standing behind what they considered to be sexist innuendo. JON OSSOFF DODGES ON WHY HE INVOKED TRUMP\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Trump\u2019s White House Business Shindig Will Be a Cesspool of Financial Conflicts",
+   "updated": "2026-08-20T00:15:46+00:00",
+   "outletCount": 4,
+   "counts": {
+    "family": 2,
+    "corp": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "forbes",
+     "title": "Natalie Harp Worked At White House For Over A Year Without Security Clearance, Report Says",
+     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/19/natalie-harp-worked-at-white-house-for-over-a-year-without-security-clearance-report-says/",
+     "author": "Antonio Peque\u00f1o IV, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-20T00:15:46+00:00",
+     "summary": "Natalie Harp, a close aide to President Donald Trump, has surged into the national spotlight over her near-constant presence around the president."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Jon Ossoff's controversial Trump jab sparks media feeding frenzy over White House aide Natalie Harp",
+     "url": "https://www.foxnews.com/media/jon-ossoffs-controversial-trump-jab-sparks-media-feeding-frenzy-over-white-house-aide-natalie-harp",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T22:57:18+00:00",
+     "summary": "A White House aide is becoming a household name due to a feeding frenzy by liberal media stemming from a comment by an ambitious Democrat. Sen. Jon Ossoff, D-Ga., who polls currently suggest will win re-election in November and has already been generating 2028 presidential buzz, went viral over the weekend for a jab he made at President Donald Trump , heavily suggesting Trump was having an inappropriate relationship with his personal aide, Natalie Harp. Ossoff claimed Trump would rather \"build a ballroom and travel with Natalie\" than do his job as president. The comment drew instant backlash from conservatives. When asked about it on MS NOW, Ossoff insisted he referenced her merely as Trump's \"security blanket\" and nothing more, leaving conservatives to pummel him as a \"coward\" for not standing behind what they considered to be sexist innuendo. JON OSSOFF DODGES ON WHY HE INVOKED TRUMP AIDE'S NAME DURING GEORGIA CAMPAIGN RALLY Still, that hasn't stopped the media from obsessing over the 35-year-old White House aide. The New York Times published a profile on how Harp \"emerge[d]\" in the national spotlight after Ossoff's comment. \"She never takes a day off, not even on Sunday,\" the Ti"
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Opinion: Here\u2019s the Real Role Natalie Harp Fills in Trump\u2019s White House",
+     "url": "https://www.thedailybeast.com/heres-the-real-role-natalie-harp-fills-in-trumps-white-house/",
+     "author": "Michael Ian Black",
+     "kind": "opinion",
+     "published": "2026-08-19T21:55:00+00:00",
+     "summary": "Photo Illustration by Eric Faison/The Daily Beast/Getty We\u2019ve all been hearing an awful lot about Natalie Harp of late. The perky blonde 35-year-old is forever at our octogenarian president\u2019s side, her bright eyes beaming. She first came to the world\u2019s attention as \u201cThe Human Printer,\u201d an aide who traveled with Trump during his years in exile at Mar-A-Lago. Harp\u2019s job was, as that nickname suggests, to travel with both Trump and a computer printer , which she used to print out complimentary tweets, memes and various text-based ephemera. Kind of like the way you keep a toddler distracted with rattles and chew toys. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "motherjones",
+     "title": "Trump\u2019s White House Business Shindig Will Be a Cesspool of Financial Conflicts",
+     "url": "https://www.motherjones.com/politics/2026/08/trump-conflicts-interest-crypto-world-liberty-financial-prediction-markets-polymarket-kalshi-corruption-cftc/",
+     "author": "Russ Choma",
+     "kind": "news",
+     "published": "2026-08-18T22:46:15+00:00",
+     "summary": "Donald Trump will welcome the leaders of major cryptocurrency and prediction-market companies to the White House on Wednesday to discuss how they should be regulated\u2014a potential make-or-break moment for nascent industries that have struggled to establish themselves as credible and legal. As it happens, Trump himself is a crypto and prediction-market leader. The president and his adult children are major investors in both industries. In the past, presidents have divested from their business interests while serving, or have taken pains to distance themselves from any involvement. During his second term, Trump has done essentially the opposite. And his hand in the regulation of two industries he&#8217;s directly involved with is merely one headline from this president&#8217;s Financial Conflicts News of the Week. Consider World Liberty Financial, a crypto firm Trump co-owns, in which a senior government official from the United Arab Emirates acquired a $500 million stake just months before the administration, ignoring national security concerns, agreed to provide the UAE with America&#8217;s most advanced AI chips. World Liberty Financial calls itself as a &#8220;de-fi&#8221; company\u2014"
+    }
+   ]
+  },
+  {
    "id": "fb19603083",
    "topic": "Politics",
    "summary": "Florida state Rep. Angie Nixon, a member of the Democratic Socialists of America (DSA), scored a major upset Tuesday night by defeating former Trump impeachment witness Alex Vindman for the Democratic nomination for U.S. Senate. Nixon, a leftist firebrand from Jacksonville, will face Sen. Ashley Moody (R-FL) in November to determine who will serve the final two years of Secretary of State Marco Rubio\u2019s Senate term. The upset is a major victory for the Democratic Party\u2019s Left-wing \u2014 and potentially a major boost for Republicans in a state President Donald Trump won by 13 points in 2024. Vindman vastly outraised Nixon during the primary, bringing in roughly $16.3 million compared to Nixon\u2019s $975,000. Nixon instead relied heavily on grassroots organizing, unions and left-wing activists. Nixon joined the DSA in June and is also a member of the Working Families Party and the Service\u2026",
@@ -1927,12 +1970,12 @@
      "hits"
     ],
     "indie": [
-     "tuesday",
-     "treasury",
-     "time",
      "national",
-     "gross",
-     "wednesday"
+     "wednesday",
+     "treasury",
+     "showed",
+     "time",
+     "tuesday"
     ]
    },
    "absent": [
@@ -2170,10 +2213,112 @@
    ]
   },
   {
-   "id": "ac531c2348",
-   "topic": "Politics",
-   "summary": "A Florida businessman won a chaotic Republican House primary that featured a former Trump adviser, two former congressmen from different states, and a January 6 defendant. Media mogul Jim Schwartzel defeated nine other candidates to win the GOP nomination to replace Rep. Byron Donalds in Florida\u2019s 19th Congressional District on Tuesday. Schwartzel defeated the Trump-endorsed Catalina Lauf, earning 29% of the vote to the former Commerce Department adviser\u2019s 22%. Other candidates in the race included former Illinois state Senator Jim Oberweis, former North Carolina Rep. Madison Cawthorn, former New York Rep. Chris Collins, and January 6 defendant John Strand. The seat opened up after Donalds decided to run for governor. President Donald Trump endorsed Lauf last week, saying she \u201chas proven she has the Courage and Wisdom to deliver strong results for the incredible people of her State and\u2026",
-   "summaryFrom": "dailywire",
+   "id": "c87af25ab3",
+   "topic": "Culture & Sport",
+   "summary": "The 2026 LIV Golf season will end this weekend at LIV Golf Indianapolis. The 4 Aces GC fellows have a narrow lead over Ripper GC in the team championship, which I guess they will uhh look to maintain or whatever. Don't worry about it. That team title was supposed to be decided the final weekend of August in Plymouth, Mich., but that event has now been officially cancelled, as was long anticipated . The stupid, broke league simply lacks the money to run it. The payouts for the finale will be significantly reduced. Without the outrageous support of the Saudi Public Investment Fund, LIV Golf cannot continue to dump huge prize money into its noisy, broadly three-quarter-assed events. The bonus pool for the player championship, per Golf Magazine , will be $10 million, down from $30 million in 2025. The bonus pool for the team championship\u2014an utterly inconsequential competition to every\u2026",
+   "summaryFrom": "defector",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "LIV Golf CEO says rebel league \u2018doing everything we can\u2019 over vendor payment issues",
+   "updated": "2026-08-20T03:55:25+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "coop": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "LIV Golf CEO says rebel league \u2018doing everything we can\u2019 over vendor payment issues",
+     "url": "https://nypost.com/2026/08/19/sports/liv-golf-ceo-addresses-vendor-payment-issues/",
+     "author": "Christian Arnold",
+     "kind": "news",
+     "published": "2026-08-20T03:55:25+00:00",
+     "summary": "LIV Golf CEO Scott O'Neil did little to quell the ire over the league\u2019s reported issues of paying vendors and contractors for work they\u2019ve done."
+    },
+    {
+     "outlet": "forbes",
+     "title": "LIV Golf CEO Addresses League\u2019s Future Ahead Of LIV Season Finale",
+     "url": "https://www.forbes.com/sites/break80/2026/08/19/liv-ceo-optimistically-addresses-leagues-future-before-season-finale/",
+     "author": "Zach Schenfisch, Contributor",
+     "kind": "news",
+     "published": "2026-08-19T21:34:55+00:00",
+     "summary": "LIV Golf CEO Scott O'Neil addressed media Wednesday prior to the 2026 season finale."
+    },
+    {
+     "outlet": "defector",
+     "title": "LIV Golf Pros Meet Their New Investor Overlord At Season\u2019s Sudden Conclusion",
+     "url": "https://defector.com/liv-golf-pros-meet-their-new-investor-overlord-at-seasons-sudden-conclusion",
+     "author": "Chris Thompson",
+     "kind": "news",
+     "published": "2026-08-19T17:18:31+00:00",
+     "summary": "The 2026 LIV Golf season will end this weekend at LIV Golf Indianapolis. The 4 Aces GC fellows have a narrow lead over Ripper GC in the team championship, which I guess they will uhh look to maintain or whatever. Don't worry about it. That team title was supposed to be decided the final weekend of August in Plymouth, Mich., but that event has now been officially cancelled, as was long anticipated . The stupid, broke league simply lacks the money to run it. The payouts for the finale will be significantly reduced. Without the outrageous support of the Saudi Public Investment Fund, LIV Golf cannot continue to dump huge prize money into its noisy, broadly three-quarter-assed events. The bonus pool for the player championship, per Golf Magazine , will be $10 million, down from $30 million in 2025. The bonus pool for the team championship\u2014an utterly inconsequential competition to every living creature on Earth except for the handful of people in line to win a share of the prize\u2014will be $30 million, down from $50 million in 2025. The bonus pool for the LIV Indianapolis event, separate from the championships it will decide, has also been cut in half. That's still a lot of cash to hand out"
+    }
+   ]
+  },
+  {
+   "id": "e6bf991e39",
+   "topic": "Other",
+   "summary": "A rendering of the Neil Gehrels Swift Observatory. Image: NASA NASA is calling off an attempt to save a space observatory falling out of orbit, dooming it to a fiery death in Earth's atmosphere. Why it matters: The Swift Boost Mission was an ambitious effort to rescue the Neil Gehrels Swift Observatory and demonstrate the concept of grabbing onto and moving a satellite. Driving the news: NASA canceled the attempt after weeks of attitude control issues plagued LINK, a privately built spacecraft designed to rendezvous with Swift, grab on and push it to a higher, more stable orbit. Swift had fallen into an unstable orbit earlier than expected and has no propulsion system of its own to raise its orbit. Yes, but: LINK will still try to meet up with Swift and conduct \"proximity operations\" to learn as much as possible about the concept of satellite relocation. What they're saying: \"This is\u2026",
+   "summaryFrom": "axios",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "NASA satellite rescue mission fails, swift telescope set to fall to earth",
+   "updated": "2026-08-20T03:31:11+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 1,
+    "corp": 2
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "NASA satellite rescue mission fails, swift telescope set to fall to earth",
+     "url": "https://www.france24.com/en/americas/20260820-nasa-satellite-rescue-mission-fails-swift-telescope-set-to-fall-to-earth",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-20T03:31:11+00:00",
+     "summary": "NASA said on Wednesday a $30 million mission to save its Swift space telescope had failed after the rescue spacecraft could not be controlled. The unprecedented effort aimed to use a robot to move Swift into a higher orbit. The satellite is now expected to re-enter Earth\u2019s atmosphere and disintegrate later this year."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "NASA mission to save its sinking space telescope fails",
+     "url": "https://www.nbcnews.com/science/space/nasa-swift-space-telescope-boost-mission-fails-rcna593421",
+     "author": "Denise Chow",
+     "kind": "news",
+     "published": "2026-08-19T21:54:34+00:00",
+     "summary": "NASA\u2019s Neil Gehrels Swift Observatory, shown in an artist\u2019s concept, has orbited Earth for more than 20 years, studying the ever-changing universe."
+    },
+    {
+     "outlet": "axios",
+     "title": "NASA aborts attempt to save dying space telescope",
+     "url": "https://www.axios.com/2026/08/19/nasa-swift-boost-mission-canceled-link",
+     "author": "Alex Fitzpatrick",
+     "kind": "news",
+     "published": "2026-08-19T19:33:01+00:00",
+     "summary": "A rendering of the Neil Gehrels Swift Observatory. Image: NASA NASA is calling off an attempt to save a space observatory falling out of orbit, dooming it to a fiery death in Earth's atmosphere. Why it matters: The Swift Boost Mission was an ambitious effort to rescue the Neil Gehrels Swift Observatory and demonstrate the concept of grabbing onto and moving a satellite. Driving the news: NASA canceled the attempt after weeks of attitude control issues plagued LINK, a privately built spacecraft designed to rendezvous with Swift, grab on and push it to a higher, more stable orbit. Swift had fallen into an unstable orbit earlier than expected and has no propulsion system of its own to raise its orbit. Yes, but: LINK will still try to meet up with Swift and conduct \"proximity operations\" to learn as much as possible about the concept of satellite relocation. What they're saying: \"This is not the outcome we were working toward, but it does not change why this mission was worth attempting,\" NASA Administrator Jared Isaacman said in a statement. \"The team moved with extraordinary speed to give Swift a chance to carry out more science while advancing capabilities America will need for sate"
+    }
+   ]
+  },
+  {
+   "id": "80a7d1d0c0",
+   "topic": "Justice & Policing",
+   "summary": "The man accused of operating an overcrowded, unlicensed boat tour that capsized near Liberty Island , killing a mother and her infant daughter earlier this month, was living in the U.S. illegally and is now in ICE custody, according to the Department of Homeland Security. Manuel Hernandez, 46, an El Salvador national, was taken into immigration custody after a U.S. Coast Guard Investigative Service investigation confirmed he was unlawfully present in the country, according to DHS. Hernandez was initially charged by New York authorities with 13 counts of reckless endangerment and was later federally charged with two counts of misconduct and neglect of a ship officer resulting in death in connection with the Aug. 8 capsizing in New York Harbor . OVERCROWDED MIGRANT VESSEL WITH 240 PEOPLE ON BOARD INTERCEPTED NEAR TURKS AND CAICOS Federal prosecutors allege Hernandez was operating\u2026",
+   "summaryFrom": "foxnews",
    "emphasis": null,
    "absent": [
     "corp",
@@ -2181,8 +2326,8 @@
     "nonprofit",
     "pub"
    ],
-   "headline": "Missouri court approves GOP-friendly US House districts to be used in November election in huge win for Trump admin",
-   "updated": "2026-08-20T02:25:54+00:00",
+   "headline": "Illegal immigrant accused of operating overcrowded boat that capsized near Liberty Island arrested by ICE",
+   "updated": "2026-08-20T03:18:27+00:00",
    "outletCount": 3,
    "counts": {
     "family": 3
@@ -2192,31 +2337,91 @@
    "underreported": false,
    "articles": [
     {
-     "outlet": "nypost",
-     "title": "Missouri court approves GOP-friendly US House districts to be used in November election in huge win for Trump admin",
-     "url": "https://nypost.com/2026/08/19/us-news/missouri-court-approves-gop-friendly-us-house-districts-to-be-used-in-november-election/",
-     "author": "Associated Press",
+     "outlet": "foxnews",
+     "title": "Illegal immigrant accused of operating overcrowded boat that capsized near Liberty Island arrested by ICE",
+     "url": "https://www.foxnews.com/us/illegal-immigrant-accused-operating-overcrowded-boat-capsized-liberty-island-arrested-ice",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-20T02:25:54+00:00",
-     "summary": "The ruling Wednesday by Cole County Circuit Judge Daniel Green is a victory for Republicans seeking to hold onto their slim majority in the U.S. House. But the case is likely to end up in the state Supreme Court."
+     "published": "2026-08-20T03:18:27+00:00",
+     "summary": "The man accused of operating an overcrowded, unlicensed boat tour that capsized near Liberty Island , killing a mother and her infant daughter earlier this month, was living in the U.S. illegally and is now in ICE custody, according to the Department of Homeland Security. Manuel Hernandez, 46, an El Salvador national, was taken into immigration custody after a U.S. Coast Guard Investigative Service investigation confirmed he was unlawfully present in the country, according to DHS. Hernandez was initially charged by New York authorities with 13 counts of reckless endangerment and was later federally charged with two counts of misconduct and neglect of a ship officer resulting in death in connection with the Aug. 8 capsizing in New York Harbor . OVERCROWDED MIGRANT VESSEL WITH 240 PEOPLE ON BOARD INTERCEPTED NEAR TURKS AND CAICOS Federal prosecutors allege Hernandez was operating unlicensed boat tours and ignored multiple safety requirements before the fatal excursion, which killed a 5-month-old girl and her 27-year-old mother. DHS said Hernandez claims he illegally entered the United States through Texas in 2007. He allegedly lied to a U.S. Customs and Border Protection (CBP) office"
     },
     {
-     "outlet": "wapo",
-     "title": "How Trump\u2019s dismissive comment could damage GOP chances in a key House race",
-     "url": "https://www.washingtonpost.com/politics/2026/08/19/how-trumps-dismissiveness-iran-could-impact-key-house-race/",
-     "author": "Dan Merica",
+     "outlet": "breitbart",
+     "title": "Virginia: ICE Arrests Accused Illegal Alien Pedophiles for Child Rape, Soliciting Sex from Minors",
+     "url": "https://www.breitbart.com/politics/2026/08/19/virginia-ice-arrests-accused-illegal-alien-pedophiles-for-child-rape-soliciting-sex-from-minors/",
+     "author": "John Binder",
      "kind": "news",
-     "published": "2026-08-19T10:17:14+00:00",
-     "summary": "The president has minimized poor conditions about the USS Abraham Lincoln. That could complicate a key House race."
+     "published": "2026-08-19T20:15:01+00:00",
+     "summary": "Immigration and Customs Enforcement (ICE) has arrested illegal aliens accused of child sexual abuse in Virginia after Gov. Abigail Spanberger (D) ended cooperation with the agency statewide. The post Virginia: ICE Arrests Accused Illegal Alien Pedophiles for Child Rape, Soliciting Sex from Minors appeared first on Breitbart ."
     },
     {
      "outlet": "dailywire",
-     "title": "Businessman Defeats 2 Felons, A Trump Endorsee, And Madison Cawthorn For GOP House Nomination",
-     "url": "https://www.dailywire.com/news/businessman-defeats-2-felons-a-trump-endorsee-and-madison-cawthorn-for-gop-house-nomination",
-     "author": "Leif Le Mahieu",
+     "title": "Disturbing Details Emerge After Illegal Immigrant Kills Mother Of Young Child",
+     "url": "https://www.dailywire.com/news/disturbing-details-emerge-after-illegal-immigrant-kills-mother-of-young-child",
+     "author": "Jennie Taer",
      "kind": "opinion",
-     "published": "2026-08-19T09:26:11+00:00",
-     "summary": "A Florida businessman won a chaotic Republican House primary that featured a former Trump adviser, two former congressmen from different states, and a January 6 defendant. Media mogul Jim Schwartzel defeated nine other candidates to win the GOP nomination to replace Rep. Byron Donalds in Florida\u2019s 19th Congressional District on Tuesday. Schwartzel defeated the Trump-endorsed Catalina Lauf, earning 29% of the vote to the former Commerce Department adviser\u2019s 22%. Other candidates in the race included former Illinois state Senator Jim Oberweis, former North Carolina Rep. Madison Cawthorn, former New York Rep. Chris Collins, and January 6 defendant John Strand. The seat opened up after Donalds decided to run for governor. President Donald Trump endorsed Lauf last week, saying she \u201chas proven she has the Courage and Wisdom to deliver strong results for the incredible people of her State and Nation.\u201d Before her run for Donald&#8217;s seat, Lauf ran for Congress in Illinois twice, including once in the Republican primary against Oberweis. Cawthorn represented North Carolina&#8217;s 11th district in Congress from 2021 to 2023, and he made national headlines for saying he was invited to coc"
+     "published": "2026-08-19T15:21:35+00:00",
+     "summary": "Authorities revealed that the illegal immigrant accused of killing the mother of a young child in Virginia grabbed a weapon and filled a bottle with gasoline before the fatal stabbing. Salvadoran national Alexis Antonio Cedillos-Campos, 19, allegedly murdered Carmen Lizet Puch, 42, at a park in Great Falls, Virginia. During a press conference Wednesday afternoon, authorities shared that Cedillos-Campos and Puch worked together at a local restaurant and were involved in an &#8220;intimate relationship.&#8221; Fairfax County Police Chief Kevin Davis said the two planned to meet at the park on Monday morning. The night before the killing, Cedillos-Campos left the restaurant armed with a fixed-blade knife, black latex gloves, and a water bottle that he later filled with gasoline, all of which he took from the business, Davis said, adding that it was &#8220;all very premeditated.&#8221; &#8220;He ended up siphoning gasoline out of his motorcycle. He filled the water bottle with gasoline after he dumped the water,&#8221; Davis said. Authorities believe Cedillos-Campos fatally stabbed Puch inside her car before dumping her body in the parking lot. &#8220;We know that our killer stabbed ou"
+    }
+   ]
+  },
+  {
+   "id": "739b0c59d6",
+   "topic": "World",
+   "summary": "The Trump administration is poised to reduce tariffs on automobiles imported from Canada to 15% from 25% as part of a broader deal that would see the US neighbor drop retaliatory trade measures, according to people familiar with the matter.",
+   "summaryFrom": "bloomberg",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Canada and US say they are finalising a trade deal",
+   "updated": "2026-08-20T03:10:48+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 1,
+    "family": 2,
+    "corp": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Canada and US say they are finalising a trade deal",
+     "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T03:10:48+00:00",
+     "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Trump Set to Cut Canada Auto Tariffs to 15% in Trade Deal",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-19/trump-offers-to-cut-canada-auto-tariffs-to-15-in-trade-deal",
+     "author": "Josh Wingrove, David Welch and Gabrielle Coppola",
+     "kind": "news",
+     "published": "2026-08-19T20:51:36+00:00",
+     "summary": "The Trump administration is poised to reduce tariffs on automobiles imported from Canada to 15% from 25% as part of a broader deal that would see the US neighbor drop retaliatory trade measures, according to people familiar with the matter."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump announces temporary pause on Canada tariffs, citing new deal",
+     "url": "https://abcnews.com/International/trump-announces-temporary-pause-new-canada-tariffs/story?id=135759598",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T20:50:59+00:00",
+     "summary": "The president said he had a \"very good conversation\" with Canadian Prime Minister Mark Carney."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Trump\u2019s Fast-Track Presidency Hits Pause on Tariffs, Iran and DC Makeover",
+     "url": "https://www.bloomberg.com/news/newsletters/2026-08-19/trump-s-fast-track-presidency-hits-pause-on-tariffs-iran-and-dc-makeover",
+     "author": "Jeff Mason",
+     "kind": "news",
+     "published": "2026-08-19T20:33:39+00:00",
+     "summary": "After racing through his second-term agenda, the president is now taking his time on his signature policies \u2014 sometimes not by choice."
     }
    ]
   },
@@ -2374,57 +2579,6 @@
    ]
   },
   {
-   "id": "c659a6e19e",
-   "topic": "Culture & Sport",
-   "summary": "Two members of the Milligan University cycling team were killed in a crash involving a vehicle while out for a ride on Wednesday. The university, located in the Johnson City area in the northeastern corner of Tennessee, said that sophomores Haylan Engdahl and Brayden Rodgers died in the crash. Other riders have been taken to the hospital, including one person who was airlifted from the scene. At present, little more is known about the circumstances of the crash beyond the involvement of a motor vehicle and multiple riders.",
-   "summaryFrom": "escapecollective",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Two students killed, driver charged after crash into Tennessee college cycling team",
-   "updated": "2026-08-20T01:12:14+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 2,
-    "coop": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nbcnews",
-     "title": "Two students killed, driver charged after crash into Tennessee college cycling team",
-     "url": "https://www.nbcnews.com/news/us-news/two-students-killed-driver-charged-crash-tennessee-college-cycling-tea-rcna593466",
-     "author": "Phil Helsel",
-     "kind": "news",
-     "published": "2026-08-20T01:12:14+00:00",
-     "summary": "Traffic stopped along Highway 19 in Carter County, Tenn. at the scene where two Tennessee college team cyclists were killed by a motorist while training on Aug. 19, 2026."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "2 members of Tennessee college cycling team killed in highway collision",
-     "url": "https://www.cbsnews.com/news/tennessee-milligan-university-cycling-team-fatalities-highway-crash/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T22:21:00+00:00",
-     "summary": "Two members of the Milligan University cycling team were killed, and several more injured, in a collision with a vehicle on a rural highway in eastern Tennessee Wednesday morning."
-    },
-    {
-     "outlet": "escapecollective",
-     "title": "Two collegiate cyclists killed in collision with vehicle",
-     "url": "https://escapecollective.com/two-collegiate-cyclists-killed-in-collision-with-vehicle/",
-     "author": "Dane Cash",
-     "kind": "news",
-     "published": "2026-08-19T19:28:35+00:00",
-     "summary": "Two members of the Milligan University cycling team were killed in a crash involving a vehicle while out for a ride on Wednesday. The university, located in the Johnson City area in the northeastern corner of Tennessee, said that sophomores Haylan Engdahl and Brayden Rodgers died in the crash. Other riders have been taken to the hospital, including one person who was airlifted from the scene. At present, little more is known about the circumstances of the crash beyond the involvement of a motor vehicle and multiple riders."
-    }
-   ]
-  },
-  {
    "id": "0c4aa12c3e",
    "topic": "Politics",
    "summary": "Another Democratic Socialists of America (DSA) member just toppled the party establishment\u2019s preferred candidate, this time in Florida. Florida state lawmaker Angie Nixon, who recently disrupted a vote in the Florida Legislature with a bullhorn protest inside the state Capitol, defeated establishment-backed candidate Alexander Vindman. Nixon, a progressive activist and DSA member, defeated the retired Air Force officer by more than 10 percentage points despite Vindman\u2019s $16.3 million campaign war chest compared to Nixon\u2019s roughly $1 million. SOCIALISTS CAPTURE MAJOR FLORIDA VICTORY ON HIT-OR-MISS NIGHT FOR TRUMP-ENDORSED PRIMARY CANDIDATES Nixon\u2019s viral moment came in April when she took a bullhorn to a legislative fight , walking down the aisle and disrupting proceedings on the Florida House floor during final passage of a redistricting bill backed by Gov. Ron DeSantis. Dressed in a\u2026",
@@ -2472,66 +2626,6 @@
      "kind": "news",
      "published": "2026-08-19T16:33:44+00:00",
      "summary": "Another Democratic Socialists of America (DSA) member just toppled the party establishment\u2019s preferred candidate, this time in Florida. Florida state lawmaker Angie Nixon, who recently disrupted a vote in the Florida Legislature with a bullhorn protest inside the state Capitol, defeated establishment-backed candidate Alexander Vindman. Nixon, a progressive activist and DSA member, defeated the retired Air Force officer by more than 10 percentage points despite Vindman\u2019s $16.3 million campaign war chest compared to Nixon\u2019s roughly $1 million. SOCIALISTS CAPTURE MAJOR FLORIDA VICTORY ON HIT-OR-MISS NIGHT FOR TRUMP-ENDORSED PRIMARY CANDIDATES Nixon\u2019s viral moment came in April when she took a bullhorn to a legislative fight , walking down the aisle and disrupting proceedings on the Florida House floor during final passage of a redistricting bill backed by Gov. Ron DeSantis. Dressed in a pink jumpsuit and carrying a pink megaphone, Nixon approached the House speaker's dais and shouted to fellow Florida representatives as the final vote was called. She shouted, \"This is a violation of the Constitution! It is!\" Nixon continued shouting into the bullhorn for the entirety of the vote. She "
-    }
-   ]
-  },
-  {
-   "id": "b11d44e8e4",
-   "topic": "World",
-   "summary": "The Trump administration is poised to reduce tariffs on automobiles imported from Canada to 15% from 25% as part of a broader deal that would see the US neighbor drop retaliatory trade measures, according to people familiar with the matter.",
-   "summaryFrom": "bloomberg",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Canada and US say they are finalising a trade deal, but details remain murky",
-   "updated": "2026-08-20T00:18:01+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 1,
-    "family": 2,
-    "corp": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-     "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T00:18:01+00:00",
-     "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Trump Set to Cut Canada Auto Tariffs to 15% in Trade Deal",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-19/trump-offers-to-cut-canada-auto-tariffs-to-15-in-trade-deal",
-     "author": "Josh Wingrove, David Welch and Gabrielle Coppola",
-     "kind": "news",
-     "published": "2026-08-19T20:51:36+00:00",
-     "summary": "The Trump administration is poised to reduce tariffs on automobiles imported from Canada to 15% from 25% as part of a broader deal that would see the US neighbor drop retaliatory trade measures, according to people familiar with the matter."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump announces temporary pause on Canada tariffs, citing new deal",
-     "url": "https://abcnews.com/International/trump-announces-temporary-pause-new-canada-tariffs/story?id=135759598",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T20:50:59+00:00",
-     "summary": "The president said he had a \"very good conversation\" with Canadian Prime Minister Mark Carney."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Trump\u2019s Fast-Track Presidency Hits Pause on Tariffs, Iran and DC Makeover",
-     "url": "https://www.bloomberg.com/news/newsletters/2026-08-19/trump-s-fast-track-presidency-hits-pause-on-tariffs-iran-and-dc-makeover",
-     "author": "Jeff Mason",
-     "kind": "news",
-     "published": "2026-08-19T20:33:39+00:00",
-     "summary": "After racing through his second-term agenda, the president is now taking his time on his signature policies \u2014 sometimes not by choice."
     }
    ]
   },
@@ -3208,57 +3302,6 @@
    ]
   },
   {
-   "id": "9a2f0a6b9a",
-   "topic": "World",
-   "summary": "Israel told the Trump administration its recent attack on a Syrian airbase was aimed at preventing a Turkish military buildup in the area, U.S. and Israeli officials said. Why it matters: The unusual strike has exacerbated tensions in the region between three close U.S. partners, just as the Trump administration is trying to prevent further escalation. President Trump sees his approach to Ahmed al-Sharaa's government in Syria as a foreign policy achievement. Trump is also very close to Turkish President Recep Tayyip Erdo\u011fan. Israel is a close U.S. ally, but Trump's relations with Prime Minister Benjamin Netanyahu have grown more tense in recent months. The aggressive move by Israel frustrated White House and senior U.S. officials. But it also exposed again that the Trump administration is rarely prepared to draw a clear red line with Netanyahu . Driving the news: The strike occurred\u2026",
-   "summaryFrom": "axios",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "What\u2019s behind Israel\u2019s latest attack on Syria?",
-   "updated": "2026-08-19T20:18:40+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "corp": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "What\u2019s behind Israel\u2019s latest attack on Syria?",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T20:18:40+00:00",
-     "summary": "US envoy warns Israel&#039;s strike could have sparked direct confrontation with Turkish forces."
-    },
-    {
-     "outlet": "france24",
-     "title": "Israel blames Turkey after strike on Syria air base",
-     "url": "https://www.france24.com/en/video/20260819-israel-blames-turkey-after-strike-on-syria-air-base",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-19T14:32:52+00:00",
-     "summary": "Israel on Tuesday accused Turkey of posing a threat by preparing to send troops to a base in Syria, which was hit in a strike condemned by the United States which blamed its ally. The strike marks extraordinary defiance by Israel of the United States, which has sought to support Syria's new government led by a former jihadist allied with Turkey."
-    },
-    {
-     "outlet": "axios",
-     "title": "Israel defends strike on Syria as U.S. frustration with Bibi grows",
-     "url": "https://www.axios.com/2026/08/18/israel-syria-turkey-strike-military-buildup",
-     "author": "Barak Ravid",
-     "kind": "news",
-     "published": "2026-08-18T22:26:15+00:00",
-     "summary": "Israel told the Trump administration its recent attack on a Syrian airbase was aimed at preventing a Turkish military buildup in the area, U.S. and Israeli officials said. Why it matters: The unusual strike has exacerbated tensions in the region between three close U.S. partners, just as the Trump administration is trying to prevent further escalation. President Trump sees his approach to Ahmed al-Sharaa's government in Syria as a foreign policy achievement. Trump is also very close to Turkish President Recep Tayyip Erdo\u011fan. Israel is a close U.S. ally, but Trump's relations with Prime Minister Benjamin Netanyahu have grown more tense in recent months. The aggressive move by Israel frustrated White House and senior U.S. officials. But it also exposed again that the Trump administration is rarely prepared to draw a clear red line with Netanyahu . Driving the news: The strike occurred early in the morning local time on Tuesday. At least eight bombs hit the runways and several hangars at the Abu al-Duhur air base in northern Syria, about 45 miles from the Turkish border. The strike damaged the runways, which had recently been rebuilt, but there were no casualties. Israel initially did"
-    }
-   ]
-  },
-  {
    "id": "048989b239",
    "topic": "Other",
    "summary": "David Morens, a former advisor to Dr. Anthony Fauci and senior official at the National Institute of Allergy and Infectious Diseases (NIAID), pleaded guilty Tuesday to conspiring to evade records requests involving COVID-19 research grants, FBI Director Kash Patel announced. \"After an FBI investigation with our DOJ partners, Dr. Fauci \u2019s associate, David Morens, just pleaded guilty to conspiracy in a scheme to avoid FOIA requests and the Federal Records Act connected to COVID-19 research grants,\" Patel wrote in a Tuesday post on X. \"The FBI uncovered that Morens, Co-Conspirator 1, Co-Conspirator 2, and others conspired during the COVID-19 pandemic to defraud the United States after the National Institutes of Health terminated Co-Conspirator 1\u2019s grant,\" Patel's post continued. \"NIH terminated the grant, 'Understanding the Risk of Bat coronavirus Emergence,' based on allegations that\u2026",
@@ -3472,57 +3515,6 @@
    ]
   },
   {
-   "id": "f9feb7d421",
-   "topic": "Other",
-   "summary": "Berlin to seek suspect\u2019s extradition for 2022 explosions that damaged gas pipelines to Russia A Ukrainian man has been arrested in Croatia as part of an investigation into the 2022 bombing of the Nord Stream gas pipelines between Germany and Russia. Undersea explosions in September 2022, just months after Russia\u2019s full-scale invasion of Ukraine, damaged three of the four pipelines built to carry Russian fossil gas to Germany under the Baltic Sea. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-   "updated": "2026-08-19T16:31:48+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-     "url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T16:31:48+00:00",
-     "summary": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Ukrainian diver arrested in Croatia over Nord Stream pipeline bombings",
-     "url": "https://www.theguardian.com/business/2026/aug/19/ukrainian-diver-arrested-in-croatia-over-nord-stream-pipeline-bombings",
-     "author": "Jakub Krupa",
-     "kind": "news",
-     "published": "2026-08-19T14:14:54+00:00",
-     "summary": "Berlin to seek suspect\u2019s extradition for 2022 explosions that damaged gas pipelines to Russia A Ukrainian man has been arrested in Croatia as part of an investigation into the 2022 bombing of the Nord Stream gas pipelines between Germany and Russia. Undersea explosions in September 2022, just months after Russia\u2019s full-scale invasion of Ukraine, damaged three of the four pipelines built to carry Russian fossil gas to Germany under the Baltic Sea. Continue reading..."
-    },
-    {
-     "outlet": "dw",
-     "title": "Nord Stream: Second suspect arrested over pipeline blasts",
-     "url": "https://www.dw.com/en/nord-stream-second-suspect-arrested-over-pipeline-blasts/a-78427413?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T09:38:00+00:00",
-     "summary": "German prosecutors said a Ukrainian suspect was arrested in Croatia. They said that the man, a trained scuba diver, \"is strongly suspected of jointly causing explosions.\""
-    }
-   ]
-  },
-  {
    "id": "2cf66ea3ff",
    "topic": "Other",
    "summary": "Last September, a young man named George Abaraonye greeted the assassination of Charlie Kirk with a message to his fellow Oxford students: \u201cCharlie Kirk got shot, let\u2019s f*cking go.\u201d At the time, he was the incoming president of the Oxford Union, the world-famous debating society that trained a sizable chunk of Britain\u2019s prime ministers, and it took a two-thirds vote of its members to remove him. This week, the same young man published an essay entitled \u201cThey\u2019re killing black boys at Oxford and Cambridge,\u201d in which he rails against \u201cmob justice\u201d and warns journalists that they \u201cwill not be clean from this sin.\u201d The man who whooped at an actual, literal assassination has appointed himself Britain\u2019s foremost authority on the sanctity of life. His subject is Jason Arday, the Cambridge professor whose remarkable r\u00e9sum\u00e9 (visiting professorships that three universities say never existed, 30\u2026",
@@ -3625,6 +3617,132 @@
    ]
   },
   {
+   "id": "83ee663cc5",
+   "topic": "Justice & Policing",
+   "summary": "One person was killed and two Pennsylvania State Police troopers were injured when a small plane and a state police helicopter were involved in a midair collision in central Pennsylvania, authorities said.",
+   "summaryFrom": "cbsnews",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Pilot killed, 2 troopers injured after plane collides in midair police helicopter",
+   "updated": "2026-08-20T03:53:53+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "abcnews",
+     "title": "Pilot killed, 2 troopers injured after plane collides in midair police helicopter",
+     "url": "https://abcnews.com/US/pennsylvania-state-police-helicopter-small-plane-collide-midair/story?id=135792636",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T03:53:53+00:00",
+     "summary": "A small airplane and a helicopter collided midair near the Carlisle airport in Pennsylvania's Cumberland Valley on Wednesday evening, according to the FAA."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "One killed when small plane, state police helicopter collide in Pennsylvania",
+     "url": "https://www.cbsnews.com/news/small-plane-state-police-helicopter-midair-collision-carlisle-pennsylvania/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T03:38:00+00:00",
+     "summary": "One person was killed and two Pennsylvania State Police troopers were injured when a small plane and a state police helicopter were involved in a midair collision in central Pennsylvania, authorities said."
+    }
+   ]
+  },
+  {
+   "id": "27b9e3525b",
+   "topic": "Culture & Sport",
+   "summary": "St Gregory\u2019s College says alleged attack on Saturday \u2018antithesis of what we stand for and the values that we embrace\u2019 Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Three teenage boys, including two from a private school in Sydney\u2019s south-west, have been charged over the alleged sexual assault of a teenage girl on Saturday. New South Wales police said three 17-year-old boys were arrested on Wednesday after a 17-year-old girl was allegedly attacked at a home in Sydney\u2019s south-west. Support for anyone affected by the subject matter of this report is available at Full Stop Australia (1800 385 578) Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Two 17-year-olds from Sydney private school among three charged over alleged rape of teenage girl",
+   "updated": "2026-08-20T03:29:40+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Two 17-year-olds from Sydney private school among three charged over alleged rape of teenage girl",
+     "url": "https://www.theguardian.com/australia-news/2026/aug/20/three-boys-charged-alleged-rape-teenage-girl-sydney-ntwnfb",
+     "author": "Australian Associated Press",
+     "kind": "news",
+     "published": "2026-08-20T03:29:40+00:00",
+     "summary": "St Gregory\u2019s College says alleged attack on Saturday \u2018antithesis of what we stand for and the values that we embrace\u2019 Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Three teenage boys, including two from a private school in Sydney\u2019s south-west, have been charged over the alleged sexual assault of a teenage girl on Saturday. New South Wales police said three 17-year-old boys were arrested on Wednesday after a 17-year-old girl was allegedly attacked at a home in Sydney\u2019s south-west. Support for anyone affected by the subject matter of this report is available at Full Stop Australia (1800 385 578) Continue reading..."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "WATCH: Teen Girl Charged After Tackling Football Player During Middle School Game",
+     "url": "https://www.breitbart.com/sports/2026/08/19/watch-teen-girl-charged-after-tackling-football-player-during-middle-school-game/",
+     "author": "Dylan Gwinn",
+     "kind": "news",
+     "published": "2026-08-19T19:20:10+00:00",
+     "summary": "A 16-year-old girl in Tennessee finds herself facing criminal charges after an incident Tuesday night in which she charged onto a football field during a scuffle and tackled a middle school player. The girl&#8217;s identity has not been publicly revealed. The post WATCH: Teen Girl Charged After Tackling Football Player During Middle School Game appeared first on Breitbart ."
+    }
+   ]
+  },
+  {
+   "id": "8b6538ce8c",
+   "topic": "World",
+   "summary": "Foreign affairs minister says Australia is \u2018outraged\u2019 after Israeli government decided not to pursue criminal proceedings over 2024 triple drone strike on humanitarian convoy Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Australia\u2019s foreign affairs minister has expressed \u201coutrage\u201d and will call in the Israeli ambassador over the Israel Defense Forces decision overnight not to open a criminal investigation into Gaza strikes that killed Australian aid worker Zomi Frankcom. In a statement released on Thursday, Penny Wong called the timing of the decision, on World Humanitarian Day, \u201cespecially insulting\u201d. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+   "updated": "2026-08-20T03:12:07+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+     "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T03:12:07+00:00",
+     "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Zomi Frankcom: Penny Wong condemns \u2018insulting\u2019 decision to clear IDF over Gaza strikes that killed Australian aid worker",
+     "url": "https://www.theguardian.com/australia-news/2026/aug/20/australia-idf-reaction-gaza-strike-zomi-frankcom-penny-wong-statement-ntwnfb",
+     "author": "Tom McIlroy and Josh Butler",
+     "kind": "news",
+     "published": "2026-08-19T22:39:32+00:00",
+     "summary": "Foreign affairs minister says Australia is \u2018outraged\u2019 after Israeli government decided not to pursue criminal proceedings over 2024 triple drone strike on humanitarian convoy Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Australia\u2019s foreign affairs minister has expressed \u201coutrage\u201d and will call in the Israeli ambassador over the Israel Defense Forces decision overnight not to open a criminal investigation into Gaza strikes that killed Australian aid worker Zomi Frankcom. In a statement released on Thursday, Penny Wong called the timing of the decision, on World Humanitarian Day, \u201cespecially insulting\u201d. Continue reading..."
+    }
+   ]
+  },
+  {
    "id": "0307ddbdcd",
    "topic": "Other",
    "summary": "The Rhode Island town of Narragansett was left with a very smelly cleanup over the weekend after thousands of squid spilled over the highway. The incident happened on Sunday morning when the driver of a tractor-trailer transporting the squid failed to make a turn and the vehicle fell on to its side, the town\u2019s police department said in a statement. It created hours of delays for motorists and a foul stench More than 20 tons of squid spilled on to Rhode Island highway during traffic accident Continue reading...",
@@ -3663,6 +3781,48 @@
      "kind": "news",
      "published": "2026-08-19T20:43:11+00:00",
      "summary": "The Rhode Island town of Narragansett was left with a very smelly cleanup over the weekend after thousands of squid spilled over the highway. The incident happened on Sunday morning when the driver of a tractor-trailer transporting the squid failed to make a turn and the vehicle fell on to its side, the town\u2019s police department said in a statement. It created hours of delays for motorists and a foul stench More than 20 tons of squid spilled on to Rhode Island highway during traffic accident Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "e586445a2a",
+   "topic": "Politics",
+   "summary": "Ukraine's President Volodymyr Zelenskyy looks to his Serbian counterpart, Aleksandar Vucic, during a welcome ceremony at the Serbia Palace, in Belgrade, Serbia, on Aug. 8, 2026. \u2014Darko Vojinovic\u2014AP Ukrainian President Volodymyr Zelenskyy is facing a major internal political challenge after a recently dismissed defense minister called for a wartime presidential election. But holding an election during an ongoing war would pose enormous legal and logistical challenges\u2014and it may not be possible at all. Ex-Defense Minister Mykhailo Fedorov 's challenge comes amid an ongoing war with Russia. While Zelenskyy\u2019s five-year term was scheduled to end in May 2024, elections have been suspended under martial law since Russia\u2019s full-scale invasion of Ukraine in February 2022. Fedorov posted a nine-minute video online Tuesday, demanding that Ukraine \u201crestore a full democratic process even amid a\u2026",
+   "summaryFrom": "time",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home",
+   "updated": "2026-08-20T02:50:17+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home",
+     "url": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T02:50:17+00:00",
+     "summary": "At least 14 of the 20 people wounded in the strike on Kyiv have been hospitalised, officials say."
+    },
+    {
+     "outlet": "time",
+     "title": "Zelenskyy Faces Pressure to Hold Elections. What Stands in the Way?",
+     "url": "https://time.com/article/2026/08/19/zelenskyy-faces-pressure-to-hold-elections-what-stands-in-the-way-/",
+     "author": "Rebecca Schneid",
+     "kind": "news",
+     "published": "2026-08-19T21:19:12+00:00",
+     "summary": "Ukraine's President Volodymyr Zelenskyy looks to his Serbian counterpart, Aleksandar Vucic, during a welcome ceremony at the Serbia Palace, in Belgrade, Serbia, on Aug. 8, 2026. \u2014Darko Vojinovic\u2014AP Ukrainian President Volodymyr Zelenskyy is facing a major internal political challenge after a recently dismissed defense minister called for a wartime presidential election. But holding an election during an ongoing war would pose enormous legal and logistical challenges\u2014and it may not be possible at all. Ex-Defense Minister Mykhailo Fedorov 's challenge comes amid an ongoing war with Russia. While Zelenskyy\u2019s five-year term was scheduled to end in May 2024, elections have been suspended under martial law since Russia\u2019s full-scale invasion of Ukraine in February 2022. Fedorov posted a nine-minute video online Tuesday, demanding that Ukraine \u201crestore a full democratic process even amid a prolonged war.\u201d Read More: Chalk One Up for Ukraine \u201cDemocracy cannot be held hostage by Russia. We are fighting precisely because we want to remain a free European state,\u201d Fedorov said. \u201cWe must find a legal, safe, and \u200crealistic mechanism which will allow Ukraine to renew its full democratic process ev"
     }
    ]
   },
@@ -3709,90 +3869,6 @@
    ]
   },
   {
-   "id": "cce0be24b8",
-   "topic": "Justice & Policing",
-   "summary": "A small airplane and a helicopter collided midair near the Carlisle airport in Pennsylvania's Cumberland Valley on Wednesday evening, according to the FAA.",
-   "summaryFrom": "abcnews",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Small plane, state police helicopter collide in midair over Pennsylvania",
-   "updated": "2026-08-20T02:16:00+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Small plane, state police helicopter collide in midair over Pennsylvania",
-     "url": "https://www.cbsnews.com/news/small-plane-state-police-helicopter-midair-collision-carlisle-pennsylvania/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T02:16:00+00:00",
-     "summary": "A small plane and a Pennsylvania State Police helicopter were involved in a midair collision in central Pennsylvania on Wednesday night, authorities said."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Police helicopter, small plane collide midair near Pennsylvania airport",
-     "url": "https://abcnews.com/US/pennsylvania-state-police-helicopter-small-plane-collide-midair/story?id=135792636",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T02:12:03+00:00",
-     "summary": "A small airplane and a helicopter collided midair near the Carlisle airport in Pennsylvania's Cumberland Valley on Wednesday evening, according to the FAA."
-    }
-   ]
-  },
-  {
-   "id": "cb82bfbd71",
-   "topic": "World",
-   "summary": "The Duke and Duchess of Sussex are expected to move back to the UK. The Telegraph newspaper reports that six years after they stepped down as working royals, they will make the UK their primary base with their children. NBC News\u2019 Daniele Hamamdjian has more.",
-   "summaryFrom": "nbcnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Harry and Meghan\u2019s Break with Britain and Planned Return: a Timeline",
-   "updated": "2026-08-20T01:58:03+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Harry and Meghan\u2019s Break with Britain and Planned Return: a Timeline",
-     "url": "https://www.nytimes.com/2026/08/19/world/europe/harry-meghan-uk-royals-timeline.html",
-     "author": "Ephrat Livni",
-     "kind": "news",
-     "published": "2026-08-20T01:58:03+00:00",
-     "summary": "Meghan, Duchess of Sussex, and Prince Harry, Duke of Sussex, posed for a selfie with children and their families during a visit to the Royal Children\u2019s Hospital in Melbourne, Australia, earlier this year."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Harry and Meghan set to return to UK",
-     "url": "https://www.nbcnews.com/nightly-news/video/harry-and-meghan-set-to-return-to-uk-268559941528",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T23:10:47+00:00",
-     "summary": "The Duke and Duchess of Sussex are expected to move back to the UK. The Telegraph newspaper reports that six years after they stepped down as working royals, they will make the UK their primary base with their children. NBC News\u2019 Daniele Hamamdjian has more."
-    }
-   ]
-  },
-  {
    "id": "2398307f50",
    "topic": "World",
    "summary": "Officers reportedly believed invitees were trying to make unauthorized entry on to Vandenberg base in California Five news reporters and two members of the military who were invited to an event at Vandenberg space force base in California were briefly detained at gunpoint by security officers who thought they were gatecrashers, according to local news reports. The incident happened Monday ahead of an invitation-only groundbreaking for a new training facility for missile operators at the federal airfield near Santa Barbara, California. Reporters from Noozhawk and KEYT were among those detained, and both outlets published articles detailing the detainment. Continue reading...",
@@ -3831,48 +3907,6 @@
      "kind": "news",
      "published": "2026-08-20T00:41:12+00:00",
      "summary": "Officers reportedly believed invitees were trying to make unauthorized entry on to Vandenberg base in California Five news reporters and two members of the military who were invited to an event at Vandenberg space force base in California were briefly detained at gunpoint by security officers who thought they were gatecrashers, according to local news reports. The incident happened Monday ahead of an invitation-only groundbreaking for a new training facility for missile operators at the federal airfield near Santa Barbara, California. Reporters from Noozhawk and KEYT were among those detained, and both outlets published articles detailing the detainment. Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "1dfc495ded",
-   "topic": "World",
-   "summary": "President Donald Trump is welcomed by South Korean Foreign Minister Cho Hyun as he arrives at Gimhae International Airport in Busan, South Korea, on October 29, 2025. \u2014Andrew Harnik\u2014Getty Images South Korean Foreign Minister Cho Hyun said Wednesday that Seoul was given no notice before President Donald Trump announced that he would be scaling back joint military operations between the two countries. \u201cNeither our government nor U.S. officials knew what President Trump wrote on his Truth Social,\" Cho told the National Assembly Committee on Foreign Affairs and Unification. \"We were not notified in advance.\u201d Cho added, however, that Defense Minister Ahn Gyu-back was in \u201cclose consultation\u201d with his U.S. counterparts regarding the reductions to South Korea-U.S. military exercises. Read More: Trump\u2019s South Korea Shift Tests a Key U.S. Alliance Trump on Sunday announced in a Truth Social post\u2026",
-   "summaryFrom": "time",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
-   "updated": "2026-08-20T01:56:41+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
-     "url": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T01:56:41+00:00",
-     "summary": "Trump&#039;s order to scale back military drills rattles Seoul, reviving doubts over US security guarantees."
-    },
-    {
-     "outlet": "time",
-     "title": "South Korea Was Given No Notice Before Trump Announced Drill Cut, Foreign Minister Says",
-     "url": "https://time.com/article/2026/08/19/south-korea-trump-drill-cut-north-korea/",
-     "author": "Connor Greene",
-     "kind": "news",
-     "published": "2026-08-19T21:08:42+00:00",
-     "summary": "President Donald Trump is welcomed by South Korean Foreign Minister Cho Hyun as he arrives at Gimhae International Airport in Busan, South Korea, on October 29, 2025. \u2014Andrew Harnik\u2014Getty Images South Korean Foreign Minister Cho Hyun said Wednesday that Seoul was given no notice before President Donald Trump announced that he would be scaling back joint military operations between the two countries. \u201cNeither our government nor U.S. officials knew what President Trump wrote on his Truth Social,\" Cho told the National Assembly Committee on Foreign Affairs and Unification. \"We were not notified in advance.\u201d Cho added, however, that Defense Minister Ahn Gyu-back was in \u201cclose consultation\u201d with his U.S. counterparts regarding the reductions to South Korea-U.S. military exercises. Read More: Trump\u2019s South Korea Shift Tests a Key U.S. Alliance Trump on Sunday announced in a Truth Social post that he had instructed Defense Secretary Pete Hegseth to \u201csubstantially reduce\u201d joint military exercises with South Korea, citing the country\u2019s refusal to participate in the U.S.-Israel war against Iran and his \u201cvery good relationship\u201d with North Korean leader Kim Jong Un. Trump called the joint exer"
     }
    ]
   }
