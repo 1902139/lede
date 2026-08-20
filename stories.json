@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T07:07:37.076241+00:00",
+ "generated": "2026-08-20T07:58:19.151489+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -11,21 +11,21 @@
    "summaryFrom": "time",
    "emphasis": {
     "bigCount": 10,
-    "indieCount": 6,
+    "indieCount": 5,
     "big": [
      "meeting",
      "request",
      "exercises",
      "impromptu",
-     "denied",
-     "responded"
+     "talk",
+     "direct"
     ],
     "indie": [
      "claims",
-     "security",
+     "iran",
      "alliance",
      "order",
-     "iran",
+     "security",
      "capabilities"
     ]
    },
@@ -36,12 +36,12 @@
    "updated": "2026-08-20T06:07:05+00:00",
    "outletCount": 14,
    "counts": {
-    "pub": 3,
+    "pub": 2,
     "family": 6,
     "corp": 4,
     "nonprofit": 3
    },
-   "newsCount": 15,
+   "newsCount": 14,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
@@ -89,15 +89,6 @@
      "kind": "news",
      "published": "2026-08-19T22:56:16+00:00",
      "summary": "Trump said the U.S. is scaling back the exercises and that he'll meet with Kim."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Trump says he plans to meet Kim Jong Un later this year",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T21:35:34+00:00",
-     "summary": "US President Donald Trump praised his relationship with North Korea\u2019s leader Kim Jong Un."
     },
     {
      "outlet": "time",
@@ -192,130 +183,186 @@
    ]
   },
   {
-   "id": "16e9d7b06a",
-   "topic": "World",
-   "summary": "President Donald Trump on Wednesday issued a stern warning to any nation thinking about offering a lifeline to Iran after announcing the launch of a U.S. operation he likened to an \"economic D-Day.\" \"Today, I am announcing the MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY! This will be Economic Warfare and Isolation on an unprecedented scale,\" Trump wrote on Truth Social. \"I am also announcing that ANY country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face TREMENDOUS Economic Consequences. IRAN DEAL CLOCK HITS ZERO AS TRUMP DEMANDS \u2018WHITE FLAG\u2019 WITH NEW PRESSURE CAMPAIGN LOOMING \"Oil smuggling, swap lines, cash transfers, exchange houses, ship registries, front companies \u2014 It all needs to stop NOW,\" he continued. \"You know who you are. This will be an ECONOMIC D-DAY, and we\u2026",
-   "summaryFrom": "foxnews",
+   "id": "7a619f5847",
+   "topic": "Justice & Policing",
+   "summary": "Prince Harry and Meghan Markle are heading back across the pond. Jonathan Brady / POOL / AFP Prince Harry and Meghan Markle are moving back to the UK. They will live in a private residence and enroll their children in a school in the UK. The news comes after years of strain in the couple's relationship with the royal family. Prince Harry and Meghan Markle are moving back to the UK. On Wednesday, People reported that the couple would be moving back to Britain \"for an extended period of time\" with their children, Prince Archie, 7, and Princess Lilibet, 5. The Duke and Duchess of Sussex won't return to their royal duties, which they stepped back from in January 2020, but they plan to live near London. The move will put them in proximity to King Charles, Prince William, and the rest of the royal family for the first time in over six years. Harry, 41, and Meghan, 45, have had a strained\u2026",
+   "summaryFrom": "businessinsider",
    "emphasis": {
-    "bigCount": 7,
-    "indieCount": 3,
+    "bigCount": 10,
+    "indieCount": 6,
     "big": [
-     "wednesday",
-     "unprecedented",
-     "social",
-     "warfare",
-     "truth",
-     "d-day"
+     "planned",
+     "timeline",
+     "visit",
+     "across",
+     "pond",
+     "away"
     ],
     "indie": [
-     "tehran"
+     "start",
+     "september",
+     "enrolled"
     ]
    },
    "absent": [
     "coop"
    ],
-   "headline": "Trump threatens Iran\u2019s trade partners, as military strikes make way for economic pressure",
-   "updated": "2026-08-20T07:03:41+00:00",
-   "outletCount": 10,
+   "headline": "Prince Harry and Meghan \u2018moving back to Britain this month\u2019",
+   "updated": "2026-08-20T07:32:39+00:00",
+   "outletCount": 13,
    "counts": {
-    "corp": 3,
     "nonprofit": 2,
-    "family": 4,
-    "pub": 1
+    "pub": 4,
+    "family": 6,
+    "corp": 4
    },
-   "newsCount": 9,
+   "newsCount": 15,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "cbsnews",
-     "title": "Trump announces \"crushing economic operation\" on Iran with talks in limbo",
-     "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/",
-     "author": null,
+     "outlet": "guardian",
+     "title": "Prince Harry and Meghan \u2018moving back to Britain this month\u2019",
+     "url": "https://www.theguardian.com/uk-news/2026/aug/19/prince-harry-and-meghan-moving-back-to-britain-this-month",
+     "author": "Caroline Davies and Nadeem Badshah",
      "kind": "news",
-     "published": "2026-08-20T07:03:41+00:00",
-     "summary": "President Trump said Wednesday the U.S. might return to negotiations with Iran eventually, but he said currently \"the situation is so good.\""
+     "published": "2026-08-20T07:32:39+00:00",
+     "summary": "Reports say Duke and Duchess of Sussex intend to relocate from US, with children to start British school in September Harry and Meghan: the key moments, conflicts and controversies since their US move The Duke and Duchess of Sussex are planning to return to live in Britain, six years after leaving for the US, it is understood. The couple and their two children, Prince Archie, seven, and Princess Lilibet, five, are expected to relocate later in August to a non-royal residence. Continue reading..."
     },
     {
-     "outlet": "guardian",
-     "title": "Trump threatens Iran\u2019s trade partners, as military strikes make way for economic pressure",
-     "url": "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz",
-     "author": "Jonathan Yerushalmy",
+     "outlet": "bbc",
+     "title": "Prince Harry and Meghan moving back to UK later this month",
+     "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-20T04:53:44+00:00",
-     "summary": "US president pivots towards \u2018crushing\u2019 economic operation against Iran and its trading partners as military strikes fail to bring Tehran to the table Donald Trump has announced a new campaign to isolate Iran\u2019s economy, threatening \u201ctremendous economic consequences\u201d on any country that helps or does business with Tehran, a move that could set up a fresh confrontation with China if implemented. \u201cToday, I am announcing the most crushing economic operation ever taken against any country!\u201d Trump wrote on Truth Social. \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face tremendous economic consequences.\u201d Continue reading..."
+     "published": "2026-08-20T07:21:03+00:00",
+     "summary": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September."
     },
     {
      "outlet": "nyt",
-     "title": "Trump Threatens Economic Pain for Countries That Help Iran",
-     "url": "https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html",
-     "author": "Chris Cameron",
+     "title": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
+     "url": "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html",
+     "author": "Michael D. Shear",
      "kind": "news",
-     "published": "2026-08-20T01:52:13+00:00",
-     "summary": "The president did not specify what actions he would take, and he has on other occasions abandoned threats to dramatically escalate the war with Iran."
+     "published": "2026-08-20T06:51:04+00:00",
+     "summary": "The prince and his wife, whose relations with King Charles and the rest of the royal family have long been strained, will remain non-working royals, according to a person familiar with the decision."
     },
     {
-     "outlet": "thehill",
-     "title": "Trump announces \u2018most crushing economic operation ever\u2019 against Iran",
-     "url": "https://thehill.com/homenews/administration/6040249-trump-announces-economic-warfare-iran/",
-     "author": "Sarah Davis",
+     "outlet": "nyt",
+     "title": "Harry and Meghan\u2019s Break With Britain and Planned Return: a Timeline",
+     "url": "https://www.nytimes.com/2026/08/19/world/europe/harry-meghan-uk-royals-timeline.html",
+     "author": "Ephrat Livni",
      "kind": "news",
-     "published": "2026-08-20T00:02:05+00:00",
-     "summary": "President Trump announced Wednesday evening the \u201cMOST CRUSHING ECONOMIC OPERATION EVER\u201d against Iran amid negotiations to reopen the Strait of Hormuz, a major oil trading waterway that has been effectively closed since early March. \u201cThis will be Economic Warfare and Isolation on an unprecedented scale,\u201d the president wrote on Truth Social. Trump said any nation..."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Iran war live: Trump announces \u2018most crushing\u2019 Iran sanctions",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T00:00:00+00:00",
-     "summary": "Trump says Washington may resume talks with Tehran &#039;at some point&#039;."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Trump threatens 'unprecedented' economic consequences for any nation aiding Iran",
-     "url": "https://www.foxnews.com/politics/trump-threatens-unprecedented-economic-consequences-any-nation-aiding-iran",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T23:23:08+00:00",
-     "summary": "President Donald Trump on Wednesday issued a stern warning to any nation thinking about offering a lifeline to Iran after announcing the launch of a U.S. operation he likened to an \"economic D-Day.\" \"Today, I am announcing the MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY! This will be Economic Warfare and Isolation on an unprecedented scale,\" Trump wrote on Truth Social. \"I am also announcing that ANY country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face TREMENDOUS Economic Consequences. IRAN DEAL CLOCK HITS ZERO AS TRUMP DEMANDS \u2018WHITE FLAG\u2019 WITH NEW PRESSURE CAMPAIGN LOOMING \"Oil smuggling, swap lines, cash transfers, exchange houses, ship registries, front companies \u2014 It all needs to stop NOW,\" he continued. \"You know who you are. This will be an ECONOMIC D-DAY, and we need all of our Allies to stand with the United States of America to isolate, and defeat, the Iran threat. These maniacs are on the ropes, and these HISTORIC MEASURES will cripple them and their ability to project terror worldwide.\" Trump said Iran's navy and air force are destroyed, while their produ"
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Trump Says US Starting \u2018Economic Warfare\u2019 Operation Against Iran",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-19/trump-says-us-starting-economic-warfare-operation-against-iran",
-     "author": "Derek Wallbank",
-     "kind": "news",
-     "published": "2026-08-19T23:06:49+00:00",
-     "summary": "President Donald Trump announced plans to inflict what he called an \u201ceconomic D-Day\u201d against Iran, underscoring his rising frustration with the country\u2019s refusal to capitulate despite weeks of military strikes and a US blockade that\u2019s crimped its oil exports."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "\u2018ECONOMIC D-DAY\u2019: Trump Announces Unprecedented Operation To Crush Iran\u2019s Shadow Economy",
-     "url": "https://www.dailywire.com/news/economic-d-day-trump-announces-unprecedented-operation-to-crush-irans-shadow-economy",
-     "author": "Hank Berrien",
-     "kind": "opinion",
-     "published": "2026-08-19T20:01:43+00:00",
-     "summary": "President Donald Trump announced what he called an &#8220;ECONOMIC D-DAY&#8221; against Iran on Wednesday, threatening economic consequences for countries that continue providing a lifeline to the despotic regime. Writing on Truth Social on Wednesday evening, Trump slammed the Islamic Republic for refusing to come to the table, warning that the time for polite diplomacy is officially over. &#8220;No one has given the Islamic Republic of Iran a greater opportunity to make a Deal than me,&#8221; Trump wrote. &#8220;TRAGICALLY, for them, they have failed to take it. Therefore, today, I am announcing the MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY!&#8221; Trump added that these &#8220;HISTORIC MEASURES&#8221; will completely wreck Tehran\u2019s ability to finance international terrorism. Trump also issued a zero-tolerance warning to any foreign nations or businesses secretly throwing a lifeline to the Iranian regime through shadowy financial tricks. &#8220;ANY country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face TREMENDOUS Economic Consequences,&#8221; Trump threatened, calli"
+     "published": "2026-08-20T06:27:55+00:00",
+     "summary": "Meghan, Duchess of Sussex, and Prince Harry, Duke of Sussex, posed for a selfie with children and their families during a visit to the Royal Children\u2019s Hospital in Melbourne, Australia, earlier this year."
     },
     {
      "outlet": "npr",
-     "title": "Why does the U.S. military seem stymied in the war with Iran?",
-     "url": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
-     "author": "Dave Davies",
+     "title": "Prince Harry and Meghan are returning to the U.K. with their children",
+     "url": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
+     "author": "The Associated Press",
      "kind": "news",
-     "published": "2026-08-19T16:18:35+00:00",
-     "summary": "Defense analyst Stacie Pettyjohn says while the U.S. military is facing long-range missile shortages, prolonged deployments and vacated regional bases, Iran is building cheaper weapons quickly."
+     "published": "2026-08-20T06:17:42+00:00",
+     "summary": "Prince Harry and his wife, Meghan, have decided to return to the United Kingdom for an extended stay starting this fall, but they won't resume their roles as working members of the royal family. (Image credit: Jonathan Brady)"
     },
     {
-     "outlet": "abcnews",
-     "title": "Trump signals economic pressure in Iran conflict as talks stall: ANALYSIS",
-     "url": "https://abcnews.com/Politics/trump-signals-economic-pressure-iran-conflict-talks-stall/story?id=135753451",
+     "outlet": "dw",
+     "title": "Harry and Meghan moving back to Britain: reports",
+     "url": "https://www.dw.com/en/harry-and-meghan-moving-back-to-britain-reports/a-78438052?maca=en-rss-en-all-1573-rdf",
      "author": null,
      "kind": "news",
-     "published": "2026-08-19T14:51:04+00:00",
-     "summary": "The Trump administration is touting its naval blockade of the Strait of Hormuz and previewing new sanctions still to be announced."
+     "published": "2026-08-20T03:10:00+00:00",
+     "summary": "Prince Harry and Meghan Markle will return to the UK after living in the US for over six years, according to reports. The former senior royals will reportedly live in a private residence."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
+     "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T02:00:51+00:00",
+     "summary": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Goodbye, Montecito. Prince Harry and Meghan Markle reportedly moving to U.K.",
+     "url": "https://www.latimes.com/entertainment-arts/story/2026-08-19/prince-harry-meghan-markle-leaving-socal-to-go-back-to-u-k",
+     "author": "Emily St. Martin",
+     "kind": "news",
+     "published": "2026-08-19T23:56:02+00:00",
+     "summary": "Six years after leaving the U.K. amid a family feud, Prince Harry and Meghan Markle are reportedly relocating back to Britain ahead of the school year."
+    },
+    {
+     "outlet": "businessinsider",
+     "title": "Prince Harry and Meghan Markle are moving back to the UK 6 years after they left. Here's a timeline of their relationship with the royals.",
+     "url": "https://www.businessinsider.com/prince-harry-meghan-markle-royal-family-relationship-timeline",
+     "author": "Samantha Grindell Pettyjohn (sgrindell@businessinsider.com)",
+     "kind": "news",
+     "published": "2026-08-19T23:30:45+00:00",
+     "summary": "Prince Harry and Meghan Markle are heading back across the pond. Jonathan Brady / POOL / AFP Prince Harry and Meghan Markle are moving back to the UK. They will live in a private residence and enroll their children in a school in the UK. The news comes after years of strain in the couple's relationship with the royal family. Prince Harry and Meghan Markle are moving back to the UK. On Wednesday, People reported that the couple would be moving back to Britain \"for an extended period of time\" with their children, Prince Archie, 7, and Princess Lilibet, 5. The Duke and Duchess of Sussex won't return to their royal duties, which they stepped back from in January 2020, but they plan to live near London. The move will put them in proximity to King Charles, Prince William, and the rest of the royal family for the first time in over six years. Harry, 41, and Meghan, 45, have had a strained relationship with the royals since they decided to step back from their royal duties. Meghan has largely focused on her As Ever brand in the US in recent years, but Harry has visited his father a handful of times since the king was diagnosed with cancer in February 2024. Here's a timeline of Harry and Me"
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Prince Harry and Meghan moving back to U.K.",
+     "url": "https://www.cbsnews.com/news/prince-harry-meghan-moving-back-uk/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T23:27:00+00:00",
+     "summary": "The couple said in January 2020 that they would be stepping away from \"senior\" royal roles\u200b and were working to become financially independent from the royal family."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Harry and Meghan set to return to UK",
+     "url": "https://www.nbcnews.com/nightly-news/video/harry-and-meghan-set-to-return-to-uk-268559941528",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T23:10:47+00:00",
+     "summary": "The Duke and Duchess of Sussex are expected to move back to the UK. The Telegraph newspaper reports that six years after they stepped down as working royals, they will make the UK their primary base with their children. NBC News\u2019 Daniele Hamamdjian has more."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Prince Harry and Meghan will move back to the United Kingdom, source says",
+     "url": "https://www.nbcnews.com/world/united-kingdom/prince-harry-meghan-will-move-back-united-kingdom-source-says-rcna593435",
+     "author": "Jean-Nicholas Fievet",
+     "kind": "news",
+     "published": "2026-08-19T22:41:02+00:00",
+     "summary": "The Duke and Duchess of Sussex listen to a music class during a visit to the QuestScope Youth Center at the Za'atari refugee camp, home to displaced Syrians, near Mafraq in northern Jordan on Feb. 25, 2026."
+    },
+    {
+     "outlet": "france24",
+     "title": "Prince Harry and Meghan to move back to UK six years after royal exit",
+     "url": "https://www.france24.com/en/europe/20260819-prince-harry-meghan-move-back-uk-six-years-after-royal-exit",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-19T22:39:43+00:00",
+     "summary": "Prince Harry and his wife Meghan plan to move back to Britain six years after stepping down as working royals, British media reported on Wednesday. The couple are expected to leave the United States by month-end and live outside London, while their two children have reportedly enrolled in a British school."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Prince Harry And Meghan Moving Back To U.K. After 6 Years In U.S.",
+     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/19/prince-harry-and-meghan-moving-back-to-uk-after-6-years-in-us/",
+     "author": "Antonio Peque\u00f1o IV, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-19T22:27:00+00:00",
+     "summary": "The couple moved to the U.S. in 2020 as they stepped away from their official royal duties."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "PARTY IN THE USA: Prince Harry, Meghan Markle Returning To UK After Years Of Royal Turmoil",
+     "url": "https://www.dailywire.com/news/party-in-the-usa-prince-harry-meghan-markle-returning-to-uk-after-years-of-royal-turmoil",
+     "author": "Jacob Wheeler",
+     "kind": "opinion",
+     "published": "2026-08-19T19:33:33+00:00",
+     "summary": "In a royal surprise, Prince Harry and Duchess Meghan Markle plan to leave California and establish a home base in the United Kingdom, British media reported Wednesday. The couple and their two children, Prince Archie, 7, and Princess Lilibet, 5, will head back across the pond later this month after giving up their senior royal roles and settling in California during the coronavirus pandemic, The Telegraph reported. With the children set to start school in September, the couple is expected to keep their homes in Montecito, California, and Portugal. The move comes after years of bitter tensions between Harry and his estranged royal family \u2014 and just months after a low-key British trip that nonetheless caught the attention of royal watchers. In July, King Charles III privately met with Prince Harry, Meghan Markle, and their two children in the first family gathering since the royal rift erupted several years ago, The Daily Wire previously reported. The king and Queen Camilla met with the Duke and Duchess of Sussex, Prince Archie, and Princess Lilibet at the Highgrove House country estate. Relations deteriorated after Harry and Meghan\u2019s bombshell 2021 interview with Oprah Winfrey, in w"
+    },
+    {
+     "outlet": "wapo",
+     "title": "Woman who planned to kill Treasury Secretary Bessent gets six years in prison",
+     "url": "https://www.washingtonpost.com/politics/2026/08/18/woman-who-planned-kill-treasury-secretary-bessent-gets-six-years/",
+     "author": "Salvador Rizzo",
+     "kind": "news",
+     "published": "2026-08-18T21:26:24+00:00",
+     "summary": "Riley English of Massachusetts turned herself in after arriving at the Capitol with miniature molotov cocktails just before Scott Bessent\u2019s Senate confirmation."
     }
    ]
   },
@@ -327,16 +374,13 @@
    "emphasis": {
     "bigCount": 4,
     "indieCount": 6,
-    "big": [
-     "regional",
-     "ties",
-     "tuesday"
-    ],
+    "big": [],
     "indie": [
      "helping",
-     "threatened",
      "latest",
-     "vows"
+     "threatened",
+     "vows",
+     "countries"
     ]
    },
    "absent": [
@@ -401,13 +445,13 @@
      "summary": "\u2060US President \u200bDonald Trump on Wednesday \u200bwarned of economic consequences against any country that \u200bsupported \u200cTehran or \u2060provided \"any type of lifeline \u200cto Iran.\" He \u200bdid not specify \u200bwhat specific \u200bsteps Washington would take against such \u200ba country and did not list any country by name. Follow our liveblog for the latest updates."
     },
     {
-     "outlet": "nyt",
-     "title": "What to Know About Iran\u2019s Economic Ties With Gulf Countries",
-     "url": "https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html",
-     "author": "Pranav Baskar",
+     "outlet": "bloomberg",
+     "title": "Trump Says US Is Waging Economic Warfare Against Iran",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-19/trump-says-us-starting-economic-warfare-operation-against-iran",
+     "author": "Derek Wallbank and Patrick Sykes",
      "kind": "news",
-     "published": "2026-08-19T22:41:24+00:00",
-     "summary": "The United Arab Emirates, Iran\u2019s most important regional trading partner, announced a total embargo on transactions with Tehran on Tuesday."
+     "published": "2026-08-19T23:06:49+00:00",
+     "summary": "US President Donald Trump announced plans to subject Iran to an \u201ceconomic D-Day,\u201d underscoring his rising frustration with Tehran\u2019s refusal to capitulate despite military strikes and an American blockade targeting its oil exports."
     },
     {
      "outlet": "foxnews",
@@ -448,33 +492,35 @@
    ]
   },
   {
-   "id": "e216df5dca",
-   "topic": "Other",
-   "summary": "Prince Harry and Meghan Markle are heading back across the pond. Jonathan Brady / POOL / AFP Prince Harry and Meghan Markle are moving back to the UK. They will live in a private residence and enroll their children in a school in the UK. The news comes after years of strain in the couple's relationship with the royal family. Prince Harry and Meghan Markle are moving back to the UK. On Wednesday, People reported that the couple would be moving back to Britain \"for an extended period of time\" with their children, Prince Archie, 7, and Princess Lilibet, 5. The Duke and Duchess of Sussex won't return to their royal duties, which they stepped back from in January 2020, but they plan to live near London. The move will put them in proximity to King Charles, Prince William, and the rest of the royal family for the first time in over six years. Harry, 41, and Meghan, 45, have had a strained\u2026",
-   "summaryFrom": "businessinsider",
+   "id": "16e9d7b06a",
+   "topic": "World",
+   "summary": "President Donald Trump on Wednesday issued a stern warning to any nation thinking about offering a lifeline to Iran after announcing the launch of a U.S. operation he likened to an \"economic D-Day.\" \"Today, I am announcing the MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY! This will be Economic Warfare and Isolation on an unprecedented scale,\" Trump wrote on Truth Social. \"I am also announcing that ANY country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face TREMENDOUS Economic Consequences. IRAN DEAL CLOCK HITS ZERO AS TRUMP DEMANDS \u2018WHITE FLAG\u2019 WITH NEW PRESSURE CAMPAIGN LOOMING \"Oil smuggling, swap lines, cash transfers, exchange houses, ship registries, front companies \u2014 It all needs to stop NOW,\" he continued. \"You know who you are. This will be an ECONOMIC D-DAY, and we\u2026",
+   "summaryFrom": "foxnews",
    "emphasis": {
     "bigCount": 6,
     "indieCount": 2,
     "big": [
-     "moving",
-     "markle",
-     "pond",
-     "across",
-     "away",
-     "senior"
+     "wednesday",
+     "unprecedented",
+     "truth",
+     "social",
+     "negotiations",
+     "countries"
     ],
-    "indie": []
+    "indie": [
+     "tehran"
+    ]
    },
    "absent": [
     "coop"
    ],
-   "headline": "Prince Harry and Meghan are returning to the U.K. with their children",
-   "updated": "2026-08-20T06:51:04+00:00",
+   "headline": "Trump threatens Iran\u2019s trade partners, as military strikes make way for economic pressure",
+   "updated": "2026-08-20T07:15:34+00:00",
    "outletCount": 8,
    "counts": {
-    "family": 3,
-    "nonprofit": 1,
     "corp": 3,
+    "nonprofit": 1,
+    "family": 3,
     "pub": 1
    },
    "newsCount": 7,
@@ -482,76 +528,76 @@
    "underreported": false,
    "articles": [
     {
-     "outlet": "nyt",
-     "title": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
-     "url": "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html",
-     "author": "Michael D. Shear",
-     "kind": "news",
-     "published": "2026-08-20T06:51:04+00:00",
-     "summary": "The prince and his wife, whose relations with King Charles and the rest of the royal family have long been strained, will remain non-working royals, according to a person familiar with the decision."
-    },
-    {
-     "outlet": "npr",
-     "title": "Prince Harry and Meghan are returning to the U.K. with their children",
-     "url": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-20T06:17:42+00:00",
-     "summary": "Prince Harry and his wife, Meghan, have decided to return to the United Kingdom for an extended stay starting this fall, but they won't resume their roles as working members of the royal family. (Image credit: Jonathan Brady)"
-    },
-    {
-     "outlet": "businessinsider",
-     "title": "Prince Harry and Meghan Markle are moving back to the UK 6 years after they left. Here's a timeline of their relationship with the royals.",
-     "url": "https://www.businessinsider.com/prince-harry-meghan-markle-royal-family-relationship-timeline",
-     "author": "Samantha Grindell Pettyjohn (sgrindell@businessinsider.com)",
-     "kind": "news",
-     "published": "2026-08-19T23:30:45+00:00",
-     "summary": "Prince Harry and Meghan Markle are heading back across the pond. Jonathan Brady / POOL / AFP Prince Harry and Meghan Markle are moving back to the UK. They will live in a private residence and enroll their children in a school in the UK. The news comes after years of strain in the couple's relationship with the royal family. Prince Harry and Meghan Markle are moving back to the UK. On Wednesday, People reported that the couple would be moving back to Britain \"for an extended period of time\" with their children, Prince Archie, 7, and Princess Lilibet, 5. The Duke and Duchess of Sussex won't return to their royal duties, which they stepped back from in January 2020, but they plan to live near London. The move will put them in proximity to King Charles, Prince William, and the rest of the royal family for the first time in over six years. Harry, 41, and Meghan, 45, have had a strained relationship with the royals since they decided to step back from their royal duties. Meghan has largely focused on her As Ever brand in the US in recent years, but Harry has visited his father a handful of times since the king was diagnosed with cancer in February 2024. Here's a timeline of Harry and Me"
-    },
-    {
      "outlet": "cbsnews",
-     "title": "Prince Harry and Meghan moving back to U.K.",
-     "url": "https://www.cbsnews.com/news/prince-harry-meghan-moving-back-uk/",
+     "title": "Trump announces \"crushing economic operation\" on Iran with talks in limbo",
+     "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-19T23:27:00+00:00",
-     "summary": "The couple said in January 2020 that they would be stepping away from \"senior\" royal roles\u200b and were working to become financially independent from the royal family."
+     "published": "2026-08-20T07:15:34+00:00",
+     "summary": "President Trump said Wednesday the U.S. might return to negotiations with Iran eventually, but he said currently \"the situation is so good.\""
     },
     {
-     "outlet": "nbcnews",
-     "title": "Prince Harry and Meghan will move back to the United Kingdom, source says",
-     "url": "https://www.nbcnews.com/world/united-kingdom/prince-harry-meghan-will-move-back-united-kingdom-source-says-rcna593435",
-     "author": "Jean-Nicholas Fievet",
+     "outlet": "guardian",
+     "title": "Trump threatens Iran\u2019s trade partners, as military strikes make way for economic pressure",
+     "url": "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz",
+     "author": "Jonathan Yerushalmy",
      "kind": "news",
-     "published": "2026-08-19T22:41:02+00:00",
-     "summary": "The Duke and Duchess of Sussex listen to a music class during a visit to the QuestScope Youth Center at the Za'atari refugee camp, home to displaced Syrians, near Mafraq in northern Jordan on Feb. 25, 2026."
+     "published": "2026-08-20T04:53:44+00:00",
+     "summary": "US president pivots towards \u2018crushing\u2019 economic operation against Iran and its trading partners as military strikes fail to bring Tehran to the table Donald Trump has announced a new campaign to isolate Iran\u2019s economy, threatening \u201ctremendous economic consequences\u201d on any country that helps or does business with Tehran, a move that could set up a fresh confrontation with China if implemented. \u201cToday, I am announcing the most crushing economic operation ever taken against any country!\u201d Trump wrote on Truth Social. \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face tremendous economic consequences.\u201d Continue reading..."
     },
     {
-     "outlet": "france24",
-     "title": "Prince Harry and Meghan to move back to UK six years after royal exit",
-     "url": "https://www.france24.com/en/europe/20260819-prince-harry-meghan-move-back-uk-six-years-after-royal-exit",
-     "author": "FRANCE 24",
+     "outlet": "nyt",
+     "title": "Trump Threatens Economic Pain for Countries That Help Iran",
+     "url": "https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html",
+     "author": "Chris Cameron",
      "kind": "news",
-     "published": "2026-08-19T22:39:43+00:00",
-     "summary": "Prince Harry and his wife Meghan plan to move back to Britain six years after stepping down as working royals, British media reported on Wednesday. The couple are expected to leave the United States by month-end and live outside London, while their two children have reportedly enrolled in a British school."
+     "published": "2026-08-20T01:52:13+00:00",
+     "summary": "The president did not specify what actions he would take, and he has on other occasions abandoned threats to dramatically escalate the war with Iran."
     },
     {
-     "outlet": "forbes",
-     "title": "Prince Harry And Meghan Moving Back To U.K. After 6 Years In U.S.",
-     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/19/prince-harry-and-meghan-moving-back-to-uk-after-6-years-in-us/",
-     "author": "Antonio Peque\u00f1o IV, Forbes Staff",
+     "outlet": "thehill",
+     "title": "Trump announces \u2018most crushing economic operation ever\u2019 against Iran",
+     "url": "https://thehill.com/homenews/administration/6040249-trump-announces-economic-warfare-iran/",
+     "author": "Sarah Davis",
      "kind": "news",
-     "published": "2026-08-19T22:27:00+00:00",
-     "summary": "The couple moved to the U.S. in 2020 as they stepped away from their official royal duties."
+     "published": "2026-08-20T00:02:05+00:00",
+     "summary": "President Trump announced Wednesday evening the \u201cMOST CRUSHING ECONOMIC OPERATION EVER\u201d against Iran amid negotiations to reopen the Strait of Hormuz, a major oil trading waterway that has been effectively closed since early March. \u201cThis will be Economic Warfare and Isolation on an unprecedented scale,\u201d the president wrote on Truth Social. Trump said any nation..."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Iran war live: Trump announces \u2018most crushing\u2019 Iran sanctions",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T00:00:00+00:00",
+     "summary": "Trump says Washington may resume talks with Tehran &#039;at some point&#039;."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Trump threatens 'unprecedented' economic consequences for any nation aiding Iran",
+     "url": "https://www.foxnews.com/politics/trump-threatens-unprecedented-economic-consequences-any-nation-aiding-iran",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T23:23:08+00:00",
+     "summary": "President Donald Trump on Wednesday issued a stern warning to any nation thinking about offering a lifeline to Iran after announcing the launch of a U.S. operation he likened to an \"economic D-Day.\" \"Today, I am announcing the MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY! This will be Economic Warfare and Isolation on an unprecedented scale,\" Trump wrote on Truth Social. \"I am also announcing that ANY country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face TREMENDOUS Economic Consequences. IRAN DEAL CLOCK HITS ZERO AS TRUMP DEMANDS \u2018WHITE FLAG\u2019 WITH NEW PRESSURE CAMPAIGN LOOMING \"Oil smuggling, swap lines, cash transfers, exchange houses, ship registries, front companies \u2014 It all needs to stop NOW,\" he continued. \"You know who you are. This will be an ECONOMIC D-DAY, and we need all of our Allies to stand with the United States of America to isolate, and defeat, the Iran threat. These maniacs are on the ropes, and these HISTORIC MEASURES will cripple them and their ability to project terror worldwide.\" Trump said Iran's navy and air force are destroyed, while their produ"
     },
     {
      "outlet": "dailywire",
-     "title": "PARTY IN THE USA: Prince Harry, Meghan Markle Returning To UK After Years Of Royal Turmoil",
-     "url": "https://www.dailywire.com/news/party-in-the-usa-prince-harry-meghan-markle-returning-to-uk-after-years-of-royal-turmoil",
-     "author": "Jacob Wheeler",
+     "title": "\u2018ECONOMIC D-DAY\u2019: Trump Announces Unprecedented Operation To Crush Iran\u2019s Shadow Economy",
+     "url": "https://www.dailywire.com/news/economic-d-day-trump-announces-unprecedented-operation-to-crush-irans-shadow-economy",
+     "author": "Hank Berrien",
      "kind": "opinion",
-     "published": "2026-08-19T19:33:33+00:00",
-     "summary": "In a royal surprise, Prince Harry and Duchess Meghan Markle plan to leave California and establish a home base in the United Kingdom, British media reported Wednesday. The couple and their two children, Prince Archie, 7, and Princess Lilibet, 5, will head back across the pond later this month after giving up their senior royal roles and settling in California during the coronavirus pandemic, The Telegraph reported. With the children set to start school in September, the couple is expected to keep their homes in Montecito, California, and Portugal. The move comes after years of bitter tensions between Harry and his estranged royal family \u2014 and just months after a low-key British trip that nonetheless caught the attention of royal watchers. In July, King Charles III privately met with Prince Harry, Meghan Markle, and their two children in the first family gathering since the royal rift erupted several years ago, The Daily Wire previously reported. The king and Queen Camilla met with the Duke and Duchess of Sussex, Prince Archie, and Princess Lilibet at the Highgrove House country estate. Relations deteriorated after Harry and Meghan\u2019s bombshell 2021 interview with Oprah Winfrey, in w"
+     "published": "2026-08-19T20:01:43+00:00",
+     "summary": "President Donald Trump announced what he called an &#8220;ECONOMIC D-DAY&#8221; against Iran on Wednesday, threatening economic consequences for countries that continue providing a lifeline to the despotic regime. Writing on Truth Social on Wednesday evening, Trump slammed the Islamic Republic for refusing to come to the table, warning that the time for polite diplomacy is officially over. &#8220;No one has given the Islamic Republic of Iran a greater opportunity to make a Deal than me,&#8221; Trump wrote. &#8220;TRAGICALLY, for them, they have failed to take it. Therefore, today, I am announcing the MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY!&#8221; Trump added that these &#8220;HISTORIC MEASURES&#8221; will completely wreck Tehran\u2019s ability to finance international terrorism. Trump also issued a zero-tolerance warning to any foreign nations or businesses secretly throwing a lifeline to the Iranian regime through shadowy financial tricks. &#8220;ANY country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face TREMENDOUS Economic Consequences,&#8221; Trump threatened, calli"
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump signals economic pressure in Iran conflict as talks stall: ANALYSIS",
+     "url": "https://abcnews.com/Politics/trump-signals-economic-pressure-iran-conflict-talks-stall/story?id=135753451",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T14:51:04+00:00",
+     "summary": "The Trump administration is touting its naval blockade of the Strait of Hormuz and previewing new sanctions still to be announced."
     }
    ]
   },
@@ -561,13 +607,13 @@
    "summary": "Heidi Overton during an executive order signing in the Oval Office of the White House in Washington, D.C., on Aug. 10, 2026. \u2014Bonnie Cash\u2014UPI/Bloomberg/Getty Images President Donald Trump announced on Wednesday that he was tapping Dr. Heidi Overton to lead the U.S. Food and Drug Administration (FDA), the health agency responsible for overseeing the safety and effectiveness of products including food, drugs, and medical devices. \u201cDr. Heidi has been a ROCKSTAR in my Administration, where she has worked directly with Secretary Kennedy, Dr. Oz, and team, to deliver on the MOST TRANSFORMATIVE Health Agenda in History,\u201d the President said in a Truth Social post . \u201cWe need her leadership at the FDA now to ensure that the U.S. remains the WORLD LEADER for Scientific Discovery and CURES.\u201d He went on to say that, in the role, Overton would work with Health and Human Services Secretary Robert F.\u2026",
    "summaryFrom": "time",
    "emphasis": {
-    "bigCount": 6,
+    "bigCount": 5,
     "indieCount": 3,
     "big": [
-     "announced",
      "wednesday",
-     "nominee",
+     "announced",
      "agency",
+     "nominee",
      "deputy",
      "domestic"
     ],
@@ -582,12 +628,12 @@
    "updated": "2026-08-19T23:05:56+00:00",
    "outletCount": 8,
    "counts": {
-    "family": 3,
+    "family": 2,
     "nonprofit": 2,
     "corp": 3,
     "pub": 1
    },
-   "newsCount": 9,
+   "newsCount": 8,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -662,120 +708,6 @@
      "kind": "news",
      "published": "2026-08-19T16:31:59+00:00",
      "summary": "Overton has said that Congress should strictly regulate abortion drug mifepristone \u2018to protect women and children\u2019 Donald Trump nominated Dr Heidi Overton \u2013 an abortion opponent who stood next to the president as he made false claims about vaccines \u2013 to be commissioner of the US Food and Drug Administration (FDA). \u201cToday I am honored to nominate the wonderful Dr. Heidi Overton, MD, PhD, as our next FDA Commissioner. Dr. Heidi has been a ROCKSTAR in my Administration, where she has worked directly with Secretary Kennedy, Dr. Oz, and team, to deliver on the MOST TRANSFORMATIVE Health Agenda in History. She is known to take on the HARDEST issues, and bring me solutions that work best for the Country,\u201d the president wrote on Truth Social on Wednesday. Continue reading..."
-    },
-    {
-     "outlet": "time",
-     "title": "CNN Condemns the White House\u2019s Attacks on Journalist Kristen Holmes: Here\u2019s What to Know",
-     "url": "https://time.com/article/2026/08/18/cnn-white-house-kristen-holmes-journalist-attacks/",
-     "author": "Chantelle Lee",
-     "kind": "news",
-     "published": "2026-08-18T22:12:26+00:00",
-     "summary": "CNN condemned the White House for launching personal attacks on one of the network\u2019s journalists . \u201cKristen Holmes is one of the most respected and accomplished journalists covering the White House,\u201d CNN said of its senior White House correspondent in a statement shared on X on Monday. \u201cThis afternoon, she did her job and asked the President of the United States a tough, relevant, and newsworthy question on behalf of the American people.\u201d \u201cPublic officials are free to challenge reporting they disagree with, but personal attacks on journalists for asking questions are beneath the office and inconsistent with the principles of a free press,\u201d CNN continued. \u201cWe stand firmly behind Kristen and reject these attacks in the strongest possible terms.\u201d The network\u2019s rebuke came after a question that Holmes asked President Donald Trump during an Oval Office event on Monday drew a heated response from Trump and, later, a series of critical posts from the White House targeting the journalist. \u201cJon Ossoff said that you\u2019d rather travel with your aide Natalie Harp and build the ballroom than do your job as President,\u201d Holmes asked the President, referring to a comment the Democratic Georgia Senat"
-    }
-   ]
-  },
-  {
-   "id": "c5318923be",
-   "topic": "Politics",
-   "summary": "Because of extremely unfortunate, inexplicable and reckless decisions of two lower courts, U.S. Supreme Court Chief Justice John Roberts has before him an application for a stay of an order from the United States Court of Appeals for the District of Columbia Circuit which order upholds the imposition of a rococo construction schedule for the above-ground construction of the new East Wing of the White House , one which was ordered by U.S. District Judge Richard Leon\u2019s micromanagement of what can and cannot be built in the replacement structure of the now demolished old East Wing of the White House \u2014 an East Wing which was built in 1902 and expanded in 1942 when FDR had it substantially expanded and added underground facilities which include the Presidential Emergency Operations Center. An 84-year-old \"emergency center\" is, of course, outdated. Judge Leon and the Circuit have directed\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": {
-    "bigCount": 5,
-    "indieCount": 3,
-    "big": [
-     "weeks"
-    ],
-    "indie": [
-     "watch"
-    ]
-   },
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "WATCH: Trump talks about North Korea, interest rates while hosting cryptocurrency leaders at the White House",
-   "updated": "2026-08-20T06:05:13+00:00",
-   "outletCount": 7,
-   "counts": {
-    "family": 5,
-    "nonprofit": 2,
-    "pub": 1
-   },
-   "newsCount": 7,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Jimmy Fallon Teases Trump\u2019s Efforts to Rekindle North Korea Bromance",
-     "url": "https://www.nytimes.com/2026/08/20/arts/television/jimmy-fallon-trump-kim-jong-un.html",
-     "author": "Trish Bendix",
-     "kind": "news",
-     "published": "2026-08-20T06:05:13+00:00",
-     "summary": "\u201cMan, you know you\u2019re depressed when you\u2019re texting an old hookup from seven years ago,\u201d Fallon said of the president and North Korea\u2019s leader, Kim Jong-un."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "WATCH: Trump talks about North Korea, interest rates while hosting cryptocurrency leaders at the White House",
-     "url": "https://www.pbs.org/newshour/politics/watch-trump-talks-about-north-korea-interest-rates-while-hosting-cryptocurrency-leaders-at-the-white-house",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-19T20:39:50+00:00",
-     "summary": "President Donald Trump held court on Wednesday with several cryptocurrency and finance leaders for an event on digital assets."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Watch: Trump leads tour of White House helipad construction site",
-     "url": "https://www.bbc.co.uk/news/videos/c4g61p4n1z4o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T18:30:15+00:00",
-     "summary": "The work is being expedited ahead of Chinese President Xi Jinping\u2019s planned visit to the White House in late September."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Trump shows off his new helipad, brags about construction projects",
-     "url": "https://www.washingtonpost.com/politics/2026/08/19/trump-shows-off-his-new-helipad-brags-about-construction-projects/",
-     "author": "Dan Diamond",
-     "kind": "news",
-     "published": "2026-08-19T17:56:54+00:00",
-     "summary": "For a brief period Wednesday, the president set aside more troubling issues to revel in his role as White House redeveloper."
-    },
-    {
-     "outlet": "semafor",
-     "title": "Oil prices rise as Trump cuts off talks with Iran",
-     "url": "https://www.semafor.com/article/08/18/2026/oil-prices-rise-as-trump-cuts-off-talks-with-iran",
-     "author": "Brendan Ruberry",
-     "kind": "news",
-     "published": "2026-08-18T22:26:31+00:00",
-     "summary": "Oil prices hit their highest level in weeks after US President Donald Trump cut off talks with Iran for the foreseeable future on Tuesday, and Tehran said the Strait of Hormuz would remain shut amid stalled negotiations. US retail gas prices hit their highest-ever August levels this week, but \u201cthe global economy\u2019s apparent success in adapting to the [strait\u2019s] closure suggests the US can afford to wait,\u201d Eurasia Group analysts wrote. While a small but steady stream of oil continues to flow out of the Gulf, global consumers can\u2019t afford for oil traders to get too comfortable with tenuous security in the strait, a Kpler analyst argued in Semafor Gulf: \u201cThe bigger risk is that uncertainty becomes the new reality .\u201d \u2014 Brendan Ruberry"
-    },
-    {
-     "outlet": "semafor",
-     "title": "White House weighs how to achieve Iran\u2019s \u2018economic isolation\u2019",
-     "url": "https://www.semafor.com/article/08/18/2026/white-house-weighs-how-to-achieve-irans-economic-isolation",
-     "author": "Eleanor Mueller",
-     "kind": "news",
-     "published": "2026-08-18T20:46:16+00:00",
-     "summary": "The Trump administration is still eyeing additional economic measures against Iran after Treasury Secretary Scott Bessent indicated announcements would come this week , an administration official told Semafor. \u201cThere are many levers the president can crank harder in the weeks and months ahead,\u201d the official said. \u201cWhile he has been consistent in saying he prefers a diplomatic solution, he continues to retain all options if Iran continues to engage in terrorism and refuses to make a deal.\u201d The current sanctions and naval blockade, the official argued, have already \u201ccrippled Iran\u2019s economy.\u201d The challenge for the administration will be intensifying that pain without harming the American economy. Options like seizing Iranian assets and sanctioning Iran\u2019s trading partners, exchange houses, and Chinese banks all have potential downsides . The Treasury Department did not respond to a request for comment. \u2014 Eleanor Mueller"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Oil prices jump after US-Iran ceasefire expires and Trump threatens Oman",
-     "url": "https://www.theguardian.com/business/2026/aug/18/oil-prices-rise-us-iran-brent-crude-donald-trump",
-     "author": "Alex Daniel",
-     "kind": "news",
-     "published": "2026-08-18T11:50:40+00:00",
-     "summary": "Brent crude rises above $90 a barrel for the first time since 30 July after US president tells Tehran to surrender Business live \u2013 latest updates Oil prices have risen again after the two-month window to negotiate a peace deal in the US-Israel war on Iran expired on Monday with no end to the conflict in sight. Iran said on Monday that it would take a more aggressive stance if talks with the US failed, while Donald Trump demanded Tehran \u201cput up the white flag of surrender\u201d in an interview with Fox News. Continue reading..."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed",
-     "url": "https://www.foxnews.com/opinion/morning-glory-scotus-should-urgently-allow-construction-white-house-proceed",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-18T09:00:24+00:00",
-     "summary": "Because of extremely unfortunate, inexplicable and reckless decisions of two lower courts, U.S. Supreme Court Chief Justice John Roberts has before him an application for a stay of an order from the United States Court of Appeals for the District of Columbia Circuit which order upholds the imposition of a rococo construction schedule for the above-ground construction of the new East Wing of the White House , one which was ordered by U.S. District Judge Richard Leon\u2019s micromanagement of what can and cannot be built in the replacement structure of the now demolished old East Wing of the White House \u2014 an East Wing which was built in 1902 and expanded in 1942 when FDR had it substantially expanded and added underground facilities which include the Presidential Emergency Operations Center. An 84-year-old \"emergency center\" is, of course, outdated. Judge Leon and the Circuit have directed President Trump what he can and cannot build on the grounds of the Executive Mansion. Judge Leon is an old acquaintance of mine and has been a fine judge for his long tenure (he was appointed by President George W. Bush in 2002 and assumed senior status in 2016), but even the best judges throw a spanner"
     }
    ]
   },
@@ -885,6 +817,97 @@
    ]
   },
   {
+   "id": "282cfd56c4",
+   "topic": "Justice & Policing",
+   "summary": "Chinese property developer Hui Ka Yan has been sentenced to life in prison. The decision marks a milestone in Evergrande's saga after it collapsed with more than $300 billion in liabilities. (Image credit: Mahesh Kumar A.)",
+   "summaryFrom": "npr",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 3,
+    "big": [
+     "china",
+     "crisis"
+    ],
+    "indie": [
+     "collapsed",
+     "evergrande's",
+     "court",
+     "marks"
+    ]
+   },
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Chinese court sentences founder of property developer Evergrande to life in prison",
+   "updated": "2026-08-20T07:31:55+00:00",
+   "outletCount": 6,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 2,
+    "family": 3
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "npr",
+     "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
+     "url": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-20T07:31:55+00:00",
+     "summary": "Chinese property developer Hui Ka Yan has been sentenced to life in prison. The decision marks a milestone in Evergrande's saga after it collapsed with more than $300 billion in liabilities. (Image credit: Mahesh Kumar A.)"
+    },
+    {
+     "outlet": "dw",
+     "title": "Evergrande founder Hui Ka Yan sentenced to life in prison",
+     "url": "https://www.dw.com/en/evergrande-founder-hui-ka-yan-sentenced-to-life-in-prison/a-78439153?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T07:04:00+00:00",
+     "summary": "A Chinese court ordered the former billionaire's assets to be confiscated and fined Evergrande-related companies billions of dollars."
+    },
+    {
+     "outlet": "forbes",
+     "title": "Once Asia\u2019s Richest Man, Evergrande Founder Hui Ka Yan Sentenced To Life In Prison",
+     "url": "https://www.forbes.com/sites/ywang/2026/08/20/once-asias-richest-man-evergrande-founder-hui-ka-yan-sentenced-to-life-in-prison/",
+     "author": "Yue Wang, Senior Contributor",
+     "kind": "news",
+     "published": "2026-08-20T06:44:27+00:00",
+     "summary": "Almost five years after Evergrande triggered a property crisis in China, its disgraced founder Hui Ka Yan has been sentenced to life in prison."
+    },
+    {
+     "outlet": "nyt",
+     "title": "China Sentences Evergrande Founder to Life in Prison",
+     "url": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
+     "author": "Yan Zhuang and Alexandra Stevenson",
+     "kind": "news",
+     "published": "2026-08-20T06:39:53+00:00",
+     "summary": "Hui Ka Yan\u2019s punishment caps the downfall of a property empire whose collapse set off a prolonged crisis in the Chinese economy."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+     "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T06:08:02+00:00",
+     "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector."
+    },
+    {
+     "outlet": "nypost",
+     "title": "Tennessee pastor sentenced to life in prison for raping girl, 5, with help from wife",
+     "url": "https://nypost.com/2026/08/20/us-news/tennessee-pastor-benjamin-garlick-wife-shaantal-found-guilty-of-raping-young-girl/",
+     "author": "Fox News",
+     "kind": "news",
+     "published": "2026-08-20T05:57:25+00:00",
+     "summary": "The case began in August 2023, when the Murfreesboro Police Department's Special Victims Unit launched an investigation into the sexual abuse of a child who was just 5 years old at the time."
+    }
+   ]
+  },
+  {
    "id": "7fc572b601",
    "topic": "Other",
    "summary": "Milestone marks years of government spending that grew under both Donald Trump and Joe Biden US debt reached $40tn for the first time on Wednesday, the US treasury department said, after the government deficit doubled over the last decade. The treasury\u2019s latest debt balance showed $40.047tn on Tuesday afternoon, the highest in US history. Continue reading...",
@@ -894,11 +917,11 @@
     "indieCount": 4,
     "big": [],
     "indie": [
-     "decade",
      "reached",
+     "decade",
      "highest",
      "passes",
-     "trump",
+     "biden",
      "doubled"
     ]
    },
@@ -971,84 +994,6 @@
      "kind": "news",
      "published": "2026-08-19T20:32:20+00:00",
      "summary": "Federal debt has mounted amid tax cuts and trillions in pandemic spending, adding to the nation's interest payments."
-    }
-   ]
-  },
-  {
-   "id": "a4d297d67e",
-   "topic": "Politics",
-   "summary": "One of the betting favorites to replace Karoline Leavitt as White House press secretary declared Wednesday that she is not in the running for the job. The 28-year-old White House press secretary, fresh off maternity leave, announced earlier this month that she would end her tenure at the podium at the end of August to spend more time with her two young children. As speculation continued to swirl over whom President Donald Trump would tap to succeed Leavitt, bettors on prediction market platform Kalshi began favoring Alina Habba for the role. KAROLINE LEAVITT'S REPLACEMENT AS PRESS SECRETARY FACES 'CRITICAL' TEST AS MIDTERMS LOOM, TRUMP ADVISOR SAYS Habba, who serves as senior adviser to the attorney general for U.S. attorneys, was previously floated for the position after Trump won re-election. Bettors on Kalshi gave Habba a 35% chance of being named Leavitt's replacement at the time\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Trump talks about grass as he shows off White House renovations \u2013 video",
-   "updated": "2026-08-20T06:00:48+00:00",
-   "outletCount": 6,
-   "counts": {
-    "family": 3,
-    "corp": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Alina Habba shuts down speculation she could replace Karoline Leavitt as White House press secretary",
-     "url": "https://www.foxnews.com/politics/alina-habba-shuts-down-speculation-replace-karoline-leavitt-white-house-press-secretary",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T06:00:48+00:00",
-     "summary": "One of the betting favorites to replace Karoline Leavitt as White House press secretary declared Wednesday that she is not in the running for the job. The 28-year-old White House press secretary, fresh off maternity leave, announced earlier this month that she would end her tenure at the podium at the end of August to spend more time with her two young children. As speculation continued to swirl over whom President Donald Trump would tap to succeed Leavitt, bettors on prediction market platform Kalshi began favoring Alina Habba for the role. KAROLINE LEAVITT'S REPLACEMENT AS PRESS SECRETARY FACES 'CRITICAL' TEST AS MIDTERMS LOOM, TRUMP ADVISOR SAYS Habba, who serves as senior adviser to the attorney general for U.S. attorneys, was previously floated for the position after Trump won re-election. Bettors on Kalshi gave Habba a 35% chance of being named Leavitt's replacement at the time before she publicly dismissed the speculation. Habba, however, threw cold water on that idea. \"Flattered by the Kalshi odds, but I'm not in the running for any job,\" Habba posted on X. \"However, if I'm getting a new one, I'd love for one of these anonymous sources to let me know first,\" she continued. "
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Alina Habba &#039;Flattered&#039; by Odds to Become Trump&#039;s New Press Secretary",
-     "url": "https://www.newsweek.com/alina-habba-says-shes-not-in-running-for-new-job-who-leads-press-secretary-odds-12345524",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T04:01:32+00:00",
-     "summary": "The former Trump attorney says she&#039;s &quot;not in the running&quot; to succeed Karoline Leavitt after leading prediction markets."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Alina Habba Shuts Down Speculation She Could Be Next White House Press Secretary",
-     "url": "https://www.breitbart.com/politics/2026/08/19/alina-habba-shutsdown-speculation-next-white-house-press-secretary/",
-     "author": "Mariane Angela",
-     "kind": "news",
-     "published": "2026-08-20T02:08:12+00:00",
-     "summary": "Alina Habba shut down speculation on Wednesday that she could become the next White House press secretary. The post Alina Habba Shuts Down Speculation She Could Be Next White House Press Secretary appeared first on Breitbart ."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump shows off multimillion-dollar White House helipad and adds his signature",
-     "url": "https://abcnews.com/Politics/trump-shows-off-multimillion-dollar-white-house-helipad/story?id=135782264",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T02:02:47+00:00",
-     "summary": "President Trump showed off the new, granite White House helipad on Wednesday."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump talks about grass as he shows off White House renovations \u2013 video",
-     "url": "https://www.theguardian.com/us-news/video/2026/aug/19/trump-talks-grass-white-house",
-     "author": "Guardian Staff",
-     "kind": "news",
-     "published": "2026-08-20T02:00:20+00:00",
-     "summary": "The US president waxed lyrical about grass being added around the new White House helipad in front of the media. 'You know, grass has a life like humans have a life,' Trump said Continue reading..."
-    },
-    {
-     "outlet": "wapo",
-     "title": "What happens next to Alex Vindman\u2019s multimillion-dollar war chest?",
-     "url": "https://www.washingtonpost.com/politics/2026/08/19/what-happens-next-alex-vindmans-multimillion-dollar-war-chest/",
-     "author": "Mariana Alfaro",
-     "kind": "news",
-     "published": "2026-08-19T19:58:30+00:00",
-     "summary": "The Senate candidate raised more than $16 million before the Florida primary and probably will still have significant funds once outstanding balances are settled."
     }
    ]
   },
@@ -1141,8 +1086,8 @@
     "big": [],
     "indie": [
      "progressive",
-     "alex",
      "vindman",
+     "alex",
      "democrat",
      "retired",
      "defeated"
@@ -1232,7 +1177,7 @@
     "coop"
    ],
    "headline": "Australia news live: NSW police commissioner says \u2018I unreservedly apologise\u2019 for miscommunication over 18-year-old bushwalker Lily Hooper\u2019s death",
-   "updated": "2026-08-20T06:57:03+00:00",
+   "updated": "2026-08-20T07:42:07+00:00",
    "outletCount": 5,
    "counts": {
     "nonprofit": 3,
@@ -1248,7 +1193,7 @@
      "url": "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb",
      "author": "Achol Arok (now) and Krishani Dhanji (earlier)",
      "kind": "news",
-     "published": "2026-08-20T06:57:03+00:00",
+     "published": "2026-08-20T07:42:07+00:00",
      "summary": "Follow today\u2019s news live Get our breaking news email , free app or daily news podcast \u2018Outrageous\u2019: Greens leader says sending Israeli ambassador home should be on the table Greens leader Larissa Waters says strong words are not enough, and the government should sanction the state of Israel after its defence force decided not to pursue a criminal investigation into the killing of World Central Kitchen aid workers including Australian Zomi Frankom . It is absolutely outrageous that after two years of investigating, the Israeli authorities have cleared themselves of any wrongdoing \u2026 The Australian government needs to do more than just issue some strongly worded statements. They need to sanction the state of Israel and they need to make sure that we are not involved in a two-way arms trade, which we are at the moment. It\u2019s a significant loss not only to her family, but to the Australian community, because she was the best of us. The people that run into danger, that try to help others. So it is deeply disappointing that this news was obviously released on world humanitarian day, but deeply disappointing no further action taken \u2026 I think we\u2019re all really concerned that nothing more is "
     },
     {
@@ -1299,44 +1244,152 @@
    ]
   },
   {
-   "id": "38240bb6ad",
+   "id": "a4d297d67e",
+   "topic": "Politics",
+   "summary": "The News The Securities and Exchange Commission delayed its release of a regulatory framework for certain digital assets following White House officials\u2019 concerns that a separate but related rule could bog down cryptocurrency legislation, people familiar with the process told Semafor. The SEC was set to consider both proposals at a Friday meeting before confusion over which rule it planned to advance led to a cancellation, the people said. Only the framework, not the second proposal, known as the innovation exemption , was set for approval; commissioners later voted on the framework individually, said an SEC spokesperson, who last week attributed the cancellation to \u201can unforeseen scheduling issue.\u201d A separate person familiar disputed that the crypto bill played any role, saying \u201cthe regulations were still technically under review.\u201d Trump will host crypto executives at the White House\u2026",
+   "summaryFrom": "semafor",
+   "emphasis": {
+    "bigCount": 6,
+    "indieCount": 2,
+    "big": [
+     "stalled",
+     "crypto",
+     "wednesday",
+     "told",
+     "semafor",
+     "weeks"
+    ],
+    "indie": []
+   },
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Trump talks about grass as he shows off White House renovations \u2013 video",
+   "updated": "2026-08-20T07:20:09+00:00",
+   "outletCount": 5,
+   "counts": {
+    "family": 5,
+    "corp": 1,
+    "nonprofit": 2
+   },
+   "newsCount": 8,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "forbes",
+     "title": "Bitcoin Soars After Trump Hosts Crypto Executives At White House And Urges Passage Of Clarity Act",
+     "url": "https://www.forbes.com/sites/siladityaray/2026/08/20/bitcoin-soars-after-trump-hosts-crypto-executives-at-white-house-and-urges-passage-of-clarity-act/",
+     "author": "Siladitya Ray, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-20T07:20:09+00:00",
+     "summary": "Bitcoin inched towards the $70,000 mark for the first time since early June as Trump pushed Congress to pass the stalled CLARITY Act."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump shows off multimillion-dollar White House helipad and adds his signature",
+     "url": "https://abcnews.com/Politics/trump-shows-off-multimillion-dollar-white-house-helipad/story?id=135782264",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T02:02:47+00:00",
+     "summary": "President Trump showed off the new, granite White House helipad on Wednesday."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump talks about grass as he shows off White House renovations \u2013 video",
+     "url": "https://www.theguardian.com/us-news/video/2026/aug/19/trump-talks-grass-white-house",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T02:00:20+00:00",
+     "summary": "The US president waxed lyrical about grass being added around the new White House helipad in front of the media. 'You know, grass has a life like humans have a life,' Trump said Continue reading..."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump shows off his new helipad, brags about construction projects",
+     "url": "https://www.washingtonpost.com/politics/2026/08/19/trump-shows-off-his-new-helipad-brags-about-construction-projects/",
+     "author": "Dan Diamond",
+     "kind": "news",
+     "published": "2026-08-19T17:56:54+00:00",
+     "summary": "For a brief period Wednesday, the president set aside more troubling issues to revel in his role as White House redeveloper."
+    },
+    {
+     "outlet": "semafor",
+     "title": "White House mix-up delayed SEC crypto rule",
+     "url": "https://www.semafor.com/article/08/19/2026/white-house-mix-up-delayed-sec-crypto-rule",
+     "author": "Eleanor Mueller",
+     "kind": "news",
+     "published": "2026-08-19T08:45:01+00:00",
+     "summary": "The News The Securities and Exchange Commission delayed its release of a regulatory framework for certain digital assets following White House officials\u2019 concerns that a separate but related rule could bog down cryptocurrency legislation, people familiar with the process told Semafor. The SEC was set to consider both proposals at a Friday meeting before confusion over which rule it planned to advance led to a cancellation, the people said. Only the framework, not the second proposal, known as the innovation exemption , was set for approval; commissioners later voted on the framework individually, said an SEC spokesperson, who last week attributed the cancellation to \u201can unforeseen scheduling issue.\u201d A separate person familiar disputed that the crypto bill played any role, saying \u201cthe regulations were still technically under review.\u201d Trump will host crypto executives at the White House on Wednesday as that measure, which would enshrine the current SEC\u2019s approach, languishes in the Senate . Know More A White House official told Semafor that prediction markets like Kalshi, initially expected to attend the kick-off event for the CFTC Innovation Advisory Committee\u2019s inaugural meeting, w"
+    },
+    {
+     "outlet": "semafor",
+     "title": "Oil prices rise as Trump cuts off talks with Iran",
+     "url": "https://www.semafor.com/article/08/18/2026/oil-prices-rise-as-trump-cuts-off-talks-with-iran",
+     "author": "Brendan Ruberry",
+     "kind": "news",
+     "published": "2026-08-18T22:26:31+00:00",
+     "summary": "Oil prices hit their highest level in weeks after US President Donald Trump cut off talks with Iran for the foreseeable future on Tuesday, and Tehran said the Strait of Hormuz would remain shut amid stalled negotiations. US retail gas prices hit their highest-ever August levels this week, but \u201cthe global economy\u2019s apparent success in adapting to the [strait\u2019s] closure suggests the US can afford to wait,\u201d Eurasia Group analysts wrote. While a small but steady stream of oil continues to flow out of the Gulf, global consumers can\u2019t afford for oil traders to get too comfortable with tenuous security in the strait, a Kpler analyst argued in Semafor Gulf: \u201cThe bigger risk is that uncertainty becomes the new reality .\u201d \u2014 Brendan Ruberry"
+    },
+    {
+     "outlet": "semafor",
+     "title": "White House weighs how to achieve Iran\u2019s \u2018economic isolation\u2019",
+     "url": "https://www.semafor.com/article/08/18/2026/white-house-weighs-how-to-achieve-irans-economic-isolation",
+     "author": "Eleanor Mueller",
+     "kind": "news",
+     "published": "2026-08-18T20:46:16+00:00",
+     "summary": "The Trump administration is still eyeing additional economic measures against Iran after Treasury Secretary Scott Bessent indicated announcements would come this week , an administration official told Semafor. \u201cThere are many levers the president can crank harder in the weeks and months ahead,\u201d the official said. \u201cWhile he has been consistent in saying he prefers a diplomatic solution, he continues to retain all options if Iran continues to engage in terrorism and refuses to make a deal.\u201d The current sanctions and naval blockade, the official argued, have already \u201ccrippled Iran\u2019s economy.\u201d The challenge for the administration will be intensifying that pain without harming the American economy. Options like seizing Iranian assets and sanctioning Iran\u2019s trading partners, exchange houses, and Chinese banks all have potential downsides . The Treasury Department did not respond to a request for comment. \u2014 Eleanor Mueller"
+    },
+    {
+     "outlet": "guardian",
+     "title": "Oil prices jump after US-Iran ceasefire expires and Trump threatens Oman",
+     "url": "https://www.theguardian.com/business/2026/aug/18/oil-prices-rise-us-iran-brent-crude-donald-trump",
+     "author": "Alex Daniel",
+     "kind": "news",
+     "published": "2026-08-18T11:50:40+00:00",
+     "summary": "Brent crude rises above $90 a barrel for the first time since 30 July after US president tells Tehran to surrender Business live \u2013 latest updates Oil prices have risen again after the two-month window to negotiate a peace deal in the US-Israel war on Iran expired on Monday with no end to the conflict in sight. Iran said on Monday that it would take a more aggressive stance if talks with the US failed, while Donald Trump demanded Tehran \u201cput up the white flag of surrender\u201d in an interview with Fox News. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "ece00822e4",
    "topic": "World",
-   "summary": "Children\u2019s hospital and residential areas hit in latest bombardment of capital and surrounding region A heavy Russian bombardment has killed at least 13 people in Ukraine\u2019s capital and its surrounding region overnight, authorities have said. A missile attack on Kyiv struck residential areas and warehouses, said the mayor, Vitali Klitschko. The attack damaged residential buildings, a medical facility and an educational institution and killed 12 people and wouned 33, he said. Continue reading...",
+   "summary": "Children\u2019s hospital and residential areas hit in latest bombardment of capital and surrounding region A heavy Russian bombardment has killed at least 13 people in Ukraine\u2019s capital and its surrounding region overnight, authorities have said. A missile attack on Kyiv struck residential areas and warehouses, said the mayor, Vitali Klitschko. The attack damaged residential buildings, a medical facility and an educational institution and killed 13 people and wouned 33, he said. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": null,
    "absent": [
     "corp",
     "coop"
    ],
-   "headline": "Kyiv comes under heavy Russian missile attack, killing at least 13",
-   "updated": "2026-08-20T06:46:01+00:00",
+   "headline": "Massive Russian strikes hit Kyiv killing several people",
+   "updated": "2026-08-20T07:17:50+00:00",
    "outletCount": 5,
    "counts": {
+    "pub": 4,
     "nonprofit": 1,
-    "pub": 3,
     "family": 1
    },
-   "newsCount": 5,
+   "newsCount": 6,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
+    {
+     "outlet": "france24",
+     "title": "Massive Russian strikes hit Kyiv killing several people",
+     "url": "https://www.france24.com/en/massive-russian-strikes-hit-kyiv-killing-several-people",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-20T07:17:50+00:00",
+     "summary": "Russian ballistic missiles killed 12 people and injured more than 30 in Kyiv early on Thursday, authorities said, damaging \u200cbuildings and severing power supply to some parts of the Ukrainian capital. FRANCE 24\u2019s Camille Corcoran brings us more with this report."
+    },
     {
      "outlet": "guardian",
      "title": "Kyiv comes under heavy Russian missile attack, killing at least 13",
      "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
      "author": "Dan Sabbagh in Kyiv and agencies",
      "kind": "news",
-     "published": "2026-08-20T06:46:01+00:00",
-     "summary": "Children\u2019s hospital and residential areas hit in latest bombardment of capital and surrounding region A heavy Russian bombardment has killed at least 13 people in Ukraine\u2019s capital and its surrounding region overnight, authorities have said. A missile attack on Kyiv struck residential areas and warehouses, said the mayor, Vitali Klitschko. The attack damaged residential buildings, a medical facility and an educational institution and killed 12 people and wouned 33, he said. Continue reading..."
-    },
-    {
-     "outlet": "france24",
-     "title": "Kyiv targeted by massive Russian strikes killing several people",
-     "url": "https://www.france24.com/en/europe/20260820-kyiv-targeted-by-massive-russian-strikes-killing-several-people",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-20T05:30:24+00:00",
-     "summary": "A Russian missile barrage overnight on Thursday killed at least 12 people and wounded 40 in Kyiv as explosions echoed across the capital throughout the night, local authorities said. Ukrainian President Volodymyr Zelensky said Russia had been preparing the attack \"for a long time\"."
+     "published": "2026-08-20T07:08:50+00:00",
+     "summary": "Children\u2019s hospital and residential areas hit in latest bombardment of capital and surrounding region A heavy Russian bombardment has killed at least 13 people in Ukraine\u2019s capital and its surrounding region overnight, authorities have said. A missile attack on Kyiv struck residential areas and warehouses, said the mayor, Vitali Klitschko. The attack damaged residential buildings, a medical facility and an educational institution and killed 13 people and wouned 33, he said. Continue reading..."
     },
     {
      "outlet": "aljazeera",
@@ -1364,6 +1417,15 @@
      "kind": "news",
      "published": "2026-08-20T02:54:00+00:00",
      "summary": "The strikes on the Ukrainian capital and its surrounding regions also injured dozens. In neighboring Poland, the military started preventive aviation operations to protect its airspace."
+    },
+    {
+     "outlet": "dw",
+     "title": "Ukraine, Russia trade strikes; Wildberries site hit again",
+     "url": "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-18T09:29:00+00:00",
+     "summary": "Ukriane reported 10 dead in a missile strike in the northeastern Kharkiv oblast near the border. Russia, meanwhile, reported more than 600 drones approaching the Moscow area and warned the UK on suppyling drones to Kyiv."
     }
    ]
   },
@@ -1446,71 +1508,78 @@
    ]
   },
   {
-   "id": "bb3f55a467",
-   "topic": "World",
-   "summary": "Reports say Duke and Duchess of Sussex intend to relocate from US, with children to start British school in September The key moments, conflicts and controversies since their US move The Duke and Duchess of Sussex are planning to return to live in Britain, six years after leaving for the US, it has been reported. The couple and their two children, Prince Archie, seven, and Princess Lilibet, five, are expected to relocate later this month to a non-royal residence. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
+   "id": "c5318923be",
+   "topic": "Politics",
+   "summary": "Because of extremely unfortunate, inexplicable and reckless decisions of two lower courts, U.S. Supreme Court Chief Justice John Roberts has before him an application for a stay of an order from the United States Court of Appeals for the District of Columbia Circuit which order upholds the imposition of a rococo construction schedule for the above-ground construction of the new East Wing of the White House , one which was ordered by U.S. District Judge Richard Leon\u2019s micromanagement of what can and cannot be built in the replacement structure of the now demolished old East Wing of the White House \u2014 an East Wing which was built in 1902 and expanded in 1942 when FDR had it substantially expanded and added underground facilities which include the Presidential Emergency Operations Center. An 84-year-old \"emergency center\" is, of course, outdated. Judge Leon and the Circuit have directed\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 2,
+    "big": [],
+    "indie": [
+     "watch"
+    ]
+   },
    "absent": [
+    "corp",
     "coop"
    ],
-   "headline": "Harry and Meghan moving back to Britain: reports",
-   "updated": "2026-08-20T06:27:55+00:00",
+   "headline": "WATCH: Trump talks about North Korea, interest rates while hosting cryptocurrency leaders at the White House",
+   "updated": "2026-08-20T06:05:13+00:00",
    "outletCount": 5,
    "counts": {
-    "family": 2,
-    "pub": 1,
+    "family": 3,
     "nonprofit": 1,
-    "corp": 1
+    "pub": 1
    },
-   "newsCount": 5,
-   "opinionCount": 0,
+   "newsCount": 4,
+   "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
      "outlet": "nyt",
-     "title": "Harry and Meghan\u2019s Break With Britain and Planned Return: a Timeline",
-     "url": "https://www.nytimes.com/2026/08/19/world/europe/harry-meghan-uk-royals-timeline.html",
-     "author": "Ephrat Livni",
+     "title": "Jimmy Fallon Teases Trump\u2019s Efforts to Rekindle North Korea Bromance",
+     "url": "https://www.nytimes.com/2026/08/20/arts/television/jimmy-fallon-trump-kim-jong-un.html",
+     "author": "Trish Bendix",
      "kind": "news",
-     "published": "2026-08-20T06:27:55+00:00",
-     "summary": "Meghan, Duchess of Sussex, and Prince Harry, Duke of Sussex, posed for a selfie with children and their families during a visit to the Royal Children\u2019s Hospital in Melbourne, Australia, earlier this year."
+     "published": "2026-08-20T06:05:13+00:00",
+     "summary": "\u201cMan, you know you\u2019re depressed when you\u2019re texting an old hookup from seven years ago,\u201d Fallon said of the president and North Korea\u2019s leader, Kim Jong-un."
     },
     {
-     "outlet": "dw",
-     "title": "Harry and Meghan moving back to Britain: reports",
-     "url": "https://www.dw.com/en/harry-and-meghan-moving-back-to-britain-reports/a-78438052?maca=en-rss-en-all-1573-rdf",
+     "outlet": "pbsnewshour",
+     "title": "WATCH: Trump talks about North Korea, interest rates while hosting cryptocurrency leaders at the White House",
+     "url": "https://www.pbs.org/newshour/politics/watch-trump-talks-about-north-korea-interest-rates-while-hosting-cryptocurrency-leaders-at-the-white-house",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-19T20:39:50+00:00",
+     "summary": "President Donald Trump held court on Wednesday with several cryptocurrency and finance leaders for an event on digital assets."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Watch: Trump leads tour of White House helipad construction site",
+     "url": "https://www.bbc.co.uk/news/videos/c4g61p4n1z4o?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-20T03:10:00+00:00",
-     "summary": "Prince Harry and Meghan Markle will return to the UK after living in the US for over six years, according to reports. The former senior royals will reportedly live in a private residence."
+     "published": "2026-08-19T18:30:15+00:00",
+     "summary": "The work is being expedited ahead of Chinese President Xi Jinping\u2019s planned visit to the White House in late September."
     },
     {
-     "outlet": "guardian",
-     "title": "Prince Harry and Meghan \u2018moving back to Britain this month\u2019",
-     "url": "https://www.theguardian.com/uk-news/2026/aug/19/prince-harry-and-meghan-moving-back-to-britain-this-month",
-     "author": "Nadeem Badshah",
+     "outlet": "bloomberg",
+     "title": "North Korea Denies Kim Talks as Trump Eyes Meeting This Year",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-19/north-korea-says-no-trump-kim-talks-still-sees-us-as-hostile",
+     "author": "Se Young Lee and Tyler Kendall",
      "kind": "news",
-     "published": "2026-08-20T01:28:29+00:00",
-     "summary": "Reports say Duke and Duchess of Sussex intend to relocate from US, with children to start British school in September The key moments, conflicts and controversies since their US move The Duke and Duchess of Sussex are planning to return to live in Britain, six years after leaving for the US, it has been reported. The couple and their two children, Prince Archie, seven, and Princess Lilibet, five, are expected to relocate later this month to a non-royal residence. Continue reading..."
+     "published": "2026-08-19T15:12:11+00:00",
+     "summary": "North Korea denied any direct communication between Kim Jong Un and President Donald Trump even as the US president said he\u2019s seeking to meet with the strongman this year."
     },
     {
-     "outlet": "latimes",
-     "title": "Goodbye, Montecito. Prince Harry and Meghan Markle reportedly moving to U.K.",
-     "url": "https://www.latimes.com/entertainment-arts/story/2026-08-19/prince-harry-meghan-markle-leaving-socal-to-go-back-to-u-k",
-     "author": "Emily St. Martin",
-     "kind": "news",
-     "published": "2026-08-19T23:56:02+00:00",
-     "summary": "Six years after leaving the U.K. amid a family feud, Prince Harry and Meghan Markle are reportedly relocating back to Britain ahead of the school year."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Harry and Meghan set to return to UK",
-     "url": "https://www.nbcnews.com/nightly-news/video/harry-and-meghan-set-to-return-to-uk-268559941528",
+     "outlet": "foxnews",
+     "title": "MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed",
+     "url": "https://www.foxnews.com/opinion/morning-glory-scotus-should-urgently-allow-construction-white-house-proceed",
      "author": null,
-     "kind": "news",
-     "published": "2026-08-19T23:10:47+00:00",
-     "summary": "The Duke and Duchess of Sussex are expected to move back to the UK. The Telegraph newspaper reports that six years after they stepped down as working royals, they will make the UK their primary base with their children. NBC News\u2019 Daniele Hamamdjian has more."
+     "kind": "opinion",
+     "published": "2026-08-18T09:00:24+00:00",
+     "summary": "Because of extremely unfortunate, inexplicable and reckless decisions of two lower courts, U.S. Supreme Court Chief Justice John Roberts has before him an application for a stay of an order from the United States Court of Appeals for the District of Columbia Circuit which order upholds the imposition of a rococo construction schedule for the above-ground construction of the new East Wing of the White House , one which was ordered by U.S. District Judge Richard Leon\u2019s micromanagement of what can and cannot be built in the replacement structure of the now demolished old East Wing of the White House \u2014 an East Wing which was built in 1902 and expanded in 1942 when FDR had it substantially expanded and added underground facilities which include the Presidential Emergency Operations Center. An 84-year-old \"emergency center\" is, of course, outdated. Judge Leon and the Circuit have directed President Trump what he can and cannot build on the grounds of the Executive Mansion. Judge Leon is an old acquaintance of mine and has been a fine judge for his long tenure (he was appointed by President George W. Bush in 2002 and assumed senior status in 2016), but even the best judges throw a spanner"
     }
    ]
   },
@@ -1523,11 +1592,11 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "angie",
      "nixon",
-     "stunning",
+     "primary",
      "senate",
-     "primary"
+     "stunning",
+     "angie"
     ],
     "indie": [
      "voting"
@@ -1597,87 +1666,6 @@
    ]
   },
   {
-   "id": "3972e1f1ef",
-   "topic": "Tech",
-   "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department. Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Universal, and the director of Ecuador\u2019s national intelligence service. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 3,
-    "big": [],
-    "indie": [
-     "ecuador",
-     "wednesday",
-     "remote",
-     "seven",
-     "chief",
-     "intelligence"
-    ]
-   },
-   "absent": [
-    "family",
-    "coop"
-   ],
-   "headline": "Kenya: Helicopter crash kills 7, including Ecuador spy boss",
-   "updated": "2026-08-20T00:16:14+00:00",
-   "outletCount": 5,
-   "counts": {
-    "corp": 2,
-    "pub": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "5 Americans among 7 people killed in Kenya helicopter crash",
-     "url": "https://www.cbsnews.com/news/helicopter-crash-kenya-deaths-us-journalist/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T00:16:14+00:00",
-     "summary": "NBCUniversal said its Florida-based journalist, Jos\u00e9 Alberto Su\u00e1rez, who worked for CBS Miami in the 1990s, was among those killed in the crash."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Safari helicopter crash in Kenya kills 7, including Telemundo executive",
-     "url": "https://www.nbcnews.com/nightly-news/video/safari-helicopter-crash-in-kenya-kills-7-including-telemundo-executive-268557893867",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T22:37:55+00:00",
-     "summary": "A pilot and six passengers were killed when a helicopter crashed near Mount Ololokwe in Kenya\u2019s Samburu County. Five Americans were on board, including Jos\u00e9 Su\u00e1rez, a longtime Telemundo executive. NBC News\u2019 George Solis reports."
-    },
-    {
-     "outlet": "dw",
-     "title": "Kenya: Helicopter crash kills 7, including Ecuador spy boss",
-     "url": "https://www.dw.com/en/kenya-helicopter-crash-kills-7-including-ecuador-spy-boss/a-78437850?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T22:23:00+00:00",
-     "summary": "Six passengers \u2014 five US citizens and Ecuador's intel boss \u2014 all died in a remote area of Kenya on Wednesday when their helicopter crashed. Aviation accidents in Kenya have increased as tourism expands in the country."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-     "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T21:32:15+00:00",
-     "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
-     "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-19T20:17:39+00:00",
-     "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department. Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Universal, and the director of Ecuador\u2019s national intelligence service. Continue reading..."
-    }
-   ]
-  },
-  {
    "id": "8adbc7f574",
    "topic": "Politics",
    "summary": "Rep. Cory Mills, R-Fla., attends the House Armed Services Committee hearing titled \"Department of Defense FY2027 Budget Request,\" in Rayburn building on Wednesday, April 29, 2026 \u2014Tom Williams\u2014CQ-Roll Cal Florida Rep. Cory Mills , the incumbent representing the state\u2019s 7th District, lost his Republican primary on Tuesday to former TV anchor Ryan Elijah after a controversial campaign for a third term in Congress. President Donald Trump notably gave Mills his \u201cComplete and Total Endorsement\u201d on Feb. 10, when he wrote a social media post describing the candidate as \u201can America First Patriot.\u201d But it didn\u2019t seem to outweigh ongoing allegations of sexual misconduct, accusations of mishandling campaign finances, and questions about his military record. Read More: Trump Says Voters Are Angry With Republicans\u2014But Not With Him. Here\u2019s What Polls Show \u201cWhether [Mills] wants it to be or not,\u2026",
@@ -1687,9 +1675,9 @@
     "indieCount": 2,
     "big": [
      "lost",
-     "r-fla",
+     "campaign",
      "committee",
-     "campaign"
+     "r-fla"
     ],
     "indie": [
      "lawmaker"
@@ -1759,62 +1747,62 @@
    ]
   },
   {
-   "id": "9e28efff78",
+   "id": "f54ab4898d",
    "topic": "Justice & Policing",
-   "summary": "The case began in August 2023, when the Murfreesboro Police Department's Special Victims Unit launched an investigation into the sexual abuse of a child who was just 5 years old at the time.",
-   "summaryFrom": "nypost",
+   "summary": "The judge who oversaw the murder conviction of Karmelo Anthony was tossed from the case on Wednesday as Anthony moves forward with an appeal for a new trial. Anthony, now 19 years old, was convicted in June of murdering high school junior Austin Metcalf during a track event in Texas, in April of last year. Evidence from the trial showed that Anthony refused to leave another team\u2019s tented area, and when approached by an unarmed Metcalf, Anthony fatally stabbed him. During a hearing on Wednesday, Anthony\u2019s legal team argued that a retrial was warranted because District Judge John Roach enforced overly strict courtroom rules and gave an interview days after the trial was over. A visiting judge ordered Roach removed from the case. A retrial effort is still pending. Cheers from Anthony supporters reportedly erupted in the courthouse hallways when visiting Judge Sid Harle ordered Roach to be\u2026",
+   "summaryFrom": "dailywire",
    "emphasis": null,
    "absent": [
     "corp",
     "coop",
-    "nonprofit"
+    "pub"
    ],
-   "headline": "Evergrande founder Hui Ka Yan sentenced to life in prison",
-   "updated": "2026-08-20T07:04:00+00:00",
+   "headline": "Judge removed from Texas track meet stabbing case as defendant Karmelo Anthony seeks a new trial",
+   "updated": "2026-08-20T07:33:34+00:00",
    "outletCount": 4,
    "counts": {
-    "pub": 2,
-    "family": 2
+    "family": 3,
+    "nonprofit": 1
    },
-   "newsCount": 4,
-   "opinionCount": 0,
+   "newsCount": 3,
+   "opinionCount": 1,
    "underreported": false,
    "articles": [
     {
-     "outlet": "dw",
-     "title": "Evergrande founder Hui Ka Yan sentenced to life in prison",
-     "url": "https://www.dw.com/en/evergrande-founder-hui-ka-yan-sentenced-to-life-in-prison/a-78439153?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T07:04:00+00:00",
-     "summary": "A Chinese court ordered the former billionaire's assets to be confiscated and fined Evergrande-related companies billions of dollars."
-    },
-    {
-     "outlet": "nyt",
-     "title": "China Sentences Evergrande Founder to Life in Prison",
-     "url": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
-     "author": "Yan Zhuang and Alexandra Stevenson",
-     "kind": "news",
-     "published": "2026-08-20T06:39:52+00:00",
-     "summary": "Hui Ka Yan\u2019s punishment caps the downfall of a property empire whose collapse set off a prolonged crisis in the Chinese economy."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-     "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T06:08:02+00:00",
-     "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector."
-    },
-    {
      "outlet": "nypost",
-     "title": "Tennessee pastor sentenced to life in prison for raping girl, 5, with help from wife",
-     "url": "https://nypost.com/2026/08/20/us-news/tennessee-pastor-benjamin-garlick-wife-shaantal-found-guilty-of-raping-young-girl/",
-     "author": "Fox News",
+     "title": "Judge will consider new trial for Karmelo Anthony after teen killer\u2019s legal victory",
+     "url": "https://nypost.com/2026/08/20/us-news/judge-will-consider-new-trial-for-karmelo-anthony-after-teen-killers-legal-victory/",
+     "author": "Associated Press",
      "kind": "news",
-     "published": "2026-08-20T05:57:25+00:00",
-     "summary": "The case began in August 2023, when the Murfreesboro Police Department's Special Victims Unit launched an investigation into the sexual abuse of a child who was just 5 years old at the time."
+     "published": "2026-08-20T07:33:34+00:00",
+     "summary": "A judge on Thursday will consider whether to grant Texas teenager Karmelo Anthony a new trial following his murder conviction earlier this summer in the stabbing death of a 17-year-old athlete at a high school track meet."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Karmelo Anthony Gets a Legal Win After Trial Judge Barred from His Appeal",
+     "url": "https://www.breitbart.com/sports/2026/08/19/karmelo-anthony-gets-a-legal-win-after-trial-judge-barred-from-his-appeal/",
+     "author": "Paul Bois",
+     "kind": "news",
+     "published": "2026-08-20T03:59:17+00:00",
+     "summary": "Karmelo Anthony, previously convicted for the murder of 17-year-old Austin Metcalf, scored a legal victory on Wednesday. The post Karmelo Anthony Gets a Legal Win After Trial Judge Barred from His Appeal appeared first on Breitbart ."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Judge removed from Texas track meet stabbing case as defendant Karmelo Anthony seeks a new trial",
+     "url": "https://www.pbs.org/newshour/nation/judge-removed-from-texas-track-meet-stabbing-case-as-defendant-karmelo-anthony-seeks-a-new-trial",
+     "author": "Jamie Stengle, Associated Press",
+     "kind": "news",
+     "published": "2026-08-19T19:34:38+00:00",
+     "summary": "The judge in the case of a Texas teenager convicted of fatally stabbing a 17-year-old athlete at a high school track meet was ordered removed Wednesday, as the defendant seeks a new trial in a case that drew national attention."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Convicted Killer Karmelo Anthony Gets Big Break In Fight For New Trial",
+     "url": "https://www.dailywire.com/news/convicted-killer-karmelo-anthony-gets-big-break-in-fight-for-new-trial",
+     "author": "Amanda Prestigiacomo",
+     "kind": "opinion",
+     "published": "2026-08-19T11:56:18+00:00",
+     "summary": "The judge who oversaw the murder conviction of Karmelo Anthony was tossed from the case on Wednesday as Anthony moves forward with an appeal for a new trial. Anthony, now 19 years old, was convicted in June of murdering high school junior Austin Metcalf during a track event in Texas, in April of last year. Evidence from the trial showed that Anthony refused to leave another team\u2019s tented area, and when approached by an unarmed Metcalf, Anthony fatally stabbed him. During a hearing on Wednesday, Anthony\u2019s legal team argued that a retrial was warranted because District Judge John Roach enforced overly strict courtroom rules and gave an interview days after the trial was over. A visiting judge ordered Roach removed from the case. A retrial effort is still pending. Cheers from Anthony supporters reportedly erupted in the courthouse hallways when visiting Judge Sid Harle ordered Roach to be removed. Some people chanted, \u201cFree Karmelo!\u201d Two days after a jury rendered a guilty verdict against Anthony, Roach gave a television interview in which he said he believed the jury got the decision right. Roach said the jury listened to the facts, deliberated, and ultimately fulfilled its duty in f"
     }
    ]
   },
@@ -1829,7 +1817,7 @@
     "coop"
    ],
    "headline": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-   "updated": "2026-08-20T06:39:14+00:00",
+   "updated": "2026-08-20T07:33:11+00:00",
    "outletCount": 4,
    "counts": {
     "pub": 2,
@@ -1846,7 +1834,7 @@
      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-20T06:39:14+00:00",
+     "published": "2026-08-20T07:33:11+00:00",
      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision."
     },
     {
@@ -2067,10 +2055,10 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "memo",
-     "obtained",
+     "husted",
      "warns",
-     "husted"
+     "obtained",
+     "memo"
     ],
     "indie": [
      "raising"
@@ -2191,10 +2179,70 @@
    ]
   },
   {
+   "id": "3972e1f1ef",
+   "topic": "Tech",
+   "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department. Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Universal, and the director of Ecuador\u2019s national intelligence service. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop"
+   ],
+   "headline": "Kenya: Helicopter crash kills 7, including Ecuador spy boss",
+   "updated": "2026-08-20T00:16:14+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 1,
+    "pub": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "5 Americans among 7 people killed in Kenya helicopter crash",
+     "url": "https://www.cbsnews.com/news/helicopter-crash-kenya-deaths-us-journalist/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T00:16:14+00:00",
+     "summary": "NBCUniversal said its Florida-based journalist, Jos\u00e9 Alberto Su\u00e1rez, who worked for CBS Miami in the 1990s, was among those killed in the crash."
+    },
+    {
+     "outlet": "dw",
+     "title": "Kenya: Helicopter crash kills 7, including Ecuador spy boss",
+     "url": "https://www.dw.com/en/kenya-helicopter-crash-kills-7-including-ecuador-spy-boss/a-78437850?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T22:23:00+00:00",
+     "summary": "Six passengers \u2014 five US citizens and Ecuador's intel boss \u2014 all died in a remote area of Kenya on Wednesday when their helicopter crashed. Aviation accidents in Kenya have increased as tourism expands in the country."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+     "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T21:32:15+00:00",
+     "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
+     "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-19T20:17:39+00:00",
+     "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department. Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Universal, and the director of Ecuador\u2019s national intelligence service. Continue reading..."
+    }
+   ]
+  },
+  {
    "id": "639d0f8393",
    "topic": "Politics",
-   "summary": "A White House aide is becoming a household name due to a feeding frenzy by liberal media stemming from a comment by an ambitious Democrat. Sen. Jon Ossoff, D-Ga., who polls currently suggest will win re-election in November and has already been generating 2028 presidential buzz, went viral over the weekend for a jab he made at President Donald Trump , heavily suggesting Trump was having an inappropriate relationship with his personal aide, Natalie Harp. Ossoff claimed Trump would rather \"build a ballroom and travel with Natalie\" than do his job as president. The comment drew instant backlash from conservatives. When asked about it on MS NOW, Ossoff insisted he referenced her merely as Trump's \"security blanket\" and nothing more, leaving conservatives to pummel him as a \"coward\" for not standing behind what they considered to be sexist innuendo. JON OSSOFF DODGES ON WHY HE INVOKED TRUMP\u2026",
-   "summaryFrom": "foxnews",
+   "summary": "Donald Trump will welcome the leaders of major cryptocurrency and prediction-market companies to the White House on Wednesday to discuss how they should be regulated\u2014a potential make-or-break moment for nascent industries that have struggled to establish themselves as credible and legal. As it happens, Trump himself is a crypto and prediction-market leader. The president and his adult children are major investors in both industries. In the past, presidents have divested from their business interests while serving, or have taken pains to distance themselves from any involvement. During his second term, Trump has done essentially the opposite. And his hand in the regulation of two industries he&#8217;s directly involved with is merely one headline from this president&#8217;s Financial Conflicts News of the Week. Consider World Liberty Financial, a crypto firm Trump co-owns, in which a\u2026",
+   "summaryFrom": "motherjones",
    "emphasis": null,
    "absent": [
     "coop",
@@ -2222,15 +2270,6 @@
      "summary": "Natalie Harp, a close aide to President Donald Trump, has surged into the national spotlight over her near-constant presence around the president."
     },
     {
-     "outlet": "foxnews",
-     "title": "Jon Ossoff's controversial Trump jab sparks media feeding frenzy over White House aide Natalie Harp",
-     "url": "https://www.foxnews.com/media/jon-ossoffs-controversial-trump-jab-sparks-media-feeding-frenzy-over-white-house-aide-natalie-harp",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T22:57:18+00:00",
-     "summary": "A White House aide is becoming a household name due to a feeding frenzy by liberal media stemming from a comment by an ambitious Democrat. Sen. Jon Ossoff, D-Ga., who polls currently suggest will win re-election in November and has already been generating 2028 presidential buzz, went viral over the weekend for a jab he made at President Donald Trump , heavily suggesting Trump was having an inappropriate relationship with his personal aide, Natalie Harp. Ossoff claimed Trump would rather \"build a ballroom and travel with Natalie\" than do his job as president. The comment drew instant backlash from conservatives. When asked about it on MS NOW, Ossoff insisted he referenced her merely as Trump's \"security blanket\" and nothing more, leaving conservatives to pummel him as a \"coward\" for not standing behind what they considered to be sexist innuendo. JON OSSOFF DODGES ON WHY HE INVOKED TRUMP AIDE'S NAME DURING GEORGIA CAMPAIGN RALLY Still, that hasn't stopped the media from obsessing over the 35-year-old White House aide. The New York Times published a profile on how Harp \"emerge[d]\" in the national spotlight after Ossoff's comment. \"She never takes a day off, not even on Sunday,\" the Ti"
-    },
-    {
      "outlet": "dailybeast",
      "title": "Opinion: Here\u2019s the Real Role Natalie Harp Fills in Trump\u2019s White House",
      "url": "https://www.thedailybeast.com/heres-the-real-role-natalie-harp-fills-in-trumps-white-house/",
@@ -2247,6 +2286,15 @@
      "kind": "news",
      "published": "2026-08-18T22:46:15+00:00",
      "summary": "Donald Trump will welcome the leaders of major cryptocurrency and prediction-market companies to the White House on Wednesday to discuss how they should be regulated\u2014a potential make-or-break moment for nascent industries that have struggled to establish themselves as credible and legal. As it happens, Trump himself is a crypto and prediction-market leader. The president and his adult children are major investors in both industries. In the past, presidents have divested from their business interests while serving, or have taken pains to distance themselves from any involvement. During his second term, Trump has done essentially the opposite. And his hand in the regulation of two industries he&#8217;s directly involved with is merely one headline from this president&#8217;s Financial Conflicts News of the Week. Consider World Liberty Financial, a crypto firm Trump co-owns, in which a senior government official from the United Arab Emirates acquired a $500 million stake just months before the administration, ignoring national security concerns, agreed to provide the UAE with America&#8217;s most advanced AI chips. World Liberty Financial calls itself as a &#8220;de-fi&#8221; company\u2014"
+    },
+    {
+     "outlet": "time",
+     "title": "CNN Condemns the White House\u2019s Attacks on Journalist Kristen Holmes: Here\u2019s What to Know",
+     "url": "https://time.com/article/2026/08/18/cnn-white-house-kristen-holmes-journalist-attacks/",
+     "author": "Chantelle Lee",
+     "kind": "news",
+     "published": "2026-08-18T22:12:26+00:00",
+     "summary": "CNN condemned the White House for launching personal attacks on one of the network\u2019s journalists . \u201cKristen Holmes is one of the most respected and accomplished journalists covering the White House,\u201d CNN said of its senior White House correspondent in a statement shared on X on Monday. \u201cThis afternoon, she did her job and asked the President of the United States a tough, relevant, and newsworthy question on behalf of the American people.\u201d \u201cPublic officials are free to challenge reporting they disagree with, but personal attacks on journalists for asking questions are beneath the office and inconsistent with the principles of a free press,\u201d CNN continued. \u201cWe stand firmly behind Kristen and reject these attacks in the strongest possible terms.\u201d The network\u2019s rebuke came after a question that Holmes asked President Donald Trump during an Oval Office event on Monday drew a heated response from Trump and, later, a series of critical posts from the White House targeting the journalist. \u201cJon Ossoff said that you\u2019d rather travel with your aide Natalie Harp and build the ballroom than do your job as President,\u201d Holmes asked the President, referring to a comment the Democratic Georgia Senat"
     }
    ]
   },
@@ -2560,6 +2608,57 @@
    ]
   },
   {
+   "id": "421593b801",
+   "topic": "Politics",
+   "summary": "One of the betting favorites to replace Karoline Leavitt as White House press secretary declared Wednesday that she is not in the running for the job. The 28-year-old White House press secretary, fresh off maternity leave, announced earlier this month that she would end her tenure at the podium at the end of August to spend more time with her two young children. As speculation continued to swirl over whom President Donald Trump would tap to succeed Leavitt, bettors on prediction market platform Kalshi began favoring Alina Habba for the role. KAROLINE LEAVITT'S REPLACEMENT AS PRESS SECRETARY FACES 'CRITICAL' TEST AS MIDTERMS LOOM, TRUMP ADVISOR SAYS Habba, who serves as senior adviser to the attorney general for U.S. attorneys, was previously floated for the position after Trump won re-election. Bettors on Kalshi gave Habba a 35% chance of being named Leavitt's replacement at the time\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Alina Habba shuts down speculation she could replace Karoline Leavitt as White House press secretary",
+   "updated": "2026-08-20T06:00:48+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "Alina Habba shuts down speculation she could replace Karoline Leavitt as White House press secretary",
+     "url": "https://www.foxnews.com/politics/alina-habba-shuts-down-speculation-replace-karoline-leavitt-white-house-press-secretary",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T06:00:48+00:00",
+     "summary": "One of the betting favorites to replace Karoline Leavitt as White House press secretary declared Wednesday that she is not in the running for the job. The 28-year-old White House press secretary, fresh off maternity leave, announced earlier this month that she would end her tenure at the podium at the end of August to spend more time with her two young children. As speculation continued to swirl over whom President Donald Trump would tap to succeed Leavitt, bettors on prediction market platform Kalshi began favoring Alina Habba for the role. KAROLINE LEAVITT'S REPLACEMENT AS PRESS SECRETARY FACES 'CRITICAL' TEST AS MIDTERMS LOOM, TRUMP ADVISOR SAYS Habba, who serves as senior adviser to the attorney general for U.S. attorneys, was previously floated for the position after Trump won re-election. Bettors on Kalshi gave Habba a 35% chance of being named Leavitt's replacement at the time before she publicly dismissed the speculation. Habba, however, threw cold water on that idea. \"Flattered by the Kalshi odds, but I'm not in the running for any job,\" Habba posted on X. \"However, if I'm getting a new one, I'd love for one of these anonymous sources to let me know first,\" she continued. "
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Alina Habba &#039;Flattered&#039; by Odds to Become Trump&#039;s New Press Secretary",
+     "url": "https://www.newsweek.com/alina-habba-says-shes-not-in-running-for-new-job-who-leads-press-secretary-odds-12345524",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T04:01:32+00:00",
+     "summary": "The former Trump attorney says she&#039;s &quot;not in the running&quot; to succeed Karoline Leavitt after leading prediction markets."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Alina Habba Shuts Down Speculation She Could Be Next White House Press Secretary",
+     "url": "https://www.breitbart.com/politics/2026/08/19/alina-habba-shutsdown-speculation-next-white-house-press-secretary/",
+     "author": "Mariane Angela",
+     "kind": "news",
+     "published": "2026-08-20T02:08:12+00:00",
+     "summary": "Alina Habba shut down speculation on Wednesday that she could become the next White House press secretary. The post Alina Habba Shuts Down Speculation She Could Be Next White House Press Secretary appeared first on Breitbart ."
+    }
+   ]
+  },
+  {
    "id": "a60c8e9413",
    "topic": "Justice & Policing",
    "summary": "You&#8217;re walking around a major city late at night. It&#8217;s supposed to be safe. Suddenly, the entire street is filled with teenagers, disproportionately black, beating the living hell out of each other. Welcome to teen takeovers, the hot new social media trend that is upending law and order and decency. But if you comment on it, you are a racist. Victimhood isn&#8217;t just a drug that intoxicates people with the feeling that they could get away with anything; it is used as a shield against criticism and against decency. This is how our idiot society works. I was unfamiliar with teen takeovers until I was browsing online. My staff made me aware of this. It is insane. Videos from Milwaukee, Los Angeles, Houston, Chicago, Atlanta, and Brooklyn show gigantic mobs of young people, almost all black, running through the streets, wailing on each other, and taking over intersections.\u2026",
@@ -2709,57 +2808,6 @@
      "kind": "news",
      "published": "2026-08-18T12:00:00+00:00",
      "summary": "H ere it is , August on Martha\u2019s Vineyard, and Alan Dershowitz has barely been heard from. Well, that\u2019s not exactly true. He has been heard from on many topics\u2014because Dershowitz is who he is, and pretty much anyone can join Substack, and TV bookers can be hard to resist. Still, he has said little publicly about the maddening injustice he\u2019s faced in recent years: his annual summer shunning at the hands of the island\u2019s liberal social gentry. Has this perennial comedy of ill manners\u2014the Vineyard cancellation of Alan Dershowitz\u2014finally run its course? The story has become a familiar seasonal menace; as pernicious as ticks, and as hard to kill. Its particulars are known. Dershowitz, the inexhaustible Harvard Law professor who represented a gallery of notorious clients over several decades, was once a kibitzing dynamo here. But that was before the blacklists and the badgering. In his telling (and retelling), Dershowitz became socially radioactive during Donald Trump\u2019s first term, when he began speaking out on the president\u2019s behalf, and then joined his first impeachment defense team. Although he did not personally support Trump\u2014he\u2019d been a lifelong Democrat who\u2019d voted for Hillary Clint"
-    }
-   ]
-  },
-  {
-   "id": "f54ab4898d",
-   "topic": "Justice & Policing",
-   "summary": "The judge who oversaw the murder conviction of Karmelo Anthony was tossed from the case on Wednesday as Anthony moves forward with an appeal for a new trial. Anthony, now 19 years old, was convicted in June of murdering high school junior Austin Metcalf during a track event in Texas, in April of last year. Evidence from the trial showed that Anthony refused to leave another team\u2019s tented area, and when approached by an unarmed Metcalf, Anthony fatally stabbed him. During a hearing on Wednesday, Anthony\u2019s legal team argued that a retrial was warranted because District Judge John Roach enforced overly strict courtroom rules and gave an interview days after the trial was over. A visiting judge ordered Roach removed from the case. A retrial effort is still pending. Cheers from Anthony supporters reportedly erupted in the courthouse hallways when visiting Judge Sid Harle ordered Roach to be\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "pub"
-   ],
-   "headline": "Judge removed from Texas track meet stabbing case as defendant Karmelo Anthony seeks a new trial",
-   "updated": "2026-08-20T03:59:17+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Karmelo Anthony Gets a Legal Win After Trial Judge Barred from His Appeal",
-     "url": "https://www.breitbart.com/sports/2026/08/19/karmelo-anthony-gets-a-legal-win-after-trial-judge-barred-from-his-appeal/",
-     "author": "Paul Bois",
-     "kind": "news",
-     "published": "2026-08-20T03:59:17+00:00",
-     "summary": "Karmelo Anthony, previously convicted for the murder of 17-year-old Austin Metcalf, scored a legal victory on Wednesday. The post Karmelo Anthony Gets a Legal Win After Trial Judge Barred from His Appeal appeared first on Breitbart ."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "Judge removed from Texas track meet stabbing case as defendant Karmelo Anthony seeks a new trial",
-     "url": "https://www.pbs.org/newshour/nation/judge-removed-from-texas-track-meet-stabbing-case-as-defendant-karmelo-anthony-seeks-a-new-trial",
-     "author": "Jamie Stengle, Associated Press",
-     "kind": "news",
-     "published": "2026-08-19T19:34:38+00:00",
-     "summary": "The judge in the case of a Texas teenager convicted of fatally stabbing a 17-year-old athlete at a high school track meet was ordered removed Wednesday, as the defendant seeks a new trial in a case that drew national attention."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Convicted Killer Karmelo Anthony Gets Big Break In Fight For New Trial",
-     "url": "https://www.dailywire.com/news/convicted-killer-karmelo-anthony-gets-big-break-in-fight-for-new-trial",
-     "author": "Amanda Prestigiacomo",
-     "kind": "opinion",
-     "published": "2026-08-19T11:56:18+00:00",
-     "summary": "The judge who oversaw the murder conviction of Karmelo Anthony was tossed from the case on Wednesday as Anthony moves forward with an appeal for a new trial. Anthony, now 19 years old, was convicted in June of murdering high school junior Austin Metcalf during a track event in Texas, in April of last year. Evidence from the trial showed that Anthony refused to leave another team\u2019s tented area, and when approached by an unarmed Metcalf, Anthony fatally stabbed him. During a hearing on Wednesday, Anthony\u2019s legal team argued that a retrial was warranted because District Judge John Roach enforced overly strict courtroom rules and gave an interview days after the trial was over. A visiting judge ordered Roach removed from the case. A retrial effort is still pending. Cheers from Anthony supporters reportedly erupted in the courthouse hallways when visiting Judge Sid Harle ordered Roach to be removed. Some people chanted, \u201cFree Karmelo!\u201d Two days after a jury rendered a guilty verdict against Anthony, Roach gave a television interview in which he said he believed the jury got the decision right. Roach said the jury listened to the facts, deliberated, and ultimately fulfilled its duty in f"
     }
    ]
   },
@@ -3385,57 +3433,6 @@
    ]
   },
   {
-   "id": "afabf64cee",
-   "topic": "Justice & Policing",
-   "summary": "Meta rejected claims that its apps were designed to addict young users, as a trial began Tuesday that could reshape the social media giant\u2019s businesses. Brought by 29 US states, the lawsuit argues Facebook and Instagram knowingly contributed to negative health outcomes for minors. The outcome could result in billions of dollars in penalties for Meta and potentially lead to significant changes to the platforms, as countries from Australia to Poland to Vietnam look to curb youth access to social media. The backlash has spurred safety action on other tech fronts, as well: OpenAI said Tuesday it will restrict teenagers to a version of ChatGPT with greater mental health safeguards , as the company faces suits for allegedly failing to prevent self-harm among users. \u2014 Brendan Ruberry",
-   "summaryFrom": "semafor",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "What the social media addiction lawsuit could cost Meta",
-   "updated": "2026-08-19T22:01:26+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "What the social media addiction lawsuit could cost Meta",
-     "url": "https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T22:01:26+00:00",
-     "summary": "Landmark trial against Meta could lead to fines and fundamental changes in Facebook and Instagram&#039;s operations."
-    },
-    {
-     "outlet": "semafor",
-     "title": "Meta social media addiction trial opens",
-     "url": "https://www.semafor.com/article/08/18/2026/meta-social-media-addiction-trial-opens",
-     "author": "Brendan Ruberry",
-     "kind": "news",
-     "published": "2026-08-18T22:39:47+00:00",
-     "summary": "Meta rejected claims that its apps were designed to addict young users, as a trial began Tuesday that could reshape the social media giant\u2019s businesses. Brought by 29 US states, the lawsuit argues Facebook and Instagram knowingly contributed to negative health outcomes for minors. The outcome could result in billions of dollars in penalties for Meta and potentially lead to significant changes to the platforms, as countries from Australia to Poland to Vietnam look to curb youth access to social media. The backlash has spurred safety action on other tech fronts, as well: OpenAI said Tuesday it will restrict teenagers to a version of ChatGPT with greater mental health safeguards , as the company faces suits for allegedly failing to prevent self-harm among users. \u2014 Brendan Ruberry"
-    },
-    {
-     "outlet": "bbc",
-     "title": "How the Meta trial could change social media for young people",
-     "url": "https://www.bbc.co.uk/news/videos/c05qrr5r4e2o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-18T16:24:08+00:00",
-     "summary": "The trial stems from a lawsuit filed in 2023 by 29 US states, in which they claim numerous violations of federal and state privacy laws for children."
-    }
-   ]
-  },
-  {
    "id": "6f87367f6d",
    "topic": "Politics",
    "summary": "Secretary of State Marco Rubio sits next to President Donald Trump during a Cabinet meeting at Camp David in Maryland on July 31, 2026. \u2014Aaron Schwartz\u2014AFP via Getty Images The International Criminal Court (ICC) said Wednesday that it \u201cdeplores\u201d sanctions imposed this week by the U.S. State Department on its president, Judge Tomoko Akane , and Abdoulaye Seye , a Senegalese senior trial lawyer for the Office of the Prosecutor. The State Department announced the sanctions Tuesday, accusing Akane and Seye of having \u201cdirectly engaged in efforts by the ICC to investigate, arrest, detain, or prosecute officials whose government has not consented to ICC jurisdiction.\u201d The sanctions include the freezing of assets in the country, blocking financial transactions, and prohibiting entry to the U.S. They were imposed under an Executive Order issued by President Donald Trump in February 2025, which\u2026",
@@ -3802,6 +3799,48 @@
    ]
   },
   {
+   "id": "c0313e588f",
+   "topic": "Politics",
+   "summary": "Democrats are fighting to stop the Trump administration\u2019s attempt to get 146,000 homeless people with serious mental illness the help they need. In late July, House and Senate Democrats launched an inquiry accusing the Trump administration of wanting to \"return to a time when people with disabilities were denied basic civil rights.\" But there\u2019s one problem: the system these Democrats are defending is the reason there are so many mentally ill people living in squalor on America\u2019s streets. Until recently, when it came to helping the mentally ill homeless, states had their hands tied. For decades, government lawyers interpreted the Supreme Court\u2019s 1999 Olmstead decision extremely broadly, pushing states to offer \"community-based care.\" HOUSING FIRST IS A DISASTER. I SAW SACRAMENTO'S HOMELESS CHAOS FIRSTHAND For the seriously mentally ill, this meant independent living in single units where\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Trump Wants to Influence Brazil. It\u2019s Way Ahead of Him.",
+   "updated": "2026-08-20T07:36:46+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 0,
+   "opinionCount": 2,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "Trump Wants to Influence Brazil. It\u2019s Way Ahead of Him.",
+     "url": "https://www.nytimes.com/2026/08/20/opinion/trump-brazil-election-bolsonaro.html",
+     "author": "Andre Pagliarini",
+     "kind": "opinion",
+     "published": "2026-08-20T07:36:46+00:00",
+     "summary": "The country\u2019s coming election will not be decided by the American president."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Trump wants to help 146,000 mentally ill who are homeless. Democrats want to stop him",
+     "url": "https://www.foxnews.com/opinion/trump-wants-help-146000-mentally-ill-homeless-democrats-want-stop-him",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-19T11:00:06+00:00",
+     "summary": "Democrats are fighting to stop the Trump administration\u2019s attempt to get 146,000 homeless people with serious mental illness the help they need. In late July, House and Senate Democrats launched an inquiry accusing the Trump administration of wanting to \"return to a time when people with disabilities were denied basic civil rights.\" But there\u2019s one problem: the system these Democrats are defending is the reason there are so many mentally ill people living in squalor on America\u2019s streets. Until recently, when it came to helping the mentally ill homeless, states had their hands tied. For decades, government lawyers interpreted the Supreme Court\u2019s 1999 Olmstead decision extremely broadly, pushing states to offer \"community-based care.\" HOUSING FIRST IS A DISASTER. I SAW SACRAMENTO'S HOMELESS CHAOS FIRSTHAND For the seriously mentally ill, this meant independent living in single units where mental health and substance abuse treatment was optional \u2013 and often refused. In June, the Department of Justice released a controversial legal opinion that would fix this by revamping federal oversight of state mental healthcare. The Trump administration\u2019s new framework allows states to offer small"
+    }
+   ]
+  },
+  {
    "id": "64b951b439",
    "topic": "Culture & Sport",
    "summary": "Traffic stopped along Highway 19 in Carter County, Tenn. at the scene where two Tennessee college team cyclists were killed by a motorist while training on Aug. 19, 2026.",
@@ -3872,7 +3911,7 @@
      "author": "Cameron Adams",
      "kind": "news",
      "published": "2026-08-20T05:03:04+00:00",
-     "summary": "MSNBC Rising Democrat star Jon Ossoff has blasted President Donald Trump and his MAGA goons after they melted down over his comments surrounding the president\u2019s blonde 35-year-old aide. The 39-year-old Georgia senator mentioned Natalie Harp, who is an executive assistant and personal aide to the 80-year-old president, during a re-election rally in Atlanta on Sunday. Harp is known in White House circles as the \u201dhuman printer\u201d for her role in shadowing the president, printing out news stories for him to read and helping write his Truth Social posts. Read more at The Daily Beast."
+     "summary": "MSNBC Rising Democrat star Jon Ossoff has blasted Donald Trump and his MAGA goons after they melted down over his comments surrounding the president\u2019s blonde 35-year-old aide. The 39-year-old Georgia senator namechecked Natalie Harp, who is an executive assistant and personal aide to the 80-year-old president, during a re-election rally in Atlanta on Sunday. Harp is known in White House circles as the \u201dhuman printer\u201d for her role in shadowing the president, printing out news stories for him to read and helping write his Truth Social posts. Read more at The Daily Beast."
     },
     {
      "outlet": "zeteo",
@@ -3882,48 +3921,6 @@
      "kind": "news",
      "published": "2026-08-20T00:16:28+00:00",
      "summary": "Good evening, and welcome to this week&#8217;s &#8216; Ragebait .&#8217; Justin Baragona here, bringing you the latest media dispatches from the right-wing industrial outrage complex and Bari World. In tonight&#8217;s edition, we talk to journalism ethics experts on whether it is &#8220;fair game&#8221; for reporters to dig into the nature of Natalie Harp&#8217;s relationship with Donald Trump, and how newsrooms should navigate this story. Also, Disney is getting lauded for punching back against the Trump administration, but didn&#8217;t they help jumpstart his war against the media in the first place? Subscribe now Who&#8217;s Afraid of Natalie Harp? Donald Trump looks on as Natalie Harp places a computer playing a news report in the Oval Office on May 30, 2025. Photo by Francis Chung/Sipa USA via Reuters &#8220;Okay, back to the midterms because the Natalie stuff, I think, is strange. So I&#8217;m going to leave it there.&#8221; That was what MS NOW&#8217;s Katy Tur said to the New York Times&#8217;s Maggie Haberman on Tuesday afternoon following a several-minute conversation about Natalie Harp , the close aide to Donald Trump who has suddenly been thrust into the news cycle afte"
-    }
-   ]
-  },
-  {
-   "id": "c0313e588f",
-   "topic": "Politics",
-   "summary": "Democrats are fighting to stop the Trump administration\u2019s attempt to get 146,000 homeless people with serious mental illness the help they need. In late July, House and Senate Democrats launched an inquiry accusing the Trump administration of wanting to \"return to a time when people with disabilities were denied basic civil rights.\" But there\u2019s one problem: the system these Democrats are defending is the reason there are so many mentally ill people living in squalor on America\u2019s streets. Until recently, when it came to helping the mentally ill homeless, states had their hands tied. For decades, government lawyers interpreted the Supreme Court\u2019s 1999 Olmstead decision extremely broadly, pushing states to offer \"community-based care.\" HOUSING FIRST IS A DISASTER. I SAW SACRAMENTO'S HOMELESS CHAOS FIRSTHAND For the seriously mentally ill, this meant independent living in single units where\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Trump Wants to Influence Brazil. It\u2019s Way Ahead of Him.",
-   "updated": "2026-08-20T05:00:05+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 0,
-   "opinionCount": 2,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Trump Wants to Influence Brazil. It\u2019s Way Ahead of Him.",
-     "url": "https://www.nytimes.com/2026/08/20/opinion/trump-brazil-election-bolsonaro.html",
-     "author": "Andre Pagliarini",
-     "kind": "opinion",
-     "published": "2026-08-20T05:00:05+00:00",
-     "summary": "The country\u2019s coming election will not be decided by the American president."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Trump wants to help 146,000 mentally ill who are homeless. Democrats want to stop him",
-     "url": "https://www.foxnews.com/opinion/trump-wants-help-146000-mentally-ill-homeless-democrats-want-stop-him",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-19T11:00:06+00:00",
-     "summary": "Democrats are fighting to stop the Trump administration\u2019s attempt to get 146,000 homeless people with serious mental illness the help they need. In late July, House and Senate Democrats launched an inquiry accusing the Trump administration of wanting to \"return to a time when people with disabilities were denied basic civil rights.\" But there\u2019s one problem: the system these Democrats are defending is the reason there are so many mentally ill people living in squalor on America\u2019s streets. Until recently, when it came to helping the mentally ill homeless, states had their hands tied. For decades, government lawyers interpreted the Supreme Court\u2019s 1999 Olmstead decision extremely broadly, pushing states to offer \"community-based care.\" HOUSING FIRST IS A DISASTER. I SAW SACRAMENTO'S HOMELESS CHAOS FIRSTHAND For the seriously mentally ill, this meant independent living in single units where mental health and substance abuse treatment was optional \u2013 and often refused. In June, the Department of Justice released a controversial legal opinion that would fix this by revamping federal oversight of state mental healthcare. The Trump administration\u2019s new framework allows states to offer small"
     }
    ]
   },
@@ -4008,6 +4005,48 @@
      "kind": "news",
      "published": "2026-08-19T23:45:42+00:00",
      "summary": "Paramount's merger with Warner Bros. Discovery could lead to massive job losses, battering an already fragile L.A. entertainment economy."
+    }
+   ]
+  },
+  {
+   "id": "d5175f4e06",
+   "topic": "Justice & Policing",
+   "summary": "If you or someone you know is having thoughts of suicide, please contact the National Suicide Prevention Lifeline at 1-800-273-TALK (8255). Prosecutors in the Lindsay Clancy murder trial are coming across as \"tone deaf\" to how jurors likely feel about the case, a criminal defense attorney says. Lindsay Clancy, 36, faces three counts of first-degree murder in the deaths of her children \u2014 Cora, Dawson and Callan, all under the age of 6 \u2014 who were found strangled at the family's Duxbury, Massachusetts home in 2023. Prosecutors concluded their case Monday morning, and Clancy's defense attorney has since begun presenting arguments, asserting that she was in the grip of postpartum psychosis when she killed her children. LINDSAY CLANCY MURDER TRIAL BECOMES SOCIAL MEDIA OBSESSION AS TIKTOKERS, SLEUTHS DEBATE CONTROVERSIAL CASE Donna Rotunno, a criminal defense attorney, told Fox News Digital\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Lindsay Clancy prosecutors come across as 'tone deaf,' 'uncaring' and 'snarky,' defense attorney says",
+   "updated": "2026-08-20T04:00:40+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "Lindsay Clancy prosecutors come across as 'tone deaf,' 'uncaring' and 'snarky,' defense attorney says",
+     "url": "https://www.foxnews.com/us/lindsay-clancy-prosecutors-tone-deaf-uncaring-snarky-defense-attorney-says",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T04:00:40+00:00",
+     "summary": "If you or someone you know is having thoughts of suicide, please contact the National Suicide Prevention Lifeline at 1-800-273-TALK (8255). Prosecutors in the Lindsay Clancy murder trial are coming across as \"tone deaf\" to how jurors likely feel about the case, a criminal defense attorney says. Lindsay Clancy, 36, faces three counts of first-degree murder in the deaths of her children \u2014 Cora, Dawson and Callan, all under the age of 6 \u2014 who were found strangled at the family's Duxbury, Massachusetts home in 2023. Prosecutors concluded their case Monday morning, and Clancy's defense attorney has since begun presenting arguments, asserting that she was in the grip of postpartum psychosis when she killed her children. LINDSAY CLANCY MURDER TRIAL BECOMES SOCIAL MEDIA OBSESSION AS TIKTOKERS, SLEUTHS DEBATE CONTROVERSIAL CASE Donna Rotunno, a criminal defense attorney, told Fox News Digital she feels that prosecutors are being \"tone deaf\" to the way jurors are feeling about the murder trial, citing specific examples. One of the main examples Rotunno cited was a moment from Tuesday, when Assistant District Attorney Shanan Buckingham asked Susan Clancy , Lindsay's mother-in-law and a Cathol"
+    },
+    {
+     "outlet": "theatlantic",
+     "title": "Why Lindsay Clancy\u2019s Insanity Defense Might Fail",
+     "url": "https://www.theatlantic.com/ideas/2026/08/lindsay-clancy-murder-trial-insanity/688286/?utm_source=feed",
+     "author": "Elizabeth Bruenig",
+     "kind": "news",
+     "published": "2026-08-17T10:00:00+00:00",
+     "summary": "These are the facts that no one disputes: On January 24, 2023, Lindsay Clancy strangled her three young children to death, then she attempted suicide by cutting her wrists and neck and jumping out of a second-story window in her Massachusetts home, which left her paralyzed from the waist down. The point of contention, as her trial has progressed, is whether Clancy should be held criminally responsible for her actions. Clancy has entered a plea of not guilty by reason of insanity. A jury will soon decide whether she was sufficiently mentally ill at the time of the murders to spare her a mandatory sentence of life without parole in a state prison. The problem for Clancy and her defense team is that although she appears to have been extremely sick in the months leading up to the tragedy, the jury may still find her legally sane. This is because the legal standard for insanity diverges from the clinical understanding of mental illness. Insanity defenses, which are premised on the idea that people are not fully blameworthy for criminal acts that could be seen as outside their control, have existed since ancient Greece and Rome and have been a feature of jurisprudence for hundreds of yea"
     }
    ]
   }
