@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T07:58:20.960735+00:00",
+ "generated": "2026-08-21T08:59:58.951591+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -250,19 +250,19 @@
    "summary": "President Donald Trump speaks to members of the media near the White House helipad construction on the South Lawn of the White House in Washington, D.C., U.S., on Wednesday, Aug. 19, 2026. \u2014Al Drago\u2013\u2013The Washington Post/Bloomberg/Getty Images Iranian officials have dismissed President Donald Trump \u2019s threat to launch what he called the \u201cmost crushing economic operation\u201dagainst Tehran , as the nearly six-month war enters a new phase of economic pressure and negotiations between the two countries remain stalled. Trump announced the campaign late Wednesday, threatening consequences for countries that continue to provide Iran with access to global trade and financial networks. \u201cThis will be economic warfare and isolation on an unprecedented scale,\u201d he said . \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to\u2026",
    "summaryFrom": "time",
    "emphasis": {
-    "bigCount": 11,
+    "bigCount": 10,
     "indieCount": 3,
     "big": [
      "d-day",
      "business",
-     "partners",
      "threat",
+     "partners",
      "scott",
-     "washington"
+     "appeared"
     ],
     "indie": [
-     "join",
-     "urges"
+     "urges",
+     "join"
     ]
    },
    "absent": [
@@ -273,11 +273,11 @@
    "outletCount": 12,
    "counts": {
     "corp": 3,
-    "family": 8,
+    "family": 7,
     "pub": 2,
     "nonprofit": 1
    },
-   "newsCount": 13,
+   "newsCount": 12,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
@@ -334,15 +334,6 @@
      "kind": "news",
      "published": "2026-08-20T23:26:06+00:00",
      "summary": "\"Balance of Power: Late Edition\" focuses on the intersection of politics and global business. On today's show, Republican Rep. Mike Lawler of New York says the US should \"hold the Chinese to account\" for facilitating Iran's illicit oil trade as President Donald Trump pushes an economic \"D-Day\" against Tehran. Josh Lipsky, Vice President & Chair of International Economics at the Atlantic Council, says Beijing is betting President Donald Trump wants to make a \"big show\" of economic pressure on Iran but will stop short of squeezing Chinese banks. Dana Stroul, Senior Fellow and Director of Research at the Washington Institute for Near East Policy, says imposing more punishing economic pressure on Iran will depend on cooperation from partners including the UAE and China. (Source: Bloomberg)"
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Stroul: Trump's Iran Economic Push Needs Partners",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-20/stroul-trump-s-iran-economic-push-needs-partners-video",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T22:44:13+00:00",
-     "summary": "Dana Stroul, Senior Fellow and Director of Research at the Washington Institute for Near East Policy, says imposing more punishing economic pressure on Iran will depend on cooperation from partners including the UAE and China. She says the UAE's move to cut economic ties with Tehran could be \"extremely significant\" if fully implemented, while warning China has tools to retaliate against additional US pressure. She speaks with Kailey Leinz on the late edition of Bloomberg's \"Balance of Power.\" (Source: Bloomberg)"
     },
     {
      "outlet": "bloomberg",
@@ -411,11 +402,11 @@
   },
   {
    "id": "2d04b6717f",
-   "topic": "Politics",
+   "topic": "Justice & Policing",
    "summary": "New York State Capitol Building in Albany, New York, on February 25, 2024. \u2014Thomas A. Ferrara\u2014Newsday RM/Getty Images A woman who authorities have accused of planning to bomb the New York State Capitol building has been arrested and charged, the Justice Department announced on Thursday. Jessica Bowie, a 35-year-old woman from Albany, New York, was arrested on Wednesday and appeared in federal court the following day to face one count of attempting to provide material support to a designated foreign terrorist organization. \u201cThe FBI detected and stopped an alleged plot to attack the New York State Capitol and kill elected officials,\u201d Matt Fodor of the FBI National Security Branch said in a statement . \u201cAccording to the criminal complaint, the defendant in this case swore allegiance to ISIS and wanted to follow up with additional horrific acts of terrorism. This case is yet another example\u2026",
    "summaryFrom": "time",
    "emphasis": {
-    "bigCount": 7,
+    "bigCount": 6,
     "indieCount": 4,
     "big": [
      "accused",
@@ -423,10 +414,11 @@
      "appeared",
      "federal",
      "announced",
-     "isis-inspired"
+     "help"
     ],
     "indie": [
      "terrorism",
+     "wanted",
      "kill",
      "group"
     ]
@@ -436,14 +428,14 @@
    ],
    "headline": "US charges woman for allegedly plotting attack on New York State Capitol",
    "updated": "2026-08-21T03:38:18+00:00",
-   "outletCount": 11,
+   "outletCount": 10,
    "counts": {
     "corp": 2,
-    "family": 5,
+    "family": 4,
     "pub": 3,
     "nonprofit": 1
    },
-   "newsCount": 10,
+   "newsCount": 9,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
@@ -455,15 +447,6 @@
      "kind": "news",
      "published": "2026-08-21T03:38:18+00:00",
      "summary": "A New York woman is accused of plotting \"a major attack\" on the state Capitol building in Albany, authorities said Thursday."
-    },
-    {
-     "outlet": "nypost",
-     "title": "ISIS-linked New Yorker caught plotting to blow up state Capitol allegedly wanted to attack White House, Times Square NYE bash",
-     "url": "https://nypost.com/2026/08/20/us-news/isis-linked-new-yorker-caught-plotting-to-blow-up-state-capitol-allegedly-wanted-to-attack-the-white-house-times-square-nye-celebrations/",
-     "author": "Zoe Hussain",
-     "kind": "news",
-     "published": "2026-08-21T03:29:11+00:00",
-     "summary": "One target she talked about was \"New Year's Eve in Times Square\" \u2014 a frenzied spectacle where as many as 1 million tourists visit the Big Apple."
     },
     {
      "outlet": "breitbart",
@@ -557,12 +540,12 @@
     "bigCount": 8,
     "indieCount": 2,
     "big": [
-     "interview",
      "thursday",
+     "interview",
      "york",
      "fixer",
-     "weaponized'",
-     "bitter"
+     "weaponized",
+     "turned"
     ],
     "indie": [
      "once"
@@ -691,10 +674,10 @@
     "indie": [
      "ballistic",
      "missiles",
-     "attempt",
-     "japan",
+     "several",
+     "thursday",
      "launched",
-     "several"
+     "attempt"
     ]
    },
    "absent": [
@@ -797,132 +780,20 @@
    ]
   },
   {
-   "id": "fcf89a5820",
-   "topic": "World",
-   "summary": "USS George Washington will replace warship families say suffers from shortages, plumbing problems and low morale The USS George Washington aircraft carrier has arrived in the Middle East, where it is expected to relieve the USS Abraham Lincoln from its record deployment amid concerns about poor living conditions and morale. US Central Command announced on Thursday that the Washington arrived in the area on Wednesday, and posted an image of sailors working on the flight deck as the ship transited the Arabian Sea. No date has yet been announced for the Lincoln to return to the US. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 6,
-    "indieCount": 2,
-    "big": [
-     "iran",
-     "heads",
-     "members",
-     "diego",
-     "months"
-    ],
-    "indie": [
-     "living",
-     "poor",
-     "thursday",
-     "conditions"
-    ]
-   },
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "News Wrap: USS Abraham Lincoln heading home after 9-month deployment",
-   "updated": "2026-08-21T00:50:14+00:00",
-   "outletCount": 8,
-   "counts": {
-    "corp": 3,
-    "nonprofit": 2,
-    "family": 3
-   },
-   "newsCount": 8,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nbcnews",
-     "title": "USS Lincoln heads home after extended deployment to the Middle East",
-     "url": "https://www.nbcnews.com/politics/national-security/uss-lincoln-heads-home-extended-deployment-middle-east-rcna593639",
-     "author": "Kyla Guilfoil",
-     "kind": "news",
-     "published": "2026-08-21T00:50:14+00:00",
-     "summary": "Service members and their families had complained about deteriorating morale on the ship as its mission was extended to support the Iran war."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "WATCH:  USS Lincoln heading home after 272 days at sea",
-     "url": "https://abcnews.com/video/135822145/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T00:42:54+00:00",
-     "summary": "Pres. Trump has vowed \"economic warfare\" against Iran on an unprecedented scale. The warning comes as the USS Lincoln heads home from its record deployment."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "USS Abraham Lincoln leaving Middle East after 9-month deployment",
-     "url": "https://www.cbsnews.com/news/uss-abraham-lincoln-leaves-middle-east-deployment/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T23:56:00+00:00",
-     "summary": "The aircraft carrier and its 5,000 crew members will return to San Diego after an approximately nine-month deployment."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "News Wrap: USS Abraham Lincoln heading home after 9-month deployment",
-     "url": "https://www.pbs.org/newshour/show/news-wrap-uss-abraham-lincoln-heading-home-after-9-month-deployment",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T22:45:36+00:00",
-     "summary": "In our news wrap Thursday, U.S. military says the USS Abraham Lincoln is heading home following a roughly nine-month deployment and reports of poor living conditions, storms and at least one tornado tore through parts of Germany overnight and China sentenced the founder of Evergrande to life in prison five years after the company's collapse sent shockwaves through China's economy."
-    },
-    {
-     "outlet": "forbes",
-     "title": "USS Abraham Lincoln Is Coming Home, Report Says",
-     "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/20/uss-abraham-lincoln-is-coming-home-report-says/",
-     "author": "Zachary Folk, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-20T18:46:21+00:00",
-     "summary": "Troops on the carrier deployed in the Middle East were reportedly facing a mental health crisis."
-    },
-    {
-     "outlet": "nyt",
-     "title": "U.S.S. Abraham Lincoln Leaves Middle East After Months at Sea in Operation Against Iran",
-     "url": "https://www.nytimes.com/2026/08/20/us/politics/uss-abraham-lincoln-iran.html",
-     "author": "John Ismay",
-     "kind": "news",
-     "published": "2026-08-20T18:21:05+00:00",
-     "summary": "The U.S.S. Abraham Lincoln in San Diego in 2021. The carrier\u2019s most recent deployment began on Nov. 21, and the thousands of sailors on board have spent almost the entirety of the time since at sea."
-    },
-    {
-     "outlet": "guardian",
-     "title": "US aircraft carrier arrives in Middle East to relieve troubled USS Lincoln",
-     "url": "https://www.theguardian.com/us-news/2026/aug/20/uss-lincoln-washington-sailors-military",
-     "author": "Anna Betts",
-     "kind": "news",
-     "published": "2026-08-20T18:00:27+00:00",
-     "summary": "USS George Washington will replace warship families say suffers from shortages, plumbing problems and low morale The USS George Washington aircraft carrier has arrived in the Middle East, where it is expected to relieve the USS Abraham Lincoln from its record deployment amid concerns about poor living conditions and morale. US Central Command announced on Thursday that the Washington arrived in the area on Wednesday, and posted an image of sailors working on the flight deck as the ship transited the Arabian Sea. No date has yet been announced for the Lincoln to return to the US. Continue reading..."
-    },
-    {
-     "outlet": "wapo",
-     "title": "New aircraft carrier arrives in Arabian Sea to replace long-stationed USS Abraham Lincoln",
-     "url": "https://www.washingtonpost.com/politics/2026/08/20/new-aircraft-carrier-arrives-arabian-sea-replace-long-stationed-uss-abraham-lincoln/",
-     "author": "Dan Lamothe",
-     "kind": "news",
-     "published": "2026-08-20T15:36:39+00:00",
-     "summary": "The USS George Washington is relieving a vessel that has gone months without a port stop."
-    }
-   ]
-  },
-  {
    "id": "a4d297d67e",
    "topic": "Politics",
    "summary": "The Trump administration has designated an American scholar detained in China as wrongfully held after he traveled there at Beijing\u2019s invitation, escalating his case just weeks before President Donald Trump is set to host Chinese President Xi Jinping . Secretary of State Marco Rubio determined that U.S. citizen Min Zin is \"wrongfully detained\" after the State Department reviewed the circumstances of his June 3 detention in Yunnan, the State Department said Thursday. Zin had traveled to China for an academic conference at the invitation of the Chinese government, according to the department. PASTOR FREED FROM CHINESE PRISON AFTER TRUMP RAISED HIS CASE WITH XI JINPING He is now one of two U.S. citizens the State Department considers wrongfully detained in China. The other is Dr. Youlin Chen, a Chinese-born American seismologist from Boston. \"The safety and security of U.S. citizens is the\u2026",
    "summaryFrom": "foxnews",
    "emphasis": {
-    "bigCount": 7,
+    "bigCount": 8,
     "indieCount": 2,
     "big": [
      "department",
      "state",
      "china",
      "wrongfully",
-     "detained",
-     "citizen"
+     "american",
+     "administration"
     ],
     "indie": [
      "being"
@@ -932,18 +803,27 @@
     "coop"
    ],
    "headline": "Trump talks about grass as he shows off White House renovations \u2013 video",
-   "updated": "2026-08-20T18:49:36+00:00",
-   "outletCount": 7,
+   "updated": "2026-08-21T02:01:02+00:00",
+   "outletCount": 8,
    "counts": {
+    "family": 6,
     "corp": 2,
-    "family": 5,
     "nonprofit": 1,
     "pub": 1
    },
-   "newsCount": 7,
+   "newsCount": 8,
    "opinionCount": 2,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "bloomberg",
+     "title": "US Accuses China of Wrongfully Detaining American Scholar",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-21/us-accuses-china-of-wrongful-detention-of-american-scholar",
+     "author": "Bloomberg News",
+     "kind": "news",
+     "published": "2026-08-21T02:01:02+00:00",
+     "summary": "China is wrongfully detaining American scholar U Min Zin, the US State Department said, making the case a priority for the Trump administration as the countries\u2019 leaders prepare to meet in Washington next month."
+    },
     {
      "outlet": "abcnews",
      "title": "China wrongfully detaining US citizen, State Department declares",
@@ -1028,6 +908,109 @@
    ]
   },
   {
+   "id": "fcf89a5820",
+   "topic": "World",
+   "summary": "USS George Washington will replace warship families say suffers from shortages, plumbing problems and low morale The USS George Washington aircraft carrier has arrived in the Middle East, where it is expected to relieve the USS Abraham Lincoln from its record deployment amid concerns about poor living conditions and morale. US Central Command announced on Thursday that the Washington arrived in the area on Wednesday, and posted an image of sailors working on the flight deck as the ship transited the Arabian Sea. No date has yet been announced for the Lincoln to return to the US. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 5,
+    "indieCount": 2,
+    "big": [
+     "iran",
+     "heads",
+     "members",
+     "diego",
+     "months"
+    ],
+    "indie": [
+     "thursday",
+     "poor",
+     "living",
+     "conditions"
+    ]
+   },
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "News Wrap: USS Abraham Lincoln heading home after 9-month deployment",
+   "updated": "2026-08-21T00:50:14+00:00",
+   "outletCount": 7,
+   "counts": {
+    "corp": 3,
+    "nonprofit": 2,
+    "family": 2
+   },
+   "newsCount": 7,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nbcnews",
+     "title": "USS Lincoln heads home after extended deployment to the Middle East",
+     "url": "https://www.nbcnews.com/politics/national-security/uss-lincoln-heads-home-extended-deployment-middle-east-rcna593639",
+     "author": "Kyla Guilfoil",
+     "kind": "news",
+     "published": "2026-08-21T00:50:14+00:00",
+     "summary": "Service members and their families had complained about deteriorating morale on the ship as its mission was extended to support the Iran war."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "WATCH:  USS Lincoln heading home after 272 days at sea",
+     "url": "https://abcnews.com/video/135822145/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T00:42:54+00:00",
+     "summary": "Pres. Trump has vowed \"economic warfare\" against Iran on an unprecedented scale. The warning comes as the USS Lincoln heads home from its record deployment."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "USS Abraham Lincoln leaving Middle East after 9-month deployment",
+     "url": "https://www.cbsnews.com/news/uss-abraham-lincoln-leaves-middle-east-deployment/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T23:56:00+00:00",
+     "summary": "The aircraft carrier and its 5,000 crew members will return to San Diego after an approximately nine-month deployment."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "News Wrap: USS Abraham Lincoln heading home after 9-month deployment",
+     "url": "https://www.pbs.org/newshour/show/news-wrap-uss-abraham-lincoln-heading-home-after-9-month-deployment",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T22:45:36+00:00",
+     "summary": "In our news wrap Thursday, U.S. military says the USS Abraham Lincoln is heading home following a roughly nine-month deployment and reports of poor living conditions, storms and at least one tornado tore through parts of Germany overnight and China sentenced the founder of Evergrande to life in prison five years after the company's collapse sent shockwaves through China's economy."
+    },
+    {
+     "outlet": "nyt",
+     "title": "U.S.S. Abraham Lincoln Leaves Middle East After Months at Sea in Operation Against Iran",
+     "url": "https://www.nytimes.com/2026/08/20/us/politics/uss-abraham-lincoln-iran.html",
+     "author": "John Ismay",
+     "kind": "news",
+     "published": "2026-08-20T18:21:05+00:00",
+     "summary": "The U.S.S. Abraham Lincoln in San Diego in 2021. The carrier\u2019s most recent deployment began on Nov. 21, and the thousands of sailors on board have spent almost the entirety of the time since at sea."
+    },
+    {
+     "outlet": "guardian",
+     "title": "US aircraft carrier arrives in Middle East to relieve troubled USS Lincoln",
+     "url": "https://www.theguardian.com/us-news/2026/aug/20/uss-lincoln-washington-sailors-military",
+     "author": "Anna Betts",
+     "kind": "news",
+     "published": "2026-08-20T18:00:27+00:00",
+     "summary": "USS George Washington will replace warship families say suffers from shortages, plumbing problems and low morale The USS George Washington aircraft carrier has arrived in the Middle East, where it is expected to relieve the USS Abraham Lincoln from its record deployment amid concerns about poor living conditions and morale. US Central Command announced on Thursday that the Washington arrived in the area on Wednesday, and posted an image of sailors working on the flight deck as the ship transited the Arabian Sea. No date has yet been announced for the Lincoln to return to the US. Continue reading..."
+    },
+    {
+     "outlet": "wapo",
+     "title": "New aircraft carrier arrives in Arabian Sea to replace long-stationed USS Abraham Lincoln",
+     "url": "https://www.washingtonpost.com/politics/2026/08/20/new-aircraft-carrier-arrives-arabian-sea-replace-long-stationed-uss-abraham-lincoln/",
+     "author": "Dan Lamothe",
+     "kind": "news",
+     "published": "2026-08-20T15:36:39+00:00",
+     "summary": "The USS George Washington is relieving a vessel that has gone months without a port stop."
+    }
+   ]
+  },
+  {
    "id": "99bc697cde",
    "topic": "World",
    "summary": "A charter plane carrying two pilots and six passengers crashed at a remote radar site in western Alaska on Thursday, killing all eight people aboard, the U.S. military said via The Associated Press. The crash occurred at Cape Newenham Long Range Radar Site Airport, approximately 450 miles west of Anchorage, according to the AP. Joint Base Elmendorf-Richardson said the flight was chartered by the U.S. Army Corps of Engineers (USACE) and confirmed that two USACE employees were among those killed. \"We have received confirmation that the two USACE employees onboard were fatalities. Next of kin have been notified,\" officials said in a statement. \"We are coordinating closely with the appropriate local, state, and federal authorities.\" PENNSYLVANIA STATE POLICE HELICOPTER, SMALL PLANE COLLIDE IN MIDAIR, KILLING 1 AND INJURING 2 STATE TROOPERS \"This is a devastating loss for our military family\u2026",
@@ -1037,10 +1020,10 @@
     "indieCount": 2,
     "big": [
      "dead",
+     "crashes",
      "cape",
-     "anchorage",
      "newenham",
-     "crashes"
+     "anchorage"
     ],
     "indie": []
    },
@@ -1107,12 +1090,90 @@
     },
     {
      "outlet": "nbcnews",
-     "title": "All 8 dead after charter plane crashes at remote military radar site in Alaska",
+     "title": "8 dead after charter plane crashes at remote military radar site in Alaska",
      "url": "https://www.nbcnews.com/news/us-news/charter-plane-carrying-8-crashes-western-alaska-rcna593687",
      "author": "Irene Byon",
      "kind": "news",
      "published": "2026-08-21T05:04:45+00:00",
      "summary": "The plane took off from Anchorage and is believed to have crashed early Thursday afternoon on approach to Cape Newenham, an NTSB official said."
+    }
+   ]
+  },
+  {
+   "id": "2cb1f1549a",
+   "topic": "Justice & Policing",
+   "summary": "Supreme court ordered transfer of ex-leader whose health is reportedly deteriorating, but he was returned to prison several hours later Pakistan\u2019s jailed former prime minister Imran Khan was briefly taken to a hospital in the country\u2019s capital on supreme court orders after weeks of uproar about his deteriorating health. Khan, 73, was transferred to the hospital in the early hours of Friday, but then moved back to Adiala prison in Rawalpindi after a \u2060few hours, a spokesperson for his party said on Friday. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Ex-Pakistan PM Imran Khan returned to jail after hospital transfer",
+   "updated": "2026-08-21T06:17:10+00:00",
+   "outletCount": 6,
+   "counts": {
+    "pub": 4,
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Ex-Pakistan PM Imran Khan returned to jail after hospital transfer",
+     "url": "https://www.france24.com/en/asia-pacific/20260821-ex-pakistan-pm-imran-khan-returned-to-jail-after-hospital-transfer",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-21T06:17:10+00:00",
+     "summary": "Imran Khan was examined at the public PIMS hospital in Islamabad early Friday, not the private clinic ordered by the court, before being sent back to jail. The government cited security concerns linked to his supporters."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+     "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T04:27:13+00:00",
+     "summary": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Pakistan\u2019s Imran Khan back to prison after evaluation at hospital",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T03:08:09+00:00",
+     "summary": "Pakistan\u2019s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Imran Khan Moved to Hospital Following Pakistan Court Order",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-20/imran-khan-moved-to-hospital-from-jail-on-pakistan-court-order",
+     "author": "Tooba Khan",
+     "kind": "news",
+     "published": "2026-08-20T23:38:32+00:00",
+     "summary": "Pakistan\u2019s former prime minister, Imran Khan, has been transferred to a hospital from prison after an order from the country\u2019s top court, according to his Tehreek-e-Insaf party."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Jailed ex-Pakistan PM Imran Khan allowed brief hospital visit after uproar over health",
+     "url": "https://www.theguardian.com/world/2026/aug/20/imran-khan-hospital-pakistan",
+     "author": "Shah Meer Baloch in Islamabad",
+     "kind": "news",
+     "published": "2026-08-20T23:07:10+00:00",
+     "summary": "Supreme court ordered transfer of ex-leader whose health is reportedly deteriorating, but he was returned to prison several hours later Pakistan\u2019s jailed former prime minister Imran Khan was briefly taken to a hospital in the country\u2019s capital on supreme court orders after weeks of uproar about his deteriorating health. Khan, 73, was transferred to the hospital in the early hours of Friday, but then moved back to Adiala prison in Rawalpindi after a \u2060few hours, a spokesperson for his party said on Friday. Continue reading..."
+    },
+    {
+     "outlet": "dw",
+     "title": "Pakistan: Former PM Khan briefly moved to private hospital",
+     "url": "https://www.dw.com/en/pakistan-former-pm-khan-briefly-moved-to-private-hospital/a-78451553?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T21:56:00+00:00",
+     "summary": "Khan was examined by a team of doctors before being moved back to prison. The former PM's supporters say his health has deteriorated during more than \u200bthree years behind bars since being removed from office in 2022."
     }
    ]
   },
@@ -1195,165 +1256,78 @@
    ]
   },
   {
-   "id": "05ec174275",
+   "id": "6c3825ebd3",
    "topic": "World",
-   "summary": "US president pivots towards \u2018crushing\u2019 economic operation against Iran and its trading partners as military strikes fail to bring Tehran to the table Donald Trump has announced a new campaign to isolate Iran\u2019s economy, threatening \u201ctremendous economic consequences\u201d on any country that helps or does business with Tehran, a move that could set up a fresh confrontation with China if implemented. \u201cToday, I am announcing the most crushing economic operation ever taken against any country!\u201d Trump wrote on Truth Social. \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face tremendous economic consequences.\u201d Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 2,
-    "big": [
-     "countries"
-    ],
-    "indie": [
-     "economy"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "How much could Trump's 'economic D-Day' hurt Iran?",
-   "updated": "2026-08-20T23:16:45+00:00",
-   "outletCount": 6,
-   "counts": {
-    "pub": 1,
-    "family": 3,
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-     "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T23:16:45+00:00",
-     "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Lipsky: China Could Limit Trump's Iran Pressure",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-20/lipsky-china-could-limit-trump-s-iran-pressure-video",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T22:29:59+00:00",
-     "summary": "Josh Lipsky, Vice President of International Economics at the Atlantic Council, says Beijing is betting President Donald Trump wants to make a \"big show\" of economic pressure on Iran but will stop short of squeezing Chinese banks. Lipsky also says the US is testing investors' patience in a way it hasn't for a long time as debt tops $40 trillion. Lipsky also weighs in on ongoing US-Canada tariff negotiations. He speaks with Kailey Leinz on the late edition of Bloomberg's \"Balance of Power.\" (Source: Bloomberg)"
-    },
-    {
-     "outlet": "abcnews",
-     "title": "WATCH:  Trump threatens 'Economic D-Day' against Iran",
-     "url": "https://abcnews.com/video/135800532/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T14:26:37+00:00",
-     "summary": "With the U.S. six months into the war with Iran, President Donald Trump announced that the U.S. will enact the \"most crushing economic operation ever taken,\" calling it \"an Economic D-Day.\""
-    },
-    {
-     "outlet": "semafor",
-     "title": "US threatens to expand economic pressure on Iran",
-     "url": "https://www.semafor.com/article/08/20/2026/us-threatens-to-expand-economic-pressure-on-iran",
-     "author": "Prashant Rao",
-     "kind": "news",
-     "published": "2026-08-20T13:34:50+00:00",
-     "summary": "US President Donald Trump threatened to expand his use of economic pressure to end the war in Iran, warning countries that traded with Tehran of severe consequences. Yet any such efforts are rife with their own challenges: Dubai, for example, is key to executing the US economic chokehold, given its role as a hub for Iranian trade and finance. But while the UAE said this week it would cut off economic ties with Iran, actually doing so in full could risk Dubai\u2019s status as a hub for commerce , The Wall Street Journal noted. Still, one Bloomberg columnist wrote, \u201cthe route of economic asphyxiation is probably the least bad plan,\u201d before adding: \u201c Needless to say, \u2018least bad\u2019 is far from \u2018good\u2019 .\u201d \u2014 Prashant Rao"
-    },
-    {
-     "outlet": "nyt",
-     "title": "Trump Threatens Economic Pain for Countries That Help Iran",
-     "url": "https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html",
-     "author": "Chris Cameron",
-     "kind": "news",
-     "published": "2026-08-20T08:45:11+00:00",
-     "summary": "The president did not specify what actions he would take, and he has on other occasions abandoned threats to dramatically escalate the war with Iran."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump threatens Iran\u2019s trade partners, as military strikes make way for economic pressure",
-     "url": "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz",
-     "author": "Jonathan Yerushalmy",
-     "kind": "news",
-     "published": "2026-08-20T04:53:44+00:00",
-     "summary": "US president pivots towards \u2018crushing\u2019 economic operation against Iran and its trading partners as military strikes fail to bring Tehran to the table Donald Trump has announced a new campaign to isolate Iran\u2019s economy, threatening \u201ctremendous economic consequences\u201d on any country that helps or does business with Tehran, a move that could set up a fresh confrontation with China if implemented. \u201cToday, I am announcing the most crushing economic operation ever taken against any country!\u201d Trump wrote on Truth Social. \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face tremendous economic consequences.\u201d Continue reading..."
-    }
-   ]
-  },
-  {
-   "id": "269d732d38",
-   "topic": "Justice & Policing",
-   "summary": "Supreme court ordered transfer of ex-leader whose health is reportedly deteriorating, but he was returned to prison several hours later Pakistan\u2019s jailed former prime minister Imran Khan was briefly taken to a hospital in the country\u2019s capital on supreme court orders after weeks of uproar about his deteriorating health. Khan, 73, was transferred to the hospital in the early hours of Friday, but then moved back to Adiala prison in Rawalpindi after a \u2060few hours, a spokesperson for his party said on Friday. Continue reading...",
-   "summaryFrom": "guardian",
+   "summary": "Israel sharply criticized the UK after London voiced opposition to the Jewish state\u2019s support for settlements in the occupied West Bank, the latest in a series of rows with once strong Western allies. The UK\u2019s top diplomat called Israeli settlement expansion plans \u201c unacceptable and destructive ,\u201d adding to a barrage of criticism this week: London alongside Berlin, Paris, and Rome issued a joint statement condemning the settlements , while Germany and France labeled as \u201c inhumane \u201d remarks by an Israeli minister who called for killing \u201c30 to 40\u201d Gazans daily. Meanwhile, Australia acknowledged \u201c difficult \u201d relations with Israel over its decision not to probe an aid worker\u2019s killing. Even the US\u2019 staunchly pro-Israel envoy defended his earlier description of West Bank settlers as \u201cterrorists.\u201d \u2014 Tasneem Nashrulla",
+   "summaryFrom": "semafor",
    "emphasis": null,
    "absent": [
     "corp",
     "coop"
    ],
-   "headline": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-   "updated": "2026-08-21T04:27:13+00:00",
+   "headline": "Europe, Canada condemn Israeli plans for new West Bank settlement",
+   "updated": "2026-08-21T07:56:21+00:00",
    "outletCount": 5,
    "counts": {
     "pub": 3,
-    "family": 1,
-    "nonprofit": 1
+    "nonprofit": 1,
+    "family": 1
    },
    "newsCount": 5,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
     {
-     "outlet": "bbc",
-     "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-     "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T04:27:13+00:00",
-     "summary": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination."
-    },
-    {
      "outlet": "aljazeera",
-     "title": "Pakistan\u2019s Imran Khan back to prison after evaluation at hospital",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
+     "title": "Europe, Canada condemn Israeli plans for new West Bank settlement",
+     "url": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-21T03:08:09+00:00",
-     "summary": "Pakistan\u2019s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Imran Khan Moved to Hospital Following Pakistan Court Order",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-20/imran-khan-moved-to-hospital-from-jail-on-pakistan-court-order",
-     "author": "Tooba Khan",
-     "kind": "news",
-     "published": "2026-08-20T23:38:32+00:00",
-     "summary": "Pakistan\u2019s former prime minister, Imran Khan, has been transferred to a hospital from prison after an order from the country\u2019s top court, according to his Tehreek-e-Insaf party."
+     "published": "2026-08-21T07:56:21+00:00",
+     "summary": "The &#039;unacceptable&#039; E1 plan carries &#039;legal and reputational consequences&#039; for those participating, European nations warn."
     },
     {
      "outlet": "guardian",
-     "title": "Jailed ex-Pakistan PM Imran Khan allowed brief hospital visit after uproar over health",
-     "url": "https://www.theguardian.com/world/2026/aug/20/imran-khan-hospital-pakistan",
-     "author": "Shah Meer Baloch in Islamabad",
+     "title": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
+     "url": "https://www.theguardian.com/world/2026/aug/21/israeli-settler-attacks-shift-to-heart-of-territory-earmarked-for-palestinian-state",
+     "author": "Peter Beaumont and Quique Kierszenbaum in Jerusalem",
      "kind": "news",
-     "published": "2026-08-20T23:07:10+00:00",
-     "summary": "Supreme court ordered transfer of ex-leader whose health is reportedly deteriorating, but he was returned to prison several hours later Pakistan\u2019s jailed former prime minister Imran Khan was briefly taken to a hospital in the country\u2019s capital on supreme court orders after weeks of uproar about his deteriorating health. Khan, 73, was transferred to the hospital in the early hours of Friday, but then moved back to Adiala prison in Rawalpindi after a \u2060few hours, a spokesperson for his party said on Friday. Continue reading..."
+     "published": "2026-08-21T06:00:26+00:00",
+     "summary": "Report says violence is moving from Israeli-controlled areas to those earmarked for a future Palestinian state Violent Israeli settler attacks in the two areas of the occupied West Bank under direct Palestinian rule have almost doubled since 2025, as settlers pursue a self-proclaimed \u201cgreat settlement revolution\u201d in the very heart of the territory earmarked for a Palestinian state. According to a report by the Israeli human rights organisation Yesh Din , shared with the Guardian, data shows that almost two-thirds of incidents of settler violence so far in 2026 have taken place in the so-called Areas A and B \u2013 placed under Palestinian Authority governance in the 1995 Oslo accords. Continue reading..."
     },
     {
-     "outlet": "dw",
-     "title": "Pakistan: Former PM Khan briefly moved to private hospital",
-     "url": "https://www.dw.com/en/pakistan-former-pm-khan-briefly-moved-to-private-hospital/a-78451553?maca=en-rss-en-all-1573-rdf",
+     "outlet": "bbc",
+     "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+     "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-20T21:56:00+00:00",
-     "summary": "Khan was examined by a team of doctors before being moved back to prison. The former PM's supporters say his health has deteriorated during more than \u200bthree years behind bars since being removed from office in 2022."
+     "published": "2026-08-21T05:00:57+00:00",
+     "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful."
+    },
+    {
+     "outlet": "semafor",
+     "title": "Israel clashes with allies over West Bank settlement project",
+     "url": "https://www.semafor.com/article/08/20/2026/israel-clashes-with-allies-over-west-bank-settlements",
+     "author": "Tasneem Nashrulla",
+     "kind": "news",
+     "published": "2026-08-20T22:18:32+00:00",
+     "summary": "Israel sharply criticized the UK after London voiced opposition to the Jewish state\u2019s support for settlements in the occupied West Bank, the latest in a series of rows with once strong Western allies. The UK\u2019s top diplomat called Israeli settlement expansion plans \u201c unacceptable and destructive ,\u201d adding to a barrage of criticism this week: London alongside Berlin, Paris, and Rome issued a joint statement condemning the settlements , while Germany and France labeled as \u201c inhumane \u201d remarks by an Israeli minister who called for killing \u201c30 to 40\u201d Gazans daily. Meanwhile, Australia acknowledged \u201c difficult \u201d relations with Israel over its decision not to probe an aid worker\u2019s killing. Even the US\u2019 staunchly pro-Israel envoy defended his earlier description of West Bank settlers as \u201cterrorists.\u201d \u2014 Tasneem Nashrulla"
+    },
+    {
+     "outlet": "france24",
+     "title": "France, Germany, UK and Italy slam Israel's 'E1' West Bank settler project",
+     "url": "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-20T18:52:15+00:00",
+     "summary": "Paris, Berlin, London and Rome on Thursday condemned Israel's decision to open bidding for a planned settlement project in the occupied West Bank. The sprawling \"E1\" development, which like all Israeli settlements in the occupied Palestinian territory is illegal under international law, would further cut Palestinian-majority east Jerusalem off from the West Bank."
     }
    ]
   },
   {
-   "id": "17215fece8",
+   "id": "91e05b5b76",
    "topic": "Justice & Policing",
-   "summary": "Surveillance footage captured the brief window of time when a masked man wearing a creepy Chucky-style Halloween mask terrorized multiple people in downtown Philadelphia . Two police officers followed him before he evaded authorities, officials said Thursday. Zymire Hughes , 22, is being sought by the Philadelphia Police Department and the U.S. Marshals Service after an arrest warrant related to the Aug. 12 incident was issued. \"If Zymire Hughes was trying to scare people, make them run: Who's scared now? Who's running now?\" Philadelphia District Attorney Larry Krasner said during a news conference Thursday afternoon. POLICE IDENTIFY SUSPECT ACCUSED OF TERRORIZING PHILADELPHIA WOMEN WHILE WEARING CREEPY CHUCKY-STYLE MASK On Thursday, authorities released surveillance footage showing Hughes leaving his apartment before heading downtown by bus. Once in the downtown area, Hughes donned his\u2026",
+   "summary": "Hayden Panettiere's on-and-off boyfriend Brian Hickerson broke his silence after the sudden and tragic death of the actress. Hickerson's lawyer, Sloan Ellis, shared a brief statement with TMZ on Thursday. \"Hayden's death remains under investigation, and it is important to allow that investigation to proceed. As has been publicly reported, police confirmed there were no signs of foul play,\" Ellis said. \"Out of respect for Hayden's loved ones and the ongoing investigation, there will be no further comment at this time.\" The Greenville Police Department told Fox News Digital it is not participating in media interviews regarding this case. HAYDEN PANETTIERE'S MOTHER POINTS FINGER AT BRIAN HICKERSON AFTER 'NASHVILLE' STAR'S DEATH AT 36 \"The GPD response is the same as in all death investigations. The Police Department works with the Coroner\u2019s Office, receives its findings, reviews the facts\u2026",
    "summaryFrom": "foxnews",
    "emphasis": null,
    "absent": [
@@ -1361,61 +1335,61 @@
     "nonprofit",
     "pub"
    ],
-   "headline": "Philadelphia police ID man in \"Chucky-style\" mask as Zymire Hughes",
-   "updated": "2026-08-21T00:16:17+00:00",
+   "headline": "Hayden Panettiere's mom blames ex Brian Hickerson as history of abuse faces closer scrutiny",
+   "updated": "2026-08-21T00:36:25+00:00",
    "outletCount": 5,
    "counts": {
-    "corp": 2,
-    "family": 3
+    "family": 2,
+    "corp": 3
    },
    "newsCount": 5,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "cbsnews",
-     "title": "Philadelphia police ID man in \"Chucky-style\" mask as Zymire Hughes",
-     "url": "https://www.cbsnews.com/news/masked-man-identified-zymire-hughes-philadelphia/",
-     "author": null,
+     "outlet": "latimes",
+     "title": "Hayden Panettiere's mom blames ex Brian Hickerson as history of abuse faces closer scrutiny",
+     "url": "https://www.latimes.com/entertainment-arts/story/2026-08-20/hayden-panettiere-death-ex-brian-hickerson-history-of-abuse",
+     "author": "Emily St. Martin",
      "kind": "news",
-     "published": "2026-08-21T00:16:17+00:00",
-     "summary": "Police have identified the suspect wanted for terrorizing people near Philadelphia City Hall last week while wearing a \"Chucky-style\" mask."
+     "published": "2026-08-21T00:36:25+00:00",
+     "summary": "Following Hayden Panettiere's death, an attorney for her ex-boyfriend Brian Hickerson released a statement as Hickerson's past domestic violence arrests faced renewed scrutiny."
     },
     {
-     "outlet": "latimes",
-     "title": "Man in creepy doll mask who has terrified Philadelphians may be headed to L.A., police say",
-     "url": "https://www.latimes.com/california/story/2026-08-20/man-in-creepy-doll-mask-who-has-terrified-philadelphians-may-be-headed-to-l-a-police-say",
-     "author": "Summer Lin",
+     "outlet": "cbsnews",
+     "title": "Hayden Panettiere's death under scrutiny with DEA investigation",
+     "url": "https://www.cbsnews.com/video/hayden-panettieres-death-under-scrutiny-dea-investigation/",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-20T23:27:54+00:00",
-     "summary": "A man wearing a creepy doll mask terrorizing victims in Philadelphia has known ties to California, according to authorities."
+     "published": "2026-08-20T23:51:00+00:00",
+     "summary": "The U.S. Drug Enforcement Administration has joined the investigation into the sudden death of actress Hayden Panettiere, who would have turned 37 on Friday. Mark Strassmann reports."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Brian Hickerson's attorney issues statement after Hayden Panettiere's death",
+     "url": "https://abcnews.com/GMA/Culture/brian-hickersons-attorney-issues-statement-after-hayden-panettieres/story?id=135817617",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T22:54:09+00:00",
+     "summary": "An investigation into the late actress's death is ongoing."
     },
     {
      "outlet": "foxnews",
-     "title": "Timeline reveals how man in 'Chucky' mask terrorized Philadelphia streets, evaded police",
-     "url": "https://www.foxnews.com/us/timeline-reveals-how-man-chucky-mask-terrorized-philadelphia-streets-evaded-police",
+     "title": "Hayden Panettiere's on-and-off boyfriend Brian Hickerson breaks silence after star's death",
+     "url": "https://www.foxnews.com/entertainment/hayden-panettieres-on-and-off-boyfriend-brian-hickerson-breaks-silence-after-stars-death",
      "author": null,
      "kind": "news",
-     "published": "2026-08-20T22:45:32+00:00",
-     "summary": "Surveillance footage captured the brief window of time when a masked man wearing a creepy Chucky-style Halloween mask terrorized multiple people in downtown Philadelphia . Two police officers followed him before he evaded authorities, officials said Thursday. Zymire Hughes , 22, is being sought by the Philadelphia Police Department and the U.S. Marshals Service after an arrest warrant related to the Aug. 12 incident was issued. \"If Zymire Hughes was trying to scare people, make them run: Who's scared now? Who's running now?\" Philadelphia District Attorney Larry Krasner said during a news conference Thursday afternoon. POLICE IDENTIFY SUSPECT ACCUSED OF TERRORIZING PHILADELPHIA WOMEN WHILE WEARING CREEPY CHUCKY-STYLE MASK On Thursday, authorities released surveillance footage showing Hughes leaving his apartment before heading downtown by bus. Once in the downtown area, Hughes donned his mask around 5:30 a.m. and began antagonizing people while filming his actions with a cell phone, police said. He allegedly threatened and assaulted a jogger near City Hall before chasing her. The first person confronted by Hughes appeared to be terrified. \"The victim is absolutely terrified of Mr. H"
+     "published": "2026-08-20T22:51:01+00:00",
+     "summary": "Hayden Panettiere's on-and-off boyfriend Brian Hickerson broke his silence after the sudden and tragic death of the actress. Hickerson's lawyer, Sloan Ellis, shared a brief statement with TMZ on Thursday. \"Hayden's death remains under investigation, and it is important to allow that investigation to proceed. As has been publicly reported, police confirmed there were no signs of foul play,\" Ellis said. \"Out of respect for Hayden's loved ones and the ongoing investigation, there will be no further comment at this time.\" The Greenville Police Department told Fox News Digital it is not participating in media interviews regarding this case. HAYDEN PANETTIERE'S MOTHER POINTS FINGER AT BRIAN HICKERSON AFTER 'NASHVILLE' STAR'S DEATH AT 36 \"The GPD response is the same as in all death investigations. The Police Department works with the Coroner\u2019s Office, receives its findings, reviews the facts and evidence and then decides if a criminal investigation is warranted. There were no signs of foul play during the initial response and investigation,\" the statement concluded. Fox News Digital reached out to Ellis for comment. On Wednesday, Fox News Digital learned the Drug Enforcement Administrati"
     },
     {
-     "outlet": "nyt",
-     "title": "A Man in a Chucky-Style Mask Was Scaring Philadelphians. Then He Picked the Wrong Woman.",
-     "url": "https://www.nytimes.com/2026/08/20/us/chucky-doll-mask-kick-philadelphia.html",
-     "author": "Sopan Deb",
+     "outlet": "dailybeast",
+     "title": "Troubled Star\u2019s Abusive Ex Breaks Silence After Shock Death",
+     "url": "https://www.thedailybeast.com/obsessed/hayden-panettieres-abusive-ex-brian-hickerson-breaks-silence-after-shock-death/",
+     "author": "Eboni Boykin-Patterson",
      "kind": "news",
-     "published": "2026-08-20T22:37:16+00:00",
-     "summary": "When Jameka Wilson encountered a man wearing a Chucky-style Halloween mask, her stage combat training kicked in. Now she\u2019s a minor local celebrity."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Man in creepy Chucky-style mask wanted by Philadelphia police is on the run",
-     "url": "https://www.nbcnews.com/news/us-news/man-creepy-chucky-style-mask-wanted-philadelphia-police-possibly-run-rcna593600",
-     "author": "David K. Li",
-     "kind": "news",
-     "published": "2026-08-20T18:30:15+00:00",
-     "summary": "An arrest warrant was issued for Zymire Hughes, who authorities called a \u201cpunk,\u201d saying they believe he may have fled Pennsylvania while having ties to California and Nevada."
+     "published": "2026-08-20T20:30:38+00:00",
+     "summary": "Getty Images The sudden death of Hayden Panettiere has sparked intense speculation about her abusive ex-boyfriend, Brian Hickerson, who broke his silence for the first time on Thursday. Panettiere was found dead from a suspected overdose at the age of 36 on Sunday, just a day after she arrived at Hickerson\u2019s home state of South Carolina. Hickerson, 37, and his brother Zach were in the luxury loft where Panettiere was found unresponsive. Hickerson had been arrested multiple times for assaulting the actress over the course of their relationship. Read more at The Daily Beast."
     }
    ]
   },
@@ -1600,9 +1574,9 @@
    ]
   },
   {
-   "id": "91e05b5b76",
-   "topic": "Other",
-   "summary": "Hayden Panettiere's on-and-off boyfriend Brian Hickerson broke his silence after the sudden and tragic death of the actress. Hickerson's lawyer, Sloan Ellis, shared a brief statement with TMZ on Thursday. \"Hayden's death remains under investigation, and it is important to allow that investigation to proceed. As has been publicly reported, police confirmed there were no signs of foul play,\" Ellis said. \"Out of respect for Hayden's loved ones and the ongoing investigation, there will be no further comment at this time.\" The Greenville Police Department told Fox News Digital it is not participating in media interviews regarding this case. HAYDEN PANETTIERE'S MOTHER POINTS FINGER AT BRIAN HICKERSON AFTER 'NASHVILLE' STAR'S DEATH AT 36 \"The GPD response is the same as in all death investigations. The Police Department works with the Coroner\u2019s Office, receives its findings, reviews the facts\u2026",
+   "id": "17215fece8",
+   "topic": "Justice & Policing",
+   "summary": "Surveillance footage captured the brief window of time when a masked man wearing a creepy Chucky-style Halloween mask terrorized multiple people in downtown Philadelphia . Two police officers followed him before he evaded authorities, officials said Thursday. Zymire Hughes , 22, is being sought by the Philadelphia Police Department and the U.S. Marshals Service after an arrest warrant related to the Aug. 12 incident was issued. \"If Zymire Hughes was trying to scare people, make them run: Who's scared now? Who's running now?\" Philadelphia District Attorney Larry Krasner said during a news conference Thursday afternoon. POLICE IDENTIFY SUSPECT ACCUSED OF TERRORIZING PHILADELPHIA WOMEN WHILE WEARING CREEPY CHUCKY-STYLE MASK On Thursday, authorities released surveillance footage showing Hughes leaving his apartment before heading downtown by bus. Once in the downtown area, Hughes donned his\u2026",
    "summaryFrom": "foxnews",
    "emphasis": null,
    "absent": [
@@ -1610,52 +1584,52 @@
     "nonprofit",
     "pub"
    ],
-   "headline": "Hayden Panettiere's mom blames ex Brian Hickerson as history of abuse faces closer scrutiny",
-   "updated": "2026-08-21T00:36:25+00:00",
+   "headline": "Philadelphia police ID man in \"Chucky-style\" mask as Zymire Hughes",
+   "updated": "2026-08-21T00:16:17+00:00",
    "outletCount": 4,
    "counts": {
-    "family": 2,
-    "corp": 2
+    "corp": 1,
+    "family": 3
    },
    "newsCount": 4,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "latimes",
-     "title": "Hayden Panettiere's mom blames ex Brian Hickerson as history of abuse faces closer scrutiny",
-     "url": "https://www.latimes.com/entertainment-arts/story/2026-08-20/hayden-panettiere-death-ex-brian-hickerson-history-of-abuse",
-     "author": "Emily St. Martin",
-     "kind": "news",
-     "published": "2026-08-21T00:36:25+00:00",
-     "summary": "Following Hayden Panettiere's death, an attorney for her ex-boyfriend Brian Hickerson released a statement as Hickerson's past domestic violence arrests faced renewed scrutiny."
-    },
-    {
      "outlet": "cbsnews",
-     "title": "Hayden Panettiere's death under scrutiny with DEA investigation",
-     "url": "https://www.cbsnews.com/video/hayden-panettieres-death-under-scrutiny-dea-investigation/",
+     "title": "Philadelphia police ID man in \"Chucky-style\" mask as Zymire Hughes",
+     "url": "https://www.cbsnews.com/news/masked-man-identified-zymire-hughes-philadelphia/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-20T23:51:00+00:00",
-     "summary": "The U.S. Drug Enforcement Administration has joined the investigation into the sudden death of actress Hayden Panettiere, who would have turned 37 on Friday. Mark Strassmann reports."
+     "published": "2026-08-21T00:16:17+00:00",
+     "summary": "Police have identified the suspect wanted for terrorizing people near Philadelphia City Hall last week while wearing a \"Chucky-style\" mask."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Man in creepy doll mask who has terrified Philadelphians may be headed to L.A., police say",
+     "url": "https://www.latimes.com/california/story/2026-08-20/man-in-creepy-doll-mask-who-has-terrified-philadelphians-may-be-headed-to-l-a-police-say",
+     "author": "Summer Lin",
+     "kind": "news",
+     "published": "2026-08-20T23:27:54+00:00",
+     "summary": "A man wearing a creepy doll mask terrorizing victims in Philadelphia has known ties to California, according to authorities."
     },
     {
      "outlet": "foxnews",
-     "title": "Hayden Panettiere's on-and-off boyfriend Brian Hickerson breaks silence after star's death",
-     "url": "https://www.foxnews.com/entertainment/hayden-panettieres-on-and-off-boyfriend-brian-hickerson-breaks-silence-after-stars-death",
+     "title": "Timeline reveals how man in 'Chucky' mask terrorized Philadelphia streets, evaded police",
+     "url": "https://www.foxnews.com/us/timeline-reveals-how-man-chucky-mask-terrorized-philadelphia-streets-evaded-police",
      "author": null,
      "kind": "news",
-     "published": "2026-08-20T22:51:01+00:00",
-     "summary": "Hayden Panettiere's on-and-off boyfriend Brian Hickerson broke his silence after the sudden and tragic death of the actress. Hickerson's lawyer, Sloan Ellis, shared a brief statement with TMZ on Thursday. \"Hayden's death remains under investigation, and it is important to allow that investigation to proceed. As has been publicly reported, police confirmed there were no signs of foul play,\" Ellis said. \"Out of respect for Hayden's loved ones and the ongoing investigation, there will be no further comment at this time.\" The Greenville Police Department told Fox News Digital it is not participating in media interviews regarding this case. HAYDEN PANETTIERE'S MOTHER POINTS FINGER AT BRIAN HICKERSON AFTER 'NASHVILLE' STAR'S DEATH AT 36 \"The GPD response is the same as in all death investigations. The Police Department works with the Coroner\u2019s Office, receives its findings, reviews the facts and evidence and then decides if a criminal investigation is warranted. There were no signs of foul play during the initial response and investigation,\" the statement concluded. Fox News Digital reached out to Ellis for comment. On Wednesday, Fox News Digital learned the Drug Enforcement Administrati"
+     "published": "2026-08-20T22:45:32+00:00",
+     "summary": "Surveillance footage captured the brief window of time when a masked man wearing a creepy Chucky-style Halloween mask terrorized multiple people in downtown Philadelphia . Two police officers followed him before he evaded authorities, officials said Thursday. Zymire Hughes , 22, is being sought by the Philadelphia Police Department and the U.S. Marshals Service after an arrest warrant related to the Aug. 12 incident was issued. \"If Zymire Hughes was trying to scare people, make them run: Who's scared now? Who's running now?\" Philadelphia District Attorney Larry Krasner said during a news conference Thursday afternoon. POLICE IDENTIFY SUSPECT ACCUSED OF TERRORIZING PHILADELPHIA WOMEN WHILE WEARING CREEPY CHUCKY-STYLE MASK On Thursday, authorities released surveillance footage showing Hughes leaving his apartment before heading downtown by bus. Once in the downtown area, Hughes donned his mask around 5:30 a.m. and began antagonizing people while filming his actions with a cell phone, police said. He allegedly threatened and assaulted a jogger near City Hall before chasing her. The first person confronted by Hughes appeared to be terrified. \"The victim is absolutely terrified of Mr. H"
     },
     {
-     "outlet": "dailybeast",
-     "title": "Troubled Star\u2019s Abusive Ex Breaks Silence After Shock Death",
-     "url": "https://www.thedailybeast.com/obsessed/hayden-panettieres-abusive-ex-brian-hickerson-breaks-silence-after-shock-death/",
-     "author": "Eboni Boykin-Patterson",
+     "outlet": "nyt",
+     "title": "A Man in a Chucky-Style Mask Was Scaring Philadelphians. Then He Picked the Wrong Woman.",
+     "url": "https://www.nytimes.com/2026/08/20/us/chucky-doll-mask-kick-philadelphia.html",
+     "author": "Sopan Deb",
      "kind": "news",
-     "published": "2026-08-20T20:30:38+00:00",
-     "summary": "Getty Images The sudden death of Hayden Panettiere has sparked intense speculation about her abusive ex-boyfriend, Brian Hickerson, who broke his silence for the first time on Thursday. Panettiere was found dead from a suspected overdose at the age of 36 on Sunday, just a day after she arrived at Hickerson\u2019s home state of South Carolina. Hickerson, 37, and his brother Zach were in the luxury loft where Panettiere was found unresponsive. Hickerson had been arrested multiple times for assaulting the actress over the course of their relationship. Read more at The Daily Beast."
+     "published": "2026-08-20T22:37:16+00:00",
+     "summary": "When Jameka Wilson encountered a man wearing a Chucky-style Halloween mask, her stage combat training kicked in. Now she\u2019s a minor local celebrity."
     }
    ]
   },
@@ -1978,6 +1952,57 @@
    ]
   },
   {
+   "id": "7e1b5f62d5",
+   "topic": "Culture & Sport",
+   "summary": "Brandon Sumrall / Getty Images The New York Times lost its first defamation suit in more than 50 years when a jury found it had defamed a former college basketball star. In 2023, the Times wrongly reported that Kai Spears, who played for the University of Alabama men\u2019s basketball team, was in a car with teammates at the scene of a shooting where a 23-year-old mother died. A teammate was charged with murder and awaits trial. The reporter relied on a single anonymous source to place Spears at the scene. After publication, Spears\u2019 father denied his son was present, and the article was updated with his denials. However, two months later, Spears sued, complaining that he would forever be linked with a murder. The article was corrected, and the reporter even apologized to Spears in court. On Thursday, the jury awarded Spears $9.25 million in damages. This followed a nine-day trial in the U.S.\u2026",
+   "summaryFrom": "dailybeast",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "New York Times Loses First Defamation Suit in 50 Years",
+   "updated": "2026-08-21T08:04:10+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "family": 2
+   },
+   "newsCount": 1,
+   "opinionCount": 2,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "New York Times Loses First Defamation Suit in 50 Years",
+     "url": "https://www.thedailybeast.com/new-york-times-loses-first-defamation-suit-in-50-years/",
+     "author": "Leigh Kimmins",
+     "kind": "news",
+     "published": "2026-08-21T08:04:10+00:00",
+     "summary": "Brandon Sumrall / Getty Images The New York Times lost its first defamation suit in more than 50 years when a jury found it had defamed a former college basketball star. In 2023, the Times wrongly reported that Kai Spears, who played for the University of Alabama men\u2019s basketball team, was in a car with teammates at the scene of a shooting where a 23-year-old mother died. A teammate was charged with murder and awaits trial. The reporter relied on a single anonymous source to place Spears at the scene. After publication, Spears\u2019 father denied his son was present, and the article was updated with his denials. However, two months later, Spears sued, complaining that he would forever be linked with a murder. The article was corrected, and the reporter even apologized to Spears in court. On Thursday, the jury awarded Spears $9.25 million in damages. This followed a nine-day trial in the U.S. District Court for the Northern District of Alabama. Spears\u2019 lawyer told the jury in his closing argument that they had \u201cthe opportunity today to change the way journalism works at The New York Times.\u201d \u201cThere was a mistake, an honest mistake,\u201d Michael Bell, a lawyer for the paper, argued. After the "
+    },
+    {
+     "outlet": "foxnews",
+     "title": "New York Times loses defamation suit, ordered to pay $9.25M to former Alabama basketball player",
+     "url": "https://www.foxnews.com/media/new-york-times-loses-defamation-suit-ordered-pay-9-25m-former-alabama-basketball-player",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-21T01:50:16+00:00",
+     "summary": "The New York Times was defeated in a defamation lawsuit Thursday brought by a former college basketball player and ordered to pay millions in damages. An Alabama jury ruled the Times defamed Kai Spears, then an 18-year-old freshman walk-on basketball player for the University of Alabama's Crimson Tide, who was swept up in a 2023 report linking him to a fatal shooting. After a nine-day trial, the eight-person jury determined that Spears was owed $9.25 million in damages. ISRAELI PM NETANYAHU INITIATING DEFAMATION LAWSUIT AGAINST NEW YORK TIMES OVER CONTROVERSIAL \u2018DOG RAPE\u2019 STORY Spears was mentioned in the March 2023 report authored by New York Times sportswriter Billy Witz. Spears was falsely identified as being a passenger in the car at the site of a January 2023 shooting that resulted in the death of 23-year-old Jamea Harris. The Times issued a lengthy editor's note to the report in June 2023, but only after Spears filed the defamation lawsuit at the U.S. District Court for the Northern District of Alabama. \"The original version of this article, published March 15, misidentified the person who was in the car with [Crimson Tide star player] Brandon Miller when the shooting occurre"
+    },
+    {
+     "outlet": "dailywire",
+     "title": "NYT Ordered To Pay Millions To College Athlete In Defamation Judgement",
+     "url": "https://www.dailywire.com/news/nyt-ordered-to-pay-millions-to-college-athlete-in-defamation-judgement",
+     "author": "Brecca Stoll",
+     "kind": "opinion",
+     "published": "2026-08-20T19:44:14+00:00",
+     "summary": "A federal jury on Thursday ordered The New York Times to pay a former University of Alabama men\u2019s basketball player $9.25 million in damages for falsely reporting that he was at the scene of a murder in Tuscaloosa, Alabama. The Times falsely claimed in March 2023 that Kai Spears was in former Alabama basketball star Brandon Miller&#8217;s vehicle at the scene of a January 2023 shooting that killed 23-year-old Jamea Harris. Spears was not in the vehicle. &#8220;We&#8217;re disappointed the jury found The Times liable for an honest mistake,&#8221; Times spokesman Charlie Stadtander said . &#8220;We thank the jury for its service, but believe the verdict and award of damages are contrary to law and not supported by the evidence. We are reviewing our legal options.&#8221; The Times later added an editor&#8217;s note acknowledging that the original article had &#8220;erroneously identified&#8221; Spears as the passenger based on information from a person familiar with the case. The newspaper noted that Alabama&#8217;s athletic director and Spears&#8217; father had denied that Spears was present after the article was initially published. Spears sued the Times in 2023, accusing the newspa"
+    }
+   ]
+  },
+  {
    "id": "2a7ddd2137",
    "topic": "Tech",
    "summary": "Mark Zuckerberg just bought a nearly 200-year-old castle in Ireland. John Nacion/Variety via Getty Images Mark Zuckerberg has added another multimillion-dollar property to his real estate portfolio. His newest purchase is a nearly 200-year-old castle in Ireland, 140 miles from Meta's international HQ. The estate is vast and historic, and it only looks mildly haunted. Mark Zuckerberg has a hot new \u2014 but also 200-year-old \u2014 pad in Ireland. The billionaire CEO of Meta and his wife, Priscilla Chan, have purchased a nearly Gothic property called Strancally Castle in Waterford County, Ireland. The property is located about 140 miles south of the company's international headquarters in Dublin. \"Mark and his family are excited to continue caring for this historic home and look forward to spending time in Ireland, where Meta maintains its international headquarters,\" Zuckerberg's spokesperson,\u2026",
@@ -2076,57 +2101,6 @@
      "kind": "news",
      "published": "2026-08-20T23:17:46+00:00",
      "summary": "A newly released police affidavit claims that there is &quot;no physical evidence&quot; that John Benfield, 69, the man charged with two counts of vehicular homicide in the deaths of Haylan Engdahl and Brayden Rogers, hit the brakes before crashing into a group of 11 Milligan College cyclists. Benfield &#x201c;was traveling at a distance and/or manner that did not allow him sufficient time or distance to perceive and react to the roadway conditions,&#x201d; the affidavit said. The affidavit also noted that officers on the scene reported smelling marijuana coming from Benfield&apos;s car. Benfield has been charged with two counts of vehicular homicide and five counts of reckless aggravated assault after he drove into the group of cyclists, killing Engdahl, of Winthrop Harbor, Illinois, and Rogers, of Huntsville, Alabama, and injuring a further seven riders. Benfield is scheduled to appear in court on August 31 and is being held on $300,000 bail. Engdahl and Rogers were sophomores at Milligan and rode for the school&apos;s collegiate racing team. Both died at the scene."
-    }
-   ]
-  },
-  {
-   "id": "939696399b",
-   "topic": "Politics",
-   "summary": "California is experiencing an educational paradox, according to Herb Morgan, a candidate for state controller \u2014 the state's chief fiscal officer, accountant and auditor. The Golden State, Morgan said, has spent billions of dollars educating public school students but has failed to boost educational outcomes despite the influx of taxpayer funds. California\u2019s K-12 education funding rose from $97 billion in 2019 to $151 billion for the current budget cycle, said Morgan, who tracks and lists state expenditures through his \"California Radical Transparency\" website, a political and financial oversight initiative designed to track and decode state spending. EXPLOSIVE REPORT FINDS $230M IN ALLEGED K-12 EDUCATION FRAUD AMID TRUMP'S CRACKDOWN: 'ESPECIALLY HIDEOUS' Per-student spending jumped from $16,300 to $27,400 over that same period, said Morgan, an investment professional. \"Why is it if\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "California controller candidate slams massive education spending despite worse student results",
-   "updated": "2026-08-21T03:16:06+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 3
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "California controller candidate slams massive education spending despite worse student results",
-     "url": "https://nypost.com/2026/08/20/us-news/california-controller-candidate-slams-massive-education-spending-despite-worse-student-results/",
-     "author": "Fox News",
-     "kind": "news",
-     "published": "2026-08-21T03:16:06+00:00",
-     "summary": "California is experiencing an educational paradox, according to Herb Morgan, a candidate for state controller \u2014 the state's chief fiscal officer, accountant and auditor."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Exclusive -- Iowa GOP Governor Candidate Slams Democrat in Ad For Massive Tax Hike Plot",
-     "url": "https://www.breitbart.com/politics/2026/08/20/exclusive-iowa-gop-governor-candidate-slams-democrat-in-ad-for-massive-tax-hike-plot/",
-     "author": "Mariane Angela",
-     "kind": "news",
-     "published": "2026-08-20T23:46:05+00:00",
-     "summary": "Republican Iowa gubernatorial candidate Zach Lahn released a campaign ad Thursday saying Democrat rival Rob Sand plans to raise the average Iowan's taxes by $7,500 a year. The post Exclusive &#8212; Iowa GOP Governor Candidate Slams Democrat in Ad For Massive Tax Hike Plot appeared first on Breitbart ."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "California controller candidate slams massive education spending despite worse student results",
-     "url": "https://www.foxnews.com/politics/california-controller-candidate-slams-massive-education-spending-despite-worse-student-results",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T21:17:52+00:00",
-     "summary": "California is experiencing an educational paradox, according to Herb Morgan, a candidate for state controller \u2014 the state's chief fiscal officer, accountant and auditor. The Golden State, Morgan said, has spent billions of dollars educating public school students but has failed to boost educational outcomes despite the influx of taxpayer funds. California\u2019s K-12 education funding rose from $97 billion in 2019 to $151 billion for the current budget cycle, said Morgan, who tracks and lists state expenditures through his \"California Radical Transparency\" website, a political and financial oversight initiative designed to track and decode state spending. EXPLOSIVE REPORT FINDS $230M IN ALLEGED K-12 EDUCATION FRAUD AMID TRUMP'S CRACKDOWN: 'ESPECIALLY HIDEOUS' Per-student spending jumped from $16,300 to $27,400 over that same period, said Morgan, an investment professional. \"Why is it if we're spending all this money, why aren't we getting the results? It's because we have a broken accountability feature in state finances,\" Morgan told Fox News Digital. The disconnect between funding and classroom outcomes is not a lack of resources, Morgan said, but a breakdown in financial accountabili"
     }
    ]
   },
@@ -2280,6 +2254,57 @@
      "kind": "news",
      "published": "2026-08-19T23:11:14+00:00",
      "summary": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president."
+    }
+   ]
+  },
+  {
+   "id": "05ec174275",
+   "topic": "Politics",
+   "summary": "With the U.S. six months into the war with Iran, President Donald Trump announced that the U.S. will enact the \"most crushing economic operation ever taken,\" calling it \"an Economic D-Day.\"",
+   "summaryFrom": "abcnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "How much could Trump's 'economic D-Day' hurt Iran?",
+   "updated": "2026-08-20T23:16:45+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 1,
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+     "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T23:16:45+00:00",
+     "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "WATCH:  Trump threatens 'Economic D-Day' against Iran",
+     "url": "https://abcnews.com/video/135800532/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T14:26:37+00:00",
+     "summary": "With the U.S. six months into the war with Iran, President Donald Trump announced that the U.S. will enact the \"most crushing economic operation ever taken,\" calling it \"an Economic D-Day.\""
+    },
+    {
+     "outlet": "nyt",
+     "title": "Trump Threatens Economic Pain for Countries That Help Iran",
+     "url": "https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html",
+     "author": "Chris Cameron",
+     "kind": "news",
+     "published": "2026-08-20T08:45:11+00:00",
+     "summary": "The president did not specify what actions he would take, and he has on other occasions abandoned threats to dramatically escalate the war with Iran."
     }
    ]
   },
@@ -2650,57 +2675,6 @@
    ]
   },
   {
-   "id": "4fa0eebf14",
-   "topic": "Politics",
-   "summary": "The Trump administration sought to lower interest rates with rhetoric and repurchases, as Washington\u2019s debt crossed a significant milestone. US President Donald Trump reiterated criticism of the Federal Reserve , pressing for it to cut rates, while the Treasury said it would increase purchases of long-dated bonds to contain borrowing costs. But banks including Barclays, ING, and Goldman Sachs forecast rates would stay unchanged at least through this year; traders are betting on an 80% likelihood of a hike over the next year . The bond buyback, meanwhile, risked a credibility crisis \u201c absent real fiscal consolidation ,\u201d JP Morgan economists wrote in a note to clients. That call came as US government debt topped the $40 trillion threshold for the first time . \u2014 Prashant Rao",
-   "summaryFrom": "semafor",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
-   "updated": "2026-08-20T20:28:01+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 1,
-    "family": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nbcnews",
-     "title": "'Nothing has gotten better': Focus group shares affordability concerns as US debt tops $40 trillion",
-     "url": "https://www.nbcnews.com/meet-the-press/video/-nothing-has-gotten-better-focus-group-shares-affordability-concerns-as-us-debt-tops-40-trillion-268608069671",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T20:28:01+00:00",
-     "summary": "NBC News' Allie Canal and Sahil Kapur join Meet the Press NOW as the U.S. national debt tops a record-breaking $40 trillion. Ravi Agrawal, editor in chief of Foreign Policy, discusses President Trump's plans for an \"Economic D-Day\" for Iran. An NBC News focus group produced by Syracuse University and the research firms Engagious and Sago finds that affordability remains the top issue for voters ahead of November's midterm elections."
-    },
-    {
-     "outlet": "semafor",
-     "title": "US debt tops $40 trillion threshold",
-     "url": "https://www.semafor.com/article/08/20/2026/us-debt-tops-40-trillion-threshold",
-     "author": "Prashant Rao",
-     "kind": "news",
-     "published": "2026-08-20T13:42:12+00:00",
-     "summary": "The Trump administration sought to lower interest rates with rhetoric and repurchases, as Washington\u2019s debt crossed a significant milestone. US President Donald Trump reiterated criticism of the Federal Reserve , pressing for it to cut rates, while the Treasury said it would increase purchases of long-dated bonds to contain borrowing costs. But banks including Barclays, ING, and Goldman Sachs forecast rates would stay unchanged at least through this year; traders are betting on an 80% likelihood of a hike over the next year . The bond buyback, meanwhile, risked a credibility crisis \u201c absent real fiscal consolidation ,\u201d JP Morgan economists wrote in a note to clients. That call came as US government debt topped the $40 trillion threshold for the first time . \u2014 Prashant Rao"
-    },
-    {
-     "outlet": "npr",
-     "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
-     "url": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
-     "author": "Brittney Melton",
-     "kind": "news",
-     "published": "2026-08-20T11:30:18+00:00",
-     "summary": "The U.S. debt has surpassed $40 trillion. And, a new census report on noncitizen voting that President Trump is touting has ties to a think tank aligned with him, raising concerns among experts. (Image credit: Mandel Ngan)"
-    }
-   ]
-  },
-  {
    "id": "a67771325a",
    "topic": "World",
    "summary": "A general view of the damaged car in which 5-year-old Hind Rajab and members of her family died after Israeli forces fired on the vehicle in the Tel al-Hawa neighborhood of Gaza City, Gaza. \u2014Dawoud Abo Alkas\u2014Anadolu/Getty Images The Israel Defense Forces (IDF) has acknowledged for the first time that its soldiers opened fire on a vehicle carrying 5-year-old Palestinian girl Hind Rajab and six of her relatives in Gaza, and said it would launch a criminal investigation into the incident. The admission, issued Wednesday as part of the IDF\u2019s review of roughly 150 \u201cexceptional\u201d incidents involving its troops during the war in Gaza, reverses the military\u2019s previous denial that its forces were in the area when Rajab and her relatives from the Hamada family were killed in January 2024. In findings published by its General Staff Fact-Finding and Assessment Mechanism (FFAM) , an internal IDF body\u2026",
@@ -2799,128 +2773,6 @@
      "kind": "news",
      "published": "2026-08-20T10:00:59+00:00",
      "summary": "The man accused of stabbing a Virginia mother to death in Fairfax County is an immigrant in the country illegally who was admitted by the Biden administration, a federal source tells Fox News. Alexis Antonio Cedillos-Campos, a 19-year-old Salvadoran national, was caught and released at the southern border during the Biden administration . The source said Cedillos-Campos was allowed into the U.S. at El Paso, Texas, in April 2024. \"[Former President Joe] Biden and [former Department of Homeland Security (DHS) Secretary Alejandro] Mayorkas hand-delivered alleged killer Cedillos-Campos to the streets of Fairfax County. They recklessly unleashed millions of unvetted illegal aliens into American communities and abused the law to do so,\" DHS said in a statement to Fox News. \"President [Donald] Trump and [DHS] Secretary Markwayne Mullin are now enforcing the law, arresting illegal aliens who have no right to be in our country \u2014 and have reversed Biden's deadly catch and release policy.\" Fairfax County Police arrested Cedillos-Campos Wednesday in connection with Monday's stabbing death of 42-year-old Carmen Lizet Puch. He is being held in the Prince George's County jail pending extradition "
-    }
-   ]
-  },
-  {
-   "id": "086e4c8df5",
-   "topic": "World",
-   "summary": "Hollie Adams / REUTERS Follow Tom Sykes\u2019 royal reporting at The Royalist on Substack, and get exclusive insight on everything going down behind the palace gates. One constituency of professionals is tracking Harry and Meghan\u2019s blockbuster return to the United Kingdom differently from the rest of us: the accountants. Experts in the field believe the timeline of their departure and return is\u2014from a U.K. tax perspective\u2014perfect, if the goal was to minimize tax liabilities. As Nimesh Shah, chief executive of the London tax and advisory firm Blick Rothenberg, wrote on X : \u201cGood to see Harry and Meghan achieve six full tax years of non-UK residency to manage the \u2018temporary non-resident\u2019 rules for capital gains tax... the timing of their move back to the U.K. is immaculate.\u201d The U.K. has a \u201ctemporary non-residence\u201d rule\u2014if you leave the country and come back within five years, you never really\u2026",
-   "summaryFrom": "dailybeast",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [
-     "rest",
-     "kingdom"
-    ],
-    "indie": [
-     "surprise",
-     "wife"
-    ]
-   },
-   "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Prince Harry and Meghan to move back to Britain",
-   "updated": "2026-08-20T18:38:23+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 1,
-    "family": 1,
-    "pub": 2
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dailybeast",
-     "title": "There Could Be Big Money Behind Harry and Meghan\u2019s Return to Great Britain",
-     "url": "https://www.thedailybeast.com/there-could-be-big-money-behind-harry-and-meghans-return-to-great-britain/",
-     "author": "Tom Sykes",
-     "kind": "news",
-     "published": "2026-08-20T18:38:23+00:00",
-     "summary": "Hollie Adams / REUTERS Follow Tom Sykes\u2019 royal reporting at The Royalist on Substack, and get exclusive insight on everything going down behind the palace gates. One constituency of professionals is tracking Harry and Meghan\u2019s blockbuster return to the United Kingdom differently from the rest of us: the accountants. Experts in the field believe the timeline of their departure and return is\u2014from a U.K. tax perspective\u2014perfect, if the goal was to minimize tax liabilities. As Nimesh Shah, chief executive of the London tax and advisory firm Blick Rothenberg, wrote on X : \u201cGood to see Harry and Meghan achieve six full tax years of non-UK residency to manage the \u2018temporary non-resident\u2019 rules for capital gains tax... the timing of their move back to the U.K. is immaculate.\u201d The U.K. has a \u201ctemporary non-residence\u201d rule\u2014if you leave the country and come back within five years, you never really left for tax purposes as far as \u201ccapital gains\u201d are concerned. But if you stay out for over five years (which in practice means six complete tax years) you\u2019re golden. Now look at the Sussex calendar: Having left just before the 2020 U.K. tax year wrapped up, they\u2019ve now been non-resident for\u2014surpris"
-    },
-    {
-     "outlet": "time",
-     "title": "Andy Burnham Weighs In As Prince Harry and Meghan Set For Return to U.K.",
-     "url": "https://time.com/article/2026/08/20/burnham-prince-harry-and-meghan-set-for-return-security/",
-     "author": "Callum Sutherland",
-     "kind": "news",
-     "published": "2026-08-20T16:09:00+00:00",
-     "summary": "Harry and Meghan , the Duke and Duchess of Sussex, are expected to move back to the United Kingdom later this year, after six years of living in the U.S. during a period of estrangement from the rest of the Royal family. The couple are set to move with their children, Prince Archie , 7, and Princess Lilibet , 5, to a non-royal residence that is said to be outside of London, with both children enrolled to start at a British school in September. The news was first reported by the Daily Telegraph on Wednesday, with multiple outlets since reporting similar details. The move follows years of Prince Harry arguing that the security arrangements provided for his family in the U.K. were insufficient. In May 2025, Prince Harry lost an appeal after the British government downgraded his security arrangements following his decision, along with Meghan, to step back from Royal duties in 2020. Asked on Thursday about the move and if the British government would pay for the family\u2019s security, Prime Minister Andy Burnham said the issue was \u201ca private matter\u201d and that he \u201cwishes them well in the move that they are making.\u201d King Charles III was reportedly informed of the couple\u2019s move on Sunday, and i"
-    },
-    {
-     "outlet": "france24",
-     "title": "Prince Harry and Meghan to move back to Britain",
-     "url": "https://www.france24.com/en/video/20260820-prince-harry-and-meghan-to-move-back-to-britain",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-20T13:27:02+00:00",
-     "summary": "Prince Harry and his wife Meghan plan to move back to Britain this month, six years after they stepped down from \u200btheir royal duties and relocated to the US, a source close to the couple said. The surprise move comes after the couple spent recent years repeatedly criticising the royal family and lambasting the British press, saying the tabloids had made their lives hell and they wanted to carve out independent roles for themselves."
-    },
-    {
-     "outlet": "france24",
-     "title": "Huge questions loom over Prince Harry and Meghan's shock return to UK",
-     "url": "https://www.france24.com/en/video/20260820-huge-questions-loom-over-prince-harry-and-meghan-s-shock-return-to-uk",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-20T13:24:23+00:00",
-     "summary": "Dozens of questions swirled Thursday as Prince Harry prepares to move back to the UK with his wife and children, six years after his departure sparked a bitter rift with the royal family. In a surprise move, Harry and Meghan \"plan to leave the United States by the end of the month to settle in a private, non-royal residence, which is said to be located outside London\", The Daily Telegraph reported late on Wednesday. FRANCE 24's Delano D'Souza tells us more."
-    }
-   ]
-  },
-  {
-   "id": "728a91e348",
-   "topic": "Other",
-   "summary": "Seven-time major winner has not played since April Spaniard missed French Open and Wimbledon US Open announces record $108m prize fund Carlos Alcaraz has won his battle to be fit for the US Open. The seven-time grand slam champion has not played on the ATP Tour since April due to an ongoing wrist issue, but enlisted the help of football transfer journalist Fabrizio Romano to announce his comeback. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "\u2018Here we go\u2019: Carlos Alcaraz confirms US Open return after four-month injury absence",
-   "updated": "2026-08-20T18:29:38+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 1,
-    "family": 1,
-    "pub": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "\u2018Here we go\u2019: Carlos Alcaraz confirms US Open return after four-month injury absence",
-     "url": "https://www.theguardian.com/sport/2026/aug/20/carlos-alcaraz-us-open-return-wrist-injury",
-     "author": "PA Sport",
-     "kind": "news",
-     "published": "2026-08-20T18:29:38+00:00",
-     "summary": "Seven-time major winner has not played since April Spaniard missed French Open and Wimbledon US Open announces record $108m prize fund Carlos Alcaraz has won his battle to be fit for the US Open. The seven-time grand slam champion has not played on the ATP Tour since April due to an ongoing wrist issue, but enlisted the help of football transfer journalist Fabrizio Romano to announce his comeback. Continue reading..."
-    },
-    {
-     "outlet": "forbes",
-     "title": "Defending Champion Carlos Alcaraz Confirms Return To 2026 U.S. Open After Wrist Injury",
-     "url": "https://www.forbes.com/sites/adamzagoria/2026/08/20/defending-champion-carlos-alcaraz-confirms-return-to-2026-us-open-after-wrist-injury/",
-     "author": "Adam Zagoria, Contributor",
-     "kind": "news",
-     "published": "2026-08-20T18:07:36+00:00",
-     "summary": "Alcaraz is the defending U.S. Open champion after beating Jannik Sinner in four sets in last year\u2019s final in front of Donald Trump."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Alcaraz to play US Open after four months out",
-     "url": "https://www.bbc.co.uk/sport/tennis/articles/cwyq490lje0o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T17:39:09+00:00",
-     "summary": "Defending champion Carlos Alcaraz is set to make his return at the US Open after missing four months with a wrist injury."
     }
    ]
   },
@@ -3078,22 +2930,148 @@
    ]
   },
   {
-   "id": "e783904149",
-   "topic": "Culture & Sport",
-   "summary": "Christopher Nolan\u2019s epic adaptation of Homer\u2019s \"The Odyssey\" has surpassed \"Deadpool &amp; Wolverine\" to become the highest-grossing R-rated film of all time worldwide.",
-   "summaryFrom": "forbes",
+   "id": "93ed6a47a9",
+   "topic": "Climate & Energy",
+   "summary": "A line of potentially dangerous storms slammed the Mid-Atlantic on Thursday after downpours earlier in Ohio triggered dozens of flash floods. Lonnie Quinn tracks it all.",
+   "summaryFrom": "cbsnews",
    "emphasis": null,
    "absent": [
-    "corp",
     "coop",
     "nonprofit",
     "pub"
    ],
-   "headline": "Chinese animated film mocked as \u2018terrible\u2019 becomes box-office hit",
-   "updated": "2026-08-21T07:57:35+00:00",
+   "headline": "Rare Tornadoes Hit New York City as Storm Drenches Mid-Atlantic",
+   "updated": "2026-08-21T08:47:11+00:00",
    "outletCount": 2,
    "counts": {
-    "family": 2
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "Rare Tornadoes Hit New York City as Storm Drenches Mid-Atlantic",
+     "url": "https://www.nytimes.com/2026/08/21/nyregion/tornado-storm-long-island-delaware.html",
+     "author": "John Yoon, Ishani Desai, Amy Graff and Hilary Howard",
+     "kind": "news",
+     "published": "2026-08-21T08:47:11+00:00",
+     "summary": "Tornadoes appeared in Queens and on Long Island as flooding disrupted traffic on some major highways. A tornado was also confirmed in Delaware."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Fierce rain swamps Ohio, Kansas, Nebraska, storms hit Mid-Atlantic",
+     "url": "https://www.cbsnews.com/video/fierce-rain-swamps-ohio-kansas-nebraska-storms-hit-mid-atlantic/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T23:26:25+00:00",
+     "summary": "A line of potentially dangerous storms slammed the Mid-Atlantic on Thursday after downpours earlier in Ohio triggered dozens of flash floods. Lonnie Quinn tracks it all."
+    }
+   ]
+  },
+  {
+   "id": "090cc38281",
+   "topic": "Other",
+   "summary": "Trump threatens economic pressure campaign against Iran, SCOTUS to weigh in on whether Trump's ballroom project, investors dump stocks and bonds despite government's efforts to calm market.",
+   "summaryFrom": "npr",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "Morning news brief",
+   "updated": "2026-08-21T08:46:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "npr",
+     "title": "Morning news brief",
+     "url": "https://www.npr.org/2026/08/21/nx-s1-5931262/morning-news-brief",
+     "author": "Leila Fadel",
+     "kind": "news",
+     "published": "2026-08-21T08:46:00+00:00",
+     "summary": "Trump threatens economic pressure campaign against Iran, SCOTUS to weigh in on whether Trump's ballroom project, investors dump stocks and bonds despite government's efforts to calm market."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "8/20: CBS Evening News",
+     "url": "https://www.cbsnews.com/video/082026-cbs-evening-news/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T22:30:00+00:00",
+     "summary": "Woman arrested in alleged plot to blow up New York State Capitol; fierce rain swamps Ohio, Kansas and Nebraska as storms hit Mid-Atlantic."
+    }
+   ]
+  },
+  {
+   "id": "e109e85928",
+   "topic": "World",
+   "summary": "Unprecedented downpours cause deaths, evacuations and transport chaos. Plus, Hurricane Lala batters Hawaii South Korea and Japan were hit by extreme rainfall late last week and into this week. On 13 August in the city of Chiba near Tokyo there was a record-breaking 115mm of rainfall in just one hour, while the nearby city of Sakura broke its own record with 97mm in one hour. A level five emergency warning for heavy rain was issued by local authorities \u2013 the highest alert level and the first time one has been issued since the system was implemented in May. More than 100,000 households were asked to evacuate, with more than 20,000 in the Chiba prefecture left without power, while thousands of people were stranded at Tokyo\u2019s Narita airport. Thirteen people have been confirmed dead, at least three of whom were found trapped inside their vehicles, with one person still missing. Continue\u2026",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Weather tracker: Extreme rainfall deluges Japan and South Korea",
+   "updated": "2026-08-21T08:19:21+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Weather tracker: Extreme rainfall deluges Japan and South Korea",
+     "url": "https://www.theguardian.com/environment/2026/aug/21/weather-tracker-extreme-rainfall-japan-south-korea",
+     "author": "Morgan Thomas for MetDesk",
+     "kind": "news",
+     "published": "2026-08-21T08:19:21+00:00",
+     "summary": "Unprecedented downpours cause deaths, evacuations and transport chaos. Plus, Hurricane Lala batters Hawaii South Korea and Japan were hit by extreme rainfall late last week and into this week. On 13 August in the city of Chiba near Tokyo there was a record-breaking 115mm of rainfall in just one hour, while the nearby city of Sakura broke its own record with 97mm in one hour. A level five emergency warning for heavy rain was issued by local authorities \u2013 the highest alert level and the first time one has been issued since the system was implemented in May. More than 100,000 households were asked to evacuate, with more than 20,000 in the Chiba prefecture left without power, while thousands of people were stranded at Tokyo\u2019s Narita airport. Thirteen people have been confirmed dead, at least three of whom were found trapped inside their vehicles, with one person still missing. Continue reading..."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "US, Japan, South Korea Urge North Korea to Halt \u2018Provocations\u2019",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-20/korea-s-lee-hails-trump-s-determination-for-peninsula-peace",
+     "author": "Soo-Hyang Choi and Sarah Hilton",
+     "kind": "news",
+     "published": "2026-08-20T00:30:04+00:00",
+     "summary": "The US, Japan and South Korea held a three-way call to coordinate their response to North Korea\u2019s barrage of short-range ballistic missiles, after Pyongyang dismissed President Donald Trump\u2019s overtures to revive dialogue with leader Kim Jong Un."
+    }
+   ]
+  },
+  {
+   "id": "5f033f4f8c",
+   "topic": "World",
+   "summary": "Sunao Takami set fire to the crowded pachinko parlor in Osaka by spreading gasoline and throwing a lit match.",
+   "summaryFrom": "nypost",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Japan executes man who killed five in Pachinko parlour fire",
+   "updated": "2026-08-21T08:18:33+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "pub": 1
    },
    "newsCount": 2,
    "opinionCount": 0,
@@ -3101,21 +3079,63 @@
    "articles": [
     {
      "outlet": "nypost",
-     "title": "Chinese animated film mocked as \u2018terrible\u2019 becomes box-office hit",
-     "url": "https://nypost.com/2026/08/21/world-news/chinese-animated-film-niu-lai-mocked-as-terrible-becomes-a-box-office-hit/",
+     "title": "Japan executes man convicted of setting fire that killed 5 at pachinko parlor in Osaka",
+     "url": "https://nypost.com/2026/08/21/world-news/japan-executes-sunao-takami-man-convicted-of-setting-fire-that-killed-5-at-a-pachinko-parlor-in-osaka/",
      "author": "Associated Press",
      "kind": "news",
-     "published": "2026-08-21T07:57:35+00:00",
-     "summary": "The \"ugly\" Chinese animated film \"Niu Lai\" has become a surprise box-office hit, raking in $2.5 million after viral online mockery."
+     "published": "2026-08-21T08:18:33+00:00",
+     "summary": "Sunao Takami set fire to the crowded pachinko parlor in Osaka by spreading gasoline and throwing a lit match."
     },
     {
-     "outlet": "forbes",
-     "title": "\u2018The Odyssey\u2019 Sets Box Office Record For Highest-Grossing R-Rated Film",
-     "url": "https://www.forbes.com/sites/timlammers/2026/08/20/the-odyssey-sets-box-office-record-for-highest-grossing-r-rated-film/",
-     "author": "Tim Lammers, Contributor",
+     "outlet": "bbc",
+     "title": "Japan executes man who killed five in Pachinko parlour fire",
+     "url": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-20T18:13:45+00:00",
-     "summary": "Christopher Nolan\u2019s epic adaptation of Homer\u2019s \"The Odyssey\" has surpassed \"Deadpool &amp; Wolverine\" to become the highest-grossing R-rated film of all time worldwide."
+     "published": "2026-08-21T02:49:27+00:00",
+     "summary": "This is the first time since June 2025 that the country has enacted capital punishment."
+    }
+   ]
+  },
+  {
+   "id": "89cba66c1a",
+   "topic": "World",
+   "summary": "A 6.7-magnitude earthquake struck southern Peru on Thursday, injuring three people and damaging at least 22 homes, six schools and 12 medical centres, according to preliminary assessments. The quake was also felt in Lima and several other parts of the country.",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Strong 6.7-magnitude earthquake strikes southern Peru, damaging homes and schools",
+   "updated": "2026-08-21T08:08:21+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "france24",
+     "title": "Strong 6.7-magnitude earthquake strikes southern Peru, damaging homes and schools",
+     "url": "https://www.france24.com/en/americas/20260821-strong-6-7-magnitude-earthquake-strikes-southern-peru-damaging-homes-and-schools",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-21T08:08:21+00:00",
+     "summary": "A 6.7-magnitude earthquake struck southern Peru on Thursday, injuring three people and damaging at least 22 homes, six schools and 12 medical centres, according to preliminary assessments. The quake was also felt in Lima and several other parts of the country."
+    },
+    {
+     "outlet": "dw",
+     "title": "Peru: Strong earthquake shakes southern Andes",
+     "url": "https://www.dw.com/en/peru-strong-earthquake-shakes-southern-andes/a-78450656?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T18:43:00+00:00",
+     "summary": "The quake has a magnitude of 6.7 according to the US Geological Survey, while Peru's Geophysical Institute put the figure even higher. There are no immediate reports of casualties."
     }
    ]
   },
@@ -3204,48 +3224,6 @@
    ]
   },
   {
-   "id": "ba53169135",
-   "topic": "Politics",
-   "summary": "The US gross national debt has surged past $40 trillion for the first time, government data showed Wednesday, outstripping earlier forecasts at a pace fuelled in part by President Donald Trump's invalidated tariffs. The uptick in borrowing is a blow to Trump, who promised to cut public spending during his 2024 presidential campaign, and sparked a backlash from US representatives across the political field.",
-   "summaryFrom": "france24",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "US national debt tops $40 trillion for first time, dealing blow to Trump",
-   "updated": "2026-08-21T06:35:47+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "forbes",
-     "title": "Bitcoin Tops $75,000 For The First Time Since May As Crypto Surge Continues",
-     "url": "https://www.forbes.com/sites/siladityaray/2026/08/21/bitcoin-tops-75000-for-the-first-time-since-may-as-crypto-surge-continues/",
-     "author": "Siladitya Ray, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-21T06:35:47+00:00",
-     "summary": "The crypto surge comes after President Trump called for the passage of the long-stalled CLARITY Act and the Treasury intervened in the bond market\u2014boosting appetite for risky bets."
-    },
-    {
-     "outlet": "france24",
-     "title": "US national debt tops $40 trillion for first time, dealing blow to Trump",
-     "url": "https://www.france24.com/en/video/20260820-us-national-debt-tops-40-trillion-for-first-time-dealing-blow-to-trump",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-20T13:28:47+00:00",
-     "summary": "The US gross national debt has surged past $40 trillion for the first time, government data showed Wednesday, outstripping earlier forecasts at a pace fuelled in part by President Donald Trump's invalidated tariffs. The uptick in borrowing is a blow to Trump, who promised to cut public spending during his 2024 presidential campaign, and sparked a backlash from US representatives across the political field."
-    }
-   ]
-  },
-  {
    "id": "a32f45a9e8",
    "topic": "Other",
    "summary": "The new prince now has equal inheritance rights to Laurent's private estate alongside his three half-siblings.",
@@ -3284,48 +3262,6 @@
      "kind": "news",
      "published": "2026-08-20T10:14:47+00:00",
      "summary": "Cl\u00e9ment Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony."
-    }
-   ]
-  },
-  {
-   "id": "3ab9d1817c",
-   "topic": "World",
-   "summary": "Report says violence is moving from Israeli-controlled areas to those earmarked for a future Palestinian state Violent Israeli settler attacks in the two areas of the occupied West Bank under direct Palestinian rule have almost doubled since 2025, as settlers pursue a self-proclaimed \u201cgreat settlement revolution\u201d in the very heart of the territory earmarked for a Palestinian state. According to a report by the Israeli human rights organisation Yesh Din , shared with the Guardian, data shows that almost two-thirds of incidents of settler violence so far in 2026 have taken place in the so-called Areas A and B \u2013 placed under Palestinian Authority governance in the 1995 Oslo accords. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
-   "updated": "2026-08-21T06:00:26+00:00",
-   "outletCount": 2,
-   "counts": {
-    "nonprofit": 1,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
-     "url": "https://www.theguardian.com/world/2026/aug/21/israeli-settler-attacks-shift-to-heart-of-territory-earmarked-for-palestinian-state",
-     "author": "Peter Beaumont and Quique Kierszenbaum in Jerusalem",
-     "kind": "news",
-     "published": "2026-08-21T06:00:26+00:00",
-     "summary": "Report says violence is moving from Israeli-controlled areas to those earmarked for a future Palestinian state Violent Israeli settler attacks in the two areas of the occupied West Bank under direct Palestinian rule have almost doubled since 2025, as settlers pursue a self-proclaimed \u201cgreat settlement revolution\u201d in the very heart of the territory earmarked for a Palestinian state. According to a report by the Israeli human rights organisation Yesh Din , shared with the Guardian, data shows that almost two-thirds of incidents of settler violence so far in 2026 have taken place in the so-called Areas A and B \u2013 placed under Palestinian Authority governance in the 1995 Oslo accords. Continue reading..."
-    },
-    {
-     "outlet": "france24",
-     "title": "France, Germany, UK and Italy slam Israel's 'E1' West Bank settler project",
-     "url": "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-20T18:52:15+00:00",
-     "summary": "Paris, Berlin, London and Rome on Thursday condemned Israel's decision to open bidding for a planned settlement project in the occupied West Bank. The sprawling \"E1\" development, which like all Israeli settlements in the occupied Palestinian territory is illegal under international law, would further cut Palestinian-majority east Jerusalem off from the West Bank."
     }
    ]
   },
@@ -3498,48 +3434,6 @@
    ]
   },
   {
-   "id": "dd89863c39",
-   "topic": "World",
-   "summary": "Israel sharply criticized the UK after London voiced opposition to the Jewish state\u2019s support for settlements in the occupied West Bank, the latest in a series of rows with once strong Western allies. The UK\u2019s top diplomat called Israeli settlement expansion plans \u201c unacceptable and destructive ,\u201d adding to a barrage of criticism this week: London alongside Berlin, Paris, and Rome issued a joint statement condemning the settlements , while Germany and France labeled as \u201c inhumane \u201d remarks by an Israeli minister who called for killing \u201c30 to 40\u201d Gazans daily. Meanwhile, Australia acknowledged \u201c difficult \u201d relations with Israel over its decision not to probe an aid worker\u2019s killing. Even the US\u2019 staunchly pro-Israel envoy defended his earlier description of West Bank settlers as \u201cterrorists.\u201d \u2014 Tasneem Nashrulla",
-   "summaryFrom": "semafor",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-   "updated": "2026-08-21T05:00:57+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-     "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T05:00:57+00:00",
-     "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful."
-    },
-    {
-     "outlet": "semafor",
-     "title": "Israel clashes with allies over West Bank settlement project",
-     "url": "https://www.semafor.com/article/08/20/2026/israel-clashes-with-allies-over-west-bank-settlements",
-     "author": "Tasneem Nashrulla",
-     "kind": "news",
-     "published": "2026-08-20T22:18:32+00:00",
-     "summary": "Israel sharply criticized the UK after London voiced opposition to the Jewish state\u2019s support for settlements in the occupied West Bank, the latest in a series of rows with once strong Western allies. The UK\u2019s top diplomat called Israeli settlement expansion plans \u201c unacceptable and destructive ,\u201d adding to a barrage of criticism this week: London alongside Berlin, Paris, and Rome issued a joint statement condemning the settlements , while Germany and France labeled as \u201c inhumane \u201d remarks by an Israeli minister who called for killing \u201c30 to 40\u201d Gazans daily. Meanwhile, Australia acknowledged \u201c difficult \u201d relations with Israel over its decision not to probe an aid worker\u2019s killing. Even the US\u2019 staunchly pro-Israel envoy defended his earlier description of West Bank settlers as \u201cterrorists.\u201d \u2014 Tasneem Nashrulla"
-    }
-   ]
-  },
-  {
    "id": "a7585e1ba3",
    "topic": "World",
    "summary": "Pacific fleet launched missile drills near what Moscow calls the Kuril Islands but Japan regards as its Northern Territories Japan has criticised missile tests carried out by Russia\u2019s navy around the disputed islands visited by Vladimir Putin last week amid continuing tensions between the two countries. Russia\u2019s Pacific fleet said on Thursday that it had fired Bastion surface-to-ship missiles from Etorofu, the largest island in the disputed archipelago, simulating an attack on enemy vessels, hitting all of its targets approximately 300km away. Continue reading...",
@@ -3620,48 +3514,6 @@
      "kind": "opinion",
      "published": "2026-08-20T12:23:35+00:00",
      "summary": "Dressed in pink, and in some cases holding infants, supporters of Lindsay Clancy showed up outside the Massachusetts courtroom where she\u2019s standing trial for strangling her three children to death. Hundreds of women crowded outside the Plymouth Superior Court as the sun rose Thursday morning for a silent vigil. They clasped hands and stood in a circle for a moment of silence to honor Clancy. The killer has received a flood of support online from mothers who insist they relate to her mental health struggles. Hashtags such as \u201cWe Are All Lindsay Clancy\u201d have been trending on social media throughout the trial as scores of women voiced their support. \u201cWe stand in silence, united hand in hand, wearing pink, to show Lindsay Clancy the peaceful support she deserved,\u201d a website promoting the vigil says. Other flyers listed on the site promoted rallies in New York City, Phoenix, Fort Worth, and other cities around the country. Clancy\u2019s defense attorney was interviewed Thursday morning and said he thought the support of the gathered crowd was \u201c amazing \u201d for his client. This case has national attention as arguments rage over who is to blame for the death of three innocent children, aged 5, 3"
-    }
-   ]
-  },
-  {
-   "id": "a7630dbee3",
-   "topic": "Culture & Sport",
-   "summary": "And now a reminder that Fernando Mendoza is going to have some difficult moments as a rookie, even though he was the NFL's first overall draft pick and is the hope for a bright future for the Las Vegas Raiders. On his second pass of the preseason game against the Houston Texans on Thursday night, Mendoza threw an interception. And not just any interception, because Texans linebacker Wade Woodaz plucked the ball out of the air and returned it 80 yards for a touchdown. RAIDERS ROOKIE FERNANDO MENDOZA THANKS GOD FOR NFL DEBUT THAT COMPARES FAVORABLY WITH 'MR. BRADY' No bueno, as they say in Miami, where Mendoza was born and grew up. Mendoza, clearly downcast, was seen red-faced on the Raiders sideline after the play even as some teammates tried to console him. Veteran Maxx Crosby , perhaps the Raiders' most accomplished player, was among the first to try to console young Mendoza. \"Yeah,\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Fernando Mendoza\u2019s first NFL start was a painful but necessary part of the process",
-   "updated": "2026-08-21T03:46:50+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Fernando Mendoza\u2019s first NFL start was a painful but necessary part of the process",
-     "url": "https://nypost.com/2026/08/20/sports/fernando-mendoza-learned-many-lessons-from-first-nfl-start-and-thats-part-of-raiders-plan/",
-     "author": "Vincent Bonsignore",
-     "kind": "news",
-     "published": "2026-08-21T03:46:50+00:00",
-     "summary": "Fernando Mendoza\u2019s welcome-to-the-NFL moment was bound to happen."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Fernando Mendoza throws pick-six in second NFL game as Raiders rookie faces growing pains",
-     "url": "https://www.foxnews.com/outkick-sports/fernando-mendoza-throws-pick-six-second-nfl-game-raiders-rookie-faces-growing-pains",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T02:28:15+00:00",
-     "summary": "And now a reminder that Fernando Mendoza is going to have some difficult moments as a rookie, even though he was the NFL's first overall draft pick and is the hope for a bright future for the Las Vegas Raiders. On his second pass of the preseason game against the Houston Texans on Thursday night, Mendoza threw an interception. And not just any interception, because Texans linebacker Wade Woodaz plucked the ball out of the air and returned it 80 yards for a touchdown. RAIDERS ROOKIE FERNANDO MENDOZA THANKS GOD FOR NFL DEBUT THAT COMPARES FAVORABLY WITH 'MR. BRADY' No bueno, as they say in Miami, where Mendoza was born and grew up. Mendoza, clearly downcast, was seen red-faced on the Raiders sideline after the play even as some teammates tried to console him. Veteran Maxx Crosby , perhaps the Raiders' most accomplished player, was among the first to try to console young Mendoza. \"Yeah, that's football, you know? It's not gonna be perfect, you know?\" Crosby told ESPN's Laura Rutledge on the sideline. \"He's a rookie. You got to go through, you know, some ups and downs as part of the game, and it's how you respond. \"So that's basically what I just told him, keep being yourself, keep pla"
     }
    ]
   },
@@ -3750,48 +3602,6 @@
    ]
   },
   {
-   "id": "6f2d718cd3",
-   "topic": "Climate & Energy",
-   "summary": "It came amid a wave of severe weather that slammed parts of the Interstate 95 corridor Thursday evening, with thunderstorms and dangerous flash flooding",
-   "summaryFrom": "abcnews",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Storms soak Northeast as possible tornadoes reported in New York, Delaware",
-   "updated": "2026-08-21T03:15:38+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Storms soak Northeast as possible tornadoes reported in New York, Delaware",
-     "url": "https://www.cbsnews.com/news/storms-tornadoes-northeast-flooding-delaware-new-york-damage/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T03:15:38+00:00",
-     "summary": "Heavy rain and winds were pounding the Northeast U.S. as storms tore through a beach on Long Island and knocked out power in Delaware's capital city."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "'Significant damage' after possible tornado in Del. as severe storms roil Northeast",
-     "url": "https://abcnews.com/US/severe-storm-flood-threat-heads-interstate-95-corridor/story?id=135804257",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T02:50:54+00:00",
-     "summary": "It came amid a wave of severe weather that slammed parts of the Interstate 95 corridor Thursday evening, with thunderstorms and dangerous flash flooding"
-    }
-   ]
-  },
-  {
    "id": "bf446c3a1c",
    "topic": "Other",
    "summary": "Talk about a load-bearing hyphen. After a half-season of half-threatened retirement and full-frenzy speculation, the status quo simply continues: As the Formula 1 summer break comes to a close, Red Bull Racing and Max Verstappen announced before Verstappen's home race that he has re-signed\u2014not resigned!\u2014with the team for four more years, extending his contract through 2030. This is the least interesting outcome of F1's purported silly season, though it is still somehow notable thanks to the culture of clear communication (read: complaining) in the sport. Verstappen has not been quiet about his displeasure with this year's regulations ; that his team had significant early-season struggles obviously factored into his annoyance. Thus, the speculation began. Perhaps Verstappen would go to another team. Perhaps Verstappen would simply and most dramatically express his displeasure by retiring\u2026",
@@ -3830,6 +3640,132 @@
      "kind": "news",
      "published": "2026-08-20T17:22:06+00:00",
      "summary": "Talk about a load-bearing hyphen. After a half-season of half-threatened retirement and full-frenzy speculation, the status quo simply continues: As the Formula 1 summer break comes to a close, Red Bull Racing and Max Verstappen announced before Verstappen's home race that he has re-signed\u2014not resigned!\u2014with the team for four more years, extending his contract through 2030. This is the least interesting outcome of F1's purported silly season, though it is still somehow notable thanks to the culture of clear communication (read: complaining) in the sport. Verstappen has not been quiet about his displeasure with this year's regulations ; that his team had significant early-season struggles obviously factored into his annoyance. Thus, the speculation began. Perhaps Verstappen would go to another team. Perhaps Verstappen would simply and most dramatically express his displeasure by retiring from the formula entirely. The leap from regulation displeasure to a full retirement was, in no small part, a self-fueled rumor. Retiring at age 28 would be shocking for any F1 driver, much less an all-time great, though Verstappen has been vocal from the start of his career that he would leave the "
+    }
+   ]
+  },
+  {
+   "id": "c6ef4c65f2",
+   "topic": "Politics",
+   "summary": "Y ou are reading this story only because the White House didn\u2019t want you to. I\u2019ll explain. This past Sunday, Georgia Senator Jon Ossoff \u2014who has become quite good at delivering viral campaign sound bites, slickly filmed by multiple cameras\u2014unleashed a blistering indictment of President Trump\u2019s leadership. Ossoff, a former documentary filmmaker who is generating 2028 buzz, denounced Trump\u2019s handling of the Iran war this way: \u201cWhile he fruitlessly drains our munitions and oil reserves, the president sleeps through his meetings. He golfs and trades stocks. See, he doesn\u2019t want to do the job. He wants to build his ballroom and travel with Natalie on their apparently defenseless flying palace gifted by the emir of Qatar.\u201d It was a pithy and well-structured attack, but not so different from the broadsides delivered daily by Democrats on the campaign trail or on MS NOW. But one new word stood\u2026",
+   "summaryFrom": "theatlantic",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Natalie Harp Makes Dramatic Move as Melania Returns",
+   "updated": "2026-08-21T02:47:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "Natalie Harp Makes Dramatic Move as Melania Returns",
+     "url": "https://www.thedailybeast.com/natalie-harp-makes-dramatic-move-as-melania-returns/",
+     "author": "Erkki Forster",
+     "kind": "news",
+     "published": "2026-08-21T02:47:00+00:00",
+     "summary": "REUTERS Donald Trump\u2019s ever-present aide Natalie Harp appeared to abandon her usual post by the president\u2019s side as Melania Trump made a rare White House appearance. The 56-year-old first lady resurfaced publicly for the first time in more than a month on Thursday, emerging from the White House holding hands with her 80-year-old husband before speaking about the expansion of her Fostering the Future Initiative in the Rose Garden. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "theatlantic",
+     "title": "The White House Freak-Out Over Natalie Harp",
+     "url": "https://www.theatlantic.com/politics/2026/08/ossoff-trump-natalie-harp/688365/?utm_source=feed",
+     "author": "Jonathan Lemire",
+     "kind": "news",
+     "published": "2026-08-21T00:05:00+00:00",
+     "summary": "Y ou are reading this story only because the White House didn\u2019t want you to. I\u2019ll explain. This past Sunday, Georgia Senator Jon Ossoff \u2014who has become quite good at delivering viral campaign sound bites, slickly filmed by multiple cameras\u2014unleashed a blistering indictment of President Trump\u2019s leadership. Ossoff, a former documentary filmmaker who is generating 2028 buzz, denounced Trump\u2019s handling of the Iran war this way: \u201cWhile he fruitlessly drains our munitions and oil reserves, the president sleeps through his meetings. He golfs and trades stocks. See, he doesn\u2019t want to do the job. He wants to build his ballroom and travel with Natalie on their apparently defenseless flying palace gifted by the emir of Qatar.\u201d It was a pithy and well-structured attack, but not so different from the broadsides delivered daily by Democrats on the campaign trail or on MS NOW. But one new word stood out: Natalie . The line got a knowing laugh from a handful of observers in the room, and it electrified a subset of political obsessives on social media, who took to their favorite platforms and group chats with some version of \u201cOh, he went there!\u201d or \u201cI can\u2019t believe he did that!\u201d But although Ossof"
+    }
+   ]
+  },
+  {
+   "id": "b23d723adb",
+   "topic": "Politics",
+   "summary": "Universal History Archive / Universal History Archive/Univer An aircraft carrier meant to be named after a Black sailor credited with rescuing shipmates during the attack on Pearl Harbor is inexplicably being renamed\u2014potentially after Donald Trump. Two unnamed sources cited by CNN late Thursday said there have been internal discussions about renaming the vessel to honor the 80-year-old president. The carrier was touted as a tribute to Doris \u201cDorie\u201d Miller back in Donald Trump\u2019s first term in the White House, and former Acting Secretary of the Navy Thomas Modly announced during a Martin Luther King, Jr. Day ceremony in January 2020 that it would be named the USS Doris Miller . Read more at The Daily Beast.",
+   "summaryFrom": "dailybeast",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Navy discusses renaming aircraft carrier after Trump instead of heroic Black sailor",
+   "updated": "2026-08-21T02:41:10+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nbcnews",
+     "title": "Navy discusses renaming aircraft carrier after Trump instead of heroic Black sailor",
+     "url": "https://www.nbcnews.com/politics/trump-administration/navy-discusses-renaming-aircraft-carrier-trump-black-uss-doris-miller-rcna593667",
+     "author": "Mosheh Gains",
+     "kind": "news",
+     "published": "2026-08-21T02:41:10+00:00",
+     "summary": "The USS Doris Miller would be the first aircraft carrier named after a Black and an enlisted sailor. The decision to name the carrier after Miller was made during Trump\u2019s first term."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Trump Plots Seizing Black Navy Hero\u2019s Honor for Himself",
+     "url": "https://www.thedailybeast.com/trump-plots-to-steal-navys-ultimate-honor-from-black-sailor/",
+     "author": "Vic Verbalaitis",
+     "kind": "news",
+     "published": "2026-08-20T21:42:24+00:00",
+     "summary": "Universal History Archive / Universal History Archive/Univer An aircraft carrier meant to be named after a Black sailor credited with rescuing shipmates during the attack on Pearl Harbor is inexplicably being renamed\u2014potentially after Donald Trump. Two unnamed sources cited by CNN late Thursday said there have been internal discussions about renaming the vessel to honor the 80-year-old president. The carrier was touted as a tribute to Doris \u201cDorie\u201d Miller back in Donald Trump\u2019s first term in the White House, and former Acting Secretary of the Navy Thomas Modly announced during a Martin Luther King, Jr. Day ceremony in January 2020 that it would be named the USS Doris Miller . Read more at The Daily Beast."
+    }
+   ]
+  },
+  {
+   "id": "b23a955d48",
+   "topic": "Politics",
+   "summary": "President Donald Trump's deputies sent more than 2,000 Mexican migrants back to their home country by flying and bussing them 2,000 miles to Mexico's far-southern border. The post Trump Admin Sends Thousands of Mexican Deportees Through Central America appeared first on Breitbart .",
+   "summaryFrom": "breitbart",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Trump Admin Sends Thousands of Mexican Deportees Through Central America",
+   "updated": "2026-08-21T02:21:48+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "Trump Admin Sends Thousands of Mexican Deportees Through Central America",
+     "url": "https://www.breitbart.com/immigration/2026/08/20/trump-admin-sends-thousands-of-mexican-deportees-through-central-america/",
+     "author": "Mariane Angela",
+     "kind": "news",
+     "published": "2026-08-21T02:21:48+00:00",
+     "summary": "President Donald Trump's deputies sent more than 2,000 Mexican migrants back to their home country by flying and bussing them 2,000 miles to Mexico's far-southern border. The post Trump Admin Sends Thousands of Mexican Deportees Through Central America appeared first on Breitbart ."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump admin sends 1st deportation flight to Haiti since ending TPS",
+     "url": "https://abcnews.com/Politics/trump-admin-sends-1st-deportation-flight-haiti-ending/story?id=135820753",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T00:34:20+00:00",
+     "summary": "The flight comes as TPS for Haiti, Ethiopia, Somalia, Syria, Myanmar and other countries ended following a U.S. Supreme Court order in June."
     }
    ]
   }
