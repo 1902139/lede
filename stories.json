@@ -1,43 +1,65 @@
 {
- "generated": "2026-08-21T04:05:58.933970+00:00",
+ "generated": "2026-08-21T04:56:15.985825+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
   {
    "id": "8ba957a561",
-   "topic": "Justice & Policing",
-   "summary": "The Federal Bureau of Investigation (FBI) seized disgraced former congressman Eric Swalwell's electronic devices at San Francisco International Airport on Saturday night, two sources familiar with the incident confirmed to Fox News Digital. Swalwell's home in Washington, D.C. was subsequently searched on Sunday, a source said. The devices seized included at least one cell phone. The devices were taken from the ex-lawmaker related to a probe into sexual misconduct, according to the sources. He was not arrested or detained, Fox News Digital learned. Fox News Digital reached out to Swalwell's attorney. DOJ OPENS INVESTIGATION INTO ERIC SWALWELL OVER SEXUAL ASSAULT ALLEGATIONS The former Democratic California gubernatorial candidate and left-wing television news darling resigned from his seat in Congress in April on the heels of numerous allegations of sexual misconduct. He was threatened\u2026",
+   "topic": "Politics",
+   "summary": "Progressive state Sen. and Assistant Majority Leader Aisha Wahab has bested Melissa Hernandez, a more moderate public transit executive, in a special election to replace disgraced Rep. Eric Swalwell. The race between Wahab and Hernandez represented another front in the Democratic civil war between the party\u2019s establishment and progressive wings. Wahab counted on high-profile endorsements from California Attorney General Rob Bonta, Lt. Gov. Eleni Kounalakis and labor icon Dolores Huerta, while Hernandez relied on large sums of super PAC cash and endorsements from local officials. PRIMARY TAKEAWAYS: DEMS\u2019 LEFT-CENTER BATTLE INTENSIFIES AS SCHUMER TAKES ANOTHER HIT; SPLIT DECISION FOR TRUMP While progressive Democrats opened the election season strongly, securing high-profile victories in New York, Pennsylvania, Colorado and D.C., they have more recently underperformed on expectations in\u2026",
    "summaryFrom": "foxnews",
    "emphasis": {
-    "bigCount": 10,
-    "indieCount": 3,
+    "bigCount": 16,
+    "indieCount": 5,
     "big": [
-     "sources",
+     "term",
      "search",
+     "sources",
+     "race",
      "phone",
-     "executed",
-     "criminal",
-     "confirmed"
+     "president"
     ],
-    "indie": []
+    "indie": [
+     "denied",
+     "congress",
+     "claims"
+    ]
    },
    "absent": [
     "coop"
    ],
    "headline": "FBI seizes former Congressman Eric Swalwell's devices in sexual misconduct investigation",
-   "updated": "2026-08-21T01:16:43+00:00",
-   "outletCount": 13,
+   "updated": "2026-08-21T03:20:05+00:00",
+   "outletCount": 15,
    "counts": {
+    "family": 10,
+    "corp": 6,
     "pub": 1,
-    "corp": 3,
-    "nonprofit": 2,
-    "family": 7
+    "nonprofit": 4
    },
-   "newsCount": 12,
+   "newsCount": 20,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "Progressive Aisha Wahab Wins Special Election to Replace Former Rep. Eric Swalwell",
+     "url": "https://www.breitbart.com/politics/2026/08/20/progressive-aisha-wahab-wins-special-election-treplace-former-rep-eric-swalwell/",
+     "author": "Olivia Rondeau",
+     "kind": "news",
+     "published": "2026-08-21T03:20:05+00:00",
+     "summary": "HAYWARD, CA - MARCH 2: Senator Aisha Wahab (C) attends a press conference as Governor Gavin Newsom criticizes U.S. President Donald Trump\u2019s decision to strike Iran during a press conference about new statewide accountability and funding for homelessness and mental health in Hayward, California, United States, on March 2, 2026. (Photo by Tayfun Coskun/Anadolu via Getty Images) The post Progressive Aisha Wahab Wins Special Election to Replace Former Rep. Eric Swalwell appeared first on Breitbart ."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Aisha Wahab wins special election to serve out remainder of Eric Swalwell's term",
+     "url": "https://www.cbsnews.com/news/aisha-wahab-califonia-district-14-special-election-eric-swalwell/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T01:55:57+00:00",
+     "summary": "The partial term for California's 14th Congressional District ends January 2027, after which the candidate chosen in the November election will serve the next full term."
+    },
     {
      "outlet": "bbc",
      "title": "FBI seizes former Congressman Eric Swalwell's devices in sexual misconduct investigation",
@@ -48,6 +70,60 @@
      "summary": "Agents stopped the Democrat in an airport over the weekend and also searched his home while investigating accusations that he has denied."
     },
     {
+     "outlet": "pbsnewshour",
+     "title": "State lawmaker Aisha Wahab wins California special election to replace former Rep. Swalwell",
+     "url": "https://www.pbs.org/newshour/politics/state-lawmaker-aisha-wahab-wins-california-special-election-to-replace-former-rep-swalwell",
+     "author": "Sophie Austin, Associated Press",
+     "kind": "news",
+     "published": "2026-08-21T01:12:20+00:00",
+     "summary": "Swalwell, a Democrat who was running for California governor, ended his campaign and resigned from Congress in April after he was accused of sexual assault and harassment, which he denies."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Progressive Aisha Wahab wins California special election to fill Eric Swalwell seat",
+     "url": "https://www.theguardian.com/us-news/2026/aug/20/california-special-election-results-eric-swalwell",
+     "author": "Dani Anguiano",
+     "kind": "news",
+     "published": "2026-08-21T00:24:56+00:00",
+     "summary": "State senator beats rival Melissa Hernandez and will replace US congressman who quit amid sexual misconduct claims Progressive Aisha Wahab has been elected to Congress in a special election following a bitter intra-party battle over the seat formerly held by Eric Swalwell, who resigned in April after facing sexual misconduct allegations . Swalwell has denied the allegations. Wahab, a state senator, was widely considered the frontrunner in the district in California \u2019s East Bay and had the backing of the state Democratic party as well as Our Revolution, labor unions, local officials and the state\u2019s attorney general, Rob Bonta. Continue reading..."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Aisha Wahab wins election to complete former Rep. Eric Swalwell's term",
+     "url": "https://www.latimes.com/california/story/2026-08-20/aisha-wahab-wins-election-to-complete-former-rep-eric-swalwells-term",
+     "author": "Nicole Nixon",
+     "kind": "news",
+     "published": "2026-08-21T00:08:43+00:00",
+     "summary": "Wahab, a progressive state senator from the East Bay, defeated BART President Melissa Hernandez in a special election to complete Swalwell's term."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Aisha Wahab Wins California Special Election to Replace Eric Swalwell",
+     "url": "https://www.nytimes.com/2026/08/20/us/politics/wahab-hernandez-california-special-election.html",
+     "author": "Jennifer Medina",
+     "kind": "news",
+     "published": "2026-08-20T23:06:05+00:00",
+     "summary": "Aisha Wahab, a Democratic state senator in California, will fill out the term of Eric Swalwell, who resigned from the House amid accusations of sexual misconduct."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Progressives notch victory in race to replace Swalwell following sexual assault scandal",
+     "url": "https://www.foxnews.com/politics/progressives-notch-victory-race-replace-swalwell-following-sexual-assault-scandal",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T22:46:37+00:00",
+     "summary": "Progressive state Sen. and Assistant Majority Leader Aisha Wahab has bested Melissa Hernandez, a more moderate public transit executive, in a special election to replace disgraced Rep. Eric Swalwell. The race between Wahab and Hernandez represented another front in the Democratic civil war between the party\u2019s establishment and progressive wings. Wahab counted on high-profile endorsements from California Attorney General Rob Bonta, Lt. Gov. Eleni Kounalakis and labor icon Dolores Huerta, while Hernandez relied on large sums of super PAC cash and endorsements from local officials. PRIMARY TAKEAWAYS: DEMS\u2019 LEFT-CENTER BATTLE INTENSIFIES AS SCHUMER TAKES ANOTHER HIT; SPLIT DECISION FOR TRUMP While progressive Democrats opened the election season strongly, securing high-profile victories in New York, Pennsylvania, Colorado and D.C., they have more recently underperformed on expectations in the Democratic primaries for Michigan\u2019s Senate race and Wisconsin\u2019s gubernatorial race. Wahab was the strong favorite heading into Election Day, earning 42.8% of the vote in the special primary against Hernandez\u2019s 16.8%. California has \"jungle primaries\" in which the top two vote-getters, regardless o"
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Democrat Aisha Wahab wins the special election for Eric Swalwell\u2019s former California district",
+     "url": "https://www.nbcnews.com/politics/2026-election/democrat-aisha-wahab-wins-special-election-eric-swalwells-former-calif-rcna350344",
+     "author": "Ben Kamisar",
+     "kind": "news",
+     "published": "2026-08-20T22:41:54+00:00",
+     "summary": "NBC News projects that Wahab, a state senator, defeated fellow Democrat Melissa Hernandez in the race to serve out the rest of Swalwell\u2019s term."
+    },
+    {
      "outlet": "cbsnews",
      "title": "FBI seizes Swalwell's devices, executes warrants in sexual misconduct probe",
      "url": "https://www.cbsnews.com/news/swalwell-fbi-search-warrants-devices-sexual-misconduct-investigation/",
@@ -55,6 +131,15 @@
      "kind": "news",
      "published": "2026-08-20T22:30:00+00:00",
      "summary": "FBI agents executed search warrants targeting former Democratic Rep. Eric Swalwell and seized his electronic devices, two sources told CBS News."
+    },
+    {
+     "outlet": "thehill",
+     "title": "Progressive wins special election to fill Swalwell's California House seat",
+     "url": "https://thehill.com/homenews/campaign/6034868-wahab-wins-california-house-special-election/",
+     "author": "Caroline Vakil",
+     "kind": "news",
+     "published": "2026-08-20T22:29:00+00:00",
+     "summary": "Progressive California state Sen. Aisha Wahab (D) is projected to defeat Bay Area Rapid Transit Board President Melissa Hernandez in the special election to fill the remainder of former Rep. Eric Swalwell\u2019s (D-Calif.) term in the House, according to Decision Desk HQ. Swalwell, once seen as the front-runner in the California governor\u2019s race, dropped out..."
     },
     {
      "outlet": "pbsnewshour",
@@ -138,15 +223,6 @@
      "summary": "The Federal Bureau of Investigation (FBI) seized disgraced former congressman Eric Swalwell's electronic devices at San Francisco International Airport on Saturday night, two sources familiar with the incident confirmed to Fox News Digital. Swalwell's home in Washington, D.C. was subsequently searched on Sunday, a source said. The devices seized included at least one cell phone. The devices were taken from the ex-lawmaker related to a probe into sexual misconduct, according to the sources. He was not arrested or detained, Fox News Digital learned. Fox News Digital reached out to Swalwell's attorney. DOJ OPENS INVESTIGATION INTO ERIC SWALWELL OVER SEXUAL ASSAULT ALLEGATIONS The former Democratic California gubernatorial candidate and left-wing television news darling resigned from his seat in Congress in April on the heels of numerous allegations of sexual misconduct. He was threatened with expulsion from the lawmaking body before his exit. He spent 13 years as a member of Congress. At least five women, including one former staffer, have accused Swalwell of sexual misconduct or rape. At the same time, Swalwell dropped his bid to become California's next governor. SWALWELL'S 'BEST FR"
     },
     {
-     "outlet": "breitbart",
-     "title": "Report: FBI Agents Confiscate Eric Swalwell's Electronic Devices at Airport for Sexual Misconduct Probe",
-     "url": "https://www.breitbart.com/politics/2026/08/20/report-fbi-agents-confiscate-eric-swalwells-electronic-devices-at-airport-for-sexual-misconduct-probe/",
-     "author": "Simon Kent",
-     "kind": "news",
-     "published": "2026-08-20T14:37:56+00:00",
-     "summary": "Disgraced former Rep. Eric Swalwell (D) was reportedly confronted by FBI agents at San Francisco International Airport on Saturday where his electronic devices were seized as part of a federal criminal probe into sexual misconduct. The post Report: FBI Agents Confiscate Eric Swalwell&#8217;s Electronic Devices at Airport for Sexual Misconduct Probe appeared first on Breitbart ."
-    },
-    {
      "outlet": "dailywire",
      "title": "FBI Surprises Eric Swalwell At Airport, Seizes Key Evidence",
      "url": "https://www.dailywire.com/news/fbi-surprises-eric-swalwell-at-airport-seizes-key-evidence",
@@ -170,8 +246,8 @@
      "scott",
      "business",
      "threat",
-     "only",
-     "warfare"
+     "warfare",
+     "only"
     ],
     "indie": [
      "join"
@@ -318,15 +394,15 @@
    "summary": "New York State Capitol Building in Albany, New York, on February 25, 2024. \u2014Thomas A. Ferrara\u2014Newsday RM/Getty Images A woman who authorities have accused of planning to bomb the New York State Capitol building has been arrested and charged, the Justice Department announced on Thursday. Jessica Bowie, a 35-year-old woman from Albany, New York, was arrested on Wednesday and appeared in federal court the following day to face one count of attempting to provide material support to a designated foreign terrorist organization. \u201cThe FBI detected and stopped an alleged plot to attack the New York State Capitol and kill elected officials,\u201d Matt Fodor of the FBI National Security Branch said in a statement . \u201cAccording to the criminal complaint, the defendant in this case swore allegiance to ISIS and wanted to follow up with additional horrific acts of terrorism. This case is yet another example\u2026",
    "summaryFrom": "time",
    "emphasis": {
-    "bigCount": 6,
+    "bigCount": 7,
     "indieCount": 4,
     "big": [
      "federal",
      "accused",
+     "isis",
+     "appeared",
      "announced",
-     "year-old",
-     "isis-inspired",
-     "undercover"
+     "year-old"
     ],
     "indie": [
      "terrorism",
@@ -338,14 +414,14 @@
    ],
    "headline": "US charges woman for allegedly plotting attack on New York State Capitol",
    "updated": "2026-08-21T03:38:18+00:00",
-   "outletCount": 10,
+   "outletCount": 11,
    "counts": {
     "corp": 2,
-    "family": 4,
+    "family": 5,
     "pub": 3,
     "nonprofit": 1
    },
-   "newsCount": 9,
+   "newsCount": 10,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
@@ -366,6 +442,15 @@
      "kind": "news",
      "published": "2026-08-21T03:29:11+00:00",
      "summary": "One target she talked about was \"New Year's Eve in Times Square\" \u2014 a frenzied spectacle where as many as 1 million tourists visit the Big Apple."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "FBI Arrests Woman Who Allegedly Planned ISIS Bombing of New York Capitol",
+     "url": "https://www.breitbart.com/politics/2026/08/20/fbi-arrests-woman-allegedly-planned-isis-bombing-new-york-capitol/",
+     "author": "Paul Bois",
+     "kind": "news",
+     "published": "2026-08-21T00:41:18+00:00",
+     "summary": "The FBI arrested a woman on Thursday who allegedly pledged herself to ISIS and planned to bomb the New York Capitol in Albany. The post FBI Arrests Woman Who Allegedly Planned ISIS Bombing of New York Capitol appeared first on Breitbart ."
     },
     {
      "outlet": "time",
@@ -454,8 +539,8 @@
      "thursday",
      "york",
      "fixer",
-     "turned",
-     "weaponized'"
+     "enemy",
+     "turned"
     ],
     "indie": [
      "once"
@@ -570,6 +655,248 @@
    ]
   },
   {
+   "id": "a976780ee0",
+   "topic": "World",
+   "summary": "North Korea launched several ballistic missiles toward the Sea of Japan on Thursday, according to South Korea\u2019s military\u2014just a day after the North dismissed Donald Trump\u2019s seeming attempt at appeasement by cutting back on joint military training with South Korea. \u201cThe provocative, aggressive nature of the drills won\u2019t change even though their duration and size were reduced,\u201d Kim Yo Jong, a top figure in North Korea\u2019s ruling party and supreme leader Kim Jong Un\u2019s sister, said on Wednesday, pointing to other military drills the US and South Korea carried out earlier this year and to South Korea accelerating its development of nuclear-powered submarines . Before the drills began this week, North Korea said it would retaliate with \u201ca new level of a deterrent.\u201d North Korea had already fired at least two ballistic missiles into the sea earlier this month before the barrage on Thursday. While\u2026",
+   "summaryFrom": "motherjones",
+   "emphasis": {
+    "bigCount": 4,
+    "indieCount": 5,
+    "big": [
+     "sister"
+    ],
+    "indie": [
+     "missiles",
+     "japan",
+     "thursday",
+     "ballistic",
+     "launched",
+     "toward"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Trump wants to be friends with Kim - but South Korea could pay the price",
+   "updated": "2026-08-21T00:54:37+00:00",
+   "outletCount": 9,
+   "counts": {
+    "family": 3,
+    "pub": 2,
+    "nonprofit": 3,
+    "corp": 1
+   },
+   "newsCount": 9,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bloomberg",
+     "title": "Kim\u2019s Sister Mocks South Korea as US \u2018Puppet\u2019 Over Drill Cutback",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-21/kim-s-sister-mocks-south-korea-as-us-puppet-over-drill-cutback",
+     "author": "Soo-Hyang Choi",
+     "kind": "news",
+     "published": "2026-08-21T00:54:37+00:00",
+     "summary": "North Korea mocked South Korea for being a US \u201cpuppet\u201d after President Donald Trump unilaterally curtailed the two countries\u2019 joint military drills."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
+     "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T22:01:26+00:00",
+     "summary": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength."
+    },
+    {
+     "outlet": "motherjones",
+     "title": "Trump Enraged South Korea to Please the North. It Didn\u2019t Work.",
+     "url": "https://www.motherjones.com/politics/2026/08/trump-south-north-korea-military-drills-ballistic-missiles/",
+     "author": "Alex Nguyen",
+     "kind": "news",
+     "published": "2026-08-20T17:21:02+00:00",
+     "summary": "North Korea launched several ballistic missiles toward the Sea of Japan on Thursday, according to South Korea\u2019s military\u2014just a day after the North dismissed Donald Trump\u2019s seeming attempt at appeasement by cutting back on joint military training with South Korea. \u201cThe provocative, aggressive nature of the drills won\u2019t change even though their duration and size were reduced,\u201d Kim Yo Jong, a top figure in North Korea\u2019s ruling party and supreme leader Kim Jong Un\u2019s sister, said on Wednesday, pointing to other military drills the US and South Korea carried out earlier this year and to South Korea accelerating its development of nuclear-powered submarines . Before the drills began this week, North Korea said it would retaliate with \u201ca new level of a deterrent.\u201d North Korea had already fired at least two ballistic missiles into the sea earlier this month before the barrage on Thursday. While Kim Yo Jong said relations between her brother and Trump are \u201c still excellent \u201d, she said she was \u201c completely unaware \u201d of any communications between the pair following Trump\u2019s decision to scale back the joint drills this month by about half\u2014 a claim the US president made earlier this week.&nbsp; "
+    },
+    {
+     "outlet": "france24",
+     "title": "North Korea launches missiles, Seoul says, after Trump floats Kim meet",
+     "url": "https://www.france24.com/en/video/20260820-north-korea-launches-missiles-seoul-says-after-trump-floats-kim-meet",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-20T15:21:33+00:00",
+     "summary": "North Korea fired several short-range ballistic missiles on Thursday, the South said, and Pyongyang mocked US \"servant\" Seoul, after President Donald Trump suggested he would meet Kim Jong Un this year. The latest launches from the nuclear-armed North come as South Korea and the United States hold a shorter edition of their annual Ulchi Freedom Shield military exercises, following an order from Trump to scale them back."
+    },
+    {
+     "outlet": "guardian",
+     "title": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
+     "url": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-20T10:25:29+00:00",
+     "summary": "Launches, detected by South Korea and Japan, came after US scaled back exercises with South Korea in apparent overture to Kim Jong-un North Korea has launched about 10 short-range ballistic missiles towards the sea, South Korea\u2019s military said, a day after Pyongyang shrugged off Donald Trump\u2019s order to scale back US military drills with South Korea in an apparent attempt to resume diplomacy. The joint chiefs of staff said the missiles were launched from the region of Pyongyang at around 5pm (08.00 GMT) on Thursday towards North Korea\u2019s eastern waters. Continue reading..."
+    },
+    {
+     "outlet": "npr",
+     "title": "North Korea fires a suspected missile toward the sea, Japan says",
+     "url": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-20T09:24:45+00:00",
+     "summary": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy. (Image credit: Ahn Young-joon)"
+    },
+    {
+     "outlet": "nyt",
+     "title": "Trump\u2019s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say",
+     "url": "https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html",
+     "author": "Eric Schmitt and Helene Cooper",
+     "kind": "news",
+     "published": "2026-08-20T09:04:19+00:00",
+     "summary": "President Trump\u2019s decision to curtail the military exercises came as allies question the U.S. commitment to longstanding alliances."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "WATCH:  Friends\u00a0of boy who died\u00a0rally around his sister on\u00a01st day of school",
+     "url": "https://abcnews.com/video/135787111/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T21:24:16+00:00",
+     "summary": "Brady's friends stepped in to take a cherished first day of school photo with his younger sister after his death."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump says he expects to meet with North Korea\u2019s Kim Jong Un later this year",
+     "url": "https://www.washingtonpost.com/politics/2026/08/19/trump-says-he-expects-meet-with-north-koreas-kim-jong-un-later-this-year/",
+     "author": "Cleve R. Wootson Jr., Cate Cadell",
+     "kind": "news",
+     "published": "2026-08-19T20:06:51+00:00",
+     "summary": "In an impromptu White House meeting with reporters, the president touted his relationship with Kim and said North Korea has \u201c57 very powerful nuclear weapons.\u201d"
+    }
+   ]
+  },
+  {
+   "id": "fcf89a5820",
+   "topic": "World",
+   "summary": "USS George Washington will replace warship families say suffers from shortages, plumbing problems and low morale The USS George Washington aircraft carrier has arrived in the Middle East, where it is expected to relieve the USS Abraham Lincoln from its record deployment amid concerns about poor living conditions and morale. US Central Command announced on Thursday that the Washington arrived in the area on Wednesday, and posted an image of sailors working on the flight deck as the ship transited the Arabian Sea. No date has yet been announced for the Lincoln to return to the US. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": {
+    "bigCount": 6,
+    "indieCount": 3,
+    "big": [
+     "iran",
+     "heads",
+     "members",
+     "diego",
+     "months"
+    ],
+    "indie": [
+     "conditions",
+     "life",
+     "living",
+     "thursday",
+     "poor",
+     "concerns"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "News Wrap: USS Abraham Lincoln heading home after 9-month deployment",
+   "updated": "2026-08-21T00:50:14+00:00",
+   "outletCount": 9,
+   "counts": {
+    "corp": 3,
+    "nonprofit": 2,
+    "family": 3,
+    "pub": 1
+   },
+   "newsCount": 9,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nbcnews",
+     "title": "USS Lincoln heads home after extended deployment to the Middle East",
+     "url": "https://www.nbcnews.com/politics/national-security/uss-lincoln-heads-home-extended-deployment-middle-east-rcna593639",
+     "author": "Kyla Guilfoil",
+     "kind": "news",
+     "published": "2026-08-21T00:50:14+00:00",
+     "summary": "Service members and their families had complained about deteriorating morale on the ship as its mission was extended to support the Iran war."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "WATCH:  USS Lincoln heading home after 272 days at sea",
+     "url": "https://abcnews.com/video/135822145/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T00:42:54+00:00",
+     "summary": "Pres. Trump has vowed \"economic warfare\" against Iran on an unprecedented scale. The warning comes as the USS Lincoln heads home from its record deployment."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "USS Abraham Lincoln leaving Middle East after 9-month deployment",
+     "url": "https://www.cbsnews.com/news/uss-abraham-lincoln-leaves-middle-east-deployment/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T23:56:00+00:00",
+     "summary": "The aircraft carrier and its 5,000 crew members will return to San Diego after an approximately nine-month deployment."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "News Wrap: USS Abraham Lincoln heading home after 9-month deployment",
+     "url": "https://www.pbs.org/newshour/show/news-wrap-uss-abraham-lincoln-heading-home-after-9-month-deployment",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T22:45:36+00:00",
+     "summary": "In our news wrap Thursday, U.S. military says the USS Abraham Lincoln is heading home following a roughly nine-month deployment and reports of poor living conditions, storms and at least one tornado tore through parts of Germany overnight and China sentenced the founder of Evergrande to life in prison five years after the company's collapse sent shockwaves through China's economy."
+    },
+    {
+     "outlet": "forbes",
+     "title": "USS Abraham Lincoln Is Coming Home, Report Says",
+     "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/20/uss-abraham-lincoln-is-coming-home-report-says/",
+     "author": "Zachary Folk, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-20T18:46:21+00:00",
+     "summary": "Troops on the carrier deployed in the Middle East were reportedly facing a mental health crisis."
+    },
+    {
+     "outlet": "nyt",
+     "title": "U.S.S. Abraham Lincoln Leaves Middle East After Months at Sea in Operation Against Iran",
+     "url": "https://www.nytimes.com/2026/08/20/us/politics/uss-abraham-lincoln-iran.html",
+     "author": "John Ismay",
+     "kind": "news",
+     "published": "2026-08-20T18:21:05+00:00",
+     "summary": "The U.S.S. Abraham Lincoln in San Diego in 2021. The carrier\u2019s most recent deployment began on Nov. 21, and the thousands of sailors on board have spent almost the entirety of the time since at sea."
+    },
+    {
+     "outlet": "guardian",
+     "title": "US aircraft carrier arrives in Middle East to relieve troubled USS Lincoln",
+     "url": "https://www.theguardian.com/us-news/2026/aug/20/uss-lincoln-washington-sailors-military",
+     "author": "Anna Betts",
+     "kind": "news",
+     "published": "2026-08-20T18:00:27+00:00",
+     "summary": "USS George Washington will replace warship families say suffers from shortages, plumbing problems and low morale The USS George Washington aircraft carrier has arrived in the Middle East, where it is expected to relieve the USS Abraham Lincoln from its record deployment amid concerns about poor living conditions and morale. US Central Command announced on Thursday that the Washington arrived in the area on Wednesday, and posted an image of sailors working on the flight deck as the ship transited the Arabian Sea. No date has yet been announced for the Lincoln to return to the US. Continue reading..."
+    },
+    {
+     "outlet": "wapo",
+     "title": "New aircraft carrier arrives in Arabian Sea to replace long-stationed USS Abraham Lincoln",
+     "url": "https://www.washingtonpost.com/politics/2026/08/20/new-aircraft-carrier-arrives-arabian-sea-replace-long-stationed-uss-abraham-lincoln/",
+     "author": "Dan Lamothe",
+     "kind": "news",
+     "published": "2026-08-20T15:36:39+00:00",
+     "summary": "The USS George Washington is relieving a vessel that has gone months without a port stop."
+    },
+    {
+     "outlet": "bbc",
+     "title": "'A floating prison' - sailors describe life on warships like USS Abraham Lincoln",
+     "url": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-18T05:07:06+00:00",
+     "summary": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December."
+    }
+   ]
+  },
+  {
    "id": "b58240b4fd",
    "topic": "Politics",
    "summary": "Y ou are reading this story only because the White House didn\u2019t want you to. I\u2019ll explain. This past Sunday, Georgia Senator Jon Ossoff \u2014who has become quite good at delivering viral campaign sound bites, slickly filmed by multiple cameras\u2014unleashed a blistering indictment of President Trump\u2019s leadership. Ossoff, a former documentary filmmaker who is generating 2028 buzz, denounced Trump\u2019s handling of the Iran war this way: \u201cWhile he fruitlessly drains our munitions and oil reserves, the president sleeps through his meetings. He golfs and trades stocks. See, he doesn\u2019t want to do the job. He wants to build his ballroom and travel with Natalie on their apparently defenseless flying palace gifted by the emir of Qatar.\u201d It was a pithy and well-structured attack, but not so different from the broadsides delivered daily by Democrats on the campaign trail or on MS NOW. But one new word stood\u2026",
@@ -578,10 +905,10 @@
     "bigCount": 6,
     "indieCount": 3,
     "big": [
-     "lady",
+     "melania",
      "made",
      "year-old",
-     "melania",
+     "lady",
      "because",
      "period"
     ],
@@ -687,217 +1014,6 @@
    ]
   },
   {
-   "id": "5925d6879c",
-   "topic": "Politics",
-   "summary": "State senator beats rival Melissa Hernandez and will replace US congressman who quit amid sexual misconduct claims Progressive Aisha Wahab has been elected to Congress in a special election following a bitter intra-party battle over the seat formerly held by Eric Swalwell, who resigned in April after facing sexual misconduct allegations . Swalwell has denied the allegations. Wahab, a state senator, was widely considered the frontrunner in the district in California \u2019s East Bay and had the backing of the state Democratic party as well as Our Revolution, labor unions, local officials and the state\u2019s attorney general, Rob Bonta. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 5,
-    "indieCount": 2,
-    "big": [
-     "term",
-     "swalwell's",
-     "remainder",
-     "district",
-     "serve",
-     "defeated"
-    ],
-    "indie": [
-     "congress",
-     "april"
-    ]
-   },
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "State lawmaker Aisha Wahab wins California special election to replace former Rep. Swalwell",
-   "updated": "2026-08-21T01:55:57+00:00",
-   "outletCount": 7,
-   "counts": {
-    "corp": 3,
-    "nonprofit": 2,
-    "family": 2
-   },
-   "newsCount": 7,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Aisha Wahab wins special election to serve out remainder of Eric Swalwell's term",
-     "url": "https://www.cbsnews.com/news/aisha-wahab-califonia-district-14-special-election-eric-swalwell/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T01:55:57+00:00",
-     "summary": "The partial term for California's 14th Congressional District ends January 2027, after which the candidate chosen in the November election will serve the next full term."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "State lawmaker Aisha Wahab wins California special election to replace former Rep. Swalwell",
-     "url": "https://www.pbs.org/newshour/politics/state-lawmaker-aisha-wahab-wins-california-special-election-to-replace-former-rep-swalwell",
-     "author": "Sophie Austin, Associated Press",
-     "kind": "news",
-     "published": "2026-08-21T01:12:20+00:00",
-     "summary": "Swalwell, a Democrat who was running for California governor, ended his campaign and resigned from Congress in April after he was accused of sexual assault and harassment, which he denies."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Progressive Aisha Wahab wins California special election to fill Eric Swalwell seat",
-     "url": "https://www.theguardian.com/us-news/2026/aug/20/california-special-election-results-eric-swalwell",
-     "author": "Dani Anguiano",
-     "kind": "news",
-     "published": "2026-08-21T00:24:56+00:00",
-     "summary": "State senator beats rival Melissa Hernandez and will replace US congressman who quit amid sexual misconduct claims Progressive Aisha Wahab has been elected to Congress in a special election following a bitter intra-party battle over the seat formerly held by Eric Swalwell, who resigned in April after facing sexual misconduct allegations . Swalwell has denied the allegations. Wahab, a state senator, was widely considered the frontrunner in the district in California \u2019s East Bay and had the backing of the state Democratic party as well as Our Revolution, labor unions, local officials and the state\u2019s attorney general, Rob Bonta. Continue reading..."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Aisha Wahab wins election to complete former Rep. Eric Swalwell's term",
-     "url": "https://www.latimes.com/california/story/2026-08-20/aisha-wahab-wins-election-to-complete-former-rep-eric-swalwells-term",
-     "author": "Nicole Nixon",
-     "kind": "news",
-     "published": "2026-08-21T00:08:43+00:00",
-     "summary": "Wahab, a progressive state senator from the East Bay, defeated BART President Melissa Hernandez in a special election to complete Swalwell's term."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Aisha Wahab Wins California Special Election to Replace Eric Swalwell",
-     "url": "https://www.nytimes.com/2026/08/20/us/politics/wahab-hernandez-california-special-election.html",
-     "author": "Jennifer Medina",
-     "kind": "news",
-     "published": "2026-08-20T23:06:05+00:00",
-     "summary": "Aisha Wahab, a Democratic state senator in California, will fill out the term of Eric Swalwell, who resigned from the House amid accusations of sexual misconduct."
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "Democrat Aisha Wahab wins the special election for Eric Swalwell\u2019s former California district",
-     "url": "https://www.nbcnews.com/politics/2026-election/democrat-aisha-wahab-wins-special-election-eric-swalwells-former-calif-rcna350344",
-     "author": "Ben Kamisar",
-     "kind": "news",
-     "published": "2026-08-20T22:41:54+00:00",
-     "summary": "NBC News projects that Wahab, a state senator, defeated fellow Democrat Melissa Hernandez in the race to serve out the rest of Swalwell\u2019s term."
-    },
-    {
-     "outlet": "thehill",
-     "title": "Progressive wins special election to fill Swalwell's California House seat",
-     "url": "https://thehill.com/homenews/campaign/6034868-wahab-wins-california-house-special-election/",
-     "author": "Caroline Vakil",
-     "kind": "news",
-     "published": "2026-08-20T22:29:00+00:00",
-     "summary": "Progressive California state Sen. Aisha Wahab (D) is projected to defeat Bay Area Rapid Transit Board President Melissa Hernandez in the special election to fill the remainder of former Rep. Eric Swalwell\u2019s (D-Calif.) term in the House, according to Decision Desk HQ. Swalwell, once seen as the front-runner in the California governor\u2019s race, dropped out..."
-    }
-   ]
-  },
-  {
-   "id": "086e4c8df5",
-   "topic": "World",
-   "summary": "In a royal surprise, Prince Harry and Duchess Meghan Markle plan to leave California and establish a home base in the United Kingdom, British media reported Wednesday. The couple and their two children, Prince Archie, 7, and Princess Lilibet, 5, will head back across the pond later this month after giving up their senior royal roles and settling in California during the coronavirus pandemic, The Telegraph reported. With the children set to start school in September, the couple is expected to keep their homes in Montecito, California, and Portugal. The move comes after years of bitter tensions between Harry and his estranged royal family \u2014 and just months after a low-key British trip that nonetheless caught the attention of royal watchers. In July, King Charles III privately met with Prince Harry, Meghan Markle, and their two children in the first family gathering since the royal rift\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 4,
-    "big": [
-     "home",
-     "united",
-     "california",
-     "media"
-    ],
-    "indie": [
-     "britain",
-     "family"
-    ]
-   },
-   "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Prince Harry and Meghan to move back to Britain",
-   "updated": "2026-08-20T21:43:02+00:00",
-   "outletCount": 7,
-   "counts": {
-    "corp": 1,
-    "family": 3,
-    "pub": 4
-   },
-   "newsCount": 7,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "slate",
-     "title": "Harry and Meghan Are Returning to the U.K. The Timing Couldn\u2019t Be Darker.",
-     "url": "https://slate.com/life/2026/08/harry-meghan-move-uk-king-charles.html?via=rss",
-     "author": "Imogen West-Knights",
-     "kind": "news",
-     "published": "2026-08-20T21:43:02+00:00",
-     "summary": "The front page of the Daily Telegraph, which features an imagine of Harry and Meghan and the text \"Harry's Coming Home.\""
-    },
-    {
-     "outlet": "nyt",
-     "title": "What to Know About Prince Harry and Meghan\u2019s Move Back to the U.K.",
-     "url": "https://www.nytimes.com/2026/08/20/world/europe/prince-harry-meghan-uk-move-return.html",
-     "author": "Amelia Nierenberg",
-     "kind": "news",
-     "published": "2026-08-20T13:58:38+00:00",
-     "summary": "The couple are moving back after six years in the United States. What they will do, and much else, are still unclear."
-    },
-    {
-     "outlet": "france24",
-     "title": "Prince Harry and Meghan to move back to Britain",
-     "url": "https://www.france24.com/en/video/20260820-prince-harry-and-meghan-to-move-back-to-britain",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-20T13:27:02+00:00",
-     "summary": "Prince Harry and his wife Meghan plan to move back to Britain this month, six years after they stepped down from \u200btheir royal duties and relocated to the US, a source close to the couple said. The surprise move comes after the couple spent recent years repeatedly criticising the royal family and lambasting the British press, saying the tabloids had made their lives hell and they wanted to carve out independent roles for themselves."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Prince Harry and Meghan moving back to UK later this month",
-     "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T11:24:58+00:00",
-     "summary": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "California Fleeing: Prince Harry and Meghan Markle Heading Back to UK",
-     "url": "https://www.breitbart.com/europe/2026/08/20/california-fleeing-prince-harry-and-meghan-markle-heading-back-to-uk/",
-     "author": "Simon Kent",
-     "kind": "news",
-     "published": "2026-08-20T08:38:49+00:00",
-     "summary": "Peripatetic duo Prince Harry and Meghan Markle are preparing to farewell their Montecito mansion in California and return to the UK, multiple media reports detailed Thursday. The post California Fleeing: Prince Harry and Meghan Markle Heading Back to UK appeared first on Breitbart ."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "PARTY IN THE USA: Prince Harry, Meghan Markle Returning To UK After Years Of Royal Turmoil",
-     "url": "https://www.dailywire.com/news/party-in-the-usa-prince-harry-meghan-markle-returning-to-uk-after-years-of-royal-turmoil",
-     "author": "Jacob Wheeler",
-     "kind": "opinion",
-     "published": "2026-08-20T07:05:33+00:00",
-     "summary": "In a royal surprise, Prince Harry and Duchess Meghan Markle plan to leave California and establish a home base in the United Kingdom, British media reported Wednesday. The couple and their two children, Prince Archie, 7, and Princess Lilibet, 5, will head back across the pond later this month after giving up their senior royal roles and settling in California during the coronavirus pandemic, The Telegraph reported. With the children set to start school in September, the couple is expected to keep their homes in Montecito, California, and Portugal. The move comes after years of bitter tensions between Harry and his estranged royal family \u2014 and just months after a low-key British trip that nonetheless caught the attention of royal watchers. In July, King Charles III privately met with Prince Harry, Meghan Markle, and their two children in the first family gathering since the royal rift erupted several years ago, The Daily Wire previously reported. The king and Queen Camilla met with the Duke and Duchess of Sussex, Prince Archie, and Princess Lilibet at the Highgrove House country estate. Relations deteriorated after Harry and Meghan\u2019s bombshell 2021 interview with Oprah Winfrey, in w"
-    },
-    {
-     "outlet": "dw",
-     "title": "Harry and Meghan moving back to Britain: reports",
-     "url": "https://www.dw.com/en/harry-and-meghan-moving-back-to-britain-reports/a-78438052?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T03:10:00+00:00",
-     "summary": "Prince Harry and Meghan Markle will return to the UK after living in the US for over six years, according to reports. The former senior royals will reportedly live in a private residence."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
-     "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T02:00:51+00:00",
-     "summary": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family."
-    }
-   ]
-  },
-  {
    "id": "05ec174275",
    "topic": "World",
    "summary": "US president pivots towards \u2018crushing\u2019 economic operation against Iran and its trading partners as military strikes fail to bring Tehran to the table Donald Trump has announced a new campaign to isolate Iran\u2019s economy, threatening \u201ctremendous economic consequences\u201d on any country that helps or does business with Tehran, a move that could set up a fresh confrontation with China if implemented. \u201cToday, I am announcing the most crushing economic operation ever taken against any country!\u201d Trump wrote on Truth Social. \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face tremendous economic consequences.\u201d Continue reading...",
@@ -985,92 +1101,71 @@
    ]
   },
   {
-   "id": "89f8d24dad",
-   "topic": "World",
-   "summary": "North Korea launched several ballistic missiles toward the Sea of Japan on Thursday, according to South Korea\u2019s military\u2014just a day after the North dismissed Donald Trump\u2019s seeming attempt at appeasement by cutting back on joint military training with South Korea. \u201cThe provocative, aggressive nature of the drills won\u2019t change even though their duration and size were reduced,\u201d Kim Yo Jong, a top figure in North Korea\u2019s ruling party and supreme leader Kim Jong Un\u2019s sister, said on Wednesday, pointing to other military drills the US and South Korea carried out earlier this year and to South Korea accelerating its development of nuclear-powered submarines . Before the drills began this week, North Korea said it would retaliate with \u201ca new level of a deterrent.\u201d North Korea had already fired at least two ballistic missiles into the sea earlier this month before the barrage on Thursday. While\u2026",
-   "summaryFrom": "motherjones",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 4,
-    "big": [],
-    "indie": [
-     "drills",
-     "toward",
-     "attempt",
-     "launched",
-     "several",
-     "joint"
-    ]
-   },
+   "id": "269d732d38",
+   "topic": "Justice & Policing",
+   "summary": "Supreme court ordered transfer of ex-leader whose health is reportedly deteriorating, but he was returned to prison several hours later Pakistan\u2019s jailed former prime minister Imran Khan was briefly taken to a hospital in the country\u2019s capital on supreme court orders after weeks of uproar about his deteriorating health. Khan, 73, was transferred to the hospital in the early hours of Friday, but then moved back to Adiala prison in Rawalpindi after a \u2060few hours, a spokesperson for his party said on Friday. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
    "absent": [
     "corp",
     "coop"
    ],
-   "headline": "Trump Enraged South Korea to Please the North. It Didn\u2019t Work.",
-   "updated": "2026-08-20T18:02:52+00:00",
-   "outletCount": 6,
+   "headline": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+   "updated": "2026-08-21T04:27:13+00:00",
+   "outletCount": 5,
    "counts": {
-    "family": 2,
-    "nonprofit": 3,
-    "pub": 1
+    "pub": 3,
+    "family": 1,
+    "nonprofit": 1
    },
-   "newsCount": 6,
+   "newsCount": 5,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
     {
-     "outlet": "breitbart",
-     "title": "North Korea Launches Missile Barrage After Trump\u2019s Peace Overtures",
-     "url": "https://www.breitbart.com/asia/2026/08/20/north-korea-launches-missile-barrage-after-trumps-peace-overtures/",
-     "author": "John Hayward",
+     "outlet": "bbc",
+     "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+     "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-20T18:02:52+00:00",
-     "summary": "According to South Korean intelligence, North Korea responded to President Donald Trump\u2019s peace overtures on Thursday by launching about a dozen short-range ballistic missiles (SRBMs) into the Sea of Japan just hours after Trump scaled back U.S.-South Korean military exercises and offered to talk with North Korean dictator Kim Jong-un. The post North Korea Launches Missile Barrage After Trump\u2019s Peace Overtures appeared first on Breitbart ."
+     "published": "2026-08-21T04:27:13+00:00",
+     "summary": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination."
     },
     {
-     "outlet": "motherjones",
-     "title": "Trump Enraged South Korea to Please the North. It Didn\u2019t Work.",
-     "url": "https://www.motherjones.com/politics/2026/08/trump-south-north-korea-military-drills-ballistic-missiles/",
-     "author": "Alex Nguyen",
+     "outlet": "bloomberg",
+     "title": "Imran Khan Moved to Hospital Following Pakistan Court Order",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-20/imran-khan-moved-to-hospital-from-jail-on-pakistan-court-order",
+     "author": "Tooba Khan",
      "kind": "news",
-     "published": "2026-08-20T17:21:02+00:00",
-     "summary": "North Korea launched several ballistic missiles toward the Sea of Japan on Thursday, according to South Korea\u2019s military\u2014just a day after the North dismissed Donald Trump\u2019s seeming attempt at appeasement by cutting back on joint military training with South Korea. \u201cThe provocative, aggressive nature of the drills won\u2019t change even though their duration and size were reduced,\u201d Kim Yo Jong, a top figure in North Korea\u2019s ruling party and supreme leader Kim Jong Un\u2019s sister, said on Wednesday, pointing to other military drills the US and South Korea carried out earlier this year and to South Korea accelerating its development of nuclear-powered submarines . Before the drills began this week, North Korea said it would retaliate with \u201ca new level of a deterrent.\u201d North Korea had already fired at least two ballistic missiles into the sea earlier this month before the barrage on Thursday. While Kim Yo Jong said relations between her brother and Trump are \u201c still excellent \u201d, she said she was \u201c completely unaware \u201d of any communications between the pair following Trump\u2019s decision to scale back the joint drills this month by about half\u2014 a claim the US president made earlier this week.&nbsp; "
-    },
-    {
-     "outlet": "france24",
-     "title": "North Korea launches missiles, Seoul says, after Trump floats Kim meet",
-     "url": "https://www.france24.com/en/video/20260820-north-korea-launches-missiles-seoul-says-after-trump-floats-kim-meet",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-20T15:21:33+00:00",
-     "summary": "North Korea fired several short-range ballistic missiles on Thursday, the South said, and Pyongyang mocked US \"servant\" Seoul, after President Donald Trump suggested he would meet Kim Jong Un this year. The latest launches from the nuclear-armed North come as South Korea and the United States hold a shorter edition of their annual Ulchi Freedom Shield military exercises, following an order from Trump to scale them back."
+     "published": "2026-08-20T23:38:32+00:00",
+     "summary": "Pakistan\u2019s former prime minister, Imran Khan, has been transferred to a hospital from prison after an order from the country\u2019s top court, according to his Tehreek-e-Insaf party."
     },
     {
      "outlet": "guardian",
-     "title": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
-     "url": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
-     "author": "Associated Press",
+     "title": "Jailed ex-Pakistan PM Imran Khan allowed brief hospital visit after uproar over health",
+     "url": "https://www.theguardian.com/world/2026/aug/20/imran-khan-hospital-pakistan",
+     "author": "Shah Meer Baloch in Islamabad",
      "kind": "news",
-     "published": "2026-08-20T10:25:29+00:00",
-     "summary": "Launches, detected by South Korea and Japan, came after US scaled back exercises with South Korea in apparent overture to Kim Jong-un North Korea has launched about 10 short-range ballistic missiles towards the sea, South Korea\u2019s military said, a day after Pyongyang shrugged off Donald Trump\u2019s order to scale back US military drills with South Korea in an apparent attempt to resume diplomacy. The joint chiefs of staff said the missiles were launched from the region of Pyongyang at around 5pm (08.00 GMT) on Thursday towards North Korea\u2019s eastern waters. Continue reading..."
+     "published": "2026-08-20T23:07:10+00:00",
+     "summary": "Supreme court ordered transfer of ex-leader whose health is reportedly deteriorating, but he was returned to prison several hours later Pakistan\u2019s jailed former prime minister Imran Khan was briefly taken to a hospital in the country\u2019s capital on supreme court orders after weeks of uproar about his deteriorating health. Khan, 73, was transferred to the hospital in the early hours of Friday, but then moved back to Adiala prison in Rawalpindi after a \u2060few hours, a spokesperson for his party said on Friday. Continue reading..."
     },
     {
-     "outlet": "npr",
-     "title": "North Korea fires a suspected missile toward the sea, Japan says",
-     "url": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
-     "author": "The Associated Press",
+     "outlet": "dw",
+     "title": "Pakistan: Former PM Khan briefly moved to private hospital",
+     "url": "https://www.dw.com/en/pakistan-former-pm-khan-briefly-moved-to-private-hospital/a-78451553?maca=en-rss-en-all-1573-rdf",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-20T09:24:45+00:00",
-     "summary": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy. (Image credit: Ahn Young-joon)"
+     "published": "2026-08-20T21:56:00+00:00",
+     "summary": "Khan's supporters say his health has deteriorated during more than \u200bthree years in prison since being removed from office in 2022."
     },
     {
-     "outlet": "wapo",
-     "title": "Trump says he expects to meet with North Korea\u2019s Kim Jong Un later this year",
-     "url": "https://www.washingtonpost.com/politics/2026/08/19/trump-says-he-expects-meet-with-north-koreas-kim-jong-un-later-this-year/",
-     "author": "Cleve R. Wootson Jr., Cate Cadell",
+     "outlet": "aljazeera",
+     "title": "Pakistan\u2019s ex-PM Imran Khan back in jail after brief hospital visit",
+     "url": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-19T20:06:51+00:00",
-     "summary": "In an impromptu White House meeting with reporters, the president touted his relationship with Kim and said North Korea has \u201c57 very powerful nuclear weapons.\u201d"
+     "published": "2026-08-20T21:18:10+00:00",
+     "summary": "Khan, who was voted out of the office in April 2022, has been in prison for more than three years."
     }
    ]
   },
@@ -1140,75 +1235,6 @@
      "kind": "news",
      "published": "2026-08-21T02:18:15+00:00",
      "summary": "A Hong Kong court convicted two former organizers of the city\u2019s annual Tiananmen Square vigils of inciting subversion, in a closely watched test of the national security law imposed by Beijing."
-    }
-   ]
-  },
-  {
-   "id": "fcf89a5820",
-   "topic": "Other",
-   "summary": "In our news wrap Thursday, U.S. military says the USS Abraham Lincoln is heading home following a roughly nine-month deployment and reports of poor living conditions, storms and at least one tornado tore through parts of Germany overnight and China sentenced the founder of Evergrande to life in prison five years after the company's collapse sent shockwaves through China's economy.",
-   "summaryFrom": "pbsnewshour",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "News Wrap: USS Abraham Lincoln heading home after 9-month deployment",
-   "updated": "2026-08-21T00:50:14+00:00",
-   "outletCount": 5,
-   "counts": {
-    "corp": 3,
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nbcnews",
-     "title": "USS Lincoln heads home after extended deployment to the Middle East",
-     "url": "https://www.nbcnews.com/politics/national-security/uss-lincoln-heads-home-extended-deployment-middle-east-rcna593639",
-     "author": "Kyla Guilfoil",
-     "kind": "news",
-     "published": "2026-08-21T00:50:14+00:00",
-     "summary": "Service members and their families had complained about deteriorating morale on the ship as its mission was extended to support the Iran war."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "WATCH:  USS Lincoln heading home after 272 days at sea",
-     "url": "https://abcnews.com/video/135822145/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T00:42:54+00:00",
-     "summary": "Pres. Trump has vowed \"economic warfare\" against Iran on an unprecedented scale. The warning comes as the USS Lincoln heads home from its record deployment."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "USS Abraham Lincoln leaving Middle East after 9-month deployment",
-     "url": "https://www.cbsnews.com/news/uss-abraham-lincoln-leaves-middle-east-deployment/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T23:56:00+00:00",
-     "summary": "The aircraft carrier and its 5,000 crew members will return to San Diego after an approximately nine-month deployment."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "News Wrap: USS Abraham Lincoln heading home after 9-month deployment",
-     "url": "https://www.pbs.org/newshour/show/news-wrap-uss-abraham-lincoln-heading-home-after-9-month-deployment",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T22:45:36+00:00",
-     "summary": "In our news wrap Thursday, U.S. military says the USS Abraham Lincoln is heading home following a roughly nine-month deployment and reports of poor living conditions, storms and at least one tornado tore through parts of Germany overnight and China sentenced the founder of Evergrande to life in prison five years after the company's collapse sent shockwaves through China's economy."
-    },
-    {
-     "outlet": "forbes",
-     "title": "USS Abraham Lincoln Is Coming Home, Report Says",
-     "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/20/uss-abraham-lincoln-is-coming-home-report-says/",
-     "author": "Zachary Folk, Forbes Staff",
-     "kind": "news",
-     "published": "2026-08-20T18:46:21+00:00",
-     "summary": "Troops on the carrier deployed in the Middle East were reportedly facing a mental health crisis."
     }
    ]
   },
@@ -1351,71 +1377,78 @@
    ]
   },
   {
-   "id": "f69d751611",
-   "topic": "Justice & Policing",
-   "summary": "Supreme court ordered transfer of ex-leader whose health is reportedly deteriorating and following public protests Pakistan\u2019s jailed former prime minister Imran Khan has been taken to a hospital in the country\u2019s capital on supreme court orders after weeks of uproar about his deteriorating health. A spokesperson for Khan\u2019s party, Zulfikar Bukhari, said: \u201cImran Khan has been shifted from Adiala jail to International Shifa hospital in Islamabad following the supreme court\u2019s order.\u201d Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
+   "id": "086e4c8df5",
+   "topic": "World",
+   "summary": "Prince Harry and his wife Meghan plan to move back to Britain this month, six years after they stepped down from \u200btheir royal duties and relocated to the US, a source close to the couple said. The surprise move comes after the couple spent recent years repeatedly criticising the royal family and lambasting the British press, saying the tabloids had made their lives hell and they wanted to carve out independent roles for themselves.",
+   "summaryFrom": "france24",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 3,
+    "big": [],
+    "indie": [
+     "britain"
+    ]
+   },
    "absent": [
-    "corp",
-    "coop"
+    "coop",
+    "nonprofit"
    ],
-   "headline": "Jailed ex-Pakistani PM Imran Khan in hospital after uproar over health",
-   "updated": "2026-08-20T23:38:32+00:00",
+   "headline": "Prince Harry and Meghan to move back to Britain",
+   "updated": "2026-08-20T21:43:02+00:00",
    "outletCount": 5,
    "counts": {
+    "corp": 1,
     "family": 1,
-    "nonprofit": 1,
     "pub": 3
    },
    "newsCount": 5,
    "opinionCount": 0,
-   "underreported": true,
+   "underreported": false,
    "articles": [
     {
-     "outlet": "bloomberg",
-     "title": "Imran Khan Moved to Hospital Following Pakistan Court Order",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-20/imran-khan-moved-to-hospital-from-jail-on-pakistan-court-order",
-     "author": "Tooba Khan",
+     "outlet": "slate",
+     "title": "Harry and Meghan Are Returning to the U.K. The Timing Couldn\u2019t Be Darker.",
+     "url": "https://slate.com/life/2026/08/harry-meghan-move-uk-king-charles.html?via=rss",
+     "author": "Imogen West-Knights",
      "kind": "news",
-     "published": "2026-08-20T23:38:32+00:00",
-     "summary": "Pakistan\u2019s former prime minister, Imran Khan, has been transferred to a hospital from prison after an order from the country\u2019s top court, according to his Tehreek-e-Insaf party."
+     "published": "2026-08-20T21:43:02+00:00",
+     "summary": "The front page of the Daily Telegraph, which features an imagine of Harry and Meghan and the text \"Harry's Coming Home.\""
     },
     {
-     "outlet": "guardian",
-     "title": "Jailed ex-Pakistani PM Imran Khan in hospital after uproar over health",
-     "url": "https://www.theguardian.com/world/2026/aug/20/imran-khan-hospital-pakistan",
-     "author": "Shah Meer Baloch in Islamabad",
+     "outlet": "nyt",
+     "title": "What to Know About Prince Harry and Meghan\u2019s Move Back to the U.K.",
+     "url": "https://www.nytimes.com/2026/08/20/world/europe/prince-harry-meghan-uk-move-return.html",
+     "author": "Amelia Nierenberg",
      "kind": "news",
-     "published": "2026-08-20T23:07:10+00:00",
-     "summary": "Supreme court ordered transfer of ex-leader whose health is reportedly deteriorating and following public protests Pakistan\u2019s jailed former prime minister Imran Khan has been taken to a hospital in the country\u2019s capital on supreme court orders after weeks of uproar about his deteriorating health. A spokesperson for Khan\u2019s party, Zulfikar Bukhari, said: \u201cImran Khan has been shifted from Adiala jail to International Shifa hospital in Islamabad following the supreme court\u2019s order.\u201d Continue reading..."
+     "published": "2026-08-20T13:58:38+00:00",
+     "summary": "The couple are moving back after six years in the United States. What they will do, and much else, are still unclear."
+    },
+    {
+     "outlet": "france24",
+     "title": "Prince Harry and Meghan to move back to Britain",
+     "url": "https://www.france24.com/en/video/20260820-prince-harry-and-meghan-to-move-back-to-britain",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-20T13:27:02+00:00",
+     "summary": "Prince Harry and his wife Meghan plan to move back to Britain this month, six years after they stepped down from \u200btheir royal duties and relocated to the US, a source close to the couple said. The surprise move comes after the couple spent recent years repeatedly criticising the royal family and lambasting the British press, saying the tabloids had made their lives hell and they wanted to carve out independent roles for themselves."
     },
     {
      "outlet": "bbc",
-     "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
-     "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+     "title": "Prince Harry and Meghan moving back to UK later this month",
+     "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-20T22:43:42+00:00",
-     "summary": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, according to his party."
+     "published": "2026-08-20T11:24:58+00:00",
+     "summary": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September."
     },
     {
      "outlet": "dw",
-     "title": "Pakistan: Former PM Khan briefly moved to private hospital",
-     "url": "https://www.dw.com/en/pakistan-former-pm-khan-briefly-moved-to-private-hospital/a-78451553?maca=en-rss-en-all-1573-rdf",
+     "title": "Harry and Meghan moving back to Britain: reports",
+     "url": "https://www.dw.com/en/harry-and-meghan-moving-back-to-britain-reports/a-78438052?maca=en-rss-en-all-1573-rdf",
      "author": null,
      "kind": "news",
-     "published": "2026-08-20T21:56:00+00:00",
-     "summary": "Khan's supporters say his health has deteriorated during more than \u200bthree years in prison since being removed from office in 2022."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Pakistan\u2019s ex-PM Imran Khan moved to hospital from jail after court order",
-     "url": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T21:18:10+00:00",
-     "summary": "Khan, who was voted out of the office in April 2022, has been in prison for more than three years."
+     "published": "2026-08-20T03:10:00+00:00",
+     "summary": "Prince Harry and Meghan Markle will return to the UK after living in the US for over six years, according to reports. The former senior royals will reportedly live in a private residence."
     }
    ]
   },
@@ -1489,66 +1522,6 @@
    ]
   },
   {
-   "id": "d12af6d128",
-   "topic": "Justice & Policing",
-   "summary": "A newly released police affidavit claims that there is &quot;no physical evidence&quot; that John Benfield, 69, the man charged with two counts of vehicular homicide in the deaths of Haylan Engdahl and Brayden Rogers, hit the brakes before crashing into a group of 11 Milligan College cyclists. Benfield &#x201c;was traveling at a distance and/or manner that did not allow him sufficient time or distance to perceive and react to the roadway conditions,&#x201d; the affidavit said. The affidavit also noted that officers on the scene reported smelling marijuana coming from Benfield&apos;s car. Benfield has been charged with two counts of vehicular homicide and five counts of reckless aggravated assault after he drove into the group of cyclists, killing Engdahl, of Winthrop Harbor, Illinois, and Rogers, of Huntsville, Alabama, and injuring a further seven riders. Benfield is scheduled to\u2026",
-   "summaryFrom": "escapecollective",
-   "emphasis": null,
-   "absent": [
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Pilot killed in crash with Pennsylvania State Police helicopter ID\u2019d as ER doctor as \u2018dramatic\u2019 video of collision revealed",
-   "updated": "2026-08-21T03:57:19+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 2,
-    "corp": 1,
-    "coop": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Pilot killed in crash with Pennsylvania State Police helicopter ID\u2019d as ER doctor as \u2018dramatic\u2019 video of collision revealed",
-     "url": "https://nypost.com/2026/08/20/us-news/pilot-killed-in-very-violent-crash-with-pennsylvania-state-police-helicopter-idd-as-er-doctor-as-dramatic-video-of-collision-revealed/",
-     "author": "Ella Morrison",
-     "kind": "news",
-     "published": "2026-08-21T03:57:19+00:00",
-     "summary": "An NTSB investigator said Sokoloski was doing maintenance on his plane before the flight -- but it is not yet known if his Cessna was dealing with any mechanical issues."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Pilot killed as plane collides with police helicopter at airport, officials say",
-     "url": "https://www.cbsnews.com/news/small-plane-state-police-helicopter-midair-collision-carlisle-pennsylvania/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T00:09:41+00:00",
-     "summary": "One person was killed and two Pennsylvania State Police troopers were injured when a small plane collided with a state police helicopter on the ground in central Pennsylvania, authorities said."
-    },
-    {
-     "outlet": "escapecollective",
-     "title": "Police affidavit details crash that killed two Milligan cyclists",
-     "url": "https://escapecollective.com/police-affidavit-details-crash-that-killed-two-milligan-cyclists/",
-     "author": "Caley Fretz",
-     "kind": "news",
-     "published": "2026-08-20T23:17:46+00:00",
-     "summary": "A newly released police affidavit claims that there is &quot;no physical evidence&quot; that John Benfield, 69, the man charged with two counts of vehicular homicide in the deaths of Haylan Engdahl and Brayden Rogers, hit the brakes before crashing into a group of 11 Milligan College cyclists. Benfield &#x201c;was traveling at a distance and/or manner that did not allow him sufficient time or distance to perceive and react to the roadway conditions,&#x201d; the affidavit said. The affidavit also noted that officers on the scene reported smelling marijuana coming from Benfield&apos;s car. Benfield has been charged with two counts of vehicular homicide and five counts of reckless aggravated assault after he drove into the group of cyclists, killing Engdahl, of Winthrop Harbor, Illinois, and Rogers, of Huntsville, Alabama, and injuring a further seven riders. Benfield is scheduled to appear in court on August 31 and is being held on $300,000 bail. Engdahl and Rogers were sophomores at Milligan and rode for the school&apos;s collegiate racing team. Both died at the scene."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "VIDEO \u2014 Community Mourns Tennessee College Cyclists Hit, Killed During Training Ride: 'Lord Jesus, We Need You'",
-     "url": "https://www.breitbart.com/education/2026/08/20/video-community-mourns-tennessee-college-cyclists-hit-killed-during-training-ride-lord-jesus-we-need-you/",
-     "author": "Amy Furr",
-     "kind": "news",
-     "published": "2026-08-20T15:40:23+00:00",
-     "summary": "Two college team cyclists were tragically killed during a training ride on Wednesday morning in Carter County, Tennessee. The post VIDEO \u2014 Community Mourns Tennessee College Cyclists Hit, Killed During Training Ride: &#8216;Lord Jesus, We Need You&#8217; appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
    "id": "fd6bbd4e74",
    "topic": "World",
    "summary": "People walk past damaged cars amid debris in a residential area hit by Russian strikes on August 20, 2026 in Kyiv, Ukraine. Photo by Ihor Kuznietsov/Global Images Ukraine via Getty Images. Thursday, August 20, 2026 &#8211; &nbsp; Fifty Bodies recovered in Gaza City. Report: 94% of households in Gaza need shelter aid. Human Rights Watch: Israeli settler violence has displaced 107 West Bank communities since 2023. Israel opens bidding for 1,234 units within settlement project, cutting northern West Bank from south. Israeli settlers injure nine Palestinians as attacks continue across occupied West Bank. World Central Kitchen condemns Israeli decision to close probe into killing of its workers in Gaza. President Donald Trump calls for &#8220;economic D-Day against Iran&#8221;; Iran calls it diversion from U.S. debt crisis. U.S. officials make dubious claims about Hormuz traffic. Iraq asks\u2026",
@@ -1617,18 +1590,18 @@
     "bigCount": 3,
     "indieCount": 2,
     "big": [
-     "players",
-     "saints",
      "practice",
+     "saints",
+     "players",
      "cowboys",
      "joint",
      "stop"
     ],
     "indie": [
-     "country",
      "judge",
-     "children",
-     "immigrant"
+     "country",
+     "immigrant",
+     "children"
     ]
    },
    "absent": [
@@ -1691,74 +1664,6 @@
      "kind": "news",
      "published": "2026-08-18T10:00:00+00:00",
      "summary": "Ana Kikabidze with her daughter, Lizi, in 2024. Kikabidze and her two children were held for weeks at Dilley Immigration Processing Center in Texas before an immigration judge ordered them to be deported to their native country of Georgia."
-    }
-   ]
-  },
-  {
-   "id": "a455815c30",
-   "topic": "Other",
-   "summary": "USS George Washington will replace warship families say suffers from shortages, plumbing problems and low morale The USS George Washington aircraft carrier has arrived in the Middle East, where it is expected to relieve the USS Abraham Lincoln from its record deployment amid concerns about poor living conditions and morale. US Central Command announced on Thursday that the Washington arrived in the area on Wednesday, and posted an image of sailors working on the flight deck as the ship transited the Arabian Sea. No date has yet been announced for the Lincoln to return to the US. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [],
-    "indie": [
-     "conditions",
-     "concerns"
-    ]
-   },
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "US aircraft carrier arrives in Middle East to relieve troubled USS Lincoln",
-   "updated": "2026-08-21T00:49:50+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 2,
-    "nonprofit": 1,
-    "pub": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Weary U.S. Aircraft Carrier Leaves the Middle East",
-     "url": "https://www.nytimes.com/2026/08/20/briefing/aircraft-carrier-ukraine-russia-missiles.html",
-     "author": "Matthew Cullen",
-     "kind": "news",
-     "published": "2026-08-21T00:49:50+00:00",
-     "summary": "Also, Russia takes advantage of Ukraine\u2019s depleted stockpile. Here\u2019s the latest at the end of Thursday."
-    },
-    {
-     "outlet": "guardian",
-     "title": "US aircraft carrier arrives in Middle East to relieve troubled USS Lincoln",
-     "url": "https://www.theguardian.com/us-news/2026/aug/20/uss-lincoln-washington-sailors-military",
-     "author": "Anna Betts",
-     "kind": "news",
-     "published": "2026-08-20T18:00:27+00:00",
-     "summary": "USS George Washington will replace warship families say suffers from shortages, plumbing problems and low morale The USS George Washington aircraft carrier has arrived in the Middle East, where it is expected to relieve the USS Abraham Lincoln from its record deployment amid concerns about poor living conditions and morale. US Central Command announced on Thursday that the Washington arrived in the area on Wednesday, and posted an image of sailors working on the flight deck as the ship transited the Arabian Sea. No date has yet been announced for the Lincoln to return to the US. Continue reading..."
-    },
-    {
-     "outlet": "wapo",
-     "title": "New aircraft carrier arrives in Arabian Sea to replace long-stationed USS Abraham Lincoln",
-     "url": "https://www.washingtonpost.com/politics/2026/08/20/new-aircraft-carrier-arrives-arabian-sea-replace-long-stationed-uss-abraham-lincoln/",
-     "author": "Dan Lamothe",
-     "kind": "news",
-     "published": "2026-08-20T15:36:39+00:00",
-     "summary": "The USS George Washington is relieving a vessel that has gone months without a port stop."
-    },
-    {
-     "outlet": "bbc",
-     "title": "'A floating prison' - sailors describe life on warships like USS Abraham Lincoln",
-     "url": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-18T05:07:06+00:00",
-     "summary": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December."
     }
    ]
   },
@@ -2012,66 +1917,6 @@
    ]
   },
   {
-   "id": "43f1fddee1",
-   "topic": "Politics",
-   "summary": "EXCLUSIVE - DETROIT, MI - Republican Senate nominee Mike Rogers has a message for Democrats who are far from happy with their party's nominee in battleground Michigan : \"You have a home with us.\" Rogers, a former congressman and former FBI agent who is running a second straight time for the Senate after losing by a slim margin two years ago, on Thursday stood alongside a group of voters as he unveiled his \"Democrats for Mike Rogers\" coalition during a campaign event at a residence in a western Detroit neighborhood. After a combustible and divisive Democratic Senate primary, where Abdul El-Sayed narrowly edged more moderate Rep. Haley Stevens for the nomination, Rogers is heavily courting Democrats disaffected with their left-wing nominee, as he works to flip a crucial Democrat-held Senate seat in the midterm elections. \"To Democrat voters who feel their nominee doesn't represent them\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Democrats who \u2018never voted Republican\u2019 back Rogers over El-Sayed in razor-close race",
-   "updated": "2026-08-20T19:46:54+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 3,
-    "corp": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Democrats who \u2018never voted Republican\u2019 back Rogers over El-Sayed in razor-close race",
-     "url": "https://www.foxnews.com/politics/democrats-never-voted-republican-back-rogers-el-sayed-razor-close-race",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T19:46:54+00:00",
-     "summary": "EXCLUSIVE - DETROIT, MI - Republican Senate nominee Mike Rogers has a message for Democrats who are far from happy with their party's nominee in battleground Michigan : \"You have a home with us.\" Rogers, a former congressman and former FBI agent who is running a second straight time for the Senate after losing by a slim margin two years ago, on Thursday stood alongside a group of voters as he unveiled his \"Democrats for Mike Rogers\" coalition during a campaign event at a residence in a western Detroit neighborhood. After a combustible and divisive Democratic Senate primary, where Abdul El-Sayed narrowly edged more moderate Rep. Haley Stevens for the nomination, Rogers is heavily courting Democrats disaffected with their left-wing nominee, as he works to flip a crucial Democrat-held Senate seat in the midterm elections. \"To Democrat voters who feel their nominee doesn't represent them and their values, all hope is not lost. I'm not asking you to be a Republican. I'm asking you for the opportunity to earn your trust... our door is open,\" Rogers said as he referred to Democratic voters uncomfortable with some of El-Sayed's controversial past comments and far-left policy positions. DEM"
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Poll: Mike Rogers and Abdul El-Sayed Virtually Tied in Michigan Senate Race",
-     "url": "https://www.breitbart.com/politics/2026/08/20/poll-mike-rogers-and-abdul-el-sayed-virtually-tied-in-michigan-senate-race/",
-     "author": "Hannah Knudsen",
-     "kind": "news",
-     "published": "2026-08-20T19:05:25+00:00",
-     "summary": "Michigan's Republican Senate nominee Mike Rogers and Democrat nominee Abdulrahman Mohamed El-Sayed are virtually tied in the general election race, an AARP survey reveals. The post Poll: Mike Rogers and Abdul El-Sayed Virtually Tied in Michigan Senate Race appeared first on Breitbart ."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Abdul El-Sayed Displayed Book Written By Extremist Tied To 1993 World Trade Center Attack",
-     "url": "https://www.dailywire.com/news/abdul-el-sayed-displayed-book-written-by-extremist-tied-to-1993-world-trade-center-attack",
-     "author": "Leif Le Mahieu",
-     "kind": "opinion",
-     "published": "2026-08-20T10:01:33+00:00",
-     "summary": "Michigan Democrat Senate candidate Abdul El-Sayed kept a book on his shelf written by an Islamic scholar linked to the 1993 World Trade Center terrorist attack. The book, called \u201cDream Interpretation According to the Qur&#8217;an,\u201d was written by Abu Ameenah Bilal Philips, an Islamic scholar listed as an unindicted co-conspirator in the first bombing attack on New York\u2019s World Trade Center. The book was just one of several tied to radical Islam seen on El-Sayed\u2019s shelf in resurfaced documentary footage. El-Sayed&#8217;s campaign said in a statement the bookshelf was not his, but that he &#8220;reads widely.&#8221; &#8220;This was not Abdul\u2019s bookshelf. Abdul is a doctor and Rhodes Scholar who reads widely, including authors whose views he may disagree with. A book appearing in the background of documentary footage is not an endorsement of its content nor a reflection of his beliefs,&#8221; his campaign said in a statement. In the footage, El-Sayed asked the film crew to avoid filming the bookshelf. He told them, \u201cYou\u2019re going to want to not get these things in the shot \u2026 we\u2019re trying to keep the shot secular.\u201d The details on El-Sayed\u2019s book collection were flagged by the Washington"
-    },
-    {
-     "outlet": "slate",
-     "title": "The Issue That Could Cost Democrats a Senate Seat in Michigan",
-     "url": "https://slate.com/news-and-politics/2026/08/abdul-el-sayed-israel-michigan-senate.html?via=rss",
-     "author": "Ben Jacobs",
-     "kind": "news",
-     "published": "2026-08-20T09:40:00+00:00",
-     "summary": "Michigan Democrats Jeremy Moss and Abdul El-Sayed appear alongside Republican Senate nominee Mike Rogers."
-    }
-   ]
-  },
-  {
    "id": "eb36ec5b4f",
    "topic": "Politics",
    "summary": "The Trump administration is proposing to rescind the &#8220;roadless rule,&#8221; a 25-year-old policy that bars development like road construction and logging on nearly 45 million acres of national forest land, the U.S. Department of Agriculture announced Tuesday. In a press release , Secretary of Agriculture Brooke Rollins said the rule has led to overgrown and diseased forests ripe for deadly wildfires by limiting where the U.S. Forest Service can build roads and manage timber. Rescinding the roadless rule, the government said, will prioritize local decision-making over national-scale regulations. \u201cToday&#8217;s long overdue decision will empower states like Montana to pursue proper forest management on federal lands with local communities in mind,\u201d Montana Governor Greg Gianforte said in the release. In a letter published last fall , more than 30 leading forest science researchers\u2026",
@@ -2200,9 +2045,9 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
+     "time",
      "office",
-     "member",
-     "time"
+     "member"
     ],
     "indie": []
    },
@@ -2261,6 +2106,57 @@
    ]
   },
   {
+   "id": "d12af6d128",
+   "topic": "Justice & Policing",
+   "summary": "A newly released police affidavit claims that there is &quot;no physical evidence&quot; that John Benfield, 69, the man charged with two counts of vehicular homicide in the deaths of Haylan Engdahl and Brayden Rogers, hit the brakes before crashing into a group of 11 Milligan College cyclists. Benfield &#x201c;was traveling at a distance and/or manner that did not allow him sufficient time or distance to perceive and react to the roadway conditions,&#x201d; the affidavit said. The affidavit also noted that officers on the scene reported smelling marijuana coming from Benfield&apos;s car. Benfield has been charged with two counts of vehicular homicide and five counts of reckless aggravated assault after he drove into the group of cyclists, killing Engdahl, of Winthrop Harbor, Illinois, and Rogers, of Huntsville, Alabama, and injuring a further seven riders. Benfield is scheduled to\u2026",
+   "summaryFrom": "escapecollective",
+   "emphasis": null,
+   "absent": [
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Pilot killed in crash with Pennsylvania State Police helicopter ID\u2019d as ER doctor as \u2018dramatic\u2019 video of collision revealed",
+   "updated": "2026-08-21T03:57:19+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 1,
+    "corp": 1,
+    "coop": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Pilot killed in crash with Pennsylvania State Police helicopter ID\u2019d as ER doctor as \u2018dramatic\u2019 video of collision revealed",
+     "url": "https://nypost.com/2026/08/20/us-news/pilot-killed-in-very-violent-crash-with-pennsylvania-state-police-helicopter-idd-as-er-doctor-as-dramatic-video-of-collision-revealed/",
+     "author": "Ella Morrison",
+     "kind": "news",
+     "published": "2026-08-21T03:57:19+00:00",
+     "summary": "An NTSB investigator said Sokoloski was doing maintenance on his plane before the flight -- but it is not yet known if his Cessna was dealing with any mechanical issues."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Pilot killed as plane collides with police helicopter at airport, officials say",
+     "url": "https://www.cbsnews.com/news/small-plane-state-police-helicopter-midair-collision-carlisle-pennsylvania/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T00:09:41+00:00",
+     "summary": "One person was killed and two Pennsylvania State Police troopers were injured when a small plane collided with a state police helicopter on the ground in central Pennsylvania, authorities said."
+    },
+    {
+     "outlet": "escapecollective",
+     "title": "Police affidavit details crash that killed two Milligan cyclists",
+     "url": "https://escapecollective.com/police-affidavit-details-crash-that-killed-two-milligan-cyclists/",
+     "author": "Caley Fretz",
+     "kind": "news",
+     "published": "2026-08-20T23:17:46+00:00",
+     "summary": "A newly released police affidavit claims that there is &quot;no physical evidence&quot; that John Benfield, 69, the man charged with two counts of vehicular homicide in the deaths of Haylan Engdahl and Brayden Rogers, hit the brakes before crashing into a group of 11 Milligan College cyclists. Benfield &#x201c;was traveling at a distance and/or manner that did not allow him sufficient time or distance to perceive and react to the roadway conditions,&#x201d; the affidavit said. The affidavit also noted that officers on the scene reported smelling marijuana coming from Benfield&apos;s car. Benfield has been charged with two counts of vehicular homicide and five counts of reckless aggravated assault after he drove into the group of cyclists, killing Engdahl, of Winthrop Harbor, Illinois, and Rogers, of Huntsville, Alabama, and injuring a further seven riders. Benfield is scheduled to appear in court on August 31 and is being held on $300,000 bail. Engdahl and Rogers were sophomores at Milligan and rode for the school&apos;s collegiate racing team. Both died at the scene."
+    }
+   ]
+  },
+  {
    "id": "a7630dbee3",
    "topic": "Culture & Sport",
    "summary": "And now a reminder that Fernando Mendoza is going to have some difficult moments as a rookie, even though he was the NFL's first overall draft pick and is the hope for a bright future for the Las Vegas Raiders. On his second pass of the preseason game against the Houston Texans on Thursday night, Mendoza threw an interception. And not just any interception, because Texans linebacker Wade Woodaz plucked the ball out of the air and returned it 80 yards for a touchdown. RAIDERS ROOKIE FERNANDO MENDOZA THANKS GOD FOR NFL DEBUT THAT COMPARES FAVORABLY WITH 'MR. BRADY' No bueno, as they say in Miami, where Mendoza was born and grew up. Mendoza, clearly downcast, was seen red-faced on the Raiders sideline after the play even as some teammates tried to console him. Veteran Maxx Crosby , perhaps the Raiders' most accomplished player, was among the first to try to console young Mendoza. \"Yeah,\u2026",
@@ -2308,6 +2204,159 @@
      "kind": "news",
      "published": "2026-08-21T01:36:32+00:00",
      "summary": "Former NFL quarterback Robert Griffin III praised Fernando Mendoza, sending the rookie a message ahead of the Raiders&#039; season."
+    }
+   ]
+  },
+  {
+   "id": "939696399b",
+   "topic": "Politics",
+   "summary": "California is experiencing an educational paradox, according to Herb Morgan, a candidate for state controller \u2014 the state's chief fiscal officer, accountant and auditor. The Golden State, Morgan said, has spent billions of dollars educating public school students but has failed to boost educational outcomes despite the influx of taxpayer funds. California\u2019s K-12 education funding rose from $97 billion in 2019 to $151 billion for the current budget cycle, said Morgan, who tracks and lists state expenditures through his \"California Radical Transparency\" website, a political and financial oversight initiative designed to track and decode state spending. EXPLOSIVE REPORT FINDS $230M IN ALLEGED K-12 EDUCATION FRAUD AMID TRUMP'S CRACKDOWN: 'ESPECIALLY HIDEOUS' Per-student spending jumped from $16,300 to $27,400 over that same period, said Morgan, an investment professional. \"Why is it if\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "California controller candidate slams massive education spending despite worse student results",
+   "updated": "2026-08-21T03:16:06+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 3
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "California controller candidate slams massive education spending despite worse student results",
+     "url": "https://nypost.com/2026/08/20/us-news/california-controller-candidate-slams-massive-education-spending-despite-worse-student-results/",
+     "author": "Fox News",
+     "kind": "news",
+     "published": "2026-08-21T03:16:06+00:00",
+     "summary": "California is experiencing an educational paradox, according to Herb Morgan, a candidate for state controller \u2014 the state's chief fiscal officer, accountant and auditor."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Exclusive -- Iowa GOP Governor Candidate Slams Democrat in Ad For Massive Tax Hike Plot",
+     "url": "https://www.breitbart.com/politics/2026/08/20/exclusive-iowa-gop-governor-candidate-slams-democrat-in-ad-for-massive-tax-hike-plot/",
+     "author": "Mariane Angela",
+     "kind": "news",
+     "published": "2026-08-20T23:46:05+00:00",
+     "summary": "Republican Iowa gubernatorial candidate Zach Lahn released a campaign ad Thursday saying Democrat rival Rob Sand plans to raise the average Iowan's taxes by $7,500 a year. The post Exclusive &#8212; Iowa GOP Governor Candidate Slams Democrat in Ad For Massive Tax Hike Plot appeared first on Breitbart ."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "California controller candidate slams massive education spending despite worse student results",
+     "url": "https://www.foxnews.com/politics/california-controller-candidate-slams-massive-education-spending-despite-worse-student-results",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T21:17:52+00:00",
+     "summary": "California is experiencing an educational paradox, according to Herb Morgan, a candidate for state controller \u2014 the state's chief fiscal officer, accountant and auditor. The Golden State, Morgan said, has spent billions of dollars educating public school students but has failed to boost educational outcomes despite the influx of taxpayer funds. California\u2019s K-12 education funding rose from $97 billion in 2019 to $151 billion for the current budget cycle, said Morgan, who tracks and lists state expenditures through his \"California Radical Transparency\" website, a political and financial oversight initiative designed to track and decode state spending. EXPLOSIVE REPORT FINDS $230M IN ALLEGED K-12 EDUCATION FRAUD AMID TRUMP'S CRACKDOWN: 'ESPECIALLY HIDEOUS' Per-student spending jumped from $16,300 to $27,400 over that same period, said Morgan, an investment professional. \"Why is it if we're spending all this money, why aren't we getting the results? It's because we have a broken accountability feature in state finances,\" Morgan told Fox News Digital. The disconnect between funding and classroom outcomes is not a lack of resources, Morgan said, but a breakdown in financial accountabili"
+    }
+   ]
+  },
+  {
+   "id": "300bff45e1",
+   "topic": "Culture & Sport",
+   "summary": "A jury awarded $550,000 to two teenage girls who were left hanging upside down for nearly 30 minutes when an amusement park ride malfunctioned in Oregon. The jury voted 10-2 this week to award the teens $275,000 each in their case against Oaks Park and ride manufacturer Zamperla over the June 2024 malfunction of the AtmosFEAR ride in Portland , according to FOX 12 Oregon. About 30 riders were stranded upside down when the spinning pendulum-style ride became stuck in a vertical position on June 14, 2024. EXCLUSIVE: TEEN GIRLS RECALL JERSEY SHORE RIDE MALFUNCTION THAT LEFT THEM STUCK HANGING UPSIDE DOWN Portland Fire &amp; Rescue crews responded and worked with park engineers to manually lower the ride. The riders were brought down safely after roughly 25 minutes and medically evaluated. Oaks Park said in a statement to FOX 12 following the verdict: \"While we agree that the ride should\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Jury awards teens $550K after Oregon amusement park ride left them hanging upside down: report",
+   "updated": "2026-08-21T02:07:10+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "corp": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "Jury awards teens $550K after Oregon amusement park ride left them hanging upside down: report",
+     "url": "https://www.foxnews.com/us/jury-awards-teens-550k-oregon-amusement-park-ride-left-hanging-upside-down-report",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T02:07:10+00:00",
+     "summary": "A jury awarded $550,000 to two teenage girls who were left hanging upside down for nearly 30 minutes when an amusement park ride malfunctioned in Oregon. The jury voted 10-2 this week to award the teens $275,000 each in their case against Oaks Park and ride manufacturer Zamperla over the June 2024 malfunction of the AtmosFEAR ride in Portland , according to FOX 12 Oregon. About 30 riders were stranded upside down when the spinning pendulum-style ride became stuck in a vertical position on June 14, 2024. EXCLUSIVE: TEEN GIRLS RECALL JERSEY SHORE RIDE MALFUNCTION THAT LEFT THEM STUCK HANGING UPSIDE DOWN Portland Fire &amp; Rescue crews responded and worked with park engineers to manually lower the ride. The riders were brought down safely after roughly 25 minutes and medically evaluated. Oaks Park said in a statement to FOX 12 following the verdict: \"While we agree that the ride should not have become stuck, we are grateful that all of the riders are safe, and this incident is now resolved,\" the statement read. \"Safety is our top priority, and we will continue to work with ride manufacturers and state inspectors to ensure rider safety.\" The family of one of the teens, identified as E"
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Amusement Park Riders Get Massive Payout After Horror Ride",
+     "url": "https://www.thedailybeast.com/amusement-park-riders-get-massive-payout-after-horror-ride/",
+     "author": "Tomas Thor",
+     "kind": "news",
+     "published": "2026-08-20T16:47:20+00:00",
+     "summary": "Portland Fire & Rescue Two teenagers who were left dangling upside down on a malfunctioning amusement park ride have been awarded a combined $550,000. Xitlali Gomez-Salais and Evie Yannotta were 13 and 14 when they became trapped with 26 other riders on the AtmosFEAR pendulum ride at Oaks Amusement Park in Portland in June 2024. The ride malfunctioned during its 360-degree cycle, leaving passengers suspended about 100 feet in the air for 25 minutes. A jury awarded the girls, both now 16, $275,000 each Wednesday after they sued the park and ride manufacturer Zamperla for $2 million. \u201cJust the highest terror I ever felt,\u201d Yannotta testified. \u201cThere\u2019s nothing like it ever in my life,\u201d Gomez-Salais told jurors, saying she feared dying in front of her friends below. \u201cI didn\u2019t want people to see me die,\u201d she said. Both teens have suffered anxiety and post-traumatic stress since the incident, according to their lawsuits. \u201cWe are grateful that all of the riders are safe, and this incident is now resolved,\u201d a park spokesperson told KATU . Read it at New York Post Read more at The Daily Beast."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "VIDEO \u2014 Portland: Two Teens Awarded $275K Each After Being Trapped Upside Down on Amusement Ride",
+     "url": "https://www.breitbart.com/local/2026/08/20/video-portland-two-teens-awarded-275k-each-after-being-trapped-upside-down-on-amusement-ride/",
+     "author": "Amy Furr",
+     "kind": "news",
+     "published": "2026-08-20T16:44:13+00:00",
+     "summary": "Two teenagers were awarded $275,000 each this week by a jury in Multnomah County, Oregon, after a terrifying incident at an amusement park in Portland. The post VIDEO \u2014 Portland: Two Teens Awarded $275K Each After Being Trapped Upside Down on Amusement Ride appeared first on Breitbart ."
+    }
+   ]
+  },
+  {
+   "id": "15ae0baa2e",
+   "topic": "Other",
+   "summary": "In a royal surprise, Prince Harry and Duchess Meghan Markle plan to leave California and establish a home base in the United Kingdom, British media reported Wednesday. The couple and their two children, Prince Archie, 7, and Princess Lilibet, 5, will head back across the pond later this month after giving up their senior royal roles and settling in California during the coronavirus pandemic, The Telegraph reported. With the children set to start school in September, the couple is expected to keep their homes in Montecito, California, and Portugal. The move comes after years of bitter tensions between Harry and his estranged royal family \u2014 and just months after a low-key British trip that nonetheless caught the attention of royal watchers. In July, King Charles III privately met with Prince Harry, Meghan Markle, and their two children in the first family gathering since the royal rift\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
+   "updated": "2026-08-21T01:08:14+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 2,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
+     "url": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html",
+     "author": "Michael D. Shear",
+     "kind": "news",
+     "published": "2026-08-21T01:08:14+00:00",
+     "summary": "Just last year, Prince Harry said he couldn\u2019t imagine ever bringing his family back to Britain."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "PARTY IN THE USA: Prince Harry, Meghan Markle Returning To UK After Years Of Royal Turmoil",
+     "url": "https://www.dailywire.com/news/party-in-the-usa-prince-harry-meghan-markle-returning-to-uk-after-years-of-royal-turmoil",
+     "author": "Jacob Wheeler",
+     "kind": "opinion",
+     "published": "2026-08-20T07:05:33+00:00",
+     "summary": "In a royal surprise, Prince Harry and Duchess Meghan Markle plan to leave California and establish a home base in the United Kingdom, British media reported Wednesday. The couple and their two children, Prince Archie, 7, and Princess Lilibet, 5, will head back across the pond later this month after giving up their senior royal roles and settling in California during the coronavirus pandemic, The Telegraph reported. With the children set to start school in September, the couple is expected to keep their homes in Montecito, California, and Portugal. The move comes after years of bitter tensions between Harry and his estranged royal family \u2014 and just months after a low-key British trip that nonetheless caught the attention of royal watchers. In July, King Charles III privately met with Prince Harry, Meghan Markle, and their two children in the first family gathering since the royal rift erupted several years ago, The Daily Wire previously reported. The king and Queen Camilla met with the Duke and Duchess of Sussex, Prince Archie, and Princess Lilibet at the Highgrove House country estate. Relations deteriorated after Harry and Meghan\u2019s bombshell 2021 interview with Oprah Winfrey, in w"
+    },
+    {
+     "outlet": "bbc",
+     "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
+     "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T02:00:51+00:00",
+     "summary": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family."
     }
    ]
   },
@@ -2410,57 +2459,6 @@
      "kind": "news",
      "published": "2026-08-19T16:06:10+00:00",
      "summary": "Angie Nixon\u2019s victory in the Senate primary was powered by voters who normally don\u2019t gravitate to progressives in the state\u2019s lowest-income and less-educated counties."
-    }
-   ]
-  },
-  {
-   "id": "a976780ee0",
-   "topic": "World",
-   "summary": "North Korea mocked South Korea for being a US \u201cpuppet\u201d after President Donald Trump unilaterally curtailed the two countries\u2019 joint military drills.",
-   "summaryFrom": "bloomberg",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Trump wants to be friends with Kim - but South Korea could pay the price",
-   "updated": "2026-08-21T00:54:37+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 2,
-    "pub": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bloomberg",
-     "title": "Kim\u2019s Sister Mocks South Korea as US \u2018Puppet\u2019 Over Drill Cutback",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-21/kim-s-sister-mocks-south-korea-as-us-puppet-over-drill-cutback",
-     "author": "Soo-Hyang Choi",
-     "kind": "news",
-     "published": "2026-08-21T00:54:37+00:00",
-     "summary": "North Korea mocked South Korea for being a US \u201cpuppet\u201d after President Donald Trump unilaterally curtailed the two countries\u2019 joint military drills."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
-     "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T22:01:26+00:00",
-     "summary": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Trump\u2019s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say",
-     "url": "https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html",
-     "author": "Eric Schmitt and Helene Cooper",
-     "kind": "news",
-     "published": "2026-08-20T09:04:19+00:00",
-     "summary": "President Trump\u2019s decision to curtail the military exercises came as allies question the U.S. commitment to longstanding alliances."
     }
    ]
   },
@@ -2716,108 +2714,6 @@
      "kind": "news",
      "published": "2026-08-20T18:52:15+00:00",
      "summary": "Paris, Berlin, London and Rome on Thursday condemned Israel's decision to open bidding for a planned settlement project in the occupied West Bank. The sprawling \"E1\" development, which like all Israeli settlements in the occupied Palestinian territory is illegal under international law, would further cut Palestinian-majority east Jerusalem off from the West Bank."
-    }
-   ]
-  },
-  {
-   "id": "2055e9079d",
-   "topic": "World",
-   "summary": "Missile and drone attack one of heaviest since war began, with children\u2019s hospital and residential areas hit A heavy Russian missile and drone bombardment has killed at least 16 people in and around Kyiv in one of the most intense aerial attacks on Ukraine\u2019s capital since the start of the war. Vitali Klitschko, the city\u2019s mayor, said homes, a school and a children\u2019s medical centre were among the buildings damaged overnight in an attack that began at about midnight and was continuing into the early afternoon. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "More than 16 killed as Kyiv comes under intense Russian bombardment",
-   "updated": "2026-08-20T22:15:02+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 1,
-    "pub": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "More than 16 killed as Kyiv comes under intense Russian bombardment",
-     "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
-     "author": "Dan Sabbagh in Kyiv",
-     "kind": "news",
-     "published": "2026-08-20T22:15:02+00:00",
-     "summary": "Missile and drone attack one of heaviest since war began, with children\u2019s hospital and residential areas hit A heavy Russian missile and drone bombardment has killed at least 16 people in and around Kyiv in one of the most intense aerial attacks on Ukraine\u2019s capital since the start of the war. Vitali Klitschko, the city\u2019s mayor, said homes, a school and a children\u2019s medical centre were among the buildings damaged overnight in an attack that began at about midnight and was continuing into the early afternoon. Continue reading..."
-    },
-    {
-     "outlet": "france24",
-     "title": "Kyiv under fire: Russian strikes kill at least 16",
-     "url": "https://www.france24.com/en/video/20260820-kyiv-under-fire-russian-strikes-kill-at-least-16",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-20T14:04:35+00:00",
-     "summary": "A Russian missile barrage overnight on Thursday killed at least 16 people and wounded 40 in Kyiv as explosions echoed across the capital. Ukrainian President Volodymyr Zelensky said Russia had been preparing the attack \"for a long time\"."
-    },
-    {
-     "outlet": "dw",
-     "title": "Ukraine: Several killed in 'massive' Russian strikes on Kyiv",
-     "url": "https://www.dw.com/en/ukraine-several-killed-in-massive-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T08:59:00+00:00",
-     "summary": "The strikes on the Ukrainian capital and its surrounding regions also injured dozens, damaged buildings and caused power cuts. In neighboring Poland, the military started preventive operations to protect its airspace."
-    }
-   ]
-  },
-  {
-   "id": "43430ab588",
-   "topic": "Politics",
-   "summary": "Construction of a White House ballroom continues on Aug. 18, 2026, three days before a court-ordered deadline to halt construction unless Congress authorizes it. Win McNamee/Getty Images The fate of President Donald Trump\u2019s estimated US$400 million White House ballroom may hinge on the little-known and somewhat surprising rules as to when the federal government and its agencies can accept privately donated funds. That\u2019s because Trump\u2019s is using the fact that he\u2019s been accepting private donations to pay for at least some of the project\u2019s cost as a justification for not needing Congress\u2019 explicit authorization. A federal appeals court on Aug. 7, 2026, disagreed and left in place a lower court\u2019s injunction that\u2019s slated to halt construction on Aug. 21, barring Supreme Court intervention. As a scholar of nonprofit and tax-exempt law who has studied for decades how the law governs deductible\u2026",
-   "summaryFrom": "theconversation",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Is it illegal for the president to spend \u2018patriotic\u2019 donations on a White House ballroom or anything else?",
-   "updated": "2026-08-20T22:08:40+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 1,
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "theconversation",
-     "title": "Is it illegal for the president to spend \u2018patriotic\u2019 donations on a White House ballroom or anything else?",
-     "url": "https://theconversation.com/is-it-illegal-for-the-president-to-spend-patriotic-donations-on-a-white-house-ballroom-or-anything-else-290107",
-     "author": "Ellen P. Aprill, Senior Scholar in Residence at the UCLA Law School's Lowell Milken Center For Philanthropy And Nonprofit Law, University of California, Los Angeles",
-     "kind": "news",
-     "published": "2026-08-20T22:08:40+00:00",
-     "summary": "Construction of a White House ballroom continues on Aug. 18, 2026, three days before a court-ordered deadline to halt construction unless Congress authorizes it. Win McNamee/Getty Images The fate of President Donald Trump\u2019s estimated US$400 million White House ballroom may hinge on the little-known and somewhat surprising rules as to when the federal government and its agencies can accept privately donated funds. That\u2019s because Trump\u2019s is using the fact that he\u2019s been accepting private donations to pay for at least some of the project\u2019s cost as a justification for not needing Congress\u2019 explicit authorization. A federal appeals court on Aug. 7, 2026, disagreed and left in place a lower court\u2019s injunction that\u2019s slated to halt construction on Aug. 21, barring Supreme Court intervention. As a scholar of nonprofit and tax-exempt law who has studied for decades how the law governs deductible charitable contributions, including those to the government , I find that this appeals court decision calls for an explanation of the role that such private donations may play in any federal government project or activity. An intricate statutory dance is required for taxpayers to make donations to p"
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "New details about Trump's plans for Kennedy Center and White House ballroom",
-     "url": "https://www.cbsnews.com/news/trump-kennedy-center-white-house-ballroom-details/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T18:45:00+00:00",
-     "summary": "The latest court filings in cases involving the Kennedy Center and the White House ballroom project detail the work being done at the two institutions."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Trump's Director of Legislative Affairs, James Braid, to Depart White House",
-     "url": "https://www.breitbart.com/politics/2026/08/20/trumps-director-of-legislative-affairs-james-braid-to-depart-white-house/",
-     "author": "Nick Gilbertson",
-     "kind": "news",
-     "published": "2026-08-20T16:37:57+00:00",
-     "summary": "President Donald Trump announced that his director of legislative affairs, James Braid, will depart the White House next month. The post Trump&#8217;s Director of Legislative Affairs, James Braid, to Depart White House appeared first on Breitbart ."
     }
    ]
   },
@@ -3341,57 +3237,6 @@
    ]
   },
   {
-   "id": "297b2d1e10",
-   "topic": "Health",
-   "summary": "Tulsi Gabbard delivered a hopeful and emotional message in a video posted to X on Thursday morning, updating the success of her husband Abraham Williams' bone cancer surgery for sacral chordoma, an extremely rare cancer, and giving an update on the challenges of his recovery. \"A few weeks after the surgery was done, the pathologist and the doctors said that they are confident that they were able to cut out all of the cancerous bone and tissue,\" Gabbard said in a 3-minute video. \"So here we are now, almost three months after, and he started a very rigorous physical therapy program.\" \"He gets frustrated a lot because he wants to be able to make progress faster, and sometimes he's pushed a little bit too far, but overall, Abraham is progressing very well,\" Gabbard continued. \"The reality is that the battle isn't over yet.\" TULSI GABBARD REVEALS HUSBAND'S 'VERY RARE SACRAL CHORDOMA': 'IN A\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Tulsi Gabbard Shares Update on Husband\u2019s Rare Bone Cancer Battle",
-   "updated": "2026-08-20T17:29:08+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 3
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Tulsi Gabbard Shares Update on Husband\u2019s Rare Bone Cancer Battle",
-     "url": "https://www.breitbart.com/pre-viral/2026/08/20/tulsi-gabbard-shares-update-on-husbands-rare-bone-cancer-battle/",
-     "author": "Katherine Hamilton",
-     "kind": "news",
-     "published": "2026-08-20T17:29:08+00:00",
-     "summary": "Former Director of National Intelligence (DNI) Tulsi Gabbard shared an update on Thursday about her husband's struggle with a rare bone cancer, saying \"the battle isn't over yet.\" The post Tulsi Gabbard Shares Update on Husband\u2019s Rare Bone Cancer Battle appeared first on Breitbart ."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Tulsi Gabbard gives promising, emotional update on husband's successful bone cancer surgery",
-     "url": "https://www.foxnews.com/politics/tulsi-gabbard-promising-emotional-update-husbands-successful-bone-cancer-surgery",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T16:10:51+00:00",
-     "summary": "Tulsi Gabbard delivered a hopeful and emotional message in a video posted to X on Thursday morning, updating the success of her husband Abraham Williams' bone cancer surgery for sacral chordoma, an extremely rare cancer, and giving an update on the challenges of his recovery. \"A few weeks after the surgery was done, the pathologist and the doctors said that they are confident that they were able to cut out all of the cancerous bone and tissue,\" Gabbard said in a 3-minute video. \"So here we are now, almost three months after, and he started a very rigorous physical therapy program.\" \"He gets frustrated a lot because he wants to be able to make progress faster, and sometimes he's pushed a little bit too far, but overall, Abraham is progressing very well,\" Gabbard continued. \"The reality is that the battle isn't over yet.\" TULSI GABBARD REVEALS HUSBAND'S 'VERY RARE SACRAL CHORDOMA': 'IN A LOT OF PAIN' AFTER 7-HOUR SURGERY Gabbard announced her resignation in May from the Trump administration as director of national intelligence to support her husband's cancer fight . She officially stepped down from President Donald Trump's Cabinet at the end of June. \"We are so grateful to God for Hi"
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Tulsi Gabbard Shares Raw Update About Husband\u2019s Cancer Battle",
-     "url": "https://www.dailywire.com/news/tulsi-gabbard-shares-raw-update-about-husbands-cancer-battle",
-     "author": "Mary Margaret Olohan",
-     "kind": "opinion",
-     "published": "2026-08-20T08:07:18+00:00",
-     "summary": "WASHINGTON \u2014 The husband of former Director of National Intelligence Tulsi Gabbard underwent surgery for sacral chordoma cancer and is recovering well, Gabbard shared in an emotional video first obtained by The Daily Wire on Thursday. Gabbard said that her husband Abraham did not know he had cancer until he went to the doctor for pain in his back. Doctors then shared with him that he had a tumor growing around his tailbone, and after several rounds of biopsies, revealed that he had a diagnosis of &#8220;sacral chordoma&#8221; a &#8220;very very rare, one in a million type of cancer,&#8221; Gabbard said. &#8220;Everything got blurry at that moment for me,&#8221; she said, sharing that she was in a meeting at DNI when she learned the news. &#8220;I packed up all my stuff, got in the car, called Abraham, and said &#8216;I&#8217;m coming home,&#8217; and I got back to him as quickly as I could so that we could just sit together and process this confirmation that my husband has cancer.&#8221; Gabbard said doctors gave her husband two options: very invasive surgery, or radiation. She and her husband opted for the surgery and scheduled it as quickly as they could. In her video message, an"
-    }
-   ]
-  },
-  {
    "id": "02b1351a73",
    "topic": "Health",
    "summary": "Moderna and Merck shares soared on Wednesday after the companies said a personalized mRNA treatment hit its target of preventing skin cancer from recurring or spreading in a late-stage clinical trial. Why it matters: The results come at a pivotal moment for Moderna and mRNA research, after Trump administration health officials cut federal funding for new vaccines and asserted the technology poses more risks than rewards. The customized therapy, which could see a commercial launch next year, could also be adapted for other cancers of the kidney, bladder and pancreas. The big picture: The results could lead to a remarkable turnaround for Moderna, whose market value plummeted more than 90% after demand for its COVID vaccine declined post-pandemic. The company this month also won Food and Drug Administration approval for a new mRNA seasonal flu vaccine. \"People will experience this as ...\u2026",
@@ -3596,6 +3441,48 @@
    ]
   },
   {
+   "id": "9556079777",
+   "topic": "Other",
+   "summary": "A charter plane carrying eight people crashed Thursday near a remote radar site in western Alaska, federal authorities said.",
+   "summaryFrom": "cbsnews",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Small plane with 8 aboard crashes in Alaska: FAA",
+   "updated": "2026-08-21T04:07:47+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "abcnews",
+     "title": "Small plane with 8 aboard crashes in Alaska: FAA",
+     "url": "https://abcnews.com/US/small-plane-8-aboard-crashes-alaska-faa/story?id=135827761",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T04:07:47+00:00",
+     "summary": "The NTSB will investigate the crash."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Charter plane carrying 8 crashes in western Alaska, federal officials say",
+     "url": "https://www.cbsnews.com/news/charter-plane-crash-cape-newenham-alaska/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T03:26:00+00:00",
+     "summary": "A charter plane carrying eight people crashed Thursday near a remote radar site in western Alaska, federal authorities said."
+    }
+   ]
+  },
+  {
    "id": "415773b6a5",
    "topic": "Justice & Policing",
    "summary": "If you or someone you know is having thoughts of suicide, please contact the National Suicide Prevention Lifeline at 1 \u2014 800-273-TALK (8255). When Patrick Clancy took the stand in his ex-wife's murder trial, he had already begun building a new life hundreds of miles away in New York City, over four hours away from the Duxbury, Massachusetts home where Lindsay Clancy killed their her kids. Lindsay Clancy, 36, faces three counts of first-degree murder in the deaths of her children \u2014 Cora, Dawson and Callan, all under age 6 \u2014 who were found strangled at the family's home in January 2023. The prosecution concluded its case Monday morning, and her defense attorney has since begun presenting arguments, asserting that she was in the grip of postpartum psychosis when she killed her children. LINDSAY CLANCY PROSECUTORS \u2018SQUEEZE\u2019 TIMELINE FROM EX-HUSBAND AS JURY WEIGHS \u2018MURDER VERSUS MADNESS\u2019:\u2026",
@@ -3680,48 +3567,6 @@
    ]
   },
   {
-   "id": "9556079777",
-   "topic": "Other",
-   "summary": "A charter plane carrying eight people crashed Thursday near a remote radar site in western Alaska, federal authorities said.",
-   "summaryFrom": "cbsnews",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Small plane with 8 aboard crashes in Alaska: FAA",
-   "updated": "2026-08-21T03:34:56+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "abcnews",
-     "title": "Small plane with 8 aboard crashes in Alaska: FAA",
-     "url": "https://abcnews.com/US/small-plane-8-aboard-crashes-alaska-faa/story?id=135827761",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T03:34:56+00:00",
-     "summary": "The NTSB will investigate the crash."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Charter plane carrying 8 crashes in western Alaska, federal officials say",
-     "url": "https://www.cbsnews.com/news/charter-plane-crash-cape-newenham-alaska/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T03:26:00+00:00",
-     "summary": "A charter plane carrying eight people crashed Thursday near a remote radar site in western Alaska, federal authorities said."
-    }
-   ]
-  },
-  {
    "id": "e1ff4aadd8",
    "topic": "World",
    "summary": "US President Donald Trump's administration is ramping up third country deportations, with Mexican deportees being sent to Guatemala and reportedly Honduras in the past year.",
@@ -3760,48 +3605,6 @@
      "kind": "news",
      "published": "2026-08-21T00:12:37+00:00",
      "summary": "The Trump administration has ramped up deportations to third countries in an apparent bid to deter immigration."
-    }
-   ]
-  },
-  {
-   "id": "939696399b",
-   "topic": "Other",
-   "summary": "California is experiencing an educational paradox, according to Herb Morgan, a candidate for state controller \u2014 the state's chief fiscal officer, accountant and auditor. The Golden State, Morgan said, has spent billions of dollars educating public school students but has failed to boost educational outcomes despite the influx of taxpayer funds. California\u2019s K-12 education funding rose from $97 billion in 2019 to $151 billion for the current budget cycle, said Morgan, who tracks and lists state expenditures through his \"California Radical Transparency\" website, a political and financial oversight initiative designed to track and decode state spending. EXPLOSIVE REPORT FINDS $230M IN ALLEGED K-12 EDUCATION FRAUD AMID TRUMP'S CRACKDOWN: 'ESPECIALLY HIDEOUS' Per-student spending jumped from $16,300 to $27,400 over that same period, said Morgan, an investment professional. \"Why is it if\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "California controller candidate slams massive education spending despite worse student results",
-   "updated": "2026-08-21T03:16:06+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "California controller candidate slams massive education spending despite worse student results",
-     "url": "https://nypost.com/2026/08/20/us-news/california-controller-candidate-slams-massive-education-spending-despite-worse-student-results/",
-     "author": "Fox News",
-     "kind": "news",
-     "published": "2026-08-21T03:16:06+00:00",
-     "summary": "California is experiencing an educational paradox, according to Herb Morgan, a candidate for state controller \u2014 the state's chief fiscal officer, accountant and auditor."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "California controller candidate slams massive education spending despite worse student results",
-     "url": "https://www.foxnews.com/politics/california-controller-candidate-slams-massive-education-spending-despite-worse-student-results",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T21:17:52+00:00",
-     "summary": "California is experiencing an educational paradox, according to Herb Morgan, a candidate for state controller \u2014 the state's chief fiscal officer, accountant and auditor. The Golden State, Morgan said, has spent billions of dollars educating public school students but has failed to boost educational outcomes despite the influx of taxpayer funds. California\u2019s K-12 education funding rose from $97 billion in 2019 to $151 billion for the current budget cycle, said Morgan, who tracks and lists state expenditures through his \"California Radical Transparency\" website, a political and financial oversight initiative designed to track and decode state spending. EXPLOSIVE REPORT FINDS $230M IN ALLEGED K-12 EDUCATION FRAUD AMID TRUMP'S CRACKDOWN: 'ESPECIALLY HIDEOUS' Per-student spending jumped from $16,300 to $27,400 over that same period, said Morgan, an investment professional. \"Why is it if we're spending all this money, why aren't we getting the results? It's because we have a broken accountability feature in state finances,\" Morgan told Fox News Digital. The disconnect between funding and classroom outcomes is not a lack of resources, Morgan said, but a breakdown in financial accountabili"
     }
    ]
   },
@@ -3886,6 +3689,216 @@
      "kind": "news",
      "published": "2026-08-20T20:50:39+00:00",
      "summary": "Ahead of MLS schedule shifts and TV rights negotiations, the league entertains some bold new postseason ideas to increase interest (and boost its bottom line)."
+    }
+   ]
+  },
+  {
+   "id": "b23d723adb",
+   "topic": "Politics",
+   "summary": "Universal History Archive / Universal History Archive/Univer An aircraft carrier meant to be named after a Black sailor credited with rescuing shipmates during the attack on Pearl Harbor is inexplicably being renamed\u2014potentially after Donald Trump. Two unnamed sources cited by CNN late Thursday said there have been internal discussions about renaming the vessel to honor the 80-year-old president. The carrier was touted as a tribute to Doris \u201cDorie\u201d Miller back in Donald Trump\u2019s first term in the White House, and former Acting Secretary of the Navy Thomas Modly announced during a Martin Luther King, Jr. Day ceremony in January 2020 that it would be named the USS Doris Miller . Read more at The Daily Beast.",
+   "summaryFrom": "dailybeast",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Navy discusses renaming aircraft carrier after Trump instead of heroic Black sailor",
+   "updated": "2026-08-21T02:41:10+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nbcnews",
+     "title": "Navy discusses renaming aircraft carrier after Trump instead of heroic Black sailor",
+     "url": "https://www.nbcnews.com/politics/trump-administration/navy-discusses-renaming-aircraft-carrier-trump-black-uss-doris-miller-rcna593667",
+     "author": "Mosheh Gains",
+     "kind": "news",
+     "published": "2026-08-21T02:41:10+00:00",
+     "summary": "The USS Doris Miller would be the first aircraft carrier named after a Black and an enlisted sailor. The decision to name the carrier after Miller was made during Trump\u2019s first term."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Trump Plots Seizing Black Navy Hero\u2019s Honor for Himself",
+     "url": "https://www.thedailybeast.com/trump-plots-to-steal-navys-ultimate-honor-from-black-sailor/",
+     "author": "Vic Verbalaitis",
+     "kind": "news",
+     "published": "2026-08-20T21:42:24+00:00",
+     "summary": "Universal History Archive / Universal History Archive/Univer An aircraft carrier meant to be named after a Black sailor credited with rescuing shipmates during the attack on Pearl Harbor is inexplicably being renamed\u2014potentially after Donald Trump. Two unnamed sources cited by CNN late Thursday said there have been internal discussions about renaming the vessel to honor the 80-year-old president. The carrier was touted as a tribute to Doris \u201cDorie\u201d Miller back in Donald Trump\u2019s first term in the White House, and former Acting Secretary of the Navy Thomas Modly announced during a Martin Luther King, Jr. Day ceremony in January 2020 that it would be named the USS Doris Miller . Read more at The Daily Beast."
+    }
+   ]
+  },
+  {
+   "id": "b23a955d48",
+   "topic": "Politics",
+   "summary": "President Donald Trump's deputies sent more than 2,000 Mexican migrants back to their home country by flying and bussing them 2,000 miles to Mexico's far-southern border. The post Trump Admin Sends Thousands of Mexican Deportees Through Central America appeared first on Breitbart .",
+   "summaryFrom": "breitbart",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Trump Admin Sends Thousands of Mexican Deportees Through Central America",
+   "updated": "2026-08-21T02:21:48+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "breitbart",
+     "title": "Trump Admin Sends Thousands of Mexican Deportees Through Central America",
+     "url": "https://www.breitbart.com/immigration/2026/08/20/trump-admin-sends-thousands-of-mexican-deportees-through-central-america/",
+     "author": "Mariane Angela",
+     "kind": "news",
+     "published": "2026-08-21T02:21:48+00:00",
+     "summary": "President Donald Trump's deputies sent more than 2,000 Mexican migrants back to their home country by flying and bussing them 2,000 miles to Mexico's far-southern border. The post Trump Admin Sends Thousands of Mexican Deportees Through Central America appeared first on Breitbart ."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump admin sends 1st deportation flight to Haiti since ending TPS",
+     "url": "https://abcnews.com/Politics/trump-admin-sends-1st-deportation-flight-haiti-ending/story?id=135820753",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T00:34:20+00:00",
+     "summary": "The flight comes as TPS for Haiti, Ethiopia, Somalia, Syria, Myanmar and other countries ended following a U.S. Supreme Court order in June."
+    }
+   ]
+  },
+  {
+   "id": "64fc745074",
+   "topic": "Other",
+   "summary": "Images Press / Getty Images Nancy Kissinger, wife of former Secretary of State Henry Kissinger, has died at 92. The philanthropist and socialite died on Thursday at her home in South Kent, Connecticut, according to the New York Times . Her death was announced by her family. Henry Kissinger died in 2023, also at home, at 100. She was born Nancy Maginnes in Manhattan in 1934 and raised in White Plains, New York. Prior to marrying Kissinger in 1974, she worked as an aide to New York Governor Nelson Rockefeller. She was Kissinger\u2019s researcher while he worked at Harvard University, and later became a foreign policy specialist for Rockefeller\u2019s Commission on Critical Choices for Americans. She traveled widely with her husband on diplomatic missions. After Kissinger stepped down from Secretary of State in 1977, the couple became a fixture at Washington state dinners, embassy parties and\u2026",
+   "summaryFrom": "dailybeast",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Nancy Kissinger, Wife of Former Secretary of State, Dies at 92",
+   "updated": "2026-08-21T02:14:29+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "Nancy Kissinger, Wife of Former Secretary of State, Dies at 92",
+     "url": "https://www.nytimes.com/2026/08/20/us/nancy-kissinger-dead.html",
+     "author": "Robert D. McFadden",
+     "kind": "news",
+     "published": "2026-08-21T02:14:29+00:00",
+     "summary": "Nancy Kissinger, then Nancy Maginnes, with her future husband, Henry A. Kissinger, in Jerusalem in 1970. She was a fierce defender of Mr. Kissinger, a polarizing figure with a hotly disputed reputation."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "Nancy Kissinger Dies at Home at 92",
+     "url": "https://www.thedailybeast.com/nancy-kissinger-dies-at-home-at-92/",
+     "author": "Cameron Adams",
+     "kind": "news",
+     "published": "2026-08-21T00:19:00+00:00",
+     "summary": "Images Press / Getty Images Nancy Kissinger, wife of former Secretary of State Henry Kissinger, has died at 92. The philanthropist and socialite died on Thursday at her home in South Kent, Connecticut, according to the New York Times . Her death was announced by her family. Henry Kissinger died in 2023, also at home, at 100. She was born Nancy Maginnes in Manhattan in 1934 and raised in White Plains, New York. Prior to marrying Kissinger in 1974, she worked as an aide to New York Governor Nelson Rockefeller. She was Kissinger\u2019s researcher while he worked at Harvard University, and later became a foreign policy specialist for Rockefeller\u2019s Commission on Critical Choices for Americans. She traveled widely with her husband on diplomatic missions. After Kissinger stepped down from Secretary of State in 1977, the couple became a fixture at Washington state dinners, embassy parties and Republican White House receptions. The Times noted the \u201cash-blond, chain-smoking\u201d Mrs. Kissinger was nearly six feet tall, and her husband was 5-foot-8, \u201cbut friends said that they were a good match, intellectually and emotionally, and described them as inseparable.\u201d In 1982, when Ellen Kaplan, a follower "
+    }
+   ]
+  },
+  {
+   "id": "cf9051b9d1",
+   "topic": "Politics",
+   "summary": "Activity in Havana, once bustling, has dwindled as uncertainty grows about the city\u2019s future. Cuba\u2019s economy has suffered because of the U.S. blockade on oil shipments.",
+   "summaryFrom": "nyt",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "US sanctions more Cuban companies and officials",
+   "updated": "2026-08-21T02:06:28+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "US sanctions more Cuban companies and officials",
+     "url": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T02:06:28+00:00",
+     "summary": "An international socialist institute and Cuba's construction ministry are subject to the latest US sanctions, Marco Rubio announces."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Trump Officials Impose More Sanctions to Pressure Cuba",
+     "url": "https://www.nytimes.com/2026/08/20/us/politics/trump-cuba-sanctions.html",
+     "author": "Chris Cameron",
+     "kind": "news",
+     "published": "2026-08-20T22:28:19+00:00",
+     "summary": "Activity in Havana, once bustling, has dwindled as uncertainty grows about the city\u2019s future. Cuba\u2019s economy has suffered because of the U.S. blockade on oil shipments."
+    }
+   ]
+  },
+  {
+   "id": "ff6bf20d42",
+   "topic": "Culture & Sport",
+   "summary": "The New York Times was defeated in a defamation lawsuit Thursday brought by a former college basketball player and ordered to pay millions in damages. An Alabama jury ruled the Times defamed Kai Spears, then an 18-year-old freshman walk-on basketball player for the University of Alabama's Crimson Tide, who was swept up in a 2023 report linking him to a fatal shooting. After a nine-day trial, the eight-person jury determined that Spears was owed $9.25 million in damages. ISRAELI PM NETANYAHU INITIATING DEFAMATION LAWSUIT AGAINST NEW YORK TIMES OVER CONTROVERSIAL \u2018DOG RAPE\u2019 STORY Spears was mentioned in the March 2023 report authored by New York Times sportswriter Billy Witz. Spears was falsely identified as being a passenger in the car at the site of a January 2023 shooting that resulted in the death of 23-year-old Jamea Harris. The Times issued a lengthy editor's note to the report in\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "New York Times loses defamation suit, ordered to pay $9.25M to former Alabama basketball player",
+   "updated": "2026-08-21T01:50:16+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 0,
+   "opinionCount": 2,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "New York Times loses defamation suit, ordered to pay $9.25M to former Alabama basketball player",
+     "url": "https://www.foxnews.com/media/new-york-times-loses-defamation-suit-ordered-pay-9-25m-former-alabama-basketball-player",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-21T01:50:16+00:00",
+     "summary": "The New York Times was defeated in a defamation lawsuit Thursday brought by a former college basketball player and ordered to pay millions in damages. An Alabama jury ruled the Times defamed Kai Spears, then an 18-year-old freshman walk-on basketball player for the University of Alabama's Crimson Tide, who was swept up in a 2023 report linking him to a fatal shooting. After a nine-day trial, the eight-person jury determined that Spears was owed $9.25 million in damages. ISRAELI PM NETANYAHU INITIATING DEFAMATION LAWSUIT AGAINST NEW YORK TIMES OVER CONTROVERSIAL \u2018DOG RAPE\u2019 STORY Spears was mentioned in the March 2023 report authored by New York Times sportswriter Billy Witz. Spears was falsely identified as being a passenger in the car at the site of a January 2023 shooting that resulted in the death of 23-year-old Jamea Harris. The Times issued a lengthy editor's note to the report in June 2023, but only after Spears filed the defamation lawsuit at the U.S. District Court for the Northern District of Alabama. \"The original version of this article, published March 15, misidentified the person who was in the car with [Crimson Tide star player] Brandon Miller when the shooting occurre"
+    },
+    {
+     "outlet": "dailywire",
+     "title": "NYT Ordered To Pay Millions To College Athlete In Defamation Judgement",
+     "url": "https://www.dailywire.com/news/nyt-ordered-to-pay-millions-to-college-athlete-in-defamation-judgement",
+     "author": "Brecca Stoll",
+     "kind": "opinion",
+     "published": "2026-08-20T19:44:14+00:00",
+     "summary": "A federal jury on Thursday ordered The New York Times to pay a former University of Alabama men\u2019s basketball player $9.25 million in damages for falsely reporting that he was at the scene of a murder in Tuscaloosa, Alabama. The Times falsely claimed in March 2023 that Kai Spears was in former Alabama basketball star Brandon Miller&#8217;s vehicle at the scene of a January 2023 shooting that killed 23-year-old Jamea Harris. Spears was not in the vehicle. &#8220;We&#8217;re disappointed the jury found The Times liable for an honest mistake,&#8221; Times spokesman Charlie Stadtander said . &#8220;We thank the jury for its service, but believe the verdict and award of damages are contrary to law and not supported by the evidence. We are reviewing our legal options.&#8221; The Times later added an editor&#8217;s note acknowledging that the original article had &#8220;erroneously identified&#8221; Spears as the passenger based on information from a person familiar with the case. The newspaper noted that Alabama&#8217;s athletic director and Spears&#8217; father had denied that Spears was present after the article was initially published. Spears sued the Times in 2023, accusing the newspa"
     }
    ]
   }
