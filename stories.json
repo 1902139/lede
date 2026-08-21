@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T07:09:12.367436+00:00",
+ "generated": "2026-08-21T07:58:20.960735+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -167,7 +167,7 @@
      "url": "https://www.nytimes.com/2026/08/20/us/eric-swalwell-fbi-search-home.html",
      "author": "Alan Feuer",
      "kind": "news",
-     "published": "2026-08-20T20:12:08+00:00",
+     "published": "2026-08-20T20:12:09+00:00",
      "summary": "Most sex crimes are prosecuted by state and local authorities. The federal agents appeared to be using civil rights statutes to scrutinize Mr. Swalwell\u2019s conduct, a person familiar with the case said."
     },
     {
@@ -250,34 +250,34 @@
    "summary": "President Donald Trump speaks to members of the media near the White House helipad construction on the South Lawn of the White House in Washington, D.C., U.S., on Wednesday, Aug. 19, 2026. \u2014Al Drago\u2013\u2013The Washington Post/Bloomberg/Getty Images Iranian officials have dismissed President Donald Trump \u2019s threat to launch what he called the \u201cmost crushing economic operation\u201dagainst Tehran , as the nearly six-month war enters a new phase of economic pressure and negotiations between the two countries remain stalled. Trump announced the campaign late Wednesday, threatening consequences for countries that continue to provide Iran with access to global trade and financial networks. \u201cThis will be economic warfare and isolation on an unprecedented scale,\u201d he said . \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to\u2026",
    "summaryFrom": "time",
    "emphasis": {
-    "bigCount": 10,
+    "bigCount": 11,
     "indieCount": 3,
     "big": [
      "d-day",
-     "scott",
      "business",
+     "partners",
      "threat",
-     "only",
-     "warfare"
+     "scott",
+     "washington"
     ],
     "indie": [
-     "urges",
-     "join"
+     "join",
+     "urges"
     ]
    },
    "absent": [
     "coop"
    ],
    "headline": "US urges allies and China to join Iran economic pressure campaign",
-   "updated": "2026-08-21T05:29:26+00:00",
+   "updated": "2026-08-21T07:52:17+00:00",
    "outletCount": 12,
    "counts": {
     "corp": 3,
-    "family": 7,
+    "family": 8,
     "pub": 2,
     "nonprofit": 1
    },
-   "newsCount": 12,
+   "newsCount": 13,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
@@ -287,17 +287,17 @@
      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-economic-threat-defeat/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-21T05:29:26+00:00",
+     "published": "2026-08-21T07:52:17+00:00",
      "summary": "Iran has shrugged off President Trump's threat to hit the Islamic Republic with an \"economic D-Day\" as a \"doubling down on failed policies.\""
     },
     {
      "outlet": "nyt",
-     "title": "The Message Behind Trump\u2019s Threats of \u2018Economic Warfare\u2019 Against Iran",
-     "url": "https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html",
-     "author": "Anton Troianovski and Alan Rappeport",
+     "title": "Trump\u2019s Economic Threat Puts Focus on Iran\u2019s Trading Partners",
+     "url": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-trade-trump-threat-china.html",
+     "author": "Leo Sands",
      "kind": "news",
-     "published": "2026-08-21T02:58:51+00:00",
-     "summary": "Among the challenges for President Trump is that he has repeatedly threatened Iran with destruction, only to pull back."
+     "published": "2026-08-21T07:13:24+00:00",
+     "summary": "President Trump appeared to suggest that the United States would impose economic penalties on countries that do business with Iran, though he did not specify what actions he would take."
     },
     {
      "outlet": "france24",
@@ -334,6 +334,15 @@
      "kind": "news",
      "published": "2026-08-20T23:26:06+00:00",
      "summary": "\"Balance of Power: Late Edition\" focuses on the intersection of politics and global business. On today's show, Republican Rep. Mike Lawler of New York says the US should \"hold the Chinese to account\" for facilitating Iran's illicit oil trade as President Donald Trump pushes an economic \"D-Day\" against Tehran. Josh Lipsky, Vice President & Chair of International Economics at the Atlantic Council, says Beijing is betting President Donald Trump wants to make a \"big show\" of economic pressure on Iran but will stop short of squeezing Chinese banks. Dana Stroul, Senior Fellow and Director of Research at the Washington Institute for Near East Policy, says imposing more punishing economic pressure on Iran will depend on cooperation from partners including the UAE and China. (Source: Bloomberg)"
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Stroul: Trump's Iran Economic Push Needs Partners",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-20/stroul-trump-s-iran-economic-push-needs-partners-video",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T22:44:13+00:00",
+     "summary": "Dana Stroul, Senior Fellow and Director of Research at the Washington Institute for Near East Policy, says imposing more punishing economic pressure on Iran will depend on cooperation from partners including the UAE and China. She says the UAE's move to cut economic ties with Tehran could be \"extremely significant\" if fully implemented, while warning China has tools to retaliate against additional US pressure. She speaks with Kailey Leinz on the late edition of Bloomberg's \"Balance of Power.\" (Source: Bloomberg)"
     },
     {
      "outlet": "bloomberg",
@@ -409,16 +418,17 @@
     "bigCount": 7,
     "indieCount": 4,
     "big": [
-     "federal",
      "accused",
-     "appeared",
      "isis",
-     "year-old",
-     "announced"
+     "appeared",
+     "federal",
+     "announced",
+     "isis-inspired"
     ],
     "indie": [
      "terrorism",
-     "kill"
+     "kill",
+     "group"
     ]
    },
    "absent": [
@@ -483,15 +493,6 @@
      "summary": "The suspect, Jessica Bowie, 35, was arrested on charges of providing material support for &#039;terrorism&#039;."
     },
     {
-     "outlet": "nbcnews",
-     "title": "Alleged New York terror plot foiled",
-     "url": "https://www.nbcnews.com/nightly-news/video/alleged-new-york-terror-plot-foiled-268622917957",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T22:46:38+00:00",
-     "summary": "Federal authorities say they\u2019ve thwarted an ISIS-inspired attack on the New York state capitol building. The suspect, 35-year-old Jessica Bowie has been charged with providing support to a terror group. NBC News\u2019 Sam Brock has the story."
-    },
-    {
      "outlet": "wapo",
      "title": "Woman arrested in alleged ISIS-inspired plot to bomb New York Capitol",
      "url": "https://www.washingtonpost.com/politics/2026/08/20/woman-arrested-alleged-isis-inspired-plot-bomb-new-york-capitol/",
@@ -517,6 +518,15 @@
      "kind": "news",
      "published": "2026-08-20T19:31:12+00:00",
      "summary": "US authorities charged Jessica Bowie, a woman who allegedly supported the Islamic State group, with a terrorism offence Thursday after she told an FBI informant she \"wanted to destroy\" the New York State Capitol buildings."
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "FBI thwarts an alleged ISIS-inspired plot to bomb New York Capitol",
+     "url": "https://www.nbcnews.com/news/us-news/fbi-thwarts-isis-plot-bomb-new-york-capitol-building-rcna593595",
+     "author": "Marlene Lenthang",
+     "kind": "news",
+     "published": "2026-08-20T18:00:58+00:00",
+     "summary": "Jessica Bowie, 35, is accused of telling a confidential source with the FBI that she supported ISIS and asking for help learning to make explosives."
     },
     {
      "outlet": "dailywire",
@@ -547,12 +557,12 @@
     "bigCount": 8,
     "indieCount": 2,
     "big": [
-     "thursday",
      "interview",
+     "thursday",
      "york",
      "fixer",
      "weaponized'",
-     "enemy"
+     "bitter"
     ],
     "indie": [
      "once"
@@ -679,12 +689,12 @@
      "meeting"
     ],
     "indie": [
-     "missiles",
      "ballistic",
-     "launched",
-     "several",
+     "missiles",
+     "attempt",
      "japan",
-     "thursday"
+     "launched",
+     "several"
     ]
    },
    "absent": [
@@ -796,16 +806,16 @@
     "indieCount": 2,
     "big": [
      "iran",
-     "members",
      "heads",
+     "members",
      "diego",
      "months"
     ],
     "indie": [
-     "thursday",
      "living",
-     "conditions",
-     "poor"
+     "poor",
+     "thursday",
+     "conditions"
     ]
    },
    "absent": [
@@ -899,9 +909,217 @@
    ]
   },
   {
+   "id": "a4d297d67e",
+   "topic": "Politics",
+   "summary": "The Trump administration has designated an American scholar detained in China as wrongfully held after he traveled there at Beijing\u2019s invitation, escalating his case just weeks before President Donald Trump is set to host Chinese President Xi Jinping . Secretary of State Marco Rubio determined that U.S. citizen Min Zin is \"wrongfully detained\" after the State Department reviewed the circumstances of his June 3 detention in Yunnan, the State Department said Thursday. Zin had traveled to China for an academic conference at the invitation of the Chinese government, according to the department. PASTOR FREED FROM CHINESE PRISON AFTER TRUMP RAISED HIS CASE WITH XI JINPING He is now one of two U.S. citizens the State Department considers wrongfully detained in China. The other is Dr. Youlin Chen, a Chinese-born American seismologist from Boston. \"The safety and security of U.S. citizens is the\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": {
+    "bigCount": 7,
+    "indieCount": 2,
+    "big": [
+     "department",
+     "state",
+     "china",
+     "wrongfully",
+     "detained",
+     "citizen"
+    ],
+    "indie": [
+     "being"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Trump talks about grass as he shows off White House renovations \u2013 video",
+   "updated": "2026-08-20T18:49:36+00:00",
+   "outletCount": 7,
+   "counts": {
+    "corp": 2,
+    "family": 5,
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 7,
+   "opinionCount": 2,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "abcnews",
+     "title": "China wrongfully detaining US citizen, State Department declares",
+     "url": "https://abcnews.com/International/china-wrongfully-detaining-us-citizen-state-department-declares/story?id=135808767",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T18:49:36+00:00",
+     "summary": "The State Department said Thursday that an American citizen who traveled to China has been illegally detained by their government."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Rubio designates US citizen held in China as wrongfully detained as Trump prepares to host Xi at White House",
+     "url": "https://www.foxnews.com/politics/rubio-designates-us-citizen-held-china-wrongfully-detained-trump-prepares-host-xi-white-house",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T18:08:42+00:00",
+     "summary": "The Trump administration has designated an American scholar detained in China as wrongfully held after he traveled there at Beijing\u2019s invitation, escalating his case just weeks before President Donald Trump is set to host Chinese President Xi Jinping . Secretary of State Marco Rubio determined that U.S. citizen Min Zin is \"wrongfully detained\" after the State Department reviewed the circumstances of his June 3 detention in Yunnan, the State Department said Thursday. Zin had traveled to China for an academic conference at the invitation of the Chinese government, according to the department. PASTOR FREED FROM CHINESE PRISON AFTER TRUMP RAISED HIS CASE WITH XI JINPING He is now one of two U.S. citizens the State Department considers wrongfully detained in China. The other is Dr. Youlin Chen, a Chinese-born American seismologist from Boston. \"The safety and security of U.S. citizens is the State Department\u2019s top priority,\" Assistant Secretary Dylan Johnson said in a statement. \"We will continue to advocate for Mr. Zin and call for the release of all U.S. citizens who are arbitrarily detained or exit banned in China.\" Zin was detained at the airport after arriving in China and has been"
+    },
+    {
+     "outlet": "abcnews",
+     "title": "WATCH:  Trump hosts cryptocurrency executives at White House",
+     "url": "https://abcnews.com/video/135800626/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T15:30:08+00:00",
+     "summary": "President Donald Trump, who has made hundreds of millions of dollars in crypto, met at the White House with what he called a \"who's who\u201d of cryptocurrency leaders."
+    },
+    {
+     "outlet": "nyt",
+     "title": "State Dept. Declares U.S. Citizen in China Wrongfully Detained",
+     "url": "https://www.nytimes.com/2026/08/20/us/politics/scholar-china-wrongfully-detained.html",
+     "author": "Karoun Demirjian",
+     "kind": "news",
+     "published": "2026-08-20T14:59:45+00:00",
+     "summary": "The detained U.S. citizen U Min Zin disappeared in China\u2019s Yunnan province after traveling there to attend an academic conference at the invitation of the Chinese government, according to the State Department."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Key Trump Admin Liaison Between White House And Congress Is Leaving",
+     "url": "https://www.dailywire.com/news/key-trump-admin-liaison-between-white-house-and-congress-is-leaving",
+     "author": "Mary Margaret Olohan",
+     "kind": "opinion",
+     "published": "2026-08-20T11:24:34+00:00",
+     "summary": "WASHINGTON \u2014 White House Director of Legislative Affairs James Braid will depart the administration in September, President Donald Trump announced on Thursday. Braid acts as the administration&#8217;s liaison with Congress, ensuring that lawmakers are aligned with the president&#8217;s agenda and pushing his policy through. Braid, who most recently served as a policy aide to then-Senator JD Vance, was close to both the vice president and the president. He notably played a massive role in getting the &#8220;One Big Beautiful Bill&#8221; across the finish line and also was a major player in the recent housing bill and the &#8220;GENIUS Act,&#8221; which establishes guidelines for stablecoins. While his departure is notable, given his standing in the administration and his impact on Capitol Hill, Braid has been with the Trump administration since the beginning of the president&#8217;s second term in January 2025 and is choosing to depart ahead of the midterms like several other officials. &#8220;James has played a critical role in our many accomplishments with Congress, including THE ONE BIG BEAUTIFUL BILL, beating the Democrats in two shutdown showdowns, passing the GENIUS Act, defea"
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump talks about grass as he shows off White House renovations \u2013 video",
+     "url": "https://www.theguardian.com/us-news/video/2026/aug/19/trump-talks-grass-white-house",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T02:00:20+00:00",
+     "summary": "The US president waxed lyrical about grass being added around the new White House helipad in front of the media. 'You know, grass has a life like humans have a life,' Trump said Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Watch: Trump leads tour of White House helipad construction site",
+     "url": "https://www.bbc.co.uk/news/videos/c4g61p4n1z4o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T18:30:15+00:00",
+     "summary": "The work is being expedited ahead of Chinese President Xi Jinping\u2019s planned visit to the White House in late September."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump shows off his new helipad, brags about construction projects",
+     "url": "https://www.washingtonpost.com/politics/2026/08/19/trump-shows-off-his-new-helipad-brags-about-construction-projects/",
+     "author": "Dan Diamond",
+     "kind": "news",
+     "published": "2026-08-19T17:56:54+00:00",
+     "summary": "For a brief period Wednesday, the president set aside more troubling issues to revel in his role as White House redeveloper."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed",
+     "url": "https://www.foxnews.com/opinion/morning-glory-scotus-should-urgently-allow-construction-white-house-proceed",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-18T09:00:24+00:00",
+     "summary": "Because of extremely unfortunate, inexplicable and reckless decisions of two lower courts, U.S. Supreme Court Chief Justice John Roberts has before him an application for a stay of an order from the United States Court of Appeals for the District of Columbia Circuit which order upholds the imposition of a rococo construction schedule for the above-ground construction of the new East Wing of the White House , one which was ordered by U.S. District Judge Richard Leon\u2019s micromanagement of what can and cannot be built in the replacement structure of the now demolished old East Wing of the White House \u2014 an East Wing which was built in 1902 and expanded in 1942 when FDR had it substantially expanded and added underground facilities which include the Presidential Emergency Operations Center. An 84-year-old \"emergency center\" is, of course, outdated. Judge Leon and the Circuit have directed President Trump what he can and cannot build on the grounds of the Executive Mansion. Judge Leon is an old acquaintance of mine and has been a fine judge for his long tenure (he was appointed by President George W. Bush in 2002 and assumed senior status in 2016), but even the best judges throw a spanner"
+    }
+   ]
+  },
+  {
+   "id": "99bc697cde",
+   "topic": "World",
+   "summary": "A charter plane carrying two pilots and six passengers crashed at a remote radar site in western Alaska on Thursday, killing all eight people aboard, the U.S. military said via The Associated Press. The crash occurred at Cape Newenham Long Range Radar Site Airport, approximately 450 miles west of Anchorage, according to the AP. Joint Base Elmendorf-Richardson said the flight was chartered by the U.S. Army Corps of Engineers (USACE) and confirmed that two USACE employees were among those killed. \"We have received confirmation that the two USACE employees onboard were fatalities. Next of kin have been notified,\" officials said in a statement. \"We are coordinating closely with the appropriate local, state, and federal authorities.\" PENNSYLVANIA STATE POLICE HELICOPTER, SMALL PLANE COLLIDE IN MIDAIR, KILLING 1 AND INJURING 2 STATE TROOPERS \"This is a devastating loss for our military family\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": {
+    "bigCount": 4,
+    "indieCount": 2,
+    "big": [
+     "dead",
+     "cape",
+     "anchorage",
+     "newenham",
+     "crashes"
+    ],
+    "indie": []
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Alaska charter flight crash kills 8",
+   "updated": "2026-08-21T07:16:00+00:00",
+   "outletCount": 6,
+   "counts": {
+    "pub": 1,
+    "corp": 2,
+    "nonprofit": 1,
+    "family": 2
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "Alaska charter flight crash kills 8",
+     "url": "https://www.dw.com/en/alaska-charter-flight-crash-kills-8/a-78453258?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T07:16:00+00:00",
+     "summary": "A small \u200cCessna 441 plane operated by a private charter company crashed near a US military-managed radar site in Alaska. All on board have reportedly died."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "8 dead in charter plane crash at remote military radar site in Alaska",
+     "url": "https://www.cbsnews.com/news/charter-plane-crash-cape-newenham-alaska/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T06:54:00+00:00",
+     "summary": "A charter aircraft carrying eight people crashed at a remote radar site in western Alaska on Thursday, killing all on board, the U.S. military said."
+    },
+    {
+     "outlet": "npr",
+     "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
+     "url": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-21T06:41:33+00:00",
+     "summary": "A charter aircraft carrying eight people crashed at a remote radar site in western Alaska on Thursday, killing all on board, the U.S. military said. (Image credit: Andrew Harnik)"
+    },
+    {
+     "outlet": "nypost",
+     "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
+     "url": "https://nypost.com/2026/08/21/us-news/alaska-charter-plane-crash-kills-eight-at-cape-newenham-long-range-radar-site-airport/",
+     "author": "Nicholas McEntyre",
+     "kind": "news",
+     "published": "2026-08-21T06:29:43+00:00",
+     "summary": "A charter aircraft carrying eight people crashed at a remote radar site in western Alaska on Thursday, killing all on board, the US military said."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Charter plane crashes near remote radar site in western Alaska, killing all 8 aboard",
+     "url": "https://www.foxnews.com/us/charter-plane-8-aboard-crashes-remote-radar-site-western-alaska-report",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T05:39:50+00:00",
+     "summary": "A charter plane carrying two pilots and six passengers crashed at a remote radar site in western Alaska on Thursday, killing all eight people aboard, the U.S. military said via The Associated Press. The crash occurred at Cape Newenham Long Range Radar Site Airport, approximately 450 miles west of Anchorage, according to the AP. Joint Base Elmendorf-Richardson said the flight was chartered by the U.S. Army Corps of Engineers (USACE) and confirmed that two USACE employees were among those killed. \"We have received confirmation that the two USACE employees onboard were fatalities. Next of kin have been notified,\" officials said in a statement. \"We are coordinating closely with the appropriate local, state, and federal authorities.\" PENNSYLVANIA STATE POLICE HELICOPTER, SMALL PLANE COLLIDE IN MIDAIR, KILLING 1 AND INJURING 2 STATE TROOPERS \"This is a devastating loss for our military family and the communities we serve,\" U.S. Air Force Lt. Gen. Robert Davis, commander of Alaskan Command, the Alaskan North American Aerospace Defense Command Region and Eleventh Air Force, said in a statement obtained by the AP. The twin-engine Cessna was operated by Security Aviation and had been charter"
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "All 8 dead after charter plane crashes at remote military radar site in Alaska",
+     "url": "https://www.nbcnews.com/news/us-news/charter-plane-carrying-8-crashes-western-alaska-rcna593687",
+     "author": "Irene Byon",
+     "kind": "news",
+     "published": "2026-08-21T05:04:45+00:00",
+     "summary": "The plane took off from Anchorage and is believed to have crashed early Thursday afternoon on approach to Cape Newenham, an NTSB official said."
+    }
+   ]
+  },
+  {
    "id": "9fb183b941",
    "topic": "Justice & Policing",
-   "summary": "Lee Cheuk-yan and Chow Hang-tung - leaders of the Hong Kong Alliance \u2013 were tried under under a 2020 national security law Two Hong Kong activists who organised annual vigils marking China\u2019s deadly Tiananmen crackdown in 1989 were found guilty of \u201cincitement to subversion\u201d, in one of the most high-profile cases in Hong Kong since Beijing imposed its national security law in 2020. Lee Cheuk-yan, 69, and Chow Hang-tung, 41 \u201cincited other persons to organise, plan, commit or participate in acts by unlawful means with a view to subverting the state power\u201d, a press summary handed out to reporters said. Continue reading...",
+   "summary": "Lee Cheuk-yan and Chow Hang-tung - leaders of the Hong Kong Alliance \u2013 were tried under a 2020 national security law Two Hong Kong activists who organised annual vigils marking China\u2019s deadly Tiananmen crackdown in 1989 were found guilty of \u201cincitement to subversion\u201d, in one of the most high-profile cases in Hong Kong since Beijing imposed its national security law in 2020. Lee Cheuk-yan, 69, and Chow Hang-tung, 41 \u201cincited other persons to organise, plan, commit or participate in acts by unlawful means with a view to subverting the state power\u201d, a press summary handed out to reporters said. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": null,
    "absent": [
@@ -954,7 +1172,7 @@
      "author": "Danny Vincent in Hong Kong",
      "kind": "news",
      "published": "2026-08-21T03:28:02+00:00",
-     "summary": "Lee Cheuk-yan and Chow Hang-tung - leaders of the Hong Kong Alliance \u2013 were tried under under a 2020 national security law Two Hong Kong activists who organised annual vigils marking China\u2019s deadly Tiananmen crackdown in 1989 were found guilty of \u201cincitement to subversion\u201d, in one of the most high-profile cases in Hong Kong since Beijing imposed its national security law in 2020. Lee Cheuk-yan, 69, and Chow Hang-tung, 41 \u201cincited other persons to organise, plan, commit or participate in acts by unlawful means with a view to subverting the state power\u201d, a press summary handed out to reporters said. Continue reading..."
+     "summary": "Lee Cheuk-yan and Chow Hang-tung - leaders of the Hong Kong Alliance \u2013 were tried under a 2020 national security law Two Hong Kong activists who organised annual vigils marking China\u2019s deadly Tiananmen crackdown in 1989 were found guilty of \u201cincitement to subversion\u201d, in one of the most high-profile cases in Hong Kong since Beijing imposed its national security law in 2020. Lee Cheuk-yan, 69, and Chow Hang-tung, 41 \u201cincited other persons to organise, plan, commit or participate in acts by unlawful means with a view to subverting the state power\u201d, a press summary handed out to reporters said. Continue reading..."
     },
     {
      "outlet": "dw",
@@ -1064,185 +1282,6 @@
    ]
   },
   {
-   "id": "a4d297d67e",
-   "topic": "Politics",
-   "summary": "The Trump administration has designated an American scholar detained in China as wrongfully held after he traveled there at Beijing\u2019s invitation, escalating his case just weeks before President Donald Trump is set to host Chinese President Xi Jinping . Secretary of State Marco Rubio determined that U.S. citizen Min Zin is \"wrongfully detained\" after the State Department reviewed the circumstances of his June 3 detention in Yunnan, the State Department said Thursday. Zin had traveled to China for an academic conference at the invitation of the Chinese government, according to the department. PASTOR FREED FROM CHINESE PRISON AFTER TRUMP RAISED HIS CASE WITH XI JINPING He is now one of two U.S. citizens the State Department considers wrongfully detained in China. The other is Dr. Youlin Chen, a Chinese-born American seismologist from Boston. \"The safety and security of U.S. citizens is the\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": {
-    "bigCount": 6,
-    "indieCount": 2,
-    "big": [
-     "state",
-     "china",
-     "wrongfully",
-     "citizen",
-     "department",
-     "detained"
-    ],
-    "indie": [
-     "being"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Trump talks about grass as he shows off White House renovations \u2013 video",
-   "updated": "2026-08-20T18:49:36+00:00",
-   "outletCount": 6,
-   "counts": {
-    "corp": 2,
-    "family": 4,
-    "nonprofit": 1,
-    "pub": 1
-   },
-   "newsCount": 7,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "abcnews",
-     "title": "China wrongfully detaining US citizen, State Department declares",
-     "url": "https://abcnews.com/International/china-wrongfully-detaining-us-citizen-state-department-declares/story?id=135808767",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T18:49:36+00:00",
-     "summary": "The State Department said Thursday that an American citizen who traveled to China has been illegally detained by their government."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Rubio designates US citizen held in China as wrongfully detained as Trump prepares to host Xi at White House",
-     "url": "https://www.foxnews.com/politics/rubio-designates-us-citizen-held-china-wrongfully-detained-trump-prepares-host-xi-white-house",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T18:08:42+00:00",
-     "summary": "The Trump administration has designated an American scholar detained in China as wrongfully held after he traveled there at Beijing\u2019s invitation, escalating his case just weeks before President Donald Trump is set to host Chinese President Xi Jinping . Secretary of State Marco Rubio determined that U.S. citizen Min Zin is \"wrongfully detained\" after the State Department reviewed the circumstances of his June 3 detention in Yunnan, the State Department said Thursday. Zin had traveled to China for an academic conference at the invitation of the Chinese government, according to the department. PASTOR FREED FROM CHINESE PRISON AFTER TRUMP RAISED HIS CASE WITH XI JINPING He is now one of two U.S. citizens the State Department considers wrongfully detained in China. The other is Dr. Youlin Chen, a Chinese-born American seismologist from Boston. \"The safety and security of U.S. citizens is the State Department\u2019s top priority,\" Assistant Secretary Dylan Johnson said in a statement. \"We will continue to advocate for Mr. Zin and call for the release of all U.S. citizens who are arbitrarily detained or exit banned in China.\" Zin was detained at the airport after arriving in China and has been"
-    },
-    {
-     "outlet": "abcnews",
-     "title": "WATCH:  Trump hosts cryptocurrency executives at White House",
-     "url": "https://abcnews.com/video/135800626/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T15:30:08+00:00",
-     "summary": "President Donald Trump, who has made hundreds of millions of dollars in crypto, met at the White House with what he called a \"who's who\u201d of cryptocurrency leaders."
-    },
-    {
-     "outlet": "nyt",
-     "title": "State Dept. Declares U.S. Citizen in China Wrongfully Detained",
-     "url": "https://www.nytimes.com/2026/08/20/us/politics/scholar-china-wrongfully-detained.html",
-     "author": "Karoun Demirjian",
-     "kind": "news",
-     "published": "2026-08-20T14:59:45+00:00",
-     "summary": "The detained U.S. citizen U Min Zin disappeared in China\u2019s Yunnan province after traveling there to attend an academic conference at the invitation of the Chinese government, according to the State Department."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump talks about grass as he shows off White House renovations \u2013 video",
-     "url": "https://www.theguardian.com/us-news/video/2026/aug/19/trump-talks-grass-white-house",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T02:00:20+00:00",
-     "summary": "The US president waxed lyrical about grass being added around the new White House helipad in front of the media. 'You know, grass has a life like humans have a life,' Trump said Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Watch: Trump leads tour of White House helipad construction site",
-     "url": "https://www.bbc.co.uk/news/videos/c4g61p4n1z4o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T18:30:15+00:00",
-     "summary": "The work is being expedited ahead of Chinese President Xi Jinping\u2019s planned visit to the White House in late September."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Trump shows off his new helipad, brags about construction projects",
-     "url": "https://www.washingtonpost.com/politics/2026/08/19/trump-shows-off-his-new-helipad-brags-about-construction-projects/",
-     "author": "Dan Diamond",
-     "kind": "news",
-     "published": "2026-08-19T17:56:54+00:00",
-     "summary": "For a brief period Wednesday, the president set aside more troubling issues to revel in his role as White House redeveloper."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed",
-     "url": "https://www.foxnews.com/opinion/morning-glory-scotus-should-urgently-allow-construction-white-house-proceed",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-18T09:00:24+00:00",
-     "summary": "Because of extremely unfortunate, inexplicable and reckless decisions of two lower courts, U.S. Supreme Court Chief Justice John Roberts has before him an application for a stay of an order from the United States Court of Appeals for the District of Columbia Circuit which order upholds the imposition of a rococo construction schedule for the above-ground construction of the new East Wing of the White House , one which was ordered by U.S. District Judge Richard Leon\u2019s micromanagement of what can and cannot be built in the replacement structure of the now demolished old East Wing of the White House \u2014 an East Wing which was built in 1902 and expanded in 1942 when FDR had it substantially expanded and added underground facilities which include the Presidential Emergency Operations Center. An 84-year-old \"emergency center\" is, of course, outdated. Judge Leon and the Circuit have directed President Trump what he can and cannot build on the grounds of the Executive Mansion. Judge Leon is an old acquaintance of mine and has been a fine judge for his long tenure (he was appointed by President George W. Bush in 2002 and assumed senior status in 2016), but even the best judges throw a spanner"
-    }
-   ]
-  },
-  {
-   "id": "0aa6b2131d",
-   "topic": "World",
-   "summary": "A charter plane carrying two pilots and six passengers crashed at a remote radar site in western Alaska on Thursday, killing all eight people aboard, the U.S. military said via The Associated Press. The crash occurred at Cape Newenham Long Range Radar Site Airport, approximately 450 miles west of Anchorage, according to the AP. \"This is a devastating loss for our military family and the communities we serve,\" U.S. Air Force Lt. Gen. Robert Davis, commander of Alaskan Command, the Alaskan North American Aerospace Defense Command Region and Eleventh Air Force, said in a statement obtained by the AP. PENNSYLVANIA STATE POLICE HELICOPTER, SMALL PLANE COLLIDE IN MIDAIR, KILLING 1 AND INJURING 2 STATE TROOPERS The twin-engine Cessna was operated by Security Aviation and had been chartered to fly from Anchorage to Cape Newenham, located about 40 miles south of Goodnews Bay, according to KTUU.\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
-   "updated": "2026-08-21T06:54:33+00:00",
-   "outletCount": 5,
-   "counts": {
-    "corp": 2,
-    "nonprofit": 1,
-    "family": 2
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "8 dead in charter plane crash at remote radar site in western Alaska",
-     "url": "https://www.cbsnews.com/news/charter-plane-crash-cape-newenham-alaska/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T06:54:33+00:00",
-     "summary": "A charter aircraft carrying eight people crashed at a remote radar site in western Alaska on Thursday, killing all on board, the U.S. military said."
-    },
-    {
-     "outlet": "npr",
-     "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
-     "url": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-21T06:41:33+00:00",
-     "summary": "A charter aircraft carrying eight people crashed at a remote radar site in western Alaska on Thursday, killing all on board, the U.S. military said. (Image credit: Andrew Harnik)"
-    },
-    {
-     "outlet": "nypost",
-     "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
-     "url": "https://nypost.com/2026/08/21/us-news/alaska-charter-plane-crash-kills-eight-at-cape-newenham-long-range-radar-site-airport/",
-     "author": "Nicholas McEntyre",
-     "kind": "news",
-     "published": "2026-08-21T06:29:43+00:00",
-     "summary": "A charter aircraft carrying eight people crashed at a remote radar site in western Alaska on Thursday, killing all on board, the US military said."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Charter plane crashes near remote radar site in western Alaska, killing all 8 aboard",
-     "url": "https://www.foxnews.com/us/charter-plane-8-aboard-crashes-remote-radar-site-western-alaska-report",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T05:39:50+00:00",
-     "summary": "A charter plane carrying two pilots and six passengers crashed at a remote radar site in western Alaska on Thursday, killing all eight people aboard, the U.S. military said via The Associated Press. The crash occurred at Cape Newenham Long Range Radar Site Airport, approximately 450 miles west of Anchorage, according to the AP. \"This is a devastating loss for our military family and the communities we serve,\" U.S. Air Force Lt. Gen. Robert Davis, commander of Alaskan Command, the Alaskan North American Aerospace Defense Command Region and Eleventh Air Force, said in a statement obtained by the AP. PENNSYLVANIA STATE POLICE HELICOPTER, SMALL PLANE COLLIDE IN MIDAIR, KILLING 1 AND INJURING 2 STATE TROOPERS The twin-engine Cessna was operated by Security Aviation and had been chartered to fly from Anchorage to Cape Newenham, located about 40 miles south of Goodnews Bay, according to KTUU. Clint Johnson, the National Transportation Safety Board's Alaska region chief, previously told the AP that two pilots and six passengers were aboard the aircraft. The Alaska Rescue Coordination Center said it launched a search-and-rescue mission after receiving a report of an \"aircraft incident\" near"
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "All 8 dead after charter plane crashes at remote military radar site in Alaska",
-     "url": "https://www.nbcnews.com/news/us-news/charter-plane-carrying-8-crashes-western-alaska-rcna593687",
-     "author": "Irene Byon",
-     "kind": "news",
-     "published": "2026-08-21T05:04:45+00:00",
-     "summary": "The plane took off from Anchorage and is believed to have crashed early Thursday afternoon on approach to Cape Newenham, an NTSB official said."
-    }
-   ]
-  },
-  {
    "id": "269d732d38",
    "topic": "Justice & Policing",
    "summary": "Supreme court ordered transfer of ex-leader whose health is reportedly deteriorating, but he was returned to prison several hours later Pakistan\u2019s jailed former prime minister Imran Khan was briefly taken to a hospital in the country\u2019s capital on supreme court orders after weeks of uproar about his deteriorating health. Khan, 73, was transferred to the hospital in the early hours of Friday, but then moved back to Adiala prison in Rawalpindi after a \u2060few hours, a spokesperson for his party said on Friday. Continue reading...",
@@ -1312,93 +1351,6 @@
    ]
   },
   {
-   "id": "b58240b4fd",
-   "topic": "Politics",
-   "summary": "Y ou are reading this story only because the White House didn\u2019t want you to. I\u2019ll explain. This past Sunday, Georgia Senator Jon Ossoff \u2014who has become quite good at delivering viral campaign sound bites, slickly filmed by multiple cameras\u2014unleashed a blistering indictment of President Trump\u2019s leadership. Ossoff, a former documentary filmmaker who is generating 2028 buzz, denounced Trump\u2019s handling of the Iran war this way: \u201cWhile he fruitlessly drains our munitions and oil reserves, the president sleeps through his meetings. He golfs and trades stocks. See, he doesn\u2019t want to do the job. He wants to build his ballroom and travel with Natalie on their apparently defenseless flying palace gifted by the emir of Qatar.\u201d It was a pithy and well-structured attack, but not so different from the broadsides delivered daily by Democrats on the campaign trail or on MS NOW. But one new word stood\u2026",
-   "summaryFrom": "theatlantic",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 2,
-    "big": [
-     "lady",
-     "melania",
-     "year-old"
-    ],
-    "indie": []
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "White House faces questions over security clearance for top Trump aide Natalie Harp",
-   "updated": "2026-08-21T02:47:00+00:00",
-   "outletCount": 5,
-   "counts": {
-    "corp": 2,
-    "family": 2,
-    "nonprofit": 1,
-    "pub": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dailybeast",
-     "title": "Natalie Harp Makes Dramatic Move as Melania Returns",
-     "url": "https://www.thedailybeast.com/natalie-harp-makes-dramatic-move-as-melania-returns/",
-     "author": "Erkki Forster",
-     "kind": "news",
-     "published": "2026-08-21T02:47:00+00:00",
-     "summary": "REUTERS Donald Trump\u2019s ever-present aide Natalie Harp appeared to abandon her usual post by the president\u2019s side as Melania Trump made a rare White House appearance. The 56-year-old first lady resurfaced publicly for the first time in more than a month on Thursday, emerging from the White House holding hands with her 80-year-old husband before speaking about the expansion of her Fostering the Future Initiative in the Rose Garden. Read more at The Daily Beast."
-    },
-    {
-     "outlet": "theatlantic",
-     "title": "The White House Freak-Out Over Natalie Harp",
-     "url": "https://www.theatlantic.com/politics/2026/08/ossoff-trump-natalie-harp/688365/?utm_source=feed",
-     "author": "Jonathan Lemire",
-     "kind": "news",
-     "published": "2026-08-21T00:05:00+00:00",
-     "summary": "Y ou are reading this story only because the White House didn\u2019t want you to. I\u2019ll explain. This past Sunday, Georgia Senator Jon Ossoff \u2014who has become quite good at delivering viral campaign sound bites, slickly filmed by multiple cameras\u2014unleashed a blistering indictment of President Trump\u2019s leadership. Ossoff, a former documentary filmmaker who is generating 2028 buzz, denounced Trump\u2019s handling of the Iran war this way: \u201cWhile he fruitlessly drains our munitions and oil reserves, the president sleeps through his meetings. He golfs and trades stocks. See, he doesn\u2019t want to do the job. He wants to build his ballroom and travel with Natalie on their apparently defenseless flying palace gifted by the emir of Qatar.\u201d It was a pithy and well-structured attack, but not so different from the broadsides delivered daily by Democrats on the campaign trail or on MS NOW. But one new word stood out: Natalie . The line got a knowing laugh from a handful of observers in the room, and it electrified a subset of political obsessives on social media, who took to their favorite platforms and group chats with some version of \u201cOh, he went there!\u201d or \u201cI can\u2019t believe he did that!\u201d But although Ossof"
-    },
-    {
-     "outlet": "guardian",
-     "title": "White House faces questions over security clearance for top Trump aide Natalie Harp",
-     "url": "https://www.theguardian.com/us-news/2026/aug/20/natalie-harp-security-clearance",
-     "author": "Joseph Gedeon and David Smith in Washington",
-     "kind": "news",
-     "published": "2026-08-20T20:25:29+00:00",
-     "summary": "Former ethics tsar calls report that executive assistant to president worked for a year without clearance \u2018shocking\u2019 US politics live \u2013 latest updates The White House faced fresh questions on Thursday over whether Donald Trump\u2019s closest aide, Natalie Harp, had access to US government secrets without security clearance. Harp, who is executive assistant to the US president, worked at the White House for a year without the routine clearance, the MS Now network reported on Thursday . She refused to file the relevant forms for unknown reasons, according to two unnamed sources cited by MS Now. Continue reading..."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "All The Times Trump Was With Blonde Aide, 35, While Melania Was Missing",
-     "url": "https://www.thedailybeast.com/all-the-times-trump-was-with-natalie-harp-35-while-melania-was-missing/",
-     "author": "Josh Fiallo",
-     "kind": "news",
-     "published": "2026-08-20T19:53:57+00:00",
-     "summary": "Kevin Dietsch / Getty Images Donald Trump has been with his 35-year-old blonde aide at least 18 days in the last month\u2014a period in which First Lady Melania Trump has not been photographed with the president once. A Daily Beast analysis found that Natalie Harp, a former right-wing TV host who now makes $150,000 annually as the president\u2019s executive assistant, has been with Trump for at least 56 percent of the days since Melania last appeared publicly with him. Read more at The Daily Beast."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Key Trump Admin Liaison Between White House And Congress Is Leaving",
-     "url": "https://www.dailywire.com/news/key-trump-admin-liaison-between-white-house-and-congress-is-leaving",
-     "author": "Mary Margaret Olohan",
-     "kind": "opinion",
-     "published": "2026-08-20T11:24:34+00:00",
-     "summary": "WASHINGTON \u2014 White House Director of Legislative Affairs James Braid will depart the administration in September, President Donald Trump announced on Thursday. Braid acts as the administration&#8217;s liaison with Congress, ensuring that lawmakers are aligned with the president&#8217;s agenda and pushing his policy through. Braid, who most recently served as a policy aide to then-Senator JD Vance, was close to both the vice president and the president. He notably played a massive role in getting the &#8220;One Big Beautiful Bill&#8221; across the finish line and also was a major player in the recent housing bill and the &#8220;GENIUS Act,&#8221; which establishes guidelines for stablecoins. While his departure is notable, given his standing in the administration and his impact on Capitol Hill, Braid has been with the Trump administration since the beginning of the president&#8217;s second term in January 2025 and is choosing to depart ahead of the midterms like several other officials. &#8220;James has played a critical role in our many accomplishments with Congress, including THE ONE BIG BEAUTIFUL BILL, beating the Democrats in two shutdown showdowns, passing the GENIUS Act, defea"
-    },
-    {
-     "outlet": "bbc",
-     "title": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
-     "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T23:11:14+00:00",
-     "summary": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president."
-    }
-   ]
-  },
-  {
    "id": "17215fece8",
    "topic": "Justice & Policing",
    "summary": "Surveillance footage captured the brief window of time when a masked man wearing a creepy Chucky-style Halloween mask terrorized multiple people in downtown Philadelphia . Two police officers followed him before he evaded authorities, officials said Thursday. Zymire Hughes , 22, is being sought by the Philadelphia Police Department and the U.S. Marshals Service after an arrest warrant related to the Aug. 12 incident was issued. \"If Zymire Hughes was trying to scare people, make them run: Who's scared now? Who's running now?\" Philadelphia District Attorney Larry Krasner said during a news conference Thursday afternoon. POLICE IDENTIFY SUSPECT ACCUSED OF TERRORIZING PHILADELPHIA WOMEN WHILE WEARING CREEPY CHUCKY-STYLE MASK On Thursday, authorities released surveillance footage showing Hughes leaving his apartment before heading downtown by bus. Once in the downtown area, Hughes donned his\u2026",
@@ -1464,6 +1416,66 @@
      "kind": "news",
      "published": "2026-08-20T18:30:15+00:00",
      "summary": "An arrest warrant was issued for Zymire Hughes, who authorities called a \u201cpunk,\u201d saying they believe he may have fled Pennsylvania while having ties to California and Nevada."
+    }
+   ]
+  },
+  {
+   "id": "bdbea58663",
+   "topic": "Climate & Energy",
+   "summary": "The Panama Canal will limit daily vessel traffic from September 3, the Pnama Canal Authority said Thursday, as a severe drought fuelled by El Nino depletes water supplies needed to operate the vital trade route. The restrictions will reduce crossings from 36 ships a day to 34, and then to 32 from September 15.",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Panama Canal to cap ship transits due to El Nino drought",
+   "updated": "2026-08-21T07:30:00+00:00",
+   "outletCount": 4,
+   "counts": {
+    "pub": 4
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "Panama Canal to cap ship transits due to El Nino drought",
+     "url": "https://www.dw.com/en/panama-canal-to-cap-ship-transits-due-to-el-nino-drought/a-78453054?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T07:30:00+00:00",
+     "summary": "Panama Canal will cut daily transits of ships from September because of low rainfall and amid an intensifying El Nino event."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Panama Canal to cut number of ships passing through due to El Ni\u00f1o",
+     "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T06:46:08+00:00",
+     "summary": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Panama Canal to limit shipping ahead of extreme weather during El Nino",
+     "url": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T01:12:02+00:00",
+     "summary": "The El Nino weather phenomenon is expected to increase the likelihood of drought and excess heat across the region."
+    },
+    {
+     "outlet": "france24",
+     "title": "Panama Canal to cut daily ship traffic as drought worsens from El Nino",
+     "url": "https://www.france24.com/en/americas/20260820-panama-canal-to-cut-daily-ship-traffic-as-drought-worsens-from-el-nino",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-20T22:58:46+00:00",
+     "summary": "The Panama Canal will limit daily vessel traffic from September 3, the Pnama Canal Authority said Thursday, as a severe drought fuelled by El Nino depletes water supplies needed to operate the vital trade route. The restrictions will reduce crossings from 36 ships a day to 34, and then to 32 from September 15."
     }
    ]
   },
@@ -1837,66 +1849,6 @@
    ]
   },
   {
-   "id": "ba53169135",
-   "topic": "Politics",
-   "summary": "The Trump administration sought to lower interest rates with rhetoric and repurchases, as Washington\u2019s debt crossed a significant milestone. US President Donald Trump reiterated criticism of the Federal Reserve , pressing for it to cut rates, while the Treasury said it would increase purchases of long-dated bonds to contain borrowing costs. But banks including Barclays, ING, and Goldman Sachs forecast rates would stay unchanged at least through this year; traders are betting on an 80% likelihood of a hike over the next year . The bond buyback, meanwhile, risked a credibility crisis \u201c absent real fiscal consolidation ,\u201d JP Morgan economists wrote in a note to clients. That call came as US government debt topped the $40 trillion threshold for the first time . \u2014 Prashant Rao",
-   "summaryFrom": "semafor",
-   "emphasis": null,
-   "absent": [
-    "coop"
-   ],
-   "headline": "US national debt tops $40 trillion for first time, dealing blow to Trump",
-   "updated": "2026-08-20T20:28:01+00:00",
-   "outletCount": 4,
-   "counts": {
-    "corp": 1,
-    "family": 1,
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nbcnews",
-     "title": "'Nothing has gotten better': Focus group shares affordability concerns as US debt tops $40 trillion",
-     "url": "https://www.nbcnews.com/meet-the-press/video/-nothing-has-gotten-better-focus-group-shares-affordability-concerns-as-us-debt-tops-40-trillion-268608069671",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T20:28:01+00:00",
-     "summary": "NBC News' Allie Canal and Sahil Kapur join Meet the Press NOW as the U.S. national debt tops a record-breaking $40 trillion. Ravi Agrawal, editor in chief of Foreign Policy, discusses President Trump's plans for an \"Economic D-Day\" for Iran. An NBC News focus group produced by Syracuse University and the research firms Engagious and Sago finds that affordability remains the top issue for voters ahead of November's midterm elections."
-    },
-    {
-     "outlet": "semafor",
-     "title": "US debt tops $40 trillion threshold",
-     "url": "https://www.semafor.com/article/08/20/2026/us-debt-tops-40-trillion-threshold",
-     "author": "Prashant Rao",
-     "kind": "news",
-     "published": "2026-08-20T13:42:12+00:00",
-     "summary": "The Trump administration sought to lower interest rates with rhetoric and repurchases, as Washington\u2019s debt crossed a significant milestone. US President Donald Trump reiterated criticism of the Federal Reserve , pressing for it to cut rates, while the Treasury said it would increase purchases of long-dated bonds to contain borrowing costs. But banks including Barclays, ING, and Goldman Sachs forecast rates would stay unchanged at least through this year; traders are betting on an 80% likelihood of a hike over the next year . The bond buyback, meanwhile, risked a credibility crisis \u201c absent real fiscal consolidation ,\u201d JP Morgan economists wrote in a note to clients. That call came as US government debt topped the $40 trillion threshold for the first time . \u2014 Prashant Rao"
-    },
-    {
-     "outlet": "france24",
-     "title": "US national debt tops $40 trillion for first time, dealing blow to Trump",
-     "url": "https://www.france24.com/en/video/20260820-us-national-debt-tops-40-trillion-for-first-time-dealing-blow-to-trump",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-20T13:28:47+00:00",
-     "summary": "The US gross national debt has surged past $40 trillion for the first time, government data showed Wednesday, outstripping earlier forecasts at a pace fuelled in part by President Donald Trump's invalidated tariffs. The uptick in borrowing is a blow to Trump, who promised to cut public spending during his 2024 presidential campaign, and sparked a backlash from US representatives across the political field."
-    },
-    {
-     "outlet": "npr",
-     "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
-     "url": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
-     "author": "Brittney Melton",
-     "kind": "news",
-     "published": "2026-08-20T11:30:18+00:00",
-     "summary": "The U.S. debt has surpassed $40 trillion. And, a new census report on noncitizen voting that President Trump is touting has ties to a think tank aligned with him, raising concerns among experts. (Image credit: Mandel Ngan)"
-    }
-   ]
-  },
-  {
    "id": "eb36ec5b4f",
    "topic": "Politics",
    "summary": "The Trump administration is proposing to rescind the &#8220;roadless rule,&#8221; a 25-year-old policy that bars development like road construction and logging on nearly 45 million acres of national forest land, the U.S. Department of Agriculture announced Tuesday. In a press release , Secretary of Agriculture Brooke Rollins said the rule has led to overgrown and diseased forests ripe for deadly wildfires by limiting where the U.S. Forest Service can build roads and manage timber. Rescinding the roadless rule, the government said, will prioritize local decision-making over national-scale regulations. \u201cToday&#8217;s long overdue decision will empower states like Montana to pursue proper forest management on federal lands with local communities in mind,\u201d Montana Governor Greg Gianforte said in the release. In a letter published last fall , more than 30 leading forest science researchers\u2026",
@@ -1965,9 +1917,9 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "time",
      "member",
-     "office"
+     "office",
+     "time"
     ],
     "indie": []
    },
@@ -2179,57 +2131,6 @@
    ]
   },
   {
-   "id": "300bff45e1",
-   "topic": "Culture & Sport",
-   "summary": "A jury awarded $550,000 to two teenage girls who were left hanging upside down for nearly 30 minutes when an amusement park ride malfunctioned in Oregon. The jury voted 10-2 this week to award the teens $275,000 each in their case against Oaks Park and ride manufacturer Zamperla over the June 2024 malfunction of the AtmosFEAR ride in Portland , according to FOX 12 Oregon. About 30 riders were stranded upside down when the spinning pendulum-style ride became stuck in a vertical position on June 14, 2024. EXCLUSIVE: TEEN GIRLS RECALL JERSEY SHORE RIDE MALFUNCTION THAT LEFT THEM STUCK HANGING UPSIDE DOWN Portland Fire &amp; Rescue crews responded and worked with park engineers to manually lower the ride. The riders were brought down safely after roughly 25 minutes and medically evaluated. Oaks Park said in a statement to FOX 12 following the verdict: \"While we agree that the ride should\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Jury awards teens $550K after Oregon amusement park ride left them hanging upside down: report",
-   "updated": "2026-08-21T02:07:10+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 2,
-    "corp": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "Jury awards teens $550K after Oregon amusement park ride left them hanging upside down: report",
-     "url": "https://www.foxnews.com/us/jury-awards-teens-550k-oregon-amusement-park-ride-left-hanging-upside-down-report",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T02:07:10+00:00",
-     "summary": "A jury awarded $550,000 to two teenage girls who were left hanging upside down for nearly 30 minutes when an amusement park ride malfunctioned in Oregon. The jury voted 10-2 this week to award the teens $275,000 each in their case against Oaks Park and ride manufacturer Zamperla over the June 2024 malfunction of the AtmosFEAR ride in Portland , according to FOX 12 Oregon. About 30 riders were stranded upside down when the spinning pendulum-style ride became stuck in a vertical position on June 14, 2024. EXCLUSIVE: TEEN GIRLS RECALL JERSEY SHORE RIDE MALFUNCTION THAT LEFT THEM STUCK HANGING UPSIDE DOWN Portland Fire &amp; Rescue crews responded and worked with park engineers to manually lower the ride. The riders were brought down safely after roughly 25 minutes and medically evaluated. Oaks Park said in a statement to FOX 12 following the verdict: \"While we agree that the ride should not have become stuck, we are grateful that all of the riders are safe, and this incident is now resolved,\" the statement read. \"Safety is our top priority, and we will continue to work with ride manufacturers and state inspectors to ensure rider safety.\" The family of one of the teens, identified as E"
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Amusement Park Riders Get Massive Payout After Horror Ride",
-     "url": "https://www.thedailybeast.com/amusement-park-riders-get-massive-payout-after-horror-ride/",
-     "author": "Tomas Thor",
-     "kind": "news",
-     "published": "2026-08-20T16:47:20+00:00",
-     "summary": "Portland Fire & Rescue Two teenagers who were left dangling upside down on a malfunctioning amusement park ride have been awarded a combined $550,000. Xitlali Gomez-Salais and Evie Yannotta were 13 and 14 when they became trapped with 26 other riders on the AtmosFEAR pendulum ride at Oaks Amusement Park in Portland in June 2024. The ride malfunctioned during its 360-degree cycle, leaving passengers suspended about 100 feet in the air for 25 minutes. A jury awarded the girls, both now 16, $275,000 each Wednesday after they sued the park and ride manufacturer Zamperla for $2 million. \u201cJust the highest terror I ever felt,\u201d Yannotta testified. \u201cThere\u2019s nothing like it ever in my life,\u201d Gomez-Salais told jurors, saying she feared dying in front of her friends below. \u201cI didn\u2019t want people to see me die,\u201d she said. Both teens have suffered anxiety and post-traumatic stress since the incident, according to their lawsuits. \u201cWe are grateful that all of the riders are safe, and this incident is now resolved,\u201d a park spokesperson told KATU . Read it at New York Post Read more at The Daily Beast."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "VIDEO \u2014 Portland: Two Teens Awarded $275K Each After Being Trapped Upside Down on Amusement Ride",
-     "url": "https://www.breitbart.com/local/2026/08/20/video-portland-two-teens-awarded-275k-each-after-being-trapped-upside-down-on-amusement-ride/",
-     "author": "Amy Furr",
-     "kind": "news",
-     "published": "2026-08-20T16:44:13+00:00",
-     "summary": "Two teenagers were awarded $275,000 each this week by a jury in Multnomah County, Oregon, after a terrifying incident at an amusement park in Portland. The post VIDEO \u2014 Portland: Two Teens Awarded $275K Each After Being Trapped Upside Down on Amusement Ride appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
    "id": "7d84c4e850",
    "topic": "Politics",
    "summary": "First lady Melania Trump made a memorable return to the White House Rose Garden Thursday, greeting the crowd with a playful five-word message before an announcement filled with patriotism and horsepower. \"I heard you missed me. Here I am,\" Trump said as she took the podium, as the crowd \u2014 including President Donald Trump \u2014 erupted in laughter. The first lady stood before a wall of American flags in a crisp sky-blue oversized Michael Kors shirt with the collar popped and a vivid red Dior pencil skirt, echoing the patriotic setting. She completed the look with red Manolo Blahnik suede pumps. TRUMP SHOWCASES RAW AMERICAN MUSCLE IN PREVIEW OF FIRST-OF-ITS KIND AMERICA 250 GRAND PRIX And Trump's clothes weren't the only thing turning heads. Sitting nearby was an IndyCar decked out in red, white and blue and carrying the branding of the first lady's \"BE BEST\" and Fostering the Future\u2026",
@@ -2332,6 +2233,57 @@
    ]
   },
   {
+   "id": "b2ed9e3a93",
+   "topic": "Politics",
+   "summary": "Good evening, and welcome to this week&#8217;s &#8216; Ragebait .&#8217; Justin Baragona here, bringing you the latest media dispatches from the right-wing industrial outrage complex and Bari World. In tonight&#8217;s edition, we talk to journalism ethics experts on whether it is &#8220;fair game&#8221; for reporters to dig into the nature of Natalie Harp&#8217;s relationship with Donald Trump, and how newsrooms should navigate this story. Also, Disney is getting lauded for punching back against the Trump administration, but didn&#8217;t they help jumpstart his war against the media in the first place? Subscribe now Who&#8217;s Afraid of Natalie Harp? Donald Trump looks on as Natalie Harp places a computer playing a news report in the Oval Office on May 30, 2025. Photo by Francis Chung/Sipa USA via Reuters &#8220;Okay, back to the midterms because the Natalie stuff, I think, is strange.\u2026",
+   "summaryFrom": "zeteo",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "nonprofit"
+   ],
+   "headline": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
+   "updated": "2026-08-21T00:00:00+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "coop": 1,
+    "pub": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "Why I Decided to Publish Natalie Harp\u2019s Trump Letters: Author",
+     "url": "https://www.thedailybeast.com/why-i-decided-to-release-natalie-harps-unsettling-letters-michael-wolff/",
+     "author": "Erkki Forster",
+     "kind": "news",
+     "published": "2026-08-21T00:00:00+00:00",
+     "summary": "Photo Illustration by Victoria Sunday/The Daily Beast/Getty Images/Reuters Donald Trump\u2019s biographer is sounding the alarm on newly uncovered letters written by his \u201clovesick\u201d aide Natalie Harp, saying they offer a concerning glimpse into her extraordinary relationship with the president. \u201cThese letters are a red flag,\u201d author Michael Wolff told the Inside Trump\u2019s Head podcast. The Daily Beast on Thursday published, in full, two letters Harp, 35, wrote to Trump, 80 , revealing a relationship that appears to have few boundaries, amid mounting concerns over her proximity to the president and the nature of their relationship. Extracts from the letters have previously been published, but the full texts and images of the originals have never been seen. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "zeteo",
+     "title": "Is the Media Afraid of Covering the Natalie Harp-Donald Trump Dynamic?",
+     "url": "https://zeteo.com/p/is-the-media-afraid-of-covering-the",
+     "author": "Justin Baragona",
+     "kind": "news",
+     "published": "2026-08-20T00:16:28+00:00",
+     "summary": "Good evening, and welcome to this week&#8217;s &#8216; Ragebait .&#8217; Justin Baragona here, bringing you the latest media dispatches from the right-wing industrial outrage complex and Bari World. In tonight&#8217;s edition, we talk to journalism ethics experts on whether it is &#8220;fair game&#8221; for reporters to dig into the nature of Natalie Harp&#8217;s relationship with Donald Trump, and how newsrooms should navigate this story. Also, Disney is getting lauded for punching back against the Trump administration, but didn&#8217;t they help jumpstart his war against the media in the first place? Subscribe now Who&#8217;s Afraid of Natalie Harp? Donald Trump looks on as Natalie Harp places a computer playing a news report in the Oval Office on May 30, 2025. Photo by Francis Chung/Sipa USA via Reuters &#8220;Okay, back to the midterms because the Natalie stuff, I think, is strange. So I&#8217;m going to leave it there.&#8221; That was what MS NOW&#8217;s Katy Tur said to the New York Times&#8217;s Maggie Haberman on Tuesday afternoon following a several-minute conversation about Natalie Harp , the close aide to Donald Trump who has suddenly been thrust into the news cycle afte"
+    },
+    {
+     "outlet": "bbc",
+     "title": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
+     "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T23:11:14+00:00",
+     "summary": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president."
+    }
+   ]
+  },
+  {
    "id": "225b412fae",
    "topic": "Politics",
    "summary": "Republican Mike Rogers expressed support Thursday for a \u201cpause\u201d on data center construction as he runs against a progressive Democrat for Michigan's open Senate seat. Michigan is one of the top Senate battlegrounds this cycle, with Democrats hoping to hold on to the seat being vacated by retiring Sen. Gary Peters. Asked during a news conference about his \u201cpolicy on data centers,\u201d Rogers said, \u201cI think we need to take a pause, probably, and make sure that we're answering all the questions that people have.\" Rogers specified to the Detroit News that he supports a one-year moratorium on data centers in Michigan \u2014 a proposal state policymakers would approve \u2014 not a national ban. \u201cWhile I don't support a federal ban, Michigan needs stronger guardrails to protect community control, prevent utility price hikes, protect our water and stop pay-to-play schemes,\" Rogers told the News. \u201cThat is why\u2026",
@@ -2430,57 +2382,6 @@
      "kind": "news",
      "published": "2026-08-20T06:08:02+00:00",
      "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector."
-    }
-   ]
-  },
-  {
-   "id": "b248926892",
-   "topic": "World",
-   "summary": "Israel sharply criticized the UK after London voiced opposition to the Jewish state\u2019s support for settlements in the occupied West Bank, the latest in a series of rows with once strong Western allies. The UK\u2019s top diplomat called Israeli settlement expansion plans \u201c unacceptable and destructive ,\u201d adding to a barrage of criticism this week: London alongside Berlin, Paris, and Rome issued a joint statement condemning the settlements , while Germany and France labeled as \u201c inhumane \u201d remarks by an Israeli minister who called for killing \u201c30 to 40\u201d Gazans daily. Meanwhile, Australia acknowledged \u201c difficult \u201d relations with Israel over its decision not to probe an aid worker\u2019s killing. Even the US\u2019 staunchly pro-Israel envoy defended his earlier description of West Bank settlers as \u201cterrorists.\u201d \u2014 Tasneem Nashrulla",
-   "summaryFrom": "semafor",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-   "updated": "2026-08-20T22:18:32+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 1,
-    "pub": 2
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "semafor",
-     "title": "Israel clashes with allies over West Bank settlement project",
-     "url": "https://www.semafor.com/article/08/20/2026/israel-clashes-with-allies-over-west-bank-settlements",
-     "author": "Tasneem Nashrulla",
-     "kind": "news",
-     "published": "2026-08-20T22:18:32+00:00",
-     "summary": "Israel sharply criticized the UK after London voiced opposition to the Jewish state\u2019s support for settlements in the occupied West Bank, the latest in a series of rows with once strong Western allies. The UK\u2019s top diplomat called Israeli settlement expansion plans \u201c unacceptable and destructive ,\u201d adding to a barrage of criticism this week: London alongside Berlin, Paris, and Rome issued a joint statement condemning the settlements , while Germany and France labeled as \u201c inhumane \u201d remarks by an Israeli minister who called for killing \u201c30 to 40\u201d Gazans daily. Meanwhile, Australia acknowledged \u201c difficult \u201d relations with Israel over its decision not to probe an aid worker\u2019s killing. Even the US\u2019 staunchly pro-Israel envoy defended his earlier description of West Bank settlers as \u201cterrorists.\u201d \u2014 Tasneem Nashrulla"
-    },
-    {
-     "outlet": "bbc",
-     "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-     "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T18:55:14+00:00",
-     "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank."
-    },
-    {
-     "outlet": "france24",
-     "title": "France, Germany, UK and Italy slam Israel's 'E1' West Bank settler project",
-     "url": "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-20T18:52:15+00:00",
-     "summary": "Paris, Berlin, London and Rome on Thursday condemned Israel's decision to open bidding for a planned settlement project in the occupied West Bank. The sprawling \"E1\" development, which like all Israeli settlements in the occupied Palestinian territory is illegal under international law, would further cut Palestinian-majority east Jerusalem off from the West Bank."
     }
    ]
   },
@@ -2745,6 +2646,57 @@
      "kind": "news",
      "published": "2026-08-19T20:49:51+00:00",
      "summary": "The News As populist pushback builds against the AI industry and data centers that power it, Republicans who have cheered the AI boom are scrambling to find a new identity as middle-ground pragmatists. Instead of a moratorium on building new facilities, a growing number of GOP candidates have called for \u201cguardrails\u201d to protect skeptical communities from unchecked AI growth, as well as the rollback of industry tax breaks. These Republicans\u2019 rebrand also involves a bid for the high ground by attacking Democrats with more nuanced positions on data centers. They\u2019re aligned with President Donald Trump\u2019s White House, which tried to blunt anti-AI activists\u2019 momentum with a voluntary \u201cratepayer protection pledge,\u201d released in March with industry promises to foot the bill for the power demand from new data centers. Data centers \u201ccould use a little public relations help,\u201d Trump said on Wednesday. Democrats have a simple response on an issue where progressives have dominated : Remind voters that the industry prefers the other guy for a reason. In Texas, where GOP Gov. Greg Abbott is seeking a fourth term, Democrats are condemning a tax break for data centers that\u2019s been in place since he took"
+    }
+   ]
+  },
+  {
+   "id": "4fa0eebf14",
+   "topic": "Politics",
+   "summary": "The Trump administration sought to lower interest rates with rhetoric and repurchases, as Washington\u2019s debt crossed a significant milestone. US President Donald Trump reiterated criticism of the Federal Reserve , pressing for it to cut rates, while the Treasury said it would increase purchases of long-dated bonds to contain borrowing costs. But banks including Barclays, ING, and Goldman Sachs forecast rates would stay unchanged at least through this year; traders are betting on an 80% likelihood of a hike over the next year . The bond buyback, meanwhile, risked a credibility crisis \u201c absent real fiscal consolidation ,\u201d JP Morgan economists wrote in a note to clients. That call came as US government debt topped the $40 trillion threshold for the first time . \u2014 Prashant Rao",
+   "summaryFrom": "semafor",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
+   "updated": "2026-08-20T20:28:01+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nbcnews",
+     "title": "'Nothing has gotten better': Focus group shares affordability concerns as US debt tops $40 trillion",
+     "url": "https://www.nbcnews.com/meet-the-press/video/-nothing-has-gotten-better-focus-group-shares-affordability-concerns-as-us-debt-tops-40-trillion-268608069671",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T20:28:01+00:00",
+     "summary": "NBC News' Allie Canal and Sahil Kapur join Meet the Press NOW as the U.S. national debt tops a record-breaking $40 trillion. Ravi Agrawal, editor in chief of Foreign Policy, discusses President Trump's plans for an \"Economic D-Day\" for Iran. An NBC News focus group produced by Syracuse University and the research firms Engagious and Sago finds that affordability remains the top issue for voters ahead of November's midterm elections."
+    },
+    {
+     "outlet": "semafor",
+     "title": "US debt tops $40 trillion threshold",
+     "url": "https://www.semafor.com/article/08/20/2026/us-debt-tops-40-trillion-threshold",
+     "author": "Prashant Rao",
+     "kind": "news",
+     "published": "2026-08-20T13:42:12+00:00",
+     "summary": "The Trump administration sought to lower interest rates with rhetoric and repurchases, as Washington\u2019s debt crossed a significant milestone. US President Donald Trump reiterated criticism of the Federal Reserve , pressing for it to cut rates, while the Treasury said it would increase purchases of long-dated bonds to contain borrowing costs. But banks including Barclays, ING, and Goldman Sachs forecast rates would stay unchanged at least through this year; traders are betting on an 80% likelihood of a hike over the next year . The bond buyback, meanwhile, risked a credibility crisis \u201c absent real fiscal consolidation ,\u201d JP Morgan economists wrote in a note to clients. That call came as US government debt topped the $40 trillion threshold for the first time . \u2014 Prashant Rao"
+    },
+    {
+     "outlet": "npr",
+     "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
+     "url": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
+     "author": "Brittney Melton",
+     "kind": "news",
+     "published": "2026-08-20T11:30:18+00:00",
+     "summary": "The U.S. debt has surpassed $40 trillion. And, a new census report on noncitizen voting that President Trump is touting has ties to a think tank aligned with him, raising concerns among experts. (Image credit: Mandel Ngan)"
     }
    ]
   },
@@ -3126,44 +3078,86 @@
    ]
   },
   {
-   "id": "b997427dd6",
-   "topic": "Climate & Energy",
-   "summary": "The Panama Canal will limit daily vessel traffic from September 3, the Pnama Canal Authority said Thursday, as a severe drought fuelled by El Nino depletes water supplies needed to operate the vital trade route. The restrictions will reduce crossings from 36 ships a day to 34, and then to 32 from September 15.",
-   "summaryFrom": "france24",
+   "id": "e783904149",
+   "topic": "Culture & Sport",
+   "summary": "Christopher Nolan\u2019s epic adaptation of Homer\u2019s \"The Odyssey\" has surpassed \"Deadpool &amp; Wolverine\" to become the highest-grossing R-rated film of all time worldwide.",
+   "summaryFrom": "forbes",
    "emphasis": null,
    "absent": [
     "corp",
-    "family",
     "coop",
-    "nonprofit"
+    "nonprofit",
+    "pub"
    ],
-   "headline": "Panama Canal to cut number of ships passing through due to El Ni\u00f1o",
-   "updated": "2026-08-21T06:46:08+00:00",
+   "headline": "Chinese animated film mocked as \u2018terrible\u2019 becomes box-office hit",
+   "updated": "2026-08-21T07:57:35+00:00",
    "outletCount": 2,
    "counts": {
-    "pub": 2
+    "family": 2
    },
    "newsCount": 2,
    "opinionCount": 0,
-   "underreported": true,
+   "underreported": false,
    "articles": [
     {
-     "outlet": "bbc",
-     "title": "Panama Canal to cut number of ships passing through due to El Ni\u00f1o",
-     "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
-     "author": null,
+     "outlet": "nypost",
+     "title": "Chinese animated film mocked as \u2018terrible\u2019 becomes box-office hit",
+     "url": "https://nypost.com/2026/08/21/world-news/chinese-animated-film-niu-lai-mocked-as-terrible-becomes-a-box-office-hit/",
+     "author": "Associated Press",
      "kind": "news",
-     "published": "2026-08-21T06:46:08+00:00",
-     "summary": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision."
+     "published": "2026-08-21T07:57:35+00:00",
+     "summary": "The \"ugly\" Chinese animated film \"Niu Lai\" has become a surprise box-office hit, raking in $2.5 million after viral online mockery."
     },
     {
-     "outlet": "france24",
-     "title": "Panama Canal to cut daily ship traffic as drought worsens from El Nino",
-     "url": "https://www.france24.com/en/americas/20260820-panama-canal-to-cut-daily-ship-traffic-as-drought-worsens-from-el-nino",
-     "author": "FRANCE 24",
+     "outlet": "forbes",
+     "title": "\u2018The Odyssey\u2019 Sets Box Office Record For Highest-Grossing R-Rated Film",
+     "url": "https://www.forbes.com/sites/timlammers/2026/08/20/the-odyssey-sets-box-office-record-for-highest-grossing-r-rated-film/",
+     "author": "Tim Lammers, Contributor",
      "kind": "news",
-     "published": "2026-08-20T22:58:46+00:00",
-     "summary": "The Panama Canal will limit daily vessel traffic from September 3, the Pnama Canal Authority said Thursday, as a severe drought fuelled by El Nino depletes water supplies needed to operate the vital trade route. The restrictions will reduce crossings from 36 ships a day to 34, and then to 32 from September 15."
+     "published": "2026-08-20T18:13:45+00:00",
+     "summary": "Christopher Nolan\u2019s epic adaptation of Homer\u2019s \"The Odyssey\" has surpassed \"Deadpool &amp; Wolverine\" to become the highest-grossing R-rated film of all time worldwide."
+    }
+   ]
+  },
+  {
+   "id": "042c210c88",
+   "topic": "Other",
+   "summary": "A man believed to have been the longest-serving prisoner in U.S. history has died at the age of 101, having his execution scheduled and postponed eight times as he maintained his innocence despite a murder conviction in Connecticut. Francis Clifford Smith died in his sleep in late June at 60 West, a secured Connecticut nursing facility that cares for older people in the justice system, according to the facility. Smith, who was just months away from turning 102, was cremated without a funeral. \"Essentially, he died of old age,\" 60 West spokesman David Skoczulek told the BBC. \"He had very limited family involvement around his passing but we assured it was appropriate, met his wishes and was dignified.\" CALIFORNIA INMATE WHO SPENT 45 YEARS ON DEATH ROW FOR MURDERING PREGNANT WIFE DIES Smith was 25 when he was first sentenced to death for the fatal shooting of Grover Hart, a 68-year-old\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Spared execution eight times, oldest inmate in US dies at 101",
+   "updated": "2026-08-21T07:00:41+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "foxnews",
+     "title": "Longest-serving US prisoner dies at 101 after escaping death penalty 8 times",
+     "url": "https://www.foxnews.com/us/longest-serving-us-prisoner-dies-101-escaping-death-penalty-8-times",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T07:00:41+00:00",
+     "summary": "A man believed to have been the longest-serving prisoner in U.S. history has died at the age of 101, having his execution scheduled and postponed eight times as he maintained his innocence despite a murder conviction in Connecticut. Francis Clifford Smith died in his sleep in late June at 60 West, a secured Connecticut nursing facility that cares for older people in the justice system, according to the facility. Smith, who was just months away from turning 102, was cremated without a funeral. \"Essentially, he died of old age,\" 60 West spokesman David Skoczulek told the BBC. \"He had very limited family involvement around his passing but we assured it was appropriate, met his wishes and was dignified.\" CALIFORNIA INMATE WHO SPENT 45 YEARS ON DEATH ROW FOR MURDERING PREGNANT WIFE DIES Smith was 25 when he was first sentenced to death for the fatal shooting of Grover Hart, a 68-year-old night watchman at a Connecticut yacht club, during an attempted robbery on July 23, 1949. Smith was one of two men arrested in connection with the killing. The other man, George Lowden, took a plea deal and initially implicated Smith, although Lowden later said authorities had beaten him into making the"
+    },
+    {
+     "outlet": "bbc",
+     "title": "Spared execution eight times, oldest inmate in US dies at 101",
+     "url": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T11:22:09+00:00",
+     "summary": "Francis Smith was one of a growing number of elderly people who are incarcerated."
     }
    ]
   },
@@ -3210,6 +3204,48 @@
    ]
   },
   {
+   "id": "ba53169135",
+   "topic": "Politics",
+   "summary": "The US gross national debt has surged past $40 trillion for the first time, government data showed Wednesday, outstripping earlier forecasts at a pace fuelled in part by President Donald Trump's invalidated tariffs. The uptick in borrowing is a blow to Trump, who promised to cut public spending during his 2024 presidential campaign, and sparked a backlash from US representatives across the political field.",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "US national debt tops $40 trillion for first time, dealing blow to Trump",
+   "updated": "2026-08-21T06:35:47+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "forbes",
+     "title": "Bitcoin Tops $75,000 For The First Time Since May As Crypto Surge Continues",
+     "url": "https://www.forbes.com/sites/siladityaray/2026/08/21/bitcoin-tops-75000-for-the-first-time-since-may-as-crypto-surge-continues/",
+     "author": "Siladitya Ray, Forbes Staff",
+     "kind": "news",
+     "published": "2026-08-21T06:35:47+00:00",
+     "summary": "The crypto surge comes after President Trump called for the passage of the long-stalled CLARITY Act and the Treasury intervened in the bond market\u2014boosting appetite for risky bets."
+    },
+    {
+     "outlet": "france24",
+     "title": "US national debt tops $40 trillion for first time, dealing blow to Trump",
+     "url": "https://www.france24.com/en/video/20260820-us-national-debt-tops-40-trillion-for-first-time-dealing-blow-to-trump",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-20T13:28:47+00:00",
+     "summary": "The US gross national debt has surged past $40 trillion for the first time, government data showed Wednesday, outstripping earlier forecasts at a pace fuelled in part by President Donald Trump's invalidated tariffs. The uptick in borrowing is a blow to Trump, who promised to cut public spending during his 2024 presidential campaign, and sparked a backlash from US representatives across the political field."
+    }
+   ]
+  },
+  {
    "id": "a32f45a9e8",
    "topic": "Other",
    "summary": "The new prince now has equal inheritance rights to Laurent's private estate alongside his three half-siblings.",
@@ -3248,6 +3284,48 @@
      "kind": "news",
      "published": "2026-08-20T10:14:47+00:00",
      "summary": "Cl\u00e9ment Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony."
+    }
+   ]
+  },
+  {
+   "id": "3ab9d1817c",
+   "topic": "World",
+   "summary": "Report says violence is moving from Israeli-controlled areas to those earmarked for a future Palestinian state Violent Israeli settler attacks in the two areas of the occupied West Bank under direct Palestinian rule have almost doubled since 2025, as settlers pursue a self-proclaimed \u201cgreat settlement revolution\u201d in the very heart of the territory earmarked for a Palestinian state. According to a report by the Israeli human rights organisation Yesh Din , shared with the Guardian, data shows that almost two-thirds of incidents of settler violence so far in 2026 have taken place in the so-called Areas A and B \u2013 placed under Palestinian Authority governance in the 1995 Oslo accords. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
+   "updated": "2026-08-21T06:00:26+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
+     "url": "https://www.theguardian.com/world/2026/aug/21/israeli-settler-attacks-shift-to-heart-of-territory-earmarked-for-palestinian-state",
+     "author": "Peter Beaumont and Quique Kierszenbaum in Jerusalem",
+     "kind": "news",
+     "published": "2026-08-21T06:00:26+00:00",
+     "summary": "Report says violence is moving from Israeli-controlled areas to those earmarked for a future Palestinian state Violent Israeli settler attacks in the two areas of the occupied West Bank under direct Palestinian rule have almost doubled since 2025, as settlers pursue a self-proclaimed \u201cgreat settlement revolution\u201d in the very heart of the territory earmarked for a Palestinian state. According to a report by the Israeli human rights organisation Yesh Din , shared with the Guardian, data shows that almost two-thirds of incidents of settler violence so far in 2026 have taken place in the so-called Areas A and B \u2013 placed under Palestinian Authority governance in the 1995 Oslo accords. Continue reading..."
+    },
+    {
+     "outlet": "france24",
+     "title": "France, Germany, UK and Italy slam Israel's 'E1' West Bank settler project",
+     "url": "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-20T18:52:15+00:00",
+     "summary": "Paris, Berlin, London and Rome on Thursday condemned Israel's decision to open bidding for a planned settlement project in the occupied West Bank. The sprawling \"E1\" development, which like all Israeli settlements in the occupied Palestinian territory is illegal under international law, would further cut Palestinian-majority east Jerusalem off from the West Bank."
     }
    ]
   },
@@ -3416,6 +3494,48 @@
      "kind": "news",
      "published": "2026-08-20T22:35:14+00:00",
      "summary": "We're beginning a series of stories on Afghanistan 25 years after the Sept. 11 attacks and the start of the American war there. In our first report, we have a look at the lives of three people and their families and how they are faring five years after the Taliban wrenched control from the U.S.-supported government. Special Correspondent Leila Molana-Allen and videographer Eric O'Connor report."
+    }
+   ]
+  },
+  {
+   "id": "dd89863c39",
+   "topic": "World",
+   "summary": "Israel sharply criticized the UK after London voiced opposition to the Jewish state\u2019s support for settlements in the occupied West Bank, the latest in a series of rows with once strong Western allies. The UK\u2019s top diplomat called Israeli settlement expansion plans \u201c unacceptable and destructive ,\u201d adding to a barrage of criticism this week: London alongside Berlin, Paris, and Rome issued a joint statement condemning the settlements , while Germany and France labeled as \u201c inhumane \u201d remarks by an Israeli minister who called for killing \u201c30 to 40\u201d Gazans daily. Meanwhile, Australia acknowledged \u201c difficult \u201d relations with Israel over its decision not to probe an aid worker\u2019s killing. Even the US\u2019 staunchly pro-Israel envoy defended his earlier description of West Bank settlers as \u201cterrorists.\u201d \u2014 Tasneem Nashrulla",
+   "summaryFrom": "semafor",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+   "updated": "2026-08-21T05:00:57+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+     "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T05:00:57+00:00",
+     "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful."
+    },
+    {
+     "outlet": "semafor",
+     "title": "Israel clashes with allies over West Bank settlement project",
+     "url": "https://www.semafor.com/article/08/20/2026/israel-clashes-with-allies-over-west-bank-settlements",
+     "author": "Tasneem Nashrulla",
+     "kind": "news",
+     "published": "2026-08-20T22:18:32+00:00",
+     "summary": "Israel sharply criticized the UK after London voiced opposition to the Jewish state\u2019s support for settlements in the occupied West Bank, the latest in a series of rows with once strong Western allies. The UK\u2019s top diplomat called Israeli settlement expansion plans \u201c unacceptable and destructive ,\u201d adding to a barrage of criticism this week: London alongside Berlin, Paris, and Rome issued a joint statement condemning the settlements , while Germany and France labeled as \u201c inhumane \u201d remarks by an Israeli minister who called for killing \u201c30 to 40\u201d Gazans daily. Meanwhile, Australia acknowledged \u201c difficult \u201d relations with Israel over its decision not to probe an aid worker\u2019s killing. Even the US\u2019 staunchly pro-Israel envoy defended his earlier description of West Bank settlers as \u201cterrorists.\u201d \u2014 Tasneem Nashrulla"
     }
    ]
   },
@@ -3710,132 +3830,6 @@
      "kind": "news",
      "published": "2026-08-20T17:22:06+00:00",
      "summary": "Talk about a load-bearing hyphen. After a half-season of half-threatened retirement and full-frenzy speculation, the status quo simply continues: As the Formula 1 summer break comes to a close, Red Bull Racing and Max Verstappen announced before Verstappen's home race that he has re-signed\u2014not resigned!\u2014with the team for four more years, extending his contract through 2030. This is the least interesting outcome of F1's purported silly season, though it is still somehow notable thanks to the culture of clear communication (read: complaining) in the sport. Verstappen has not been quiet about his displeasure with this year's regulations ; that his team had significant early-season struggles obviously factored into his annoyance. Thus, the speculation began. Perhaps Verstappen would go to another team. Perhaps Verstappen would simply and most dramatically express his displeasure by retiring from the formula entirely. The leap from regulation displeasure to a full retirement was, in no small part, a self-fueled rumor. Retiring at age 28 would be shocking for any F1 driver, much less an all-time great, though Verstappen has been vocal from the start of his career that he would leave the "
-    }
-   ]
-  },
-  {
-   "id": "2247e885e9",
-   "topic": "Business & Economy",
-   "summary": "Major League Soccer will go through one of the league\u2019s biggest changes in its history next summer when it moves to a summer to spring calendar, and with it will come a new look to its playoff system.",
-   "summaryFrom": "nypost",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Up to 20 clubs could reach MLS postseason in league\u2019s new plan to overhaul playoff format",
-   "updated": "2026-08-21T02:53:45+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Up to 20 clubs could reach MLS postseason in league\u2019s new plan to overhaul playoff format",
-     "url": "https://nypost.com/2026/08/20/sports/mls-looking-to-make-massive-overhaul-to-playoff-structure/",
-     "author": "Christian Arnold",
-     "kind": "news",
-     "published": "2026-08-21T02:53:45+00:00",
-     "summary": "Major League Soccer will go through one of the league\u2019s biggest changes in its history next summer when it moves to a summer to spring calendar, and with it will come a new look to its playoff system."
-    },
-    {
-     "outlet": "forbes",
-     "title": "MLS Plots More Format Tweaks To Maximize Postseason TV Revenues",
-     "url": "https://www.forbes.com/sites/johncassillo/2026/08/20/mls-plots-more-format-tweaks-to-maximize-postseason-tv-revenues/",
-     "author": "John Cassillo, Contributor",
-     "kind": "news",
-     "published": "2026-08-20T20:50:39+00:00",
-     "summary": "Ahead of MLS schedule shifts and TV rights negotiations, the league entertains some bold new postseason ideas to increase interest (and boost its bottom line)."
-    }
-   ]
-  },
-  {
-   "id": "b23d723adb",
-   "topic": "Politics",
-   "summary": "Universal History Archive / Universal History Archive/Univer An aircraft carrier meant to be named after a Black sailor credited with rescuing shipmates during the attack on Pearl Harbor is inexplicably being renamed\u2014potentially after Donald Trump. Two unnamed sources cited by CNN late Thursday said there have been internal discussions about renaming the vessel to honor the 80-year-old president. The carrier was touted as a tribute to Doris \u201cDorie\u201d Miller back in Donald Trump\u2019s first term in the White House, and former Acting Secretary of the Navy Thomas Modly announced during a Martin Luther King, Jr. Day ceremony in January 2020 that it would be named the USS Doris Miller . Read more at The Daily Beast.",
-   "summaryFrom": "dailybeast",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Navy discusses renaming aircraft carrier after Trump instead of heroic Black sailor",
-   "updated": "2026-08-21T02:41:10+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 2
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nbcnews",
-     "title": "Navy discusses renaming aircraft carrier after Trump instead of heroic Black sailor",
-     "url": "https://www.nbcnews.com/politics/trump-administration/navy-discusses-renaming-aircraft-carrier-trump-black-uss-doris-miller-rcna593667",
-     "author": "Mosheh Gains",
-     "kind": "news",
-     "published": "2026-08-21T02:41:10+00:00",
-     "summary": "The USS Doris Miller would be the first aircraft carrier named after a Black and an enlisted sailor. The decision to name the carrier after Miller was made during Trump\u2019s first term."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Trump Plots Seizing Black Navy Hero\u2019s Honor for Himself",
-     "url": "https://www.thedailybeast.com/trump-plots-to-steal-navys-ultimate-honor-from-black-sailor/",
-     "author": "Vic Verbalaitis",
-     "kind": "news",
-     "published": "2026-08-20T21:42:24+00:00",
-     "summary": "Universal History Archive / Universal History Archive/Univer An aircraft carrier meant to be named after a Black sailor credited with rescuing shipmates during the attack on Pearl Harbor is inexplicably being renamed\u2014potentially after Donald Trump. Two unnamed sources cited by CNN late Thursday said there have been internal discussions about renaming the vessel to honor the 80-year-old president. The carrier was touted as a tribute to Doris \u201cDorie\u201d Miller back in Donald Trump\u2019s first term in the White House, and former Acting Secretary of the Navy Thomas Modly announced during a Martin Luther King, Jr. Day ceremony in January 2020 that it would be named the USS Doris Miller . Read more at The Daily Beast."
-    }
-   ]
-  },
-  {
-   "id": "b23a955d48",
-   "topic": "Politics",
-   "summary": "President Donald Trump's deputies sent more than 2,000 Mexican migrants back to their home country by flying and bussing them 2,000 miles to Mexico's far-southern border. The post Trump Admin Sends Thousands of Mexican Deportees Through Central America appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Trump Admin Sends Thousands of Mexican Deportees Through Central America",
-   "updated": "2026-08-21T02:21:48+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "breitbart",
-     "title": "Trump Admin Sends Thousands of Mexican Deportees Through Central America",
-     "url": "https://www.breitbart.com/immigration/2026/08/20/trump-admin-sends-thousands-of-mexican-deportees-through-central-america/",
-     "author": "Mariane Angela",
-     "kind": "news",
-     "published": "2026-08-21T02:21:48+00:00",
-     "summary": "President Donald Trump's deputies sent more than 2,000 Mexican migrants back to their home country by flying and bussing them 2,000 miles to Mexico's far-southern border. The post Trump Admin Sends Thousands of Mexican Deportees Through Central America appeared first on Breitbart ."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump admin sends 1st deportation flight to Haiti since ending TPS",
-     "url": "https://abcnews.com/Politics/trump-admin-sends-1st-deportation-flight-haiti-ending/story?id=135820753",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T00:34:20+00:00",
-     "summary": "The flight comes as TPS for Haiti, Ethiopia, Somalia, Syria, Myanmar and other countries ended following a U.S. Supreme Court order in June."
     }
    ]
   }
