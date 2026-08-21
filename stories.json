@@ -1,26 +1,28 @@
 {
- "generated": "2026-08-21T05:49:47.565201+00:00",
+ "generated": "2026-08-21T07:09:12.367436+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
  "stories": [
   {
-   "id": "8ba957a561",
+   "id": "07f678cfa7",
    "topic": "Politics",
    "summary": "Progressive state Sen. and Assistant Majority Leader Aisha Wahab has bested Melissa Hernandez, a more moderate public transit executive, in a special election to replace disgraced Rep. Eric Swalwell. The race between Wahab and Hernandez represented another front in the Democratic civil war between the party\u2019s establishment and progressive wings. Wahab counted on high-profile endorsements from California Attorney General Rob Bonta, Lt. Gov. Eleni Kounalakis and labor icon Dolores Huerta, while Hernandez relied on large sums of super PAC cash and endorsements from local officials. PRIMARY TAKEAWAYS: DEMS\u2019 LEFT-CENTER BATTLE INTENSIFIES AS SCHUMER TAKES ANOTHER HIT; SPLIT DECISION FOR TRUMP While progressive Democrats opened the election season strongly, securing high-profile victories in New York, Pennsylvania, Colorado and D.C., they have more recently underperformed on expectations in\u2026",
    "summaryFrom": "foxnews",
    "emphasis": {
     "bigCount": 16,
-    "indieCount": 5,
+    "indieCount": 6,
     "big": [
      "term",
-     "sources",
      "search",
+     "sources",
      "race",
      "phone",
      "president"
     ],
     "indie": [
+     "ex-rep",
+     "ex-democratic",
      "denied",
      "congress",
      "claims"
@@ -29,19 +31,28 @@
    "absent": [
     "coop"
    ],
-   "headline": "FBI seizes former Congressman Eric Swalwell's devices in sexual misconduct investigation",
-   "updated": "2026-08-21T03:20:05+00:00",
-   "outletCount": 15,
+   "headline": "Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe, AP source says",
+   "updated": "2026-08-21T05:49:48+00:00",
+   "outletCount": 16,
    "counts": {
+    "nonprofit": 5,
     "family": 10,
     "corp": 6,
-    "pub": 1,
-    "nonprofit": 4
+    "pub": 1
    },
-   "newsCount": 20,
+   "newsCount": 21,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "npr",
+     "title": "Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe, AP source says",
+     "url": "https://www.npr.org/2026/08/21/nx-s1-5940542/federal-agents-seize-eric-swalwell-sexual-misconduct-probe",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-21T05:49:48+00:00",
+     "summary": "Federal agents seized electronic devices from former Rep. Eric Swalwell and searched his Washington home as part of an investigation into allegations of sexual misconduct by the ex-Democratic congressman from California. (Image credit: Rich Pedroncelli)"
+    },
     {
      "outlet": "breitbart",
      "title": "Progressive Aisha Wahab Wins Special Election to Replace Former Rep. Eric Swalwell",
@@ -246,8 +257,8 @@
      "scott",
      "business",
      "threat",
-     "warfare",
-     "only"
+     "only",
+     "warfare"
     ],
     "indie": [
      "urges",
@@ -326,7 +337,7 @@
     },
     {
      "outlet": "bloomberg",
-     "title": "Trump Risks China Blowback With Plan to Isolate Iran\u2019s Economy",
+     "title": "Trump Risks China Blowback With Plan to Choke Iran\u2019s Economy",
      "url": "https://www.bloomberg.com/news/articles/2026-08-20/trump-risks-china-blowback-with-plan-to-isolate-iran-s-economy",
      "author": "Eric Martin and Magdalena Del Valle",
      "kind": "news",
@@ -402,8 +413,8 @@
      "accused",
      "appeared",
      "isis",
-     "announced",
-     "year-old"
+     "year-old",
+     "announced"
     ],
     "indie": [
      "terrorism",
@@ -528,135 +539,6 @@
    ]
   },
   {
-   "id": "a976780ee0",
-   "topic": "World",
-   "summary": "North Korea launched several ballistic missiles toward the Sea of Japan on Thursday, according to South Korea\u2019s military\u2014just a day after the North dismissed Donald Trump\u2019s seeming attempt at appeasement by cutting back on joint military training with South Korea. \u201cThe provocative, aggressive nature of the drills won\u2019t change even though their duration and size were reduced,\u201d Kim Yo Jong, a top figure in North Korea\u2019s ruling party and supreme leader Kim Jong Un\u2019s sister, said on Wednesday, pointing to other military drills the US and South Korea carried out earlier this year and to South Korea accelerating its development of nuclear-powered submarines . Before the drills began this week, North Korea said it would retaliate with \u201ca new level of a deterrent.\u201d North Korea had already fired at least two ballistic missiles into the sea earlier this month before the barrage on Thursday. While\u2026",
-   "summaryFrom": "motherjones",
-   "emphasis": {
-    "bigCount": 5,
-    "indieCount": 5,
-    "big": [
-     "sister",
-     "meeting"
-    ],
-    "indie": [
-     "thursday",
-     "japan",
-     "missiles",
-     "ballistic",
-     "several",
-     "launched"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Trump wants to be friends with Kim - but South Korea could pay the price",
-   "updated": "2026-08-21T00:54:37+00:00",
-   "outletCount": 10,
-   "counts": {
-    "family": 3,
-    "pub": 2,
-    "nonprofit": 3,
-    "corp": 2
-   },
-   "newsCount": 10,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bloomberg",
-     "title": "Kim\u2019s Sister Mocks South Korea as US \u2018Puppet\u2019 Over Drill Cutback",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-21/kim-s-sister-mocks-south-korea-as-us-puppet-over-drill-cutback",
-     "author": "Soo-Hyang Choi",
-     "kind": "news",
-     "published": "2026-08-21T00:54:37+00:00",
-     "summary": "North Korea mocked South Korea for being a US \u201cpuppet\u201d after President Donald Trump unilaterally curtailed the two countries\u2019 joint military drills."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
-     "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T22:01:26+00:00",
-     "summary": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength."
-    },
-    {
-     "outlet": "motherjones",
-     "title": "Trump Enraged South Korea to Please the North. It Didn\u2019t Work.",
-     "url": "https://www.motherjones.com/politics/2026/08/trump-south-north-korea-military-drills-ballistic-missiles/",
-     "author": "Alex Nguyen",
-     "kind": "news",
-     "published": "2026-08-20T17:21:02+00:00",
-     "summary": "North Korea launched several ballistic missiles toward the Sea of Japan on Thursday, according to South Korea\u2019s military\u2014just a day after the North dismissed Donald Trump\u2019s seeming attempt at appeasement by cutting back on joint military training with South Korea. \u201cThe provocative, aggressive nature of the drills won\u2019t change even though their duration and size were reduced,\u201d Kim Yo Jong, a top figure in North Korea\u2019s ruling party and supreme leader Kim Jong Un\u2019s sister, said on Wednesday, pointing to other military drills the US and South Korea carried out earlier this year and to South Korea accelerating its development of nuclear-powered submarines . Before the drills began this week, North Korea said it would retaliate with \u201ca new level of a deterrent.\u201d North Korea had already fired at least two ballistic missiles into the sea earlier this month before the barrage on Thursday. While Kim Yo Jong said relations between her brother and Trump are \u201c still excellent \u201d, she said she was \u201c completely unaware \u201d of any communications between the pair following Trump\u2019s decision to scale back the joint drills this month by about half\u2014 a claim the US president made earlier this week.&nbsp; "
-    },
-    {
-     "outlet": "france24",
-     "title": "North Korea launches missiles, Seoul says, after Trump floats Kim meet",
-     "url": "https://www.france24.com/en/video/20260820-north-korea-launches-missiles-seoul-says-after-trump-floats-kim-meet",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-20T15:21:33+00:00",
-     "summary": "North Korea fired several short-range ballistic missiles on Thursday, the South said, and Pyongyang mocked US \"servant\" Seoul, after President Donald Trump suggested he would meet Kim Jong Un this year. The latest launches from the nuclear-armed North come as South Korea and the United States hold a shorter edition of their annual Ulchi Freedom Shield military exercises, following an order from Trump to scale them back."
-    },
-    {
-     "outlet": "guardian",
-     "title": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
-     "url": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-20T10:25:29+00:00",
-     "summary": "Launches, detected by South Korea and Japan, came after US scaled back exercises with South Korea in apparent overture to Kim Jong-un North Korea has launched about 10 short-range ballistic missiles towards the sea, South Korea\u2019s military said, a day after Pyongyang shrugged off Donald Trump\u2019s order to scale back US military drills with South Korea in an apparent attempt to resume diplomacy. The joint chiefs of staff said the missiles were launched from the region of Pyongyang at around 5pm (08.00 GMT) on Thursday towards North Korea\u2019s eastern waters. Continue reading..."
-    },
-    {
-     "outlet": "npr",
-     "title": "North Korea fires a suspected missile toward the sea, Japan says",
-     "url": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-20T09:24:45+00:00",
-     "summary": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy. (Image credit: Ahn Young-joon)"
-    },
-    {
-     "outlet": "nyt",
-     "title": "Trump\u2019s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say",
-     "url": "https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html",
-     "author": "Eric Schmitt and Helene Cooper",
-     "kind": "news",
-     "published": "2026-08-20T09:04:19+00:00",
-     "summary": "President Trump\u2019s decision to curtail the military exercises came as allies question the U.S. commitment to longstanding alliances."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "WATCH:  Friends\u00a0of boy who died\u00a0rally around his sister on\u00a01st day of school",
-     "url": "https://abcnews.com/video/135787111/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T21:24:16+00:00",
-     "summary": "Brady's friends stepped in to take a cherished first day of school photo with his younger sister after his death."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Trump says he expects to meet with North Korea\u2019s Kim Jong Un later this year",
-     "url": "https://www.washingtonpost.com/politics/2026/08/19/trump-says-he-expects-meet-with-north-koreas-kim-jong-un-later-this-year/",
-     "author": "Cleve R. Wootson Jr., Cate Cadell",
-     "kind": "news",
-     "published": "2026-08-19T20:06:51+00:00",
-     "summary": "In an impromptu White House meeting with reporters, the president touted his relationship with Kim and said North Korea has \u201c57 very powerful nuclear weapons.\u201d"
-    },
-    {
-     "outlet": "vox",
-     "title": "Why Trump can\u2019t rekindle the spark with Kim Jong Un",
-     "url": "https://www.vox.com/politics/499798/trump-kim-north-korea-meeting",
-     "author": "Joshua Keating",
-     "kind": "news",
-     "published": "2026-08-19T16:25:21+00:00",
-     "summary": "President Donald Trump and North Korea's Kim Jong Un talk before a meeting in the demilitarized zone on June 30, 2019, in Panmunjom, Korea. | Brendan Smialowski/AFP via Getty Images Can President Donald Trump pen a new chapter in his love story with North Korea\u2019s Kim Jong Un?&nbsp; In Trump\u2019s first term, the two leaders, in Trump\u2019s words, \u201c fell in love \u201d after exchanging letters and held three historic meetings, but failed to make much progress toward the goal of denuclearizing the heavily armed hermit state.&nbsp; Now, Trump appears to be trying to recapture the magic, reportedly urging aides to set up a meeting with Kim as soon as this fall. This news comes soon after Trump\u2019s Truth Social post on Sunday announcing he had ordered the US military to \u201csubstantially reduce\u201d joint military exercises with ally South Korea in part because it would send \u201ca signal that is totally inappropriate and hostile, to a Country that, as long as Donald J. Trump has been President, has been unthreatening and respectful\u201d \u2014 North Korea.&nbsp; Key takeaways Trump is trying to restart talks with North Korea\u2019s Kim Jong Un, scaling back a planned joint military exercise with South Korea and instructing a"
-    }
-   ]
-  },
-  {
    "id": "f24075da04",
    "topic": "Politics",
    "summary": "During an unexpected interview Thursday with his former personal lawyer turned bitter enemy, Michael Cohen, President Donald Trump said his one-time ally was \"weaponized\" against him by the mainstream media before the two recently reconciled. In the first part of a two-part radio interview with Trump on his radio show, Cohen recounted his 2016 CNN interview with host Brianna Keilar, which led to him going viral after questioning Trump's standing in the polls. \"Do you remember, sir, when I went on CNN with Brianna Keilar, and she told me that you were underwater in the polls, and I responded with those famous two words, \u2018says who,\u2019 which became some worldwide meme,\" Cohen recalled. EX-CNN ANCHOR DON LEMON AGREES TRUMP PLAYED LIBERAL NETWORK 'LIKE PUPPETS' \"And then they weaponized you like nobody's ever been weaponized, like few have been,\" Trump responded. \"Well, maybe just you and me,\u2026",
@@ -665,12 +547,12 @@
     "bigCount": 8,
     "indieCount": 2,
     "big": [
-     "interview",
      "thursday",
+     "interview",
      "york",
      "fixer",
      "weaponized'",
-     "turned"
+     "enemy"
     ],
     "indie": [
      "once"
@@ -785,6 +667,126 @@
    ]
   },
   {
+   "id": "a976780ee0",
+   "topic": "World",
+   "summary": "North Korea launched several ballistic missiles toward the Sea of Japan on Thursday, according to South Korea\u2019s military\u2014just a day after the North dismissed Donald Trump\u2019s seeming attempt at appeasement by cutting back on joint military training with South Korea. \u201cThe provocative, aggressive nature of the drills won\u2019t change even though their duration and size were reduced,\u201d Kim Yo Jong, a top figure in North Korea\u2019s ruling party and supreme leader Kim Jong Un\u2019s sister, said on Wednesday, pointing to other military drills the US and South Korea carried out earlier this year and to South Korea accelerating its development of nuclear-powered submarines . Before the drills began this week, North Korea said it would retaliate with \u201ca new level of a deterrent.\u201d North Korea had already fired at least two ballistic missiles into the sea earlier this month before the barrage on Thursday. While\u2026",
+   "summaryFrom": "motherjones",
+   "emphasis": {
+    "bigCount": 5,
+    "indieCount": 4,
+    "big": [
+     "sister",
+     "meeting"
+    ],
+    "indie": [
+     "missiles",
+     "ballistic",
+     "launched",
+     "several",
+     "japan",
+     "thursday"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Trump wants to be friends with Kim - but South Korea could pay the price",
+   "updated": "2026-08-21T00:54:37+00:00",
+   "outletCount": 9,
+   "counts": {
+    "family": 3,
+    "pub": 2,
+    "nonprofit": 2,
+    "corp": 2
+   },
+   "newsCount": 9,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bloomberg",
+     "title": "Kim\u2019s Sister Mocks South Korea as US \u2018Puppet\u2019 Over Drill Cutback",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-21/kim-s-sister-mocks-south-korea-as-us-puppet-over-drill-cutback",
+     "author": "Soo-Hyang Choi",
+     "kind": "news",
+     "published": "2026-08-21T00:54:37+00:00",
+     "summary": "North Korea mocked South Korea for being a US \u201cpuppet\u201d after President Donald Trump unilaterally curtailed the two countries\u2019 joint military drills."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
+     "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T22:01:26+00:00",
+     "summary": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength."
+    },
+    {
+     "outlet": "motherjones",
+     "title": "Trump Enraged South Korea to Please the North. It Didn\u2019t Work.",
+     "url": "https://www.motherjones.com/politics/2026/08/trump-south-north-korea-military-drills-ballistic-missiles/",
+     "author": "Alex Nguyen",
+     "kind": "news",
+     "published": "2026-08-20T17:21:02+00:00",
+     "summary": "North Korea launched several ballistic missiles toward the Sea of Japan on Thursday, according to South Korea\u2019s military\u2014just a day after the North dismissed Donald Trump\u2019s seeming attempt at appeasement by cutting back on joint military training with South Korea. \u201cThe provocative, aggressive nature of the drills won\u2019t change even though their duration and size were reduced,\u201d Kim Yo Jong, a top figure in North Korea\u2019s ruling party and supreme leader Kim Jong Un\u2019s sister, said on Wednesday, pointing to other military drills the US and South Korea carried out earlier this year and to South Korea accelerating its development of nuclear-powered submarines . Before the drills began this week, North Korea said it would retaliate with \u201ca new level of a deterrent.\u201d North Korea had already fired at least two ballistic missiles into the sea earlier this month before the barrage on Thursday. While Kim Yo Jong said relations between her brother and Trump are \u201c still excellent \u201d, she said she was \u201c completely unaware \u201d of any communications between the pair following Trump\u2019s decision to scale back the joint drills this month by about half\u2014 a claim the US president made earlier this week.&nbsp; "
+    },
+    {
+     "outlet": "france24",
+     "title": "North Korea launches missiles, Seoul says, after Trump floats Kim meet",
+     "url": "https://www.france24.com/en/video/20260820-north-korea-launches-missiles-seoul-says-after-trump-floats-kim-meet",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-20T15:21:33+00:00",
+     "summary": "North Korea fired several short-range ballistic missiles on Thursday, the South said, and Pyongyang mocked US \"servant\" Seoul, after President Donald Trump suggested he would meet Kim Jong Un this year. The latest launches from the nuclear-armed North come as South Korea and the United States hold a shorter edition of their annual Ulchi Freedom Shield military exercises, following an order from Trump to scale them back."
+    },
+    {
+     "outlet": "guardian",
+     "title": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
+     "url": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-20T10:25:29+00:00",
+     "summary": "Launches, detected by South Korea and Japan, came after US scaled back exercises with South Korea in apparent overture to Kim Jong-un North Korea has launched about 10 short-range ballistic missiles towards the sea, South Korea\u2019s military said, a day after Pyongyang shrugged off Donald Trump\u2019s order to scale back US military drills with South Korea in an apparent attempt to resume diplomacy. The joint chiefs of staff said the missiles were launched from the region of Pyongyang at around 5pm (08.00 GMT) on Thursday towards North Korea\u2019s eastern waters. Continue reading..."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Trump\u2019s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say",
+     "url": "https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html",
+     "author": "Eric Schmitt and Helene Cooper",
+     "kind": "news",
+     "published": "2026-08-20T09:04:19+00:00",
+     "summary": "President Trump\u2019s decision to curtail the military exercises came as allies question the U.S. commitment to longstanding alliances."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "WATCH:  Friends\u00a0of boy who died\u00a0rally around his sister on\u00a01st day of school",
+     "url": "https://abcnews.com/video/135787111/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T21:24:16+00:00",
+     "summary": "Brady's friends stepped in to take a cherished first day of school photo with his younger sister after his death."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump says he expects to meet with North Korea\u2019s Kim Jong Un later this year",
+     "url": "https://www.washingtonpost.com/politics/2026/08/19/trump-says-he-expects-meet-with-north-koreas-kim-jong-un-later-this-year/",
+     "author": "Cleve R. Wootson Jr., Cate Cadell",
+     "kind": "news",
+     "published": "2026-08-19T20:06:51+00:00",
+     "summary": "In an impromptu White House meeting with reporters, the president touted his relationship with Kim and said North Korea has \u201c57 very powerful nuclear weapons.\u201d"
+    },
+    {
+     "outlet": "vox",
+     "title": "Why Trump can\u2019t rekindle the spark with Kim Jong Un",
+     "url": "https://www.vox.com/politics/499798/trump-kim-north-korea-meeting",
+     "author": "Joshua Keating",
+     "kind": "news",
+     "published": "2026-08-19T16:25:21+00:00",
+     "summary": "President Donald Trump and North Korea's Kim Jong Un talk before a meeting in the demilitarized zone on June 30, 2019, in Panmunjom, Korea. | Brendan Smialowski/AFP via Getty Images Can President Donald Trump pen a new chapter in his love story with North Korea\u2019s Kim Jong Un?&nbsp; In Trump\u2019s first term, the two leaders, in Trump\u2019s words, \u201c fell in love \u201d after exchanging letters and held three historic meetings, but failed to make much progress toward the goal of denuclearizing the heavily armed hermit state.&nbsp; Now, Trump appears to be trying to recapture the magic, reportedly urging aides to set up a meeting with Kim as soon as this fall. This news comes soon after Trump\u2019s Truth Social post on Sunday announcing he had ordered the US military to \u201csubstantially reduce\u201d joint military exercises with ally South Korea in part because it would send \u201ca signal that is totally inappropriate and hostile, to a Country that, as long as Donald J. Trump has been President, has been unthreatening and respectful\u201d \u2014 North Korea.&nbsp; Key takeaways Trump is trying to restart talks with North Korea\u2019s Kim Jong Un, scaling back a planned joint military exercise with South Korea and instructing a"
+    }
+   ]
+  },
+  {
    "id": "fcf89a5820",
    "topic": "World",
    "summary": "USS George Washington will replace warship families say suffers from shortages, plumbing problems and low morale The USS George Washington aircraft carrier has arrived in the Middle East, where it is expected to relieve the USS Abraham Lincoln from its record deployment amid concerns about poor living conditions and morale. US Central Command announced on Thursday that the Washington arrived in the area on Wednesday, and posted an image of sailors working on the flight deck as the ship transited the Arabian Sea. No date has yet been announced for the Lincoln to return to the US. Continue reading...",
@@ -800,9 +802,9 @@
      "months"
     ],
     "indie": [
-     "conditions",
-     "living",
      "thursday",
+     "living",
+     "conditions",
      "poor"
     ]
    },
@@ -893,123 +895,6 @@
      "kind": "news",
      "published": "2026-08-20T15:36:39+00:00",
      "summary": "The USS George Washington is relieving a vessel that has gone months without a port stop."
-    }
-   ]
-  },
-  {
-   "id": "b58240b4fd",
-   "topic": "Politics",
-   "summary": "Y ou are reading this story only because the White House didn\u2019t want you to. I\u2019ll explain. This past Sunday, Georgia Senator Jon Ossoff \u2014who has become quite good at delivering viral campaign sound bites, slickly filmed by multiple cameras\u2014unleashed a blistering indictment of President Trump\u2019s leadership. Ossoff, a former documentary filmmaker who is generating 2028 buzz, denounced Trump\u2019s handling of the Iran war this way: \u201cWhile he fruitlessly drains our munitions and oil reserves, the president sleeps through his meetings. He golfs and trades stocks. See, he doesn\u2019t want to do the job. He wants to build his ballroom and travel with Natalie on their apparently defenseless flying palace gifted by the emir of Qatar.\u201d It was a pithy and well-structured attack, but not so different from the broadsides delivered daily by Democrats on the campaign trail or on MS NOW. But one new word stood\u2026",
-   "summaryFrom": "theatlantic",
-   "emphasis": {
-    "bigCount": 6,
-    "indieCount": 3,
-    "big": [
-     "melania",
-     "made",
-     "lady",
-     "year-old",
-     "because",
-     "period"
-    ],
-    "indie": []
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "White House faces questions over security clearance for top Trump aide Natalie Harp",
-   "updated": "2026-08-21T02:47:00+00:00",
-   "outletCount": 7,
-   "counts": {
-    "corp": 3,
-    "family": 3,
-    "nonprofit": 1,
-    "pub": 2
-   },
-   "newsCount": 8,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dailybeast",
-     "title": "Natalie Harp Makes Dramatic Move as Melania Returns",
-     "url": "https://www.thedailybeast.com/natalie-harp-makes-dramatic-move-as-melania-returns/",
-     "author": "Erkki Forster",
-     "kind": "news",
-     "published": "2026-08-21T02:47:00+00:00",
-     "summary": "REUTERS Donald Trump\u2019s ever-present aide Natalie Harp appeared to abandon her usual post by the president\u2019s side as Melania Trump made a rare White House appearance. The 56-year-old first lady resurfaced publicly for the first time in more than a month on Thursday, emerging from the White House holding hands with her 80-year-old husband before speaking about the expansion of her Fostering the Future Initiative in the Rose Garden. Read more at The Daily Beast."
-    },
-    {
-     "outlet": "theatlantic",
-     "title": "The White House Freak-Out Over Natalie Harp",
-     "url": "https://www.theatlantic.com/politics/2026/08/ossoff-trump-natalie-harp/688365/?utm_source=feed",
-     "author": "Jonathan Lemire",
-     "kind": "news",
-     "published": "2026-08-21T00:05:00+00:00",
-     "summary": "Y ou are reading this story only because the White House didn\u2019t want you to. I\u2019ll explain. This past Sunday, Georgia Senator Jon Ossoff \u2014who has become quite good at delivering viral campaign sound bites, slickly filmed by multiple cameras\u2014unleashed a blistering indictment of President Trump\u2019s leadership. Ossoff, a former documentary filmmaker who is generating 2028 buzz, denounced Trump\u2019s handling of the Iran war this way: \u201cWhile he fruitlessly drains our munitions and oil reserves, the president sleeps through his meetings. He golfs and trades stocks. See, he doesn\u2019t want to do the job. He wants to build his ballroom and travel with Natalie on their apparently defenseless flying palace gifted by the emir of Qatar.\u201d It was a pithy and well-structured attack, but not so different from the broadsides delivered daily by Democrats on the campaign trail or on MS NOW. But one new word stood out: Natalie . The line got a knowing laugh from a handful of observers in the room, and it electrified a subset of political obsessives on social media, who took to their favorite platforms and group chats with some version of \u201cOh, he went there!\u201d or \u201cI can\u2019t believe he did that!\u201d But although Ossof"
-    },
-    {
-     "outlet": "guardian",
-     "title": "White House faces questions over security clearance for top Trump aide Natalie Harp",
-     "url": "https://www.theguardian.com/us-news/2026/aug/20/natalie-harp-security-clearance",
-     "author": "Joseph Gedeon and David Smith in Washington",
-     "kind": "news",
-     "published": "2026-08-20T20:25:29+00:00",
-     "summary": "Former ethics tsar calls report that executive assistant to president worked for a year without clearance \u2018shocking\u2019 US politics live \u2013 latest updates The White House faced fresh questions on Thursday over whether Donald Trump\u2019s closest aide, Natalie Harp, had access to US government secrets without security clearance. Harp, who is executive assistant to the US president, worked at the White House for a year without the routine clearance, the MS Now network reported on Thursday . She refused to file the relevant forms for unknown reasons, according to two unnamed sources cited by MS Now. Continue reading..."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "All The Times Trump Was With Blonde Aide, 35, While Melania Was Missing",
-     "url": "https://www.thedailybeast.com/all-the-times-trump-was-with-natalie-harp-35-while-melania-was-missing/",
-     "author": "Josh Fiallo",
-     "kind": "news",
-     "published": "2026-08-20T19:53:57+00:00",
-     "summary": "Kevin Dietsch / Getty Images Donald Trump has been with his 35-year-old blonde aide at least 18 days in the last month\u2014a period in which First Lady Melania Trump has not been photographed with the president once. A Daily Beast analysis found that Natalie Harp, a former right-wing TV host who now makes $150,000 annually as the president\u2019s executive assistant, has been with Trump for at least 56 percent of the days since Melania last appeared publicly with him. Read more at The Daily Beast."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "WATCH:  Trump hosts cryptocurrency executives at White House",
-     "url": "https://abcnews.com/video/135800626/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T15:30:08+00:00",
-     "summary": "President Donald Trump, who has made hundreds of millions of dollars in crypto, met at the White House with what he called a \"who's who\u201d of cryptocurrency leaders."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Watch: What to know about Trump's trusted aide Natalie Harp",
-     "url": "https://www.bbc.co.uk/news/videos/cm2gdxlwmrvo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T22:44:35+00:00",
-     "summary": "The BBC's Bernd Debusmann explains who she is and how she came to hold such a prominent role in the US president's inner circle."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Watch: Trump leads tour of White House helipad construction site",
-     "url": "https://www.bbc.co.uk/news/videos/c4g61p4n1z4o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T18:30:15+00:00",
-     "summary": "The work is being expedited ahead of Chinese President Xi Jinping\u2019s planned visit to the White House in late September."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Trump shows off his new helipad, brags about construction projects",
-     "url": "https://www.washingtonpost.com/politics/2026/08/19/trump-shows-off-his-new-helipad-brags-about-construction-projects/",
-     "author": "Dan Diamond",
-     "kind": "news",
-     "published": "2026-08-19T17:56:54+00:00",
-     "summary": "For a brief period Wednesday, the president set aside more troubling issues to revel in his role as White House redeveloper."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed",
-     "url": "https://www.foxnews.com/opinion/morning-glory-scotus-should-urgently-allow-construction-white-house-proceed",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-18T09:00:24+00:00",
-     "summary": "Because of extremely unfortunate, inexplicable and reckless decisions of two lower courts, U.S. Supreme Court Chief Justice John Roberts has before him an application for a stay of an order from the United States Court of Appeals for the District of Columbia Circuit which order upholds the imposition of a rococo construction schedule for the above-ground construction of the new East Wing of the White House , one which was ordered by U.S. District Judge Richard Leon\u2019s micromanagement of what can and cannot be built in the replacement structure of the now demolished old East Wing of the White House \u2014 an East Wing which was built in 1902 and expanded in 1942 when FDR had it substantially expanded and added underground facilities which include the Presidential Emergency Operations Center. An 84-year-old \"emergency center\" is, of course, outdated. Judge Leon and the Circuit have directed President Trump what he can and cannot build on the grounds of the Executive Mansion. Judge Leon is an old acquaintance of mine and has been a fine judge for his long tenure (he was appointed by President George W. Bush in 2002 and assumed senior status in 2016), but even the best judges throw a spanner"
     }
    ]
   },
@@ -1179,6 +1064,185 @@
    ]
   },
   {
+   "id": "a4d297d67e",
+   "topic": "Politics",
+   "summary": "The Trump administration has designated an American scholar detained in China as wrongfully held after he traveled there at Beijing\u2019s invitation, escalating his case just weeks before President Donald Trump is set to host Chinese President Xi Jinping . Secretary of State Marco Rubio determined that U.S. citizen Min Zin is \"wrongfully detained\" after the State Department reviewed the circumstances of his June 3 detention in Yunnan, the State Department said Thursday. Zin had traveled to China for an academic conference at the invitation of the Chinese government, according to the department. PASTOR FREED FROM CHINESE PRISON AFTER TRUMP RAISED HIS CASE WITH XI JINPING He is now one of two U.S. citizens the State Department considers wrongfully detained in China. The other is Dr. Youlin Chen, a Chinese-born American seismologist from Boston. \"The safety and security of U.S. citizens is the\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": {
+    "bigCount": 6,
+    "indieCount": 2,
+    "big": [
+     "state",
+     "china",
+     "wrongfully",
+     "citizen",
+     "department",
+     "detained"
+    ],
+    "indie": [
+     "being"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Trump talks about grass as he shows off White House renovations \u2013 video",
+   "updated": "2026-08-20T18:49:36+00:00",
+   "outletCount": 6,
+   "counts": {
+    "corp": 2,
+    "family": 4,
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 7,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "abcnews",
+     "title": "China wrongfully detaining US citizen, State Department declares",
+     "url": "https://abcnews.com/International/china-wrongfully-detaining-us-citizen-state-department-declares/story?id=135808767",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T18:49:36+00:00",
+     "summary": "The State Department said Thursday that an American citizen who traveled to China has been illegally detained by their government."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Rubio designates US citizen held in China as wrongfully detained as Trump prepares to host Xi at White House",
+     "url": "https://www.foxnews.com/politics/rubio-designates-us-citizen-held-china-wrongfully-detained-trump-prepares-host-xi-white-house",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T18:08:42+00:00",
+     "summary": "The Trump administration has designated an American scholar detained in China as wrongfully held after he traveled there at Beijing\u2019s invitation, escalating his case just weeks before President Donald Trump is set to host Chinese President Xi Jinping . Secretary of State Marco Rubio determined that U.S. citizen Min Zin is \"wrongfully detained\" after the State Department reviewed the circumstances of his June 3 detention in Yunnan, the State Department said Thursday. Zin had traveled to China for an academic conference at the invitation of the Chinese government, according to the department. PASTOR FREED FROM CHINESE PRISON AFTER TRUMP RAISED HIS CASE WITH XI JINPING He is now one of two U.S. citizens the State Department considers wrongfully detained in China. The other is Dr. Youlin Chen, a Chinese-born American seismologist from Boston. \"The safety and security of U.S. citizens is the State Department\u2019s top priority,\" Assistant Secretary Dylan Johnson said in a statement. \"We will continue to advocate for Mr. Zin and call for the release of all U.S. citizens who are arbitrarily detained or exit banned in China.\" Zin was detained at the airport after arriving in China and has been"
+    },
+    {
+     "outlet": "abcnews",
+     "title": "WATCH:  Trump hosts cryptocurrency executives at White House",
+     "url": "https://abcnews.com/video/135800626/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T15:30:08+00:00",
+     "summary": "President Donald Trump, who has made hundreds of millions of dollars in crypto, met at the White House with what he called a \"who's who\u201d of cryptocurrency leaders."
+    },
+    {
+     "outlet": "nyt",
+     "title": "State Dept. Declares U.S. Citizen in China Wrongfully Detained",
+     "url": "https://www.nytimes.com/2026/08/20/us/politics/scholar-china-wrongfully-detained.html",
+     "author": "Karoun Demirjian",
+     "kind": "news",
+     "published": "2026-08-20T14:59:45+00:00",
+     "summary": "The detained U.S. citizen U Min Zin disappeared in China\u2019s Yunnan province after traveling there to attend an academic conference at the invitation of the Chinese government, according to the State Department."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Trump talks about grass as he shows off White House renovations \u2013 video",
+     "url": "https://www.theguardian.com/us-news/video/2026/aug/19/trump-talks-grass-white-house",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T02:00:20+00:00",
+     "summary": "The US president waxed lyrical about grass being added around the new White House helipad in front of the media. 'You know, grass has a life like humans have a life,' Trump said Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Watch: Trump leads tour of White House helipad construction site",
+     "url": "https://www.bbc.co.uk/news/videos/c4g61p4n1z4o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T18:30:15+00:00",
+     "summary": "The work is being expedited ahead of Chinese President Xi Jinping\u2019s planned visit to the White House in late September."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump shows off his new helipad, brags about construction projects",
+     "url": "https://www.washingtonpost.com/politics/2026/08/19/trump-shows-off-his-new-helipad-brags-about-construction-projects/",
+     "author": "Dan Diamond",
+     "kind": "news",
+     "published": "2026-08-19T17:56:54+00:00",
+     "summary": "For a brief period Wednesday, the president set aside more troubling issues to revel in his role as White House redeveloper."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed",
+     "url": "https://www.foxnews.com/opinion/morning-glory-scotus-should-urgently-allow-construction-white-house-proceed",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-18T09:00:24+00:00",
+     "summary": "Because of extremely unfortunate, inexplicable and reckless decisions of two lower courts, U.S. Supreme Court Chief Justice John Roberts has before him an application for a stay of an order from the United States Court of Appeals for the District of Columbia Circuit which order upholds the imposition of a rococo construction schedule for the above-ground construction of the new East Wing of the White House , one which was ordered by U.S. District Judge Richard Leon\u2019s micromanagement of what can and cannot be built in the replacement structure of the now demolished old East Wing of the White House \u2014 an East Wing which was built in 1902 and expanded in 1942 when FDR had it substantially expanded and added underground facilities which include the Presidential Emergency Operations Center. An 84-year-old \"emergency center\" is, of course, outdated. Judge Leon and the Circuit have directed President Trump what he can and cannot build on the grounds of the Executive Mansion. Judge Leon is an old acquaintance of mine and has been a fine judge for his long tenure (he was appointed by President George W. Bush in 2002 and assumed senior status in 2016), but even the best judges throw a spanner"
+    }
+   ]
+  },
+  {
+   "id": "0aa6b2131d",
+   "topic": "World",
+   "summary": "A charter plane carrying two pilots and six passengers crashed at a remote radar site in western Alaska on Thursday, killing all eight people aboard, the U.S. military said via The Associated Press. The crash occurred at Cape Newenham Long Range Radar Site Airport, approximately 450 miles west of Anchorage, according to the AP. \"This is a devastating loss for our military family and the communities we serve,\" U.S. Air Force Lt. Gen. Robert Davis, commander of Alaskan Command, the Alaskan North American Aerospace Defense Command Region and Eleventh Air Force, said in a statement obtained by the AP. PENNSYLVANIA STATE POLICE HELICOPTER, SMALL PLANE COLLIDE IN MIDAIR, KILLING 1 AND INJURING 2 STATE TROOPERS The twin-engine Cessna was operated by Security Aviation and had been chartered to fly from Anchorage to Cape Newenham, located about 40 miles south of Goodnews Bay, according to KTUU.\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "pub"
+   ],
+   "headline": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
+   "updated": "2026-08-21T06:54:33+00:00",
+   "outletCount": 5,
+   "counts": {
+    "corp": 2,
+    "nonprofit": 1,
+    "family": 2
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "8 dead in charter plane crash at remote radar site in western Alaska",
+     "url": "https://www.cbsnews.com/news/charter-plane-crash-cape-newenham-alaska/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T06:54:33+00:00",
+     "summary": "A charter aircraft carrying eight people crashed at a remote radar site in western Alaska on Thursday, killing all on board, the U.S. military said."
+    },
+    {
+     "outlet": "npr",
+     "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
+     "url": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-21T06:41:33+00:00",
+     "summary": "A charter aircraft carrying eight people crashed at a remote radar site in western Alaska on Thursday, killing all on board, the U.S. military said. (Image credit: Andrew Harnik)"
+    },
+    {
+     "outlet": "nypost",
+     "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
+     "url": "https://nypost.com/2026/08/21/us-news/alaska-charter-plane-crash-kills-eight-at-cape-newenham-long-range-radar-site-airport/",
+     "author": "Nicholas McEntyre",
+     "kind": "news",
+     "published": "2026-08-21T06:29:43+00:00",
+     "summary": "A charter aircraft carrying eight people crashed at a remote radar site in western Alaska on Thursday, killing all on board, the US military said."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Charter plane crashes near remote radar site in western Alaska, killing all 8 aboard",
+     "url": "https://www.foxnews.com/us/charter-plane-8-aboard-crashes-remote-radar-site-western-alaska-report",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T05:39:50+00:00",
+     "summary": "A charter plane carrying two pilots and six passengers crashed at a remote radar site in western Alaska on Thursday, killing all eight people aboard, the U.S. military said via The Associated Press. The crash occurred at Cape Newenham Long Range Radar Site Airport, approximately 450 miles west of Anchorage, according to the AP. \"This is a devastating loss for our military family and the communities we serve,\" U.S. Air Force Lt. Gen. Robert Davis, commander of Alaskan Command, the Alaskan North American Aerospace Defense Command Region and Eleventh Air Force, said in a statement obtained by the AP. PENNSYLVANIA STATE POLICE HELICOPTER, SMALL PLANE COLLIDE IN MIDAIR, KILLING 1 AND INJURING 2 STATE TROOPERS The twin-engine Cessna was operated by Security Aviation and had been chartered to fly from Anchorage to Cape Newenham, located about 40 miles south of Goodnews Bay, according to KTUU. Clint Johnson, the National Transportation Safety Board's Alaska region chief, previously told the AP that two pilots and six passengers were aboard the aircraft. The Alaska Rescue Coordination Center said it launched a search-and-rescue mission after receiving a report of an \"aircraft incident\" near"
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "All 8 dead after charter plane crashes at remote military radar site in Alaska",
+     "url": "https://www.nbcnews.com/news/us-news/charter-plane-carrying-8-crashes-western-alaska-rcna593687",
+     "author": "Irene Byon",
+     "kind": "news",
+     "published": "2026-08-21T05:04:45+00:00",
+     "summary": "The plane took off from Anchorage and is believed to have crashed early Thursday afternoon on approach to Cape Newenham, an NTSB official said."
+    }
+   ]
+  },
+  {
    "id": "269d732d38",
    "topic": "Justice & Policing",
    "summary": "Supreme court ordered transfer of ex-leader whose health is reportedly deteriorating, but he was returned to prison several hours later Pakistan\u2019s jailed former prime minister Imran Khan was briefly taken to a hospital in the country\u2019s capital on supreme court orders after weeks of uproar about his deteriorating health. Khan, 73, was transferred to the hospital in the early hours of Friday, but then moved back to Adiala prison in Rawalpindi after a \u2060few hours, a spokesperson for his party said on Friday. Continue reading...",
@@ -1244,6 +1308,93 @@
      "kind": "news",
      "published": "2026-08-20T21:56:00+00:00",
      "summary": "Khan was examined by a team of doctors before being moved back to prison. The former PM's supporters say his health has deteriorated during more than \u200bthree years behind bars since being removed from office in 2022."
+    }
+   ]
+  },
+  {
+   "id": "b58240b4fd",
+   "topic": "Politics",
+   "summary": "Y ou are reading this story only because the White House didn\u2019t want you to. I\u2019ll explain. This past Sunday, Georgia Senator Jon Ossoff \u2014who has become quite good at delivering viral campaign sound bites, slickly filmed by multiple cameras\u2014unleashed a blistering indictment of President Trump\u2019s leadership. Ossoff, a former documentary filmmaker who is generating 2028 buzz, denounced Trump\u2019s handling of the Iran war this way: \u201cWhile he fruitlessly drains our munitions and oil reserves, the president sleeps through his meetings. He golfs and trades stocks. See, he doesn\u2019t want to do the job. He wants to build his ballroom and travel with Natalie on their apparently defenseless flying palace gifted by the emir of Qatar.\u201d It was a pithy and well-structured attack, but not so different from the broadsides delivered daily by Democrats on the campaign trail or on MS NOW. But one new word stood\u2026",
+   "summaryFrom": "theatlantic",
+   "emphasis": {
+    "bigCount": 4,
+    "indieCount": 2,
+    "big": [
+     "lady",
+     "melania",
+     "year-old"
+    ],
+    "indie": []
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "White House faces questions over security clearance for top Trump aide Natalie Harp",
+   "updated": "2026-08-21T02:47:00+00:00",
+   "outletCount": 5,
+   "counts": {
+    "corp": 2,
+    "family": 2,
+    "nonprofit": 1,
+    "pub": 1
+   },
+   "newsCount": 5,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "Natalie Harp Makes Dramatic Move as Melania Returns",
+     "url": "https://www.thedailybeast.com/natalie-harp-makes-dramatic-move-as-melania-returns/",
+     "author": "Erkki Forster",
+     "kind": "news",
+     "published": "2026-08-21T02:47:00+00:00",
+     "summary": "REUTERS Donald Trump\u2019s ever-present aide Natalie Harp appeared to abandon her usual post by the president\u2019s side as Melania Trump made a rare White House appearance. The 56-year-old first lady resurfaced publicly for the first time in more than a month on Thursday, emerging from the White House holding hands with her 80-year-old husband before speaking about the expansion of her Fostering the Future Initiative in the Rose Garden. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "theatlantic",
+     "title": "The White House Freak-Out Over Natalie Harp",
+     "url": "https://www.theatlantic.com/politics/2026/08/ossoff-trump-natalie-harp/688365/?utm_source=feed",
+     "author": "Jonathan Lemire",
+     "kind": "news",
+     "published": "2026-08-21T00:05:00+00:00",
+     "summary": "Y ou are reading this story only because the White House didn\u2019t want you to. I\u2019ll explain. This past Sunday, Georgia Senator Jon Ossoff \u2014who has become quite good at delivering viral campaign sound bites, slickly filmed by multiple cameras\u2014unleashed a blistering indictment of President Trump\u2019s leadership. Ossoff, a former documentary filmmaker who is generating 2028 buzz, denounced Trump\u2019s handling of the Iran war this way: \u201cWhile he fruitlessly drains our munitions and oil reserves, the president sleeps through his meetings. He golfs and trades stocks. See, he doesn\u2019t want to do the job. He wants to build his ballroom and travel with Natalie on their apparently defenseless flying palace gifted by the emir of Qatar.\u201d It was a pithy and well-structured attack, but not so different from the broadsides delivered daily by Democrats on the campaign trail or on MS NOW. But one new word stood out: Natalie . The line got a knowing laugh from a handful of observers in the room, and it electrified a subset of political obsessives on social media, who took to their favorite platforms and group chats with some version of \u201cOh, he went there!\u201d or \u201cI can\u2019t believe he did that!\u201d But although Ossof"
+    },
+    {
+     "outlet": "guardian",
+     "title": "White House faces questions over security clearance for top Trump aide Natalie Harp",
+     "url": "https://www.theguardian.com/us-news/2026/aug/20/natalie-harp-security-clearance",
+     "author": "Joseph Gedeon and David Smith in Washington",
+     "kind": "news",
+     "published": "2026-08-20T20:25:29+00:00",
+     "summary": "Former ethics tsar calls report that executive assistant to president worked for a year without clearance \u2018shocking\u2019 US politics live \u2013 latest updates The White House faced fresh questions on Thursday over whether Donald Trump\u2019s closest aide, Natalie Harp, had access to US government secrets without security clearance. Harp, who is executive assistant to the US president, worked at the White House for a year without the routine clearance, the MS Now network reported on Thursday . She refused to file the relevant forms for unknown reasons, according to two unnamed sources cited by MS Now. Continue reading..."
+    },
+    {
+     "outlet": "dailybeast",
+     "title": "All The Times Trump Was With Blonde Aide, 35, While Melania Was Missing",
+     "url": "https://www.thedailybeast.com/all-the-times-trump-was-with-natalie-harp-35-while-melania-was-missing/",
+     "author": "Josh Fiallo",
+     "kind": "news",
+     "published": "2026-08-20T19:53:57+00:00",
+     "summary": "Kevin Dietsch / Getty Images Donald Trump has been with his 35-year-old blonde aide at least 18 days in the last month\u2014a period in which First Lady Melania Trump has not been photographed with the president once. A Daily Beast analysis found that Natalie Harp, a former right-wing TV host who now makes $150,000 annually as the president\u2019s executive assistant, has been with Trump for at least 56 percent of the days since Melania last appeared publicly with him. Read more at The Daily Beast."
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Key Trump Admin Liaison Between White House And Congress Is Leaving",
+     "url": "https://www.dailywire.com/news/key-trump-admin-liaison-between-white-house-and-congress-is-leaving",
+     "author": "Mary Margaret Olohan",
+     "kind": "opinion",
+     "published": "2026-08-20T11:24:34+00:00",
+     "summary": "WASHINGTON \u2014 White House Director of Legislative Affairs James Braid will depart the administration in September, President Donald Trump announced on Thursday. Braid acts as the administration&#8217;s liaison with Congress, ensuring that lawmakers are aligned with the president&#8217;s agenda and pushing his policy through. Braid, who most recently served as a policy aide to then-Senator JD Vance, was close to both the vice president and the president. He notably played a massive role in getting the &#8220;One Big Beautiful Bill&#8221; across the finish line and also was a major player in the recent housing bill and the &#8220;GENIUS Act,&#8221; which establishes guidelines for stablecoins. While his departure is notable, given his standing in the administration and his impact on Capitol Hill, Braid has been with the Trump administration since the beginning of the president&#8217;s second term in January 2025 and is choosing to depart ahead of the midterms like several other officials. &#8220;James has played a critical role in our many accomplishments with Congress, including THE ONE BIG BEAUTIFUL BILL, beating the Democrats in two shutdown showdowns, passing the GENIUS Act, defea"
+    },
+    {
+     "outlet": "bbc",
+     "title": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
+     "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T23:11:14+00:00",
+     "summary": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president."
     }
    ]
   },
@@ -1317,60 +1468,44 @@
    ]
   },
   {
-   "id": "086e4c8df5",
+   "id": "cdcf287a57",
    "topic": "World",
-   "summary": "Prince Harry and his wife Meghan plan to move back to Britain this month, six years after they stepped down from \u200btheir royal duties and relocated to the US, a source close to the couple said. The surprise move comes after the couple spent recent years repeatedly criticising the royal family and lambasting the British press, saying the tabloids had made their lives hell and they wanted to carve out independent roles for themselves.",
-   "summaryFrom": "france24",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 3,
-    "big": [],
-    "indie": [
-     "britain"
-    ]
-   },
+   "summary": "As the couple plans their return to the UK, Montecito\u2019s whirlwind stint on the global stage may be coming to an end The bucolic coastal California town of Montecito was thrust into the limelight six years ago as the backdrop for the Duke and Duchess of Sussex\u2019s second act following an acrimonious split from Buckingham Palace. But as the couple plans their return to the United Kingdom, Montecito\u2019s whirlwind stint on the global stage may be coming to an end. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
    "absent": [
-    "coop",
-    "nonprofit"
+    "corp",
+    "coop"
    ],
-   "headline": "Prince Harry and Meghan to move back to Britain",
-   "updated": "2026-08-20T21:43:02+00:00",
-   "outletCount": 5,
+   "headline": "We\u2019ll never be royals: the California town where Prince Harry and Meghan lived says goodbye",
+   "updated": "2026-08-21T07:00:28+00:00",
+   "outletCount": 4,
    "counts": {
-    "corp": 1,
+    "nonprofit": 1,
     "family": 1,
-    "pub": 3
+    "pub": 2
    },
-   "newsCount": 5,
+   "newsCount": 4,
    "opinionCount": 0,
-   "underreported": false,
+   "underreported": true,
    "articles": [
     {
-     "outlet": "slate",
-     "title": "Harry and Meghan Are Returning to the U.K. The Timing Couldn\u2019t Be Darker.",
-     "url": "https://slate.com/life/2026/08/harry-meghan-move-uk-king-charles.html?via=rss",
-     "author": "Imogen West-Knights",
+     "outlet": "guardian",
+     "title": "We\u2019ll never be royals: the California town where Prince Harry and Meghan lived says goodbye",
+     "url": "https://www.theguardian.com/us-news/2026/aug/21/california-montecito-prince-harry-meghan",
+     "author": "Uwa Ede-Osifo in Montecito, California",
      "kind": "news",
-     "published": "2026-08-20T21:43:02+00:00",
-     "summary": "The front page of the Daily Telegraph, which features an imagine of Harry and Meghan and the text \"Harry's Coming Home.\""
+     "published": "2026-08-21T07:00:28+00:00",
+     "summary": "As the couple plans their return to the UK, Montecito\u2019s whirlwind stint on the global stage may be coming to an end The bucolic coastal California town of Montecito was thrust into the limelight six years ago as the backdrop for the Duke and Duchess of Sussex\u2019s second act following an acrimonious split from Buckingham Palace. But as the couple plans their return to the United Kingdom, Montecito\u2019s whirlwind stint on the global stage may be coming to an end. Continue reading..."
     },
     {
      "outlet": "nyt",
-     "title": "What to Know About Prince Harry and Meghan\u2019s Move Back to the U.K.",
-     "url": "https://www.nytimes.com/2026/08/20/world/europe/prince-harry-meghan-uk-move-return.html",
-     "author": "Amelia Nierenberg",
+     "title": "As Prince Harry and Meghan Depart California for the U.K., Their Neighbors Shrug",
+     "url": "https://www.nytimes.com/2026/08/20/us/prince-harry-meghan-montecito-california-uk.html",
+     "author": "Shawn Hubler and Livia Albeck-Ripka",
      "kind": "news",
-     "published": "2026-08-20T13:58:38+00:00",
-     "summary": "The couple are moving back after six years in the United States. What they will do, and much else, are still unclear."
-    },
-    {
-     "outlet": "france24",
-     "title": "Prince Harry and Meghan to move back to Britain",
-     "url": "https://www.france24.com/en/video/20260820-prince-harry-and-meghan-to-move-back-to-britain",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-20T13:27:02+00:00",
-     "summary": "Prince Harry and his wife Meghan plan to move back to Britain this month, six years after they stepped down from \u200btheir royal duties and relocated to the US, a source close to the couple said. The surprise move comes after the couple spent recent years repeatedly criticising the royal family and lambasting the British press, saying the tabloids had made their lives hell and they wanted to carve out independent roles for themselves."
+     "published": "2026-08-20T20:41:36+00:00",
+     "summary": "Prince Harry and Meghan Markle self exiled to the ultrawealthy enclave of Montecito in 2020. \u201cThey wave. They drive. They close the gates,\u201d a neighbor said."
     },
     {
      "outlet": "bbc",
@@ -1389,75 +1524,6 @@
      "kind": "news",
      "published": "2026-08-20T03:10:00+00:00",
      "summary": "Prince Harry and Meghan Markle will return to the UK after living in the US for over six years, according to reports. The former senior royals will reportedly live in a private residence."
-    }
-   ]
-  },
-  {
-   "id": "46c7ff5ee0",
-   "topic": "Politics",
-   "summary": "The Trump administration has designated an American scholar detained in China as wrongfully held after he traveled there at Beijing\u2019s invitation, escalating his case just weeks before President Donald Trump is set to host Chinese President Xi Jinping . Secretary of State Marco Rubio determined that U.S. citizen Min Zin is \"wrongfully detained\" after the State Department reviewed the circumstances of his June 3 detention in Yunnan, the State Department said Thursday. Zin had traveled to China for an academic conference at the invitation of the Chinese government, according to the department. PASTOR FREED FROM CHINESE PRISON AFTER TRUMP RAISED HIS CASE WITH XI JINPING He is now one of two U.S. citizens the State Department considers wrongfully detained in China. The other is Dr. Youlin Chen, a Chinese-born American seismologist from Boston. \"The safety and security of U.S. citizens is the\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "China wrongfully detaining US citizen, State Department declares",
-   "updated": "2026-08-20T18:49:36+00:00",
-   "outletCount": 5,
-   "counts": {
-    "corp": 2,
-    "family": 3
-   },
-   "newsCount": 4,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "abcnews",
-     "title": "China wrongfully detaining US citizen, State Department declares",
-     "url": "https://abcnews.com/International/china-wrongfully-detaining-us-citizen-state-department-declares/story?id=135808767",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T18:49:36+00:00",
-     "summary": "The State Department said Thursday that an American citizen who traveled to China has been illegally detained by their government."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Rubio designates US citizen held in China as wrongfully detained as Trump prepares to host Xi at White House",
-     "url": "https://www.foxnews.com/politics/rubio-designates-us-citizen-held-china-wrongfully-detained-trump-prepares-host-xi-white-house",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T18:08:42+00:00",
-     "summary": "The Trump administration has designated an American scholar detained in China as wrongfully held after he traveled there at Beijing\u2019s invitation, escalating his case just weeks before President Donald Trump is set to host Chinese President Xi Jinping . Secretary of State Marco Rubio determined that U.S. citizen Min Zin is \"wrongfully detained\" after the State Department reviewed the circumstances of his June 3 detention in Yunnan, the State Department said Thursday. Zin had traveled to China for an academic conference at the invitation of the Chinese government, according to the department. PASTOR FREED FROM CHINESE PRISON AFTER TRUMP RAISED HIS CASE WITH XI JINPING He is now one of two U.S. citizens the State Department considers wrongfully detained in China. The other is Dr. Youlin Chen, a Chinese-born American seismologist from Boston. \"The safety and security of U.S. citizens is the State Department\u2019s top priority,\" Assistant Secretary Dylan Johnson said in a statement. \"We will continue to advocate for Mr. Zin and call for the release of all U.S. citizens who are arbitrarily detained or exit banned in China.\" Zin was detained at the airport after arriving in China and has been"
-    },
-    {
-     "outlet": "businessinsider",
-     "title": "Before-and-after photos show the decor changes Trump has made to the White House, so far",
-     "url": "https://www.businessinsider.com/donald-trump-white-house-decor-oval-office-photos-2025-4",
-     "author": "Talia Lakritz (tlakritz@businessinsider.com)",
-     "kind": "news",
-     "published": "2026-08-20T15:53:46+00:00",
-     "summary": "President Donald Trump has redecorated the Oval Office and other White House spaces. Alex Wong/Getty Images ; Saul Loeb/Getty Images Donald Trump has brought his love of maximalism and gold furnishings to the White House. He added gold embellishments to the walls and ceiling of the Oval Office and Cabinet Room. He has also renovated the Rose Garden and demolished the East Wing to build a ballroom. The White House looks a little bit different these days. Every US president makes new interior design choices upon taking up residence at the People's House, often reflecting their personal tastes or political views. In his second term, President Donald Trump has incorporated his love of maximalism and gold furnishings into the Oval Office. He has other, bigger plans for the White House, too. The East Wing was demolished in October to make way for a new 90,000-square-foot state ballroom. However, Congress has not approved the project. A federal appeals court has upheld an order blocking above-ground construction of the White House's planned ballroom, which the Trump administration has described as part of an \"integrated military complex,\" but temporarily paused the order to give the admin"
-    },
-    {
-     "outlet": "nyt",
-     "title": "State Dept. Declares U.S. Citizen in China Wrongfully Detained",
-     "url": "https://www.nytimes.com/2026/08/20/us/politics/scholar-china-wrongfully-detained.html",
-     "author": "Karoun Demirjian",
-     "kind": "news",
-     "published": "2026-08-20T14:59:45+00:00",
-     "summary": "The detained U.S. citizen U Min Zin disappeared in China\u2019s Yunnan province after traveling there to attend an academic conference at the invitation of the Chinese government, according to the State Department."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Key Trump Admin Liaison Between White House And Congress Is Leaving",
-     "url": "https://www.dailywire.com/news/key-trump-admin-liaison-between-white-house-and-congress-is-leaving",
-     "author": "Mary Margaret Olohan",
-     "kind": "opinion",
-     "published": "2026-08-20T11:24:34+00:00",
-     "summary": "WASHINGTON \u2014 White House Director of Legislative Affairs James Braid will depart the administration in September, President Donald Trump announced on Thursday. Braid acts as the administration&#8217;s liaison with Congress, ensuring that lawmakers are aligned with the president&#8217;s agenda and pushing his policy through. Braid, who most recently served as a policy aide to then-Senator JD Vance, was close to both the vice president and the president. He notably played a massive role in getting the &#8220;One Big Beautiful Bill&#8221; across the finish line and also was a major player in the recent housing bill and the &#8220;GENIUS Act,&#8221; which establishes guidelines for stablecoins. While his departure is notable, given his standing in the administration and his impact on Capitol Hill, Braid has been with the Trump administration since the beginning of the president&#8217;s second term in January 2025 and is choosing to depart ahead of the midterms like several other officials. &#8220;James has played a critical role in our many accomplishments with Congress, including THE ONE BIG BEAUTIFUL BILL, beating the Democrats in two shutdown showdowns, passing the GENIUS Act, defea"
     }
    ]
   },
@@ -1960,53 +2026,53 @@
    ]
   },
   {
-   "id": "eaee91a0ec",
-   "topic": "Other",
-   "summary": "A charter flight carrying two pilots and six passengers crashed while approaching a remote site in western Alaska on Thursday, officials said. Clint Johnson, the National Transportation Safety Board's Alaska region chief, told The Associated Press that two pilots and six passengers were on board. Johnson did not immediately have information on their conditions. The plane took off from Anchorage and is believed to have crashed early Thursday afternoon while approaching Cape Newenham, according to the AP. PENNSYLVANIA STATE POLICE HELICOPTER, SMALL PLANE COLLIDE IN MIDAIR, KILLING 1 AND INJURING 2 STATE TROOPERS The twin-engine Cessna was operated by Security Aviation and had been chartered to fly from Anchorage to Cape Newenham, located about 40 miles south of Goodnews Bay, according to KTUU. The Alaska Rescue Coordination Center said it launched a search-and-rescue mission after\u2026",
-   "summaryFrom": "foxnews",
+   "id": "2a7ddd2137",
+   "topic": "Tech",
+   "summary": "Mark Zuckerberg just bought a nearly 200-year-old castle in Ireland. John Nacion/Variety via Getty Images Mark Zuckerberg has added another multimillion-dollar property to his real estate portfolio. His newest purchase is a nearly 200-year-old castle in Ireland, 140 miles from Meta's international HQ. The estate is vast and historic, and it only looks mildly haunted. Mark Zuckerberg has a hot new \u2014 but also 200-year-old \u2014 pad in Ireland. The billionaire CEO of Meta and his wife, Priscilla Chan, have purchased a nearly Gothic property called Strancally Castle in Waterford County, Ireland. The property is located about 140 miles south of the company's international headquarters in Dublin. \"Mark and his family are excited to continue caring for this historic home and look forward to spending time in Ireland, where Meta maintains its international headquarters,\" Zuckerberg's spokesperson,\u2026",
+   "summaryFrom": "businessinsider",
    "emphasis": null,
    "absent": [
+    "family",
     "coop",
-    "nonprofit",
     "pub"
    ],
-   "headline": "8 dead in charter plane crash at remote radar site in western Alaska",
-   "updated": "2026-08-21T05:45:22+00:00",
+   "headline": "Mark Zuckerberg buys 440-acre Strancally castle estate in Ireland",
+   "updated": "2026-08-21T05:56:07+00:00",
    "outletCount": 3,
    "counts": {
     "corp": 2,
-    "family": 1
+    "nonprofit": 1
    },
    "newsCount": 3,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "cbsnews",
-     "title": "8 dead in charter plane crash at remote radar site in western Alaska",
-     "url": "https://www.cbsnews.com/news/charter-plane-crash-cape-newenham-alaska/",
-     "author": null,
+     "outlet": "businessinsider",
+     "title": "Mark Zuckerberg is king\u2026 of an Irish castle near a Meta office",
+     "url": "https://www.businessinsider.com/mark-zuckerberg-bought-irish-castle-near-meta-office-2026-8",
+     "author": "Aditi Bharade (abharade@businessinsider.com)",
      "kind": "news",
-     "published": "2026-08-21T05:45:22+00:00",
-     "summary": "A charter aircraft carrying eight people crashed at a remote radar site in western Alaska on Thursday, killing all on board, the U.S. military said."
+     "published": "2026-08-21T05:56:07+00:00",
+     "summary": "Mark Zuckerberg just bought a nearly 200-year-old castle in Ireland. John Nacion/Variety via Getty Images Mark Zuckerberg has added another multimillion-dollar property to his real estate portfolio. His newest purchase is a nearly 200-year-old castle in Ireland, 140 miles from Meta's international HQ. The estate is vast and historic, and it only looks mildly haunted. Mark Zuckerberg has a hot new \u2014 but also 200-year-old \u2014 pad in Ireland. The billionaire CEO of Meta and his wife, Priscilla Chan, have purchased a nearly Gothic property called Strancally Castle in Waterford County, Ireland. The property is located about 140 miles south of the company's international headquarters in Dublin. \"Mark and his family are excited to continue caring for this historic home and look forward to spending time in Ireland, where Meta maintains its international headquarters,\" Zuckerberg's spokesperson, Brian Baker, said in an email statement to Business Insider. The news was first reported by The Irish Times on Thursday, which wrote that the couple purchased the 440-acre Gothic castle on the banks of the River Blackwater. They bought the property from Michael Alen-Buckley, the cofounder of the Londo"
     },
     {
-     "outlet": "foxnews",
-     "title": "Charter plane with 8 aboard crashes near remote radar site in western Alaska",
-     "url": "https://www.foxnews.com/us/charter-plane-8-aboard-crashes-remote-radar-site-western-alaska-report",
-     "author": null,
+     "outlet": "theverge",
+     "title": "Mark Zuckerberg bought an Irish castle",
+     "url": "https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland",
+     "author": "Jay Peters",
      "kind": "news",
-     "published": "2026-08-21T05:39:50+00:00",
-     "summary": "A charter flight carrying two pilots and six passengers crashed while approaching a remote site in western Alaska on Thursday, officials said. Clint Johnson, the National Transportation Safety Board's Alaska region chief, told The Associated Press that two pilots and six passengers were on board. Johnson did not immediately have information on their conditions. The plane took off from Anchorage and is believed to have crashed early Thursday afternoon while approaching Cape Newenham, according to the AP. PENNSYLVANIA STATE POLICE HELICOPTER, SMALL PLANE COLLIDE IN MIDAIR, KILLING 1 AND INJURING 2 STATE TROOPERS The twin-engine Cessna was operated by Security Aviation and had been chartered to fly from Anchorage to Cape Newenham, located about 40 miles south of Goodnews Bay, according to KTUU. The Alaska Rescue Coordination Center said it launched a search-and-rescue mission after receiving a report of an \"aircraft incident\" near the Cape Newenham Long Range Radar Site. Sen. Lisa Murkowski, R-Alaska, reacted to the crash on X, offering condolences and noting her personal experience flying with Security Aviation. \"I join Alaskans in condolences as we learn of the plane crash in Cape N"
+     "published": "2026-08-20T18:50:14+00:00",
+     "summary": "Mark Zuckerberg. | Image: Cath Virginia / The Verge; Getty Images Meta CEO Mark Zuckerberg now owns an actual castle. Zuckerberg and his wife Priscilla Chan bought Strancally Castle and its 440-acre estate in Ireland \"several weeks ago,\" according to The Irish Times . While the exact price of the purchase is unclear, the family could have paid \"anywhere between &euro;20 million and &euro;30 million\" for the 16,000-square-foot castle, which was restored by its previous owners. \"Mark and his family look forward to caring for this historic home and visiting when traveling to Ireland, where Meta maintains its international headquarters,\" Brian Baker, a spokesperson for Zuckerberg, says in a statement to The Verge . The I \u2026 Read the full story at The Verge."
     },
     {
-     "outlet": "abcnews",
-     "title": "'No survivors' after small plane with 8 aboard crashes in Alaska: Officials",
-     "url": "https://abcnews.com/US/small-plane-8-aboard-crashes-alaska-faa/story?id=135827761",
-     "author": null,
+     "outlet": "guardian",
+     "title": "Mark Zuckerberg buys 440-acre Strancally castle estate in Ireland",
+     "url": "https://www.theguardian.com/world/2026/aug/20/mark-zuckerberg-buys-440-acre-strancally-castle-estate-in-ireland",
+     "author": "Rory Carroll Ireland correspondent",
      "kind": "news",
-     "published": "2026-08-21T05:35:54+00:00",
-     "summary": "The NTSB will investigate the crash."
+     "published": "2026-08-20T17:39:44+00:00",
+     "summary": "Meta chief executive paid roughly \u20ac20m for gothic-style mansion built in 1830 and its surroundings It stretches the definition of pied-\u00e0-terre but Mark Zuckerberg now has a pad in Ireland : Strancally castle. The Meta chief executive and his wife, Priscilla Chan, have bought the gothic-style mansion and its 178-hectare (440-acre) estate in county Waterford to use as a base during visits to Ireland. Continue reading..."
     }
    ]
   },
@@ -2164,57 +2230,6 @@
    ]
   },
   {
-   "id": "15ae0baa2e",
-   "topic": "Other",
-   "summary": "In a royal surprise, Prince Harry and Duchess Meghan Markle plan to leave California and establish a home base in the United Kingdom, British media reported Wednesday. The couple and their two children, Prince Archie, 7, and Princess Lilibet, 5, will head back across the pond later this month after giving up their senior royal roles and settling in California during the coronavirus pandemic, The Telegraph reported. With the children set to start school in September, the couple is expected to keep their homes in Montecito, California, and Portugal. The move comes after years of bitter tensions between Harry and his estranged royal family \u2014 and just months after a low-key British trip that nonetheless caught the attention of royal watchers. In July, King Charles III privately met with Prince Harry, Meghan Markle, and their two children in the first family gathering since the royal rift\u2026",
-   "summaryFrom": "dailywire",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
-   "updated": "2026-08-21T01:08:14+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 2,
-    "pub": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
-     "url": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html",
-     "author": "Michael D. Shear",
-     "kind": "news",
-     "published": "2026-08-21T01:08:14+00:00",
-     "summary": "Just last year, Prince Harry said he couldn\u2019t imagine ever bringing his family back to Britain."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "PARTY IN THE USA: Prince Harry, Meghan Markle Returning To UK After Years Of Royal Turmoil",
-     "url": "https://www.dailywire.com/news/party-in-the-usa-prince-harry-meghan-markle-returning-to-uk-after-years-of-royal-turmoil",
-     "author": "Jacob Wheeler",
-     "kind": "opinion",
-     "published": "2026-08-20T07:05:33+00:00",
-     "summary": "In a royal surprise, Prince Harry and Duchess Meghan Markle plan to leave California and establish a home base in the United Kingdom, British media reported Wednesday. The couple and their two children, Prince Archie, 7, and Princess Lilibet, 5, will head back across the pond later this month after giving up their senior royal roles and settling in California during the coronavirus pandemic, The Telegraph reported. With the children set to start school in September, the couple is expected to keep their homes in Montecito, California, and Portugal. The move comes after years of bitter tensions between Harry and his estranged royal family \u2014 and just months after a low-key British trip that nonetheless caught the attention of royal watchers. In July, King Charles III privately met with Prince Harry, Meghan Markle, and their two children in the first family gathering since the royal rift erupted several years ago, The Daily Wire previously reported. The king and Queen Camilla met with the Duke and Duchess of Sussex, Prince Archie, and Princess Lilibet at the Highgrove House country estate. Relations deteriorated after Harry and Meghan\u2019s bombshell 2021 interview with Oprah Winfrey, in w"
-    },
-    {
-     "outlet": "bbc",
-     "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
-     "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T02:00:51+00:00",
-     "summary": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family."
-    }
-   ]
-  },
-  {
    "id": "7d84c4e850",
    "topic": "Politics",
    "summary": "First lady Melania Trump made a memorable return to the White House Rose Garden Thursday, greeting the crowd with a playful five-word message before an announcement filled with patriotism and horsepower. \"I heard you missed me. Here I am,\" Trump said as she took the podium, as the crowd \u2014 including President Donald Trump \u2014 erupted in laughter. The first lady stood before a wall of American flags in a crisp sky-blue oversized Michael Kors shirt with the collar popped and a vivid red Dior pencil skirt, echoing the patriotic setting. She completed the look with red Manolo Blahnik suede pumps. TRUMP SHOWCASES RAW AMERICAN MUSCLE IN PREVIEW OF FIRST-OF-ITS KIND AMERICA 250 GRAND PRIX And Trump's clothes weren't the only thing turning heads. Sitting nearby was an IndyCar decked out in red, white and blue and carrying the branding of the first lady's \"BE BEST\" and Fostering the Future\u2026",
@@ -2313,57 +2328,6 @@
      "kind": "news",
      "published": "2026-08-19T16:06:10+00:00",
      "summary": "Angie Nixon\u2019s victory in the Senate primary was powered by voters who normally don\u2019t gravitate to progressives in the state\u2019s lowest-income and less-educated counties."
-    }
-   ]
-  },
-  {
-   "id": "b2ed9e3a93",
-   "topic": "Politics",
-   "summary": "Good evening, and welcome to this week&#8217;s &#8216; Ragebait .&#8217; Justin Baragona here, bringing you the latest media dispatches from the right-wing industrial outrage complex and Bari World. In tonight&#8217;s edition, we talk to journalism ethics experts on whether it is &#8220;fair game&#8221; for reporters to dig into the nature of Natalie Harp&#8217;s relationship with Donald Trump, and how newsrooms should navigate this story. Also, Disney is getting lauded for punching back against the Trump administration, but didn&#8217;t they help jumpstart his war against the media in the first place? Subscribe now Who&#8217;s Afraid of Natalie Harp? Donald Trump looks on as Natalie Harp places a computer playing a news report in the Oval Office on May 30, 2025. Photo by Francis Chung/Sipa USA via Reuters &#8220;Okay, back to the midterms because the Natalie stuff, I think, is strange.\u2026",
-   "summaryFrom": "zeteo",
-   "emphasis": null,
-   "absent": [
-    "family",
-    "nonprofit"
-   ],
-   "headline": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
-   "updated": "2026-08-21T00:00:00+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 1,
-    "coop": 1,
-    "pub": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "dailybeast",
-     "title": "Why I Decided to Publish Natalie Harp\u2019s Trump Letters: Author",
-     "url": "https://www.thedailybeast.com/why-i-decided-to-release-natalie-harps-unsettling-letters-michael-wolff/",
-     "author": "Erkki Forster",
-     "kind": "news",
-     "published": "2026-08-21T00:00:00+00:00",
-     "summary": "Photo Illustration by Victoria Sunday/The Daily Beast/Getty Images/Reuters Donald Trump\u2019s biographer is sounding the alarm on newly uncovered letters written by his \u201clovesick\u201d aide Natalie Harp, saying they offer a concerning glimpse into her extraordinary relationship with the president. \u201cThese letters are a red flag,\u201d author Michael Wolff told the Inside Trump\u2019s Head podcast. The Daily Beast on Thursday published, in full, two letters Harp, 35, wrote to Trump, 80 , revealing a relationship that appears to have few boundaries, amid mounting concerns over her proximity to the president and the nature of their relationship. Extracts from the letters have previously been published, but the full texts and images of the originals have never been seen. Read more at The Daily Beast."
-    },
-    {
-     "outlet": "zeteo",
-     "title": "Is the Media Afraid of Covering the Natalie Harp-Donald Trump Dynamic?",
-     "url": "https://zeteo.com/p/is-the-media-afraid-of-covering-the",
-     "author": "Justin Baragona",
-     "kind": "news",
-     "published": "2026-08-20T00:16:28+00:00",
-     "summary": "Good evening, and welcome to this week&#8217;s &#8216; Ragebait .&#8217; Justin Baragona here, bringing you the latest media dispatches from the right-wing industrial outrage complex and Bari World. In tonight&#8217;s edition, we talk to journalism ethics experts on whether it is &#8220;fair game&#8221; for reporters to dig into the nature of Natalie Harp&#8217;s relationship with Donald Trump, and how newsrooms should navigate this story. Also, Disney is getting lauded for punching back against the Trump administration, but didn&#8217;t they help jumpstart his war against the media in the first place? Subscribe now Who&#8217;s Afraid of Natalie Harp? Donald Trump looks on as Natalie Harp places a computer playing a news report in the Oval Office on May 30, 2025. Photo by Francis Chung/Sipa USA via Reuters &#8220;Okay, back to the midterms because the Natalie stuff, I think, is strange. So I&#8217;m going to leave it there.&#8221; That was what MS NOW&#8217;s Katy Tur said to the New York Times&#8217;s Maggie Haberman on Tuesday afternoon following a several-minute conversation about Natalie Harp , the close aide to Donald Trump who has suddenly been thrust into the news cycle afte"
-    },
-    {
-     "outlet": "bbc",
-     "title": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
-     "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T23:11:14+00:00",
-     "summary": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president."
     }
    ]
   },
@@ -2632,6 +2596,57 @@
    ]
   },
   {
+   "id": "15ae0baa2e",
+   "topic": "Other",
+   "summary": "The year: 2021. The setting: the sprawling grounds of Montecito. In the camera frame: megacelebrity TV host Oprah Winfrey seated across from royal refugees, Prince Harry and Meghan Markle. In an exclusive interview with Oprah Winfrey, the couple revealed just why they fled England and royal life for refuge in California. The transatlantic move would famously be dubbed \u201cMegxit.\u201d \u201cLack of support, lack of security, potential racism through &#8216; unconscious bias ,&#8217; being silenced.\u201d These were all reasons the couple gave for why staying in the U.K. was untenable. \u201cMy biggest concern was history repeating itself,\u201d Harry said, referring to Meghan allegedly being tormented by the media, drawing the parallel to his mother, Princess Diana, prior to her death. Markle asserted that their voices were \u201csilenced.\u201d And in the most famous confession of the entire sit-down, Markle accused\u2026",
+   "summaryFrom": "dailywire",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
+   "updated": "2026-08-20T21:43:02+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "family": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "slate",
+     "title": "Harry and Meghan Are Returning to the U.K. The Timing Couldn\u2019t Be Darker.",
+     "url": "https://slate.com/life/2026/08/harry-meghan-move-uk-king-charles.html?via=rss",
+     "author": "Imogen West-Knights",
+     "kind": "news",
+     "published": "2026-08-20T21:43:02+00:00",
+     "summary": "The front page of the Daily Telegraph, which features an imagine of Harry and Meghan and the text \"Harry's Coming Home.\""
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Cash, Crown, And The Royal Return of Harry And Meghan",
+     "url": "https://www.dailywire.com/news/cash-crown-and-the-royal-return-of-harry-and-meghan",
+     "author": "Emily Osment Davis",
+     "kind": "opinion",
+     "published": "2026-08-20T12:10:13+00:00",
+     "summary": "The year: 2021. The setting: the sprawling grounds of Montecito. In the camera frame: megacelebrity TV host Oprah Winfrey seated across from royal refugees, Prince Harry and Meghan Markle. In an exclusive interview with Oprah Winfrey, the couple revealed just why they fled England and royal life for refuge in California. The transatlantic move would famously be dubbed \u201cMegxit.\u201d \u201cLack of support, lack of security, potential racism through &#8216; unconscious bias ,&#8217; being silenced.\u201d These were all reasons the couple gave for why staying in the U.K. was untenable. \u201cMy biggest concern was history repeating itself,\u201d Harry said, referring to Meghan allegedly being tormented by the media, drawing the parallel to his mother, Princess Diana, prior to her death. Markle asserted that their voices were \u201csilenced.\u201d And in the most famous confession of the entire sit-down, Markle accused unnamed royal members of the family of having \u201cconcerns and conversations about how dark his skin might be when he\u2019s born,\u201d referring to their unborn son. And just a little over a year ago, Harry, after losing a court battle for taxpayer-funded security, vowed that it was impossible to bring his family ba"
+    },
+    {
+     "outlet": "bbc",
+     "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
+     "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T02:00:51+00:00",
+     "summary": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family."
+    }
+   ]
+  },
+  {
    "id": "5f83eafd3f",
    "topic": "Politics",
    "summary": "A top House Republican is arguing that Democrats would upend work in Washington by impeaching President Donald Trump immediately if they win the majority in November. \"Democrats aren't even being shy about it. They're telling you what they would do. I mean, they'll impeach the president day one,\" House Majority Leader Steve Scalise, R-La., told Fox News Digital. House Democrats successfully impeached Trump twice the last time they held the House majority, though both efforts failed to get him convicted by the Senate. PUSH TO OUST TRUMP EXPOSES CRACKS AMONG DEMOCRATS ON STRATEGY, TIMING Their party leaders have not openly called for impeaching Trump again if they win in November, but progressive lawmakers have already introduced a flurry of impeachment resolutions targeting both the president and his Cabinet. And while the Democratic establishment has not endorsed any impeachment efforts\u2026",
@@ -2679,57 +2694,6 @@
      "kind": "news",
      "published": "2026-08-19T10:17:14+00:00",
      "summary": "The president has minimized poor conditions about the USS Abraham Lincoln. That could complicate a key House race."
-    }
-   ]
-  },
-  {
-   "id": "8673d98c56",
-   "topic": "Other",
-   "summary": "Harry and Meghan , the Duke and Duchess of Sussex, are expected to move back to the United Kingdom later this year, after six years of living in the U.S. during a period of estrangement from the rest of the Royal family. The couple are set to move with their children, Prince Archie , 7, and Princess Lilibet , 5, to a non-royal residence that is said to be outside of London, with both children enrolled to start at a British school in September. The news was first reported by the Daily Telegraph on Wednesday, with multiple outlets since reporting similar details. The move follows years of Prince Harry arguing that the security arrangements provided for his family in the U.K. were insufficient. In May 2025, Prince Harry lost an appeal after the British government downgraded his security arrangements following his decision, along with Meghan, to step back from Royal duties in 2020. Asked on\u2026",
-   "summaryFrom": "time",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Huge questions loom over Prince Harry and Meghan's shock return to UK",
-   "updated": "2026-08-20T20:41:36+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 2,
-    "pub": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "As Prince Harry and Meghan Depart California for the U.K., Their Neighbors Shrug",
-     "url": "https://www.nytimes.com/2026/08/20/us/prince-harry-meghan-montecito-california-uk.html",
-     "author": "Shawn Hubler and Livia Albeck-Ripka",
-     "kind": "news",
-     "published": "2026-08-20T20:41:36+00:00",
-     "summary": "Prince Harry and Meghan Markle self exiled to the ultrawealthy enclave of Montecito in 2020. \u201cThey wave. They drive. They close the gates,\u201d a neighbor said."
-    },
-    {
-     "outlet": "time",
-     "title": "Andy Burnham Weighs In As Prince Harry and Meghan Set For Return to U.K.",
-     "url": "https://time.com/article/2026/08/20/burnham-prince-harry-and-meghan-set-for-return-security/",
-     "author": "Callum Sutherland",
-     "kind": "news",
-     "published": "2026-08-20T16:09:00+00:00",
-     "summary": "Harry and Meghan , the Duke and Duchess of Sussex, are expected to move back to the United Kingdom later this year, after six years of living in the U.S. during a period of estrangement from the rest of the Royal family. The couple are set to move with their children, Prince Archie , 7, and Princess Lilibet , 5, to a non-royal residence that is said to be outside of London, with both children enrolled to start at a British school in September. The news was first reported by the Daily Telegraph on Wednesday, with multiple outlets since reporting similar details. The move follows years of Prince Harry arguing that the security arrangements provided for his family in the U.K. were insufficient. In May 2025, Prince Harry lost an appeal after the British government downgraded his security arrangements following his decision, along with Meghan, to step back from Royal duties in 2020. Asked on Thursday about the move and if the British government would pay for the family\u2019s security, Prime Minister Andy Burnham said the issue was \u201ca private matter\u201d and that he \u201cwishes them well in the move that they are making.\u201d King Charles III was reportedly informed of the couple\u2019s move on Sunday, and i"
-    },
-    {
-     "outlet": "france24",
-     "title": "Huge questions loom over Prince Harry and Meghan's shock return to UK",
-     "url": "https://www.france24.com/en/video/20260820-huge-questions-loom-over-prince-harry-and-meghan-s-shock-return-to-uk",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-20T13:24:23+00:00",
-     "summary": "Dozens of questions swirled Thursday as Prince Harry prepares to move back to the UK with his wife and children, six years after his departure sparked a bitter rift with the royal family. In a surprise move, Harry and Meghan \"plan to leave the United States by the end of the month to settle in a private, non-royal residence, which is said to be located outside London\", The Daily Telegraph reported late on Wednesday. FRANCE 24's Delano D'Souza tells us more."
     }
    ]
   },
@@ -2883,6 +2847,77 @@
      "kind": "news",
      "published": "2026-08-20T10:00:59+00:00",
      "summary": "The man accused of stabbing a Virginia mother to death in Fairfax County is an immigrant in the country illegally who was admitted by the Biden administration, a federal source tells Fox News. Alexis Antonio Cedillos-Campos, a 19-year-old Salvadoran national, was caught and released at the southern border during the Biden administration . The source said Cedillos-Campos was allowed into the U.S. at El Paso, Texas, in April 2024. \"[Former President Joe] Biden and [former Department of Homeland Security (DHS) Secretary Alejandro] Mayorkas hand-delivered alleged killer Cedillos-Campos to the streets of Fairfax County. They recklessly unleashed millions of unvetted illegal aliens into American communities and abused the law to do so,\" DHS said in a statement to Fox News. \"President [Donald] Trump and [DHS] Secretary Markwayne Mullin are now enforcing the law, arresting illegal aliens who have no right to be in our country \u2014 and have reversed Biden's deadly catch and release policy.\" Fairfax County Police arrested Cedillos-Campos Wednesday in connection with Monday's stabbing death of 42-year-old Carmen Lizet Puch. He is being held in the Prince George's County jail pending extradition "
+    }
+   ]
+  },
+  {
+   "id": "086e4c8df5",
+   "topic": "World",
+   "summary": "Hollie Adams / REUTERS Follow Tom Sykes\u2019 royal reporting at The Royalist on Substack, and get exclusive insight on everything going down behind the palace gates. One constituency of professionals is tracking Harry and Meghan\u2019s blockbuster return to the United Kingdom differently from the rest of us: the accountants. Experts in the field believe the timeline of their departure and return is\u2014from a U.K. tax perspective\u2014perfect, if the goal was to minimize tax liabilities. As Nimesh Shah, chief executive of the London tax and advisory firm Blick Rothenberg, wrote on X : \u201cGood to see Harry and Meghan achieve six full tax years of non-UK residency to manage the \u2018temporary non-resident\u2019 rules for capital gains tax... the timing of their move back to the U.K. is immaculate.\u201d The U.K. has a \u201ctemporary non-residence\u201d rule\u2014if you leave the country and come back within five years, you never really\u2026",
+   "summaryFrom": "dailybeast",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 2,
+    "big": [
+     "rest",
+     "kingdom"
+    ],
+    "indie": [
+     "surprise",
+     "wife"
+    ]
+   },
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Prince Harry and Meghan to move back to Britain",
+   "updated": "2026-08-20T18:38:23+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 1,
+    "family": 1,
+    "pub": 2
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "dailybeast",
+     "title": "There Could Be Big Money Behind Harry and Meghan\u2019s Return to Great Britain",
+     "url": "https://www.thedailybeast.com/there-could-be-big-money-behind-harry-and-meghans-return-to-great-britain/",
+     "author": "Tom Sykes",
+     "kind": "news",
+     "published": "2026-08-20T18:38:23+00:00",
+     "summary": "Hollie Adams / REUTERS Follow Tom Sykes\u2019 royal reporting at The Royalist on Substack, and get exclusive insight on everything going down behind the palace gates. One constituency of professionals is tracking Harry and Meghan\u2019s blockbuster return to the United Kingdom differently from the rest of us: the accountants. Experts in the field believe the timeline of their departure and return is\u2014from a U.K. tax perspective\u2014perfect, if the goal was to minimize tax liabilities. As Nimesh Shah, chief executive of the London tax and advisory firm Blick Rothenberg, wrote on X : \u201cGood to see Harry and Meghan achieve six full tax years of non-UK residency to manage the \u2018temporary non-resident\u2019 rules for capital gains tax... the timing of their move back to the U.K. is immaculate.\u201d The U.K. has a \u201ctemporary non-residence\u201d rule\u2014if you leave the country and come back within five years, you never really left for tax purposes as far as \u201ccapital gains\u201d are concerned. But if you stay out for over five years (which in practice means six complete tax years) you\u2019re golden. Now look at the Sussex calendar: Having left just before the 2020 U.K. tax year wrapped up, they\u2019ve now been non-resident for\u2014surpris"
+    },
+    {
+     "outlet": "time",
+     "title": "Andy Burnham Weighs In As Prince Harry and Meghan Set For Return to U.K.",
+     "url": "https://time.com/article/2026/08/20/burnham-prince-harry-and-meghan-set-for-return-security/",
+     "author": "Callum Sutherland",
+     "kind": "news",
+     "published": "2026-08-20T16:09:00+00:00",
+     "summary": "Harry and Meghan , the Duke and Duchess of Sussex, are expected to move back to the United Kingdom later this year, after six years of living in the U.S. during a period of estrangement from the rest of the Royal family. The couple are set to move with their children, Prince Archie , 7, and Princess Lilibet , 5, to a non-royal residence that is said to be outside of London, with both children enrolled to start at a British school in September. The news was first reported by the Daily Telegraph on Wednesday, with multiple outlets since reporting similar details. The move follows years of Prince Harry arguing that the security arrangements provided for his family in the U.K. were insufficient. In May 2025, Prince Harry lost an appeal after the British government downgraded his security arrangements following his decision, along with Meghan, to step back from Royal duties in 2020. Asked on Thursday about the move and if the British government would pay for the family\u2019s security, Prime Minister Andy Burnham said the issue was \u201ca private matter\u201d and that he \u201cwishes them well in the move that they are making.\u201d King Charles III was reportedly informed of the couple\u2019s move on Sunday, and i"
+    },
+    {
+     "outlet": "france24",
+     "title": "Prince Harry and Meghan to move back to Britain",
+     "url": "https://www.france24.com/en/video/20260820-prince-harry-and-meghan-to-move-back-to-britain",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-20T13:27:02+00:00",
+     "summary": "Prince Harry and his wife Meghan plan to move back to Britain this month, six years after they stepped down from \u200btheir royal duties and relocated to the US, a source close to the couple said. The surprise move comes after the couple spent recent years repeatedly criticising the royal family and lambasting the British press, saying the tabloids had made their lives hell and they wanted to carve out independent roles for themselves."
+    },
+    {
+     "outlet": "france24",
+     "title": "Huge questions loom over Prince Harry and Meghan's shock return to UK",
+     "url": "https://www.france24.com/en/video/20260820-huge-questions-loom-over-prince-harry-and-meghan-s-shock-return-to-uk",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-20T13:24:23+00:00",
+     "summary": "Dozens of questions swirled Thursday as Prince Harry prepares to move back to the UK with his wife and children, six years after his departure sparked a bitter rift with the royal family. In a surprise move, Harry and Meghan \"plan to leave the United States by the end of the month to settle in a private, non-royal residence, which is said to be located outside London\", The Daily Telegraph reported late on Wednesday. FRANCE 24's Delano D'Souza tells us more."
     }
    ]
   },
@@ -3091,53 +3126,128 @@
    ]
   },
   {
-   "id": "8adbc7f574",
-   "topic": "Politics",
-   "summary": "Republican voters in Florida rejected Rep. Cory Mills\u2019 reelection bid in Tuesday\u2019s primary, Decision Desk HQ projects, shutting out of Congress a lawmaker who is facing allegations that he assaulted a woman and threatened to publicize nude videos of a former girlfriend, among other possible misconduct. Ryan Elijah, a former local Fox television news anchor, is the GOP nominee in the district, which President Donald Trump won by 12 percentage points in 2024. Mills campaigned heavily on the president\u2019s endorsement, which Trump renewed in February, months after the allegations against Mills surfaced.&nbsp; In the last weeks of the campaign, Mills faced headwinds from within his party as two Republicans in Florida\u2019s congressional delegation endorsed Elijah, and Florida Gov. Ron DeSantis said he would not support Mills. Political analysts said in the lead-up to Tuesday\u2019s primary that Mills\u2019\u2026",
-   "summaryFrom": "the19th",
+   "id": "b997427dd6",
+   "topic": "Climate & Energy",
+   "summary": "The Panama Canal will limit daily vessel traffic from September 3, the Pnama Canal Authority said Thursday, as a severe drought fuelled by El Nino depletes water supplies needed to operate the vital trade route. The restrictions will reduce crossings from 36 ships a day to 34, and then to 32 from September 15.",
+   "summaryFrom": "france24",
    "emphasis": null,
    "absent": [
+    "corp",
     "family",
     "coop",
-    "pub"
+    "nonprofit"
    ],
-   "headline": "Florida voters reject Cory Mills\u2019 reelection bid amid dating violence allegations",
-   "updated": "2026-08-19T00:20:44+00:00",
-   "outletCount": 3,
+   "headline": "Panama Canal to cut number of ships passing through due to El Ni\u00f1o",
+   "updated": "2026-08-21T06:46:08+00:00",
+   "outletCount": 2,
    "counts": {
-    "corp": 1,
-    "nonprofit": 2
+    "pub": 2
    },
-   "newsCount": 3,
+   "newsCount": 2,
    "opinionCount": 0,
    "underreported": true,
    "articles": [
     {
-     "outlet": "axios",
-     "title": "Rep. Cory Mills loses Florida primary amid Ethics probe",
-     "url": "https://www.axios.com/2026/08/19/florida-cory-mills-republicans-primary-midterms",
-     "author": "Kate Santaliz",
+     "outlet": "bbc",
+     "title": "Panama Canal to cut number of ships passing through due to El Ni\u00f1o",
+     "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-19T00:20:44+00:00",
-     "summary": "Rep. Cory Mills (R-Fla.) lost his primary Tuesday night to former TV reporter Ryan Elijah in Florida's 7th District, according to the Associated Press. Why it matters: Mills' loss comes after months of mounting scrutiny \u2014 including an active House Ethics Committee investigation \u2014 that cost him support from prominent Florida Republicans. Mills is facing a House Ethics probe over allegations that center on domestic abuse , stolen valor and financial misconduct , all of which he denies. Catch up quick: Trump had endorsed Mills last year but last week issued a new endorsement list that notably snubbed him. Gov. Ron DeSantis (R) also said he doesn't support Mills. Reps. Anna Paulina Luna (R-Fla.) and Mike Haridopolos (R-Fla.) backed Elijah earlier this month, with Haridopolos telling Axios that Elijah is a \"true family man who can win in November in this safe Republican seat.\" What's next: Democrats see the district as a pickup opportunity, but would have rather faced off against Mills. Trump won the district by 13 points in 2024."
+     "published": "2026-08-21T06:46:08+00:00",
+     "summary": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision."
     },
     {
-     "outlet": "the19th",
-     "title": "Florida voters reject Cory Mills\u2019 reelection bid amid dating violence allegations",
-     "url": "https://19thnews.org/2026/08/cory-mills-florida-primary-election/",
-     "author": "Mel Leonor",
+     "outlet": "france24",
+     "title": "Panama Canal to cut daily ship traffic as drought worsens from El Nino",
+     "url": "https://www.france24.com/en/americas/20260820-panama-canal-to-cut-daily-ship-traffic-as-drought-worsens-from-el-nino",
+     "author": "FRANCE 24",
      "kind": "news",
-     "published": "2026-08-18T23:57:00+00:00",
-     "summary": "Republican voters in Florida rejected Rep. Cory Mills\u2019 reelection bid in Tuesday\u2019s primary, Decision Desk HQ projects, shutting out of Congress a lawmaker who is facing allegations that he assaulted a woman and threatened to publicize nude videos of a former girlfriend, among other possible misconduct. Ryan Elijah, a former local Fox television news anchor, is the GOP nominee in the district, which President Donald Trump won by 12 percentage points in 2024. Mills campaigned heavily on the president\u2019s endorsement, which Trump renewed in February, months after the allegations against Mills surfaced.&nbsp; In the last weeks of the campaign, Mills faced headwinds from within his party as two Republicans in Florida\u2019s congressional delegation endorsed Elijah, and Florida Gov. Ron DeSantis said he would not support Mills. Political analysts said in the lead-up to Tuesday\u2019s primary that Mills\u2019 nomination could make Florida\u2019s 7th Congressional District competitive for Democrats. Trump himself left Mills out of a string of endorsements posted to Truth Social in the final days of the campaign. \u201cHe is willing to put himself before his people, and he is willing to put himself before the party,\u201d"
-    },
+     "published": "2026-08-20T22:58:46+00:00",
+     "summary": "The Panama Canal will limit daily vessel traffic from September 3, the Pnama Canal Authority said Thursday, as a severe drought fuelled by El Nino depletes water supplies needed to operate the vital trade route. The restrictions will reduce crossings from 36 ships a day to 34, and then to 32 from September 15."
+    }
+   ]
+  },
+  {
+   "id": "074182955b",
+   "topic": "Climate & Energy",
+   "summary": "More than 70,000 people in northwestern Indiana are without power more than a week after a series of storms downed trees, knocked out power lines and flooded neighborhoods. Local officials are scrambling to restore electricity as frustrated residents accuse them of not doing enough. Stephanie Sy reports.",
+   "summaryFrom": "pbsnewshour",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "'Survival mode': Indiana residents endure a ninth day without power",
+   "updated": "2026-08-21T06:40:26+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
     {
      "outlet": "npr",
-     "title": "Embattled Florida Republican Rep. Cory Mills loses his fight to keep his House seat",
-     "url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
-     "author": "Catherine Welch",
+     "title": "'Survival mode': Indiana residents endure a ninth day without power",
+     "url": "https://www.npr.org/2026/08/21/g-s1-139527/indiana-storm-outages",
+     "author": "The Associated Press",
      "kind": "news",
-     "published": "2026-08-18T20:04:18+00:00",
-     "summary": "Mills is the latest lawmaker in a recent string of congressional members facing scandals and allegations of domestic abuse while trying to run for elected office. (Image credit: Kevin Dietsch)"
+     "published": "2026-08-21T06:40:26+00:00",
+     "summary": "Tens of thousands of people in Indiana are entering a second week without power after a deadly storm toppled trees and power lines. Schools remain closed and businesses have been unable to reopen. (Image credit: Nam Y. Huh/AP Photo/Nam Y. Huh)"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "Indiana residents frustrated amid 10-day power outage following storms",
+     "url": "https://www.pbs.org/newshour/show/indiana-residents-frustrated-amid-10-day-power-outage-following-storms",
+     "author": "Ryan Connelly Holmes",
+     "kind": "news",
+     "published": "2026-08-20T22:50:20+00:00",
+     "summary": "More than 70,000 people in northwestern Indiana are without power more than a week after a series of storms downed trees, knocked out power lines and flooded neighborhoods. Local officials are scrambling to restore electricity as frustrated residents accuse them of not doing enough. Stephanie Sy reports."
+    }
+   ]
+  },
+  {
+   "id": "a32f45a9e8",
+   "topic": "Other",
+   "summary": "The new prince now has equal inheritance rights to Laurent's private estate alongside his three half-siblings.",
+   "summaryFrom": "nypost",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Belgian car salesman becomes prince after royal parentage confirmed",
+   "updated": "2026-08-21T06:19:20+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "pub": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Car salesman, 26, becomes Belgian prince after being recognized as secret son of king\u2019s brother",
+     "url": "https://nypost.com/2026/08/21/world-news/belgiums-prince-laurent-recognizes-car-salesman-clement-vandenkerckhove-as-secret-son/",
+     "author": "Adam Silverstein",
+     "kind": "news",
+     "published": "2026-08-21T06:19:20+00:00",
+     "summary": "The new prince now has equal inheritance rights to Laurent's private estate alongside his three half-siblings."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Belgian car salesman becomes prince after royal parentage confirmed",
+     "url": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T10:14:47+00:00",
+     "summary": "Cl\u00e9ment Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony."
     }
    ]
   },
@@ -3180,6 +3290,48 @@
      "kind": "news",
      "published": "2026-08-20T22:19:40+00:00",
      "summary": "What started as a regularly scheduled town hall in Dearborn, Michigan , erupted into a flashpoint over the influence of Muslim culture in American civic life Tuesday as the pastor of a local church accused the town of operating under Sharia law. \"America, we have lost this city. This is a city that is no longer up under American laws; we are up under Sharia law. We will not have it anymore,\" Lorenzo Sewell, the pastor of 180 Church, said. \"Enough is enough.\" The outburst, which came amid a series of other anti-Islam protests in Dearborn , vocalizes fears that Muslim populations in Michigan are working to bring their communities more in line with their religious worldview, views Sewell believes are at odds with the vast majority of the country. EL-SAYED'S AGENDA PUTS \u2018PERMANENTLY\u2019 CHANGED AMERICA ON THE LINE IN MICHIGAN SENATE RACE, GOP FIREBRAND WARNS \"You are only 1% of this nation. We are not a nation of Muslims,\" Sewell said. Sewell\u2019s references to the implementation of Sharia law don\u2019t refer to actual legislation looking to codify Muslim religious practices. Instead, they\u2019re based on what he sees as a form of favoritism applied unevenly to Muslims in the name of religious freed"
+    }
+   ]
+  },
+  {
+   "id": "0181752d33",
+   "topic": "Other",
+   "summary": "Jake Slaughter starts at center for the Chargers and Trey Lance shows his speed, but miscues on special teams and defense lead to a preseason loss to the 49ers.",
+   "summaryFrom": "latimes",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "'We beat ourselves.' Chargers struggle across the board in preseason loss to 49ers",
+   "updated": "2026-08-21T05:24:22+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "latimes",
+     "title": "'We beat ourselves.' Chargers struggle across the board in preseason loss to 49ers",
+     "url": "https://www.latimes.com/sports/chargers/story/2026-08-20/chargers-vs-49ers-preseason-takeaways-jake-slaughter-spotlight",
+     "author": "Sam Farmer",
+     "kind": "news",
+     "published": "2026-08-21T05:24:22+00:00",
+     "summary": "Jake Slaughter starts at center for the Chargers and Trey Lance shows his speed, but miscues on special teams and defense lead to a preseason loss to the 49ers."
+    },
+    {
+     "outlet": "nypost",
+     "title": "49ers get redemption, answers in preseason win over Chargers",
+     "url": "https://nypost.com/2026/08/21/sports/49ers-get-redemption-answers-in-preseason-game-vs-chargers/",
+     "author": "Evan Webeck",
+     "kind": "news",
+     "published": "2026-08-21T04:43:49+00:00",
+     "summary": "The 49ers were left humbled by Tuesday\u2019s joint practice with the Los Angeles Chargers. It was a different story when the teams met Thursday night."
     }
    ]
   },
@@ -3312,7 +3464,7 @@
   {
    "id": "415773b6a5",
    "topic": "Justice & Policing",
-   "summary": "If you or someone you know is having thoughts of suicide, please contact the National Suicide Prevention Lifeline at 1 \u2014 800-273-TALK (8255). When Patrick Clancy took the stand in his ex-wife's murder trial, he had already begun building a new life hundreds of miles away in New York City, over four hours away from the Duxbury, Massachusetts home where Lindsay Clancy killed their her kids. Lindsay Clancy, 36, faces three counts of first-degree murder in the deaths of her children \u2014 Cora, Dawson and Callan, all under age 6 \u2014 who were found strangled at the family's home in January 2023. The prosecution concluded its case Monday morning, and her defense attorney has since begun presenting arguments, asserting that she was in the grip of postpartum psychosis when she killed her children. LINDSAY CLANCY PROSECUTORS \u2018SQUEEZE\u2019 TIMELINE FROM EX-HUSBAND AS JURY WEIGHS \u2018MURDER VERSUS MADNESS\u2019:\u2026",
+   "summary": "If you or someone you know is having thoughts of suicide, please contact the National Suicide Prevention Lifeline at 1 \u2014 800-273-TALK (8255). When Patrick Clancy took the stand in his ex-wife's murder trial, he had already begun building a new life in New York City, more than four hours away from the Duxbury, Massachusetts home where Lindsay Clancy killed their kids. Lindsay Clancy, 36, faces three counts of first-degree murder in the deaths of her children \u2014 Cora, Dawson and Callan, all under age 6 \u2014 who were found strangled at the family's home in January 2023. The prosecution concluded its case Monday morning, and her defense attorney has since begun presenting arguments, asserting that she was in the grip of postpartum psychosis when she killed her children. LINDSAY CLANCY PROSECUTORS \u2018SQUEEZE\u2019 TIMELINE FROM EX-HUSBAND AS JURY WEIGHS \u2018MURDER VERSUS MADNESS\u2019: EXPERT Patrick Clancy, a\u2026",
    "summaryFrom": "foxnews",
    "emphasis": null,
    "absent": [
@@ -3338,7 +3490,7 @@
      "author": null,
      "kind": "news",
      "published": "2026-08-21T04:00:47+00:00",
-     "summary": "If you or someone you know is having thoughts of suicide, please contact the National Suicide Prevention Lifeline at 1 \u2014 800-273-TALK (8255). When Patrick Clancy took the stand in his ex-wife's murder trial, he had already begun building a new life hundreds of miles away in New York City, over four hours away from the Duxbury, Massachusetts home where Lindsay Clancy killed their her kids. Lindsay Clancy, 36, faces three counts of first-degree murder in the deaths of her children \u2014 Cora, Dawson and Callan, all under age 6 \u2014 who were found strangled at the family's home in January 2023. The prosecution concluded its case Monday morning, and her defense attorney has since begun presenting arguments, asserting that she was in the grip of postpartum psychosis when she killed her children. LINDSAY CLANCY PROSECUTORS \u2018SQUEEZE\u2019 TIMELINE FROM EX-HUSBAND AS JURY WEIGHS \u2018MURDER VERSUS MADNESS\u2019: EXPERT Patrick Clancy, a business applications sales executive at Microsoft, has since divorced Lindsay, relocated to New York City and wed Dr. Rachel Danis in a Central Park ceremony in spring 2026. She reportedly moved into Patrick's Upper East Side apartment in 2025. He moved to New York City in spr"
+     "summary": "If you or someone you know is having thoughts of suicide, please contact the National Suicide Prevention Lifeline at 1 \u2014 800-273-TALK (8255). When Patrick Clancy took the stand in his ex-wife's murder trial, he had already begun building a new life in New York City, more than four hours away from the Duxbury, Massachusetts home where Lindsay Clancy killed their kids. Lindsay Clancy, 36, faces three counts of first-degree murder in the deaths of her children \u2014 Cora, Dawson and Callan, all under age 6 \u2014 who were found strangled at the family's home in January 2023. The prosecution concluded its case Monday morning, and her defense attorney has since begun presenting arguments, asserting that she was in the grip of postpartum psychosis when she killed her children. LINDSAY CLANCY PROSECUTORS \u2018SQUEEZE\u2019 TIMELINE FROM EX-HUSBAND AS JURY WEIGHS \u2018MURDER VERSUS MADNESS\u2019: EXPERT Patrick Clancy, a business applications sales executive at Microsoft, has since divorced Lindsay, relocated to New York City and wed Dr. Rachel Danis in a Central Park ceremony in spring 2026. She reportedly moved into Patrick's Upper East Side apartment in 2025. He moved to New York City in spring 2023, just months "
     },
     {
      "outlet": "dailywire",
@@ -3684,132 +3836,6 @@
      "kind": "news",
      "published": "2026-08-21T00:34:20+00:00",
      "summary": "The flight comes as TPS for Haiti, Ethiopia, Somalia, Syria, Myanmar and other countries ended following a U.S. Supreme Court order in June."
-    }
-   ]
-  },
-  {
-   "id": "64fc745074",
-   "topic": "Other",
-   "summary": "Images Press / Getty Images Nancy Kissinger, wife of former Secretary of State Henry Kissinger, has died at 92. The philanthropist and socialite died on Thursday at her home in South Kent, Connecticut, according to the New York Times . Her death was announced by her family. Henry Kissinger died in 2023, also at home, at 100. She was born Nancy Maginnes in Manhattan in 1934 and raised in White Plains, New York. Prior to marrying Kissinger in 1974, she worked as an aide to New York Governor Nelson Rockefeller. She was Kissinger\u2019s researcher while he worked at Harvard University, and later became a foreign policy specialist for Rockefeller\u2019s Commission on Critical Choices for Americans. She traveled widely with her husband on diplomatic missions. After Kissinger stepped down from Secretary of State in 1977, the couple became a fixture at Washington state dinners, embassy parties and\u2026",
-   "summaryFrom": "dailybeast",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Nancy Kissinger, Wife of Former Secretary of State, Dies at 92",
-   "updated": "2026-08-21T02:14:29+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 1,
-    "corp": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Nancy Kissinger, Wife of Former Secretary of State, Dies at 92",
-     "url": "https://www.nytimes.com/2026/08/20/us/nancy-kissinger-dead.html",
-     "author": "Robert D. McFadden",
-     "kind": "news",
-     "published": "2026-08-21T02:14:29+00:00",
-     "summary": "Nancy Kissinger, then Nancy Maginnes, with her future husband, Henry A. Kissinger, in Jerusalem in 1970. She was a fierce defender of Mr. Kissinger, a polarizing figure with a hotly disputed reputation."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Nancy Kissinger Dies at Home at 92",
-     "url": "https://www.thedailybeast.com/nancy-kissinger-dies-at-home-at-92/",
-     "author": "Cameron Adams",
-     "kind": "news",
-     "published": "2026-08-21T00:19:00+00:00",
-     "summary": "Images Press / Getty Images Nancy Kissinger, wife of former Secretary of State Henry Kissinger, has died at 92. The philanthropist and socialite died on Thursday at her home in South Kent, Connecticut, according to the New York Times . Her death was announced by her family. Henry Kissinger died in 2023, also at home, at 100. She was born Nancy Maginnes in Manhattan in 1934 and raised in White Plains, New York. Prior to marrying Kissinger in 1974, she worked as an aide to New York Governor Nelson Rockefeller. She was Kissinger\u2019s researcher while he worked at Harvard University, and later became a foreign policy specialist for Rockefeller\u2019s Commission on Critical Choices for Americans. She traveled widely with her husband on diplomatic missions. After Kissinger stepped down from Secretary of State in 1977, the couple became a fixture at Washington state dinners, embassy parties and Republican White House receptions. The Times noted the \u201cash-blond, chain-smoking\u201d Mrs. Kissinger was nearly six feet tall, and her husband was 5-foot-8, \u201cbut friends said that they were a good match, intellectually and emotionally, and described them as inseparable.\u201d In 1982, when Ellen Kaplan, a follower "
-    }
-   ]
-  },
-  {
-   "id": "cf9051b9d1",
-   "topic": "Politics",
-   "summary": "Activity in Havana, once bustling, has dwindled as uncertainty grows about the city\u2019s future. Cuba\u2019s economy has suffered because of the U.S. blockade on oil shipments.",
-   "summaryFrom": "nyt",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "US sanctions more Cuban companies and officials",
-   "updated": "2026-08-21T02:06:28+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "US sanctions more Cuban companies and officials",
-     "url": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T02:06:28+00:00",
-     "summary": "An international socialist institute and Cuba's construction ministry are subject to the latest US sanctions, Marco Rubio announces."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Trump Officials Impose More Sanctions to Pressure Cuba",
-     "url": "https://www.nytimes.com/2026/08/20/us/politics/trump-cuba-sanctions.html",
-     "author": "Chris Cameron",
-     "kind": "news",
-     "published": "2026-08-20T22:28:19+00:00",
-     "summary": "Activity in Havana, once bustling, has dwindled as uncertainty grows about the city\u2019s future. Cuba\u2019s economy has suffered because of the U.S. blockade on oil shipments."
-    }
-   ]
-  },
-  {
-   "id": "ff6bf20d42",
-   "topic": "Culture & Sport",
-   "summary": "The New York Times was defeated in a defamation lawsuit Thursday brought by a former college basketball player and ordered to pay millions in damages. An Alabama jury ruled the Times defamed Kai Spears, then an 18-year-old freshman walk-on basketball player for the University of Alabama's Crimson Tide, who was swept up in a 2023 report linking him to a fatal shooting. After a nine-day trial, the eight-person jury determined that Spears was owed $9.25 million in damages. ISRAELI PM NETANYAHU INITIATING DEFAMATION LAWSUIT AGAINST NEW YORK TIMES OVER CONTROVERSIAL \u2018DOG RAPE\u2019 STORY Spears was mentioned in the March 2023 report authored by New York Times sportswriter Billy Witz. Spears was falsely identified as being a passenger in the car at the site of a January 2023 shooting that resulted in the death of 23-year-old Jamea Harris. The Times issued a lengthy editor's note to the report in\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "New York Times loses defamation suit, ordered to pay $9.25M to former Alabama basketball player",
-   "updated": "2026-08-21T01:50:16+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 0,
-   "opinionCount": 2,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "foxnews",
-     "title": "New York Times loses defamation suit, ordered to pay $9.25M to former Alabama basketball player",
-     "url": "https://www.foxnews.com/media/new-york-times-loses-defamation-suit-ordered-pay-9-25m-former-alabama-basketball-player",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-21T01:50:16+00:00",
-     "summary": "The New York Times was defeated in a defamation lawsuit Thursday brought by a former college basketball player and ordered to pay millions in damages. An Alabama jury ruled the Times defamed Kai Spears, then an 18-year-old freshman walk-on basketball player for the University of Alabama's Crimson Tide, who was swept up in a 2023 report linking him to a fatal shooting. After a nine-day trial, the eight-person jury determined that Spears was owed $9.25 million in damages. ISRAELI PM NETANYAHU INITIATING DEFAMATION LAWSUIT AGAINST NEW YORK TIMES OVER CONTROVERSIAL \u2018DOG RAPE\u2019 STORY Spears was mentioned in the March 2023 report authored by New York Times sportswriter Billy Witz. Spears was falsely identified as being a passenger in the car at the site of a January 2023 shooting that resulted in the death of 23-year-old Jamea Harris. The Times issued a lengthy editor's note to the report in June 2023, but only after Spears filed the defamation lawsuit at the U.S. District Court for the Northern District of Alabama. \"The original version of this article, published March 15, misidentified the person who was in the car with [Crimson Tide star player] Brandon Miller when the shooting occurre"
-    },
-    {
-     "outlet": "dailywire",
-     "title": "NYT Ordered To Pay Millions To College Athlete In Defamation Judgement",
-     "url": "https://www.dailywire.com/news/nyt-ordered-to-pay-millions-to-college-athlete-in-defamation-judgement",
-     "author": "Brecca Stoll",
-     "kind": "opinion",
-     "published": "2026-08-20T19:44:14+00:00",
-     "summary": "A federal jury on Thursday ordered The New York Times to pay a former University of Alabama men\u2019s basketball player $9.25 million in damages for falsely reporting that he was at the scene of a murder in Tuscaloosa, Alabama. The Times falsely claimed in March 2023 that Kai Spears was in former Alabama basketball star Brandon Miller&#8217;s vehicle at the scene of a January 2023 shooting that killed 23-year-old Jamea Harris. Spears was not in the vehicle. &#8220;We&#8217;re disappointed the jury found The Times liable for an honest mistake,&#8221; Times spokesman Charlie Stadtander said . &#8220;We thank the jury for its service, but believe the verdict and award of damages are contrary to law and not supported by the evidence. We are reviewing our legal options.&#8221; The Times later added an editor&#8217;s note acknowledging that the original article had &#8220;erroneously identified&#8221; Spears as the passenger based on information from a person familiar with the case. The newspaper noted that Alabama&#8217;s athletic director and Spears&#8217; father had denied that Spears was present after the article was initially published. Spears sued the Times in 2023, accusing the newspa"
     }
    ]
   }
