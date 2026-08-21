@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T04:56:15.985825+00:00",
+ "generated": "2026-08-21T05:49:47.565201+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -14,8 +14,8 @@
     "indieCount": 5,
     "big": [
      "term",
-     "search",
      "sources",
+     "search",
      "race",
      "phone",
      "president"
@@ -234,7 +234,7 @@
    ]
   },
   {
-   "id": "269f5b1cbe",
+   "id": "bdbed56503",
    "topic": "Politics",
    "summary": "President Donald Trump speaks to members of the media near the White House helipad construction on the South Lawn of the White House in Washington, D.C., U.S., on Wednesday, Aug. 19, 2026. \u2014Al Drago\u2013\u2013The Washington Post/Bloomberg/Getty Images Iranian officials have dismissed President Donald Trump \u2019s threat to launch what he called the \u201cmost crushing economic operation\u201dagainst Tehran , as the nearly six-month war enters a new phase of economic pressure and negotiations between the two countries remain stalled. Trump announced the campaign late Wednesday, threatening consequences for countries that continue to provide Iran with access to global trade and financial networks. \u201cThis will be economic warfare and isolation on an unprecedented scale,\u201d he said . \u201cAny country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to\u2026",
    "summaryFrom": "time",
@@ -250,14 +250,15 @@
      "only"
     ],
     "indie": [
+     "urges",
      "join"
     ]
    },
    "absent": [
     "coop"
    ],
-   "headline": "US warns allies and China to join Iran economic pressure campaign",
-   "updated": "2026-08-21T03:54:47+00:00",
+   "headline": "US urges allies and China to join Iran economic pressure campaign",
+   "updated": "2026-08-21T05:29:26+00:00",
    "outletCount": 12,
    "counts": {
     "corp": 3,
@@ -275,7 +276,7 @@
      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-economic-threat-defeat/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-21T03:54:47+00:00",
+     "published": "2026-08-21T05:29:26+00:00",
      "summary": "Iran has shrugged off President Trump's threat to hit the Islamic Republic with an \"economic D-Day\" as a \"doubling down on failed policies.\""
     },
     {
@@ -289,7 +290,7 @@
     },
     {
      "outlet": "france24",
-     "title": "US warns allies and China to join Iran economic pressure campaign",
+     "title": "US urges allies and China to join Iran economic pressure campaign",
      "url": "https://www.france24.com/en/middle-east/20260821-us-warns-allies-and-china-to-join-iran-economic-pressure-campaign",
      "author": "FRANCE 24",
      "kind": "news",
@@ -399,8 +400,8 @@
     "big": [
      "federal",
      "accused",
-     "isis",
      "appeared",
+     "isis",
      "announced",
      "year-old"
     ],
@@ -499,12 +500,12 @@
     },
     {
      "outlet": "france24",
-     "title": "Woman charged with IS-inspired plot to bomb New York State Capitol",
+     "title": "Woman charged with IS group-inspired plot to bomb New York State Capitol",
      "url": "https://www.france24.com/en/americas/20260820-woman-charged-with-is-inspired-plot-to-bomb-new-york-state-capitol",
      "author": "FRANCE 24",
      "kind": "news",
      "published": "2026-08-20T19:31:12+00:00",
-     "summary": "US authorities charged Jessica Bowie, a woman who allegedly supported the Islamic State group, with a terrorism offense Thursday after she told an FBI informant she \"wanted to destroy\" the New York State Capitol buildings."
+     "summary": "US authorities charged Jessica Bowie, a woman who allegedly supported the Islamic State group, with a terrorism offence Thursday after she told an FBI informant she \"wanted to destroy\" the New York State Capitol buildings."
     },
     {
      "outlet": "dailywire",
@@ -527,6 +528,135 @@
    ]
   },
   {
+   "id": "a976780ee0",
+   "topic": "World",
+   "summary": "North Korea launched several ballistic missiles toward the Sea of Japan on Thursday, according to South Korea\u2019s military\u2014just a day after the North dismissed Donald Trump\u2019s seeming attempt at appeasement by cutting back on joint military training with South Korea. \u201cThe provocative, aggressive nature of the drills won\u2019t change even though their duration and size were reduced,\u201d Kim Yo Jong, a top figure in North Korea\u2019s ruling party and supreme leader Kim Jong Un\u2019s sister, said on Wednesday, pointing to other military drills the US and South Korea carried out earlier this year and to South Korea accelerating its development of nuclear-powered submarines . Before the drills began this week, North Korea said it would retaliate with \u201ca new level of a deterrent.\u201d North Korea had already fired at least two ballistic missiles into the sea earlier this month before the barrage on Thursday. While\u2026",
+   "summaryFrom": "motherjones",
+   "emphasis": {
+    "bigCount": 5,
+    "indieCount": 5,
+    "big": [
+     "sister",
+     "meeting"
+    ],
+    "indie": [
+     "thursday",
+     "japan",
+     "missiles",
+     "ballistic",
+     "several",
+     "launched"
+    ]
+   },
+   "absent": [
+    "coop"
+   ],
+   "headline": "Trump wants to be friends with Kim - but South Korea could pay the price",
+   "updated": "2026-08-21T00:54:37+00:00",
+   "outletCount": 10,
+   "counts": {
+    "family": 3,
+    "pub": 2,
+    "nonprofit": 3,
+    "corp": 2
+   },
+   "newsCount": 10,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bloomberg",
+     "title": "Kim\u2019s Sister Mocks South Korea as US \u2018Puppet\u2019 Over Drill Cutback",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-21/kim-s-sister-mocks-south-korea-as-us-puppet-over-drill-cutback",
+     "author": "Soo-Hyang Choi",
+     "kind": "news",
+     "published": "2026-08-21T00:54:37+00:00",
+     "summary": "North Korea mocked South Korea for being a US \u201cpuppet\u201d after President Donald Trump unilaterally curtailed the two countries\u2019 joint military drills."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
+     "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T22:01:26+00:00",
+     "summary": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength."
+    },
+    {
+     "outlet": "motherjones",
+     "title": "Trump Enraged South Korea to Please the North. It Didn\u2019t Work.",
+     "url": "https://www.motherjones.com/politics/2026/08/trump-south-north-korea-military-drills-ballistic-missiles/",
+     "author": "Alex Nguyen",
+     "kind": "news",
+     "published": "2026-08-20T17:21:02+00:00",
+     "summary": "North Korea launched several ballistic missiles toward the Sea of Japan on Thursday, according to South Korea\u2019s military\u2014just a day after the North dismissed Donald Trump\u2019s seeming attempt at appeasement by cutting back on joint military training with South Korea. \u201cThe provocative, aggressive nature of the drills won\u2019t change even though their duration and size were reduced,\u201d Kim Yo Jong, a top figure in North Korea\u2019s ruling party and supreme leader Kim Jong Un\u2019s sister, said on Wednesday, pointing to other military drills the US and South Korea carried out earlier this year and to South Korea accelerating its development of nuclear-powered submarines . Before the drills began this week, North Korea said it would retaliate with \u201ca new level of a deterrent.\u201d North Korea had already fired at least two ballistic missiles into the sea earlier this month before the barrage on Thursday. While Kim Yo Jong said relations between her brother and Trump are \u201c still excellent \u201d, she said she was \u201c completely unaware \u201d of any communications between the pair following Trump\u2019s decision to scale back the joint drills this month by about half\u2014 a claim the US president made earlier this week.&nbsp; "
+    },
+    {
+     "outlet": "france24",
+     "title": "North Korea launches missiles, Seoul says, after Trump floats Kim meet",
+     "url": "https://www.france24.com/en/video/20260820-north-korea-launches-missiles-seoul-says-after-trump-floats-kim-meet",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-20T15:21:33+00:00",
+     "summary": "North Korea fired several short-range ballistic missiles on Thursday, the South said, and Pyongyang mocked US \"servant\" Seoul, after President Donald Trump suggested he would meet Kim Jong Un this year. The latest launches from the nuclear-armed North come as South Korea and the United States hold a shorter edition of their annual Ulchi Freedom Shield military exercises, following an order from Trump to scale them back."
+    },
+    {
+     "outlet": "guardian",
+     "title": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
+     "url": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-20T10:25:29+00:00",
+     "summary": "Launches, detected by South Korea and Japan, came after US scaled back exercises with South Korea in apparent overture to Kim Jong-un North Korea has launched about 10 short-range ballistic missiles towards the sea, South Korea\u2019s military said, a day after Pyongyang shrugged off Donald Trump\u2019s order to scale back US military drills with South Korea in an apparent attempt to resume diplomacy. The joint chiefs of staff said the missiles were launched from the region of Pyongyang at around 5pm (08.00 GMT) on Thursday towards North Korea\u2019s eastern waters. Continue reading..."
+    },
+    {
+     "outlet": "npr",
+     "title": "North Korea fires a suspected missile toward the sea, Japan says",
+     "url": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
+     "author": "The Associated Press",
+     "kind": "news",
+     "published": "2026-08-20T09:24:45+00:00",
+     "summary": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy. (Image credit: Ahn Young-joon)"
+    },
+    {
+     "outlet": "nyt",
+     "title": "Trump\u2019s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say",
+     "url": "https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html",
+     "author": "Eric Schmitt and Helene Cooper",
+     "kind": "news",
+     "published": "2026-08-20T09:04:19+00:00",
+     "summary": "President Trump\u2019s decision to curtail the military exercises came as allies question the U.S. commitment to longstanding alliances."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "WATCH:  Friends\u00a0of boy who died\u00a0rally around his sister on\u00a01st day of school",
+     "url": "https://abcnews.com/video/135787111/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-19T21:24:16+00:00",
+     "summary": "Brady's friends stepped in to take a cherished first day of school photo with his younger sister after his death."
+    },
+    {
+     "outlet": "wapo",
+     "title": "Trump says he expects to meet with North Korea\u2019s Kim Jong Un later this year",
+     "url": "https://www.washingtonpost.com/politics/2026/08/19/trump-says-he-expects-meet-with-north-koreas-kim-jong-un-later-this-year/",
+     "author": "Cleve R. Wootson Jr., Cate Cadell",
+     "kind": "news",
+     "published": "2026-08-19T20:06:51+00:00",
+     "summary": "In an impromptu White House meeting with reporters, the president touted his relationship with Kim and said North Korea has \u201c57 very powerful nuclear weapons.\u201d"
+    },
+    {
+     "outlet": "vox",
+     "title": "Why Trump can\u2019t rekindle the spark with Kim Jong Un",
+     "url": "https://www.vox.com/politics/499798/trump-kim-north-korea-meeting",
+     "author": "Joshua Keating",
+     "kind": "news",
+     "published": "2026-08-19T16:25:21+00:00",
+     "summary": "President Donald Trump and North Korea's Kim Jong Un talk before a meeting in the demilitarized zone on June 30, 2019, in Panmunjom, Korea. | Brendan Smialowski/AFP via Getty Images Can President Donald Trump pen a new chapter in his love story with North Korea\u2019s Kim Jong Un?&nbsp; In Trump\u2019s first term, the two leaders, in Trump\u2019s words, \u201c fell in love \u201d after exchanging letters and held three historic meetings, but failed to make much progress toward the goal of denuclearizing the heavily armed hermit state.&nbsp; Now, Trump appears to be trying to recapture the magic, reportedly urging aides to set up a meeting with Kim as soon as this fall. This news comes soon after Trump\u2019s Truth Social post on Sunday announcing he had ordered the US military to \u201csubstantially reduce\u201d joint military exercises with ally South Korea in part because it would send \u201ca signal that is totally inappropriate and hostile, to a Country that, as long as Donald J. Trump has been President, has been unthreatening and respectful\u201d \u2014 North Korea.&nbsp; Key takeaways Trump is trying to restart talks with North Korea\u2019s Kim Jong Un, scaling back a planned joint military exercise with South Korea and instructing a"
+    }
+   ]
+  },
+  {
    "id": "f24075da04",
    "topic": "Politics",
    "summary": "During an unexpected interview Thursday with his former personal lawyer turned bitter enemy, Michael Cohen, President Donald Trump said his one-time ally was \"weaponized\" against him by the mainstream media before the two recently reconciled. In the first part of a two-part radio interview with Trump on his radio show, Cohen recounted his 2016 CNN interview with host Brianna Keilar, which led to him going viral after questioning Trump's standing in the polls. \"Do you remember, sir, when I went on CNN with Brianna Keilar, and she told me that you were underwater in the polls, and I responded with those famous two words, \u2018says who,\u2019 which became some worldwide meme,\" Cohen recalled. EX-CNN ANCHOR DON LEMON AGREES TRUMP PLAYED LIBERAL NETWORK 'LIKE PUPPETS' \"And then they weaponized you like nobody's ever been weaponized, like few have been,\" Trump responded. \"Well, maybe just you and me,\u2026",
@@ -539,7 +669,7 @@
      "thursday",
      "york",
      "fixer",
-     "enemy",
+     "weaponized'",
      "turned"
     ],
     "indie": [
@@ -655,161 +785,40 @@
    ]
   },
   {
-   "id": "a976780ee0",
-   "topic": "World",
-   "summary": "North Korea launched several ballistic missiles toward the Sea of Japan on Thursday, according to South Korea\u2019s military\u2014just a day after the North dismissed Donald Trump\u2019s seeming attempt at appeasement by cutting back on joint military training with South Korea. \u201cThe provocative, aggressive nature of the drills won\u2019t change even though their duration and size were reduced,\u201d Kim Yo Jong, a top figure in North Korea\u2019s ruling party and supreme leader Kim Jong Un\u2019s sister, said on Wednesday, pointing to other military drills the US and South Korea carried out earlier this year and to South Korea accelerating its development of nuclear-powered submarines . Before the drills began this week, North Korea said it would retaliate with \u201ca new level of a deterrent.\u201d North Korea had already fired at least two ballistic missiles into the sea earlier this month before the barrage on Thursday. While\u2026",
-   "summaryFrom": "motherjones",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 5,
-    "big": [
-     "sister"
-    ],
-    "indie": [
-     "missiles",
-     "japan",
-     "thursday",
-     "ballistic",
-     "launched",
-     "toward"
-    ]
-   },
-   "absent": [
-    "coop"
-   ],
-   "headline": "Trump wants to be friends with Kim - but South Korea could pay the price",
-   "updated": "2026-08-21T00:54:37+00:00",
-   "outletCount": 9,
-   "counts": {
-    "family": 3,
-    "pub": 2,
-    "nonprofit": 3,
-    "corp": 1
-   },
-   "newsCount": 9,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bloomberg",
-     "title": "Kim\u2019s Sister Mocks South Korea as US \u2018Puppet\u2019 Over Drill Cutback",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-21/kim-s-sister-mocks-south-korea-as-us-puppet-over-drill-cutback",
-     "author": "Soo-Hyang Choi",
-     "kind": "news",
-     "published": "2026-08-21T00:54:37+00:00",
-     "summary": "North Korea mocked South Korea for being a US \u201cpuppet\u201d after President Donald Trump unilaterally curtailed the two countries\u2019 joint military drills."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
-     "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T22:01:26+00:00",
-     "summary": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength."
-    },
-    {
-     "outlet": "motherjones",
-     "title": "Trump Enraged South Korea to Please the North. It Didn\u2019t Work.",
-     "url": "https://www.motherjones.com/politics/2026/08/trump-south-north-korea-military-drills-ballistic-missiles/",
-     "author": "Alex Nguyen",
-     "kind": "news",
-     "published": "2026-08-20T17:21:02+00:00",
-     "summary": "North Korea launched several ballistic missiles toward the Sea of Japan on Thursday, according to South Korea\u2019s military\u2014just a day after the North dismissed Donald Trump\u2019s seeming attempt at appeasement by cutting back on joint military training with South Korea. \u201cThe provocative, aggressive nature of the drills won\u2019t change even though their duration and size were reduced,\u201d Kim Yo Jong, a top figure in North Korea\u2019s ruling party and supreme leader Kim Jong Un\u2019s sister, said on Wednesday, pointing to other military drills the US and South Korea carried out earlier this year and to South Korea accelerating its development of nuclear-powered submarines . Before the drills began this week, North Korea said it would retaliate with \u201ca new level of a deterrent.\u201d North Korea had already fired at least two ballistic missiles into the sea earlier this month before the barrage on Thursday. While Kim Yo Jong said relations between her brother and Trump are \u201c still excellent \u201d, she said she was \u201c completely unaware \u201d of any communications between the pair following Trump\u2019s decision to scale back the joint drills this month by about half\u2014 a claim the US president made earlier this week.&nbsp; "
-    },
-    {
-     "outlet": "france24",
-     "title": "North Korea launches missiles, Seoul says, after Trump floats Kim meet",
-     "url": "https://www.france24.com/en/video/20260820-north-korea-launches-missiles-seoul-says-after-trump-floats-kim-meet",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-20T15:21:33+00:00",
-     "summary": "North Korea fired several short-range ballistic missiles on Thursday, the South said, and Pyongyang mocked US \"servant\" Seoul, after President Donald Trump suggested he would meet Kim Jong Un this year. The latest launches from the nuclear-armed North come as South Korea and the United States hold a shorter edition of their annual Ulchi Freedom Shield military exercises, following an order from Trump to scale them back."
-    },
-    {
-     "outlet": "guardian",
-     "title": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
-     "url": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-20T10:25:29+00:00",
-     "summary": "Launches, detected by South Korea and Japan, came after US scaled back exercises with South Korea in apparent overture to Kim Jong-un North Korea has launched about 10 short-range ballistic missiles towards the sea, South Korea\u2019s military said, a day after Pyongyang shrugged off Donald Trump\u2019s order to scale back US military drills with South Korea in an apparent attempt to resume diplomacy. The joint chiefs of staff said the missiles were launched from the region of Pyongyang at around 5pm (08.00 GMT) on Thursday towards North Korea\u2019s eastern waters. Continue reading..."
-    },
-    {
-     "outlet": "npr",
-     "title": "North Korea fires a suspected missile toward the sea, Japan says",
-     "url": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
-     "author": "The Associated Press",
-     "kind": "news",
-     "published": "2026-08-20T09:24:45+00:00",
-     "summary": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy. (Image credit: Ahn Young-joon)"
-    },
-    {
-     "outlet": "nyt",
-     "title": "Trump\u2019s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say",
-     "url": "https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html",
-     "author": "Eric Schmitt and Helene Cooper",
-     "kind": "news",
-     "published": "2026-08-20T09:04:19+00:00",
-     "summary": "President Trump\u2019s decision to curtail the military exercises came as allies question the U.S. commitment to longstanding alliances."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "WATCH:  Friends\u00a0of boy who died\u00a0rally around his sister on\u00a01st day of school",
-     "url": "https://abcnews.com/video/135787111/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T21:24:16+00:00",
-     "summary": "Brady's friends stepped in to take a cherished first day of school photo with his younger sister after his death."
-    },
-    {
-     "outlet": "wapo",
-     "title": "Trump says he expects to meet with North Korea\u2019s Kim Jong Un later this year",
-     "url": "https://www.washingtonpost.com/politics/2026/08/19/trump-says-he-expects-meet-with-north-koreas-kim-jong-un-later-this-year/",
-     "author": "Cleve R. Wootson Jr., Cate Cadell",
-     "kind": "news",
-     "published": "2026-08-19T20:06:51+00:00",
-     "summary": "In an impromptu White House meeting with reporters, the president touted his relationship with Kim and said North Korea has \u201c57 very powerful nuclear weapons.\u201d"
-    }
-   ]
-  },
-  {
    "id": "fcf89a5820",
    "topic": "World",
    "summary": "USS George Washington will replace warship families say suffers from shortages, plumbing problems and low morale The USS George Washington aircraft carrier has arrived in the Middle East, where it is expected to relieve the USS Abraham Lincoln from its record deployment amid concerns about poor living conditions and morale. US Central Command announced on Thursday that the Washington arrived in the area on Wednesday, and posted an image of sailors working on the flight deck as the ship transited the Arabian Sea. No date has yet been announced for the Lincoln to return to the US. Continue reading...",
    "summaryFrom": "guardian",
    "emphasis": {
     "bigCount": 6,
-    "indieCount": 3,
+    "indieCount": 2,
     "big": [
      "iran",
-     "heads",
      "members",
+     "heads",
      "diego",
      "months"
     ],
     "indie": [
      "conditions",
-     "life",
      "living",
      "thursday",
-     "poor",
-     "concerns"
+     "poor"
     ]
    },
    "absent": [
-    "coop"
+    "coop",
+    "pub"
    ],
    "headline": "News Wrap: USS Abraham Lincoln heading home after 9-month deployment",
    "updated": "2026-08-21T00:50:14+00:00",
-   "outletCount": 9,
+   "outletCount": 8,
    "counts": {
     "corp": 3,
     "nonprofit": 2,
-    "family": 3,
-    "pub": 1
+    "family": 3
    },
-   "newsCount": 9,
+   "newsCount": 8,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -884,15 +893,6 @@
      "kind": "news",
      "published": "2026-08-20T15:36:39+00:00",
      "summary": "The USS George Washington is relieving a vessel that has gone months without a port stop."
-    },
-    {
-     "outlet": "bbc",
-     "title": "'A floating prison' - sailors describe life on warships like USS Abraham Lincoln",
-     "url": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-18T05:07:06+00:00",
-     "summary": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December."
     }
    ]
   },
@@ -907,8 +907,8 @@
     "big": [
      "melania",
      "made",
-     "year-old",
      "lady",
+     "year-old",
      "because",
      "period"
     ],
@@ -1010,6 +1010,84 @@
      "kind": "opinion",
      "published": "2026-08-18T09:00:24+00:00",
      "summary": "Because of extremely unfortunate, inexplicable and reckless decisions of two lower courts, U.S. Supreme Court Chief Justice John Roberts has before him an application for a stay of an order from the United States Court of Appeals for the District of Columbia Circuit which order upholds the imposition of a rococo construction schedule for the above-ground construction of the new East Wing of the White House , one which was ordered by U.S. District Judge Richard Leon\u2019s micromanagement of what can and cannot be built in the replacement structure of the now demolished old East Wing of the White House \u2014 an East Wing which was built in 1902 and expanded in 1942 when FDR had it substantially expanded and added underground facilities which include the Presidential Emergency Operations Center. An 84-year-old \"emergency center\" is, of course, outdated. Judge Leon and the Circuit have directed President Trump what he can and cannot build on the grounds of the Executive Mansion. Judge Leon is an old acquaintance of mine and has been a fine judge for his long tenure (he was appointed by President George W. Bush in 2002 and assumed senior status in 2016), but even the best judges throw a spanner"
+    }
+   ]
+  },
+  {
+   "id": "9fb183b941",
+   "topic": "Justice & Policing",
+   "summary": "Lee Cheuk-yan and Chow Hang-tung - leaders of the Hong Kong Alliance \u2013 were tried under under a 2020 national security law Two Hong Kong activists who organised annual vigils marking China\u2019s deadly Tiananmen crackdown in 1989 were found guilty of \u201cincitement to subversion\u201d, in one of the most high-profile cases in Hong Kong since Beijing imposed its national security law in 2020. Lee Cheuk-yan, 69, and Chow Hang-tung, 41 \u201cincited other persons to organise, plan, commit or participate in acts by unlawful means with a view to subverting the state power\u201d, a press summary handed out to reporters said. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
+   "updated": "2026-08-21T05:47:32+00:00",
+   "outletCount": 6,
+   "counts": {
+    "pub": 4,
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 6,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+     "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T05:47:32+00:00",
+     "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law."
+    },
+    {
+     "outlet": "france24",
+     "title": "Hong Kong convicts two Tiananmen vigil activists of inciting subversion",
+     "url": "https://www.france24.com/en/asia-pacific/20260821-the-hong-kong-tiananmen-vigil-activists-convicted-in-national-security-trial",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-21T03:55:12+00:00",
+     "summary": "Two pro-democracy activists who organised annual vigils to mark Beijing's 1989 deadly Tiananmen crackdown were on Friday convicted of inciting subversion by a Hong Kong court. Lee Cheuk-yan and Chow Hang-tung were leaders of the now-defunct Hong Kong Alliance and their case was viewed as a bellwether for freedom of expression in the Chinese city."
+    },
+    {
+     "outlet": "aljazeera",
+     "title": "Hong Kong Tiananmen activists found guilty of national security charges",
+     "url": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T03:50:15+00:00",
+     "summary": "Activist group says the &#039;twisted&#039; Hong Kong judicial system had long ago decided that the pair were guilty."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Tiananmen Square vigil organisers found guilty in Hong Kong of \u2018inciting subversion\u2019",
+     "url": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
+     "author": "Danny Vincent in Hong Kong",
+     "kind": "news",
+     "published": "2026-08-21T03:28:02+00:00",
+     "summary": "Lee Cheuk-yan and Chow Hang-tung - leaders of the Hong Kong Alliance \u2013 were tried under under a 2020 national security law Two Hong Kong activists who organised annual vigils marking China\u2019s deadly Tiananmen crackdown in 1989 were found guilty of \u201cincitement to subversion\u201d, in one of the most high-profile cases in Hong Kong since Beijing imposed its national security law in 2020. Lee Cheuk-yan, 69, and Chow Hang-tung, 41 \u201cincited other persons to organise, plan, commit or participate in acts by unlawful means with a view to subverting the state power\u201d, a press summary handed out to reporters said. Continue reading..."
+    },
+    {
+     "outlet": "dw",
+     "title": "Hong Kong convicts activists in national security trial",
+     "url": "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T02:39:00+00:00",
+     "summary": "The two pro-democracy Tiananmen activists were found guilty of inciting subversion. The high profile case has been widely criticized for highlighting the deterioration of freedom of expression."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Hong Kong Convicts Tiananmen Vigil Leaders of Subversion",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-21/hong-kong-convicts-tiananmen-vigil-leaders-of-subversion",
+     "author": "Alan Wong",
+     "kind": "news",
+     "published": "2026-08-21T02:18:15+00:00",
+     "summary": "A Hong Kong court convicted two former organizers of the city\u2019s annual Tiananmen Square vigils of inciting subversion, in a closely watched test of the national security law imposed by Beijing."
     }
    ]
   },
@@ -1132,6 +1210,15 @@
      "summary": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination."
     },
     {
+     "outlet": "aljazeera",
+     "title": "Pakistan\u2019s Imran Khan back to prison after evaluation at hospital",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T03:08:09+00:00",
+     "summary": "Pakistan\u2019s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation."
+    },
+    {
      "outlet": "bloomberg",
      "title": "Imran Khan Moved to Hospital Following Pakistan Court Order",
      "url": "https://www.bloomberg.com/news/articles/2026-08-20/imran-khan-moved-to-hospital-from-jail-on-pakistan-court-order",
@@ -1156,154 +1243,7 @@
      "author": null,
      "kind": "news",
      "published": "2026-08-20T21:56:00+00:00",
-     "summary": "Khan's supporters say his health has deteriorated during more than \u200bthree years in prison since being removed from office in 2022."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Pakistan\u2019s ex-PM Imran Khan back in jail after brief hospital visit",
-     "url": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T21:18:10+00:00",
-     "summary": "Khan, who was voted out of the office in April 2022, has been in prison for more than three years."
-    }
-   ]
-  },
-  {
-   "id": "8fb4b61bc3",
-   "topic": "Justice & Policing",
-   "summary": "Lee Cheuk-yan and Chow Hang-tung - leaders of the Hong Kong Alliance \u2013 were tried under under a 2020 national security law Two Hong Kong activists who organised annual vigils marking China\u2019s deadly Tiananmen crackdown in 1989 were found guilty of \u201cincitement to subversion\u201d, in one of the most high-profile cases in Hong Kong since Beijing imposed its national security law in 2020. Lee Cheuk-yan, 69, and Chow Hang-tung, 41 \u201cincited other persons to organise, plan, commit or participate in acts by unlawful means with a view to subverting the state power\u201d, a press summary handed out to reporters said. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "coop"
-   ],
-   "headline": "Hong Kong Tiananmen activists found guilty of national security charges",
-   "updated": "2026-08-21T03:50:15+00:00",
-   "outletCount": 5,
-   "counts": {
-    "pub": 3,
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Hong Kong Tiananmen activists found guilty of national security charges",
-     "url": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T03:50:15+00:00",
-     "summary": "Activist group says the &#039;twisted&#039; Hong Kong judicial system had long ago decided that the pair were guilty."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Tiananmen Square vigil organisers found guilty in Hong Kong of \u2018inciting subversion\u2019",
-     "url": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
-     "author": "Danny Vincent in Hong Kong",
-     "kind": "news",
-     "published": "2026-08-21T03:28:02+00:00",
-     "summary": "Lee Cheuk-yan and Chow Hang-tung - leaders of the Hong Kong Alliance \u2013 were tried under under a 2020 national security law Two Hong Kong activists who organised annual vigils marking China\u2019s deadly Tiananmen crackdown in 1989 were found guilty of \u201cincitement to subversion\u201d, in one of the most high-profile cases in Hong Kong since Beijing imposed its national security law in 2020. Lee Cheuk-yan, 69, and Chow Hang-tung, 41 \u201cincited other persons to organise, plan, commit or participate in acts by unlawful means with a view to subverting the state power\u201d, a press summary handed out to reporters said. Continue reading..."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-     "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T02:59:46+00:00",
-     "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law."
-    },
-    {
-     "outlet": "dw",
-     "title": "Hong Kong convicts activists in national security trial",
-     "url": "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T02:39:00+00:00",
-     "summary": "The two pro-democracy Tiananmen activists were found guilty of inciting subversion. The high profile case has been widely criticized for highlighting the deterioration of freedom of expression."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Hong Kong Convicts Tiananmen Vigil Leaders of Subversion",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-21/hong-kong-convicts-tiananmen-vigil-leaders-of-subversion",
-     "author": "Alan Wong",
-     "kind": "news",
-     "published": "2026-08-21T02:18:15+00:00",
-     "summary": "A Hong Kong court convicted two former organizers of the city\u2019s annual Tiananmen Square vigils of inciting subversion, in a closely watched test of the national security law imposed by Beijing."
-    }
-   ]
-  },
-  {
-   "id": "91e05b5b76",
-   "topic": "Justice & Policing",
-   "summary": "Hayden Panettiere's on-and-off boyfriend Brian Hickerson broke his silence after the sudden and tragic death of the actress. Hickerson's lawyer, Sloan Ellis, shared a brief statement with TMZ on Thursday. \"Hayden's death remains under investigation, and it is important to allow that investigation to proceed. As has been publicly reported, police confirmed there were no signs of foul play,\" Ellis said. \"Out of respect for Hayden's loved ones and the ongoing investigation, there will be no further comment at this time.\" The Greenville Police Department told Fox News Digital it is not participating in media interviews regarding this case. HAYDEN PANETTIERE'S MOTHER POINTS FINGER AT BRIAN HICKERSON AFTER 'NASHVILLE' STAR'S DEATH AT 36 \"The GPD response is the same as in all death investigations. The Police Department works with the Coroner\u2019s Office, receives its findings, reviews the facts\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Hayden Panettiere's mom blames ex Brian Hickerson as history of abuse faces closer scrutiny",
-   "updated": "2026-08-21T00:36:25+00:00",
-   "outletCount": 5,
-   "counts": {
-    "family": 2,
-    "corp": 3
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "latimes",
-     "title": "Hayden Panettiere's mom blames ex Brian Hickerson as history of abuse faces closer scrutiny",
-     "url": "https://www.latimes.com/entertainment-arts/story/2026-08-20/hayden-panettiere-death-ex-brian-hickerson-history-of-abuse",
-     "author": "Emily St. Martin",
-     "kind": "news",
-     "published": "2026-08-21T00:36:25+00:00",
-     "summary": "Following Hayden Panettiere's death, an attorney for her ex-boyfriend Brian Hickerson released a statement as Hickerson's past domestic violence arrests faced renewed scrutiny."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Hayden Panettiere's death under scrutiny with DEA investigation",
-     "url": "https://www.cbsnews.com/video/hayden-panettieres-death-under-scrutiny-dea-investigation/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T23:51:00+00:00",
-     "summary": "The U.S. Drug Enforcement Administration has joined the investigation into the sudden death of actress Hayden Panettiere, who would have turned 37 on Friday. Mark Strassmann reports."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Brian Hickerson's attorney issues statement after Hayden Panettiere's death",
-     "url": "https://abcnews.com/GMA/Culture/brian-hickersons-attorney-issues-statement-after-hayden-panettieres/story?id=135817617",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T22:54:09+00:00",
-     "summary": "An investigation into the late actress's death is ongoing."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Hayden Panettiere's on-and-off boyfriend Brian Hickerson breaks silence after star's death",
-     "url": "https://www.foxnews.com/entertainment/hayden-panettieres-on-and-off-boyfriend-brian-hickerson-breaks-silence-after-stars-death",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T22:51:01+00:00",
-     "summary": "Hayden Panettiere's on-and-off boyfriend Brian Hickerson broke his silence after the sudden and tragic death of the actress. Hickerson's lawyer, Sloan Ellis, shared a brief statement with TMZ on Thursday. \"Hayden's death remains under investigation, and it is important to allow that investigation to proceed. As has been publicly reported, police confirmed there were no signs of foul play,\" Ellis said. \"Out of respect for Hayden's loved ones and the ongoing investigation, there will be no further comment at this time.\" The Greenville Police Department told Fox News Digital it is not participating in media interviews regarding this case. HAYDEN PANETTIERE'S MOTHER POINTS FINGER AT BRIAN HICKERSON AFTER 'NASHVILLE' STAR'S DEATH AT 36 \"The GPD response is the same as in all death investigations. The Police Department works with the Coroner\u2019s Office, receives its findings, reviews the facts and evidence and then decides if a criminal investigation is warranted. There were no signs of foul play during the initial response and investigation,\" the statement concluded. Fox News Digital reached out to Ellis for comment. On Wednesday, Fox News Digital learned the Drug Enforcement Administrati"
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "Troubled Star\u2019s Abusive Ex Breaks Silence After Shock Death",
-     "url": "https://www.thedailybeast.com/obsessed/hayden-panettieres-abusive-ex-brian-hickerson-breaks-silence-after-shock-death/",
-     "author": "Eboni Boykin-Patterson",
-     "kind": "news",
-     "published": "2026-08-20T20:30:38+00:00",
-     "summary": "Getty Images The sudden death of Hayden Panettiere has sparked intense speculation about her abusive ex-boyfriend, Brian Hickerson, who broke his silence for the first time on Thursday. Panettiere was found dead from a suspected overdose at the age of 36 on Sunday, just a day after she arrived at Hickerson\u2019s home state of South Carolina. Hickerson, 37, and his brother Zach were in the luxury loft where Panettiere was found unresponsive. Hickerson had been arrested multiple times for assaulting the actress over the course of their relationship. Read more at The Daily Beast."
+     "summary": "Khan was examined by a team of doctors before being moved back to prison. The former PM's supporters say his health has deteriorated during more than \u200bthree years behind bars since being removed from office in 2022."
     }
    ]
   },
@@ -1582,88 +1522,62 @@
    ]
   },
   {
-   "id": "e4a381d313",
-   "topic": "Politics",
-   "summary": "It was another day of joint practices around the NFL on Thursday with more fights between teams, including one between the Miami Dolphins and New York Giants that apparently featured someone taking a swing at quarterback Jameis Winston . And, yes, this feels like it should be the tipping point because once Winston got in the scrum and apparently leveled someone, someone else took a swipe at him. And that led Giants starting quarterback Jaxson Dart to jump in. \"I just looked over and saw the red 19 jersey (which is Winston) and I was like, 'I got to go,'\" Dart said. \"I got to go help my boy! I don't know what's going on over there.\" MASSIVE BRAWL AT COWBOYS AND SAINTS PRACTICE INCLUDES PUNCHES AND WWE MOVES The NFL has had enough. Well, sort of. The league levied $500,000 fines against both the Dallas Cowboys and New Orleans Saints on Thursday, one day after the teams were involved in a\u2026",
+   "id": "91e05b5b76",
+   "topic": "Other",
+   "summary": "Hayden Panettiere's on-and-off boyfriend Brian Hickerson broke his silence after the sudden and tragic death of the actress. Hickerson's lawyer, Sloan Ellis, shared a brief statement with TMZ on Thursday. \"Hayden's death remains under investigation, and it is important to allow that investigation to proceed. As has been publicly reported, police confirmed there were no signs of foul play,\" Ellis said. \"Out of respect for Hayden's loved ones and the ongoing investigation, there will be no further comment at this time.\" The Greenville Police Department told Fox News Digital it is not participating in media interviews regarding this case. HAYDEN PANETTIERE'S MOTHER POINTS FINGER AT BRIAN HICKERSON AFTER 'NASHVILLE' STAR'S DEATH AT 36 \"The GPD response is the same as in all death investigations. The Police Department works with the Coroner\u2019s Office, receives its findings, reviews the facts\u2026",
    "summaryFrom": "foxnews",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 2,
-    "big": [
-     "practice",
-     "saints",
-     "players",
-     "cowboys",
-     "joint",
-     "stop"
-    ],
-    "indie": [
-     "judge",
-     "country",
-     "immigrant",
-     "children"
-    ]
-   },
+   "emphasis": null,
    "absent": [
     "coop",
+    "nonprofit",
     "pub"
    ],
-   "headline": "Immigrant Wants to Pay $368,000 in Fines, but Broken Payment System Won\u2019t Let Him",
-   "updated": "2026-08-21T01:45:39+00:00",
+   "headline": "Hayden Panettiere's mom blames ex Brian Hickerson as history of abuse faces closer scrutiny",
+   "updated": "2026-08-21T00:36:25+00:00",
    "outletCount": 4,
    "counts": {
-    "corp": 1,
     "family": 2,
-    "nonprofit": 2
+    "corp": 2
    },
    "newsCount": 4,
-   "opinionCount": 1,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "newsweek",
-     "title": "Jerry Jones Plans to Make Cowboys Players Pay for $500,000 NFL Fine",
-     "url": "https://www.newsweek.com/sports/nfl/jerry-jones-plans-to-make-cowboys-players-pay-for-500k-nfl-fine-12350406",
+     "outlet": "latimes",
+     "title": "Hayden Panettiere's mom blames ex Brian Hickerson as history of abuse faces closer scrutiny",
+     "url": "https://www.latimes.com/entertainment-arts/story/2026-08-20/hayden-panettiere-death-ex-brian-hickerson-history-of-abuse",
+     "author": "Emily St. Martin",
+     "kind": "news",
+     "published": "2026-08-21T00:36:25+00:00",
+     "summary": "Following Hayden Panettiere's death, an attorney for her ex-boyfriend Brian Hickerson released a statement as Hickerson's past domestic violence arrests faced renewed scrutiny."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Hayden Panettiere's death under scrutiny with DEA investigation",
+     "url": "https://www.cbsnews.com/video/hayden-panettieres-death-under-scrutiny-dea-investigation/",
      "author": null,
      "kind": "news",
-     "published": "2026-08-21T01:45:39+00:00",
-     "summary": "Jerry Jones intends to make Cowboys players pay for the $500,000 fine tied to fights during joint practice with the Saints."
+     "published": "2026-08-20T23:51:00+00:00",
+     "summary": "The U.S. Drug Enforcement Administration has joined the investigation into the sudden death of actress Hayden Panettiere, who would have turned 37 on Friday. Mark Strassmann reports."
     },
     {
      "outlet": "foxnews",
-     "title": "NFL fines Saints and Cowboys $500K for practice brawl, but fights won't stop unless players get fined",
-     "url": "https://www.foxnews.com/outkick-sports/nfl-fines-saints-cowboys-500k-practice-brawl-fights-wont-stop-unless-players-get-fined",
+     "title": "Hayden Panettiere's on-and-off boyfriend Brian Hickerson breaks silence after star's death",
+     "url": "https://www.foxnews.com/entertainment/hayden-panettieres-on-and-off-boyfriend-brian-hickerson-breaks-silence-after-stars-death",
      "author": null,
      "kind": "news",
-     "published": "2026-08-20T22:37:27+00:00",
-     "summary": "It was another day of joint practices around the NFL on Thursday with more fights between teams, including one between the Miami Dolphins and New York Giants that apparently featured someone taking a swing at quarterback Jameis Winston . And, yes, this feels like it should be the tipping point because once Winston got in the scrum and apparently leveled someone, someone else took a swipe at him. And that led Giants starting quarterback Jaxson Dart to jump in. \"I just looked over and saw the red 19 jersey (which is Winston) and I was like, 'I got to go,'\" Dart said. \"I got to go help my boy! I don't know what's going on over there.\" MASSIVE BRAWL AT COWBOYS AND SAINTS PRACTICE INCLUDES PUNCHES AND WWE MOVES The NFL has had enough. Well, sort of. The league levied $500,000 fines against both the Dallas Cowboys and New Orleans Saints on Thursday, one day after the teams were involved in a serious brawl. The NFL noted that its Competition Committee has made sportsmanship, including conduct during joint practices, a point of emphasis in recent years. The league also reminded all 32 teams of that emphasis this summer. So, the hefty fines are a solid attempt to curb the violence. But they"
+     "published": "2026-08-20T22:51:01+00:00",
+     "summary": "Hayden Panettiere's on-and-off boyfriend Brian Hickerson broke his silence after the sudden and tragic death of the actress. Hickerson's lawyer, Sloan Ellis, shared a brief statement with TMZ on Thursday. \"Hayden's death remains under investigation, and it is important to allow that investigation to proceed. As has been publicly reported, police confirmed there were no signs of foul play,\" Ellis said. \"Out of respect for Hayden's loved ones and the ongoing investigation, there will be no further comment at this time.\" The Greenville Police Department told Fox News Digital it is not participating in media interviews regarding this case. HAYDEN PANETTIERE'S MOTHER POINTS FINGER AT BRIAN HICKERSON AFTER 'NASHVILLE' STAR'S DEATH AT 36 \"The GPD response is the same as in all death investigations. The Police Department works with the Coroner\u2019s Office, receives its findings, reviews the facts and evidence and then decides if a criminal investigation is warranted. There were no signs of foul play during the initial response and investigation,\" the statement concluded. Fox News Digital reached out to Ellis for comment. On Wednesday, Fox News Digital learned the Drug Enforcement Administrati"
     },
     {
-     "outlet": "intercept",
-     "title": "Immigrant Wants to Pay $368,000 in Fines, but Broken Payment System Won\u2019t Let Him",
-     "url": "https://theintercept.com/2026/08/20/trump-immigration-civil-fines-deport/",
-     "author": "Bryce Covert",
+     "outlet": "dailybeast",
+     "title": "Troubled Star\u2019s Abusive Ex Breaks Silence After Shock Death",
+     "url": "https://www.thedailybeast.com/obsessed/hayden-panettieres-abusive-ex-brian-hickerson-breaks-silence-after-shock-death/",
+     "author": "Eboni Boykin-Patterson",
      "kind": "news",
-     "published": "2026-08-20T13:47:09+00:00",
-     "summary": "When Daniel arrived in the U.S. about two decades ago, he came on a legal tourist visa. Once here, having fled his home country in South America, he filed an asylum application. A judge, however, eventually denied his claim. Then 11 years ago, he married his partner, a U.S. citizen. Together, they had two children, who are also citizens. The couple filed a petition to grant him legal status through their marriage, but then Daniel was issued a deportation order, which presented a barrier in his case. It\u2019s hard to comprehend how it can be so difficult to legally stay with one\u2019s family, but Daniel, for whom The Intercept is using a pseudonym, would soon face an even more mystifying hurdle: He recently received a letter from the government saying he owes about $368,000, according to his attorney, who recounted his tale. Last year, President Donald Trump issued an executive order using a never-before-touched law to levy fines on an immigrant for each day he \u201cwillfully fails or refuses\u201d to leave after receiving a removal order. Trump\u2019s order also increased the fine from $500 to $998 per day to, supposedly, update it for inflation. \u201cIt\u2019s \u2018Hurry and pay \u2014 oh, by the way, we\u2019re not going to"
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Trump wants to help 146,000 mentally ill who are homeless. Democrats want to stop him",
-     "url": "https://www.foxnews.com/opinion/trump-wants-help-146000-mentally-ill-homeless-democrats-want-stop-him",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-19T11:00:06+00:00",
-     "summary": "Democrats are fighting to stop the Trump administration\u2019s attempt to get 146,000 homeless people with serious mental illness the help they need. In late July, House and Senate Democrats launched an inquiry accusing the Trump administration of wanting to \"return to a time when people with disabilities were denied basic civil rights.\" But there\u2019s one problem: the system these Democrats are defending is the reason there are so many mentally ill people living in squalor on America\u2019s streets. Until recently, when it came to helping the mentally ill homeless, states had their hands tied. For decades, government lawyers interpreted the Supreme Court\u2019s 1999 Olmstead decision extremely broadly, pushing states to offer \"community-based care.\" HOUSING FIRST IS A DISASTER. I SAW SACRAMENTO'S HOMELESS CHAOS FIRSTHAND For the seriously mentally ill, this meant independent living in single units where mental health and substance abuse treatment was optional \u2013 and often refused. In June, the Department of Justice released a controversial legal opinion that would fix this by revamping federal oversight of state mental healthcare. The Trump administration\u2019s new framework allows states to offer small"
-    },
-    {
-     "outlet": "marshallproject",
-     "title": "Parents are Giving Up Green Card Fights to Get Their Kids Out of Immigrant Jail",
-     "url": "https://www.themarshallproject.org/2026/08/18/parents-immigrant-camps-children-deportation-flores",
-     "author": "Lauren Villagran",
-     "kind": "news",
-     "published": "2026-08-18T10:00:00+00:00",
-     "summary": "Ana Kikabidze with her daughter, Lizi, in 2024. Kikabidze and her two children were held for weeks at Dilley Immigration Processing Center in Texas before an immigration judge ordered them to be deported to their native country of Georgia."
+     "published": "2026-08-20T20:30:38+00:00",
+     "summary": "Getty Images The sudden death of Hayden Panettiere has sparked intense speculation about her abusive ex-boyfriend, Brian Hickerson, who broke his silence for the first time on Thursday. Panettiere was found dead from a suspected overdose at the age of 36 on Sunday, just a day after she arrived at Hickerson\u2019s home state of South Carolina. Hickerson, 37, and his brother Zach were in the luxury loft where Panettiere was found unresponsive. Hickerson had been arrested multiple times for assaulting the actress over the course of their relationship. Read more at The Daily Beast."
     }
    ]
   },
@@ -1977,66 +1891,6 @@
    ]
   },
   {
-   "id": "ef58258e3b",
-   "topic": "World",
-   "summary": "President Donald Trump and North Korea's Kim Jong Un talk before a meeting in the demilitarized zone on June 30, 2019, in Panmunjom, Korea. | Brendan Smialowski/AFP via Getty Images Can President Donald Trump pen a new chapter in his love story with North Korea\u2019s Kim Jong Un?&nbsp; In Trump\u2019s first term, the two leaders, in Trump\u2019s words, \u201c fell in love \u201d after exchanging letters and held three historic meetings, but failed to make much progress toward the goal of denuclearizing the heavily armed hermit state.&nbsp; Now, Trump appears to be trying to recapture the magic, reportedly urging aides to set up a meeting with Kim as soon as this fall. This news comes soon after Trump\u2019s Truth Social post on Sunday announcing he had ordered the US military to \u201csubstantially reduce\u201d joint military exercises with ally South Korea in part because it would send \u201ca signal that is totally\u2026",
-   "summaryFrom": "vox",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Kim Jong-un\u2019s sister casts doubt on Trump\u2019s claims of secret US-North Korea talks",
-   "updated": "2026-08-20T13:45:27+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 2,
-    "nonprofit": 1,
-    "corp": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "semafor",
-     "title": "North Korea denies talks with Washington",
-     "url": "https://www.semafor.com/article/08/20/2026/north-korea-denies-talks-with-washington",
-     "author": "Jeronimo Gonzalez",
-     "kind": "news",
-     "published": "2026-08-20T13:45:27+00:00",
-     "summary": "The powerful sister of North Korea\u2019s dictator denied that US President Donald Trump had been in touch with Pyongyang about holding talks this year. North Korea was \u201cuninterested\u201d in Trump\u2019s scale down of military drills with South Korea \u2014 which the US leader framed as an olive branch \u2014 she added. Trump\u2019s overtures to the repressive regime, which Seoul says has 120 nuclear warheads and has stepped up its military threats in the region, have unnerved Washington\u2019s Asia-Pacific allies, several of which are already the target of US tariffs. Some fear Trump\u2019s moves could push South Korea closer to China\u2019s sphere of influence ; Beijing\u2019s foreign minister arrived in Seoul yesterday . \u2014 Jeronimo Gonzalez"
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "US, Japan, South Korea Hold Talks After North Korean Missiles",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-20/korea-s-lee-hails-trump-s-determination-for-peninsula-peace",
-     "author": "Soo-Hyang Choi and Sarah Hilton",
-     "kind": "news",
-     "published": "2026-08-20T00:30:04+00:00",
-     "summary": "The US, Japan and South Korea held a three-way call to discuss the barrage of short-range ballistic missiles launched by North Korea, coordinating their response after Pyongyang dismissed President Donald Trump\u2019s overtures to revive dialogue."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Kim Jong-un\u2019s sister casts doubt on Trump\u2019s claims of secret US-North Korea talks",
-     "url": "https://www.theguardian.com/world/2026/aug/19/kim-jong-un-sister-doubt-trump-claims-secret-us-north-korea-talks",
-     "author": "Andrew Roth in Washington",
-     "kind": "news",
-     "published": "2026-08-19T17:39:56+00:00",
-     "summary": "President says he plans to meet dictator this year but Kim Yo-jong says Washington remains Pyongyang\u2019s enemy Donald Trump has said he is planning to meet North Korea\u2019s Kim Jong-un later this year, though the reclusive leader\u2019s younger sister cast doubt on their communications and dampened hopes of a diplomatic breakthrough between them. Trump, who also claimed North Korea had 57 nuclear weapons, had suggested he and Kim were holding secret negotiations on Tuesday after announcing the US would downgrade its participation in military exercises held by South Korea, a US ally. Asked whether Kim had responded to his request for a conversation, Trump said: \u201cYeah, he has.\u201d Continue reading..."
-    },
-    {
-     "outlet": "vox",
-     "title": "Why Trump can\u2019t rekindle the spark with Kim Jong Un",
-     "url": "https://www.vox.com/politics/499798/trump-kim-north-korea-meeting",
-     "author": "Joshua Keating",
-     "kind": "news",
-     "published": "2026-08-19T16:25:21+00:00",
-     "summary": "President Donald Trump and North Korea's Kim Jong Un talk before a meeting in the demilitarized zone on June 30, 2019, in Panmunjom, Korea. | Brendan Smialowski/AFP via Getty Images Can President Donald Trump pen a new chapter in his love story with North Korea\u2019s Kim Jong Un?&nbsp; In Trump\u2019s first term, the two leaders, in Trump\u2019s words, \u201c fell in love \u201d after exchanging letters and held three historic meetings, but failed to make much progress toward the goal of denuclearizing the heavily armed hermit state.&nbsp; Now, Trump appears to be trying to recapture the magic, reportedly urging aides to set up a meeting with Kim as soon as this fall. This news comes soon after Trump\u2019s Truth Social post on Sunday announcing he had ordered the US military to \u201csubstantially reduce\u201d joint military exercises with ally South Korea in part because it would send \u201ca signal that is totally inappropriate and hostile, to a Country that, as long as Donald J. Trump has been President, has been unthreatening and respectful\u201d \u2014 North Korea.&nbsp; Key takeaways Trump is trying to restart talks with North Korea\u2019s Kim Jong Un, scaling back a planned joint military exercise with South Korea and instructing a"
-    }
-   ]
-  },
-  {
    "id": "1a31c4c3a5",
    "topic": "Politics",
    "summary": "Rep. Randy Fine talks with reporters outside the US Capitol in April. | Tom Williams/Getty Images This story appeared in&nbsp; Today, Explained, &nbsp;a daily newsletter that helps you understand the most compelling news and stories of the day.&nbsp; Subscribe here . Name a disgraced former Congress member, not originally from Florida, whose time in office was marred by shady financial dealings and who ran in yesterday\u2019s GOP primary for Florida\u2019s 19th District. \u2026This is, amazingly, a trick question. Because TWO candidates who fit that bill ran in FL-19, and neither of them won. (They were Madison Cawthorn and Chris Collins.) Florida is \u2014 how do I put this? \u2014 one hell of a drug . And its primary results were no less surprising or chaotic. On the Democratic side, a socialist candidate for Senate came out of (literal) left field to topple an opponent who out-fundraised her 16 to 1.\u2026",
@@ -2046,8 +1900,8 @@
     "indieCount": 2,
     "big": [
      "time",
-     "office",
-     "member"
+     "member",
+     "office"
     ],
     "indie": []
    },
@@ -2106,6 +1960,57 @@
    ]
   },
   {
+   "id": "eaee91a0ec",
+   "topic": "Other",
+   "summary": "A charter flight carrying two pilots and six passengers crashed while approaching a remote site in western Alaska on Thursday, officials said. Clint Johnson, the National Transportation Safety Board's Alaska region chief, told The Associated Press that two pilots and six passengers were on board. Johnson did not immediately have information on their conditions. The plane took off from Anchorage and is believed to have crashed early Thursday afternoon while approaching Cape Newenham, according to the AP. PENNSYLVANIA STATE POLICE HELICOPTER, SMALL PLANE COLLIDE IN MIDAIR, KILLING 1 AND INJURING 2 STATE TROOPERS The twin-engine Cessna was operated by Security Aviation and had been chartered to fly from Anchorage to Cape Newenham, located about 40 miles south of Goodnews Bay, according to KTUU. The Alaska Rescue Coordination Center said it launched a search-and-rescue mission after\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "8 dead in charter plane crash at remote radar site in western Alaska",
+   "updated": "2026-08-21T05:45:22+00:00",
+   "outletCount": 3,
+   "counts": {
+    "corp": 2,
+    "family": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "8 dead in charter plane crash at remote radar site in western Alaska",
+     "url": "https://www.cbsnews.com/news/charter-plane-crash-cape-newenham-alaska/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T05:45:22+00:00",
+     "summary": "A charter aircraft carrying eight people crashed at a remote radar site in western Alaska on Thursday, killing all on board, the U.S. military said."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Charter plane with 8 aboard crashes near remote radar site in western Alaska",
+     "url": "https://www.foxnews.com/us/charter-plane-8-aboard-crashes-remote-radar-site-western-alaska-report",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T05:39:50+00:00",
+     "summary": "A charter flight carrying two pilots and six passengers crashed while approaching a remote site in western Alaska on Thursday, officials said. Clint Johnson, the National Transportation Safety Board's Alaska region chief, told The Associated Press that two pilots and six passengers were on board. Johnson did not immediately have information on their conditions. The plane took off from Anchorage and is believed to have crashed early Thursday afternoon while approaching Cape Newenham, according to the AP. PENNSYLVANIA STATE POLICE HELICOPTER, SMALL PLANE COLLIDE IN MIDAIR, KILLING 1 AND INJURING 2 STATE TROOPERS The twin-engine Cessna was operated by Security Aviation and had been chartered to fly from Anchorage to Cape Newenham, located about 40 miles south of Goodnews Bay, according to KTUU. The Alaska Rescue Coordination Center said it launched a search-and-rescue mission after receiving a report of an \"aircraft incident\" near the Cape Newenham Long Range Radar Site. Sen. Lisa Murkowski, R-Alaska, reacted to the crash on X, offering condolences and noting her personal experience flying with Security Aviation. \"I join Alaskans in condolences as we learn of the plane crash in Cape N"
+    },
+    {
+     "outlet": "abcnews",
+     "title": "'No survivors' after small plane with 8 aboard crashes in Alaska: Officials",
+     "url": "https://abcnews.com/US/small-plane-8-aboard-crashes-alaska-faa/story?id=135827761",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T05:35:54+00:00",
+     "summary": "The NTSB will investigate the crash."
+    }
+   ]
+  },
+  {
    "id": "d12af6d128",
    "topic": "Justice & Policing",
    "summary": "A newly released police affidavit claims that there is &quot;no physical evidence&quot; that John Benfield, 69, the man charged with two counts of vehicular homicide in the deaths of Haylan Engdahl and Brayden Rogers, hit the brakes before crashing into a group of 11 Milligan College cyclists. Benfield &#x201c;was traveling at a distance and/or manner that did not allow him sufficient time or distance to perceive and react to the roadway conditions,&#x201d; the affidavit said. The affidavit also noted that officers on the scene reported smelling marijuana coming from Benfield&apos;s car. Benfield has been charged with two counts of vehicular homicide and five counts of reckless aggravated assault after he drove into the group of cyclists, killing Engdahl, of Winthrop Harbor, Illinois, and Rogers, of Huntsville, Alabama, and injuring a further seven riders. Benfield is scheduled to\u2026",
@@ -2153,57 +2058,6 @@
      "kind": "news",
      "published": "2026-08-20T23:17:46+00:00",
      "summary": "A newly released police affidavit claims that there is &quot;no physical evidence&quot; that John Benfield, 69, the man charged with two counts of vehicular homicide in the deaths of Haylan Engdahl and Brayden Rogers, hit the brakes before crashing into a group of 11 Milligan College cyclists. Benfield &#x201c;was traveling at a distance and/or manner that did not allow him sufficient time or distance to perceive and react to the roadway conditions,&#x201d; the affidavit said. The affidavit also noted that officers on the scene reported smelling marijuana coming from Benfield&apos;s car. Benfield has been charged with two counts of vehicular homicide and five counts of reckless aggravated assault after he drove into the group of cyclists, killing Engdahl, of Winthrop Harbor, Illinois, and Rogers, of Huntsville, Alabama, and injuring a further seven riders. Benfield is scheduled to appear in court on August 31 and is being held on $300,000 bail. Engdahl and Rogers were sophomores at Milligan and rode for the school&apos;s collegiate racing team. Both died at the scene."
-    }
-   ]
-  },
-  {
-   "id": "a7630dbee3",
-   "topic": "Culture & Sport",
-   "summary": "And now a reminder that Fernando Mendoza is going to have some difficult moments as a rookie, even though he was the NFL's first overall draft pick and is the hope for a bright future for the Las Vegas Raiders. On his second pass of the preseason game against the Houston Texans on Thursday night, Mendoza threw an interception. And not just any interception, because Texans linebacker Wade Woodaz plucked the ball out of the air and returned it 80 yards for a touchdown. RAIDERS ROOKIE FERNANDO MENDOZA THANKS GOD FOR NFL DEBUT THAT COMPARES FAVORABLY WITH 'MR. BRADY' No bueno, as they say in Miami, where Mendoza was born and grew up. Mendoza, clearly downcast, was seen red-faced on the Raiders sideline after the play even as some teammates tried to console him. Veteran Maxx Crosby , perhaps the Raiders' most accomplished player, was among the first to try to console young Mendoza. \"Yeah,\u2026",
-   "summaryFrom": "foxnews",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Fernando Mendoza\u2019s first NFL start was a painful but necessary part of the process",
-   "updated": "2026-08-21T03:46:50+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 2,
-    "corp": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Fernando Mendoza\u2019s first NFL start was a painful but necessary part of the process",
-     "url": "https://nypost.com/2026/08/20/sports/fernando-mendoza-learned-many-lessons-from-first-nfl-start-and-thats-part-of-raiders-plan/",
-     "author": "Vincent Bonsignore",
-     "kind": "news",
-     "published": "2026-08-21T03:46:50+00:00",
-     "summary": "Fernando Mendoza\u2019s welcome-to-the-NFL moment was bound to happen."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Fernando Mendoza throws pick-six in second NFL game as Raiders rookie faces growing pains",
-     "url": "https://www.foxnews.com/outkick-sports/fernando-mendoza-throws-pick-six-second-nfl-game-raiders-rookie-faces-growing-pains",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T02:28:15+00:00",
-     "summary": "And now a reminder that Fernando Mendoza is going to have some difficult moments as a rookie, even though he was the NFL's first overall draft pick and is the hope for a bright future for the Las Vegas Raiders. On his second pass of the preseason game against the Houston Texans on Thursday night, Mendoza threw an interception. And not just any interception, because Texans linebacker Wade Woodaz plucked the ball out of the air and returned it 80 yards for a touchdown. RAIDERS ROOKIE FERNANDO MENDOZA THANKS GOD FOR NFL DEBUT THAT COMPARES FAVORABLY WITH 'MR. BRADY' No bueno, as they say in Miami, where Mendoza was born and grew up. Mendoza, clearly downcast, was seen red-faced on the Raiders sideline after the play even as some teammates tried to console him. Veteran Maxx Crosby , perhaps the Raiders' most accomplished player, was among the first to try to console young Mendoza. \"Yeah, that's football, you know? It's not gonna be perfect, you know?\" Crosby told ESPN's Laura Rutledge on the sideline. \"He's a rookie. You got to go through, you know, some ups and downs as part of the game, and it's how you respond. \"So that's basically what I just told him, keep being yourself, keep pla"
-    },
-    {
-     "outlet": "newsweek",
-     "title": "Robert Griffin III Sends Message to Fernando Mendoza for Raiders Season",
-     "url": "https://www.newsweek.com/sports/nfl/robert-griffin-iii-sends-message-to-fernando-mendoza-for-raiders-season-12350289",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T01:36:32+00:00",
-     "summary": "Former NFL quarterback Robert Griffin III praised Fernando Mendoza, sending the rookie a message ahead of the Raiders&#039; season."
     }
    ]
   },
@@ -2510,57 +2364,6 @@
      "kind": "news",
      "published": "2026-08-19T23:11:14+00:00",
      "summary": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president."
-    }
-   ]
-  },
-  {
-   "id": "9ef1a7df31",
-   "topic": "Other",
-   "summary": "After the tragic death of Cambridge professor Jason Arday last week, the racists came out to gloat. And there were a lot of them. Almost without exception, they didn&#x2019;t know anything about Arday&#x2019;s area of study, they hadn&#x2019;t read any of his work, and they hadn&#x2019;t talked to his colleagues. Nevertheless they were happy to round up a list of suspicious-sounding claims Arday had made over the course of his career, and eagerly accuse him of being an intellectual fraud and a &#x201c;DEI hire,&#x201d; that is, an underqualified person whom Cambridge University had hired simply because he was Black. &#xa0; A particularly glaring entry in this shameful genre was published in the New York Times by Harper&#x2019;s Letter signatory Michelle Goldberg. Her concern-trolling opinion piece insinuated that Arday was a plagiarist who had lied about his credentials, his athletic\u2026",
-   "summaryFrom": "flaminghydra",
-   "emphasis": null,
-   "absent": [
-    "corp",
-    "family"
-   ],
-   "headline": "University suspends US academic leading Jason Arday plagiarism accusations",
-   "updated": "2026-08-20T23:28:21+00:00",
-   "outletCount": 3,
-   "counts": {
-    "coop": 1,
-    "pub": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "flaminghydra",
-     "title": "Jason Arday Was the Real Scholar",
-     "url": "https://flaminghydra.com/jason-arday-was-the-real-scholar/",
-     "author": "Maria Bustillos",
-     "kind": "news",
-     "published": "2026-08-20T23:28:21+00:00",
-     "summary": "After the tragic death of Cambridge professor Jason Arday last week, the racists came out to gloat. And there were a lot of them. Almost without exception, they didn&#x2019;t know anything about Arday&#x2019;s area of study, they hadn&#x2019;t read any of his work, and they hadn&#x2019;t talked to his colleagues. Nevertheless they were happy to round up a list of suspicious-sounding claims Arday had made over the course of his career, and eagerly accuse him of being an intellectual fraud and a &#x201c;DEI hire,&#x201d; that is, an underqualified person whom Cambridge University had hired simply because he was Black. &#xa0; A particularly glaring entry in this shameful genre was published in the New York Times by Harper&#x2019;s Letter signatory Michelle Goldberg. Her concern-trolling opinion piece insinuated that Arday was a plagiarist who had lied about his credentials, his athletic career, and even his autism. It also included a stunning remark about Times Higher Education journalist Jack Grove, who&#x2019;d written a piece accusing Arday of plagiarism, and who&#x2019;d been cautioned by police against getting back in touch with Arday as the scholar suffered through a blizzard of"
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "University suspends US academic leading Jason Arday plagiarism accusations",
-     "url": "https://www.aljazeera.com/news/2026/8/20/university-suspends-us-academic-leading-jason-arday-plagiarism-accusations?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T19:13:53+00:00",
-     "summary": "Researcher Nathan Cofnas, an outspoken critic of DEI, was himself sacked from Cambridge in 2024 over his views on race."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Academic who accused Jason Arday of plagiarism suspended by his university",
-     "url": "https://www.theguardian.com/uk-news/2026/aug/20/academic-who-accused-jason-arday-of-plagiarism-suspended-by-his-university",
-     "author": "Chris Osuh and agencies",
-     "kind": "news",
-     "published": "2026-08-20T18:12:13+00:00",
-     "summary": "Researcher Nathan Cofnas previously claimed Black people would hold few high-profile positions in a meritocracy Nathan Cofnas, the academic who made plagiarism allegations against Prof Jason Arday before his death, has been suspended by a university. Arday, 41, resigned from his role at the University of Cambridge this month after coverage of Cofnas\u2019s accusations of plagiarism. The allegations, which were not proven in any formal investigation, triggered questions about Arday\u2019s achievements. Continue reading..."
     }
    ]
   },
@@ -3084,108 +2887,6 @@
    ]
   },
   {
-   "id": "bc317b7321",
-   "topic": "Politics",
-   "summary": "Two key Senate races in typically Republican states, Texas and Iowa, are a toss-up heading into the midterms , according to the latest projections from The Cook Political Report. Why it matters: The fight for control of the U.S. Senate is extremely tight, and Democrats need to flip at least four seats to become the majority. Doing that will require wins in states that aren't typical battlegrounds. The latest: On Thursday, Cook moved both Texas and Iowa's Senate races from lean Republican to toss-up. The governor's races in both states also shifted: Texas moved from solid Republican to likely Republican, and Iowa from toss-up to lean Democrat. Zoom in: In Texas, the race for the open Senate seat between state Attorney General Ken Paxton, a Republican, and state Rep. James Talarico, a Democrat, has proven competitive. Texas hasn't elected a Democrat statewide in more than three decades.\u2026",
-   "summaryFrom": "axios",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Cook Political Report shifts Senate races in Texas, Iowa leftward to \u2018Toss Up\u2019",
-   "updated": "2026-08-20T19:00:00+00:00",
-   "outletCount": 3,
-   "counts": {
-    "family": 2,
-    "corp": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "wapo",
-     "title": "Cook Political Report shifts Senate races in Texas, Iowa leftward to \u2018Toss Up\u2019",
-     "url": "https://www.washingtonpost.com/politics/2026/08/20/cook-political-report-shifts-senate-races-texas-iowa-leftward-toss-up/",
-     "author": "Theodoric Meyer",
-     "kind": "news",
-     "published": "2026-08-20T19:00:00+00:00",
-     "summary": "The nonpartisan publication moved its ratings in four contests to the left."
-    },
-    {
-     "outlet": "axios",
-     "title": "Texas and Iowa Senate races tighten heading into midterms",
-     "url": "https://www.axios.com/local/san-antonio/2026/08/20/texas-iowa-senate-election-races-midterms-close",
-     "author": "Megan Stringer",
-     "kind": "news",
-     "published": "2026-08-20T18:07:48+00:00",
-     "summary": "Two key Senate races in typically Republican states, Texas and Iowa, are a toss-up heading into the midterms , according to the latest projections from The Cook Political Report. Why it matters: The fight for control of the U.S. Senate is extremely tight, and Democrats need to flip at least four seats to become the majority. Doing that will require wins in states that aren't typical battlegrounds. The latest: On Thursday, Cook moved both Texas and Iowa's Senate races from lean Republican to toss-up. The governor's races in both states also shifted: Texas moved from solid Republican to likely Republican, and Iowa from toss-up to lean Democrat. Zoom in: In Texas, the race for the open Senate seat between state Attorney General Ken Paxton, a Republican, and state Rep. James Talarico, a Democrat, has proven competitive. Texas hasn't elected a Democrat statewide in more than three decades. Recent polls have shown Talarico with a slight edge over scandal-plagued Paxton . Talarico is also a prolific fundraiser, and establishment Republicans have held off on throwing financial support behind Paxton. In the governor's race, three-term Republican Gov. Greg Abbott has taken criticism for his "
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Senate Races in Texas, Iowa Are Toss-Ups, Cook Report Says",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-20/senate-races-in-texas-iowa-are-now-toss-ups-cook-report-says",
-     "author": "Joe Lovinger",
-     "kind": "news",
-     "published": "2026-08-20T18:05:42+00:00",
-     "summary": "Two key US Senate races now look like toss-ups instead of leaning in favor of Republicans, according to a new analysis from the nonpartisan Cook Political Report."
-    }
-   ]
-  },
-  {
-   "id": "79f1a0f506",
-   "topic": "World",
-   "summary": "Hollie Adams / REUTERS Follow Tom Sykes\u2019 royal reporting at The Royalist on Substack, and get exclusive insight on everything going down behind the palace gates. One constituency of professionals is tracking Harry and Meghan\u2019s blockbuster return to the United Kingdom differently from the rest of us: the accountants. Experts in the field believe the timeline of their departure and return is\u2014from a U.K. tax perspective\u2014perfect, if the goal was to minimize tax liabilities. As Nimesh Shah, chief executive of the London tax and advisory firm Blick Rothenberg, wrote on X : \u201cGood to see Harry and Meghan achieve six full tax years of non-UK residency to manage the \u2018temporary non-resident\u2019 rules for capital gains tax... the timing of their move back to the U.K. is immaculate.\u201d The U.K. has a \u201ctemporary non-residence\u201d rule\u2014if you leave the country and come back within five years, you never really\u2026",
-   "summaryFrom": "dailybeast",
-   "emphasis": null,
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "Harry and Meghan\u2019s security funding on UK return is private matter, Burnham says",
-   "updated": "2026-08-20T18:38:23+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dailybeast",
-     "title": "There Could Be Big Money Behind Harry and Meghan\u2019s Return to Great Britain",
-     "url": "https://www.thedailybeast.com/there-could-be-big-money-behind-harry-and-meghans-return-to-great-britain/",
-     "author": "Tom Sykes",
-     "kind": "news",
-     "published": "2026-08-20T18:38:23+00:00",
-     "summary": "Hollie Adams / REUTERS Follow Tom Sykes\u2019 royal reporting at The Royalist on Substack, and get exclusive insight on everything going down behind the palace gates. One constituency of professionals is tracking Harry and Meghan\u2019s blockbuster return to the United Kingdom differently from the rest of us: the accountants. Experts in the field believe the timeline of their departure and return is\u2014from a U.K. tax perspective\u2014perfect, if the goal was to minimize tax liabilities. As Nimesh Shah, chief executive of the London tax and advisory firm Blick Rothenberg, wrote on X : \u201cGood to see Harry and Meghan achieve six full tax years of non-UK residency to manage the \u2018temporary non-resident\u2019 rules for capital gains tax... the timing of their move back to the U.K. is immaculate.\u201d The U.K. has a \u201ctemporary non-residence\u201d rule\u2014if you leave the country and come back within five years, you never really left for tax purposes as far as \u201ccapital gains\u201d are concerned. But if you stay out for over five years (which in practice means six complete tax years) you\u2019re golden. Now look at the Sussex calendar: Having left just before the 2020 U.K. tax year wrapped up, they\u2019ve now been non-resident for\u2014surpris"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Harry and Meghan\u2019s security funding on UK return is private matter, Burnham says",
-     "url": "https://www.theguardian.com/uk-news/2026/aug/20/harry-and-meghan-security-funding-on-uk-return-is-private-matter-burnham-says",
-     "author": "Caroline Davies",
-     "kind": "news",
-     "published": "2026-08-20T17:50:25+00:00",
-     "summary": "Prime minister wishes couple well in their move back from the US to a non-royal residence outside London Harry and Meghan: key moments and controversies since US move Security arrangements for the Duke and Duchess of Sussex while living in the UK are a \u201cprivate matter\u201d, Andy Burnham has said, after news that Harry and Meghan intend to relocate to Britain from the US this month. The UK prime minister refused to be drawn on security funding, saying: \u201cThis is a private matter. It\u2019s a matter for Harry and Meghan, and we wish them well in the moves that they\u2019re making.\u201d Continue reading..."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Cash, Crown, And The Royal Return of Harry And Meghan",
-     "url": "https://www.dailywire.com/news/cash-crown-and-the-royal-return-of-harry-and-meghan",
-     "author": "Emily Osment Davis",
-     "kind": "opinion",
-     "published": "2026-08-20T12:10:13+00:00",
-     "summary": "The year: 2021. The setting: the sprawling grounds of Montecito. In the camera frame: megacelebrity TV host Oprah Winfrey seated across from royal refugees, Prince Harry and Meghan Markle. In an exclusive interview with Oprah Winfrey, the couple revealed just why they fled England and royal life for refuge in California. The transatlantic move would famously be dubbed \u201cMegxit.\u201d \u201cLack of support, lack of security, potential racism through &#8216; unconscious bias ,&#8217; being silenced.\u201d These were all reasons the couple gave for why staying in the U.K. was untenable. \u201cMy biggest concern was history repeating itself,\u201d Harry said, referring to Meghan allegedly being tormented by the media, drawing the parallel to his mother, Princess Diana, prior to her death. Markle asserted that their voices were \u201csilenced.\u201d And in the most famous confession of the entire sit-down, Markle accused unnamed royal members of the family of having \u201cconcerns and conversations about how dark his skin might be when he\u2019s born,\u201d referring to their unborn son. And just a little over a year ago, Harry, after losing a court battle for taxpayer-funded security, vowed that it was impossible to bring his family ba"
-    }
-   ]
-  },
-  {
    "id": "728a91e348",
    "topic": "Other",
    "summary": "Seven-time major winner has not played since April Spaniard missed French Open and Wimbledon US Open announces record $108m prize fund Carlos Alcaraz has won his battle to be fit for the US Open. The seven-time grand slam champion has not played on the ATP Tour since April due to an ongoing wrist issue, but enlisted the help of football transfer journalist Fabrizio Romano to announce his comeback. Continue reading...",
@@ -3441,44 +3142,170 @@
    ]
   },
   {
-   "id": "9556079777",
+   "id": "4dd825b645",
    "topic": "Other",
-   "summary": "A charter plane carrying eight people crashed Thursday near a remote radar site in western Alaska, federal authorities said.",
-   "summaryFrom": "cbsnews",
+   "summary": "What started as a regularly scheduled town hall in Dearborn, Michigan , erupted into a flashpoint over the influence of Muslim culture in American civic life Tuesday as the pastor of a local church accused the town of operating under Sharia law. \"America, we have lost this city. This is a city that is no longer up under American laws; we are up under Sharia law. We will not have it anymore,\" Lorenzo Sewell, the pastor of 180 Church, said. \"Enough is enough.\" The outburst, which came amid a series of other anti-Islam protests in Dearborn , vocalizes fears that Muslim populations in Michigan are working to bring their communities more in line with their religious worldview, views Sewell believes are at odds with the vast majority of the country. EL-SAYED'S AGENDA PUTS \u2018PERMANENTLY\u2019 CHANGED AMERICA ON THE LINE IN MICHIGAN SENATE RACE, GOP FIREBRAND WARNS \"You are only 1% of this nation. We\u2026",
+   "summaryFrom": "foxnews",
    "emphasis": null,
    "absent": [
-    "family",
+    "corp",
     "coop",
     "nonprofit",
     "pub"
    ],
-   "headline": "Small plane with 8 aboard crashes in Alaska: FAA",
-   "updated": "2026-08-21T04:07:47+00:00",
+   "headline": "Pastor unleashes on Dearborn as religious tensions erupt at city council meeting: \u2018Enough is enough\u2019",
+   "updated": "2026-08-21T05:31:51+00:00",
    "outletCount": 2,
    "counts": {
-    "corp": 2
+    "family": 2
    },
    "newsCount": 2,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "abcnews",
-     "title": "Small plane with 8 aboard crashes in Alaska: FAA",
-     "url": "https://abcnews.com/US/small-plane-8-aboard-crashes-alaska-faa/story?id=135827761",
-     "author": null,
+     "outlet": "nypost",
+     "title": "Pastor unleashes on Dearborn as religious tensions erupt at city council meeting: \u2018Enough is enough\u2019",
+     "url": "https://nypost.com/2026/08/21/us-news/michigan-pastor-lorenzo-sewell-unleashes-on-religious-tension-at-dearborn-city-council-meeting/",
+     "author": "Fox News",
      "kind": "news",
-     "published": "2026-08-21T04:07:47+00:00",
-     "summary": "The NTSB will investigate the crash."
+     "published": "2026-08-21T05:31:51+00:00",
+     "summary": "\"You are only 1% of this nation. We are not a nation of Muslims.\""
     },
     {
-     "outlet": "cbsnews",
-     "title": "Charter plane carrying 8 crashes in western Alaska, federal officials say",
-     "url": "https://www.cbsnews.com/news/charter-plane-crash-cape-newenham-alaska/",
+     "outlet": "foxnews",
+     "title": "Pastor unleashes on Dearborn as religious tensions erupt at city council meeting: 'Enough is enough'",
+     "url": "https://www.foxnews.com/politics/pastor-declares-dearborn-under-sharia-law-religious-tensions-erupt-city-meeting",
      "author": null,
      "kind": "news",
-     "published": "2026-08-21T03:26:00+00:00",
-     "summary": "A charter plane carrying eight people crashed Thursday near a remote radar site in western Alaska, federal authorities said."
+     "published": "2026-08-20T22:19:40+00:00",
+     "summary": "What started as a regularly scheduled town hall in Dearborn, Michigan , erupted into a flashpoint over the influence of Muslim culture in American civic life Tuesday as the pastor of a local church accused the town of operating under Sharia law. \"America, we have lost this city. This is a city that is no longer up under American laws; we are up under Sharia law. We will not have it anymore,\" Lorenzo Sewell, the pastor of 180 Church, said. \"Enough is enough.\" The outburst, which came amid a series of other anti-Islam protests in Dearborn , vocalizes fears that Muslim populations in Michigan are working to bring their communities more in line with their religious worldview, views Sewell believes are at odds with the vast majority of the country. EL-SAYED'S AGENDA PUTS \u2018PERMANENTLY\u2019 CHANGED AMERICA ON THE LINE IN MICHIGAN SENATE RACE, GOP FIREBRAND WARNS \"You are only 1% of this nation. We are not a nation of Muslims,\" Sewell said. Sewell\u2019s references to the implementation of Sharia law don\u2019t refer to actual legislation looking to codify Muslim religious practices. Instead, they\u2019re based on what he sees as a form of favoritism applied unevenly to Muslims in the name of religious freed"
+    }
+   ]
+  },
+  {
+   "id": "297f2d9fab",
+   "topic": "Other",
+   "summary": "Caitlin Clark and Paige Bueckers added another memorable moment to their growing on-court rivalry Thursday night, this time in the closing seconds of the first half of Dallas\u2019 eventual 91-85 win over Indiana. With less than 10 seconds remaining in the second quarter, Clark controlled the ball as Bueckers played defense. Bueckers then wrapped up Clark\u2019s left arm in an effort to stop the possession before halftime. The Wings notably had a foul to give at the time. Clark appeared frustrated by the contact as Bueckers continued trying to complete the foul. Clark then reacted and fired the ball down the court, with it sailing near Bueckers\u2019 head before the two teams headed to the locker room. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM The moment sparked a brief exchange between the two star guards, though television microphones did not clearly pick up what was said. ZERO BS. JUST\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Caitlin Clark, Paige Bueckers Get Into Heated Exchange After Foul",
+   "updated": "2026-08-21T05:21:40+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "Caitlin Clark, Paige Bueckers Get Into Heated Exchange After Foul",
+     "url": "https://www.newsweek.com/sports/caitlin-clark-paige-bueckers-get-into-heated-exchange-after-foul-12350837",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T05:21:40+00:00",
+     "summary": "Tempers flared between Caitlin Clark and Paige Bueckers, and Bueckers couldn&#039;t help but laugh at it all. Watch here."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Paige Bueckers grabs Caitlin Clark\u2019s arm, draws foul in tense moment before halftime of Wings win over Fever",
+     "url": "https://www.foxnews.com/outkick-sports/paige-bueckers-grabs-caitlin-clarks-arm-draws-foul-tense-moment-halftime-wings-win-fever",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T03:11:11+00:00",
+     "summary": "Caitlin Clark and Paige Bueckers added another memorable moment to their growing on-court rivalry Thursday night, this time in the closing seconds of the first half of Dallas\u2019 eventual 91-85 win over Indiana. With less than 10 seconds remaining in the second quarter, Clark controlled the ball as Bueckers played defense. Bueckers then wrapped up Clark\u2019s left arm in an effort to stop the possession before halftime. The Wings notably had a foul to give at the time. Clark appeared frustrated by the contact as Bueckers continued trying to complete the foul. Clark then reacted and fired the ball down the court, with it sailing near Bueckers\u2019 head before the two teams headed to the locker room. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM The moment sparked a brief exchange between the two star guards, though television microphones did not clearly pick up what was said. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! Bueckers was whistled for a common foul on the play, but the tension seemed to carry into the second half. She was later assessed a technical foul after arguing with an official following a separate foul on Clark in the third quarter. Kelsey"
+    }
+   ]
+  },
+  {
+   "id": "a5f03789fa",
+   "topic": "Other",
+   "summary": "We're beginning a series of stories on Afghanistan 25 years after the Sept. 11 attacks and the start of the American war there. In our first report, we have a look at the lives of three people and their families and how they are faring five years after the Taliban wrenched control from the U.S.-supported government. Special Correspondent Leila Molana-Allen and videographer Eric O'Connor report.",
+   "summaryFrom": "pbsnewshour",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "5 years after the U.S. left, Afghan allies reflect on life under Taliban rule",
+   "updated": "2026-08-21T05:15:31+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "bloomberg",
+     "title": "Hamid Karzai on Life Under the Taliban",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-21/why-karzai-remains-in-afghanistan-under-the-taliban-video",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T05:15:31+00:00",
+     "summary": "Former Afghanistan president Hamid Karzai talks to Mishal Husain about regime-change wars, conflict with Pakistan and why he's still talking to the Taliban. (Source: Bloomberg)"
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "5 years after the U.S. left, Afghan allies reflect on life under Taliban rule",
+     "url": "https://www.pbs.org/newshour/show/5-years-after-the-u-s-left-afghan-allies-reflect-on-life-under-taliban-rule",
+     "author": "Hena Takal",
+     "kind": "news",
+     "published": "2026-08-20T22:35:14+00:00",
+     "summary": "We're beginning a series of stories on Afghanistan 25 years after the Sept. 11 attacks and the start of the American war there. In our first report, we have a look at the lives of three people and their families and how they are faring five years after the Taliban wrenched control from the U.S.-supported government. Special Correspondent Leila Molana-Allen and videographer Eric O'Connor report."
+    }
+   ]
+  },
+  {
+   "id": "a7585e1ba3",
+   "topic": "World",
+   "summary": "Pacific fleet launched missile drills near what Moscow calls the Kuril Islands but Japan regards as its Northern Territories Japan has criticised missile tests carried out by Russia\u2019s navy around the disputed islands visited by Vladimir Putin last week amid continuing tensions between the two countries. Russia\u2019s Pacific fleet said on Thursday that it had fired Bastion surface-to-ship missiles from Etorofu, the largest island in the disputed archipelago, simulating an attack on enemy vessels, hitting all of its targets approximately 300km away. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "pub"
+   ],
+   "headline": "Russia\u2019s missile tests around disputed islands anger Japan",
+   "updated": "2026-08-21T04:54:01+00:00",
+   "outletCount": 2,
+   "counts": {
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Russia\u2019s missile tests around disputed islands anger Japan",
+     "url": "https://www.theguardian.com/world/2026/aug/21/russia-launch-missiles-kuril-islands-japan",
+     "author": "Gavin Blair in Tokyo",
+     "kind": "news",
+     "published": "2026-08-21T04:54:01+00:00",
+     "summary": "Pacific fleet launched missile drills near what Moscow calls the Kuril Islands but Japan regards as its Northern Territories Japan has criticised missile tests carried out by Russia\u2019s navy around the disputed islands visited by Vladimir Putin last week amid continuing tensions between the two countries. Russia\u2019s Pacific fleet said on Thursday that it had fired Bastion surface-to-ship missiles from Etorofu, the largest island in the disputed archipelago, simulating an attack on enemy vessels, hitting all of its targets approximately 300km away. Continue reading..."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Russia Holds Rare Missile Test Near Islands Claimed by Japan",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-21/russia-holds-rare-missile-test-near-islands-claimed-by-japan",
+     "author": "Alastair Gale",
+     "kind": "news",
+     "published": "2026-08-21T01:02:53+00:00",
+     "summary": "Russia conducted a rare missile exercise involving naval vessels and a land-based launcher near islands in its Far East that are also claimed by Japan, adding to recent friction between the two nations."
     }
    ]
   },
@@ -3521,6 +3348,48 @@
      "kind": "opinion",
      "published": "2026-08-20T12:23:35+00:00",
      "summary": "Dressed in pink, and in some cases holding infants, supporters of Lindsay Clancy showed up outside the Massachusetts courtroom where she\u2019s standing trial for strangling her three children to death. Hundreds of women crowded outside the Plymouth Superior Court as the sun rose Thursday morning for a silent vigil. They clasped hands and stood in a circle for a moment of silence to honor Clancy. The killer has received a flood of support online from mothers who insist they relate to her mental health struggles. Hashtags such as \u201cWe Are All Lindsay Clancy\u201d have been trending on social media throughout the trial as scores of women voiced their support. \u201cWe stand in silence, united hand in hand, wearing pink, to show Lindsay Clancy the peaceful support she deserved,\u201d a website promoting the vigil says. Other flyers listed on the site promoted rallies in New York City, Phoenix, Fort Worth, and other cities around the country. Clancy\u2019s defense attorney was interviewed Thursday morning and said he thought the support of the gathered crowd was \u201c amazing \u201d for his client. This case has national attention as arguments rage over who is to blame for the death of three innocent children, aged 5, 3"
+    }
+   ]
+  },
+  {
+   "id": "a7630dbee3",
+   "topic": "Culture & Sport",
+   "summary": "And now a reminder that Fernando Mendoza is going to have some difficult moments as a rookie, even though he was the NFL's first overall draft pick and is the hope for a bright future for the Las Vegas Raiders. On his second pass of the preseason game against the Houston Texans on Thursday night, Mendoza threw an interception. And not just any interception, because Texans linebacker Wade Woodaz plucked the ball out of the air and returned it 80 yards for a touchdown. RAIDERS ROOKIE FERNANDO MENDOZA THANKS GOD FOR NFL DEBUT THAT COMPARES FAVORABLY WITH 'MR. BRADY' No bueno, as they say in Miami, where Mendoza was born and grew up. Mendoza, clearly downcast, was seen red-faced on the Raiders sideline after the play even as some teammates tried to console him. Veteran Maxx Crosby , perhaps the Raiders' most accomplished player, was among the first to try to console young Mendoza. \"Yeah,\u2026",
+   "summaryFrom": "foxnews",
+   "emphasis": null,
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Fernando Mendoza\u2019s first NFL start was a painful but necessary part of the process",
+   "updated": "2026-08-21T03:46:50+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Fernando Mendoza\u2019s first NFL start was a painful but necessary part of the process",
+     "url": "https://nypost.com/2026/08/20/sports/fernando-mendoza-learned-many-lessons-from-first-nfl-start-and-thats-part-of-raiders-plan/",
+     "author": "Vincent Bonsignore",
+     "kind": "news",
+     "published": "2026-08-21T03:46:50+00:00",
+     "summary": "Fernando Mendoza\u2019s welcome-to-the-NFL moment was bound to happen."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Fernando Mendoza throws pick-six in second NFL game as Raiders rookie faces growing pains",
+     "url": "https://www.foxnews.com/outkick-sports/fernando-mendoza-throws-pick-six-second-nfl-game-raiders-rookie-faces-growing-pains",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T02:28:15+00:00",
+     "summary": "And now a reminder that Fernando Mendoza is going to have some difficult moments as a rookie, even though he was the NFL's first overall draft pick and is the hope for a bright future for the Las Vegas Raiders. On his second pass of the preseason game against the Houston Texans on Thursday night, Mendoza threw an interception. And not just any interception, because Texans linebacker Wade Woodaz plucked the ball out of the air and returned it 80 yards for a touchdown. RAIDERS ROOKIE FERNANDO MENDOZA THANKS GOD FOR NFL DEBUT THAT COMPARES FAVORABLY WITH 'MR. BRADY' No bueno, as they say in Miami, where Mendoza was born and grew up. Mendoza, clearly downcast, was seen red-faced on the Raiders sideline after the play even as some teammates tried to console him. Veteran Maxx Crosby , perhaps the Raiders' most accomplished player, was among the first to try to console young Mendoza. \"Yeah, that's football, you know? It's not gonna be perfect, you know?\" Crosby told ESPN's Laura Rutledge on the sideline. \"He's a rookie. You got to go through, you know, some ups and downs as part of the game, and it's how you respond. \"So that's basically what I just told him, keep being yourself, keep pla"
     }
    ]
   },
@@ -3605,6 +3474,48 @@
      "kind": "news",
      "published": "2026-08-21T00:12:37+00:00",
      "summary": "The Trump administration has ramped up deportations to third countries in an apparent bid to deter immigration."
+    }
+   ]
+  },
+  {
+   "id": "6f2d718cd3",
+   "topic": "Climate & Energy",
+   "summary": "It came amid a wave of severe weather that slammed parts of the Interstate 95 corridor Thursday evening, with thunderstorms and dangerous flash flooding",
+   "summaryFrom": "abcnews",
+   "emphasis": null,
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Storms soak Northeast as possible tornadoes reported in New York, Delaware",
+   "updated": "2026-08-21T03:15:38+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Storms soak Northeast as possible tornadoes reported in New York, Delaware",
+     "url": "https://www.cbsnews.com/news/storms-tornadoes-northeast-flooding-delaware-new-york-damage/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T03:15:38+00:00",
+     "summary": "Heavy rain and winds were pounding the Northeast U.S. as storms tore through a beach on Long Island and knocked out power in Delaware's capital city."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "'Significant damage' after possible tornado in Del. as severe storms roil Northeast",
+     "url": "https://abcnews.com/US/severe-storm-flood-threat-heads-interstate-95-corridor/story?id=135804257",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T02:50:54+00:00",
+     "summary": "It came amid a wave of severe weather that slammed parts of the Interstate 95 corridor Thursday evening, with thunderstorms and dangerous flash flooding"
     }
    ]
   },
