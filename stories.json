@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-22T07:46:54.194134+00:00",
+ "generated": "2026-08-22T08:48:49.807939+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -11,14 +11,14 @@
    "summaryFrom": "vox",
    "emphasis": {
     "bigCount": 12,
-    "indieCount": 4,
+    "indieCount": 5,
     "big": [
      "stay",
      "building",
      "administrative",
-     "issued",
      "injunction",
-     "keep"
+     "keep",
+     "east"
     ],
     "indie": [
      "halt",
@@ -37,9 +37,9 @@
    "counts": {
     "corp": 6,
     "family": 6,
-    "nonprofit": 4
+    "nonprofit": 5
    },
-   "newsCount": 15,
+   "newsCount": 16,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
@@ -186,32 +186,41 @@
      "kind": "news",
      "published": "2026-08-20T22:08:40+00:00",
      "summary": "Construction of a White House ballroom continues on Aug. 18, 2026, three days before a court-ordered deadline to halt construction unless Congress authorizes it. Win McNamee/Getty Images The fate of President Donald Trump\u2019s estimated US$400 million White House ballroom may hinge on the little-known and somewhat surprising rules as to when the federal government and its agencies can accept privately donated funds. That\u2019s because Trump\u2019s is using the fact that he\u2019s been accepting private donations to pay for at least some of the project\u2019s cost as a justification for not needing Congress\u2019 explicit authorization. A federal appeals court on Aug. 7, 2026, disagreed and left in place a lower court\u2019s injunction that was slated to halt construction on Aug. 21. But on that same day, before the injunction took effect, U.S. Supreme Court Chief Justice John Roberts said the Trump administration could continue construction work while the court considers its request . As a scholar of nonprofit and tax-exempt law who has studied for decades how the law governs deductible charitable contributions, including those to the government , I find that this appeals court decision calls for an explanation o"
+    },
+    {
+     "outlet": "theconversation",
+     "title": "After Supreme Court setback, Trump again targets immigration by expanding definition of birthright citizenship",
+     "url": "https://theconversation.com/after-supreme-court-setback-trump-again-targets-immigration-by-expanding-definition-of-birthright-citizenship-289465",
+     "author": "Austin Sarat, William Nelson Cromwell Professor of Jurisprudence and Political Science, Amherst College",
+     "kind": "news",
+     "published": "2026-08-19T12:28:42+00:00",
+     "summary": "White House Deputy Chief of Staff Stephen Miller holds an executive order on birthright citizenship as President Donald Trump speaks before signing it at the White House on Aug. 6, 2026. Jim Watson/AFP via Getty Images Since his return to the White House, President Donald Trump has issued over 270 executive orders . That includes two orders issued in August 2026 addressing birthright citizenship, a subject seemingly settled by the U.S. Supreme Court\u2019s recent decision . In June, the high court struck down Trump\u2019s effort to deny citizenship to children born to foreign parents who are unlawfully in the United States. One order directs federal agencies not to recognize U.S. citizenship for children of certain foreign national parents. They include the children of an \u201calien enemy,\u201d meaning citizens of a foreign country that is at war with the United States , and children of parents who are employees of a foreign government \u2013 such as ambassadors, for example. The second executive order calls on federal agencies to curtail so-called \u201c birth tourism ,\u201d which it defines this way: the \u201centry of any foreign national into the United States via a nonimmigrant visa for the purpose of giving birt"
     }
    ]
   },
   {
    "id": "907b7efa94",
-   "topic": "Politics",
+   "topic": "World",
    "summary": "Trade talks between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect. Why it matters: It's an unprecedented breakdown in relations with the second-largest U.S. trading partner. Catch up quick: Trump last month threatened to invoke Section 338 of the Tariff Act of 1930 to hit a slew of Canadian goods with additional 50% duties, including alcohol, hockey equipment, cement and dairy products. No president has ever used Section 338 to impose tariffs since it became law in 1930. The tariffs were scheduled to take effect at 12:01 a.m. ET Wednesday. The administration carved out key Canadian exports, including energy, potash and critical minerals, from the new tariffs. On Tuesday, Trump postponed the tariffs for three days, saying the two sides had a deal. Driving the news: They did not. U.S. Trade Representative Jamieson Greer said\u2026",
    "summaryFrom": "axios",
    "emphasis": {
-    "bigCount": 9,
-    "indieCount": 8,
+    "bigCount": 8,
+    "indieCount": 7,
     "big": [
      "retaliatory",
      "tariff",
-     "duties",
      "relations",
-     "including",
-     "late"
+     "duties",
+     "late",
+     "including"
     ],
     "indie": [
      "dollar'",
      "unfair",
-     "agreement",
      "midnight",
-     "minutes",
-     "imposes"
+     "vows",
+     "agreement",
+     "minutes"
     ]
    },
    "people": [],
@@ -223,11 +232,11 @@
    "outletCount": 13,
    "counts": {
     "corp": 4,
-    "nonprofit": 4,
-    "family": 5,
+    "nonprofit": 3,
+    "family": 4,
     "pub": 4
    },
-   "newsCount": 16,
+   "newsCount": 14,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
@@ -296,7 +305,7 @@
     },
     {
      "outlet": "france24",
-     "title": "Carney says Canada will match US tariffs 'dollar for dollar' after failed trade negotiations",
+     "title": "Canada vows to match US tariffs 'dollar for dollar' after failed trade negotiations",
      "url": "https://www.france24.com/en/americas/20260822-carney-says-canada-will-match-us-tariffs-dollar-for-dollar-after-failed-trade-negotiations",
      "author": "FRANCE 24",
      "kind": "news",
@@ -305,7 +314,7 @@
     },
     {
      "outlet": "nypost",
-     "title": "Trump\u2019s 50% tariffs on Canada take effect after last-minute talks fail",
+     "title": "Trump\u2019s 50% tariffs on $20B in Canadian goods take effect after last-minute talks collapsed",
      "url": "https://nypost.com/2026/08/22/us-news/trumps-50-tariffs-on-canada-take-effect-after-last-minute-talks-fail/",
      "author": "Victor Nava",
      "kind": "news",
@@ -329,15 +338,6 @@
      "kind": "news",
      "published": "2026-08-22T03:48:17+00:00",
      "summary": "Canadian Prime Minister Mark Carney appears ready to authorize retaliatory measures in response to the latest import duties from Washington, potentially triggering an escalatory trade war with the United States."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "US Hits Canada With 50% Tariffs and Carney Vows to Retaliate",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-22/us-canada-trade-talks-collapse-triggering-trump-s-50-tariffs",
-     "author": "Josh Wingrove, Alicia Diaz and Thomas Seal",
-     "kind": "news",
-     "published": "2026-08-22T03:37:06+00:00",
-     "summary": "US-Canada trade talks fell apart at the last minute, with fresh 50% tariffs on billions of dollars of Canadian goods taking effect and Prime Minister Mark Carney promising to retaliate."
     },
     {
      "outlet": "dw",
@@ -368,15 +368,6 @@
     },
     {
      "outlet": "guardian",
-     "title": "JD Vance reportedly mocks Carney for trying to \u2018out-tough\u2019 Trump on trade",
-     "url": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
-     "author": "Olivia Bowden in Toronto",
-     "kind": "news",
-     "published": "2026-08-21T15:22:48+00:00",
-     "summary": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-president, JD Vance, mocking Canada for apparently capitulating in a trade deal and taunting the prime minister, Mark Carney, for trying to \u201cout-tough\u201d Donald Trump. The recording, which was reportedly made at a fundraiser and shared with the Canadian Press , comes in the last stretch of a difficult negotiation in which the US president has threatened to impose 50% tariffs on Canada. Continue reading..."
-    },
-    {
-     "outlet": "guardian",
      "title": "I put myself in the prime minister\u2019s shoes \u2013 and learned some uncomfortable lessons | Zoe Williams",
      "url": "https://www.theguardian.com/commentisfree/2026/aug/21/prime-ministers-political-survival-game",
      "author": "Zoe Williams",
@@ -387,174 +378,171 @@
    ]
   },
   {
-   "id": "be8622b122",
+   "id": "65b4b4c0f1",
    "topic": "Politics",
-   "summary": "Florida Democratic Senate nominee Angie Nixon distanced herself from several major planks in the Democratic Socialists of America's (DSA) national program Thursday on \"Meet the Press NOW,\" after host Kristen Welker pressed her to explain why she joined an organization that called for abolishing the office she is seeking. Nixon said she joined the DSA because it supported public housing, healthcare, helping homeless veterans and removing big money from politics, but rejected incumbent Republican Sen. Ashley Moody's characterization of her political identity. \"Ashley Moody knows that I\u2019m not a socialist,\" Nixon said. \"I joined the DSA because I believe in them in regards to fighting for adequate public housing, as well as fighting for quality healthcare, as well as making sure that we are getting our veterans off the street, taking big money out of politics, right?\" FLORIDA SOCIALIST\u2026",
-   "summaryFrom": "foxnews",
+   "summary": "This blog is now closed. Read the latest here Pentagon fires publisher and editor of Stars & Stripes Backlash as navy carrier set to honor Black war hero could be named after Trump Sign up for the US Breaking News email US Senator Tim Sheehy, a Montana Republican and a cattle rancher, has come out against a plan announced Friday by Donald Trump to allow for an increase in imported ground beef. \u201dI\u2019ve advised President Trump against this course of action for a year because American ranchers have been struggling against the packer monopoly for decades, and this will further harm them - most of whom are MAGA Republicans,\u201d Sheehy wrote on X. \u201cThe President\u2019s heart is in the right place on wanting lower prices for the American people, and beef prices have been impacted by the Mexican screwworm. But the reality is this action will make it more difficult for American ranchers to rebuild our\u2026",
+   "summaryFrom": "guardian",
    "emphasis": {
-    "bigCount": 12,
-    "indieCount": 3,
+    "bigCount": 7,
+    "indieCount": 7,
     "big": [
-     "socialists",
-     "democrat",
-     "party",
-     "florida's",
-     "far-left",
-     "national"
+     "super",
+     "karoline",
+     "leavitt",
+     "post",
+     "departure",
+     "maga"
     ],
-    "indie": []
+    "indie": [
+     "race",
+     "andrew",
+     "harnik",
+     "victory",
+     "hands",
+     "stage"
+    ]
    },
    "people": [],
-   "absent": [
-    "coop"
-   ],
-   "headline": "Florida\u2019s GOP Has a Very Short Playbook: Call Everyone a Socialist",
-   "updated": "2026-08-22T06:26:31+00:00",
-   "outletCount": 9,
+   "absent": [],
+   "headline": "Trump talks up White House ballroom and says he views strait of Hormuz as \u2018American territory\u2019 \u2013 as it happened",
+   "updated": "2026-08-22T03:24:46+00:00",
+   "outletCount": 13,
    "counts": {
-    "family": 9,
     "corp": 3,
-    "nonprofit": 2,
+    "family": 4,
+    "nonprofit": 4,
+    "coop": 2,
     "pub": 1
    },
-   "newsCount": 13,
-   "opinionCount": 2,
+   "newsCount": 14,
+   "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "nypost",
-     "title": "Far-left Florida Democrat Angie Nixon claims GOP is \u2018literally trying to kill\u2019 black Americans",
-     "url": "https://nypost.com/2026/08/22/us-news/florida-senate-nominee-angie-nixon-claims-gop-is-trying-to-kill-black-americans/",
-     "author": "Fox News",
+     "outlet": "thehill",
+     "title": "Leavitt to work at Trump-affiliated super PAC following White House departure",
+     "url": "https://thehill.com/homenews/6044808-karoline-leavitt-trump-super-pac-departure/",
+     "author": "Julia Boehning",
      "kind": "news",
-     "published": "2026-08-22T06:26:31+00:00",
-     "summary": "While explaining why she believed voters should send fighters to Washington, Nixon dismissed the prospect of bipartisan cooperation."
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Florida Democrat Senate nominee Angie Nixon insists \u2018I\u2019m not a socialist\u2019 after joining DSA",
-     "url": "https://www.foxnews.com/media/florida-democrat-senate-nominee-angie-nixon-insists-im-not-socialist-after-joining-dsa",
-     "author": null,
-     "kind": "opinion",
-     "published": "2026-08-22T01:30:14+00:00",
-     "summary": "Florida Democratic Senate nominee Angie Nixon distanced herself from several major planks in the Democratic Socialists of America's (DSA) national program Thursday on \"Meet the Press NOW,\" after host Kristen Welker pressed her to explain why she joined an organization that called for abolishing the office she is seeking. Nixon said she joined the DSA because it supported public housing, healthcare, helping homeless veterans and removing big money from politics, but rejected incumbent Republican Sen. Ashley Moody's characterization of her political identity. \"Ashley Moody knows that I\u2019m not a socialist,\" Nixon said. \"I joined the DSA because I believe in them in regards to fighting for adequate public housing, as well as fighting for quality healthcare, as well as making sure that we are getting our veterans off the street, taking big money out of politics, right?\" FLORIDA SOCIALIST ANGIE NIXON SAYS SHE DOESN\u2019T \u2018REALLY KNOW\u2019 HASAN PIKER The DSA's program called for a new Constitution, abolishing the Senate, defunding the Department of War, ending sanctions on countries including Iran and establishing public ownership of the largest corporations and essential industries. Nixon explic"
-    },
-    {
-     "outlet": "axios",
-     "title": "'Stop gaslighting me!': Florida Democrats' Senate nominee and party chair have heated call over socialism",
-     "url": "https://www.axios.com/2026/08/21/florida-democrats-angie-nixon-nikki-fried-socialism",
-     "author": "Andrew Pantazi",
-     "kind": "news",
-     "published": "2026-08-21T22:46:58+00:00",
-     "summary": "Florida's new Democratic Senate nominee, Angie Nixon , and the state party's chair had a heated conversation Friday which included a yelling match about the impact of socialism and the challenges of campaigning in a red state like Florida, three people familiar with the conversation tell Axios. Why it matters: The conflict exposes the fault line in the party between the progressive base embodied by Nixon and the establishment represented by the state party's chair, Nikki Fried. Democrats already face an uphill battle in their effort to unseat Republican Sen. Ashley Moody. An escalating war of words between Nixon and Fried complicates efforts to unify Democrats. Zoom in: Nixon, a member of the Democratic Socialists of America who won the primary in a shocking upset over Alex Vindman earlier this week, expressed frustrations to Fried that she had not received sufficient help from the state party. Fried, in return, warned that Nixon's ties to the DSA could give an opening to the GOP to attack her, sources told us. According to two people who spoke with Nixon, both she and Fried yelled at each other over the course of the call. Another person who spoke to Fried said the chair did not y"
+     "published": "2026-08-22T03:24:46+00:00",
+     "summary": "Karoline Leavitt is set to work at President\u2019s Trump MAGA Inc. super PAC following her departure from the White House, the outgoing press secretary confirmed Friday. Leavitt shared her next career move with reporters outside of Air Force One Friday evening, a little over one week after she announced she would step down at the..."
     },
     {
      "outlet": "breitbart",
-     "title": "Florida's Socialist Senate Candidate Angie Nixon Owns Shop Called 'Cafe Resistance': There Were 'No Places for Us to Be Safely'",
-     "url": "https://www.breitbart.com/politics/2026/08/21/floridas-socialist-senate-candidate-angie-nixon-owns-shop-called-cafe-resistance-there-were-no-places-for-us-to-be-safely/",
-     "author": "Hannah Knudsen",
+     "title": "Trump Thanks Supreme Court for Allowing White House Ballroom Construction to Continue",
+     "url": "https://www.breitbart.com/politics/2026/08/21/trump-thanks-supreme-court-for-allowing-white-house-ballroom-construction-to-continue/",
+     "author": "Mariane Angela",
      "kind": "news",
-     "published": "2026-08-21T20:06:01+00:00",
-     "summary": "Angie Nixon, the Florida state representative and Democratic Socialists of America (DSA) candidate who won her Senate primary race on Tuesday, owns a cafe bookstore branded, \"Cafe Resistance.\" The post Florida\u2019s Socialist Senate Candidate Angie Nixon Owns Shop Called \u2018Cafe Resistance\u2019: There Were \u2018No Places for Us to Be Safely\u2019 appeared first on Breitbart ."
-    },
-    {
-     "outlet": "motherjones",
-     "title": "Florida\u2019s GOP Has a Very Short Playbook: Call Everyone a Socialist",
-     "url": "https://www.motherjones.com/politics/2026/08/florida-moody-donalds-nixon-senate-governor-gop-election-socialism/",
-     "author": "Laura C. Morel",
-     "kind": "news",
-     "published": "2026-08-21T19:19:26+00:00",
-     "summary": "In a bright red power suit, Ashley Moody, the former Florida attorney general who nabbed the state\u2019s GOP Senate nomination in Tuesday\u2019s primary, strolled onto the stage of Florida Republicans\u2019 \u201cVictory Rally\u201d on Thursday and did not waste time attacking her opponent, state Rep. Angie Nixon. \u201cIf I told you last year that Florida would have a nominee to the United States Senate that was a self-declared socialist, would you believe me?\u201d Moody asked the crowd of more than 150 people who gathered at a Tampa event venue to hear from candidates on the Republican ticket. \u201cThis is not a joke. This is not a fictional TV series. This is reality.\u201d \u201cLet me make this very clear,\u201d Moody continued. \u201cAngie Nixon wants the United States of America to look like Cuba.\u201d Nixon, a Democratic state lawmaker from Jacksonville who helped lead the charge against Florida\u2019s Republican-led redistricting earlier this year, defeated Alex Vindman, the presumed frontrunner, who raised millions of dollars against Nixon\u2019s $975,000 , in a stunning upset Tuesday. A union organizer, Nixon is running a campaign centered on affordability, Medicare for all, free childcare, paid family and sick leave, and a national rent fr"
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Top 5 most heated moments as progressives spar over who is further to the left in final Dem Senate debate",
-     "url": "https://www.foxnews.com/politics/top-5-most-heated-moments-progressives-spar-over-who-farther-left-final-dem-senate-debate",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T18:41:50+00:00",
-     "summary": "The two Democratic candidates for United States Senate in Massachusetts took to the debate stage Thursday night, and both made the case to voters in the deep blue commonwealth that their campaigns are most likely to deliver on far-left agenda items. Incumbent Sen. Ed Markey, D-Mass., and Rep. Seth Moulton, D-Mass., faced pressing questions over hot-button issues, including transgender athletes participating in women's sports, U.S. Immigration and Customs Enforcement, term limits in Congress and socialism\u2019s growing influence within the Democratic Party during their final debate. Markey and Moulton agreed biological males should be able to participate in female sports, with Markey saying, \"Yes, I do,\" when asked if that should be allowed. \"That is the law in Massachusetts, and I think it's the correct law,\" he said. SUPREME COURT MAKES RULING ON TRANS ATHLETES IN WOMEN'S SPORTS The question of transgender athletes in sports did get contentious when Markey called out Moulton over a comment two years ago in which Moulton said he did not want his young daughters \"getting run over on a playing field by a male or formerly male athlete.\" Markey accused Moulton of using transgender athletes"
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Bernie Sanders Stumps for DSA Member Angie Nixon in Florida",
-     "url": "https://www.breitbart.com/politics/2026/08/21/bernie-sanders-stumps-dsa-member-angie-nixon-florida/",
-     "author": "Hannah Knudsen",
-     "kind": "news",
-     "published": "2026-08-21T17:16:22+00:00",
-     "summary": "Socialist Sen. Bernie Sanders (I-VT) is stumping for Florida's Democrat Senate candidate Angie Nixon, who is a member of Democrat Socialists of America. The post Bernie Sanders Stumps for DSA Member Angie Nixon in Florida appeared first on Breitbart ."
-    },
-    {
-     "outlet": "dailywire",
-     "title": "Socialist Senate Nominee Called Charlie Kirk Supporters Tools \u2018Of White Supremacy\u2019",
-     "url": "https://www.dailywire.com/news/socialist-senate-nominee-called-charlie-kirk-supporters-tools-of-white-supremacy",
-     "author": "Jacob Wheeler",
-     "kind": "opinion",
-     "published": "2026-08-21T16:59:15+00:00",
-     "summary": "Angie Nixon, the socialist who just stunned Florida Democrats in a Senate primary, spent months attacking slain conservative activist Charlie Kirk \u2014 calling his supporters tools of \u201cwhite supremacy\u201d and comparing a bill honoring the Turning Point USA founder to something \u201cbrought straight by the KKK.\u201d Only six days after Kirk was murdered, State Rep. Nixon (D-FL) attacked GOP lawmakers who introduced resolutions honoring Kirk and those who supported them. \u201cIt is BEYOND disrespectful for @SenRickScott & @JimmyPatronis to introduce resolutions honoring Charlie Kirk. That man said some of the most hateful about Black People and cloaked it in scripture,\u201d Nixon wrote on Sept. 16. \u201c If you support it, you are a tool of white supremacy, and I DID NOT STUTTER!\u201d It is BEYOND disrespectful for @SenRickScott & @JimmyPatronis to introduce resolutions honoring Charlie Kirk. That man said some of the most hateful about Black People and cloaked it in scripture. If you support it, you are a tool of white supremacy and I DID NOT STUTTER! \u2014 State Rep. Angie Nixon (@AngieNixon) September 16, 2025 \u201cAnd he was homophobic, antisemitic, misogynistic\u2026the list goes on and on,\u201d Nixon said of the 31-year-old"
-    },
-    {
-     "outlet": "breitbart",
-     "title": "WATCH: NYC Socialist Candidate Darializa Avila Chevalier Claims She Is 'Focused' on General Election While Touring Uruguay with Fellow Leftists",
-     "url": "https://www.breitbart.com/politics/2026/08/21/watch-nyc-socialist-candidate-darializa-avila-chevalier-claims-she-is-focused-on-general-election-while-touring-uruguay-with-fellow-leftists/",
-     "author": "Amy Furr",
-     "kind": "news",
-     "published": "2026-08-21T16:31:11+00:00",
-     "summary": "A New York democratic socialist congressional candidate has claimed she is focused on the general election while travelling to Uruguay to meet with fellow leftists. The post WATCH: NYC Socialist Candidate Darializa Avila Chevalier Claims She Is \u2018Focused\u2019 on General Election While Touring Uruguay with Fellow Leftists appeared first on Breitbart ."
-    },
-    {
-     "outlet": "freepress",
-     "title": "I Worked for Bernie Sanders. The Democratic Party Is Turning Against the Jews. Plus. . .",
-     "url": "https://www.thefp.com/p/bernie-sanders-democratic-party-jews-israel-friday-front-page",
-     "author": "The Free Press",
-     "kind": "news",
-     "published": "2026-08-21T14:30:57+00:00",
-     "summary": "It\u2019s Friday, August 21. This is The Front Page , your daily window into the world of The Free Press \u2014and our take on the world at large. Today: Ro Khanna, race hustler. Niall Ferguson on the sci-fi prophet who predicted our AI future. Gary Saul Morson on the disease of political violence. And more. But first: the inside story of how anti-Zionism took over the Democratic Party. What does it mean to be a progressive today? Support for universal healthcare and abolishing Immigration and Customs Enforcement are among the articles of faith. But as we\u2019ve been reporting over recent months, one issue has increasingly become a defining litmus test for the left\u2014particularly among the Democratic Socialists of America: Israel, a country far removed from most Americans\u2019 day-to-day lives. It wasn\u2019t always this way. Joel Rubin would know. In early 2020, he joined Bernie Sanders\u2019s presidential campaign as its Jewish outreach director, tasked with building a home for Jewish Democrats who supported both Israel and Sanders\u2019s progressive agenda. He quickly discovered that would be harder than expected. Many activists surrounding the campaign weren\u2019t looking for a candidate who supported a two-state so"
-    },
-    {
-     "outlet": "foxnews",
-     "title": "Socialism surges among Democrats as party leaders reject DSA agenda: \u2018Pack of fools\u2019",
-     "url": "https://www.foxnews.com/politics/socialism-surges-among-democrats-party-leaders-reject-dsa-agenda-pack-fools",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T13:16:19+00:00",
-     "summary": "The top Democrat in the House is making it clear that he doesn't support the Democratic Socialists of America's (DSA) agenda. But even though House Democratic Leader Rep. Hakeem Jeffries of New York doesn't back the DSA's far-left policy proposals, a majority of Democrats hold favorable views of socialism, according to two national polls released in recent weeks. That's not the case for most Americans, and especially Republicans, who hold negative views of socialism, according to the surveys. \"I don\u2019t support the DSA agenda, as has been articulated by the DSA itself,\" Jeffries said during an interview this past weekend on NBC News' \"Meet the Press.\" CHECK OUT THE LATEST FOX NEWS POWER RANKINGS IN THE MIDTERM RACES Jeffries wasn't the only major Democrat taking aim at the socialist agenda on the Sunday talk shows. Kentucky Gov. Andy Beshear , a potential 2028 Democratic presidential contender, called socialism a \"failed experiment\" during an appearance on CBS News' \"Face the Nation.\" Longtime Democratic strategist and pundit James Carville was less diplomatic. \"They're a bunch of silly people... a pack of fools,\" Carville said as he referred to DSA members, during a Monday appearanc"
-    },
-    {
-     "outlet": "axios",
-     "title": "Florida's Angie Nixon isn't the socialist you've heard about",
-     "url": "https://www.axios.com/2026/08/21/florida-senate-angie-nixon-socialist",
-     "author": "Marc Caputo",
-     "kind": "news",
-     "published": "2026-08-21T09:20:11+00:00",
-     "summary": "Immediately after her shocking upset in Florida 's Democratic Senate primary, state Rep. Angie Nixon made clear she isn't really a socialist \u2014 even though she'd just joined the Democratic Socialists of America. Why it matters: Nixon's win is being cast as a DSA victory , but the organization neither endorsed her nor saw it coming. She ran as a big-tent leftist, linking progressive movements and party institutions in unlikely alliances. \"I don't campaign as a member of any organization,\" she told Axios, echoing comments she made to MSNOW and CBS. \"I don't believe in labels.\" Nixon said she joined the DSA because she supports its fights over housing, public education, corporate power and \u2014 above all \u2014 Medicare for All . The latest: Since winning, Nixon has moved fast to separate herself from DSA orthodoxy. \"No,\" she laughed, when asked if she's a socialist. \"I own a business.\" (It's a bookstore called Cafe Resistance .) \"No,\" she doesn't back abolishing all prisons \u2014 just for-profit ones. Nor does she support \"defunding\" police or having so-called \"open borders.\" \"No,\" she said, \"I do not celebrate [Fidel] Castro\" \u2014 and she disagreed with the national DSA's controversial commemoratio"
-    },
-    {
-     "outlet": "bbc",
-     "title": "Democratic socialist speaks to BBC after shock win in Florida primary",
-     "url": "https://www.bbc.co.uk/news/videos/cgmk31zry14o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T00:54:47+00:00",
-     "summary": "Nixon now faces a tough campaign against incumbent Republican Senator Ashley Moody in November."
-    },
-    {
-     "outlet": "axios",
-     "title": "Bernie Sanders backs Angie Nixon after her stunning Florida primary upset",
-     "url": "https://www.axios.com/2026/08/20/bernie-sanders-endorses-floridas-angie-nixon-for-senate",
-     "author": "Andrew Pantazi",
-     "kind": "news",
-     "published": "2026-08-20T17:42:20+00:00",
-     "summary": "Sen. Bernie Sanders endorsed Florida Democratic Senate nominee Angie Nixon on Thursday, two days after she stunned the party establishment by defeating heavily funded favorite Alex Vindman. Why it matters: Sanders gives Nixon a prominent national progressive ally as she pivots to a difficult general-election race against Republican Sen. Ashley Moody. Sanders also cast Nixon as a model for the Democratic Party's future. What he's saying: \"Angie is proof that organized people can take on the organized money of the wealthy and powerful \u2014 and win,\" Sanders said in a statement released by Nixon's campaign. Sanders praised Nixon's support for Medicare for All, canceling medical debt, expanded child care and paid family leave. The intrigue: Nixon won the primary without Sanders' endorsement despite working on his 2016 presidential campaign and running on many of the economic policies he made central to his campaigns. The big picture: The endorsement strengthens Nixon's connection to the national left, but it also gives Republicans another opening to make socialism the centerpiece of the fall campaign. Reality check: Nixon still faces a steep climb against Moody in Florida, a state that ha"
+     "published": "2026-08-22T02:11:44+00:00",
+     "summary": "President Donald Trump thanked the Supreme Court on Friday after Chief Justice John Roberts allowed construction on his $400 million White House ballroom to continue. The post Trump Thanks Supreme Court for Allowing White House Ballroom Construction to Continue appeared first on Breitbart ."
     },
     {
      "outlet": "guardian",
-     "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
-     "url": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
-     "author": "Tiago Rogero South America correspondent",
+     "title": "Trump talks up White House ballroom and says he views strait of Hormuz as \u2018American territory\u2019 \u2013 as it happened",
+     "url": "https://www.theguardian.com/us-news/live/2026/aug/21/democrats-progressive-election-politics-live",
+     "author": "Robert Mackey, Sam Levin, Lucy Campbell, George Chidi and Vivian Ho",
      "kind": "news",
-     "published": "2026-08-19T13:44:57+00:00",
-     "summary": "Fernando Cerimedo, 42, arrested on suspicion of ordering shooting of Bolivian lawyer Nadia Beller A senior adviser to many of Latin America\u2019s new wave of far-right leaders has been arrested for allegedly masterminding the attempted murder of his girlfriend. The businessman and political consultant Fernando Cerimedo, 42, had been working as an adviser to the Bolivian president, Rodrigo Paz Pereira, and was one of the main strategists behind Javier Milei\u2019s campaign in Argentina\u2019s 2023 presidential election. Continue reading..."
+     "published": "2026-08-22T02:01:06+00:00",
+     "summary": "This blog is now closed. Read the latest here Pentagon fires publisher and editor of Stars & Stripes Backlash as navy carrier set to honor Black war hero could be named after Trump Sign up for the US Breaking News email US Senator Tim Sheehy, a Montana Republican and a cattle rancher, has come out against a plan announced Friday by Donald Trump to allow for an increase in imported ground beef. \u201dI\u2019ve advised President Trump against this course of action for a year because American ranchers have been struggling against the packer monopoly for decades, and this will further harm them - most of whom are MAGA Republicans,\u201d Sheehy wrote on X. \u201cThe President\u2019s heart is in the right place on wanting lower prices for the American people, and beef prices have been impacted by the Mexican screwworm. But the reality is this action will make it more difficult for American ranchers to rebuild our herd and bring prices down for the American people. And most importantly, this will harm our ranching families who feed the nation.\u201d Trump announced a plan on Truth Social to allow 300,000 metric tonnes of beef to be imported without tariffs over the next 90 days, to be sold for hamburger at a 25 percen"
+    },
+    {
+     "outlet": "zeteo",
+     "title": "This Week in Democracy \u2013 Week 83: Supreme Court Hands Trump Ballroom Victory as He Pushes More Fake Noncitizen Voting Stats",
+     "url": "https://zeteo.com/p/this-week-in-democracy-week-83-supreme",
+     "author": "Team Zeteo",
+     "kind": "news",
+     "published": "2026-08-22T00:01:15+00:00",
+     "summary": "Construction continues on a new helipad on the South Lawn of the White House and the East Wing ballroom on August 20, 2026. Photo by Andrew Harnik/Getty Images If Donald Trump and his cronies spent as much energy actually listening to Americans and doing what voters want as they have on their freakout about the spotlight on Natalie Harp , perhaps the president\u2019s approval rating wouldn\u2019t have dipped to 33% this week. While Trump\u2019s allies rushed to the defense of Harp, the president\u2019s close and influential aide dubbed the \u201c human printer ,\u201d his administration was busy further harming democracy, undermining the Constitution, and hurting societies worldwide. Subscribe now This week, Trump\u2019s newly sworn-in attorney general, Todd Blanche, refused to pledge that his Justice Department would act independently of the White House. That\u2019s troubling but not surprising when it comes to Trump\u2019s cronies, given we also learned this week the DOJ sought to interview FBI agents involved in the 2022 classified documents search of Mar-a-Lago. And Trump\u2019s DOJ is preparing to deploy about 1,000 \u201celection monitors\u201d for the midterms. Here\u2019s more from \u2018This Week in Democracy \u2013 Week 83\u2019: Saturday, Aug. 15 \u2013 "
+    },
+    {
+     "outlet": "nbcnews",
+     "title": "Karoline Leavitt to work for Trump-affiliated super PAC after leaving White House",
+     "url": "https://www.nbcnews.com/politics/white-house/karoline-leavitt-work-trump-affiliated-super-pac-leaving-white-house-rcna593824",
+     "author": "Kyla Guilfoil",
+     "kind": "news",
+     "published": "2026-08-21T23:02:10+00:00",
+     "summary": "Leavitt, the youngest press secretary in history, announced her departure from the White House Aug. 12."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "From White House ballroom to IndyCar race, Trump's spectacles take center stage in D.C.",
+     "url": "https://www.pbs.org/newshour/show/from-white-house-ballroom-to-indycar-race-trumps-spectacles-take-center-stage-in-d-c",
+     "author": "Doug Adams",
+     "kind": "news",
+     "published": "2026-08-21T22:55:27+00:00",
+     "summary": "The Supreme Court temporarily cleared the way for construction of President Trump's White House ballroom to continue while the justices consider his administration's appeal. White House correspondent Liz Landers reports on the ballroom as well as the president's IndyCar race coming to the nation's capital this weekend."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Leavitt Says She\u2019ll Return to MAGA Inc. After White House",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-21/leavitt-says-she-ll-return-to-maga-inc-after-white-house",
+     "author": "Hadriana Lowenkron",
+     "kind": "news",
+     "published": "2026-08-21T22:44:09+00:00",
+     "summary": "White House Press Secretary Karoline Leavitt said she will return to MAGA Inc., the president\u2019s super political action committee, when she leaves her post later this month."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
+     "url": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T22:02:10+00:00",
+     "summary": "The temporary order will allow the $400m (\u00a3297m) project to continue while the high court mulls a final decision on the case."
+    },
+    {
+     "outlet": "latimes",
+     "title": "Trump cites national security as Supreme Court weighs challenge to ballroom",
+     "url": "https://www.latimes.com/politics/story/2026-08-21/supreme-court-trump-white-house-ballroom",
+     "author": "David G. Savage, Michael Wilner",
+     "kind": "news",
+     "published": "2026-08-21T21:44:10+00:00",
+     "summary": "The Trump administration says the massive new White House ballroom is urgently needed for national security, to protect the president, his staff and guests from attacks."
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Putin Holds Arctic Security Meeting as China Promotes Northern Workaround to Strait of Hormuz",
+     "url": "https://www.breitbart.com/asia/2026/08/21/putin-holds-arctic-security-meeting-as-china-promotes-northern-workaround-to-strait-of-hormuz/",
+     "author": "John Hayward",
+     "kind": "news",
+     "published": "2026-08-21T20:02:51+00:00",
+     "summary": "Russian President Vladimir Putin on Friday held a special meeting of the Russian Security Council to discuss securing and developing Russia\u2019s assets in the Arctic Circle. The post Putin Holds Arctic Security Meeting as China Promotes Northern Workaround to Strait of Hormuz appeared first on Breitbart ."
+    },
+    {
+     "outlet": "escapecollective",
+     "title": "Kim Le Court-Pienaar's textbook Tour of Britain stage 3 victory",
+     "url": "https://escapecollective.com/kim-le-court-pienaars-textbook-tour-of-britain-stage-3-victory/",
+     "author": "Abby Mickey",
+     "kind": "news",
+     "published": "2026-08-21T16:49:49+00:00",
+     "summary": "Cor Vos Midway through the third stage of the Lloyds Tour of Britain, Kim Le Court-Pienaar could be seen shaking out her hands at the back of a select group of riders who had topped the Nebo climb ahead of the rest of the race. The Mauritian champion finished third on the previous stage, but had shown clear frustration after a slew of attacks in Wednesday's opener were unsuccessful. On Friday, as an overall favourite for the five-day event, an attack from Le Court-Pienaar was inevitable. Normally one to make the first move, Le Court-Pienaar was measured in her efforts, waiting until the final 3.2 km ascent to throw down. Her attack when it came was lethal, and although her power was ultimately what won her the stage, her positioning going into that short ascent gave her a leg up on Liane Lippert, who finished second on the day. Winning a bike race is all about small moments, small victories. For Le Court-Pienaar, the move into the final 3 km of the Lloyds Tour of Britain stage 3 was so much more than that. Although her victory was commanding, earlier in the stage, Le Court-Pienaar hadn't looked 100%. She's a rider who loves a good attack, and over the category 2 Nebo climb she sat "
+    },
+    {
+     "outlet": "npr",
+     "title": "What to know about this weekend's IndyCar race on the National Mall",
+     "url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
+     "author": "Rachel Treisman",
+     "kind": "news",
+     "published": "2026-08-21T09:01:00+00:00",
+     "summary": "Why is the car race in this part of D.C.? Will it be streaming? Who's paying for it? Here's what to know before the Freedom 250 Grand Prix hits the National Mall this weekend. (Image credit: Andrew Harnik)"
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump admin moves to allow logging and construction in national forests",
+     "url": "https://abcnews.com/US/trump-admin-moves-logging-construction-national-forests/story?id=135811046",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T19:38:54+00:00",
+     "summary": "The USDA, which oversees the U.S. Forest Service, filed the proposed rule and corresponding draft environmental impact statement in the Federal Register on Tuesday."
+    },
+    {
+     "outlet": "grist",
+     "title": "Trump administration advances plan to open national forests to development",
+     "url": "https://grist.org/regulation/trump-administration-advances-roadless-rule-national-forests/",
+     "author": "Ellis Juhlin",
+     "kind": "news",
+     "published": "2026-08-19T22:18:44+00:00",
+     "summary": "The Trump administration is proposing to rescind the \u201croadless rule,\u201d a 25-year-old policy that bars development like road construction and logging on nearly 45 million acres of national forest land, the U.S. Department of Agriculture announced Tuesday. In a press release , Secretary of Agriculture Brooke Rollins said the rule has led to overgrown and diseased forests ripe for deadly wildfires by limiting where the U.S. Forest Service can build roads and manage timber. Rescinding the roadless rule, the government said, will prioritize local decision-making over national-scale regulations. \u201cToday\u2019s long overdue decision will empower states like Montana to pursue proper forest management on federal lands with local communities in mind,\u201d Montana Governor Greg Gianforte said in the release. In a letter published last fall , more than 30 leading forest science researchers from across the country refuted the administration\u2019s claims. The researchers found that over the last three decades across all Forest Service lands, the density of wildfire ignitions was lowest in wilderness and roadless areas. Their analyses also showed that the highest number of wildfire ignitions came from land in c"
     }
    ]
   },
@@ -564,15 +552,15 @@
    "summary": "President Donald Trump returned to the campaign trail Friday to help save the candidacy of Sen. Darline Graham after a major debate gaffe raised questions about her readiness to replace her late brother and the wisdom of his endorsement. Speaking at a rally in Myrtle Beach, South Carolina, days before a Senate runoff featuring Graham and Rep. Ralph Norman, Trump urged voters to support the sister of his ally Lindsay Graham, the longtime foreign policy hawk who died last month. \u201cWe're going to elect Senator Darline Graham to fight, fight, fight for South Carolina and to always put America first,\u201d he said. \u201cYou vote for her, you're going to be very proud of that vote.\u201d Trump also reflected on his close friendship with Lindsey Graham, invoking the memory of the stalwart of the South Carolina GOP who represented the state in Congress for 31 years. \u201cI think Lindsey respected Darline more\u2026",
    "summaryFrom": "politico",
    "emphasis": {
-    "bigCount": 6,
+    "bigCount": 7,
     "indieCount": 2,
     "big": [
      "ralph",
      "norman",
      "ballot",
      "debate",
-     "myrtle",
-     "beach"
+     "rally",
+     "support"
     ],
     "indie": []
    },
@@ -582,14 +570,14 @@
    ],
    "headline": "WATCH LIVE: Trump stumps for S.C. Sen. Darline Graham ahead of GOP runoff",
    "updated": "2026-08-22T00:39:28+00:00",
-   "outletCount": 8,
+   "outletCount": 9,
    "counts": {
-    "corp": 3,
+    "corp": 4,
     "family": 3,
     "nonprofit": 1,
     "pub": 1
    },
-   "newsCount": 8,
+   "newsCount": 9,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
@@ -657,6 +645,15 @@
      "summary": "President Donald Trump is scheduled to travel to South Carolina on Friday to make a last-minute appeal for Sen. Darline Graham, his chosen candidate to replace her brother, the late Sen. Lindsey Graham, ahead of a Republican runoff next week."
     },
     {
+     "outlet": "abcnews",
+     "title": "Trump shows off multimillion-dollar White House helipad and adds his signature",
+     "url": "https://abcnews.com/Politics/trump-shows-off-multimillion-dollar-white-house-helipad/story?id=135782264",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T02:02:47+00:00",
+     "summary": "President Trump showed off the new, granite White House helipad on Wednesday."
+    },
+    {
      "outlet": "bbc",
      "title": "Watch: Trump leads tour of White House helipad construction site",
      "url": "https://www.bbc.co.uk/news/videos/c4g61p4n1z4o?at_medium=RSS&at_campaign=rss",
@@ -668,109 +665,258 @@
    ]
   },
   {
-   "id": "65b4b4c0f1",
+   "id": "be8622b122",
    "topic": "Politics",
-   "summary": "This blog is now closed. Read the latest here Pentagon fires publisher and editor of Stars & Stripes Backlash as navy carrier set to honor Black war hero could be named after Trump Sign up for the US Breaking News email US Senator Tim Sheehy, a Montana Republican and a cattle rancher, has come out against a plan announced Friday by Donald Trump to allow for an increase in imported ground beef. \u201dI\u2019ve advised President Trump against this course of action for a year because American ranchers have been struggling against the packer monopoly for decades, and this will further harm them - most of whom are MAGA Republicans,\u201d Sheehy wrote on X. \u201cThe President\u2019s heart is in the right place on wanting lower prices for the American people, and beef prices have been impacted by the Mexican screwworm. But the reality is this action will make it more difficult for American ranchers to rebuild our\u2026",
-   "summaryFrom": "guardian",
+   "summary": "Florida Democratic Senate nominee Angie Nixon distanced herself from several major planks in the Democratic Socialists of America's (DSA) national program Thursday on \"Meet the Press NOW,\" after host Kristen Welker pressed her to explain why she joined an organization that called for abolishing the office she is seeking. Nixon said she joined the DSA because it supported public housing, healthcare, helping homeless veterans and removing big money from politics, but rejected incumbent Republican Sen. Ashley Moody's characterization of her political identity. \"Ashley Moody knows that I\u2019m not a socialist,\" Nixon said. \"I joined the DSA because I believe in them in regards to fighting for adequate public housing, as well as fighting for quality healthcare, as well as making sure that we are getting our veterans off the street, taking big money out of politics, right?\" FLORIDA SOCIALIST\u2026",
+   "summaryFrom": "foxnews",
    "emphasis": {
-    "bigCount": 4,
+    "bigCount": 9,
     "indieCount": 3,
     "big": [
-     "secretary",
-     "leavitt",
-     "karoline",
-     "super",
-     "press",
-     "work"
+     "democratic",
+     "democrat",
+     "party",
+     "far-left",
+     "national",
+     "socialists"
     ],
     "indie": [
-     "hormuz",
-     "ballroom",
-     "strait",
-     "territory",
-     "american",
-     "views"
+     "time",
+     "short"
     ]
    },
    "people": [],
    "absent": [
-    "coop"
+    "pub"
    ],
-   "headline": "Trump talks up White House ballroom and says he views strait of Hormuz as \u2018American territory\u2019 \u2013 as it happened",
-   "updated": "2026-08-22T03:24:46+00:00",
-   "outletCount": 7,
+   "headline": "Florida\u2019s GOP Has a Very Short Playbook: Call Everyone a Socialist",
+   "updated": "2026-08-22T06:26:31+00:00",
+   "outletCount": 8,
    "counts": {
+    "family": 6,
     "corp": 3,
     "nonprofit": 2,
-    "pub": 1,
-    "family": 1
+    "coop": 1
    },
-   "newsCount": 7,
-   "opinionCount": 0,
+   "newsCount": 10,
+   "opinionCount": 2,
    "underreported": false,
    "articles": [
     {
-     "outlet": "thehill",
-     "title": "Leavitt to work at Trump-affiliated super PAC following White House departure",
-     "url": "https://thehill.com/homenews/6044808-karoline-leavitt-trump-super-pac-departure/",
-     "author": "Julia Boehning",
+     "outlet": "nypost",
+     "title": "Far-left Florida Democrat Angie Nixon claims GOP is \u2018literally trying to kill\u2019 black Americans",
+     "url": "https://nypost.com/2026/08/22/us-news/florida-senate-nominee-angie-nixon-claims-gop-is-trying-to-kill-black-americans/",
+     "author": "Fox News",
      "kind": "news",
-     "published": "2026-08-22T03:24:46+00:00",
-     "summary": "Karoline Leavitt is set to work at President\u2019s Trump MAGA Inc. super PAC following her departure from the White House, the outgoing press secretary confirmed Friday. Leavitt shared her next career move with reporters outside of Air Force One Friday evening, a little over one week after she announced she would step down at the..."
+     "published": "2026-08-22T06:26:31+00:00",
+     "summary": "While explaining why she believed voters should send fighters to Washington, Nixon dismissed the prospect of bipartisan cooperation."
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Florida Democrat Senate nominee Angie Nixon insists \u2018I\u2019m not a socialist\u2019 after joining DSA",
+     "url": "https://www.foxnews.com/media/florida-democrat-senate-nominee-angie-nixon-insists-im-not-socialist-after-joining-dsa",
+     "author": null,
+     "kind": "opinion",
+     "published": "2026-08-22T01:30:14+00:00",
+     "summary": "Florida Democratic Senate nominee Angie Nixon distanced herself from several major planks in the Democratic Socialists of America's (DSA) national program Thursday on \"Meet the Press NOW,\" after host Kristen Welker pressed her to explain why she joined an organization that called for abolishing the office she is seeking. Nixon said she joined the DSA because it supported public housing, healthcare, helping homeless veterans and removing big money from politics, but rejected incumbent Republican Sen. Ashley Moody's characterization of her political identity. \"Ashley Moody knows that I\u2019m not a socialist,\" Nixon said. \"I joined the DSA because I believe in them in regards to fighting for adequate public housing, as well as fighting for quality healthcare, as well as making sure that we are getting our veterans off the street, taking big money out of politics, right?\" FLORIDA SOCIALIST ANGIE NIXON SAYS SHE DOESN\u2019T \u2018REALLY KNOW\u2019 HASAN PIKER The DSA's program called for a new Constitution, abolishing the Senate, defunding the Department of War, ending sanctions on countries including Iran and establishing public ownership of the largest corporations and essential industries. Nixon explic"
+    },
+    {
+     "outlet": "breitbart",
+     "title": "Report: Socialist Angie Nixon, Florida Democrat Chair Erupt in Shouting Match",
+     "url": "https://www.breitbart.com/politics/2026/08/21/socialist-angie-nixon-florida-democrat-chair-erupt-shouting-match/",
+     "author": "Mariane Angela",
+     "kind": "news",
+     "published": "2026-08-22T01:10:15+00:00",
+     "summary": "Florida Democrat Senate candidate Angie Nixon reportedly clashed with state party chair Nikki Fried during a tense phone call Friday over Nixon\u2019s socialist ties and the party\u2019s support for her campaign. The post Report: Socialist Angie Nixon, Florida Democrat Chair Erupt in Shouting Match appeared first on Breitbart ."
+    },
+    {
+     "outlet": "axios",
+     "title": "'Stop gaslighting me!': Florida Democrats' Senate nominee and party chair have heated call over socialism",
+     "url": "https://www.axios.com/2026/08/21/florida-democrats-angie-nixon-nikki-fried-socialism",
+     "author": "Andrew Pantazi",
+     "kind": "news",
+     "published": "2026-08-21T22:46:58+00:00",
+     "summary": "Florida's new Democratic Senate nominee, Angie Nixon , and the state party's chair had a heated conversation Friday which included a yelling match about the impact of socialism and the challenges of campaigning in a red state like Florida, three people familiar with the conversation tell Axios. Why it matters: The conflict exposes the fault line in the party between the progressive base embodied by Nixon and the establishment represented by the state party's chair, Nikki Fried. Democrats already face an uphill battle in their effort to unseat Republican Sen. Ashley Moody. An escalating war of words between Nixon and Fried complicates efforts to unify Democrats. Zoom in: Nixon, a member of the Democratic Socialists of America who won the primary in a shocking upset over Alex Vindman earlier this week, expressed frustrations to Fried that she had not received sufficient help from the state party. Fried, in return, warned that Nixon's ties to the DSA could give an opening to the GOP to attack her, sources told us. According to two people who spoke with Nixon, both she and Fried yelled at each other over the course of the call. Another person who spoke to Fried said the chair did not y"
+    },
+    {
+     "outlet": "motherjones",
+     "title": "Florida\u2019s GOP Has a Very Short Playbook: Call Everyone a Socialist",
+     "url": "https://www.motherjones.com/politics/2026/08/florida-moody-donalds-nixon-senate-governor-gop-election-socialism/",
+     "author": "Laura C. Morel",
+     "kind": "news",
+     "published": "2026-08-21T19:19:26+00:00",
+     "summary": "In a bright red power suit, Ashley Moody, the former Florida attorney general who nabbed the state\u2019s GOP Senate nomination in Tuesday\u2019s primary, strolled onto the stage of Florida Republicans\u2019 \u201cVictory Rally\u201d on Thursday and did not waste time attacking her opponent, state Rep. Angie Nixon. \u201cIf I told you last year that Florida would have a nominee to the United States Senate that was a self-declared socialist, would you believe me?\u201d Moody asked the crowd of more than 150 people who gathered at a Tampa event venue to hear from candidates on the Republican ticket. \u201cThis is not a joke. This is not a fictional TV series. This is reality.\u201d \u201cLet me make this very clear,\u201d Moody continued. \u201cAngie Nixon wants the United States of America to look like Cuba.\u201d Nixon, a Democratic state lawmaker from Jacksonville who helped lead the charge against Florida\u2019s Republican-led redistricting earlier this year, defeated Alex Vindman, the presumed frontrunner, who raised millions of dollars against Nixon\u2019s $975,000 , in a stunning upset Tuesday. A union organizer, Nixon is running a campaign centered on affordability, Medicare for all, free childcare, paid family and sick leave, and a national rent fr"
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Top 5 most heated moments as progressives spar over who is further to the left in final Dem Senate debate",
+     "url": "https://www.foxnews.com/politics/top-5-most-heated-moments-progressives-spar-over-who-farther-left-final-dem-senate-debate",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T18:41:50+00:00",
+     "summary": "The two Democratic candidates for United States Senate in Massachusetts took to the debate stage Thursday night, and both made the case to voters in the deep blue commonwealth that their campaigns are most likely to deliver on far-left agenda items. Incumbent Sen. Ed Markey, D-Mass., and Rep. Seth Moulton, D-Mass., faced pressing questions over hot-button issues, including transgender athletes participating in women's sports, U.S. Immigration and Customs Enforcement, term limits in Congress and socialism\u2019s growing influence within the Democratic Party during their final debate. Markey and Moulton agreed biological males should be able to participate in female sports, with Markey saying, \"Yes, I do,\" when asked if that should be allowed. \"That is the law in Massachusetts, and I think it's the correct law,\" he said. SUPREME COURT MAKES RULING ON TRANS ATHLETES IN WOMEN'S SPORTS The question of transgender athletes in sports did get contentious when Markey called out Moulton over a comment two years ago in which Moulton said he did not want his young daughters \"getting run over on a playing field by a male or formerly male athlete.\" Markey accused Moulton of using transgender athletes"
+    },
+    {
+     "outlet": "dailywire",
+     "title": "Socialist Senate Nominee Called Charlie Kirk Supporters Tools \u2018Of White Supremacy\u2019",
+     "url": "https://www.dailywire.com/news/socialist-senate-nominee-called-charlie-kirk-supporters-tools-of-white-supremacy",
+     "author": "Jacob Wheeler",
+     "kind": "opinion",
+     "published": "2026-08-21T16:59:15+00:00",
+     "summary": "Angie Nixon, the socialist who just stunned Florida Democrats in a Senate primary, spent months attacking slain conservative activist Charlie Kirk \u2014 calling his supporters tools of \u201cwhite supremacy\u201d and comparing a bill honoring the Turning Point USA founder to something \u201cbrought straight by the KKK.\u201d Only six days after Kirk was murdered, State Rep. Nixon (D-FL) attacked GOP lawmakers who introduced resolutions honoring Kirk and those who supported them. \u201cIt is BEYOND disrespectful for @SenRickScott & @JimmyPatronis to introduce resolutions honoring Charlie Kirk. That man said some of the most hateful about Black People and cloaked it in scripture,\u201d Nixon wrote on Sept. 16. \u201c If you support it, you are a tool of white supremacy, and I DID NOT STUTTER!\u201d It is BEYOND disrespectful for @SenRickScott & @JimmyPatronis to introduce resolutions honoring Charlie Kirk. That man said some of the most hateful about Black People and cloaked it in scripture. If you support it, you are a tool of white supremacy and I DID NOT STUTTER! \u2014 State Rep. Angie Nixon (@AngieNixon) September 16, 2025 \u201cAnd he was homophobic, antisemitic, misogynistic\u2026the list goes on and on,\u201d Nixon said of the 31-year-old"
+    },
+    {
+     "outlet": "escapecollective",
+     "title": "Les Gets XCC short report: Frei and Boichis on top in France",
+     "url": "https://escapecollective.com/les-gets-xcc-short-report-frei-and/",
+     "author": "Alex Hunt",
+     "kind": "news",
+     "published": "2026-08-21T16:46:45+00:00",
+     "summary": "After wet conditions hit the U23 XCC races, the Les Gets course had largely dried by the time the elite women and men took to the start, setting the scene for fast and tactical racing. The women's race saw the return of Sami Maxwell to the Whoop UCI World Series after taking a step back following her overall title last year. Starting from the back of the grid, Maxwell looked to have arrived in impressive form, managing to ride through the pack to sixth position before a rear puncture put her out of contention. At the front, Jenny Rissveds, Sina Frei, Martina Berta, and Savilia Blunk found themselves fighting for the win. Frei consistently looked strongest on the course's long climb, waiting until the final lap to attack, opening up enough distance to the others to take the win. It was Frei's third XCC World Cup win of the season, strengthening her position as the leading favourite ahead of next weekend's XCC World Championships in Val di Sole, with Rissveds and Blunk rounding out the podium. Elite Women's XCC results Sina Frei: 20:38 Jenny Rissveds: +0:06 Savilia Blunk: +0:08 Nicole Koller: +0:13 Laura Stigger:+0:16 The men's race saw Mathieu van der Poel make his first XCC start s"
+    },
+    {
+     "outlet": "foxnews",
+     "title": "Socialism surges among Democrats as party leaders reject DSA agenda: \u2018Pack of fools\u2019",
+     "url": "https://www.foxnews.com/politics/socialism-surges-among-democrats-party-leaders-reject-dsa-agenda-pack-fools",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T13:16:19+00:00",
+     "summary": "The top Democrat in the House is making it clear that he doesn't support the Democratic Socialists of America's (DSA) agenda. But even though House Democratic Leader Rep. Hakeem Jeffries of New York doesn't back the DSA's far-left policy proposals, a majority of Democrats hold favorable views of socialism, according to two national polls released in recent weeks. That's not the case for most Americans, and especially Republicans, who hold negative views of socialism, according to the surveys. \"I don\u2019t support the DSA agenda, as has been articulated by the DSA itself,\" Jeffries said during an interview this past weekend on NBC News' \"Meet the Press.\" CHECK OUT THE LATEST FOX NEWS POWER RANKINGS IN THE MIDTERM RACES Jeffries wasn't the only major Democrat taking aim at the socialist agenda on the Sunday talk shows. Kentucky Gov. Andy Beshear , a potential 2028 Democratic presidential contender, called socialism a \"failed experiment\" during an appearance on CBS News' \"Face the Nation.\" Longtime Democratic strategist and pundit James Carville was less diplomatic. \"They're a bunch of silly people... a pack of fools,\" Carville said as he referred to DSA members, during a Monday appearanc"
+    },
+    {
+     "outlet": "axios",
+     "title": "Florida's Angie Nixon isn't the socialist you've heard about",
+     "url": "https://www.axios.com/2026/08/21/florida-senate-angie-nixon-socialist",
+     "author": "Marc Caputo",
+     "kind": "news",
+     "published": "2026-08-21T09:20:11+00:00",
+     "summary": "Immediately after her shocking upset in Florida 's Democratic Senate primary, state Rep. Angie Nixon made clear she isn't really a socialist \u2014 even though she'd just joined the Democratic Socialists of America. Why it matters: Nixon's win is being cast as a DSA victory , but the organization neither endorsed her nor saw it coming. She ran as a big-tent leftist, linking progressive movements and party institutions in unlikely alliances. \"I don't campaign as a member of any organization,\" she told Axios, echoing comments she made to MSNOW and CBS. \"I don't believe in labels.\" Nixon said she joined the DSA because she supports its fights over housing, public education, corporate power and \u2014 above all \u2014 Medicare for All . The latest: Since winning, Nixon has moved fast to separate herself from DSA orthodoxy. \"No,\" she laughed, when asked if she's a socialist. \"I own a business.\" (It's a bookstore called Cafe Resistance .) \"No,\" she doesn't back abolishing all prisons \u2014 just for-profit ones. Nor does she support \"defunding\" police or having so-called \"open borders.\" \"No,\" she said, \"I do not celebrate [Fidel] Castro\" \u2014 and she disagreed with the national DSA's controversial commemoratio"
+    },
+    {
+     "outlet": "axios",
+     "title": "Bernie Sanders backs Angie Nixon after her stunning Florida primary upset",
+     "url": "https://www.axios.com/2026/08/20/bernie-sanders-endorses-floridas-angie-nixon-for-senate",
+     "author": "Andrew Pantazi",
+     "kind": "news",
+     "published": "2026-08-20T17:42:20+00:00",
+     "summary": "Sen. Bernie Sanders endorsed Florida Democratic Senate nominee Angie Nixon on Thursday, two days after she stunned the party establishment by defeating heavily funded favorite Alex Vindman. Why it matters: Sanders gives Nixon a prominent national progressive ally as she pivots to a difficult general-election race against Republican Sen. Ashley Moody. Sanders also cast Nixon as a model for the Democratic Party's future. What he's saying: \"Angie is proof that organized people can take on the organized money of the wealthy and powerful \u2014 and win,\" Sanders said in a statement released by Nixon's campaign. Sanders praised Nixon's support for Medicare for All, canceling medical debt, expanded child care and paid family leave. The intrigue: Nixon won the primary without Sanders' endorsement despite working on his 2016 presidential campaign and running on many of the economic policies he made central to his campaigns. The big picture: The endorsement strengthens Nixon's connection to the national left, but it also gives Republicans another opening to make socialism the centerpiece of the fall campaign. Reality check: Nixon still faces a steep climb against Moody in Florida, a state that ha"
     },
     {
      "outlet": "guardian",
-     "title": "Trump talks up White House ballroom and says he views strait of Hormuz as \u2018American territory\u2019 \u2013 as it happened",
-     "url": "https://www.theguardian.com/us-news/live/2026/aug/21/democrats-progressive-election-politics-live",
-     "author": "Robert Mackey, Sam Levin, Lucy Campbell, George Chidi and Vivian Ho",
+     "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
+     "url": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
+     "author": "Tiago Rogero South America correspondent",
      "kind": "news",
-     "published": "2026-08-22T02:01:06+00:00",
-     "summary": "This blog is now closed. Read the latest here Pentagon fires publisher and editor of Stars & Stripes Backlash as navy carrier set to honor Black war hero could be named after Trump Sign up for the US Breaking News email US Senator Tim Sheehy, a Montana Republican and a cattle rancher, has come out against a plan announced Friday by Donald Trump to allow for an increase in imported ground beef. \u201dI\u2019ve advised President Trump against this course of action for a year because American ranchers have been struggling against the packer monopoly for decades, and this will further harm them - most of whom are MAGA Republicans,\u201d Sheehy wrote on X. \u201cThe President\u2019s heart is in the right place on wanting lower prices for the American people, and beef prices have been impacted by the Mexican screwworm. But the reality is this action will make it more difficult for American ranchers to rebuild our herd and bring prices down for the American people. And most importantly, this will harm our ranching families who feed the nation.\u201d Trump announced a plan on Truth Social to allow 300,000 metric tonnes of beef to be imported without tariffs over the next 90 days, to be sold for hamburger at a 25 percen"
+     "published": "2026-08-19T13:44:57+00:00",
+     "summary": "Fernando Cerimedo, 42, arrested on suspicion of ordering shooting of Bolivian lawyer Nadia Beller A senior adviser to many of Latin America\u2019s new wave of far-right leaders has been arrested for allegedly masterminding the attempted murder of his girlfriend. The businessman and political consultant Fernando Cerimedo, 42, had been working as an adviser to the Bolivian president, Rodrigo Paz Pereira, and was one of the main strategists behind Javier Milei\u2019s campaign in Argentina\u2019s 2023 presidential election. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "7799922cca",
+   "topic": "World",
+   "summary": "People walk past damaged cars amid debris in a residential area hit by Russian strikes on August 20, 2026 in Kyiv, Ukraine. Photo by Ihor Kuznietsov/Global Images Ukraine via Getty Images. Thursday, August 20, 2026 \u2013 Fifty Bodies recovered in Gaza City. Report: 94% of households in Gaza need shelter aid. Human Rights Watch: Israeli settler violence has displaced 107 West Bank communities since 2023. Israel opens bidding for 1,234 units within settlement project, cutting northern West Bank from south. Israeli settlers injure nine Palestinians as attacks continue across occupied West Bank. World Central Kitchen condemns Israeli decision to close probe into killing of its workers in Gaza. President Donald Trump calls for \u201ceconomic D-Day against Iran\u201d; Iran calls it diversion from U.S. debt crisis. U.S. officials make dubious claims about Hormuz traffic. Iraq asks Iran for eased oil\u2026",
+   "summaryFrom": "dropsite",
+   "emphasis": {
+    "bigCount": 2,
+    "indieCount": 6,
+    "big": [],
+    "indie": [
+     "kryvyi",
+     "chief",
+     "double-tap",
+     "friday",
+     "dead",
+     "hometown"
+    ]
+   },
+   "people": [],
+   "absent": [],
+   "headline": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
+   "updated": "2026-08-22T07:24:00+00:00",
+   "outletCount": 7,
+   "counts": {
+    "corp": 1,
+    "pub": 3,
+    "nonprofit": 2,
+    "coop": 1,
+    "family": 1
+   },
+   "newsCount": 8,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Russian strike on Ukraine kills at least 2, a day after deadly mall attack",
+     "url": "https://www.cbsnews.com/news/ukraine-russia-war-mall/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T07:24:00+00:00",
+     "summary": "The attack comes after a two-wave drone strike on a shopping mall in Zelenskyy's home town mall killed 16 people."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
+     "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T06:40:30+00:00",
+     "summary": "Nine people are still missing after the attack which left 130 injured, including a number of children."
+    },
+    {
+     "outlet": "france24",
+     "title": "Russian strikes in Ukraine kill at least two a day after deadly drone attack on shopping centre",
+     "url": "https://www.france24.com/en/europe/20260822-russian-strikes-in-ukraine-kill-at-least-two-people-injure-several-others",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-22T06:02:27+00:00",
+     "summary": "At least two people were reported dead early Saturday by local authorities, after Russian strikes on Ukraine. The strikes came after a series of Russian bombings killed at least 20 people in Ukraine on Friday, including 16 in a daytime drone attack on a busy shopping centre in President Volodymyr Zelensky's hometown of Kryvyi Rih."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Attack on Ukraine shopping centre that killed 16 is \u2018terror by design\u2019, says EU foreign policy chief",
+     "url": "https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih",
+     "author": "Agence France-Presse",
+     "kind": "news",
+     "published": "2026-08-22T01:12:32+00:00",
+     "summary": "Kaja Kallas, the EU\u2019s top diplomat, threatens harshest sanctions yet on Russia after strike on Kryvyi Rih, the home town of Volodymyr Zelenskyy Russian drones have slammed into a busy shopping centre in central Ukraine, killing 16 people in an attack that Volodymyr Zelenskyy condemned as \u201ccynical and despicable\u201d. The EU\u2019s foreign policy chief, Kaja Kallas, condemned Friday\u2019s attack on Kryvyi Rih \u2013 the president\u2019s home town \u2013 as \u201cterror by design\u201d and said she was \u201cputting forward the most far-reaching Russia sanctions listings since the start of the war\u201d when ministers meet in Ireland next month. Continue reading..."
     },
     {
      "outlet": "aljazeera",
-     "title": "Iran war live: Trump says he views Strait of Hormuz as \u2018American territory\u2019",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
+     "title": "Several killed in Russia\u2019s \u2018double-tap\u2019 drone strike on Ukraine mall",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-22T00:00:00+00:00",
-     "summary": "US president says Iran 'would love to make a deal, but they\u2019re not ready to make the right deal in my opinion'."
+     "published": "2026-08-22T00:06:48+00:00",
+     "summary": "Ukraine\u2019s president accuses Russia of a \u2018cowardly and deliberate\u2019 attack on a mall in his hometown of Kryvyi Rih."
     },
     {
-     "outlet": "nbcnews",
-     "title": "Karoline Leavitt to work for Trump-affiliated super PAC after leaving White House",
-     "url": "https://www.nbcnews.com/politics/white-house/karoline-leavitt-work-trump-affiliated-super-pac-leaving-white-house-rcna593824",
-     "author": "Kyla Guilfoil",
+     "outlet": "dropsite",
+     "title": "U.S. national debt tops $40 trillion; Russian strikes kill 16 in Ukraine; Ecuador\u2019s intelligence chief killed in Kenya helicopter crash",
+     "url": "https://www.dropsitenews.com/p/us-national-debt-russia-ukraine-kyiv-ecuador-intelligence-chief-helicopter-crash",
+     "author": "Drop Site News",
      "kind": "news",
-     "published": "2026-08-21T23:02:10+00:00",
-     "summary": "Leavitt, the youngest press secretary in history, announced her departure from the White House Aug. 12."
+     "published": "2026-08-20T15:21:11+00:00",
+     "summary": "People walk past damaged cars amid debris in a residential area hit by Russian strikes on August 20, 2026 in Kyiv, Ukraine. Photo by Ihor Kuznietsov/Global Images Ukraine via Getty Images. Thursday, August 20, 2026 \u2013 Fifty Bodies recovered in Gaza City. Report: 94% of households in Gaza need shelter aid. Human Rights Watch: Israeli settler violence has displaced 107 West Bank communities since 2023. Israel opens bidding for 1,234 units within settlement project, cutting northern West Bank from south. Israeli settlers injure nine Palestinians as attacks continue across occupied West Bank. World Central Kitchen condemns Israeli decision to close probe into killing of its workers in Gaza. President Donald Trump calls for \u201ceconomic D-Day against Iran\u201d; Iran calls it diversion from U.S. debt crisis. U.S. officials make dubious claims about Hormuz traffic. Iraq asks Iran for eased oil exporting rules. Ansarallah claims \u201ccomprehensive blockade\u201d of Saudi tankers. Israel continues ceasefire violations with shelling and demolitions across southern Lebanon. Lebanese Parliament speaker \u201cguarantees\u201d U.S. that Lebanese Army can assert control over south if Israel withdraws. UNIFIL hands over Kha"
     },
     {
-     "outlet": "pbsnewshour",
-     "title": "From White House ballroom to IndyCar race, Trump's spectacles take center stage in D.C.",
-     "url": "https://www.pbs.org/newshour/show/from-white-house-ballroom-to-indycar-race-trumps-spectacles-take-center-stage-in-d-c",
-     "author": "Doug Adams",
+     "outlet": "semafor",
+     "title": "US debt tops $40 trillion threshold",
+     "url": "https://www.semafor.com/article/08/20/2026/us-debt-tops-40-trillion-threshold",
+     "author": "Prashant Rao",
      "kind": "news",
-     "published": "2026-08-21T22:55:27+00:00",
-     "summary": "The Supreme Court temporarily cleared the way for construction of President Trump's White House ballroom to continue while the justices consider his administration's appeal. White House correspondent Liz Landers reports on the ballroom as well as the president's IndyCar race coming to the nation's capital this weekend."
+     "published": "2026-08-20T13:42:12+00:00",
+     "summary": "The Trump administration sought to lower interest rates with rhetoric and repurchases, as Washington\u2019s debt crossed a significant milestone. US President Donald Trump reiterated criticism of the Federal Reserve , pressing for it to cut rates, while the Treasury said it would increase purchases of long-dated bonds to contain borrowing costs. But banks including Barclays, ING, and Goldman Sachs forecast rates would stay unchanged at least through this year; traders are betting on an 80% likelihood of a hike over the next year . The bond buyback, meanwhile, risked a credibility crisis \u201c absent real fiscal consolidation ,\u201d JP Morgan economists wrote in a note to clients. That call came as US government debt topped the $40 trillion threshold for the first time . \u2014 Prashant Rao"
     },
     {
-     "outlet": "bloomberg",
-     "title": "Leavitt Says She\u2019ll Return to MAGA Inc. After White House",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-21/leavitt-says-she-ll-return-to-maga-inc-after-white-house",
-     "author": "Hadriana Lowenkron",
+     "outlet": "guardian",
+     "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
+     "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
+     "author": "Associated Press",
      "kind": "news",
-     "published": "2026-08-21T22:44:09+00:00",
-     "summary": "White House Press Secretary Karoline Leavitt said she will return to MAGA Inc., the president\u2019s super political action committee, when she leaves her post later this month."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump shows off multimillion-dollar White House helipad and adds his signature",
-     "url": "https://abcnews.com/Politics/trump-shows-off-multimillion-dollar-white-house-helipad/story?id=135782264",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T02:02:47+00:00",
-     "summary": "President Trump showed off the new, granite White House helipad on Wednesday."
+     "published": "2026-08-19T20:17:39+00:00",
+     "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department. Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Universal, and the director of Ecuador\u2019s national intelligence service. Continue reading..."
     }
    ]
   },
@@ -784,8 +930,8 @@
     "indieCount": 4,
     "big": [
      "young",
-     "closing",
-     "arguments"
+     "arguments",
+     "closing"
     ],
     "indie": []
    },
@@ -868,94 +1014,6 @@
      "kind": "news",
      "published": "2026-08-19T21:42:42+00:00",
      "summary": "Clancy is accused of killing her three children in Massachusetts in 2023 and her defence team point to severe postpartum mental illness."
-    }
-   ]
-  },
-  {
-   "id": "7799922cca",
-   "topic": "World",
-   "summary": "People walk past damaged cars amid debris in a residential area hit by Russian strikes on August 20, 2026 in Kyiv, Ukraine. Photo by Ihor Kuznietsov/Global Images Ukraine via Getty Images. Thursday, August 20, 2026 \u2013 Fifty Bodies recovered in Gaza City. Report: 94% of households in Gaza need shelter aid. Human Rights Watch: Israeli settler violence has displaced 107 West Bank communities since 2023. Israel opens bidding for 1,234 units within settlement project, cutting northern West Bank from south. Israeli settlers injure nine Palestinians as attacks continue across occupied West Bank. World Central Kitchen condemns Israeli decision to close probe into killing of its workers in Gaza. President Donald Trump calls for \u201ceconomic D-Day against Iran\u201d; Iran calls it diversion from U.S. debt crisis. U.S. officials make dubious claims about Hormuz traffic. Iraq asks Iran for eased oil\u2026",
-   "summaryFrom": "dropsite",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family"
-   ],
-   "headline": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
-   "updated": "2026-08-22T07:24:00+00:00",
-   "outletCount": 6,
-   "counts": {
-    "corp": 1,
-    "pub": 3,
-    "nonprofit": 2,
-    "coop": 1
-   },
-   "newsCount": 7,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Russian strike on Ukraine kills at least 2, a day after deadly mall attack",
-     "url": "https://www.cbsnews.com/news/ukraine-russia-war-mall/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T07:24:00+00:00",
-     "summary": "The attack comes after a two-wave drone strike on a shopping mall in Zelenskyy's home town mall killed 16 people."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
-     "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T06:40:30+00:00",
-     "summary": "Nine people are still missing after the attack which left 130 injured, including a number of children."
-    },
-    {
-     "outlet": "france24",
-     "title": "Russian strikes in Ukraine kill at least two people, injure several others",
-     "url": "https://www.france24.com/en/europe/20260822-russian-strikes-in-ukraine-kill-at-least-two-people-injure-several-others",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-22T06:02:27+00:00",
-     "summary": "At least two people were reported dead early Saturday by local authorities, after Russian strikes on Ukraine. The strikes came after a series of Russian bombings killed at least 20 people in Ukraine on Friday, including 16 in a daytime drone attack on a busy shopping center in President Volodymyr Zelensky's hometown Kryvyi Rih."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Attack on Ukraine shopping centre that killed 16 is \u2018terror by design\u2019, says EU foreign policy chief",
-     "url": "https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih",
-     "author": "Agence France-Presse",
-     "kind": "news",
-     "published": "2026-08-22T01:12:32+00:00",
-     "summary": "Kaja Kallas, the EU\u2019s top diplomat, threatens harshest sanctions yet on Russia after strike on Kryvyi Rih, the home town of Volodymyr Zelenskyy Russian drones have slammed into a busy shopping centre in central Ukraine, killing 16 people in an attack that Volodymyr Zelenskyy condemned as \u201ccynical and despicable\u201d. The EU\u2019s foreign policy chief, Kaja Kallas, condemned Friday\u2019s attack on Kryvyi Rih \u2013 the president\u2019s home town \u2013 as \u201cterror by design\u201d and said she was \u201cputting forward the most far-reaching Russia sanctions listings since the start of the war\u201d when ministers meet in Ireland next month. Continue reading..."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Several killed in Russia\u2019s \u2018double-tap\u2019 drone strike on Ukraine mall",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T00:06:48+00:00",
-     "summary": "Ukraine\u2019s president accuses Russia of a \u2018cowardly and deliberate\u2019 attack on a mall in his hometown of Kryvyi Rih."
-    },
-    {
-     "outlet": "dropsite",
-     "title": "U.S. national debt tops $40 trillion; Russian strikes kill 16 in Ukraine; Ecuador\u2019s intelligence chief killed in Kenya helicopter crash",
-     "url": "https://www.dropsitenews.com/p/us-national-debt-russia-ukraine-kyiv-ecuador-intelligence-chief-helicopter-crash",
-     "author": "Drop Site News",
-     "kind": "news",
-     "published": "2026-08-20T15:21:11+00:00",
-     "summary": "People walk past damaged cars amid debris in a residential area hit by Russian strikes on August 20, 2026 in Kyiv, Ukraine. Photo by Ihor Kuznietsov/Global Images Ukraine via Getty Images. Thursday, August 20, 2026 \u2013 Fifty Bodies recovered in Gaza City. Report: 94% of households in Gaza need shelter aid. Human Rights Watch: Israeli settler violence has displaced 107 West Bank communities since 2023. Israel opens bidding for 1,234 units within settlement project, cutting northern West Bank from south. Israeli settlers injure nine Palestinians as attacks continue across occupied West Bank. World Central Kitchen condemns Israeli decision to close probe into killing of its workers in Gaza. President Donald Trump calls for \u201ceconomic D-Day against Iran\u201d; Iran calls it diversion from U.S. debt crisis. U.S. officials make dubious claims about Hormuz traffic. Iraq asks Iran for eased oil exporting rules. Ansarallah claims \u201ccomprehensive blockade\u201d of Saudi tankers. Israel continues ceasefire violations with shelling and demolitions across southern Lebanon. Lebanese Parliament speaker \u201cguarantees\u201d U.S. that Lebanese Army can assert control over south if Israel withdraws. UNIFIL hands over Kha"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
-     "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-19T20:17:39+00:00",
-     "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department. Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Universal, and the director of Ecuador\u2019s national intelligence service. Continue reading..."
     }
    ]
   },
@@ -1050,8 +1108,8 @@
      "middle",
      "east",
      "friday",
-     "correspondent",
      "firings",
+     "correspondent",
      "independent"
     ],
     "indie": []
@@ -1130,182 +1188,6 @@
    ]
   },
   {
-   "id": "df7ede4cc1",
-   "topic": "Justice & Policing",
-   "summary": "Construction continues on a new helipad on the South Lawn of the White House and the East Wing ballroom on August 20, 2026. Photo by Andrew Harnik/Getty Images If Donald Trump and his cronies spent as much energy actually listening to Americans and doing what voters want as they have on their freakout about the spotlight on Natalie Harp , perhaps the president\u2019s approval rating wouldn\u2019t have dipped to 33% this week. While Trump\u2019s allies rushed to the defense of Harp, the president\u2019s close and influential aide dubbed the \u201c human printer ,\u201d his administration was busy further harming democracy, undermining the Constitution, and hurting societies worldwide. Subscribe now This week, Trump\u2019s newly sworn-in attorney general, Todd Blanche, refused to pledge that his Justice Department would act independently of the White House. That\u2019s troubling but not surprising when it comes to Trump\u2019s\u2026",
-   "summaryFrom": "zeteo",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 4,
-    "big": [],
-    "indie": [
-     "images",
-     "donald",
-     "august",
-     "getty",
-     "order"
-    ]
-   },
-   "people": [],
-   "absent": [],
-   "headline": "Supreme Court temporarily unfreezes Trump ballroom construction",
-   "updated": "2026-08-22T00:01:15+00:00",
-   "outletCount": 6,
-   "counts": {
-    "coop": 1,
-    "pub": 1,
-    "family": 1,
-    "corp": 1,
-    "nonprofit": 2
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "zeteo",
-     "title": "This Week in Democracy \u2013 Week 83: Supreme Court Hands Trump Ballroom Victory as He Pushes More Fake Noncitizen Voting Stats",
-     "url": "https://zeteo.com/p/this-week-in-democracy-week-83-supreme",
-     "author": "Team Zeteo",
-     "kind": "news",
-     "published": "2026-08-22T00:01:15+00:00",
-     "summary": "Construction continues on a new helipad on the South Lawn of the White House and the East Wing ballroom on August 20, 2026. Photo by Andrew Harnik/Getty Images If Donald Trump and his cronies spent as much energy actually listening to Americans and doing what voters want as they have on their freakout about the spotlight on Natalie Harp , perhaps the president\u2019s approval rating wouldn\u2019t have dipped to 33% this week. While Trump\u2019s allies rushed to the defense of Harp, the president\u2019s close and influential aide dubbed the \u201c human printer ,\u201d his administration was busy further harming democracy, undermining the Constitution, and hurting societies worldwide. Subscribe now This week, Trump\u2019s newly sworn-in attorney general, Todd Blanche, refused to pledge that his Justice Department would act independently of the White House. That\u2019s troubling but not surprising when it comes to Trump\u2019s cronies, given we also learned this week the DOJ sought to interview FBI agents involved in the 2022 classified documents search of Mar-a-Lago. And Trump\u2019s DOJ is preparing to deploy about 1,000 \u201celection monitors\u201d for the midterms. Here\u2019s more from \u2018This Week in Democracy \u2013 Week 83\u2019: Saturday, Aug. 15 \u2013 "
-    },
-    {
-     "outlet": "bbc",
-     "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
-     "url": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T22:02:10+00:00",
-     "summary": "The temporary order will allow the $400m (\u00a3297m) project to continue while the high court mulls a final decision on the case."
-    },
-    {
-     "outlet": "latimes",
-     "title": "Trump cites national security as Supreme Court weighs challenge to ballroom",
-     "url": "https://www.latimes.com/politics/story/2026-08-21/supreme-court-trump-white-house-ballroom",
-     "author": "David G. Savage, Michael Wilner",
-     "kind": "news",
-     "published": "2026-08-21T21:44:10+00:00",
-     "summary": "The Trump administration says the massive new White House ballroom is urgently needed for national security, to protect the president, his staff and guests from attacks."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump admin moves to allow logging and construction in national forests",
-     "url": "https://abcnews.com/US/trump-admin-moves-logging-construction-national-forests/story?id=135811046",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T19:38:54+00:00",
-     "summary": "The USDA, which oversees the U.S. Forest Service, filed the proposed rule and corresponding draft environmental impact statement in the Federal Register on Tuesday."
-    },
-    {
-     "outlet": "grist",
-     "title": "Trump administration advances plan to open national forests to development",
-     "url": "https://grist.org/regulation/trump-administration-advances-roadless-rule-national-forests/",
-     "author": "Ellis Juhlin",
-     "kind": "news",
-     "published": "2026-08-19T22:18:44+00:00",
-     "summary": "The Trump administration is proposing to rescind the \u201croadless rule,\u201d a 25-year-old policy that bars development like road construction and logging on nearly 45 million acres of national forest land, the U.S. Department of Agriculture announced Tuesday. In a press release , Secretary of Agriculture Brooke Rollins said the rule has led to overgrown and diseased forests ripe for deadly wildfires by limiting where the U.S. Forest Service can build roads and manage timber. Rescinding the roadless rule, the government said, will prioritize local decision-making over national-scale regulations. \u201cToday\u2019s long overdue decision will empower states like Montana to pursue proper forest management on federal lands with local communities in mind,\u201d Montana Governor Greg Gianforte said in the release. In a letter published last fall , more than 30 leading forest science researchers from across the country refuted the administration\u2019s claims. The researchers found that over the last three decades across all Forest Service lands, the density of wildfire ignitions was lowest in wilderness and roadless areas. Their analyses also showed that the highest number of wildfire ignitions came from land in c"
-    },
-    {
-     "outlet": "theconversation",
-     "title": "After Supreme Court setback, Trump again targets immigration by expanding definition of birthright citizenship",
-     "url": "https://theconversation.com/after-supreme-court-setback-trump-again-targets-immigration-by-expanding-definition-of-birthright-citizenship-289465",
-     "author": "Austin Sarat, William Nelson Cromwell Professor of Jurisprudence and Political Science, Amherst College",
-     "kind": "news",
-     "published": "2026-08-19T12:28:42+00:00",
-     "summary": "White House Deputy Chief of Staff Stephen Miller holds an executive order on birthright citizenship as President Donald Trump speaks before signing it at the White House on Aug. 6, 2026. Jim Watson/AFP via Getty Images Since his return to the White House, President Donald Trump has issued over 270 executive orders . That includes two orders issued in August 2026 addressing birthright citizenship, a subject seemingly settled by the U.S. Supreme Court\u2019s recent decision . In June, the high court struck down Trump\u2019s effort to deny citizenship to children born to foreign parents who are unlawfully in the United States. One order directs federal agencies not to recognize U.S. citizenship for children of certain foreign national parents. They include the children of an \u201calien enemy,\u201d meaning citizens of a foreign country that is at war with the United States , and children of parents who are employees of a foreign government \u2013 such as ambassadors, for example. The second executive order calls on federal agencies to curtail so-called \u201c birth tourism ,\u201d which it defines this way: the \u201centry of any foreign national into the United States via a nonimmigrant visa for the purpose of giving birt"
-    }
-   ]
-  },
-  {
-   "id": "30d1bfd685",
-   "topic": "World",
-   "summary": "Imagine, for a minute, that everyone in your neighborhood is paying your rent, and then, one day, you accuse them all of being racist bullies and move away. Imagine you accused your own family, too. You\u2019re a grown man, and you tell your brother, who\u2019s got three kids under the age of 10, that he wasn\u2019t supportive enough. You complain because your father won\u2019t let you use his credit card anymore. Back home, the neighborhood whispers that you left because your elderly grandmother\u2019s late, beloved husband was a bigot\u2014and you let everybody believe it. You\u2019re gone five years, and in that time your grandmother dies, your brother\u2019s wife has cancer, and so does your father. You have two kids. In your glamorous, expensive new community, you keep telling everyone how terrible your family treats you, how unhappy you were in your old neighborhood, and how unsafe it was. You try to start a high-flying\u2026",
-   "summaryFrom": "freepress",
-   "emphasis": {
-    "bigCount": 3,
-    "indieCount": 3,
-    "big": [
-     "imagine",
-     "move"
-    ],
-    "indie": []
-   },
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Prince Harry and Meghan are returning to the UK with their children",
-   "updated": "2026-08-21T22:10:33+00:00",
-   "outletCount": 6,
-   "counts": {
-    "family": 2,
-    "pub": 3,
-    "corp": 1
-   },
-   "newsCount": 6,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "freepress",
-     "title": "Prince Harry Said Returning to Britain Was \u2018Impossible\u2019",
-     "url": "https://www.thefp.com/p/prince-harry-meghan-markle-return-great-britain",
-     "author": "Kara Kennedy",
-     "kind": "news",
-     "published": "2026-08-21T22:10:33+00:00",
-     "summary": "Imagine, for a minute, that everyone in your neighborhood is paying your rent, and then, one day, you accuse them all of being racist bullies and move away. Imagine you accused your own family, too. You\u2019re a grown man, and you tell your brother, who\u2019s got three kids under the age of 10, that he wasn\u2019t supportive enough. You complain because your father won\u2019t let you use his credit card anymore. Back home, the neighborhood whispers that you left because your elderly grandmother\u2019s late, beloved husband was a bigot\u2014and you let everybody believe it. You\u2019re gone five years, and in that time your grandmother dies, your brother\u2019s wife has cancer, and so does your father. You have two kids. In your glamorous, expensive new community, you keep telling everyone how terrible your family treats you, how unhappy you were in your old neighborhood, and how unsafe it was. You try to start a high-flying career, but it\u2019s harder than you thought. People start laughing at you. In the beautiful place you tried to make home, people are whispering that you\u2019ve got no talent, and you don\u2019t belong. So, what do you do? You pack your bags. You announce you\u2019re coming home, to the place you rejected. This week,"
-    },
-    {
-     "outlet": "france24",
-     "title": "Prince Harry and Meghan are returning to the UK with their children",
-     "url": "https://www.france24.com/en/video/20260821-prince-harry-and-meghan-are-returning-to-the-uk-with-their-children",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-21T11:29:55+00:00",
-     "summary": "Prince Harry and his wife, Meghan, have decided to return to the United Kingdom for an extended stay starting this fall, but they won\u2019t resume their roles as working members of the royal family, The Associated Press learned Wednesday. The couple's children, Prince Archie, 7, and Princess Lilibet, 5, have already enrolled at British schools and will start classes in September, according to a person close to the Sussexes who was not authorized to speak publicly. The family plans to live at a private, non-royal residence outside of London, but plans to maintain their home in Montecito, California, and their vacation property in Portugal."
-    },
-    {
-     "outlet": "slate",
-     "title": "Harry and Meghan Are Returning to the U.K. The Timing Couldn\u2019t Be Darker.",
-     "url": "https://slate.com/life/2026/08/harry-meghan-move-uk-king-charles.html?via=rss",
-     "author": "Imogen West-Knights",
-     "kind": "news",
-     "published": "2026-08-20T21:43:02+00:00",
-     "summary": "The front page of the Daily Telegraph, which features an imagine of Harry and Meghan and the text \"Harry's Coming Home.\""
-    },
-    {
-     "outlet": "time",
-     "title": "Andy Burnham Weighs In As Prince Harry and Meghan Set For Return to U.K.",
-     "url": "https://time.com/article/2026/08/20/burnham-prince-harry-and-meghan-set-for-return-security/",
-     "author": "Callum Sutherland",
-     "kind": "news",
-     "published": "2026-08-20T16:09:00+00:00",
-     "summary": "Harry and Meghan , the Duke and Duchess of Sussex, are expected to move back to the United Kingdom later this year, after six years of living in the U.S. during a period of estrangement from the rest of the Royal family. The couple are set to move with their children, Prince Archie , 7, and Princess Lilibet , 5, to a non-royal residence that is said to be outside of London, with both children enrolled to start at a British school in September. The news was first reported by the Daily Telegraph on Wednesday, with multiple outlets since reporting similar details. The move follows years of Prince Harry arguing that the security arrangements provided for his family in the U.K. were insufficient. In May 2025, Prince Harry lost an appeal after the British government downgraded his security arrangements following his decision, along with Meghan, to step back from Royal duties in 2020. Asked on Thursday about the move and if the British government would pay for the family\u2019s security, Prime Minister Andy Burnham said the issue was \u201ca private matter\u201d and that he \u201cwishes them well in the move that they are making.\u201d King Charles III was reportedly informed of the couple\u2019s move on Sunday, and i"
-    },
-    {
-     "outlet": "dw",
-     "title": "Harry and Meghan moving back to Britain: reports",
-     "url": "https://www.dw.com/en/harry-and-meghan-moving-back-to-britain-reports/a-78438052?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T03:10:00+00:00",
-     "summary": "Prince Harry and Meghan Markle will return to the UK after living in the US for over six years, according to reports. The former senior royals will reportedly live in a private residence."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
-     "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T02:00:51+00:00",
-     "summary": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family."
-    }
-   ]
-  },
-  {
    "id": "b5f6935ce1",
    "topic": "Politics",
    "summary": "Good evening, and welcome to this week\u2019s \u2018 Ragebait .\u2019 Justin Baragona here, bringing you the latest media dispatches from the right-wing industrial outrage complex and Bari World. In tonight\u2019s edition, we talk to journalism ethics experts on whether it is \u201cfair game\u201d for reporters to dig into the nature of Natalie Harp\u2019s relationship with Donald Trump, and how newsrooms should navigate this story. Also, Disney is getting lauded for punching back against the Trump administration, but didn\u2019t they help jumpstart his war against the media in the first place? Subscribe now Who\u2019s Afraid of Natalie Harp? Donald Trump looks on as Natalie Harp places a computer playing a news report in the Oval Office on May 30, 2025. Photo by Francis Chung/Sipa USA via Reuters \u201cOkay, back to the midterms because the Natalie stuff, I think, is strange. So I\u2019m going to leave it there.\u201d That was what MS NOW\u2019s\u2026",
@@ -1320,12 +1202,12 @@
      "close"
     ],
     "indie": [
-     "relationship",
-     "senator",
-     "media",
-     "suddenly",
+     "democratic",
      "spotlight",
-     "ossoff"
+     "suddenly",
+     "latest",
+     "ossoff",
+     "senator"
     ]
    },
    "people": [],
@@ -1402,76 +1284,6 @@
    ]
   },
   {
-   "id": "fc2c19b3d0",
-   "topic": "Other",
-   "summary": "Saja El-Khawas had been in critical condition after being pulled from sea in West Sussex A six-year-old girl has died in hospital three days after being pulled from the sea off Shoreham in West Sussex, in an incident that also killed her mother, father and sister. Saja El-Khawas died on Friday after the deaths of her sister Sara El-Khawas, 14, and her parents Hassan El-Khawas, 55, and Zeina Alayn, 37, on Tuesday. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop"
-   ],
-   "headline": "Palestinian-British girl, 6, dies days after family drowned off UK coast",
-   "updated": "2026-08-22T01:42:33+00:00",
-   "outletCount": 5,
-   "counts": {
-    "pub": 3,
-    "nonprofit": 1,
-    "corp": 1
-   },
-   "newsCount": 5,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "Palestinian-British girl, 6, dies days after family drowned off UK coast",
-     "url": "https://www.aljazeera.com/news/2026/8/22/palestinian-british-girl-6-dies-days-after-family-drowned-off-uk-coast?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T01:42:33+00:00",
-     "summary": "Saja el-Khawas's death follows that of her mother, father and sister on Tuesday, all of whom drowned."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Girl, 6, dies three days after Shoreham sea incident that killed parents and sister",
-     "url": "https://www.theguardian.com/uk-news/2026/aug/21/girl-six-dies-three-days-after-being-pulled-from-sea-off-sussex-coast",
-     "author": "Harry Cockburn",
-     "kind": "news",
-     "published": "2026-08-21T22:50:36+00:00",
-     "summary": "Saja El-Khawas had been in critical condition after being pulled from sea in West Sussex A six-year-old girl has died in hospital three days after being pulled from the sea off Shoreham in West Sussex, in an incident that also killed her mother, father and sister. Saja El-Khawas died on Friday after the deaths of her sister Sara El-Khawas, 14, and her parents Hassan El-Khawas, 55, and Zeina Alayn, 37, on Tuesday. Continue reading..."
-    },
-    {
-     "outlet": "france24",
-     "title": "Fishermen floating in cooler rescued after five days at sea off Mexican coast",
-     "url": "https://www.france24.com/en/video/20260821-fishermen-floating-in-cooler-rescued-after-five-days-at-sea-off-mexican-coast",
-     "author": "FRANCE24",
-     "kind": "news",
-     "published": "2026-08-21T13:08:30+00:00",
-     "summary": "The Mexican Navy rescued two fishermen on Wednesday after they spent five days adrift in the Pacific Ocean aboard a cooler. They were found alive and have been reunited with their families."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "WATCH: Fishermen rescued after 5 days at sea inside cooler",
-     "url": "https://abcnews.com/video/135822103/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T00:09:35+00:00",
-     "summary": "The Mexican navy rescued the men after an aircraft spotted them drifting in the Pacific."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Watch: Fishermen rescued after five days adrift in cool box",
-     "url": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T20:41:31+00:00",
-     "summary": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico."
-    }
-   ]
-  },
-  {
    "id": "c4554a54d7",
    "topic": "Politics",
    "summary": "Residents carry containers while queuing for potable water from a tanker, amid recurring shortages and power outages, in Matanzas, Cuba, on August 6, 2026. Photo by AFP via Getty Images. Friday, August 21, 2026 \u2013 Fifteen-year-old boy dies after being shot in the head by Israeli soldiers in Gaza. Israeli forces and settlers kill two Palestinians, wound several others in occupied West Bank attacks. Drop Site reports on detained Palestinian journalist. Hamas is \u201cfully committed\u201d to Board of Peace roadmap, official says. Qatar, Turkey, and Egypt condemn Israeli attacks on Gaza. European leaders condemn Israeli settlement expansion. Turkey seeks Interpol red notice for Netanyahu over Global Sumud Flotilla attack. Three Palestinian parties in Israel revive Joint List ahead of October Knesset election. U.S. threatens countries trading with Iran with \u201ceconomic oblivion.\u201d China registers\u2026",
@@ -1542,6 +1354,84 @@
    ]
   },
   {
+   "id": "bb3f55a467",
+   "topic": "World",
+   "summary": "Imagine, for a minute, that everyone in your neighborhood is paying your rent, and then, one day, you accuse them all of being racist bullies and move away. Imagine you accused your own family, too. You\u2019re a grown man, and you tell your brother, who\u2019s got three kids under the age of 10, that he wasn\u2019t supportive enough. You complain because your father won\u2019t let you use his credit card anymore. Back home, the neighborhood whispers that you left because your elderly grandmother\u2019s late, beloved husband was a bigot\u2014and you let everybody believe it. You\u2019re gone five years, and in that time your grandmother dies, your brother\u2019s wife has cancer, and so does your father. You have two kids. In your glamorous, expensive new community, you keep telling everyone how terrible your family treats you, how unhappy you were in your old neighborhood, and how unsafe it was. You try to start a high-flying\u2026",
+   "summaryFrom": "freepress",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 2,
+    "big": [
+     "move",
+     "imagine"
+    ],
+    "indie": []
+   },
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Harry and Meghan moving back to Britain: reports",
+   "updated": "2026-08-21T22:10:33+00:00",
+   "outletCount": 5,
+   "counts": {
+    "family": 2,
+    "corp": 1,
+    "pub": 2
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "freepress",
+     "title": "Prince Harry Said Returning to Britain Was \u2018Impossible\u2019",
+     "url": "https://www.thefp.com/p/prince-harry-meghan-markle-return-great-britain",
+     "author": "Kara Kennedy",
+     "kind": "news",
+     "published": "2026-08-21T22:10:33+00:00",
+     "summary": "Imagine, for a minute, that everyone in your neighborhood is paying your rent, and then, one day, you accuse them all of being racist bullies and move away. Imagine you accused your own family, too. You\u2019re a grown man, and you tell your brother, who\u2019s got three kids under the age of 10, that he wasn\u2019t supportive enough. You complain because your father won\u2019t let you use his credit card anymore. Back home, the neighborhood whispers that you left because your elderly grandmother\u2019s late, beloved husband was a bigot\u2014and you let everybody believe it. You\u2019re gone five years, and in that time your grandmother dies, your brother\u2019s wife has cancer, and so does your father. You have two kids. In your glamorous, expensive new community, you keep telling everyone how terrible your family treats you, how unhappy you were in your old neighborhood, and how unsafe it was. You try to start a high-flying career, but it\u2019s harder than you thought. People start laughing at you. In the beautiful place you tried to make home, people are whispering that you\u2019ve got no talent, and you don\u2019t belong. So, what do you do? You pack your bags. You announce you\u2019re coming home, to the place you rejected. This week,"
+    },
+    {
+     "outlet": "slate",
+     "title": "Harry and Meghan Are Returning to the U.K. The Timing Couldn\u2019t Be Darker.",
+     "url": "https://slate.com/life/2026/08/harry-meghan-move-uk-king-charles.html?via=rss",
+     "author": "Imogen West-Knights",
+     "kind": "news",
+     "published": "2026-08-20T21:43:02+00:00",
+     "summary": "The front page of the Daily Telegraph, which features an imagine of Harry and Meghan and the text \"Harry's Coming Home.\""
+    },
+    {
+     "outlet": "time",
+     "title": "Andy Burnham Weighs In As Prince Harry and Meghan Set For Return to U.K.",
+     "url": "https://time.com/article/2026/08/20/burnham-prince-harry-and-meghan-set-for-return-security/",
+     "author": "Callum Sutherland",
+     "kind": "news",
+     "published": "2026-08-20T16:09:00+00:00",
+     "summary": "Harry and Meghan , the Duke and Duchess of Sussex, are expected to move back to the United Kingdom later this year, after six years of living in the U.S. during a period of estrangement from the rest of the Royal family. The couple are set to move with their children, Prince Archie , 7, and Princess Lilibet , 5, to a non-royal residence that is said to be outside of London, with both children enrolled to start at a British school in September. The news was first reported by the Daily Telegraph on Wednesday, with multiple outlets since reporting similar details. The move follows years of Prince Harry arguing that the security arrangements provided for his family in the U.K. were insufficient. In May 2025, Prince Harry lost an appeal after the British government downgraded his security arrangements following his decision, along with Meghan, to step back from Royal duties in 2020. Asked on Thursday about the move and if the British government would pay for the family\u2019s security, Prime Minister Andy Burnham said the issue was \u201ca private matter\u201d and that he \u201cwishes them well in the move that they are making.\u201d King Charles III was reportedly informed of the couple\u2019s move on Sunday, and i"
+    },
+    {
+     "outlet": "dw",
+     "title": "Harry and Meghan moving back to Britain: reports",
+     "url": "https://www.dw.com/en/harry-and-meghan-moving-back-to-britain-reports/a-78438052?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T03:10:00+00:00",
+     "summary": "Prince Harry and Meghan Markle will return to the UK after living in the US for over six years, according to reports. The former senior royals will reportedly live in a private residence."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
+     "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T02:00:51+00:00",
+     "summary": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family."
+    }
+   ]
+  },
+  {
    "id": "5dcf2783f3",
    "topic": "World",
    "summary": "Like many states, Utah has a housing shortage. According to the governor's office, Utah will need to build 840,000 new homes by 2055 to keep up with demand. The recent plights of two developers at the hands of the federal government show just how hard it will be to reach that goal. About 20 years ago, Lew Swain and Brent Bailey bought an undeveloped parcel of land just outside of Willard, Utah, about an hour north of Salt Lake City. The pair gradually purchased more land around the parcel, eventually amassing 142 continuous acres that they hoped to turn into a 265-home subdivision. Willard was also keen to see housing built on the property. It gave its blessing for construction to begin, provided that Swain and Bailey pay to upgrade part of the city's water and sewage infrastructure. The two agreed, paying $650,000 to drill a well that would provide water to the subdivision and city\u2026",
@@ -1550,8 +1440,8 @@
     "bigCount": 2,
     "indieCount": 3,
     "big": [
-     "dead",
      "people",
+     "dead",
      "near"
     ],
     "indie": [
@@ -1633,8 +1523,8 @@
     "indieCount": 2,
     "big": [
      "surveillance",
-     "controversial",
      "emperor",
+     "controversial",
      "deliver"
     ],
     "indie": [
@@ -1838,6 +1728,67 @@
    ]
   },
   {
+   "id": "fc2c19b3d0",
+   "topic": "Other",
+   "summary": "The Mexican Navy rescued two fishermen on Wednesday after they spent five days adrift in the Pacific Ocean aboard a cooler. They were found alive and have been reunited with their families.",
+   "summaryFrom": "france24",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Palestinian-British girl, 6, dies days after family drowned off UK coast",
+   "updated": "2026-08-22T01:42:33+00:00",
+   "outletCount": 4,
+   "counts": {
+    "pub": 3,
+    "corp": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Palestinian-British girl, 6, dies days after family drowned off UK coast",
+     "url": "https://www.aljazeera.com/news/2026/8/22/palestinian-british-girl-6-dies-days-after-family-drowned-off-uk-coast?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T01:42:33+00:00",
+     "summary": "Saja el-Khawas's death follows that of her mother, father and sister on Tuesday, all of whom drowned."
+    },
+    {
+     "outlet": "france24",
+     "title": "Fishermen floating in cooler rescued after five days at sea off Mexican coast",
+     "url": "https://www.france24.com/en/video/20260821-fishermen-floating-in-cooler-rescued-after-five-days-at-sea-off-mexican-coast",
+     "author": "FRANCE24",
+     "kind": "news",
+     "published": "2026-08-21T13:08:30+00:00",
+     "summary": "The Mexican Navy rescued two fishermen on Wednesday after they spent five days adrift in the Pacific Ocean aboard a cooler. They were found alive and have been reunited with their families."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "WATCH: Fishermen rescued after 5 days at sea inside cooler",
+     "url": "https://abcnews.com/video/135822103/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T00:09:35+00:00",
+     "summary": "The Mexican navy rescued the men after an aircraft spotted them drifting in the Pacific."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Watch: Fishermen rescued after five days adrift in cool box",
+     "url": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-20T20:41:31+00:00",
+     "summary": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico."
+    }
+   ]
+  },
+  {
    "id": "06154fdd09",
    "topic": "Justice & Policing",
    "summary": "The Justice Department and TikTok , along with parent company ByteDance , have reached a $400 million settlement to resolve allegations of violating children's online privacy laws, per an announcement first shared with Axios. Why it matters: The Biden administration's DOJ first filed the suit in 2024. TikTok will clear the allegations it violated the Children's Online Privacy Act by paying a total of $400 million, without undergoing further litigation or admitting wrongdoing. Since the lawsuit was filed, \"TikTok has undergone significant changes to its ownership, management, compliance functions, and privacy practices,\" per the DOJ release. The settlement is one of the largest recoveries ever obtained in a case under the privacy law, the DOJ release states. What they're saying: \"This settlement is a major victory for American children and parents,\" associate attorney general Stanley\u2026",
@@ -1895,67 +1846,6 @@
      "kind": "news",
      "published": "2026-08-21T19:30:04+00:00",
      "summary": "The Justice Department and TikTok , along with parent company ByteDance , have reached a $400 million settlement to resolve allegations of violating children's online privacy laws, per an announcement first shared with Axios. Why it matters: The Biden administration's DOJ first filed the suit in 2024. TikTok will clear the allegations it violated the Children's Online Privacy Act by paying a total of $400 million, without undergoing further litigation or admitting wrongdoing. Since the lawsuit was filed, \"TikTok has undergone significant changes to its ownership, management, compliance functions, and privacy practices,\" per the DOJ release. The settlement is one of the largest recoveries ever obtained in a case under the privacy law, the DOJ release states. What they're saying: \"This settlement is a major victory for American children and parents,\" associate attorney general Stanley Woodward said in the release. \"The Department's priority is ensuring that children are protected online and that companies entrusted with their personal information meet their legal obligations. This resolution secures a substantial recovery while reinforcing the protections that families expect and des"
-    }
-   ]
-  },
-  {
-   "id": "a69e69ec26",
-   "topic": "Other",
-   "summary": "The attack took place at the Brinell School in the city of Fagersta, northwest of the capital, Stockholm, while classes were in session, with about 400 to 500 students, officials said.",
-   "summaryFrom": "pbsnewshour",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "coop"
-   ],
-   "headline": "One killed, three wounded in sword attack at Swedish high school",
-   "updated": "2026-08-21T21:23:35+00:00",
-   "outletCount": 4,
-   "counts": {
-    "pub": 3,
-    "nonprofit": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "One killed, three wounded in sword attack at Swedish high school",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T21:23:35+00:00",
-     "summary": "One person has been killed and three others wounded in an attack by a sword-wielding man at a Swedish high school."
-    },
-    {
-     "outlet": "bbc",
-     "title": "One killed in sword attack at Swedish school",
-     "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T21:03:24+00:00",
-     "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested."
-    },
-    {
-     "outlet": "dw",
-     "title": "Sweden: One killed in school sword attack",
-     "url": "https://www.dw.com/en/sweden-one-killed-in-school-sword-attack/a-78460421?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T19:47:00+00:00",
-     "summary": "Police have said they have arrested an individual who stabbed several people, killing one person, with a sword at a high school in central Sweden."
-    },
-    {
-     "outlet": "pbsnewshour",
-     "title": "18-year-old with a sword attacks a school in Sweden, leaving 1 dead",
-     "url": "https://www.pbs.org/newshour/world/attacker-with-sword-wounds-several-people-at-school-in-central-sweden",
-     "author": "Jamey Keaten, Associated Press",
-     "kind": "news",
-     "published": "2026-08-21T17:03:43+00:00",
-     "summary": "The attack took place at the Brinell School in the city of Fagersta, northwest of the capital, Stockholm, while classes were in session, with about 400 to 500 students, officials said."
     }
    ]
   },
@@ -2090,13 +1980,13 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "ordered",
-     "million"
+     "million",
+     "ordered"
     ],
     "indie": [
-     "case",
      "lost",
-     "libel"
+     "libel",
+     "case"
     ]
    },
    "people": [],
@@ -2580,110 +2470,6 @@
    ]
   },
   {
-   "id": "368ebede8a",
-   "topic": "Other",
-   "summary": "The U.S. national debt this week topped $40 trillion, raising fresh concerns about how rising federal borrowing could affect Americans' finances. Why it matters: Americans don't personally owe the national debt, but rising debt could pressure lawmakers to raise taxes, cut spending or change federal benefits. State of play: The gross federal debt hit $40 trillion for the first time on Wednesday. That figure includes debt the government owes itself. Economists usually focus on the roughly $32 trillion held by the public when assessing how debt affects the economy. President Trump's tax-and-spending law is projected to add trillions to federal deficits over the next decade, while the White House has sought tens of billions of dollars in additional funding tied to the Iran war. Loans can get more expensive Higher national debt could make mortgages, student loans and small-business borrowing\u2026",
-   "summaryFrom": "axios",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "US debt tops $40 trillion, Americans left with the bill",
-   "updated": "2026-08-21T23:19:48+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 1,
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "aljazeera",
-     "title": "US debt tops $40 trillion, Americans left with the bill",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/us-debt-tops-40-trillion-americans-left-with-the-bill-3?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T23:19:48+00:00",
-     "summary": "The US national debt has officially surpassed $40 trillion for the first time in history, and it\u2019s growing fast."
-    },
-    {
-     "outlet": "axios",
-     "title": "Here's how America's $40 trillion debt can hit your wallet",
-     "url": "https://www.axios.com/2026/08/20/us-40-trillion-dollars-national-debt-costs-interests",
-     "author": "Herb Scribner",
-     "kind": "news",
-     "published": "2026-08-20T22:56:30+00:00",
-     "summary": "The U.S. national debt this week topped $40 trillion, raising fresh concerns about how rising federal borrowing could affect Americans' finances. Why it matters: Americans don't personally owe the national debt, but rising debt could pressure lawmakers to raise taxes, cut spending or change federal benefits. State of play: The gross federal debt hit $40 trillion for the first time on Wednesday. That figure includes debt the government owes itself. Economists usually focus on the roughly $32 trillion held by the public when assessing how debt affects the economy. President Trump's tax-and-spending law is projected to add trillions to federal deficits over the next decade, while the White House has sought tens of billions of dollars in additional funding tied to the Iran war. Loans can get more expensive Higher national debt could make mortgages, student loans and small-business borrowing more expensive by putting upward pressure on interest rates, according to a new report from the Conference Board, a nonprofit think tank. The big picture: As U.S. debt grows, investors could demand higher yields if they become less confident in the government's fiscal position. \"If investors begin t"
-    },
-    {
-     "outlet": "semafor",
-     "title": "US debt tops $40 trillion threshold",
-     "url": "https://www.semafor.com/article/08/20/2026/us-debt-tops-40-trillion-threshold",
-     "author": "Prashant Rao",
-     "kind": "news",
-     "published": "2026-08-20T13:42:12+00:00",
-     "summary": "The Trump administration sought to lower interest rates with rhetoric and repurchases, as Washington\u2019s debt crossed a significant milestone. US President Donald Trump reiterated criticism of the Federal Reserve , pressing for it to cut rates, while the Treasury said it would increase purchases of long-dated bonds to contain borrowing costs. But banks including Barclays, ING, and Goldman Sachs forecast rates would stay unchanged at least through this year; traders are betting on an 80% likelihood of a hike over the next year . The bond buyback, meanwhile, risked a credibility crisis \u201c absent real fiscal consolidation ,\u201d JP Morgan economists wrote in a note to clients. That call came as US government debt topped the $40 trillion threshold for the first time . \u2014 Prashant Rao"
-    }
-   ]
-  },
-  {
-   "id": "4d125d4683",
-   "topic": "Tech",
-   "summary": "The US Justice Department sued TikTok in 2024 over allegations that it violated children's online privacy laws. The settlement is believed to be one of the largest ever over the issue.",
-   "summaryFrom": "dw",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "TikTok agrees to pay $400m to settle US children's privacy case",
-   "updated": "2026-08-21T23:13:00+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 3
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "TikTok agrees to pay $400m to settle US children's privacy case",
-     "url": "https://www.dw.com/en/tiktok-agrees-to-pay-400m-to-settle-us-children-s-privacy-case/a-78466204?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T23:13:00+00:00",
-     "summary": "The US Justice Department sued TikTok in 2024 over allegations that it violated children's online privacy laws. The settlement is believed to be one of the largest ever over the issue."
-    },
-    {
-     "outlet": "bbc",
-     "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-     "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T22:36:12+00:00",
-     "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13."
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "TikTok settles with US Justice Department for $400m over child privacy laws",
-     "url": "https://www.aljazeera.com/economy/2026/8/21/tiktok-settles-with-us-justice-department-for-400m-over-child-privacy-laws?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T21:59:29+00:00",
-     "summary": "TikTok and the US government settled to resolve allegations that the app violated children's online privacy laws."
-    }
-   ]
-  },
-  {
    "id": "5180225c5e",
    "topic": "Politics",
    "summary": "President Donald Trump announced that the Department of Justice's (DOJ) pardon attorney, Ed Martin, was leaving to \"fight Legal Battles for the upcoming Midterm Election,\" along with the 2028 presidential election. The post Trump: DOJ\u2019s Ed Martin Leaving Trump Admin to \u2018Fight Legal Battles\u2019 for Midterm Election, 2028 Presidential Election appeared first on Breitbart .",
@@ -2953,6 +2739,58 @@
    ]
   },
   {
+   "id": "db8cf37803",
+   "topic": "Other",
+   "summary": "The attack took place at the Brinell School in the city of Fagersta, northwest of the capital, Stockholm, while classes were in session, with about 400 to 500 students, officials said.",
+   "summaryFrom": "pbsnewshour",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop"
+   ],
+   "headline": "One killed in sword attack at Swedish school",
+   "updated": "2026-08-21T21:03:24+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 2,
+    "nonprofit": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "One killed in sword attack at Swedish school",
+     "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T21:03:24+00:00",
+     "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested."
+    },
+    {
+     "outlet": "dw",
+     "title": "Sweden: One killed in school sword attack",
+     "url": "https://www.dw.com/en/sweden-one-killed-in-school-sword-attack/a-78460421?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T19:47:00+00:00",
+     "summary": "Police have said they have arrested an individual who stabbed several people, killing one person, with a sword at a high school in central Sweden."
+    },
+    {
+     "outlet": "pbsnewshour",
+     "title": "18-year-old with a sword attacks a school in Sweden, leaving 1 dead",
+     "url": "https://www.pbs.org/newshour/world/attacker-with-sword-wounds-several-people-at-school-in-central-sweden",
+     "author": "Jamey Keaten, Associated Press",
+     "kind": "news",
+     "published": "2026-08-21T17:03:43+00:00",
+     "summary": "The attack took place at the Brinell School in the city of Fagersta, northwest of the capital, Stockholm, while classes were in session, with about 400 to 500 students, officials said."
+    }
+   ]
+  },
+  {
    "id": "7e619f834f",
    "topic": "Business & Economy",
    "summary": "President Donald Trump takes a question from reporters during an event in the Oval Office of the White House in Washington, D.C., on Aug. 10, 2026. \u2014Anna Moneymaker\u2014Getty Images President Donald Trump announced on Friday that he has coordinated a new deal to lower beef prices in the U.S. \u201cToday, I concluded a deal to substantially lower the price of ground beef for working American families,\u201d he said in a Truth Social post . \u201cFor the next 90 days, the United States will allow up to 300,000 metric tons of product for ground beef to be imported with no out of quota tariff. We have a commitment that this beef will be sold at 25 percent below current market prices.\u201d \u201cThis deal will reduce prices for Americans while giving space for our Great American Beef Herd to grow again,\u201d he continued. An \u201cout of quota tariff\u201d is a higher tariff that is triggered if the amount of a product imported into\u2026",
@@ -3109,58 +2947,6 @@
    ]
   },
   {
-   "id": "971c3469b4",
-   "topic": "Tech",
-   "summary": "Walmart announced Friday that some of its stores and Sam's Club locations will add tap-to-pay options in the U.S. beginning Monday. Why it matters: Tap-to-pay has eluded Walmart customers, who instead had to rely on the company's Walmart Pay system, which required scanning QR codes at checkout. What they're saying: \"We want customers and members to have choice in how they pay, so they can check out in the way that works best for them,\" Walmart said in a press release. \"It all comes back to giving customers and members more choice and making everyday shopping a little easier \u2014 from how they manage their money to how they pay at checkout.\" Context: The company plans to roll it out to all stores and clubs by year-end. Walmart says all Walmart and Sam's Club fuel stations are expected to have it by mid-2027. The big picture: Walmart has been one of the few stores to avoid using the payment\u2026",
-   "summaryFrom": "axios",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Walmart adding Apple Pay, other tap-to-pay options",
-   "updated": "2026-08-21T17:03:13+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 3
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "axios",
-     "title": "Walmart adding Apple Pay, other tap-to-pay options",
-     "url": "https://www.axios.com/2026/08/21/walmart-tap-apple-pay-options",
-     "author": "Herb Scribner",
-     "kind": "news",
-     "published": "2026-08-21T17:03:13+00:00",
-     "summary": "Walmart announced Friday that some of its stores and Sam's Club locations will add tap-to-pay options in the U.S. beginning Monday. Why it matters: Tap-to-pay has eluded Walmart customers, who instead had to rely on the company's Walmart Pay system, which required scanning QR codes at checkout. What they're saying: \"We want customers and members to have choice in how they pay, so they can check out in the way that works best for them,\" Walmart said in a press release. \"It all comes back to giving customers and members more choice and making everyday shopping a little easier \u2014 from how they manage their money to how they pay at checkout.\" Context: The company plans to roll it out to all stores and clubs by year-end. Walmart says all Walmart and Sam's Club fuel stations are expected to have it by mid-2027. The big picture: Walmart has been one of the few stores to avoid using the payment technology, promoting its own options such as Walmart Pay or Scan-and-Go at Sam's Club stores. Walmart customers have been clamoring for Apple Pay, which is available in 85% of all retailers , and tap options for years. Flashback: Walmart previously teamed up with other stores to tackle the Apple Pay"
-    },
-    {
-     "outlet": "theverge",
-     "title": "Walmart is finally adding Apple Pay and Google Pay",
-     "url": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
-     "author": "Emma Roth",
-     "kind": "news",
-     "published": "2026-08-21T17:01:59+00:00",
-     "summary": "Walmart will soon allow you to pay for your items with Google Pay or Apple Pay. In an announcement on Friday , Walmart says it's going to bring tap-to-pay capabilities to \"select\" Walmart and Sam's Club locations starting August 24th, before rolling out support to all US stores by the end of 2026 and gas stations by mid-2027. This launch has been a long time coming, as Walmart was one of the last major retailers not to support Apple Pay or Google Pay. The retail giant even backed the launch of the short-lived CurrentC mobile payment service before rolling out Walmart Pay in 2016 , which lets you quickly check out with a QR code at its stores. \u2026 Read the full story at The Verge."
-    },
-    {
-     "outlet": "businessinsider",
-     "title": "Walmart is giving shoppers something they've wanted for years: Apple Pay",
-     "url": "https://www.businessinsider.com/walmart-start-accepting-tap-pay-options-stores-clubs-apple-google-2026-8",
-     "author": "Dominick Reuter (dreuter@businessinsider.com)",
-     "kind": "news",
-     "published": "2026-08-21T15:32:55+00:00",
-     "summary": "Walmart is adding more contactless payment options to its checkout stations. Lindsey Nicholson/UCG/Universal Images Group via Getty Images Walmart said it is adding tap-to-pay to its checkout stations starting this week. The tech enables customers to use contactless payment cards, as well as Apple Pay and Google Pay. The company was a long holdout to the tech that has been widely adopted by its retail competitors. Walmart shoppers can now worry less about forgetting their wallets in the car. The company said Friday that it will begin adding tap-to-pay options to its checkout stations at US stores and Sam's Club warehouses, starting August 24 through the remainder of the year. Fuel stations will be upgraded by mid-2027. This means that shoppers can now use their \"eligible contactless card, phone, or smartwatch,\" and a spokesperson confirmed this includes options like Apple Pay and Google Pay. Walmart has long been a holdout to NFC-based payments, opting instead for its proprietary Walmart Pay app and Scan and Go app features for contactless payments. The issue went viral last year when YouTuber MrBeast was flummoxed by the lack of a tap option. \"Younger consumers in particular are s"
-    }
-   ]
-  },
-  {
    "id": "e2052c77b8",
    "topic": "Other",
    "summary": "A very interesting piece in the Chronicle of Higher Education . Here are two brief excerpts, but they can't do justice to the whole piece, which covers much more ground: {[W]hen a mainstream journalist [investigated Arday], he was threatened with lawsuits , visited by the police , and subsequently instructed by his editors to bury the story\u2014and he sheepishly complied. Arday was exposed by a \"race realist\" Substack writer because reporters wouldn't cover the story until after it had already become common knowledge . It seems to defeat the purpose of the journalistic profession to tell people what they've already learned by other means, but that was the position U.K. media outlets and journalists took: radio silence until \"others\" started the conversation. And, somehow, the main lesson many seem to be taking from the way things played out is that we need even more media censorship\u2026",
@@ -3313,6 +3099,178 @@
      "kind": "news",
      "published": "2026-08-20T16:01:39+00:00",
      "summary": "It took Israel more than two and a half years to admit to what the world already knew: Israeli soldiers fired at the vehicle of Hind Rajab and her family. The admission comes after years of denials that were accepted with full embrace by U.S. State Department officials. There are very few journalists here in the U.S. who tried to hold those officials to account in the way Zeteo\u2019s political correspondent Prem Thakker did . Subscribe now \u201cAll the U.S. did was feign concern, defer to Israel to investigate itself for murder, and resist the facts over and over,\u201d says Thakker in his latest video on the case of Hind Rajab. The 5-year-old\u2019s harrowing story drew international outrage after her phone call recording with the Palestinian Red Crescent captured her final hours, sheltering from Israeli gunfire in a car with the bodies of her dead relatives around her. The Israeli army also killed the medics who were sent to save her. It took Israel 933 days to admit to a killing that went viral beyond headlines, one that inspired the Oscar-nominated film \u2018 The Voice of Hind Rajab ,\u2019 and in which the victim\u2019s testimony was caught on tape. Watch Prem reflect on what the admission means for Hind, an"
+    }
+   ]
+  },
+  {
+   "id": "48ed0e44c6",
+   "topic": "Business & Economy",
+   "summary": "US-Canada trade talks fell apart at the last minute, with fresh 50% tariffs on billions of dollars of Canadian goods taking effect and Prime Minister Mark Carney promising to retaliate.",
+   "summaryFrom": "bloomberg",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "How will Trump\u2019s tariffs affect Canada\u2019s economy?",
+   "updated": "2026-08-22T08:01:55+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "How will Trump\u2019s tariffs affect Canada\u2019s economy?",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T08:01:55+00:00",
+     "summary": "US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikely to cripple Canada's economy."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "US Hits Canada With 50% Tariffs and Carney Vows to Retaliate",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-22/us-canada-trade-talks-collapse-triggering-trump-s-50-tariffs",
+     "author": "Josh Wingrove, Alicia Diaz and Thomas Seal",
+     "kind": "news",
+     "published": "2026-08-22T03:37:06+00:00",
+     "summary": "US-Canada trade talks fell apart at the last minute, with fresh 50% tariffs on billions of dollars of Canadian goods taking effect and Prime Minister Mark Carney promising to retaliate."
+    }
+   ]
+  },
+  {
+   "id": "82a4d59688",
+   "topic": "Climate & Energy",
+   "summary": "Panama Canal will cut daily transits of ships from September because of low rainfall and amid an intensifying El Nino event.",
+   "summaryFrom": "dw",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Panama Canal to reduce shipping as \u2018extreme\u2019 El Nino approaches",
+   "updated": "2026-08-22T08:00:30+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Panama Canal to reduce shipping as \u2018extreme\u2019 El Nino approaches",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T08:00:30+00:00",
+     "summary": "Panama Canal will cut daily transits from 40 to 32 vessels by September 15, risking slower shipping and higher costs."
+    },
+    {
+     "outlet": "dw",
+     "title": "Panama Canal to cap ship transits due to El Nino drought",
+     "url": "https://www.dw.com/en/panama-canal-to-cap-ship-transits-due-to-el-nino-drought/a-78453054?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T12:31:00+00:00",
+     "summary": "Panama Canal will cut daily transits of ships from September because of low rainfall and amid an intensifying El Nino event."
+    }
+   ]
+  },
+  {
+   "id": "45e7ea28b8",
+   "topic": "Politics",
+   "summary": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed. (Image credit: Hadi Mizban)",
+   "summaryFrom": "npr",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
+   "updated": "2026-08-22T07:46:38+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Trump says Iran \"not ready to make the right deal\" as U.S. turns to economic warfare",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-economic-crackdown/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T07:46:38+00:00",
+     "summary": "As Vice President JD Vance declares economic pressure \"the most effective tool that we have,\" Iran seeks to show deepening trade ties with its neighbors."
+    },
+    {
+     "outlet": "npr",
+     "title": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
+     "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
+     "author": "NPR Staff",
+     "kind": "news",
+     "published": "2026-08-21T11:42:10+00:00",
+     "summary": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed. (Image credit: Hadi Mizban)"
+    }
+   ]
+  },
+  {
+   "id": "0517f5a761",
+   "topic": "Culture & Sport",
+   "summary": "Inter Miami star Lionel Messi scored yet another goal, but that wasn't the headline. Read what happened here.",
+   "summaryFrom": "newsweek",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Lionel Messi fined for striking opponent in Inter Miami MLS game",
+   "updated": "2026-08-22T07:41:21+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "corp": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "Lionel Messi fined for striking opponent in Inter Miami MLS game",
+     "url": "https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T07:41:21+00:00",
+     "summary": "MLS fine Inter Miami's Lionel Messi and Ian Fray for separate incidents in match against Philadelphia Union."
+    },
+    {
+     "outlet": "newsweek",
+     "title": "Lionel Messi Punished by MLS for Actions During Inter Miami Match",
+     "url": "https://www.newsweek.com/sports/lionel-messi-punished-by-mls-for-actions-during-inter-miami-match-12355188",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T02:28:24+00:00",
+     "summary": "Inter Miami star Lionel Messi scored yet another goal, but that wasn't the headline. Read what happened here."
     }
    ]
   },
@@ -3537,49 +3495,6 @@
      "kind": "news",
      "published": "2026-08-21T22:11:09+00:00",
      "summary": "Police say that college soccer player Karoline Heintz was stabbed to death by her boyfriend and his mother helped him dump the victim's body. The post College Soccer Player Reportedly Murdered by Boyfriend Who Blamed \u2018Demon\u2019; Mother Accused of Helping Dump Body appeared first on Breitbart ."
-    }
-   ]
-  },
-  {
-   "id": "45e7ea28b8",
-   "topic": "Politics",
-   "summary": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed. (Image credit: Hadi Mizban)",
-   "summaryFrom": "npr",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
-   "updated": "2026-08-22T05:16:27+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Trump says Iran \"not ready to make the right deal\" as U.S. turns to economic warfare",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-economic-crackdown/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T05:16:27+00:00",
-     "summary": "As Vice President JD Vance declares economic pressure \"the most effective tool that we have,\" Iran seeks to show deepening trade ties with its neighbors."
-    },
-    {
-     "outlet": "npr",
-     "title": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
-     "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
-     "author": "NPR Staff",
-     "kind": "news",
-     "published": "2026-08-21T11:42:10+00:00",
-     "summary": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed. (Image credit: Hadi Mizban)"
     }
    ]
   },
@@ -3967,6 +3882,49 @@
      "kind": "news",
      "published": "2026-08-20T18:35:42+00:00",
      "summary": "Transportation Secretary Sean Duffy; Interior Secretary Doug Burgum; Washington, D.C., Mayor Muriel Bowser; and Monica Crowley, chief of protocol at the State Department, unveil the new Freedom 250 Grand Prix Indycar during a news conference on the National Mall in Washington, D.C., on March 9, 2026. \u2014Matt McClain\u2014Bloomberg/Getty Images A slice of the nation\u2019s capital will be transformed into a race track over the weekend for President Donald Trump \u2019s final event commemorating the U.S.\u2019s 250th birthday . An IndyCar race consisting of 25 drivers will take place around the National Mall in the heart of Washington, D.C., on Saturday and Sunday. IndyCar is the top level of single-seater auto racing in the U.S., best known for the \u201cIndy 500,\u201d an annual 500 mile race in Indianapolis. \"This will be like no other race ever. This will get the highest ever ratings of any such race,\" Trump said in July, when the top IndyCar drivers participating in the race visited the White House. Trump himself is scheduled to take a ride around the 1.7 mile race track in his presidential limousine, known as \u201cThe Beast\u201d before the competition begins, White House officials told multiple outlets . The event is"
+    }
+   ]
+  },
+  {
+   "id": "f324d03385",
+   "topic": "Politics",
+   "summary": "It\u2019s Thursday, August 20. This is The Front Page , your daily window into the world of The Free Press \u2014and our take on the world at large. Today: Anthropic\u2019s economics chief on the AI jobs apocalypse that isn\u2019t\u2014and when that might change. Vinay Prasad reads Anthony Fauci\u2019s diaries. A Democratic upset in Florida. And much more. But first: Alexandria Ocasio-Cortez for president? The political story of the year so far is the rise of the far left: New York City has a socialist mayor; in primaries across the country, candidates backed by the Democratic Socialists of America (DSA) have toppled moderates (scroll down for more on the latest upset); and Alexandria Ocasio-Cortez has emerged as a (way too) early front-runner in the race for the 2028 presidential election. In fact, according to prediction markets, she is, as of last week, the front-runner. AOC hasn\u2019t said whether she\u2019ll run, but\u2026",
+   "summaryFrom": "freepress",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "President AOC, Senator Chi Oss\u00e9 ?",
+   "updated": "2026-08-21T23:50:28+00:00",
+   "outletCount": 2,
+   "counts": {
+    "coop": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "hellgate",
+     "title": "President AOC, Senator Chi Oss\u00e9 ?",
+     "url": "https://hellgatenyc.com/president-aoc-senator-chi-osse/",
+     "author": "Hell Gate",
+     "kind": "news",
+     "published": "2026-08-21T23:50:28+00:00",
+     "summary": "Editor Holly Pretsky dove into NYC-DSA\u2019s caucuses and found rumblings of a 2028 where charismatic DSA members might try their hand at higher office. Editor Christopher Robbins updated us on the state of gambling in New York\u2014from prediction markets to \"dead facades.\" Start placing your Kalshi bets now. Then, Jessy Edwards on ICE getting sued by the septuagenarian they maced\u2014And finally Alisha Allison, our intern, looks back on the summer she turned Hell Gate."
+    },
+    {
+     "outlet": "freepress",
+     "title": "AOC for President? Plus. . .",
+     "url": "https://www.thefp.com/p/aoc-for-president-plus",
+     "author": "The Free Press",
+     "kind": "news",
+     "published": "2026-08-20T10:04:07+00:00",
+     "summary": "It\u2019s Thursday, August 20. This is The Front Page , your daily window into the world of The Free Press \u2014and our take on the world at large. Today: Anthropic\u2019s economics chief on the AI jobs apocalypse that isn\u2019t\u2014and when that might change. Vinay Prasad reads Anthony Fauci\u2019s diaries. A Democratic upset in Florida. And much more. But first: Alexandria Ocasio-Cortez for president? The political story of the year so far is the rise of the far left: New York City has a socialist mayor; in primaries across the country, candidates backed by the Democratic Socialists of America (DSA) have toppled moderates (scroll down for more on the latest upset); and Alexandria Ocasio-Cortez has emerged as a (way too) early front-runner in the race for the 2028 presidential election. In fact, according to prediction markets, she is, as of last week, the front-runner. AOC hasn\u2019t said whether she\u2019ll run, but her emergence as a genuine presidential contender is a sign of the times. Which is why we asked eagle-eyed Washington watcher Mark Halperin to assess her chances. Will she run? Could she win? Read Mark\u2019s analysis to find out. \u2014Oliver Wiseman MORE FROM THE FREE PRESS THE NEWS President Trump pulled back"
     }
    ]
   }
