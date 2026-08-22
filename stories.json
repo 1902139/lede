@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-22T04:51:14.806901+00:00",
+ "generated": "2026-08-22T05:43:52.319909+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -190,6 +190,153 @@
    ]
   },
   {
+   "id": "56d3bb758f",
+   "topic": "Politics",
+   "summary": "Trade talks between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect. Why it matters: It's an unprecedented breakdown in relations with the second-largest U.S. trading partner. Catch up quick: Trump last month threatened to invoke Section 338 of the Tariff Act of 1930 to hit a slew of Canadian goods with additional 50% duties, including alcohol, hockey equipment, cement and dairy products. No president has ever used Section 338 to impose tariffs since it became law in 1930. The tariffs were scheduled to take effect at 12:01 a.m. ET Wednesday. The administration carved out key Canadian exports, including energy, potash and critical minerals, from the new tariffs. On Tuesday, Trump postponed the tariffs for three days, saying the two sides had a deal. Driving the news: They did not. U.S. Trade Representative Jamieson Greer said\u2026",
+   "summaryFrom": "axios",
+   "emphasis": {
+    "bigCount": 8,
+    "indieCount": 4,
+    "big": [
+     "collapse",
+     "tariff",
+     "goods",
+     "late",
+     "including",
+     "fell"
+    ],
+    "indie": [
+     "dollar'"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "coop"
+   ],
+   "headline": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+   "updated": "2026-08-22T05:13:58+00:00",
+   "outletCount": 9,
+   "counts": {
+    "family": 5,
+    "corp": 3,
+    "pub": 2,
+    "nonprofit": 2
+   },
+   "newsCount": 12,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "Canada-U.S. Trade War Escalates as Talks Collapse",
+     "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
+     "author": "Matina Stevis-Gridneff, Ian Austen and Ana Swanson",
+     "kind": "news",
+     "published": "2026-08-22T05:13:58+00:00",
+     "summary": "Intense negotiations to stave off new levies by the Trump administration ended in an impasse as Mark Carney suspended talks. U.S. tariffs on Canada, and retaliatory tariffs on the U.S., will come into effect."
+    },
+    {
+     "outlet": "axios",
+     "title": "U.S.-Canada trade talks collapse, massive tariffs to take effect",
+     "url": "https://www.axios.com/2026/08/22/us-canada-tariffs-trade-trump-carney",
+     "author": "Courtenay Brown",
+     "kind": "news",
+     "published": "2026-08-22T04:50:24+00:00",
+     "summary": "Trade talks between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect. Why it matters: It's an unprecedented breakdown in relations with the second-largest U.S. trading partner. Catch up quick: Trump last month threatened to invoke Section 338 of the Tariff Act of 1930 to hit a slew of Canadian goods with additional 50% duties, including alcohol, hockey equipment, cement and dairy products. No president has ever used Section 338 to impose tariffs since it became law in 1930. The tariffs were scheduled to take effect at 12:01 a.m. ET Wednesday. The administration carved out key Canadian exports, including energy, potash and critical minerals, from the new tariffs. On Tuesday, Trump postponed the tariffs for three days, saying the two sides had a deal. Driving the news: They did not. U.S. Trade Representative Jamieson Greer said late Friday that Canada had made last-minute demands that upset the pact, Bloomberg reported . Canadian Prime Minister Mark Carney, in a statement posted to X, alleged it was the U.S. that had made late changes to the terms, and said he had decided to suspend the negotiations. Friction point: \"Canada w"
+    },
+    {
+     "outlet": "bbc",
+     "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+     "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T04:46:33+00:00",
+     "summary": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump's 50% tariffs take effect after US, Canada fail to reach trade deal",
+     "url": "https://abcnews.com/Business/trumps-proposed-tariffs-canada-hurtle-deadline-amid-trade/story?id=135833861",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T04:33:10+00:00",
+     "summary": "The tariffs are set to take effect early Saturday morning, after Trump extended a previous deadline by three days."
+    },
+    {
+     "outlet": "france24",
+     "title": "Carney says Canada will match US tariffs 'dollar for dollar' after failed trade negotiations",
+     "url": "https://www.france24.com/en/americas/20260822-carney-says-canada-will-match-us-tariffs-dollar-for-dollar-after-failed-trade-negotiations",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-22T04:29:13+00:00",
+     "summary": "Canadian Prime Minister Mark Carney vowed that his country will match the US tariffs \"dollar for dollar to protect our workers and businesses\", after hefty US tariffs on some Canadian products took effect on Saturday following days of failed negotiations."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Canada vows to match Trump\u2019s 50% tariffs after trade deal talks fail",
+     "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+     "author": "Guardian staff and agencies",
+     "kind": "news",
+     "published": "2026-08-22T04:23:38+00:00",
+     "summary": "Mark Carney accuses Washington of \u2018unfair\u2019 last-minute changes to deal, as US and Canada fail to reach agreement after three-day extension of talks Canadian prime minister Mark Carney has promised to match US tariffs \u201cdollar for dollar\u201d, after the two sides failed to agree a trade deal by the deadline of midnight on Friday. Canadian officials had worked hard in good faith but \u201clast-minute changes in the US proposed terms were unfair, uneconomic and called into question the reliability of any deal\u201d, Carney said in a statement. Continue reading..."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "U.S. set to impose 50% tariffs on Canada after failed talks; Canada to match them",
+     "url": "https://www.cbsnews.com/news/u-s-set-to-impose-50-percent-tariffs-on-canada-after-failed-talks/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T04:06:00+00:00",
+     "summary": "The U.S. was set to impose 50% tariffs on $20 billion worth of Canadian products early Saturday. Canadian Prime Minister Mark Carney countered that Canada would match them \"dollar for dollar.\""
+    },
+    {
+     "outlet": "nypost",
+     "title": "Trump\u2019s 50% tariffs on Canada take effect after last-minute talks fail",
+     "url": "https://nypost.com/2026/08/22/us-news/trumps-50-tariffs-on-canada-take-effect-after-last-minute-talks-fail/",
+     "author": "Victor Nava",
+     "kind": "news",
+     "published": "2026-08-22T04:05:02+00:00",
+     "summary": "The 50% tariff will apply to some $20 billion worth of Canadian products, including wine, hockey sticks, and cement."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "US Hits Canada With 50% Tariffs and Carney Vows to Retaliate",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-22/us-canada-trade-talks-collapse-triggering-trump-s-50-tariffs",
+     "author": "Josh Wingrove, Alicia Diaz and Thomas Seal",
+     "kind": "news",
+     "published": "2026-08-22T03:37:06+00:00",
+     "summary": "US-Canada trade talks fell apart at the last minute, with fresh 50% tariffs on billions of dollars of Canadian goods taking effect and Prime Minister Mark Carney promising to retaliate."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Canada Nears Trump Trade Deal | Balance of Power 8/21/2026",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-21/balance-of-power-8-21-2026-video",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T23:00:21+00:00",
+     "summary": "\"Balance of Power: Late Edition\" focuses on the intersection of politics and global business. On today's show, Canada's former Minister of International Trade Mary Ng, former National Security Advisor to President Trump John Bolton, CSIS Senior Nonresident Scholar Clayton Seigle, Rebelle Communications Founder & CEO Laura Fink, and Stonecourt Capital LP Rick Davis. (Source: Bloomberg)"
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Lula Calls Trump to Resume Talks Over US Tariffs on Brazil",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-21/lula-calls-trump-to-seek-renewed-talks-over-us-tariffs-on-brazil",
+     "author": "Simone Iglesias",
+     "kind": "news",
+     "published": "2026-08-21T16:54:52+00:00",
+     "summary": "President Luiz In\u00e1cio Lula da Silva urged Donald Trump to resume negotiations over US tariffs on Brazil during a Friday phone call, seeking to soothe relations with Washington ahead of the country\u2019s October election."
+    },
+    {
+     "outlet": "guardian",
+     "title": "JD Vance reportedly mocks Carney for trying to \u2018out-tough\u2019 Trump on trade",
+     "url": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
+     "author": "Olivia Bowden in Toronto",
+     "kind": "news",
+     "published": "2026-08-21T15:22:48+00:00",
+     "summary": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-president, JD Vance, mocking Canada for apparently capitulating in a trade deal and taunting the prime minister, Mark Carney, for trying to \u201cout-tough\u201d Donald Trump. The recording, which was reportedly made at a fundraiser and shared with the Canadian Press , comes in the last stretch of a difficult negotiation in which the US president has threatened to impose 50% tariffs on Canada. Continue reading..."
+    }
+   ]
+  },
+  {
    "id": "ef90d5f1e6",
    "topic": "Politics",
    "summary": "President Donald Trump returned to the campaign trail Friday to help save the candidacy of Sen. Darline Graham after a major debate gaffe raised questions about her readiness to replace her late brother and the wisdom of his endorsement. Speaking at a rally in Myrtle Beach, South Carolina, days before a Senate runoff featuring Graham and Rep. Ralph Norman, Trump urged voters to support the sister of his ally Lindsay Graham, the longtime foreign policy hawk who died last month. \u201cWe're going to elect Senator Darline Graham to fight, fight, fight for South Carolina and to always put America first,\u201d he said. \u201cYou vote for her, you're going to be very proud of that vote.\u201d Trump also reflected on his close friendship with Lindsey Graham, invoking the memory of the stalwart of the South Carolina GOP who represented the state in Congress for 31 years. \u201cI think Lindsey respected Darline more\u2026",
@@ -201,9 +348,9 @@
      "norman",
      "ralph",
      "ballot",
+     "beach",
      "trail",
-     "rally",
-     "support"
+     "debate"
     ],
     "indie": []
    },
@@ -299,124 +446,6 @@
    ]
   },
   {
-   "id": "56d3bb758f",
-   "topic": "World",
-   "summary": "Mark Carney accuses Washington of \u2018unfair\u2019 last-minute changes to deal, as US and Canada fail to reach agreement after three-day extension of talks Canadian prime minister Mark Carney has promised to match US tariffs \u201cdollar for dollar\u201d, after the two sides failed to agree a trade deal by the midnight deadline. \u201cLast-minute changes in the US proposed terms were unfair, uneconomic, and called into question the reliability of any deal,\u201d Carney said in a statement. Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 7,
-    "indieCount": 2,
-    "big": [
-     "effect",
-     "negotiations",
-     "saturday",
-     "early",
-     "worth",
-     "billion"
-    ],
-    "indie": []
-   },
-   "people": [],
-   "absent": [
-    "coop"
-   ],
-   "headline": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-   "updated": "2026-08-22T04:46:33+00:00",
-   "outletCount": 7,
-   "counts": {
-    "pub": 1,
-    "family": 5,
-    "corp": 2,
-    "nonprofit": 1
-   },
-   "newsCount": 9,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-     "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T04:46:33+00:00",
-     "summary": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Canada-U.S. Trade War Escalates As Talks Collapse",
-     "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
-     "author": "Matina Stevis-Gridneff, Ian Austen and Ana Swanson",
-     "kind": "news",
-     "published": "2026-08-22T04:44:34+00:00",
-     "summary": "Intense negotiations to stave off new levies by the Trump administration ended in an impasse as Mark Carney suspended talks. U.S. tariffs on Canada, and retaliatory tariffs on the U.S., will come into effect."
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump's 50% tariffs take effect after US, Canada fail to reach trade deal",
-     "url": "https://abcnews.com/Business/trumps-proposed-tariffs-canada-hurtle-deadline-amid-trade/story?id=135833861",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T04:33:10+00:00",
-     "summary": "The tariffs are set to take effect early Saturday morning, after Trump extended a previous deadline by three days."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Canada vows to match Trump\u2019s 50% tariffs after trade deal talks fail",
-     "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-     "author": "Guardian staff and agencies",
-     "kind": "news",
-     "published": "2026-08-22T04:23:38+00:00",
-     "summary": "Mark Carney accuses Washington of \u2018unfair\u2019 last-minute changes to deal, as US and Canada fail to reach agreement after three-day extension of talks Canadian prime minister Mark Carney has promised to match US tariffs \u201cdollar for dollar\u201d, after the two sides failed to agree a trade deal by the midnight deadline. \u201cLast-minute changes in the US proposed terms were unfair, uneconomic, and called into question the reliability of any deal,\u201d Carney said in a statement. Continue reading..."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "U.S. set to impose 50% tariffs on Canada after failed talks; Canada to match them",
-     "url": "https://www.cbsnews.com/news/u-s-set-to-impose-50-percent-tariffs-on-canada-after-failed-talks/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T04:06:00+00:00",
-     "summary": "The U.S. was set to impose 50% tariffs on $20 billion worth of Canadian products early Saturday. Canadian Prime Minister Mark Carney countered that Canada would match them \"dollar for dollar.\""
-    },
-    {
-     "outlet": "nypost",
-     "title": "Trump\u2019s 50% tariffs on Canada take effect after last-minute talks fail",
-     "url": "https://nypost.com/2026/08/22/us-news/trumps-50-tariffs-on-canada-take-effect-after-last-minute-talks-fail/",
-     "author": "Victor Nava",
-     "kind": "news",
-     "published": "2026-08-22T04:05:02+00:00",
-     "summary": "The 50% tariff will apply to some $20 billion worth of Canadian products, including wine, hockey sticks, and cement."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "US Tariffs on Canada Go Into Effect, Prompting Retaliation",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-22/us-canada-trade-talks-collapse-triggering-trump-s-50-tariffs",
-     "author": "Alicia Diaz, Josh Wingrove and Jennifer A. Dlouhy",
-     "kind": "news",
-     "published": "2026-08-22T03:37:06+00:00",
-     "summary": "US-Canada trade talks fell apart at the last minute, with fresh 50% tariffs on billions of dollars of Canadian goods taking effect and prompting Prime Minister Mark Carney to vow to retaliate \u201cdollar for dollar.\u201d"
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Canada Nears Trump Trade Deal | Balance of Power 8/21/2026",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-21/balance-of-power-8-21-2026-video",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T23:00:21+00:00",
-     "summary": "\"Balance of Power: Late Edition\" focuses on the intersection of politics and global business. On today's show, Canada's former Minister of International Trade Mary Ng, former National Security Advisor to President Trump John Bolton, CSIS Senior Nonresident Scholar Clayton Seigle, Rebelle Communications Founder & CEO Laura Fink, and Stonecourt Capital LP Rick Davis. (Source: Bloomberg)"
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Lula Calls Trump to Resume Talks Over US Tariffs on Brazil",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-21/lula-calls-trump-to-seek-renewed-talks-over-us-tariffs-on-brazil",
-     "author": "Simone Iglesias",
-     "kind": "news",
-     "published": "2026-08-21T16:54:52+00:00",
-     "summary": "President Luiz In\u00e1cio Lula da Silva urged Donald Trump to resume negotiations over US tariffs on Brazil during a Friday phone call, seeking to soothe relations with Washington ahead of the country\u2019s October election."
-    }
-   ]
-  },
-  {
    "id": "65b4b4c0f1",
    "topic": "Politics",
    "summary": "This blog is now closed. Read the latest here Pentagon fires publisher and editor of Stars & Stripes Backlash as navy carrier set to honor Black war hero could be named after Trump Sign up for the US Breaking News email US Senator Tim Sheehy, a Montana Republican and a cattle rancher, has come out against a plan announced Friday by Donald Trump to allow for an increase in imported ground beef. \u201dI\u2019ve advised President Trump against this course of action for a year because American ranchers have been struggling against the packer monopoly for decades, and this will further harm them - most of whom are MAGA Republicans,\u201d Sheehy wrote on X. \u201cThe President\u2019s heart is in the right place on wanting lower prices for the American people, and beef prices have been impacted by the Mexican screwworm. But the reality is this action will make it more difficult for American ranchers to rebuild our\u2026",
@@ -425,20 +454,20 @@
     "bigCount": 4,
     "indieCount": 3,
     "big": [
-     "karoline",
+     "secretary",
      "press",
      "leavitt",
+     "karoline",
      "super",
-     "secretary",
-     "maga"
+     "work"
     ],
     "indie": [
-     "american",
-     "views",
-     "hormuz",
+     "ballroom",
      "strait",
      "territory",
-     "ballroom"
+     "american",
+     "views",
+     "hormuz"
     ]
    },
    "people": [],
@@ -535,9 +564,9 @@
      "socialists",
      "florida's",
      "party",
-     "called",
+     "national",
      "democrat",
-     "national"
+     "called"
     ],
     "indie": []
    },
@@ -669,8 +698,8 @@
     "indieCount": 4,
     "big": [
      "young",
-     "arguments",
-     "closing"
+     "closing",
+     "arguments"
     ],
     "indie": []
    },
@@ -767,16 +796,16 @@
     "big": [
      "emperor",
      "controversial",
-     "images",
      "deliver",
+     "images",
      "post"
     ],
     "indie": [
-     "whose",
      "technology",
-     "backlash",
+     "whose",
      "growing",
-     "identity"
+     "identity",
+     "backlash"
     ]
    },
    "people": [],
@@ -952,9 +981,9 @@
      "east",
      "middle",
      "friday",
+     "correspondent",
      "firings",
-     "independent",
-     "correspondent"
+     "independent"
     ],
     "indie": []
    },
@@ -1042,9 +1071,9 @@
     "big": [],
     "indie": [
      "august",
-     "images",
-     "donald",
      "getty",
+     "donald",
+     "images",
      "order"
     ]
    },
@@ -1217,17 +1246,17 @@
     "indieCount": 3,
     "big": [
      "letters",
+     "close",
      "beast",
-     "daily",
-     "close"
+     "daily"
     ],
     "indie": [
-     "senator",
-     "speech",
+     "suddenly",
      "media",
-     "relationship",
-     "ossoff",
-     "spotlight"
+     "democratic",
+     "spotlight",
+     "latest",
+     "speech"
     ]
    },
    "people": [],
@@ -1337,7 +1366,7 @@
     },
     {
      "outlet": "aljazeera",
-     "title": "US imposes 50% tariffs on $20bn worth of Canadian goods after talks fail",
+     "title": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
      "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
      "author": null,
      "kind": "news",
@@ -1360,7 +1389,7 @@
      "author": null,
      "kind": "news",
      "published": "2026-08-22T01:26:00+00:00",
-     "summary": "US Trade Representative Jamieson Greer said Canada was \"continuing its retaliation against the US,\" minutes before fresh Trump tariffs were due to come into effect. Canada says the terms proposed were \"unfair.\""
+     "summary": "US Trade Representative Jamieson Greer said Canada had declined to finalize a trade deal, minutes before fresh Trump tariffs were due to take effect. Canada's Mark Carney said the terms proposed were \"unfair.\""
     },
     {
      "outlet": "guardian",
@@ -1523,8 +1552,8 @@
     "indieCount": 3,
     "big": [
      "dead",
-     "near",
-     "people"
+     "people",
+     "near"
     ],
     "indie": [
      "killed",
@@ -1677,7 +1706,7 @@
     "family"
    ],
    "headline": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
-   "updated": "2026-08-22T03:17:29+00:00",
+   "updated": "2026-08-22T05:15:58+00:00",
    "outletCount": 4,
    "counts": {
     "pub": 2,
@@ -1694,7 +1723,7 @@
      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
      "author": null,
      "kind": "news",
-     "published": "2026-08-22T03:17:29+00:00",
+     "published": "2026-08-22T05:15:58+00:00",
      "summary": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall."
     },
     {
@@ -2101,13 +2130,13 @@
     "bigCount": 2,
     "indieCount": 2,
     "big": [
-     "ordered",
-     "million"
+     "million",
+     "ordered"
     ],
     "indie": [
-     "lost",
      "case",
-     "libel"
+     "libel",
+     "lost"
     ]
    },
    "people": [],
@@ -2227,6 +2256,58 @@
    ]
   },
   {
+   "id": "5c9d2eff71",
+   "topic": "Other",
+   "summary": "The Sussexes are returning to the UK with significantly reduced media deals in an industry where fame alone can no longer guarantee success Having settled in California in the aftermath of their dramatic decoupling from the royal family in 2020, the Duke and Duchess of Sussex announced a partnership that appeared to set a clear destination for their new lives outside the House of Windsor. With every global media stable clamouring for their signature, the couple revealed a deal with Netflix reportedly worth $100m . The ambitions were lofty and broad, including scripted and unscripted projects, shows for all ages and documentaries. Continue reading...",
+   "summaryFrom": "guardian",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Is this the end of Harry and Meghan\u2019s American dream?",
+   "updated": "2026-08-22T05:00:55+00:00",
+   "outletCount": 3,
+   "counts": {
+    "nonprofit": 1,
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 1,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "guardian",
+     "title": "Is this the end of Harry and Meghan\u2019s American dream?",
+     "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
+     "author": "Michael Savage Media editor",
+     "kind": "news",
+     "published": "2026-08-22T05:00:55+00:00",
+     "summary": "The Sussexes are returning to the UK with significantly reduced media deals in an industry where fame alone can no longer guarantee success Having settled in California in the aftermath of their dramatic decoupling from the royal family in 2020, the Duke and Duchess of Sussex announced a partnership that appeared to set a clear destination for their new lives outside the House of Windsor. With every global media stable clamouring for their signature, the couple revealed a deal with Netflix reportedly worth $100m . The ambitions were lofty and broad, including scripted and unscripted projects, shows for all ages and documentaries. Continue reading..."
+    },
+    {
+     "outlet": "bbc",
+     "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+     "url": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T00:03:10+00:00",
+     "summary": "They will not be working royals when they come back. So what could they be doing instead?"
+    },
+    {
+     "outlet": "nyt",
+     "title": "\u2018They\u2019re Always Going to Be Polarizing\u2019: Britons Split on Harry and Meghan\u2019s Return",
+     "url": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-royal-return-public-opinion.html",
+     "author": "Claire Moses and Amelia Nierenberg",
+     "kind": "opinion",
+     "published": "2026-08-21T15:23:39+00:00",
+     "summary": "Recent surveys suggest the broader public views both of them negatively, especially in comparison to Harry\u2019s brother, William, and his wife, Kate."
+    }
+   ]
+  },
+  {
    "id": "3ee9cc0233",
    "topic": "Other",
    "summary": "A New York grandmother who vanished without a trace while visiting Las Vegas earlier this month has been found dead, her family announced Friday. Alisa Goods, a 63-year-old grandmother of five, was reported missing Aug. 10, two days after she was last seen leaving a friend's apartment near Maryland Parkway and Tropicana Avenue, according to her family and a missing person report obtained by KLAS-TV . Las Vegas Metropolitan Police responded early Thursday after a caller reported a \"deceased woman in a drainage ditch area near Wayne Newton Boulevard and the Terminal 1 parking garage at Harry Reid International Airport,\" according to KTNV . NEW YORK GRANDMOTHER VANISHES IN LAS VEGAS AS FAMILY GETS MYSTERIOUS TEXTS FROM HER PHONE ASKING FOR BITCOIN Officers located a woman who was later identified as Goods and pronounced dead, the outlet reported. \"Our hearts are broken. We were notified\u2026",
@@ -2275,6 +2356,58 @@
      "kind": "news",
      "published": "2026-08-21T22:34:00+00:00",
      "summary": "The body of Alisa Goods, a New York grandmother who went missing while visiting Las Vegas, has been found after more than a week, her sister told CBS News' Alice Gainer."
+    }
+   ]
+  },
+  {
+   "id": "e6d091a61f",
+   "topic": "Justice & Policing",
+   "summary": "Another summer, another high-profile trial for everyone to lose their mind over. There was Boston\u2019s Karen Read in 2024, Amber Heard and Johnny Depp\u2019s battle over who abused who worse a few years before that, and now, there\u2019s the case of Lindsay Clancy. Clancy, whose legal team says she was suffering from postpartum psychosis , strangled her three children to death in the basement of her Massachusetts home in early 2023, and neither she nor her lawyers deny that. The murder trial that\u2019s taking place now is to ascertain whether Clancy should spend the rest of her life in prison, or in a mental institution. But on some deep and feminine corners of the internet, there is a chorus growing who believe that Clancy is innocent, and allege that her husband, Patrick, is the one who committed the unspeakable crime. And then there is a wider, concentric circle of women who believe that Clancy did\u2026",
+   "summaryFrom": "freepress",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop"
+   ],
+   "headline": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+   "updated": "2026-08-22T03:43:26+00:00",
+   "outletCount": 3,
+   "counts": {
+    "pub": 1,
+    "nonprofit": 1,
+    "family": 1
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+     "url": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T03:43:26+00:00",
+     "summary": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis."
+    },
+    {
+     "outlet": "guardian",
+     "title": "Lindsay Clancy killed her children. Why do many women support her? \u2013 Stateside with Kai and Carter",
+     "url": "https://www.theguardian.com/us-news/video/2026/aug/21/lindsay-clancy-killed-her-children-why-do-many-women-support-her-stateside-with-kai-and-carter",
+     "author": "Hosted by Carter Sherman with Jenna Amatulli, produced by Monica Espitia, edited by Anabel Bacon, engineered by Ivan Kuraev",
+     "kind": "news",
+     "published": "2026-08-21T20:45:44+00:00",
+     "summary": "The trial of Lindsay Clancy, a former nurse accused of murdering her three children, is wrapping up its fifth week. On Friday morning, the defense rested, and the public attention to the case is at a fever-pitch \u2014 especially on social media. Clancy, 36, does not deny that she strangled her children, but has pleaded not guilty due to lack of criminal responsibility, also known as an insanity defense. She argues that she was in the throes of postpartum psychosis, a rare and devastating condition that can go unrecognized and untreated. Host Carter Sherman speaks with Jenna Amatulli , deputy head of news for Guardian US, about how the case has renewed attention on the fundamental shortcomings in the US's maternal healthcare system, and about why Clancy's story has captivated \u2013 and polarized \u2013 so many people Continue reading..."
+    },
+    {
+     "outlet": "freepress",
+     "title": "Everyone Thinks Lindsay Clancy Killed Her Kids. Except Women Online.",
+     "url": "https://www.thefp.com/p/everyone-thinks-lindsay-clancy-killed",
+     "author": "Suzy Weiss",
+     "kind": "news",
+     "published": "2026-08-21T20:01:10+00:00",
+     "summary": "Another summer, another high-profile trial for everyone to lose their mind over. There was Boston\u2019s Karen Read in 2024, Amber Heard and Johnny Depp\u2019s battle over who abused who worse a few years before that, and now, there\u2019s the case of Lindsay Clancy. Clancy, whose legal team says she was suffering from postpartum psychosis , strangled her three children to death in the basement of her Massachusetts home in early 2023, and neither she nor her lawyers deny that. The murder trial that\u2019s taking place now is to ascertain whether Clancy should spend the rest of her life in prison, or in a mental institution. But on some deep and feminine corners of the internet, there is a chorus growing who believe that Clancy is innocent, and allege that her husband, Patrick, is the one who committed the unspeakable crime. And then there is a wider, concentric circle of women who believe that Clancy did the murders, but want to stand in solidarity with her. \u201cI could have been Lindsay. Any one of us could have been,\u201d wrote one woman in her defense, echoing a recurring theme . I don\u2019t actually think that\u2019s true; most people are not actually capable of, or at risk of, doing what Clancy did. The whole Cl"
     }
    ]
   },
@@ -3068,58 +3201,6 @@
    ]
   },
   {
-   "id": "801fd008aa",
-   "topic": "World",
-   "summary": "Germany\u2019s top security official confirmed the discovery of a cache of weapons on the outskirts of Berlin and said authorities are investigating the possible involvement of foreign security agents in a range of planned attacks.",
-   "summaryFrom": "bloomberg",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
-   "updated": "2026-08-21T16:26:53+00:00",
-   "outletCount": 3,
-   "counts": {
-    "pub": 2,
-    "family": 1
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
-     "url": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T16:26:53+00:00",
-     "summary": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Germany Says Weapons Cache Points to Hybrid Attack Plans",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-21/germany-says-hidden-weapons-cache-points-to-hybrid-attack-plans",
-     "author": "Michael Nienaber",
-     "kind": "news",
-     "published": "2026-08-21T13:55:23+00:00",
-     "summary": "Germany\u2019s top security official confirmed the discovery of a cache of weapons on the outskirts of Berlin and said authorities are investigating the possible involvement of foreign security agents in a range of planned attacks."
-    },
-    {
-     "outlet": "dw",
-     "title": "Germany investigates arms cache found in woods near Berlin",
-     "url": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T12:39:00+00:00",
-     "summary": "Handguns and ammunition were found in a forest near Berlin last year. German authorities suspect they were to be used for assassinations on behalf of Russian intelligence."
-    }
-   ]
-  },
-  {
    "id": "e2052c77b8",
    "topic": "Other",
    "summary": "A very interesting piece in the Chronicle of Higher Education . Here are two brief excerpts, but they can't do justice to the whole piece, which covers much more ground: {[W]hen a mainstream journalist [investigated Arday], he was threatened with lawsuits , visited by the police , and subsequently instructed by his editors to bury the story\u2014and he sheepishly complied. Arday was exposed by a \"race realist\" Substack writer because reporters wouldn't cover the story until after it had already become common knowledge . It seems to defeat the purpose of the journalistic profession to tell people what they've already learned by other means, but that was the position U.K. media outlets and journalists took: radio silence until \"others\" started the conversation. And, somehow, the main lesson many seem to be taking from the way things played out is that we need even more media censorship\u2026",
@@ -3272,6 +3353,135 @@
      "kind": "news",
      "published": "2026-08-20T16:01:39+00:00",
      "summary": "It took Israel more than two and a half years to admit to what the world already knew: Israeli soldiers fired at the vehicle of Hind Rajab and her family. The admission comes after years of denials that were accepted with full embrace by U.S. State Department officials. There are very few journalists here in the U.S. who tried to hold those officials to account in the way Zeteo\u2019s political correspondent Prem Thakker did . Subscribe now \u201cAll the U.S. did was feign concern, defer to Israel to investigate itself for murder, and resist the facts over and over,\u201d says Thakker in his latest video on the case of Hind Rajab. The 5-year-old\u2019s harrowing story drew international outrage after her phone call recording with the Palestinian Red Crescent captured her final hours, sheltering from Israeli gunfire in a car with the bodies of her dead relatives around her. The Israeli army also killed the medics who were sent to save her. It took Israel 933 days to admit to a killing that went viral beyond headlines, one that inspired the Oscar-nominated film \u2018 The Voice of Hind Rajab ,\u2019 and in which the victim\u2019s testimony was caught on tape. Watch Prem reflect on what the admission means for Hind, an"
+    }
+   ]
+  },
+  {
+   "id": "8f06c32ce0",
+   "topic": "Culture & Sport",
+   "summary": "Police say that college soccer player Karoline Heintz was stabbed to death by her boyfriend and his mother helped him dump the victim's body. The post College Soccer Player Reportedly Murdered by Boyfriend Who Blamed \u2018Demon\u2019; Mother Accused of Helping Dump Body appeared first on Breitbart .",
+   "summaryFrom": "breitbart",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Parents of Pennsylvania soccer player Karoline Heintz speak out after daughter was allegedly killed by boyfriend: \u2018Worst nightmare\u2019",
+   "updated": "2026-08-22T05:33:59+00:00",
+   "outletCount": 2,
+   "counts": {
+    "family": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nypost",
+     "title": "Parents of Pennsylvania soccer player Karoline Heintz speak out after daughter was allegedly killed by boyfriend: \u2018Worst nightmare\u2019",
+     "url": "https://nypost.com/2026/08/22/us-news/pennwest-university-soccer-player-karoline-heintzs-parents-speak-out-as-teen-his-mom-are-arrested/",
+     "author": "Nicholas McEntyre",
+     "kind": "news",
+     "published": "2026-08-22T05:33:59+00:00",
+     "summary": "The grieving parents of slain Karoline Heintz, the Pennsylvania university soccer star who was found allegedly stabbed to death by her boyfriend, expressed that they are living a \"parent's worst nightmare.\""
+    },
+    {
+     "outlet": "breitbart",
+     "title": "College Soccer Player Reportedly Murdered by Boyfriend Who Blamed 'Demon'; Mother Accused of Helping Dump Body",
+     "url": "https://www.breitbart.com/sports/2026/08/21/college-soccer-player-reportedly-murdered-boyfriend-who-blamed-demon-mother-accused-helping-dump-body/",
+     "author": "Warner Todd Huston",
+     "kind": "news",
+     "published": "2026-08-21T22:11:09+00:00",
+     "summary": "Police say that college soccer player Karoline Heintz was stabbed to death by her boyfriend and his mother helped him dump the victim's body. The post College Soccer Player Reportedly Murdered by Boyfriend Who Blamed \u2018Demon\u2019; Mother Accused of Helping Dump Body appeared first on Breitbart ."
+    }
+   ]
+  },
+  {
+   "id": "45e7ea28b8",
+   "topic": "Politics",
+   "summary": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed. (Image credit: Hadi Mizban)",
+   "summaryFrom": "npr",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "pub"
+   ],
+   "headline": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
+   "updated": "2026-08-22T05:16:27+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "cbsnews",
+     "title": "Trump says Iran \"not ready to make the right deal\" as U.S. turns to economic warfare",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-economic-crackdown/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T05:16:27+00:00",
+     "summary": "As Vice President JD Vance declares economic pressure \"the most effective tool that we have,\" Iran seeks to show deepening trade ties with its neighbors."
+    },
+    {
+     "outlet": "npr",
+     "title": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
+     "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
+     "author": "NPR Staff",
+     "kind": "news",
+     "published": "2026-08-21T11:42:10+00:00",
+     "summary": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed. (Image credit: Hadi Mizban)"
+    }
+   ]
+  },
+  {
+   "id": "3f5f1e0ff5",
+   "topic": "World",
+   "summary": "Handguns and ammunition were found in a forest near Berlin last year. German authorities suspect they were to be used for assassinations on behalf of Russian intelligence.",
+   "summaryFrom": "dw",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Germany investigates arms cache found in woods near Berlin",
+   "updated": "2026-08-22T04:31:00+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "dw",
+     "title": "Germany investigates arms cache found in woods near Berlin",
+     "url": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T04:31:00+00:00",
+     "summary": "Handguns and ammunition were found in a forest near Berlin last year. German authorities suspect they were to be used for assassinations on behalf of Russian intelligence."
+    },
+    {
+     "outlet": "bbc",
+     "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+     "url": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T16:26:53+00:00",
+     "summary": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say."
     }
    ]
   },
@@ -3534,49 +3744,6 @@
    ]
   },
   {
-   "id": "45e7ea28b8",
-   "topic": "Politics",
-   "summary": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed. (Image credit: Hadi Mizban)",
-   "summaryFrom": "npr",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "pub"
-   ],
-   "headline": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
-   "updated": "2026-08-22T02:09:19+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Trump says Iran \"not ready to make the right deal\" as U.S. turns to economic warfare",
-     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-economic-crackdown/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T02:09:19+00:00",
-     "summary": "As Vice President JD Vance declares economic pressure \"the most effective tool that we have,\" Iran seeks to show deepening trade ties with its neighbors."
-    },
-    {
-     "outlet": "npr",
-     "title": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
-     "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
-     "author": "NPR Staff",
-     "kind": "news",
-     "published": "2026-08-21T11:42:10+00:00",
-     "summary": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed. (Image credit: Hadi Mizban)"
-    }
-   ]
-  },
-  {
    "id": "16e3ba08bc",
    "topic": "Politics",
    "summary": "The next chapter of likely future Naismith Basketball Hall of Famer Klay Thompson\u2019s career appears set to unfold in Miami, where he is expected to suit up for the Heat during the 2026-27 NBA season. The five-time NBA All-Star will reportedly sign with the Heat after clearing waivers following a contract buyout with the Dallas Mavericks, according to ESPN. Thompson, a four-time NBA champion, could ink a two-year contract worth nearly $13 million, sources told ESPN on Friday. The 36-year-old was scheduled to make $17.5 million in the final season of his contract with Dallas before the two sides agreed to part ways. The Mavs confirmed the roster move Friday. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! After a 13-season run with the Golden State Warriors , Thompson joined the Mavericks following the 2023-24 season via a sign-and-trade deal. He spent the next\u2026",
@@ -3663,49 +3830,6 @@
    ]
   },
   {
-   "id": "4f68ab0fea",
-   "topic": "Other",
-   "summary": "Recent surveys suggest the broader public views both of them negatively, especially in comparison to Harry\u2019s brother, William, and his wife, Kate.",
-   "summaryFrom": "nyt",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-   "updated": "2026-08-22T00:03:10+00:00",
-   "outletCount": 2,
-   "counts": {
-    "pub": 1,
-    "family": 1
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "bbc",
-     "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-     "url": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T00:03:10+00:00",
-     "summary": "They will not be working royals when they come back. So what could they be doing instead?"
-    },
-    {
-     "outlet": "nyt",
-     "title": "\u2018They\u2019re Always Going to Be Polarizing\u2019: Britons Split on Harry and Meghan\u2019s Return",
-     "url": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-royal-return-public-opinion.html",
-     "author": "Claire Moses and Amelia Nierenberg",
-     "kind": "opinion",
-     "published": "2026-08-21T15:23:39+00:00",
-     "summary": "Recent surveys suggest the broader public views both of them negatively, especially in comparison to Harry\u2019s brother, William, and his wife, Kate."
-    }
-   ]
-  },
-  {
    "id": "df505c0bd3",
    "topic": "Politics",
    "summary": "President Trump defended Sen. Darline Graham (R-S.C.) on Friday following her stumble on a national security question during the Palmetto State's GOP Senate primary debate this week. The president offered his support to Graham as he was on his way to Myrtle Beach, S.C., where he's set to rally alongside her Friday evening, just days...",
@@ -3788,92 +3912,6 @@
      "kind": "news",
      "published": "2026-08-20T18:35:42+00:00",
      "summary": "Transportation Secretary Sean Duffy; Interior Secretary Doug Burgum; Washington, D.C., Mayor Muriel Bowser; and Monica Crowley, chief of protocol at the State Department, unveil the new Freedom 250 Grand Prix Indycar during a news conference on the National Mall in Washington, D.C., on March 9, 2026. \u2014Matt McClain\u2014Bloomberg/Getty Images A slice of the nation\u2019s capital will be transformed into a race track over the weekend for President Donald Trump \u2019s final event commemorating the U.S.\u2019s 250th birthday . An IndyCar race consisting of 25 drivers will take place around the National Mall in the heart of Washington, D.C., on Saturday and Sunday. IndyCar is the top level of single-seater auto racing in the U.S., best known for the \u201cIndy 500,\u201d an annual 500 mile race in Indianapolis. \"This will be like no other race ever. This will get the highest ever ratings of any such race,\" Trump said in July, when the top IndyCar drivers participating in the race visited the White House. Trump himself is scheduled to take a ride around the 1.7 mile race track in his presidential limousine, known as \u201cThe Beast\u201d before the competition begins, White House officials told multiple outlets . The event is"
-    }
-   ]
-  },
-  {
-   "id": "f324d03385",
-   "topic": "Politics",
-   "summary": "It\u2019s Thursday, August 20. This is The Front Page , your daily window into the world of The Free Press \u2014and our take on the world at large. Today: Anthropic\u2019s economics chief on the AI jobs apocalypse that isn\u2019t\u2014and when that might change. Vinay Prasad reads Anthony Fauci\u2019s diaries. A Democratic upset in Florida. And much more. But first: Alexandria Ocasio-Cortez for president? The political story of the year so far is the rise of the far left: New York City has a socialist mayor; in primaries across the country, candidates backed by the Democratic Socialists of America (DSA) have toppled moderates (scroll down for more on the latest upset); and Alexandria Ocasio-Cortez has emerged as a (way too) early front-runner in the race for the 2028 presidential election. In fact, according to prediction markets, she is, as of last week, the front-runner. AOC hasn\u2019t said whether she\u2019ll run, but\u2026",
-   "summaryFrom": "freepress",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "President AOC, Senator Chi Oss\u00e9 ?",
-   "updated": "2026-08-21T23:50:28+00:00",
-   "outletCount": 2,
-   "counts": {
-    "coop": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "hellgate",
-     "title": "President AOC, Senator Chi Oss\u00e9 ?",
-     "url": "https://hellgatenyc.com/president-aoc-senator-chi-osse/",
-     "author": "Hell Gate",
-     "kind": "news",
-     "published": "2026-08-21T23:50:28+00:00",
-     "summary": "Editor Holly Pretsky dove into NYC-DSA\u2019s caucuses and found rumblings of a 2028 where charismatic DSA members might try their hand at higher office. Editor Christopher Robbins updated us on the state of gambling in New York\u2014from prediction markets to \"dead facades.\" Start placing your Kalshi bets now. Then, Jessy Edwards on ICE getting sued by the septuagenarian they maced\u2014And finally Alisha Allison, our intern, looks back on the summer she turned Hell Gate."
-    },
-    {
-     "outlet": "freepress",
-     "title": "AOC for President? Plus. . .",
-     "url": "https://www.thefp.com/p/aoc-for-president-plus",
-     "author": "The Free Press",
-     "kind": "news",
-     "published": "2026-08-20T10:04:07+00:00",
-     "summary": "It\u2019s Thursday, August 20. This is The Front Page , your daily window into the world of The Free Press \u2014and our take on the world at large. Today: Anthropic\u2019s economics chief on the AI jobs apocalypse that isn\u2019t\u2014and when that might change. Vinay Prasad reads Anthony Fauci\u2019s diaries. A Democratic upset in Florida. And much more. But first: Alexandria Ocasio-Cortez for president? The political story of the year so far is the rise of the far left: New York City has a socialist mayor; in primaries across the country, candidates backed by the Democratic Socialists of America (DSA) have toppled moderates (scroll down for more on the latest upset); and Alexandria Ocasio-Cortez has emerged as a (way too) early front-runner in the race for the 2028 presidential election. In fact, according to prediction markets, she is, as of last week, the front-runner. AOC hasn\u2019t said whether she\u2019ll run, but her emergence as a genuine presidential contender is a sign of the times. Which is why we asked eagle-eyed Washington watcher Mark Halperin to assess her chances. Will she run? Could she win? Read Mark\u2019s analysis to find out. \u2014Oliver Wiseman MORE FROM THE FREE PRESS THE NEWS President Trump pulled back"
-    }
-   ]
-  },
-  {
-   "id": "8d745f7a6a",
-   "topic": "Politics",
-   "summary": "North Carolina's Democrat gubernatorial candidate Roy Cooper has \"never\" offered an explanation for letting thousands of criminals out of jail during the coronavirus pandemic, Republican Senate candidate Michael Whatley said during an appearance on Breitbart News Daily. The post Exclusive \u2014 Michael Whatley: Democrat Roy Cooper Never Explained Letting Thousands of Criminals Out of Jail appeared first on Breitbart .",
-   "summaryFrom": "breitbart",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Whatley Within Striking Distance of Defeating Roy Cooper in North Carolina",
-   "updated": "2026-08-21T23:48:26+00:00",
-   "outletCount": 2,
-   "counts": {
-    "corp": 1,
-    "family": 1
-   },
-   "newsCount": 2,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "Whatley Within Striking Distance of Defeating Roy Cooper in North Carolina",
-     "url": "https://www.newsweek.com/whatley-within-striking-distance-of-defeating-roy-cooper-in-north-carolina-12354446",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T23:48:26+00:00",
-     "summary": "Trump has backed Whatley in the race, adding another layer of potential intensity."
-    },
-    {
-     "outlet": "breitbart",
-     "title": "Exclusive \u2014 Michael Whatley: Democrat Roy Cooper Never Explained Letting Thousands of Criminals Out of Jail",
-     "url": "https://www.breitbart.com/politics/2026/08/21/exclusive-michael-whatley-democrat-roy-cooper-never-explained-letting-thousands-of-criminals-out-of-jail/",
-     "author": "Hannah Knudsen",
-     "kind": "news",
-     "published": "2026-08-21T20:48:07+00:00",
-     "summary": "North Carolina's Democrat gubernatorial candidate Roy Cooper has \"never\" offered an explanation for letting thousands of criminals out of jail during the coronavirus pandemic, Republican Senate candidate Michael Whatley said during an appearance on Breitbart News Daily. The post Exclusive \u2014 Michael Whatley: Democrat Roy Cooper Never Explained Letting Thousands of Criminals Out of Jail appeared first on Breitbart ."
     }
    ]
   }
