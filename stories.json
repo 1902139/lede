@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-22T03:08:54.511742+00:00",
+ "generated": "2026-08-22T03:57:54.724347+00:00",
  "storyCount": 60,
  "feedsOk": 69,
  "feedsTotal": 72,
@@ -10,7 +10,7 @@
    "summary": "Construction continues on a new helipad on the South Lawn of the White House and the East Wing ballroom on August 20, 2026. Photo by Andrew Harnik/Getty Images If Donald Trump and his cronies spent as much energy actually listening to Americans and doing what voters want as they have on their freakout about the spotlight on Natalie Harp , perhaps the president\u2019s approval rating wouldn\u2019t have dipped to 33% this week. While Trump\u2019s allies rushed to the defense of Harp, the president\u2019s close and influential aide dubbed the \u201c human printer ,\u201d his administration was busy further harming democracy, undermining the Constitution, and hurting societies worldwide. Subscribe now This week, Trump\u2019s newly sworn-in attorney general, Todd Blanche, refused to pledge that his Justice Department would act independently of the White House. That\u2019s troubling but not surprising when it comes to Trump\u2019s\u2026",
    "summaryFrom": "zeteo",
    "emphasis": {
-    "bigCount": 14,
+    "bigCount": 15,
     "indieCount": 12,
     "big": [
      "stay",
@@ -21,27 +21,27 @@
      "ground"
     ],
     "indie": [
-     "hong",
-     "tiananmen",
      "inciting",
+     "tiananmen",
+     "hong",
      "temporary",
-     "vigils",
-     "kong"
+     "subversion",
+     "hang-tung"
     ]
    },
    "people": [],
    "absent": [],
    "headline": "Supreme Court temporarily unfreezes Trump ballroom construction",
    "updated": "2026-08-22T00:01:15+00:00",
-   "outletCount": 22,
+   "outletCount": 23,
    "counts": {
     "coop": 1,
-    "corp": 6,
+    "corp": 7,
     "pub": 4,
     "family": 8,
     "nonprofit": 7
    },
-   "newsCount": 25,
+   "newsCount": 26,
    "opinionCount": 1,
    "underreported": false,
    "articles": [
@@ -125,6 +125,15 @@
      "kind": "news",
      "published": "2026-08-21T20:48:54+00:00",
      "summary": "Chief justice signs temporary order to permit work while court considers emergency appeal from administration The US supreme court has allowed Donald Trump to continue construction of his controversial White House ballroom for now, temporarily pausing a lower court order that would halt much of the project. Supreme court chief justice John Roberts signed a temporary order on Friday, permitting work to continue on the planned White House addition \u2013 a top priority of the president \u2013 while the court considers an emergency appeal from Trump\u2019s administration. Continue reading..."
+    },
+    {
+     "outlet": "cbsnews",
+     "title": "Supreme Court temporarily allows work on White House ballroom to continue",
+     "url": "https://www.cbsnews.com/news/supreme-court-white-house-ballroom-john-roberts/",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T20:38:10+00:00",
+     "summary": "Chief Justice John Roberts issued a stay that will remain in place until the Supreme Court takes further action."
     },
     {
      "outlet": "aljazeera",
@@ -287,62 +296,35 @@
    "summary": "President Donald Trump returned to the campaign trail Friday to help save the candidacy of Sen. Darline Graham after a major debate gaffe raised questions about her readiness to replace her late brother and the wisdom of his endorsement. Speaking at a rally in Myrtle Beach, South Carolina, days before a Senate runoff featuring Graham and Rep. Ralph Norman, Trump urged voters to support the sister of his ally Lindsay Graham, the longtime foreign policy hawk who died last month. \u201cWe're going to elect Senator Darline Graham to fight, fight, fight for South Carolina and to always put America first,\u201d he said. \u201cYou vote for her, you're going to be very proud of that vote.\u201d Trump also reflected on his close friendship with Lindsey Graham, invoking the memory of the stalwart of the South Carolina GOP who represented the state in Congress for 31 years. \u201cI think Lindsey respected Darline more\u2026",
    "summaryFrom": "politico",
    "emphasis": {
-    "bigCount": 13,
-    "indieCount": 3,
+    "bigCount": 7,
+    "indieCount": 2,
     "big": [
+     "ralph",
+     "norman",
      "ballot",
-     "campaign",
-     "beach",
-     "pretend",
-     "myrtle",
-     "republicans"
+     "debate",
+     "rally",
+     "myrtle"
     ],
     "indie": []
    },
    "people": [],
    "absent": [
-    "coop",
-    "pub"
+    "coop"
    ],
    "headline": "WATCH LIVE: Trump stumps for S.C. Sen. Darline Graham ahead of GOP runoff",
-   "updated": "2026-08-22T03:01:06+00:00",
-   "outletCount": 15,
+   "updated": "2026-08-22T00:39:28+00:00",
+   "outletCount": 9,
    "counts": {
-    "corp": 7,
-    "family": 6,
-    "nonprofit": 3
+    "corp": 4,
+    "family": 3,
+    "nonprofit": 1,
+    "pub": 1
    },
-   "newsCount": 16,
+   "newsCount": 9,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
-    {
-     "outlet": "nbcnews",
-     "title": "Trump tries new midterm message to supporters: \u2018Pretend, please, that I\u2019m on the ballot\u2019",
-     "url": "https://www.nbcnews.com/politics/2026-election/trump-tries-new-midterm-message-pretend-i-am-on-the-ballot-rcna593849",
-     "author": "Kyla Guilfoil",
-     "kind": "news",
-     "published": "2026-08-22T03:01:06+00:00",
-     "summary": "US President Donald Trump during a campaign event for Senator Darline Graham Nordone, a Republican from South Carolina, not pictured, ahead of a Republican special primary runoff election at the Myrtle Beach Convention Center in Myrtle Beach, S.C., US, on Aug. 21, 2026."
-    },
-    {
-     "outlet": "nyt",
-     "title": "With Midterms Approaching, Trump Implores Republicans: Pretend I\u2019m on the Ballot!",
-     "url": "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html",
-     "author": "Shawn McCreesh",
-     "kind": "news",
-     "published": "2026-08-22T02:51:39+00:00",
-     "summary": "President Trump was in South Carolina to stump for Darline Graham, sister of Lindsey. But his own political future was on his mind, too."
-    },
-    {
-     "outlet": "nypost",
-     "title": "Trump warns SC voters they\u2019ll \u2018lose everything\u2019 if Darline Graham doesn\u2019t win Senate race: \u2018Pretend I\u2019m on the ballot\u2019",
-     "url": "https://nypost.com/2026/08/21/us-news/trump-warns-south-carolina-voters-theyll-lose-everything-if-darline-graham-doesnt-win-senate-race-pretend-im-on-the-ballot/",
-     "author": "Victor Nava",
-     "kind": "news",
-     "published": "2026-08-22T01:55:11+00:00",
-     "summary": "\u201cYou got to come out and vote,\u201d Trump said at a Myrtle Beach rally for Graham (R-SC), \u201cbecause if we lose, you're going to lose your border, you're going to lose your tax cuts, you're going to lose everything that we've done.\u201d"
-    },
     {
      "outlet": "cbsnews",
      "title": "Trump campaigns with Darline Graham in South Carolina ahead of runoff",
@@ -360,15 +342,6 @@
      "kind": "news",
      "published": "2026-08-22T00:36:55+00:00",
      "summary": "President Donald Trump returned to the campaign trail Friday to help save the candidacy of Sen. Darline Graham after a major debate gaffe raised questions about her readiness to replace her late brother and the wisdom of his endorsement. Speaking at a rally in Myrtle Beach, South Carolina, days before a Senate runoff featuring Graham and Rep. Ralph Norman, Trump urged voters to support the sister of his ally Lindsay Graham, the longtime foreign policy hawk who died last month. \u201cWe're going to elect Senator Darline Graham to fight, fight, fight for South Carolina and to always put America first,\u201d he said. \u201cYou vote for her, you're going to be very proud of that vote.\u201d Trump also reflected on his close friendship with Lindsey Graham, invoking the memory of the stalwart of the South Carolina GOP who represented the state in Congress for 31 years. \u201cI think Lindsey respected Darline more than any other person he knows, including me,\u201d he said. Trump pushed for Darline Graham\u2019s appointment to fill out the remainder of her brother\u2019s term, offering his endorsement before she even formally launched her campaign. But the value of Trump\u2019s endorsement has arguably never been weaker. He has seen"
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Trump\u2019s New Midterm Pitch to Voters: Pretend I\u2019m on Ballot",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-21/trump-s-new-midterm-pitch-to-voters-pretend-i-m-on-the-ballot",
-     "author": "Hadriana Lowenkron and Catherine Lucey",
-     "kind": "news",
-     "published": "2026-08-21T23:54:40+00:00",
-     "summary": "President Donald Trump tried out a new campaign message on Friday, telling voters in South Carolina to \u201cpretend\u201d he was on the ballot and turn out to back his hand-picked candidate, Senator Darline Graham, in a contentious Republican primary."
     },
     {
      "outlet": "wapo",
@@ -398,13 +371,13 @@
      "summary": "President Donald Trump is heading to South Carolina today as the White House looks to focus more on the looming election season. Trump\u2019s visit to Myrtle Beach \u2014 where he hopes to provide a boost to Sen. Darline Graham, R-S.C. \u2014 comes as Republicans face a difficult path to retaining full control of Washington. The White House is shifting to an all-hands-on-deck approach, with Vice President JD Vance also campaigning in Ohio today. A White House official told Semafor that Trump plans to continue traveling the country in the months ahead despite myriad foreign policy challenges. Trump has sought to shift focus away from the unpopular Iran conflict recently, though his pivot to economic penalties could make it harder for Republicans to make inroads on affordability. \u201cPresident Trump is the unequivocal leader of the Republican party who is committed to maintaining Republicans\u2019 majority in Congress,\u201d White House spokeswoman Olivia Wales said. \u201cIn just over one year, the President has made our country greater than ever before with the most secure border in American history, the largest middle-class tax cuts ever, and the lowest murder rate since 1900.\u201d \u2014 Shelby Talcott"
     },
     {
-     "outlet": "dailybeast",
-     "title": "Republicans Rebel as Trump Stumps for Nepo Sister Pick",
-     "url": "https://www.thedailybeast.com/republicans-rebel-as-trump-stumps-for-nepo-sister-pick/",
-     "author": "Sarah Ewall-Wice",
+     "outlet": "breitbart",
+     "title": "White House: Rosie O'Donnell a 'Nasty Woman' Whose Brain Is 'Destroyed by Trump Derangement Syndrome'",
+     "url": "https://www.breitbart.com/entertainment/2026/08/21/white-house-rosie-odonnell-a-nasty-woman-whose-brain-is-destroyed-by-trump-derangement-syndrome/",
+     "author": "Warner Todd Huston",
      "kind": "news",
-     "published": "2026-08-21T18:40:55+00:00",
-     "summary": "Peter Zay/Anadolu via Getty Images Donald Trump headed to South Carolina on Friday night to throw his Republican pick, Darline Graham, a lifeline in her bid to succeed her brother in the Senate. But the race shows a stark reality: the president is struggling to get some Republicans to fall in line before the midterms. The younger sister of late Sen. Lindsey Graham has done little to reassure some GOP voters that she\u2019s up for a six-year term. Read more at The Daily Beast."
+     "published": "2026-08-21T18:31:38+00:00",
+     "summary": "The White House is responding to the \"nasty\" week-long attack on the president by former ABC The View host Rosie O'Donnell, who has been filling in all week on ABC for rabidly anti-Trump late-night host Jimmy Kimmel. The post White House: Rosie O\u2019Donnell a \u2018Nasty Woman\u2019 Whose Brain Is \u2018Destroyed by Trump Derangement Syndrome\u2019 appeared first on Breitbart ."
     },
     {
      "outlet": "pbsnewshour",
@@ -416,49 +389,22 @@
      "summary": "President Donald Trump is scheduled to travel to South Carolina on Friday to make a last-minute appeal for Sen. Darline Graham, his chosen candidate to replace her brother, the late Sen. Lindsey Graham, ahead of a Republican runoff next week."
     },
     {
-     "outlet": "foxnews",
-     "title": "EXCLUSIVE: Fentanyl deaths plunge 22% as Trump White House touts crackdown on deadly drug crisis",
-     "url": "https://www.foxnews.com/politics/exclusive-fentanyl-deaths-plunge-22-trump-white-house-touts-crackdown-deadly-drug-crisis",
+     "outlet": "abcnews",
+     "title": "Trump shows off multimillion-dollar White House helipad and adds his signature",
+     "url": "https://abcnews.com/Politics/trump-shows-off-multimillion-dollar-white-house-helipad/story?id=135782264",
      "author": null,
      "kind": "news",
-     "published": "2026-08-21T11:00:07+00:00",
-     "summary": "EXCLUSIVE: Fentanyl-linked deaths plunged 22% in a single year as the Trump White House credits its border crackdown, campaign against drug cartels and arrests of convicted fentanyl traffickers for helping drive down the deadly toll. Synthetic opioid deaths , which include fentanyl, fell from 48,913 in 2024 to 38,084 in 2025, according to CDC figures cited by the White House \u2014 a decline of more than 10,000 deaths. Total drug overdose deaths fell 14% during the same period, from 81,313 to 69,973. The Trump administration provided the figures to Fox News Digital in honor of National Fentanyl Prevention and Awareness Day on Friday, pointing to the decline as evidence its border and counter-narcotics policies are disrupting the flow of fentanyl into American communities. PRESIDENT TRUMP\u2019S DRUG CONTROL STRATEGY SETS THE PATH TO END THE DRUG CRISIS FOR GOOD \"President [Donald] Trump targeted cartels who were profiting off the death of Americans, secured our border to stop Fentanyl and other illicit drugs from flowing into our communities and jump-started ICE to arrest illegal alien fentanyl traffickers,\" White House spokeswoman Lauren Bis told Fox News Digital. \"These policies delivered "
+     "published": "2026-08-20T02:02:47+00:00",
+     "summary": "President Trump showed off the new, granite White House helipad on Wednesday."
     },
     {
-     "outlet": "theconversation",
-     "title": "Darline Graham\u2019s inherited Senate seat revives the \u2018widow\u2019s mandate\u2019 with a sibling twist",
-     "url": "https://theconversation.com/darline-grahams-inherited-senate-seat-revives-the-widows-mandate-with-a-sibling-twist-289700",
-     "author": "Christopher A. Cooper, Professor of Political Science & Public Affairs, Western Carolina University",
+     "outlet": "bbc",
+     "title": "Watch: Trump leads tour of White House helipad construction site",
+     "url": "https://www.bbc.co.uk/news/videos/c4g61p4n1z4o?at_medium=RSS&at_campaign=rss",
+     "author": null,
      "kind": "news",
-     "published": "2026-08-20T18:53:28+00:00",
-     "summary": "U.S. Sen. Darline Graham's appointment belongs to a long American tradition of family succession in politics. AP Photo/Meg Kinnard South Carolina Gov. Henry McMaster\u2019s July 2026 appointment of Darline Graham to fill the remainder of her late brother Lindsey Graham\u2019s Senate term \u2013 and her subsequent decision to run for the seat \u2013 may seem unusual. After all, Darline Graham has no experience in elected office and was virtually unknown outside of the small circle of people who knew her from her time heading the South Carolina Commission for the Blind , or the slightly larger group of people who knew her as Lindsey Graham\u2019s sister. Nevertheless, she\u2019s made history as the first woman to represent South Carolina in the U.S. Senate. Graham has since demonstrated how quickly a family connection can translate into electoral support. On Aug. 11, 2026, she finished first in a 10-candidate Republican primary with nearly 33% of the vote. She now faces U.S. Rep. Ralph Norman in an Aug. 25 runoff . Her appointment belongs to a long American tradition of family succession in politics. For much of the 20th century, political parties, particularly in the American South, routinely turned to relatives"
-    },
-    {
-     "outlet": "rollingstone",
-     "title": "Lindsey Graham\u2019s Sister on Senate Bid: Cluelessness Is Part of My Appeal",
-     "url": "https://www.rollingstone.com/politics/politics-news/darline-graham-bungling-senate-debate-question-1235612110/",
-     "author": "Nikkimccannramirez",
-     "kind": "news",
-     "published": "2026-08-20T17:08:19+00:00",
-     "summary": "\u201cI don't speak politician,\u201d Darline Graham explained of her cringeworthy debate performance this week"
-    },
-    {
-     "outlet": "texastribune",
-     "title": "Talarico floods Texas airwaves in U.S. Senate race as Paxton, GOP stay quiet",
-     "url": "https://feeds.texastribune.org/link/16799/17423785/texas-us-senate-race-donors-ken-paxton-james-talarico",
-     "author": "Gabby Birenbaum",
-     "kind": "news",
-     "published": "2026-08-20T10:00:00+00:00",
-     "summary": "With early voting about two months away, the Democrat has had TV nearly to himself, outspending his Republican rival more than 200-to-1 on advertising as GOP groups weigh when \u2014 or whether \u2014 to get involved."
-    },
-    {
-     "outlet": "politico",
-     "title": "Trump tries to quiet his mass deportation campaign. Voters aren\u2019t moving.",
-     "url": "https://www.politico.com/news/2026/08/19/poll-trump-deportations-voters-midterms-01041099",
-     "author": "By Myah Ward and Erin Doherty",
-     "kind": "news",
-     "published": "2026-08-19T09:00:00+00:00",
-     "summary": "Republicans are struggling to reverse the damage President Donald Trump\u2019s immigration agenda has done with voters. With less than 90 days until the midterm election, the Trump administration has sought to keep Immigration and Customs Enforcement officials out of the headlines , pulling back on the high-profile, flashy raids in blue cities and minimizing public clashes with community members and protesters. But new results from The POLITICO Poll show that half of Americans, including nearly a quarter of Trump\u2019s 2024 voters, still say the president\u2019s mass deportation campaign is too aggressive. That\u2019s virtually unchanged from polling numbers in January and April, amid mounting political outrage over federal agents killing two U.S. citizens in Minneapolis. Non-MAGA Trump voters are twice as likely as self-identified MAGA voters to say the president\u2019s mass deportation campaign is too aggressive \u2014 31 percent compared with 15 percent, according to the new poll, which was conducted Aug. 8 to Aug. 12. The persistence of that negative voter sentiment underscores a vulnerability for Republicans heading into November, as the party grapples with its message and policy approach on an issue the "
+     "published": "2026-08-19T18:30:15+00:00",
+     "summary": "The work is being expedited ahead of Chinese President Xi Jinping\u2019s planned visit to the White House in late September."
     }
    ]
   },
@@ -468,23 +414,23 @@
    "summary": "This blog is now closed. Read the latest here Pentagon fires publisher and editor of Stars & Stripes Backlash as navy carrier set to honor Black war hero could be named after Trump Sign up for the US Breaking News email US Senator Tim Sheehy, a Montana Republican and a cattle rancher, has come out against a plan announced Friday by Donald Trump to allow for an increase in imported ground beef. \u201dI\u2019ve advised President Trump against this course of action for a year because American ranchers have been struggling against the packer monopoly for decades, and this will further harm them - most of whom are MAGA Republicans,\u201d Sheehy wrote on X. \u201cThe President\u2019s heart is in the right place on wanting lower prices for the American people, and beef prices have been impacted by the Mexican screwworm. But the reality is this action will make it more difficult for American ranchers to rebuild our\u2026",
    "summaryFrom": "guardian",
    "emphasis": {
-    "bigCount": 6,
-    "indieCount": 6,
+    "bigCount": 4,
+    "indieCount": 4,
     "big": [
-     "nasty",
-     "brain",
-     "whose",
-     "kimmel",
-     "jimmy",
-     "harp"
+     "super",
+     "karoline",
+     "secretary",
+     "press",
+     "leavitt",
+     "departure"
     ],
     "indie": [
      "ballroom",
-     "construction",
+     "hormuz",
      "views",
-     "strait",
      "donald",
-     "hormuz"
+     "territory",
+     "american"
     ]
    },
    "people": [],
@@ -492,18 +438,27 @@
     "coop"
    ],
    "headline": "Trump talks up White House ballroom and says he views strait of Hormuz as \u2018American territory\u2019 \u2013 as it happened",
-   "updated": "2026-08-22T02:01:06+00:00",
-   "outletCount": 11,
+   "updated": "2026-08-22T03:24:46+00:00",
+   "outletCount": 8,
    "counts": {
+    "corp": 2,
     "nonprofit": 3,
-    "corp": 4,
-    "pub": 3,
+    "pub": 1,
     "family": 2
    },
-   "newsCount": 12,
+   "newsCount": 8,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
+    {
+     "outlet": "thehill",
+     "title": "Leavitt to work at Trump-affiliated super PAC following White House departure",
+     "url": "https://thehill.com/homenews/6044808-karoline-leavitt-trump-super-pac-departure/",
+     "author": "Julia Boehning",
+     "kind": "news",
+     "published": "2026-08-22T03:24:46+00:00",
+     "summary": "Karoline Leavitt is set to work at President\u2019s Trump MAGA Inc. super PAC following her departure from the White House, the outgoing press secretary confirmed Friday. Leavitt shared her next career move with reporters outside of Air Force One Friday evening, a little over one week after she announced she would step down at the..."
+    },
     {
      "outlet": "guardian",
      "title": "Trump talks up White House ballroom and says he views strait of Hormuz as \u2018American territory\u2019 \u2013 as it happened",
@@ -512,15 +467,6 @@
      "kind": "news",
      "published": "2026-08-22T02:01:06+00:00",
      "summary": "This blog is now closed. Read the latest here Pentagon fires publisher and editor of Stars & Stripes Backlash as navy carrier set to honor Black war hero could be named after Trump Sign up for the US Breaking News email US Senator Tim Sheehy, a Montana Republican and a cattle rancher, has come out against a plan announced Friday by Donald Trump to allow for an increase in imported ground beef. \u201dI\u2019ve advised President Trump against this course of action for a year because American ranchers have been struggling against the packer monopoly for decades, and this will further harm them - most of whom are MAGA Republicans,\u201d Sheehy wrote on X. \u201cThe President\u2019s heart is in the right place on wanting lower prices for the American people, and beef prices have been impacted by the Mexican screwworm. But the reality is this action will make it more difficult for American ranchers to rebuild our herd and bring prices down for the American people. And most importantly, this will harm our ranching families who feed the nation.\u201d Trump announced a plan on Truth Social to allow 300,000 metric tonnes of beef to be imported without tariffs over the next 90 days, to be sold for hamburger at a 25 percen"
-    },
-    {
-     "outlet": "thehill",
-     "title": "White House rips Rosie O'Donnell for Trump, Harp jokes: She's 'a total slob'",
-     "url": "https://thehill.com/homenews/administration/6044741-white-house-criticizes-rosie-odonnell/",
-     "author": "Mira Bhakta",
-     "kind": "news",
-     "published": "2026-08-22T00:30:39+00:00",
-     "summary": "The White House responded Thursday to comments made by comedian Rosie O\u2019Donnell while hosting \u201cJimmy Kimmel Live!\u201d concerning President Trump and his administration. Davis Ingle, a representative for the White House, said in a statement to news outlets that \u201cRosie O\u2019Donnell is a nasty woman and a total slob whose brain has been completely destroyed..."
     },
     {
      "outlet": "aljazeera",
@@ -559,31 +505,13 @@
      "summary": "White House Press Secretary Karoline Leavitt said she will return to MAGA Inc., the president\u2019s super political action committee, when she leaves her post later this month."
     },
     {
-     "outlet": "breitbart",
-     "title": "White House: Rosie O'Donnell a 'Nasty Woman' Whose Brain Is 'Destroyed by Trump Derangement Syndrome'",
-     "url": "https://www.breitbart.com/entertainment/2026/08/21/white-house-rosie-odonnell-a-nasty-woman-whose-brain-is-destroyed-by-trump-derangement-syndrome/",
-     "author": "Warner Todd Huston",
-     "kind": "news",
-     "published": "2026-08-21T18:31:38+00:00",
-     "summary": "The White House is responding to the \"nasty\" week-long attack on the president by former ABC The View host Rosie O'Donnell, who has been filling in all week on ABC for rabidly anti-Trump late-night host Jimmy Kimmel. The post White House: Rosie O\u2019Donnell a \u2018Nasty Woman\u2019 Whose Brain Is \u2018Destroyed by Trump Derangement Syndrome\u2019 appeared first on Breitbart ."
-    },
-    {
-     "outlet": "dailybeast",
-     "title": "White House \u2018Protesting Too Much\u2019 Over Natalie Harp: TV Host",
-     "url": "https://www.thedailybeast.com/white-house-protesting-too-much-over-natalie-harp-tv-host/",
-     "author": "Josh Fiallo",
-     "kind": "news",
-     "published": "2026-08-21T15:33:17+00:00",
-     "summary": "Kevin Dietsch / Getty Images MS Now\u2019s Joe Scarborough says the White House has only itself to blame for the media frenzy surrounding presidential aide Natalie Harp. The Morning Joe host says Democratic Sen. Jon Ossoff did not make the 35-year-old Harp a household name by name-dropping her at a rally. Instead, he said the White House\u2019s own overreaction is what has Americans questioning her relationship with President Donald Trump. Read more at The Daily Beast."
-    },
-    {
-     "outlet": "bbc",
-     "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-     "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+     "outlet": "foxnews",
+     "title": "EXCLUSIVE: Fentanyl deaths plunge 22% as Trump White House touts crackdown on deadly drug crisis",
+     "url": "https://www.foxnews.com/politics/exclusive-fentanyl-deaths-plunge-22-trump-white-house-touts-crackdown-deadly-drug-crisis",
      "author": null,
      "kind": "news",
-     "published": "2026-08-20T23:16:45+00:00",
-     "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy."
+     "published": "2026-08-21T11:00:07+00:00",
+     "summary": "EXCLUSIVE: Fentanyl-linked deaths plunged 22% in a single year as the Trump White House credits its border crackdown, campaign against drug cartels and arrests of convicted fentanyl traffickers for helping drive down the deadly toll. Synthetic opioid deaths , which include fentanyl, fell from 48,913 in 2024 to 38,084 in 2025, according to CDC figures cited by the White House \u2014 a decline of more than 10,000 deaths. Total drug overdose deaths fell 14% during the same period, from 81,313 to 69,973. The Trump administration provided the figures to Fox News Digital in honor of National Fentanyl Prevention and Awareness Day on Friday, pointing to the decline as evidence its border and counter-narcotics policies are disrupting the flow of fentanyl into American communities. PRESIDENT TRUMP\u2019S DRUG CONTROL STRATEGY SETS THE PATH TO END THE DRUG CRISIS FOR GOOD \"President [Donald] Trump targeted cartels who were profiting off the death of Americans, secured our border to stop Fentanyl and other illicit drugs from flowing into our communities and jump-started ICE to arrest illegal alien fentanyl traffickers,\" White House spokeswoman Lauren Bis told Fox News Digital. \"These policies delivered "
     },
     {
      "outlet": "theconversation",
@@ -593,24 +521,6 @@
      "kind": "news",
      "published": "2026-08-20T22:08:40+00:00",
      "summary": "Construction of a White House ballroom continues on Aug. 18, 2026, three days before a court-ordered deadline to halt construction unless Congress authorizes it. Win McNamee/Getty Images The fate of President Donald Trump\u2019s estimated US$400 million White House ballroom may hinge on the little-known and somewhat surprising rules as to when the federal government and its agencies can accept privately donated funds. That\u2019s because Trump\u2019s is using the fact that he\u2019s been accepting private donations to pay for at least some of the project\u2019s cost as a justification for not needing Congress\u2019 explicit authorization. A federal appeals court on Aug. 7, 2026, disagreed and left in place a lower court\u2019s injunction that was slated to halt construction on Aug. 21. But on that same day, before the injunction took effect, U.S. Supreme Court Chief Justice John Roberts said the Trump administration could continue construction work while the court considers its request . As a scholar of nonprofit and tax-exempt law who has studied for decades how the law governs deductible charitable contributions, including those to the government , I find that this appeals court decision calls for an explanation o"
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump shows off multimillion-dollar White House helipad and adds his signature",
-     "url": "https://abcnews.com/Politics/trump-shows-off-multimillion-dollar-white-house-helipad/story?id=135782264",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-20T02:02:47+00:00",
-     "summary": "President Trump showed off the new, granite White House helipad on Wednesday."
-    },
-    {
-     "outlet": "bbc",
-     "title": "Watch: Trump leads tour of White House helipad construction site",
-     "url": "https://www.bbc.co.uk/news/videos/c4g61p4n1z4o?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-19T18:30:15+00:00",
-     "summary": "The work is being expedited ahead of Chinese President Xi Jinping\u2019s planned visit to the White House in late September."
     }
    ]
   },
@@ -769,8 +679,8 @@
     "indieCount": 4,
     "big": [
      "young",
-     "arguments",
-     "closing"
+     "closing",
+     "arguments"
     ],
     "indie": []
    },
@@ -865,15 +775,15 @@
     "bigCount": 4,
     "indieCount": 3,
     "big": [
-     "emperor",
      "controversial",
-     "deliver",
+     "emperor",
      "images",
+     "deliver",
      "post"
     ],
     "indie": [
-     "technology",
      "identity",
+     "technology",
      "growing",
      "whose",
      "backlash"
@@ -970,12 +880,12 @@
     "bigCount": 4,
     "indieCount": 2,
     "big": [
-     "east",
      "middle",
+     "east",
      "friday",
+     "firings",
      "correspondent",
-     "independent",
-     "firings"
+     "independent"
     ],
     "indie": []
    },
@@ -1053,104 +963,6 @@
    ]
   },
   {
-   "id": "c244d4ac91",
-   "topic": "Business & Economy",
-   "summary": "US president delays 50% tariffs by three days, and says contentious oil project \u2018may be awoken from the grave\u2019 Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agreement with Trump administration officials hours before a hike that would have affected $20bn worth of goods was set to take effect. Donald Trump posted late on Tuesday on social media that he had paused the tariffs for three days \u201cbased on the fact that Canada and the USA, subject to the finalization of documents, have a DEAL!\u201d Continue reading...",
-   "summaryFrom": "guardian",
-   "emphasis": {
-    "bigCount": 4,
-    "indieCount": 3,
-    "big": [
-     "talks"
-    ],
-    "indie": [
-     "work",
-     "agreement"
-    ]
-   },
-   "people": [],
-   "absent": [
-    "coop"
-   ],
-   "headline": "Canada says more work needed as US trade deal deadline looms",
-   "updated": "2026-08-22T01:26:00+00:00",
-   "outletCount": 6,
-   "counts": {
-    "pub": 2,
-    "family": 3,
-    "corp": 1,
-    "nonprofit": 1
-   },
-   "newsCount": 7,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "dw",
-     "title": "Canada says more work needed as US trade deal deadline looms",
-     "url": "https://www.dw.com/en/canada-says-more-work-needed-as-us-trade-deal-deadline-looms/a-78466352?maca=en-rss-en-all-1573-rdf",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T01:26:00+00:00",
-     "summary": "Washington \u200cand Ottawa are pushing to finalize an agreement before steep new US tariffs were due to kick in on Saturday. President Donald Trump has said the US \"should be able to have a deal with Canada.\""
-    },
-    {
-     "outlet": "bbc",
-     "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-     "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T00:40:47+00:00",
-     "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Canada-U.S. Tariff Talks Continue as Trump\u2019s Midnight Deadline Looms",
-     "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-deal.html",
-     "author": "Matina Stevis-Gridneff",
-     "kind": "news",
-     "published": "2026-08-22T00:06:17+00:00",
-     "summary": "Canadian negotiators were in Washington to finalize a deal that would stave off new tariffs and improve the terms of existing ones, but Mark Carney faces a tough sell back home."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Canada Nears Trump Trade Deal | Balance of Power 8/21/2026",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-21/balance-of-power-8-21-2026-video",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T23:00:21+00:00",
-     "summary": "\"Balance of Power: Late Edition\" focuses on the intersection of politics and global business. On today's show, Canada's former Minister of International Trade Mary Ng, former National Security Advisor to President Trump John Bolton, CSIS Senior Nonresident Scholar Clayton Seigle, Rebelle Communications Founder & CEO Laura Fink, and Stonecourt Capital LP Rick Davis. (Source: Bloomberg)"
-    },
-    {
-     "outlet": "abcnews",
-     "title": "Trump's proposed tariffs on Canada hurtle toward deadline amid trade talks",
-     "url": "https://abcnews.com/Business/trumps-proposed-tariffs-canada-hurtle-deadline-amid-trade/story?id=135833861",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T18:11:05+00:00",
-     "summary": "The tariffs are set to take effect early Saturday morning, after Trump extended a previous deadline by three days."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Lula Calls Trump to Resume Talks Over US Tariffs on Brazil",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-21/lula-calls-trump-to-seek-renewed-talks-over-us-tariffs-on-brazil",
-     "author": "Simone Iglesias",
-     "kind": "news",
-     "published": "2026-08-21T16:54:52+00:00",
-     "summary": "President Luiz In\u00e1cio Lula da Silva urged Donald Trump to resume negotiations over US tariffs on Brazil during a Friday phone call, seeking to soothe relations with Washington ahead of the country\u2019s October election."
-    },
-    {
-     "outlet": "guardian",
-     "title": "Trump pauses Canada tariffs threat, and hints at revival of Keystone XL pipeline",
-     "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
-     "author": "Uwa Ede-Osifo",
-     "kind": "news",
-     "published": "2026-08-19T03:47:12+00:00",
-     "summary": "US president delays 50% tariffs by three days, and says contentious oil project \u2018may be awoken from the grave\u2019 Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agreement with Trump administration officials hours before a hike that would have affected $20bn worth of goods was set to take effect. Donald Trump posted late on Tuesday on social media that he had paused the tariffs for three days \u201cbased on the fact that Canada and the USA, subject to the finalization of documents, have a DEAL!\u201d Continue reading..."
-    }
-   ]
-  },
-  {
    "id": "5dcf2783f3",
    "topic": "World",
    "summary": "Two U.S. Army Corps of Engineers employees and four contractors were among eight killed this week when a charter plane crashed in southwestern Alaska , the military confirmed Friday. A twin-engine Cessna 441 got caught in fog Thursday as it flew from Anchorage bound for the Cape Newenham Long Range Radar Site. The identities of the passengers have yet to be released. The flight's two pilots also died. CHARTER PLANE CRASHES NEAR REMOTE RADAR SITE IN WESTERN ALASKA, KILLING ALL 8 ABOARD \"This is a devastating loss for our military family and the communities we serve,\" U.S. Air Force Lt. Gen. Robert Davis, commander of Alaskan Command, the Alaskan North American Aerospace Defense Command Region and Eleventh Air Force, said in a statement shared with Fox News Digital. \"These individuals were dedicated professionals carrying out a vital mission in a demanding environment. Our absolute\u2026",
@@ -1163,8 +975,8 @@
      "near",
      "people",
      "employees",
-     "released",
-     "southwestern"
+     "southwestern",
+     "released"
     ],
     "indie": [
      "small"
@@ -1253,17 +1065,17 @@
     "indieCount": 3,
     "big": [
      "letters",
-     "close",
+     "daily",
      "beast",
-     "daily"
+     "close"
     ],
     "indie": [
-     "latest",
-     "speech",
-     "democratic",
-     "suddenly",
      "ossoff",
-     "senator"
+     "suddenly",
+     "relationship",
+     "spotlight",
+     "democratic",
+     "speech"
     ]
    },
    "people": [],
@@ -1630,6 +1442,209 @@
    ]
   },
   {
+   "id": "c244d4ac91",
+   "topic": "Business & Economy",
+   "summary": "Former Canadian Trade Minister Mary Ng says she is hopeful the US and Canada can reach a trade agreement before Friday's deadline, pointing to positive signals from negotiators on both sides. Ng also says Canada should continue diversifying its trade relationships, pointing to opportunities across Asia including Japan, South Korea, Singapore and Indonesia. She speaks with Kailey Leinz on Bloomberg's 'Balance of Power.' (Source: Bloomberg)",
+   "summaryFrom": "bloomberg",
+   "emphasis": {
+    "bigCount": 3,
+    "indieCount": 2,
+    "big": [
+     "canadian",
+     "goods"
+    ],
+    "indie": [
+     "looms",
+     "work"
+    ]
+   },
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "Canada says more work needed as US trade deal deadline looms",
+   "updated": "2026-08-22T03:47:09+00:00",
+   "outletCount": 4,
+   "counts": {
+    "family": 3,
+    "pub": 2
+   },
+   "newsCount": 5,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "U.S. Says Canada Has Declined a Trade Deal to Stave Off Tariffs",
+     "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-deal-carney-canada.html",
+     "author": "Matina Stevis-Gridneff",
+     "kind": "news",
+     "published": "2026-08-22T03:47:09+00:00",
+     "summary": "United States trade representative Jamieson Greer said that it was a \u201cmissed opportunity for Canada.\u201d The surprising development means tariffs against $20 billion of Canadian goods come into effect at midnight."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "US-Canada Trade Talks Collapse, Triggering 50% Trump Tariffs",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-22/us-canada-trade-talks-collapse-triggering-trump-s-50-tariffs",
+     "author": "Alicia Diaz, Josh Wingrove and Jennifer A. Dlouhy",
+     "kind": "news",
+     "published": "2026-08-22T03:37:06+00:00",
+     "summary": "An agreement between the US and Canada to avert a fresh round of tariffs fell apart at the last minute, meaning the Trump administration will impose a 50% import tax on billions of dollars in Canadian goods."
+    },
+    {
+     "outlet": "dw",
+     "title": "Canada says more work needed as US trade deal deadline looms",
+     "url": "https://www.dw.com/en/canada-says-more-work-needed-as-us-trade-deal-deadline-looms/a-78466352?maca=en-rss-en-all-1573-rdf",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T01:26:00+00:00",
+     "summary": "Washington \u200cand Ottawa are pushing to finalize an agreement before steep new US tariffs were due to kick in on Saturday. President Donald Trump has said the US \"should be able to have a deal with Canada.\""
+    },
+    {
+     "outlet": "bbc",
+     "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+     "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T00:40:47+00:00",
+     "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "'Hopeful' US. Canada Will Reach Deal: Fmr. Trade Official",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-21/-hopeful-us-canada-can-reach-deal-fmr-trade-official-video",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T22:42:28+00:00",
+     "summary": "Former Canadian Trade Minister Mary Ng says she is hopeful the US and Canada can reach a trade agreement before Friday's deadline, pointing to positive signals from negotiators on both sides. Ng also says Canada should continue diversifying its trade relationships, pointing to opportunities across Asia including Japan, South Korea, Singapore and Indonesia. She speaks with Kailey Leinz on Bloomberg's 'Balance of Power.' (Source: Bloomberg)"
+    }
+   ]
+  },
+  {
+   "id": "a1137355de",
+   "topic": "World",
+   "summary": "People walk past damaged cars amid debris in a residential area hit by Russian strikes on August 20, 2026 in Kyiv, Ukraine. Photo by Ihor Kuznietsov/Global Images Ukraine via Getty Images. Thursday, August 20, 2026 \u2013 Fifty Bodies recovered in Gaza City. Report: 94% of households in Gaza need shelter aid. Human Rights Watch: Israeli settler violence has displaced 107 West Bank communities since 2023. Israel opens bidding for 1,234 units within settlement project, cutting northern West Bank from south. Israeli settlers injure nine Palestinians as attacks continue across occupied West Bank. World Central Kitchen condemns Israeli decision to close probe into killing of its workers in Gaza. President Donald Trump calls for \u201ceconomic D-Day against Iran\u201d; Iran calls it diversion from U.S. debt crisis. U.S. officials make dubious claims about Hormuz traffic. Iraq asks Iran for eased oil\u2026",
+   "summaryFrom": "dropsite",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "family"
+   ],
+   "headline": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+   "updated": "2026-08-22T03:17:29+00:00",
+   "outletCount": 4,
+   "counts": {
+    "pub": 2,
+    "coop": 1,
+    "nonprofit": 1
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": true,
+   "articles": [
+    {
+     "outlet": "bbc",
+     "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+     "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T03:17:29+00:00",
+     "summary": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall."
+    },
+    {
+     "outlet": "france24",
+     "title": "Deadly 'double-tap' Russian drone strikes target Ukraine shopping centre",
+     "url": "https://www.france24.com/en/europe/20260821-back-to-back-russian-drone-strikes-kill-14-people-in-ukraine-shopping-centre",
+     "author": "FRANCE 24",
+     "kind": "news",
+     "published": "2026-08-21T18:07:50+00:00",
+     "summary": "A pair of Russian drone strikes that hit a shopping centre in the Ukrainian city of Kryvyi Rih Friday killed at least 15 people and wounded scores more, authorities said. Ukrainian President Volodymyr Zelensky accused Moscow of targeting emergency workers in what's known as a \"double-tap\" strike, with the second drone reportedly striking the mall half an hour after the first."
+    },
+    {
+     "outlet": "dropsite",
+     "title": "U.S. national debt tops $40 trillion; Russian strikes kill 16 in Ukraine; Ecuador\u2019s intelligence chief killed in Kenya helicopter crash",
+     "url": "https://www.dropsitenews.com/p/us-national-debt-russia-ukraine-kyiv-ecuador-intelligence-chief-helicopter-crash",
+     "author": "Drop Site News",
+     "kind": "news",
+     "published": "2026-08-20T15:21:11+00:00",
+     "summary": "People walk past damaged cars amid debris in a residential area hit by Russian strikes on August 20, 2026 in Kyiv, Ukraine. Photo by Ihor Kuznietsov/Global Images Ukraine via Getty Images. Thursday, August 20, 2026 \u2013 Fifty Bodies recovered in Gaza City. Report: 94% of households in Gaza need shelter aid. Human Rights Watch: Israeli settler violence has displaced 107 West Bank communities since 2023. Israel opens bidding for 1,234 units within settlement project, cutting northern West Bank from south. Israeli settlers injure nine Palestinians as attacks continue across occupied West Bank. World Central Kitchen condemns Israeli decision to close probe into killing of its workers in Gaza. President Donald Trump calls for \u201ceconomic D-Day against Iran\u201d; Iran calls it diversion from U.S. debt crisis. U.S. officials make dubious claims about Hormuz traffic. Iraq asks Iran for eased oil exporting rules. Ansarallah claims \u201ccomprehensive blockade\u201d of Saudi tankers. Israel continues ceasefire violations with shelling and demolitions across southern Lebanon. Lebanese Parliament speaker \u201cguarantees\u201d U.S. that Lebanese Army can assert control over south if Israel withdraws. UNIFIL hands over Kha"
+    },
+    {
+     "outlet": "guardian",
+     "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
+     "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
+     "author": "Associated Press",
+     "kind": "news",
+     "published": "2026-08-19T20:17:39+00:00",
+     "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department. Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Universal, and the director of Ecuador\u2019s national intelligence service. Continue reading..."
+    }
+   ]
+  },
+  {
+   "id": "b2e261f500",
+   "topic": "Politics",
+   "summary": "Republicans are struggling to reverse the damage President Donald Trump\u2019s immigration agenda has done with voters. With less than 90 days until the midterm election, the Trump administration has sought to keep Immigration and Customs Enforcement officials out of the headlines , pulling back on the high-profile, flashy raids in blue cities and minimizing public clashes with community members and protesters. But new results from The POLITICO Poll show that half of Americans, including nearly a quarter of Trump\u2019s 2024 voters, still say the president\u2019s mass deportation campaign is too aggressive. That\u2019s virtually unchanged from polling numbers in January and April, amid mounting political outrage over federal agents killing two U.S. citizens in Minneapolis. Non-MAGA Trump voters are twice as likely as self-identified MAGA voters to say the president\u2019s mass deportation campaign is too\u2026",
+   "summaryFrom": "politico",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Trump tries new midterm message to supporters: \u2018Pretend, please, that I\u2019m on the ballot\u2019",
+   "updated": "2026-08-22T03:01:06+00:00",
+   "outletCount": 4,
+   "counts": {
+    "corp": 2,
+    "family": 2
+   },
+   "newsCount": 4,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nbcnews",
+     "title": "Trump tries new midterm message to supporters: \u2018Pretend, please, that I\u2019m on the ballot\u2019",
+     "url": "https://www.nbcnews.com/politics/2026-election/trump-tries-new-midterm-message-pretend-i-am-on-the-ballot-rcna593849",
+     "author": "Kyla Guilfoil",
+     "kind": "news",
+     "published": "2026-08-22T03:01:06+00:00",
+     "summary": "US President Donald Trump during a campaign event for Senator Darline Graham Nordone, a Republican from South Carolina, not pictured, ahead of a Republican special primary runoff election at the Myrtle Beach Convention Center in Myrtle Beach, S.C., US, on Aug. 21, 2026."
+    },
+    {
+     "outlet": "nyt",
+     "title": "With Midterms Approaching, Trump Implores Republicans: Pretend I\u2019m on the Ballot!",
+     "url": "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html",
+     "author": "Shawn McCreesh",
+     "kind": "news",
+     "published": "2026-08-22T02:51:39+00:00",
+     "summary": "President Trump was in South Carolina to stump for Darline Graham, sister of Lindsey. But his own political future was on his mind, too."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Trump\u2019s New Midterm Pitch to Voters: Pretend I\u2019m on Ballot",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-21/trump-s-new-midterm-pitch-to-voters-pretend-i-m-on-the-ballot",
+     "author": "Hadriana Lowenkron and Catherine Lucey",
+     "kind": "news",
+     "published": "2026-08-21T23:54:40+00:00",
+     "summary": "President Donald Trump tried out a new campaign message on Friday, telling voters in South Carolina to \u201cpretend\u201d he was on the ballot and turn out to back his hand-picked candidate, Senator Darline Graham, in a contentious Republican primary."
+    },
+    {
+     "outlet": "politico",
+     "title": "Trump tries to quiet his mass deportation campaign. Voters aren\u2019t moving.",
+     "url": "https://www.politico.com/news/2026/08/19/poll-trump-deportations-voters-midterms-01041099",
+     "author": "By Myah Ward and Erin Doherty",
+     "kind": "news",
+     "published": "2026-08-19T09:00:00+00:00",
+     "summary": "Republicans are struggling to reverse the damage President Donald Trump\u2019s immigration agenda has done with voters. With less than 90 days until the midterm election, the Trump administration has sought to keep Immigration and Customs Enforcement officials out of the headlines , pulling back on the high-profile, flashy raids in blue cities and minimizing public clashes with community members and protesters. But new results from The POLITICO Poll show that half of Americans, including nearly a quarter of Trump\u2019s 2024 voters, still say the president\u2019s mass deportation campaign is too aggressive. That\u2019s virtually unchanged from polling numbers in January and April, amid mounting political outrage over federal agents killing two U.S. citizens in Minneapolis. Non-MAGA Trump voters are twice as likely as self-identified MAGA voters to say the president\u2019s mass deportation campaign is too aggressive \u2014 31 percent compared with 15 percent, according to the new poll, which was conducted Aug. 8 to Aug. 12. The persistence of that negative voter sentiment underscores a vulnerability for Republicans heading into November, as the party grapples with its message and policy approach on an issue the "
+    }
+   ]
+  },
+  {
    "id": "15ae946a4c",
    "topic": "Other",
    "summary": "A view over Lake Mead shows how far the lake's level has fallen. AP Photo/Ty ONeil In August 2026 the nation\u2019s two largest reservoirs, Lake Mead and Lake Powell, both on the Colorado River, hit their lowest levels since they first began to be filled in 1936 and 1963, respectively. The federal government and the seven Colorado River basin states \u2013 Arizona, California, Colorado, Nevada, New Mexico, Utah and Wyoming \u2013 have been unable to reach an agreement about who should reduce water usage by how much to avoid catastrophic declines in lake levels. And the existing plans and commitments, including a federal outline announced in late July 2026 , don\u2019t get close to achieving what\u2019s needed to keep the river flowing. Here\u2019s a look at the key issues making an agreement so hard to reach. Big cuts are needed To stabilize the Colorado River system, seven states and Mexico need to reduce annual\u2026",
@@ -1752,67 +1767,6 @@
    ]
   },
   {
-   "id": "908a5f6dd7",
-   "topic": "Health",
-   "summary": "The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental health challenges of prolonged confinement and isolation aboard an aircraft carrier. (Image credit: U.S. Navy)",
-   "summaryFrom": "npr",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "coop",
-    "pub"
-   ],
-   "headline": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
-   "updated": "2026-08-21T22:43:00+00:00",
-   "outletCount": 4,
-   "counts": {
-    "corp": 2,
-    "nonprofit": 1,
-    "family": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "cbsnews",
-     "title": "Latest on USS Lincoln as it heads home to San Diego",
-     "url": "https://www.cbsnews.com/video/latest-on-uss-lincoln-as-it-heads-home-to-san-diego/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T22:43:00+00:00",
-     "summary": "The USS Abraham Lincoln has left the Middle East and is cruising back to its home port of San Diego after a record-long deployment. CBS News' Charlie D'Agata has more."
-    },
-    {
-     "outlet": "npr",
-     "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
-     "url": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
-     "author": "Katia Riddle",
-     "kind": "news",
-     "published": "2026-08-21T09:00:00+00:00",
-     "summary": "The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental health challenges of prolonged confinement and isolation aboard an aircraft carrier. (Image credit: U.S. Navy)"
-    },
-    {
-     "outlet": "nbcnews",
-     "title": "USS Lincoln heads home after extended deployment to the Middle East",
-     "url": "https://www.nbcnews.com/politics/national-security/uss-lincoln-heads-home-extended-deployment-middle-east-rcna593639",
-     "author": "Kyla Guilfoil",
-     "kind": "news",
-     "published": "2026-08-21T00:50:14+00:00",
-     "summary": "Service members and their families had complained about deteriorating morale on the ship as its mission was extended to support the Iran war."
-    },
-    {
-     "outlet": "wapo",
-     "title": "New aircraft carrier arrives in Arabian Sea to replace long-stationed USS Abraham Lincoln",
-     "url": "https://www.washingtonpost.com/politics/2026/08/20/new-aircraft-carrier-arrives-arabian-sea-replace-long-stationed-uss-abraham-lincoln/",
-     "author": "Dan Lamothe",
-     "kind": "news",
-     "published": "2026-08-20T15:36:39+00:00",
-     "summary": "The USS George Washington is relieving a vessel that has gone months without a port stop."
-    }
-   ]
-  },
-  {
    "id": "a69e69ec26",
    "topic": "Other",
    "summary": "The attack took place at the Brinell School in the city of Fagersta, northwest of the capital, Stockholm, while classes were in session, with about 400 to 500 students, officials said.",
@@ -1870,67 +1824,6 @@
      "kind": "news",
      "published": "2026-08-21T17:03:43+00:00",
      "summary": "The attack took place at the Brinell School in the city of Fagersta, northwest of the capital, Stockholm, while classes were in session, with about 400 to 500 students, officials said."
-    }
-   ]
-  },
-  {
-   "id": "e2cb49de5e",
-   "topic": "Business & Economy",
-   "summary": "President Donald Trump takes a question from reporters during an event in the Oval Office of the White House in Washington, D.C., on Aug. 10, 2026. \u2014Anna Moneymaker\u2014Getty Images President Donald Trump announced on Friday that he has coordinated a new deal to lower beef prices in the U.S. \u201cToday, I concluded a deal to substantially lower the price of ground beef for working American families,\u201d he said in a Truth Social post . \u201cFor the next 90 days, the United States will allow up to 300,000 metric tons of product for ground beef to be imported with no out of quota tariff. We have a commitment that this beef will be sold at 25 percent below current market prices.\u201d \u201cThis deal will reduce prices for Americans while giving space for our Great American Beef Herd to grow again,\u201d he continued. An \u201cout of quota tariff\u201d is a higher tariff that is triggered if the amount of a product imported into\u2026",
-   "summaryFrom": "time",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit"
-   ],
-   "headline": "Trump waives \u2018out-of-quota\u2019 beef tariffs for 90 days to lower prices",
-   "updated": "2026-08-21T20:49:36+00:00",
-   "outletCount": 4,
-   "counts": {
-    "family": 3,
-    "pub": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nyt",
-     "title": "Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices",
-     "url": "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html",
-     "author": "Kevin Draper and Ana Swanson",
-     "kind": "news",
-     "published": "2026-08-21T20:49:36+00:00",
-     "summary": "The Trump administration has been looking for ways to address rising prices ahead of the midterm elections."
-    },
-    {
-     "outlet": "bloomberg",
-     "title": "Trump Eases Tariffs on Ground Beef | Radio Balance of Power: Early Edition 8/21/2026",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-21/radio-balance-of-power-early-edition-8-21-2026-video",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T19:43:15+00:00",
-     "summary": "On the early edition of Balance of Power, Bloomberg Washington Correspondent Kailey Leinz discusses the latest from the Trump Administration. On today's show, former Deputy US Trade Representative Sarah Bianchi, Stonecourt Capital Partner Rick Davis, Brownstein Hyatt Farber Schreck Partner Sarah Mercer and former US National Security Advisor John Bolton. (Source: Bloomberg)"
-    },
-    {
-     "outlet": "aljazeera",
-     "title": "Trump waives \u2018out-of-quota\u2019 beef tariffs for 90 days to lower prices",
-     "url": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T19:42:51+00:00",
-     "summary": "The president did not mention with whom he made the deal or where the imported ground beef is coming from."
-    },
-    {
-     "outlet": "time",
-     "title": "With Beef Costs Skyrocketing, Trump Announces a Tariff Deal Aimed at Lowering Prices",
-     "url": "https://time.com/article/2026/08/21/beef-prices-trump-deal-tariffs/",
-     "author": "Chantelle Lee",
-     "kind": "news",
-     "published": "2026-08-21T19:28:12+00:00",
-     "summary": "President Donald Trump takes a question from reporters during an event in the Oval Office of the White House in Washington, D.C., on Aug. 10, 2026. \u2014Anna Moneymaker\u2014Getty Images President Donald Trump announced on Friday that he has coordinated a new deal to lower beef prices in the U.S. \u201cToday, I concluded a deal to substantially lower the price of ground beef for working American families,\u201d he said in a Truth Social post . \u201cFor the next 90 days, the United States will allow up to 300,000 metric tons of product for ground beef to be imported with no out of quota tariff. We have a commitment that this beef will be sold at 25 percent below current market prices.\u201d \u201cThis deal will reduce prices for Americans while giving space for our Great American Beef Herd to grow again,\u201d he continued. An \u201cout of quota tariff\u201d is a higher tariff that is triggered if the amount of a product imported into the U.S. exceeds a certain quantity. Read More: Why Ground Beef Prices Are Hitting Record-Highs in the U.S. It\u2019s unclear who the deal is with or which countries will be importing the beef into the U.S. A White House official told TIME that Trump secured an agreement with foreign beef exporters to se"
     }
    ]
   },
@@ -2069,8 +1962,8 @@
      "million"
     ],
     "indie": [
-     "case",
      "libel",
+     "case",
      "lost"
     ]
    },
@@ -2191,131 +2084,54 @@
    ]
   },
   {
-   "id": "642b045b98",
-   "topic": "World",
-   "summary": "Zelenskyy described the attack as a double-tap strike, in which an initial wave of drones hit the area, followed by a second wave as rescue workers responded.",
-   "summaryFrom": "cbsnews",
-   "emphasis": {
-    "bigCount": 2,
-    "indieCount": 2,
-    "big": [],
-    "indie": [
-     "drone"
-    ]
-   },
+   "id": "703be348dd",
+   "topic": "Business & Economy",
+   "summary": "Mark Carney is doing what no previous Canadian leader has done by accepting that President Donald Trump can impose tariffs despite the terms of the North American trade pact, the country\u2019s former deputy prime minister said.",
+   "summaryFrom": "bloomberg",
+   "emphasis": null,
    "people": [],
    "absent": [
-    "family",
     "coop",
-    "nonprofit"
+    "nonprofit",
+    "pub"
    ],
-   "headline": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
-   "updated": "2026-08-22T01:47:54+00:00",
+   "headline": "Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion",
+   "updated": "2026-08-22T03:48:17+00:00",
    "outletCount": 3,
    "counts": {
-    "pub": 2,
-    "corp": 2
+    "corp": 2,
+    "family": 1
    },
-   "newsCount": 4,
+   "newsCount": 3,
    "opinionCount": 0,
    "underreported": false,
    "articles": [
     {
-     "outlet": "bbc",
-     "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
-     "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+     "outlet": "nbcnews",
+     "title": "Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion",
+     "url": "https://www.nbcnews.com/business/economy/trump-canada-tariffs-carney-rcna593510",
+     "author": "Steve Kopack",
+     "kind": "news",
+     "published": "2026-08-22T03:48:17+00:00",
+     "summary": "Canadian Prime Minister Mark Carney appears ready to authorize retaliatory measures in response to the latest import duties from Washington, potentially triggering an escalatory trade war with the United States."
+    },
+    {
+     "outlet": "abcnews",
+     "title": "Trump's proposed tariffs on Canada hurtle toward deadline amid trade talks",
+     "url": "https://abcnews.com/Business/trumps-proposed-tariffs-canada-hurtle-deadline-amid-trade/story?id=135833861",
      "author": null,
      "kind": "news",
-     "published": "2026-08-22T01:47:54+00:00",
-     "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head."
+     "published": "2026-08-21T18:11:05+00:00",
+     "summary": "The tariffs are set to take effect early Saturday morning, after Trump extended a previous deadline by three days."
     },
     {
-     "outlet": "aljazeera",
-     "title": "Several killed in Russia\u2019s \u2018double-tap\u2019 drone strike on Ukraine mall",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
-     "author": null,
+     "outlet": "bloomberg",
+     "title": "Trade Deal to Leave \u2018Bad Outcome\u2019 for Canada and US, Ex-Minister Says",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-21/trade-deal-to-leave-bad-outcome-for-canada-and-us-ex-minister-says",
+     "author": "Melissa Shin",
      "kind": "news",
-     "published": "2026-08-22T00:06:48+00:00",
-     "summary": "Ukraine\u2019s president accuses Russia of a \u2018cowardly and deliberate\u2019 attack on a mall in his hometown of Kryvyi Rih."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Russian strike kills 15 people at shopping mall in Zelenskyy's hometown",
-     "url": "https://www.cbsnews.com/news/russia-drone-strike-ukraine-mall-kryvyi-rih/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T23:49:19+00:00",
-     "summary": "Zelenskyy described the attack as a double-tap strike, in which an initial wave of drones hit the area, followed by a second wave as rescue workers responded."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Russia attacks Ukrainian shopping mall, killing more than a dozen",
-     "url": "https://www.cbsnews.com/video/russia-attacks-ukrainian-shopping-mall-killing-more-than-a-dozen/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T23:45:14+00:00",
-     "summary": "A Russian attack on a shopping mall in Ukraine on Friday killed more than a dozen people and injured over 100. Aidan Stretch has the details."
-    }
-   ]
-  },
-  {
-   "id": "68870a51f8",
-   "topic": "World",
-   "summary": "People walk past damaged cars amid debris in a residential area hit by Russian strikes on August 20, 2026 in Kyiv, Ukraine. Photo by Ihor Kuznietsov/Global Images Ukraine via Getty Images. Thursday, August 20, 2026 \u2013 Fifty Bodies recovered in Gaza City. Report: 94% of households in Gaza need shelter aid. Human Rights Watch: Israeli settler violence has displaced 107 West Bank communities since 2023. Israel opens bidding for 1,234 units within settlement project, cutting northern West Bank from south. Israeli settlers injure nine Palestinians as attacks continue across occupied West Bank. World Central Kitchen condemns Israeli decision to close probe into killing of its workers in Gaza. President Donald Trump calls for \u201ceconomic D-Day against Iran\u201d; Iran calls it diversion from U.S. debt crisis. U.S. officials make dubious claims about Hormuz traffic. Iraq asks Iran for eased oil\u2026",
-   "summaryFrom": "dropsite",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "family"
-   ],
-   "headline": "Attack on Ukraine shopping centre that killed 16 is \u2018terror by design\u2019, says EU foreign policy chief",
-   "updated": "2026-08-22T01:12:32+00:00",
-   "outletCount": 3,
-   "counts": {
-    "nonprofit": 2,
-    "pub": 1,
-    "coop": 1
-   },
-   "newsCount": 4,
-   "opinionCount": 0,
-   "underreported": true,
-   "articles": [
-    {
-     "outlet": "guardian",
-     "title": "Attack on Ukraine shopping centre that killed 16 is \u2018terror by design\u2019, says EU foreign policy chief",
-     "url": "https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih",
-     "author": "Agence France-Presse",
-     "kind": "news",
-     "published": "2026-08-22T01:12:32+00:00",
-     "summary": "Kaja Kallas, the EU\u2019s top diplomat, threatens harshest sanctions yet on Russia after strike on Kryvyi Rih, the home town of Volodymyr Zelenskyy Russian drones have slammed into a busy shopping centre in central Ukraine, killing 16 people in an attack that Volodymyr Zelenskyy condemned as \u201ccynical and despicable\u201d. The EU\u2019s foreign policy chief, Kaja Kallas, condemned Friday\u2019s attack on Kryvyi Rih \u2013 the president\u2019s home town \u2013 as \u201cterror by design\u201d and said she was \u201cputting forward the most far-reaching Russia sanctions listings since the start of the war\u201d when ministers meet in Ireland next month. Continue reading..."
-    },
-    {
-     "outlet": "france24",
-     "title": "Deadly 'double-tap' Russian drone strikes target Ukraine shopping centre",
-     "url": "https://www.france24.com/en/europe/20260821-back-to-back-russian-drone-strikes-kill-14-people-in-ukraine-shopping-centre",
-     "author": "FRANCE 24",
-     "kind": "news",
-     "published": "2026-08-21T18:07:50+00:00",
-     "summary": "A pair of Russian drone strikes that hit a shopping centre in the Ukrainian city of Kryvyi Rih Friday killed at least 15 people and wounded scores more, authorities said. Ukrainian President Volodymyr Zelensky accused Moscow of targeting emergency workers in what's known as a \"double-tap\" strike, with the second drone reportedly striking the mall half an hour after the first."
-    },
-    {
-     "outlet": "dropsite",
-     "title": "U.S. national debt tops $40 trillion; Russian strikes kill 16 in Ukraine; Ecuador\u2019s intelligence chief killed in Kenya helicopter crash",
-     "url": "https://www.dropsitenews.com/p/us-national-debt-russia-ukraine-kyiv-ecuador-intelligence-chief-helicopter-crash",
-     "author": "Drop Site News",
-     "kind": "news",
-     "published": "2026-08-20T15:21:11+00:00",
-     "summary": "People walk past damaged cars amid debris in a residential area hit by Russian strikes on August 20, 2026 in Kyiv, Ukraine. Photo by Ihor Kuznietsov/Global Images Ukraine via Getty Images. Thursday, August 20, 2026 \u2013 Fifty Bodies recovered in Gaza City. Report: 94% of households in Gaza need shelter aid. Human Rights Watch: Israeli settler violence has displaced 107 West Bank communities since 2023. Israel opens bidding for 1,234 units within settlement project, cutting northern West Bank from south. Israeli settlers injure nine Palestinians as attacks continue across occupied West Bank. World Central Kitchen condemns Israeli decision to close probe into killing of its workers in Gaza. President Donald Trump calls for \u201ceconomic D-Day against Iran\u201d; Iran calls it diversion from U.S. debt crisis. U.S. officials make dubious claims about Hormuz traffic. Iraq asks Iran for eased oil exporting rules. Ansarallah claims \u201ccomprehensive blockade\u201d of Saudi tankers. Israel continues ceasefire violations with shelling and demolitions across southern Lebanon. Lebanese Parliament speaker \u201cguarantees\u201d U.S. that Lebanese Army can assert control over south if Israel withdraws. UNIFIL hands over Kha"
-    },
-    {
-     "outlet": "guardian",
-     "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
-     "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
-     "author": "Associated Press",
-     "kind": "news",
-     "published": "2026-08-19T20:17:39+00:00",
-     "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department. Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Universal, and the director of Ecuador\u2019s national intelligence service. Continue reading..."
+     "published": "2026-08-21T17:44:33+00:00",
+     "summary": "Mark Carney is doing what no previous Canadian leader has done by accepting that President Donald Trump can impose tariffs despite the terms of the North American trade pact, the country\u2019s former deputy prime minister said."
     }
    ]
   },
@@ -2420,58 +2236,6 @@
      "kind": "opinion",
      "published": "2026-08-21T09:45:33+00:00",
      "summary": null
-    }
-   ]
-  },
-  {
-   "id": "df505c0bd3",
-   "topic": "Politics",
-   "summary": "President Trump defended Sen. Darline Graham (R-S.C.) on Friday following her stumble on a national security question during the Palmetto State's GOP Senate primary debate this week. The president offered his support to Graham as he was on his way to Myrtle Beach, S.C., where he's set to rally alongside her Friday evening, just days...",
-   "summaryFrom": "thehill",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "family",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Trump Calls Darline Graham's Debate Answer 'Honest' as They Rally Together",
-   "updated": "2026-08-22T00:02:55+00:00",
-   "outletCount": 3,
-   "counts": {
-    "corp": 3
-   },
-   "newsCount": 3,
-   "opinionCount": 0,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "newsweek",
-     "title": "Trump Calls Darline Graham's Debate Answer 'Honest' as They Rally Together",
-     "url": "https://www.newsweek.com/trump-calls-darline-graham-debate-answer-honest-as-they-rally-together-12355165",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-22T00:02:55+00:00",
-     "summary": "The rally comes just days before South Carolina Republicans vote in the runoff between Graham and Norman."
-    },
-    {
-     "outlet": "thehill",
-     "title": "Trump defends Darline Graham's Taiwan response: 'She was being honest'",
-     "url": "https://thehill.com/homenews/campaign/6044561-donald-trump-darline-graham-defense-debate-mistake/",
-     "author": "Joshua Feldstein",
-     "kind": "news",
-     "published": "2026-08-21T22:56:00+00:00",
-     "summary": "President Trump defended Sen. Darline Graham (R-S.C.) on Friday following her stumble on a national security question during the Palmetto State's GOP Senate primary debate this week. The president offered his support to Graham as he was on his way to Myrtle Beach, S.C., where he's set to rally alongside her Friday evening, just days..."
-    },
-    {
-     "outlet": "cbsnews",
-     "title": "Trump campaigning for Darline Graham after debate gaffe",
-     "url": "https://www.cbsnews.com/video/trump-campaigning-for-darline-graham-after-debate-gaffe/",
-     "author": null,
-     "kind": "news",
-     "published": "2026-08-21T22:36:00+00:00",
-     "summary": "President Trump is in South Carolina Friday night to campaign for Sen. Darline Graham as she continues her campaign for a full term in her late brother Lindsey Graham's Senate seat. CBS News' Nikole Killion reports."
     }
    ]
   },
@@ -2953,6 +2717,58 @@
    ]
   },
   {
+   "id": "7e619f834f",
+   "topic": "Business & Economy",
+   "summary": "President Donald Trump takes a question from reporters during an event in the Oval Office of the White House in Washington, D.C., on Aug. 10, 2026. \u2014Anna Moneymaker\u2014Getty Images President Donald Trump announced on Friday that he has coordinated a new deal to lower beef prices in the U.S. \u201cToday, I concluded a deal to substantially lower the price of ground beef for working American families,\u201d he said in a Truth Social post . \u201cFor the next 90 days, the United States will allow up to 300,000 metric tons of product for ground beef to be imported with no out of quota tariff. We have a commitment that this beef will be sold at 25 percent below current market prices.\u201d \u201cThis deal will reduce prices for Americans while giving space for our Great American Beef Herd to grow again,\u201d he continued. An \u201cout of quota tariff\u201d is a higher tariff that is triggered if the amount of a product imported into\u2026",
+   "summaryFrom": "time",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices",
+   "updated": "2026-08-21T20:49:36+00:00",
+   "outletCount": 3,
+   "counts": {
+    "family": 3
+   },
+   "newsCount": 3,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "nyt",
+     "title": "Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices",
+     "url": "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html",
+     "author": "Kevin Draper and Ana Swanson",
+     "kind": "news",
+     "published": "2026-08-21T20:49:36+00:00",
+     "summary": "The Trump administration has been looking for ways to address rising prices ahead of the midterm elections."
+    },
+    {
+     "outlet": "bloomberg",
+     "title": "Trump Eases Tariffs on Ground Beef | Radio Balance of Power: Early Edition 8/21/2026",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-21/radio-balance-of-power-early-edition-8-21-2026-video",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-21T19:43:15+00:00",
+     "summary": "On the early edition of Balance of Power, Bloomberg Washington Correspondent Kailey Leinz discusses the latest from the Trump Administration. On today's show, former Deputy US Trade Representative Sarah Bianchi, Stonecourt Capital Partner Rick Davis, Brownstein Hyatt Farber Schreck Partner Sarah Mercer and former US National Security Advisor John Bolton. (Source: Bloomberg)"
+    },
+    {
+     "outlet": "time",
+     "title": "With Beef Costs Skyrocketing, Trump Announces a Tariff Deal Aimed at Lowering Prices",
+     "url": "https://time.com/article/2026/08/21/beef-prices-trump-deal-tariffs/",
+     "author": "Chantelle Lee",
+     "kind": "news",
+     "published": "2026-08-21T19:28:12+00:00",
+     "summary": "President Donald Trump takes a question from reporters during an event in the Oval Office of the White House in Washington, D.C., on Aug. 10, 2026. \u2014Anna Moneymaker\u2014Getty Images President Donald Trump announced on Friday that he has coordinated a new deal to lower beef prices in the U.S. \u201cToday, I concluded a deal to substantially lower the price of ground beef for working American families,\u201d he said in a Truth Social post . \u201cFor the next 90 days, the United States will allow up to 300,000 metric tons of product for ground beef to be imported with no out of quota tariff. We have a commitment that this beef will be sold at 25 percent below current market prices.\u201d \u201cThis deal will reduce prices for Americans while giving space for our Great American Beef Herd to grow again,\u201d he continued. An \u201cout of quota tariff\u201d is a higher tariff that is triggered if the amount of a product imported into the U.S. exceeds a certain quantity. Read More: Why Ground Beef Prices Are Hitting Record-Highs in the U.S. It\u2019s unclear who the deal is with or which countries will be importing the beef into the U.S. A White House official told TIME that Trump secured an agreement with foreign beef exporters to se"
+    }
+   ]
+  },
+  {
    "id": "1aae63b74e",
    "topic": "Other",
    "summary": "The US national debt recently passed $40 trillion for the first time. Mandel NGAN / AFP via Getty Images The US national debt topped $40 trillion this week, potentially impacting consumer interest rates. Treasury Secretary Scott Bessent is using debt buybacks to manage high bond yields. Rising federal debt since 2015 has increased loan costs and could continue to impact consumer loans. Owing $40 trillion might sound daunting. But for the American government, ballooning debt has become the new business as usual \u2014 even if it takes a bite out of consumers' wallets . On Wednesday, the Treasury Department announced that the national debt had reached over $40 trillion, up by more than $11 trillion over the last five years. Also this week, Treasury Secretary Scott Bessent stepped in to try to ease skyrocketing yields \u2014 the 30-year US Treasury yield hit its highest level since June 2007, as\u2026",
@@ -3317,6 +3133,49 @@
    ]
   },
   {
+   "id": "cae9fbc7c2",
+   "topic": "Politics",
+   "summary": "Travelers arriving from international flights outside the U.S. Customs and Border Protection exit at Kennedy International Airport in New York last year.",
+   "summaryFrom": "nyt",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "corp",
+    "coop",
+    "nonprofit"
+   ],
+   "headline": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
+   "updated": "2026-08-22T03:19:58+00:00",
+   "outletCount": 2,
+   "counts": {
+    "pub": 1,
+    "family": 1
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "aljazeera",
+     "title": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
+     "url": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T03:19:58+00:00",
+     "summary": "A federal judge in Manhattan ruled against the State Department's suspension of immigrant visas."
+    },
+    {
+     "outlet": "nyt",
+     "title": "Judge Strikes Down Trump\u2019s 75-Country Visa Ban",
+     "url": "https://www.nytimes.com/2026/08/21/us/politics/judge-trump-75-country-visa-ban.html",
+     "author": "Mattathias Schwartz",
+     "kind": "news",
+     "published": "2026-08-22T02:12:16+00:00",
+     "summary": "Travelers arriving from international flights outside the U.S. Customs and Border Protection exit at Kennedy International Airport in New York last year."
+    }
+   ]
+  },
+  {
    "id": "9df51bfc1d",
    "topic": "Other",
    "summary": "11 people were busted for possession and distribution of kiddie porn aboard two different cruise ships in Boston on Friday \u2014 the third takedown of an allegedly pedophile-infected cruise ship this year.",
@@ -3532,49 +3391,6 @@
    ]
   },
   {
-   "id": "882dcad350",
-   "topic": "Politics",
-   "summary": "Mr. Newsom, the governor of California, normally has harsh words for President Trump. But he called the new children\u2019s savings accounts \u201cone of the best things\u201d the president has done.",
-   "summaryFrom": "nyt",
-   "emphasis": null,
-   "people": [],
-   "absent": [
-    "corp",
-    "coop",
-    "nonprofit",
-    "pub"
-   ],
-   "headline": "Trump to the rescue for California drivers \u2014 despite Gavin Newsom",
-   "updated": "2026-08-22T01:46:06+00:00",
-   "outletCount": 2,
-   "counts": {
-    "family": 2
-   },
-   "newsCount": 1,
-   "opinionCount": 1,
-   "underreported": false,
-   "articles": [
-    {
-     "outlet": "nypost",
-     "title": "Trump to the rescue for California drivers \u2014 despite Gavin Newsom",
-     "url": "https://nypost.com/2026/08/21/opinion/trump-to-rescue-california-drivers-gavin-newsom-hardest-hit/",
-     "author": "Bruce Bialosky",
-     "kind": "opinion",
-     "published": "2026-08-22T01:46:06+00:00",
-     "summary": "Gavin Newsom and the state Legislature are trying everything they can to increase the cost of gas at the pump for Californians."
-    },
-    {
-     "outlet": "nyt",
-     "title": "Trump Accounts Get an Unlikely Endorser: Gavin Newsom",
-     "url": "https://www.nytimes.com/2026/08/21/us/politics/newsom-trump-accounts.html",
-     "author": "Laurel Rosenhall",
-     "kind": "news",
-     "published": "2026-08-22T00:01:45+00:00",
-     "summary": "Mr. Newsom, the governor of California, normally has harsh words for President Trump. But he called the new children\u2019s savings accounts \u201cone of the best things\u201d the president has done."
-    }
-   ]
-  },
-  {
    "id": "16e3ba08bc",
    "topic": "Politics",
    "summary": "The next chapter of likely future Naismith Basketball Hall of Famer Klay Thompson\u2019s career appears set to unfold in Miami, where he is expected to suit up for the Heat during the 2026-27 NBA season. The five-time NBA All-Star will reportedly sign with the Heat after clearing waivers following a contract buyout with the Dallas Mavericks, according to ESPN. Thompson, a four-time NBA champion, could ink a two-year contract worth nearly $13 million, sources told ESPN on Friday. The 36-year-old was scheduled to make $17.5 million in the final season of his contract with Dallas before the two sides agreed to part ways. The Mavs confirmed the roster move Friday. ZERO BS. JUST DAKICH. TAKE THE DON'T @ ME PODCAST ON THE ROAD. DOWNLOAD NOW! After a 13-season run with the Golden State Warriors , Thompson joined the Mavericks following the 2023-24 season via a sign-and-trade deal. He spent the next\u2026",
@@ -3700,6 +3516,49 @@
      "kind": "news",
      "published": "2026-08-21T22:34:00+00:00",
      "summary": "The body of Alisa Goods, a New York grandmother who went missing while visiting Las Vegas, has been found after more than a week, her sister told CBS News' Alice Gainer."
+    }
+   ]
+  },
+  {
+   "id": "df505c0bd3",
+   "topic": "Politics",
+   "summary": "President Trump defended Sen. Darline Graham (R-S.C.) on Friday following her stumble on a national security question during the Palmetto State's GOP Senate primary debate this week. The president offered his support to Graham as he was on his way to Myrtle Beach, S.C., where he's set to rally alongside her Friday evening, just days...",
+   "summaryFrom": "thehill",
+   "emphasis": null,
+   "people": [],
+   "absent": [
+    "family",
+    "coop",
+    "nonprofit",
+    "pub"
+   ],
+   "headline": "Trump Calls Darline Graham's Debate Answer 'Honest' as They Rally Together",
+   "updated": "2026-08-22T00:02:55+00:00",
+   "outletCount": 2,
+   "counts": {
+    "corp": 2
+   },
+   "newsCount": 2,
+   "opinionCount": 0,
+   "underreported": false,
+   "articles": [
+    {
+     "outlet": "newsweek",
+     "title": "Trump Calls Darline Graham's Debate Answer 'Honest' as They Rally Together",
+     "url": "https://www.newsweek.com/trump-calls-darline-graham-debate-answer-honest-as-they-rally-together-12355165",
+     "author": null,
+     "kind": "news",
+     "published": "2026-08-22T00:02:55+00:00",
+     "summary": "The rally comes just days before South Carolina Republicans vote in the runoff between Graham and Norman."
+    },
+    {
+     "outlet": "thehill",
+     "title": "Trump defends Darline Graham's Taiwan response: 'She was being honest'",
+     "url": "https://thehill.com/homenews/campaign/6044561-donald-trump-darline-graham-defense-debate-mistake/",
+     "author": "Joshua Feldstein",
+     "kind": "news",
+     "published": "2026-08-21T22:56:00+00:00",
+     "summary": "President Trump defended Sen. Darline Graham (R-S.C.) on Friday following her stumble on a national security question during the Palmetto State's GOP Senate primary debate this week. The president offered his support to Graham as he was on his way to Myrtle Beach, S.C., where he's set to rally alongside her Friday evening, just days..."
     }
    ]
   },
