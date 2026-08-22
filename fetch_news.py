@@ -51,6 +51,7 @@ OUT = ROOT / "stories.json"
 FEED_OUT = ROOT / "feed.xml"
 UNDER_OUT = ROOT / "underreported.xml"
 HIST_OUT = ROOT / "history.json"
+FACTS_IN = ROOT / "factchecks.json"
 
 WINDOW_HOURS = 72          # only cluster articles this recent
 MAX_STORIES = 60           # stories shown on the site
@@ -267,7 +268,81 @@ def emphasis(arts, outlets):
             "big": only_big, "indie": only_indie}
 
 
+# Never match on these alone: common nouns, titles, and organisation words that
+# appear as the last token of a claimant string ("Republican Party", "Example Senator").
+SURNAME_STOP = {
+    # ordinary words that are also surnames
+    "green", "white", "black", "brown", "young", "long", "price", "cost", "power",
+    "west", "north", "south", "east", "hunt", "field", "moore", "king", "bishop",
+    "church", "law", "rich", "post", "times", "mark", "bill", "grant", "banks",
+    "bell", "cook", "fisher", "gray", "hill", "lane", "page", "reed", "stone",
+    "wood", "ward", "may", "will", "best", "case", "close", "still", "wells",
+    # titles and roles
+    "senator", "governor", "president", "mayor", "judge", "justice", "secretary",
+    "general", "chief", "minister", "premier", "chancellor", "ambassador",
+    "representative", "congressman", "congresswoman", "councillor", "councilman",
+    "commissioner", "director", "chairman", "chairwoman", "speaker", "sheriff",
+    "attorney", "candidate", "official", "spokesman", "spokeswoman", "leader",
+    # organisation words
+    "party", "committee", "campaign", "department", "administration", "agency",
+    "association", "foundation", "institute", "council", "coalition", "group",
+    "network", "channel", "news", "media", "press", "board", "union", "society",
+    "company", "corporation", "center", "centre", "project", "action", "fund",
+    "pac", "super", "organization", "organisation", "office", "house", "senate",
+    "congress", "parliament", "government", "state", "county", "city",
+}
+# A lowercase connector inside a name means an organisation, not a person:
+# "Club for Growth", "Americans for Prosperity", "Sons of Liberty".
+ORG_CONNECTORS = {"for", "of", "and", "the", "&", "against", "with"}
+ORG_HINTS = ("party", "committee", "club", "pac", "campaign", "association", "foundation",
+             "institute", "council", "coalition", "network", "news", "media",
+             "group", "fund", "project", "center", "centre", "department",
+             "administration", "agency", "union", "society", "company", "corp",
+             "board", "office", "school", "university", "college")
+
+
+def load_people():
+    """Fact-check tallies plus the name keys we are willing to match on."""
+    try:
+        data = json.loads(FACTS_IN.read_text())
+    except Exception:
+        return {}, {}
+    people = data.get("people", {})
+    surnames = {}
+    for name in people:
+        low = name.lower()
+        parts = [w for w in re.split(r"\s+", name) if len(w) > 1]
+        # Only person-shaped names (2-3 words, no organisation words) contribute a
+        # surname key. Everything else must match on its full name.
+        if not (2 <= len(parts) <= 3) or any(h in low for h in ORG_HINTS):
+            continue
+        if any(w.lower() in ORG_CONNECTORS for w in parts[1:-1]):
+            continue
+        last = parts[-1].lower().strip(".,")
+        if len(last) >= 4 and last not in SURNAME_STOP:
+            surnames.setdefault(last, []).append(name)
+    # a surname is usable only when it points at exactly one person
+    keys = {n.lower(): n for n in people}
+    for last, owners in surnames.items():
+        if len(owners) == 1:
+            keys[last] = owners[0]
+    return people, keys
+
+
+def match_people(text, keys):
+    """Names appearing in a story's own words. Word-boundary matched, so
+    'Sanders' does not fire inside 'Saunders'."""
+    low = " " + re.sub(r"[^a-z0-9' ]+", " ", (text or "").lower()) + " "
+    hits = []
+    for key, name in keys.items():
+        if re.search(r"(?<![a-z])" + re.escape(key) + r"(?![a-z])", low):
+            if name not in hits:
+                hits.append(name)
+    return hits[:4]
+
+
 def shape(clusters, outlets):
+    people, name_keys = load_people()
     stories = []
     for c in clusters:
         arts = sorted(c["articles"], key=lambda x: x["published"], reverse=True)
@@ -289,12 +364,15 @@ def shape(clusters, outlets):
             summary = summary[:900].rsplit(" ", 1)[0] + "…"
         absent = [k for k in ("corp", "family", "coop", "nonprofit", "pub")
                   if not counts.get(k)]
+        matched = match_people(
+            " ".join(a["title"] for a in arts) + " " + (summary or ""), name_keys)
         stories.append({
             "id": sid,
             "topic": classify_topic(topic_src),
             "summary": summary,
             "summaryFrom": summary_from,
             "emphasis": emphasis(arts, outlets),
+            "people": matched,
             "absent": absent,
             "headline": lead["title"],
             "updated": arts[0]["published"],

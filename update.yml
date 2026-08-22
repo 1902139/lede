@@ -14,9 +14,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # One-time tidy: removes the leftover test fixtures from the original upload.
-      # Named explicitly (no wildcards) so it can only ever touch these files.
-      # After they're gone this step does nothing — safe to leave in place.
       - name: Remove leftover test files
         run: |
           rm -f bbc.xml defector.xml foxnews.xml guardian.xml \
@@ -28,10 +25,15 @@ jobs:
 
       - run: pip install feedparser
 
+      # Fact-check tallies for public figures. Self-limits to about once a day and
+      # skips entirely without a key. Runs before the fetch so stories can match names.
+      - name: Fact-check tallies (optional)
+        env:
+          GOOGLE_FACTCHECK_KEY: ${{ secrets.GOOGLE_FACTCHECK_KEY }}
+        run: python factchecks.py
+
       - run: python fetch_news.py
 
-      # Stage 2 article analysis. Skips itself silently unless you've added an
-      # ANTHROPIC_API_KEY secret (Settings -> Secrets and variables -> Actions).
       - name: Article analysis (optional)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

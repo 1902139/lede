@@ -252,6 +252,28 @@
   .fchip.on .dot { box-shadow: 0 0 0 1.5px var(--surface); }
   .result-note { font-size: 12.5px; color: var(--muted); margin-bottom: 12px; }
 
+  /* fact-checked people */
+  .fcbox { background: var(--surface); border: 1px solid var(--ring);
+    border-left: 4px solid var(--own-family); border-radius: 10px; padding: 16px 18px; margin-top: 18px; }
+  .fcbox h4 { font-size: 14px; color: var(--ink); font-weight: 700; margin-bottom: 4px; }
+  .fcbox .lede { font-size: 12.5px; color: var(--ink-2); margin-bottom: 12px; }
+  .fcp { padding: 11px 0; border-top: 1px solid var(--grid); }
+  .fcp:first-of-type { border-top: none; }
+  .fcp-top { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; margin-bottom: 7px; }
+  .fcp-name { font-weight: 700; font-size: 14px; }
+  .fcp-n { font-size: 12.5px; color: var(--muted); }
+  .fcbar { display: flex; height: 12px; border-radius: 4px; overflow: hidden; background: var(--page); max-width: 420px; }
+  .fcbar div { border-right: 2px solid var(--surface); }
+  .fcbar div:last-child { border-right: none; }
+  .fckey { display: flex; flex-wrap: wrap; gap: 4px 12px; margin-top: 6px; font-size: 11.5px; color: var(--ink-2); }
+  .fckey .li { display: flex; align-items: center; gap: 4px; }
+  .fcsw { width: 9px; height: 9px; border-radius: 2px; flex: none; }
+  .fcsamp { margin-top: 7px; font-size: 12.5px; color: var(--ink-2); }
+  .fcsamp a { color: inherit; }
+  .fcsamp li { margin-left: 17px; padding: 2px 0; }
+  .fcfoot { font-size: 11.5px; color: var(--muted); margin-top: 10px; }
+  @media (max-width: 640px) { .fcbar { max-width: 100%; } }
+
   /* corrections transparency */
   .corr { display: inline-flex; align-items: center; gap: 6px; font-size: 12.5px; font-weight: 700;
     border-radius: 99px; padding: 3px 11px; border: 1px solid; margin-top: 4px; }
@@ -362,7 +384,7 @@ function dec(v) {
   return out;
 }
 const txt = v => esc(dec(v));
-let OUTLETS = {}, STORIES = [], GENERATED = null, AUTHORS = {}, HISTORY = { days: [] };
+let OUTLETS = {}, STORIES = [], GENERATED = null, AUTHORS = {}, HISTORY = { days: [] }, FACTS = {};
 
 const FLAG_LABELS = {
   "sensational": "sensational headline",
@@ -419,6 +441,48 @@ function absentHTML(st) {
   return `<div class="absent-box"><h4>Not covered by</h4>
     ${a.map(k => `<div class="absent-row">${ownDot(k)}<span><b>${OWN_TYPES[k].label}</b> — no outlet of this kind in Lede's list covered this story.</span></div>`).join("")}
     <div class="emph-foot">Lede follows ${Object.keys(OUTLETS).length} outlets, not every outlet. An absence here means none of the ones we watch ran it.</div></div>`;
+}
+
+/* ---------- fact-checked people quoted in the news ---------- */
+const FC_ORDER = [
+  ["false",       "False",       "var(--own-family)"],
+  ["mostly-false","Mostly false","#e8a33d"],
+  ["mixed",       "Mixed",       "var(--muted)"],
+  ["mostly-true", "Mostly true", "#5fa8d3"],
+  ["true",        "True",        "var(--own-corp)"]
+];
+
+function factChecksHTML(st) {
+  const names = (st.people || []).filter(n => FACTS[n]);
+  if (!names.length) return "";
+  const rows = names.map(n => {
+    const p = FACTS[n];
+    const segs = FC_ORDER.map(([k,, col]) => {
+      const c = p.counts[k] || 0;
+      return c ? `<div style="width:${(c/p.total*100).toFixed(1)}%;background:${col}" title="${k}: ${c}"></div>` : "";
+    }).join("");
+    const key = FC_ORDER.filter(([k]) => p.counts[k]).map(([k, label, col]) =>
+      `<span class="li"><span class="fcsw" style="background:${col}"></span>${label} ${p.counts[k]}</span>`).join("");
+    const samples = (p.sample || []).slice(0, 2).map(x =>
+      `<li>“${txt(x.text)}” — <b>${txt(x.rating)}</b>,
+        <a href="${esc(x.url)}" target="_blank" rel="noopener">${txt(x.publisher)} ↗</a></li>`).join("");
+    return `<div class="fcp">
+      <div class="fcp-top"><span class="fcp-name">${txt(n)}</span>
+        <span class="fcp-n">${p.total} claims checked · ${p.falseShare}% rated false or mostly false</span></div>
+      <div class="fcbar">${segs}</div>
+      <div class="fckey">${key}</div>
+      ${samples ? `<ul class="fcsamp">${samples}</ul>` : ""}
+    </div>`;
+  }).join("");
+  return `<div class="fcbox">
+    <h4>People in this story that fact-checkers have rated</h4>
+    <div class="lede">Public claims these people have made — in speeches, interviews and posts —
+      that fact-checking organisations chose to examine.</div>
+    ${rows}
+    <div class="fcfoot">Via the Google Fact Check Tools API, aggregating PolitiFact, FactCheck.org,
+      Snopes, AFP and others. These ratings are about <b>the people quoted, not the journalists
+      reporting</b>, and they cover only claims someone chose to check — not everything a person
+      has said. Names are matched automatically and can occasionally be wrong.</div></div>`;
 }
 
 /* ---------- permalinks ---------- */
@@ -712,6 +776,7 @@ function openStory(id, fromHash) {
     <h2 class="view-title" style="font-size:21px">${txt(s.headline)}</h2>
     ${s.summary ? `<div class="detail-sum">${txt(s.summary)}<div class="src">Summary from ${esc((OUTLETS[s.summaryFrom] || OUTLETS[s.articles[0].outlet]).name)}'s own feed — not written by Lede</div></div>` : ""}
     ${ownBar(s.counts)}${chipRow(s)}
+    ${factChecksHTML(s)}
     ${emphasisHTML(s)}
     ${absentHTML(s)}
     <div style="height:16px"></div>
@@ -868,15 +933,17 @@ async function boot() {
       if (fallback !== undefined) return fallback;
       throw new Error("could not load " + name);
     };
-    const [own, data, auth, hist] = await Promise.all([
+    const [own, data, auth, hist, facts] = await Promise.all([
       grab("ownership.json"),
       grab("stories.json"),
       grab("authors.json", { authors: {} }),
-      grab("history.json", { days: [] })
+      grab("history.json", { days: [] }),
+      grab("factchecks.json", { people: {} })
     ]);
     OUTLETS = own.outlets;
     AUTHORS = auth.authors || {};
     HISTORY = hist || { days: [] };
+    FACTS = (facts && facts.people) || {};
     STORIES = data.stories || [];
     GENERATED = data.generated;
     $("#gen-badge").textContent = `Updated ${ago(GENERATED)} · ${data.feedsOk}/${data.feedsTotal} feeds`;
