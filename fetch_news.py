@@ -13,6 +13,7 @@ Requires: pip install feedparser
 """
 import argparse
 import hashlib
+import html as htmlmod
 import json
 import re
 import sys
@@ -112,6 +113,24 @@ def classify_topic(text):
     return best
 
 
+def clean_text(raw):
+    """Strip markup and decode HTML entities.
+
+    Feeds routinely double-encode: the XML holds '&amp;#8217;', feedparser decodes
+    it once to '&#8217;', and a single unescape leaves the code visible on the page.
+    Unescape, strip tags, unescape again, then tidy whitespace and stray artefacts.
+    """
+    if not raw:
+        return ""
+    t = htmlmod.unescape(str(raw))
+    t = re.sub(r"<[^>]+>", " ", t)
+    t = htmlmod.unescape(t)
+    t = re.sub(r"<[^>]+>", " ", t)
+    t = t.replace("\u00a0", " ").replace("\u200b", "")
+    t = re.sub(r"\s+", " ", t).strip()
+    return t
+
+
 def tokens(text):
     words = re.findall(r"[a-z0-9']+", (text or "").lower())
     return {w for w in words if len(w) > 2 and w not in STOPWORDS}
@@ -160,7 +179,7 @@ def fetch_all(outlets, fixtures=None):
                 ok = not parsed.get("bozo") or bool(parsed.get("entries"))
                 feed_report.append({"feed": src, "ok": ok, "entries": len(parsed.get("entries", []))})
                 for e in parsed.get("entries", [])[:40]:
-                    title = (e.get("title") or "").strip()
+                    title = clean_text(e.get("title"))
                     link = (e.get("link") or "").strip()
                     if not title or not link:
                         continue
@@ -171,8 +190,7 @@ def fetch_all(outlets, fixtures=None):
                     for c in (e.get("content") or []):
                         if isinstance(c, dict) and len(c.get("value", "")) > len(raw_sum):
                             raw_sum = c["value"]
-                    summary = re.sub(r"<[^>]+>", " ", raw_sum)
-                    summary = re.sub(r"\s+", " ", summary).strip()[:1200]
+                    summary = clean_text(raw_sum)[:1200]
                     articles.append({
                         "outlet": key,
                         "title": title,

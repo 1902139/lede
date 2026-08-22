@@ -252,6 +252,18 @@
   .fchip.on .dot { box-shadow: 0 0 0 1.5px var(--surface); }
   .result-note { font-size: 12.5px; color: var(--muted); margin-bottom: 12px; }
 
+  /* corrections transparency */
+  .corr { display: inline-flex; align-items: center; gap: 6px; font-size: 12.5px; font-weight: 700;
+    border-radius: 99px; padding: 3px 11px; border: 1px solid; margin-top: 4px; }
+  .corr.open { color: var(--good-text); border-color: var(--good-text); background: transparent; }
+  .corr.stale { color: #8a4a12; border-color: #d9a066; }
+  .corr.policy { color: var(--ink-2); border-color: var(--grid); }
+  .corr.none { color: var(--ink-2); border-color: var(--grid); }
+  .corr.unchecked { color: var(--muted); border-color: var(--grid); border-style: dashed; }
+  .corr-note { font-size: 12.5px; color: var(--ink-2); margin-top: 6px; }
+  .corr-note a { font-weight: 600; }
+  .corr-legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 12.5px; color: var(--ink-2); margin: 0 0 18px; }
+
   /* accountability record */
   .rec-box { margin-top: 4px; }
   .rec-item { display: flex; gap: 8px; font-size: 12.5px; color: var(--ink-2); padding: 3px 0; }
@@ -337,6 +349,19 @@ const OWN_TYPES = {
 const ORDER = ["corp","family","coop","nonprofit","pub"];
 const $ = (s, el=document) => el.querySelector(s);
 const esc = s => String(s ?? "").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/"/g,"&quot;");
+// Safety net: some feeds double-encode entities, leaving "&#8217;" visible as text.
+// The fetcher now decodes these, but decode again here so older data renders cleanly too.
+const _decBox = document.createElement("textarea");
+function dec(v) {
+  if (v == null) return "";
+  let out = String(v);
+  for (let i = 0; i < 2 && /&[#a-zA-Z0-9]+;/.test(out); i++) {
+    _decBox.innerHTML = out;
+    out = _decBox.value;
+  }
+  return out;
+}
+const txt = v => esc(dec(v));
 let OUTLETS = {}, STORIES = [], GENERATED = null, AUTHORS = {}, HISTORY = { days: [] };
 
 const FLAG_LABELS = {
@@ -491,6 +516,26 @@ function topicRow() {
   "none-found": ["?", "No public corrections policy found"]
 };
 
+const CORR_LABEL = {
+  open:      ["✔", "Publishes its corrections"],
+  stale:     ["◐", "Publishes corrections — archive not current"],
+  policy:    ["○", "Has a policy, publishes no log"],
+  none:      ["—", "No corrections page found"],
+  unchecked: ["?", "Not yet verified"]
+};
+
+function correctionsHTML(o) {
+  const c = o.corrections;
+  if (!c) return "";
+  const [icon, label] = CORR_LABEL[c.tier] || CORR_LABEL.unchecked;
+  const link = c.archive
+    ? `<a href="${esc(c.archive)}" target="_blank" rel="noopener">See their corrections ↗</a>`
+    : (c.policy ? `<a href="${esc(c.policy)}" target="_blank" rel="noopener">Read their policy ↗</a>` : "");
+  return `<h5>Corrections transparency</h5>
+    <span class="corr ${c.tier}">${icon} ${label}${c.structured ? " · machine-readable" : ""}</span>
+    <div class="corr-note">${esc(c.note)} ${link}</div>`;
+}
+
 function recordHTML(o) {
   const r = o.record;
   if (!r) return `<h5>Accountability record</h5><p style="font-size:12.5px;color:var(--muted)">Not yet researched for this outlet.</p>`;
@@ -498,10 +543,9 @@ function recordHTML(o) {
     ? `<div class="rec-box">${r.incidents.map(i =>
         `<div class="rec-item"><span class="rec-year">${i.year}</span><span>${esc(i.text)}</span></div>`).join("")}</div>`
     : `<div class="rec-clean">No major documented retraction, fabrication finding, or defamation settlement found.</div>`;
-  const pl = POLICY_LABEL[r.correctionsPolicy] || POLICY_LABEL["unclear"];
-  const pol = `<div class="pol ${r.correctionsPolicy}">${pl[0]} ${r.policyUrl
-      ? `<a href="${esc(r.policyUrl)}" target="_blank" rel="noopener">${pl[1]} ↗</a>` : pl[1]}</div>`;
-  return `<h5>Accountability record</h5>${inc}${pol}`;
+  // corrections policy is reported by correctionsHTML() from newer, verified research —
+  // showing the older field here too produced contradictory badges on the same card
+  return `<h5>Accountability record</h5>${inc}`;
 }
 
 function matches(st) {
@@ -608,8 +652,8 @@ function chipRow(s) {
 function storyCard(s) {
   return `<article class="card clickable" onclick="openStory('${s.id}')">
     <div class="story-meta">${s.topic ? `<span class="topic-tag">${esc(s.topic)}</span>` : ""}<span>${s.outletCount} outlet${s.outletCount>1?"s":""}</span><span>${ago(s.updated)}</span></div>
-    <div class="story-h">${esc(s.headline)}</div>
-    ${s.summary ? `<div class="story-sum">${esc(s.summary)}</div>` : ""}
+    <div class="story-h">${txt(s.headline)}</div>
+    ${s.summary ? `<div class="story-sum">${txt(s.summary)}</div>` : ""}
     ${ownBar(s.counts)}${chipRow(s)}</article>`;
 }
 
@@ -653,6 +697,7 @@ function ownPanel(o) {
     <div class="chain">${o.chain.map((n,j)=>`<span class="node">${esc(n)}</span>${j<o.chain.length-1?`<span class="arrow">→</span>`:""}`).join("")}</div>
     <h5>Other holdings</h5><p>${esc(o.holdings)}</p>
     <h5>Funding model</h5><p>${esc(o.funding)}</p>
+    ${correctionsHTML(o)}
     ${recordHTML(o)}</div>`;
 }
 
@@ -664,8 +709,8 @@ function openStory(id, fromHash) {
     <button class="back-btn" onclick="history.replaceState(null,'',location.pathname);show('feed')">← All stories</button>
     <button class="copy-btn" id="copy-btn" onclick="copyStoryLink('${s.id}')">Copy link to this story</button>
     <div class="story-meta">${s.topic ? `<span class="topic-tag">${esc(s.topic)}</span>` : ""}<span>${s.outletCount} outlet${s.outletCount>1?"s":""}</span><span>${ago(s.updated)}</span></div>
-    <h2 class="view-title" style="font-size:21px">${esc(s.headline)}</h2>
-    ${s.summary ? `<div class="detail-sum">${esc(s.summary)}<div class="src">Summary from ${esc((OUTLETS[s.summaryFrom] || OUTLETS[s.articles[0].outlet]).name)}'s own feed — not written by Lede</div></div>` : ""}
+    <h2 class="view-title" style="font-size:21px">${txt(s.headline)}</h2>
+    ${s.summary ? `<div class="detail-sum">${txt(s.summary)}<div class="src">Summary from ${esc((OUTLETS[s.summaryFrom] || OUTLETS[s.articles[0].outlet]).name)}'s own feed — not written by Lede</div></div>` : ""}
     ${ownBar(s.counts)}${chipRow(s)}
     ${emphasisHTML(s)}
     ${absentHTML(s)}
@@ -690,7 +735,7 @@ function openStory(id, fromHash) {
             <span class="a-own">${ownDot(o.type)}${OWN_TYPES[o.type].label}</span>
             ${byline}
           </div>
-          <div class="a-head"><a href="${esc(a.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">“${esc(a.title)}” <span class="ext">↗</span></a></div>
+          <div class="a-head"><a href="${esc(a.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">“${txt(a.title)}” <span class="ext">↗</span></a></div>
           ${chips ? `<div class="a-chips">${chips}</div>` : ""}
           <div class="a-expand-hint">Ownership file ▾ · ${ago(a.published)}</div>
         </div>
@@ -713,10 +758,24 @@ function renderUnder() {
 function renderOutlets() {
   $("#view-outlets").innerHTML = `
     <h2 class="view-title">Outlet files</h2>
-    <p class="view-intro">Every outlet we aggregate, with its ownership chain, funding model, and
-    <strong>accountability record</strong> — documented retractions, settlements, and corrections
-    policies, researched from published sources. <strong>No left–right score anywhere.</strong>
-    An empty record often just means a young or small outlet, not a better one.</p>
+    <p class="view-intro">Every outlet we aggregate, with its ownership chain, funding model,
+    <strong>accountability record</strong>, and <strong>corrections transparency</strong> — all
+    researched from published sources. <strong>No left–right score anywhere.</strong></p>
+    <div class="why-box" style="margin-bottom:18px">
+      <b>Why publishing corrections counts in an outlet's favour here.</b> Research on newsroom accuracy
+      finds roughly <b>97% of factual errors are never corrected at all</b> — of 1,220 stories found to
+      contain errors, fewer than 2% drew a correction. A long corrections archive therefore signals a
+      newsroom that <i>processes</i> mistakes, not one that makes more of them. Counting corrections as
+      demerits would punish exactly the outlets doing it right, so Lede rewards them instead.
+      NewsGuard takes the same position, awarding 12.5 of its 100 points for demonstrated correction
+      practice. Of the ${Object.keys(OUTLETS).length} outlets here, <b>${Object.values(OUTLETS).filter(o=>o.corrections&&o.corrections.tier==="open").length} publish a current public corrections archive</b>.
+      <span style="color:var(--muted)">"Not yet verified" means the outlet's own site blocked automated
+      checking — it is not a mark against them.</span>
+    </div>
+    <div class="corr-legend">
+      <span>✔ Publishes its corrections</span><span>◐ Archive not current</span>
+      <span>○ Policy only, no log</span><span>— None found</span><span>? Not yet verified</span>
+    </div>
     ${ORDER.map(cls => {
       const list = Object.values(OUTLETS).filter(o => o.type === cls)
         .sort((a,b) => a.name.localeCompare(b.name));
@@ -729,6 +788,7 @@ function renderOutlets() {
             <div class="chain" style="font-size:12px;margin-top:6px">${o.chain.slice(1).map((n,j)=>`<span class="node">${esc(n)}</span>${j<o.chain.length-2?`<span class="arrow">→</span>`:""}`).join("")}</div>
             <h5>Funding</h5><p>${esc(o.funding)}</p>
             <h5>Other holdings</h5><p>${esc(o.holdings)}</p>
+            ${correctionsHTML(o)}
             ${recordHTML(o)}
           </div>`).join("")}
       </div>`;
@@ -755,6 +815,13 @@ function renderAbout() {
         <div class="vs">Live now</div><h3>Underreported, by ownership</h3>
         <p>Instead of a left-vs-right "blindspot," we flag stories whose coverage is concentrated outside
         corporate and billionaire-owned media.</p>
+      </div>
+      <div class="card method-card" style="margin-bottom:0">
+        <div class="vs">Live now</div><h3>Corrections count in your favour</h3>
+        <p>Most rating systems treat corrections as errors. That's backwards: about <b>97% of factual
+        mistakes are never corrected</b>, so a big corrections archive marks a newsroom that owns its
+        errors. Lede checks whether each outlet publishes a real corrections log and <b>rewards the ones
+        that do</b> — a documented perverse incentive pushed the other way.</p>
       </div>
       <div class="card method-card" style="margin-bottom:0">
         <div class="vs">Live now</div><h3>Accountability, not scores</h3>
